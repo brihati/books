@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+  "chunk_id": "chapter-03-don-t-feel-their-pain-label-it-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+    "source_pages": "70-101",
+    "char_start": 20188,
+    "char_end": 27837,
+    "checksum": "4414b5c3a0f64f43"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+that in order to receive your tickets for the upcoming season opener against the New York Giants, you will need to pay your outstanding balance in full prior to September 10.” It was the stupidly aggressive, impersonal, tone-deaf style of communication that is the default for most business. It was all “me, me, me” from TJ, with no acknowledgment of the ticket holder’s situation. No empathy. No connection. Just give me the money. Maybe I don’t need to say it, but the script didn’t work. TJ left messages; no one called back. A few weeks into the class, TJ rewrote the script. These weren’t massive changes, and he didn’t offer the fans any discounts. What he did was add subtle tweaks to make the
+
+call about the fans, their situation, and their love of the team. Now the team was “YOUR Washington Redskins” and the purpose of the call was to ensure that the team’s most valuable fans—the delinquent customers—would be there at the season opener. “The home-field advantage created by you each and every Sunday at FedEx Field does not go unnoticed,” TJ wrote. He then told them, “In these difficult times, we understand our fans have been hit hard and we are here to work with you,” and asked the ticket holders to call back to talk through their “unique situation.” Though superficially simple, the changes TJ made in the script had a deep emotional resonance with the delinquent ticket holders. It mentioned their debt to the team but also acknowledged the team’s debt to them, and by labeling the tough economic times, and the stress they were causing, it diffused the biggest negative dynamic—their delinquency— and turned the issue into something solvable. The simple changes masked a complex understanding of empathy on TJ’s side. With the new script, TJ was able to set up payment plans with all the ticket holders before the Giants game. And the CFO’s next visit? Well, it was far less terse. CLEAR THE ROAD BEFORE ADVERTISING THE DESTINATION Remember the amygdala, the part of the brain that generates fear in reaction to threats? Well, the faster we can interrupt the amygdala’s reaction to real or imaginary threats, the faster we can clear the road of obstacles, and the quicker we can generate feelings of safety, well-being, and trust. We do that by labeling the fears. These labels are so powerful because they bathe the fears in sunlight, bleaching them of their power and showing our counterpart that we understand. Think back to that Harlem landing: I didn’t say, “It seems like you want us to let you go.” We could all agree on that. But that wouldn’t have diffused the real fear in the apartment, or shown that I empathized with the grim complexity of their situation. That’s why I went right at the amygdala and said, “It seems like you don’t want to go back to jail.” Once they’ve been labeled and brought into the open, the negative reactions in your counterpart’s amygdala will begin to soften. I promise it will shock you how suddenly his language turns from worry to optimism. Empathy is a powerful mood enhancer. The road is not always cleared so easily, so don’t be demoralized if this process seems to go slowly. The Harlem high-rise negotiation took six hours. Many of us wear fears upon fears, like layers against the cold, so getting to safety takes time. That was the experience of another one of my students, a fund-raiser for the Girl Scouts, who backed into naming her counterpart’s fears almost accidentally. We’re not talking about someone who sold Girl Scout cookies: my student was an experienced fund-raiser who regularly got donors to pony up $1,000 to $25,000 a check. Over the years, she’d developed a very successful system to get her “clients,” usually wealthy women, to open their checkbook. She’d invite a potential donor to her office, serve a few Girl Scouts cookies, walk her through an album of heartwarming snapshots and handwritten letters from projects that matched the woman’s profile, and then collect a check when the donor’s eyes lit up. It was almost easy. One day, though, she met the immovable donor. Once the woman sat down in her office, my student began to throw out the projects her research had said would fit. But the woman shook her head at one project after another. My student found herself growing perplexed at the difficult donor who had no interest in donating. But she held her emotion in check and reached back to a lesson from my recent class on labeling. “I’m sensing some hesitation with these projects,” she said in what she hoped was a level voice. As if she’d been uncorked, the woman exclaimed: “I want my gift to directly support programming for Girl Scouts and not anything else.” This helped focus the conversation, but as my student put forth project after project that seemed to fulfill the donor’s criteria, all she got was still rejection. Sensing the potential donor’s growing frustration, and wanting to end on a positive note so that they might be able to meet again, my student used another label. “It seems that you are really passionate about this gift and want to find the right project reflecting the opportunities and life-changing experiences the Girl Scouts gave you.” And with that, this “difficult” woman signed a check without even picking a specific project. “You understand me,” she said as she got up to leave. “I trust you’ll find the right project.” Fear of her money being misappropriated was the presenting dynamic that the first label uncovered. But the second label uncovered the underlying dynamic—her very presence in the office was driven by very specific memories of being a little Girl Scout and how it changed her life. The obstacle here wasn’t finding the right match for the woman. It wasn’t that she was this highly finicky, hard-to- please donor. The real obstacle was that this woman needed to feel that she was understood, that the person handling her money knew why she was in that office and understood the memories that were driving her actions. That’s why labels are so powerful and so potentially transformative to the state of any conversation. By digging beneath what seems like a mountain of quibbles, details, and logistics, labels help to uncover and identify the primary emotion driving almost all of your counterpart’s behavior, the emotion that, once acknowledged, seems to miraculously solve everything else. DO AN ACCUSATION AUDIT On the first day of negotiating class each semester, I march the group through an introductory exercise called “sixty seconds or she dies.” I play a hostage-taker and a student has to convince me to release my hostage within a minute. It’s an icebreaker that shows me the level of my students, and it reveals to them how much they need to learn. (Here’s a little secret: the hostage never gets out.) Sometimes students jump right in, but finding takers is usually hard because it means coming to the front of the class and competing with the guy who holds all the cards. If I just ask for a volunteer, my students sit on their hands and look away. You’ve been there. You can almost feel your back muscles tense as you think, Oh please, don’t call on me. So I don’t ask. Instead, I say, “In case you’re worried about volunteering to role-play with me in front of the class, I want to tell you in advance . . . it’s going to be horrible.” After the laughter dies down, I then say, “And those of you who do volunteer will probably get more out of this than anyone else.” I always end up with more volunteers than I need. Now, look at what I did: I prefaced the conversation by labeling my audience’s fears; how much worse can something be than “horrible”? I defuse them and wait,
+>>>

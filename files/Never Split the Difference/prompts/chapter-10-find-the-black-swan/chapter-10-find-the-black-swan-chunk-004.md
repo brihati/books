@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-10-find-the-black-swan",
+  "chunk_id": "chapter-10-find-the-black-swan-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 10 | FIND THE BLACK SWAN",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+    "source_pages": "281-322",
+    "char_start": 13287,
+    "char_end": 20967,
+    "checksum": "18efd454d82d9864"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+y oblivious to its importance. Your counterpart always has pieces of information whose value they do not understand. THE THREE TYPES OF LEVERAGE I’m going to come back to specific techniques for uncovering Black Swans, but first I’d like to examine what makes them so useful. The answer is leverage. Black Swans are leverage multipliers. They give you the upper hand. Now, “leverage” is the magic word, but it’s also one of those concepts that negotiation experts casually throw about but rarely delve into, so I’d like to do so here. In theory, leverage is the ability to inflict loss and withhold gain. Where does your counterpart want to gain and what do they fear losing? Discover these pieces of
+
+information, we are told, and you’ll build leverage over the other side’s perceptions, actions, and decisions. In practice, where our irrational perceptions are our reality, loss and gain are slippery notions, and it often doesn’t matter what leverage actually exists against you; what really matters is the leverage they think you have on them. That’s why I say there’s always leverage: as an essentially emotional concept, it can be manufactured whether it exists or not. If they’re talking to you, you have leverage. Who has leverage in a kidnapping? The kidnapper or the victim’s family? Most people think the kidnapper has all the leverage. Sure, the kidnapper has something you love, but you have something they lust for. Which is more powerful? Moreover, how many buyers do the kidnappers have for the commodity they are trying to sell? What business is successful if there’s only one buyer? Leverage has a lot of inputs, like time and necessity and competition. If you need to sell your house now, you have less leverage than if you don’t have a deadline. If you want to sell it but don’t have to, you have more. And if various people are bidding on it at once, good on you. I should note that leverage isn’t the same thing as power. Donald Trump has tons of power, but if he’s stranded in a desert and the owner of the only store for miles has the water he wants, the vendor has the leverage. One way to understand leverage is as a fluid that sloshes between the parties. As a negotiator you should always be aware of which side, at any given moment, feels they have the most to lose if negotiations collapse. The party who feels they have more to lose and are the most afraid of that loss has less leverage, and vice versa. To get leverage, you have to persuade your counterpart that they have something real to lose if the deal falls through. At a taxonomic level, there are three kinds: Positive, Negative, and Normative. POSITIVE LEVERAGE Positive leverage is quite simply your ability as a negotiator to provide—or withhold—things that your counterpart wants. Whenever the other side says, “I want . . .” as in, “I want to buy your car,” you have positive leverage. When they say that, you have power: you can make their desire come true; you can withhold it and thereby inflict pain; or you can use their desire to get a better deal with another party. Here’s an example: Three months after you’ve put your business on the market, a potential buyer finally tells you, “Yes, I’d like to buy it.” You’re thrilled, but a few days later your joy turns to disappointment when he delivers an offer so low it’s insulting. This is the only offer you have, so what do you do? Now, hopefully you’ve had contact with other buyers, even casually. If you have, you can use the offer to create a sense of competition, and thereby kick off a bidding war. At least you’ll force them to make a choice. But even if you don’t have other offers or the interested buyer is your first choice, you have more power than before your counterpart revealed his desire. You control what they want. That’s why experienced negotiators delay making offers—they don’t want to give up leverage. Positive leverage should improve your psychology during negotiation. You’ve gone from a situation where you want something from the investor to a situation where you both want something from each other. Once you have it, you can then identify other things your opponent wants. Maybe he wants to buy your firm over time. Help him do that, if he’ll increase the price. Maybe his offer is all the money he has. Help him get what he wants—your business—by saying you can only sell him 75 percent for his offer. NEGATIVE LEVERAGE Negative leverage is what most civilians picture when they hear the word “leverage.” It’s a negotiator’s ability to make his counterpart suffer. And it is based on threats: you have negative leverage if you can tell your counterpart, “If you don’t fulfill your commitment/pay your bill/etc., I will destroy your reputation.” This sort of leverage gets people’s attention because of a concept we’ve discussed: loss aversion. As effective negotiators have long known and psychologists have repeatedly proved, potential losses loom larger in the human mind than do similar gains. Getting a good deal may push us toward making a risky bet, but saving our reputation from destruction is a much stronger motivation. So what kind of Black Swans do you look to be aware of as negative leverage? Effective negotiators look for pieces of information, often obliquely revealed, that show what is important to their counterpart: Who is their audience? What signifies status and reputation to them? What most worries them? To find this information, one method is to go outside the negotiating table and speak to a third party that knows your counterpart. The most effective method is to gather it from interactions with your counterpart. That said, a word of warning: I do not believe in making direct threats and am extremely careful with even subtle ones. Threats can be like nuclear bombs. There will be a toxic residue that will be difficult to clean up. You have to handle the potential of negative consequences with care, or you will hurt yourself and poison or blow up the whole process. If you shove your negative leverage down your counterpart’s throat, it might be perceived as you taking away their autonomy. People will often sooner die than give up their autonomy. They’ll at least act irrationally and shut off the negotiation. A more subtle technique is to label your negative leverage and thereby make it clear without attacking. Sentences like “It seems like you strongly value the fact that you’ve always paid on time” or “It seems like you don’t care what position you are leaving me in” can really open up the negotiation process. NORMATIVE LEVERAGE Every person has a set of rules and a moral framework. Normative leverage is using the other party’s norms and standards to advance your position. If you can show inconsistencies between their beliefs and their actions, you have normative leverage. No one likes to look like a hypocrite. For example, if your counterpart lets slip that they generally pay a certain multiple of cash flow when they buy a company, you can frame your desired price in a way that reflects that valuation. Discovering the Black Swans that give you normative valuation can be as easy as asking what your counterpart believes and listening openly. You want to see what language they speak, and speak it back to them. KNOW THEIR RELIGION In March 2003 I led the negotiation with a farmer who became one of the most unlikely post-9/11 terrorists you can imagine. The drama started when Dwight Watson, a North Carolina tobacco grower, hooked up his jeep to a John Deere tractor festooned with banners and an inverted U.S. flag and towed it to Washington, D.C., to protest government policies he thought were putting tobacco farmers out of business.
+>>>

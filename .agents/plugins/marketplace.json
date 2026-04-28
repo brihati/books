@@ -1,0 +1,20 @@
+{
+  "name": "books-local",
+  "interface": {
+    "displayName": "Books Local"
+  },
+  "plugins": [
+    {
+      "name": "book-workflow",
+      "source": {
+        "source": "local",
+        "path": "./plugins/book-workflow"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

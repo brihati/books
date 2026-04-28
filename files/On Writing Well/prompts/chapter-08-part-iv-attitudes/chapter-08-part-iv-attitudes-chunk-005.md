@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-08-part-iv-attitudes",
+  "chunk_id": "chapter-08-part-iv-attitudes-chunk-005",
+  "source": {
+    "chapter_title": "Part IV – Attitudes",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+    "source_pages": "245-308",
+    "char_start": 27157,
+    "char_end": 34854,
+    "checksum": "2ee830ffccd4c45c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+you write about subjects you think you would enjoy knowing about, your enjoyment will show in what you write. Learning is a tonic. That doesn't mean you won't be nervous when you go forth into unfamiliar terrain. As a nonfiction writer you'll be thrown again and again into specialized worlds, and you'll worry that you're not qualified to bring the story back. I feel that anxiety every time I embark on a new project. I felt it when I went to Bradenton to write my baseball book, Spring Training. Although I've been a baseball fan all my life, I had never done any sports reporting, never interviewed a professional athlete. Strictly, I had no credentials; any of the men I approached with my note-
+
+book-—managers, coaches, players, umpires, scouts—could have asked, "What else have you written about baseball?" But nobody did. They didn't ask because I had another kind of credential: sincerity. It was obvious to those men that I really wanted to know how they did their work. Remember this when you enter new territory and need a shot of confidence. Your best creden- tial is yourself. 248 ON WRITING WELL Also remember that your assignment may not be as narrow as you think. Often it will turn out to touch some unexpected corner of your experience or your education, enabling you to broaden the story with strengths of your own. Every such reduc- tion of the unfamiliar will reduce your fear. That lesson was brought home to me in 1992 when I got a call from an editor at Audubon asking if I would write an article for the magazine. I said I wouldn't. I'm a fourth-generation New Yorker, my roots deep in the cement. "That wouldn't be right for me, or for you, or for Audubon" I told the editor. I've never accepted an assignment I didn't think I was suited for, and I'm quick to tell editors that they should look for someone else. The Audubon editor replied—as good editors should—that he was sure we could come up with something, and a few weeks later he called to say that the magazine had decided it was time for a new article on Roger Tory Peterson, the man who made Amer- ica a nation of birdwatchers, his Field Guide to the Birds a best- seller since 1934. Was I interested? I said I didn't know enough about birds. The only one I can identify for sure is the pigeon, a frequent caller at my Manhattan windowsill. I need to feel a certain rapport with the person I'll be writing about. The Peterson assignment wasn't one that I originated; it came looking for me. Almost every profile I've written has been of someone whose work I knew and had an affection for: such creative souls as the cartoonist Chic Young ("Blondie"), the songwriter Harold Arlen, the British actor Peter Sellers and the British travel writer Norman Lewis. My gratitude for the plea- sure of their company over the years was a source of energy when I sat down to write. If you want your writing to convey enjoyment, write about people you respect. Writing to destroy and to scandalize can be as destructive to the writer as it is to the subject. Something came up, however, that changed my mind about the Audubon offer. I happened to see a PBS television docu- Enjoyment, Fear and Confidence 249 mentary called "A Celebration of Birds," which summed up Roger Tory Petersons life and work. The film had so much beauty that I wanted to know more about him. What caught my attention was that Peterson was still going at full momentum at 84—painting four hours a day and photographing birds in habi- tats all over the world. That did interest me. Birds aren't my subject, but survivors are: how old people keep going. I remem- bered that Peterson lived in a Connecticut town not far from where our family goes in the summer. I could just drive over and meet him; if the vibrations weren't right, nothing would be lost except a gallon of gas. I told the Audubon editor that I would try something informal—"a visit with Roger Tory Peter- son," not a major profile. Of course it did turn into a major profile, 4,000 words long, because as soon as I saw Peterson's studio I realized that to think of him as an ornithologist, as I always had, was to miss the point of his life. He was above all an artist. It was his skill as a painter that had made his knowledge of birds accessible to millions and had given him his authority as a writer, editor and conservation- ist. I asked him about his early teachers and mentors—major American artists like John Sloan and Edmund Dickinson—and about the influence of the great bird painters James Audubon and Louis Agassiz Fuertes, and my story became an art story and a teaching story as well as a bird story, engaging many of my interests. It was also a survivor story; in his mid-80s Peterson was on a schedule that would tax a man of 50. The moral for nonfiction writers is: think broadly about your assignment. Don't assume that an article for Audubon has to be strictly about nature, or an article for Car & Driver strictly about cars. Push the boundaries of your subject and see where it takes you. Bring some part of your own life to it; it's not your version of the story until you write it. As for my version of the Peterson story, not long after it ran in Audubon my wife found a message on our home answering 250 ON WRITING WELL machine that said, "Is this the William Zinsser who writes about nature?" She thought it was hilarious, and it was. But in fact my article was received by the birding community as a definitive portrait of Peterson. I mention this to give confidence to all nonfiction writers: a point of craft. If you master the tools of the trade—the fundamentals of interviewing and of orderly con- struction—and if you bring to the assignment your general intel- ligence and your humanity, you can write about any subject. That's your ticket to an interesting life. Still, its hard not to be intimidated by the expertise of the expert. You think, "This man knows so much about his field, I'm too dumb to interview him. He'll think I'm stupid." The reason he knows so much about his field is because it's his field; you're a generalist trying to make his work accessible to the public. That means prodding him to clarify statements that are so obvi- ous to him that he assumes they are obvious to everyone else. Trust your common sense to figure out what you need to know, and don't be afraid to ask a dumb question. If the expert thinks you're dumb, that's his problem. Your test should be: is the expert's first answer sufficient? Usually it's not. I learned that when I signed up for a second expedition into Peterson territory. An editor at Rizzoli, the pub- lisher of art books, called to say that the firm was preparing a coffee-table volume on "The Art and Photography of Roger Tory Peterson," with hundreds of color plates. An 8,000-word text was needed, and as the new Peterson authority I was asked to write it. Talk about hilarious. I told the editor that I made it a point never to write the same story twice. I had written my Audubon article as carefully as I could the first time and wouldn't be able to rework it. He would be welcome, however, to acquire and reprint my article in his book. He agreed to that if I would write an additional 4,000 words—invisible weaving—that would deal mainly with Peter- son's methods as an artist and a photographer. Enjoyment, Fear and Confidence 251 That sounded interesting, and I went back to Peterson with a new set of questions, more technical than the ones I had put to him for Audubon. That audience had wanted to hear about a life. Now I was writing for readers who wanted to know how the artist created his art, and my questions got right down to process and technique. We began with painting.
+>>>

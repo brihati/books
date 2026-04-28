@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-10-find-the-black-swan",
+  "chunk_id": "chapter-10-find-the-black-swan-chunk-007",
+  "source": {
+    "chapter_title": "CHAPTER 10 | FIND THE BLACK SWAN",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+    "source_pages": "281-322",
+    "char_start": 34207,
+    "char_end": 41891,
+    "checksum": "4bc5f4d7de215aa6"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+rists,” including groups from the Taliban to ISIS. The rationale for this nonengagement is summarized well by the journalist Peter Bergen, CNN’s national security analyst: “Negotiations with religious fanatics who have delusions of grandeur generally do not go well.” The alternative we’ve chosen is to not understand their religion, their fanaticism, and their delusions. Instead of negotiations that don’t go well, we shrug our shoulders and say, “They’re crazy!” But that’s absolutely wrongheaded. We must understand these things. I’m not saying that because I’m a softheaded pacifist (the FBI doesn’t hire agents like that) but because I know understanding such things is the best way to discover
+
+the other side’s vulnerabilities and wants and thereby gain influence. You can’t get that stuff unless you talk. No one is immune to “They’re crazy!” You can see it rear its head in every kind of negotiation, from parenting to congressional deal making to corporate bargaining. But the moment when we’re most ready to throw our hands up and declare “They’re crazy!” is often the best moment for discovering Black Swans that transform a negotiation. It is when we hear or see something that doesn’t make sense—something “crazy”—that a crucial fork in the road is presented: push forward, even more forcefully, into that which we initially can’t process; or take the other path, the one to guaranteed failure, in which we tell ourselves that negotiating was useless anyway. In their great book Negotiation Genius,4 Harvard Business School professors Deepak Malhotra and Max H. Bazerman provide a look at the common reasons negotiators mistakenly call their counterparts crazy. I’d like to talk through them here. MISTAKE #1: THEY ARE ILL-INFORMED Often the other side is acting on bad information, and when people have bad information they make bad choices. There’s a great computer industry term for this: GIGO— Garbage In, Garbage Out. As an example, Malhotra talks about a student of his who was in a dispute with an ex-employee who claimed he was owed $130,000 in commissions for work he had done before being fired; he was threatening a lawsuit. Confused, the executive turned to the company’s accountants. There he discovered the problem: the accounts had been a mess when the employee was fired but had since been put into order. With the clean information, the accountants assured the executive that in fact the employee owed the company $25,000. Eager to avoid a lawsuit, the executive called the employee, explained the situation, and made an offer: if the employee dropped the lawsuit he could keep the $25,000. To his surprise, the employee said that he was going forward with the suit anyway; he acted irrational, crazy. Malhotra told his student that the problem was not craziness, but a lack of information and trust. So the executive had an outside accounting firm audit the numbers and send the results to the employee. The result? The employee dropped the suit. The clear point here is that people operating with incomplete information appear crazy to those who have different information. Your job when faced with someone like this in a negotiation is to discover what they do not know and supply that information. MISTAKE #2: THEY ARE CONSTRAINED In any negotiation where your counterpart is acting wobbly, there exists a distinct possibility that they have things they can’t do but aren’t eager to reveal. Such constraints can make the sanest counterpart seem irrational. The other side might not be able to do something because of legal advice, or because of promises already made, or even to avoid setting a precedent. Or they may just not have the power to close the deal. That last situation is one that a client of mine faced as he was trying to land Coca-Cola as a client for his marketing firm. The guy had been negotiating a deal for months and it was getting on to November. He was petrified that if he didn’t close it before the calendar year ended he would have to wait for Coca-Cola to set a new budget and he might lose the client. The problem was that his contact had suddenly stopped responding. So we told him to send a version of our classic email for nonresponders, the one that always works: “Have you given up on finalizing this deal this year?” Then something weird happened. The Coca-Cola contact didn’t respond to the perfect email. What was up? This was superficially quite irrational, but the contact had been a straight-up guy until then. We told our client this could mean only one thing: that the guy had given up on closing the deal by the end of the year, but he didn’t want to admit it. There had to be some constraint. With this knowledge in hand, we had our client dig deep. After a batch of phone calls and emails he tracked down someone who knew his contact. And it turned out we had been right: the contact’s division had been in chaos for weeks, and in the midst of corporate infighting he had completely lost influence. Not surprisingly, he was embarrassed to admit it. That’s why he was avoiding my client. To put it simply, he had major constraints. MISTAKE #3: THEY HAVE OTHER INTERESTS Think back to William Griffin, the first man ever to kill a hostage on deadline. What the FBI and police negotiators on the scene simply did not know was that his main interest was not negotiating a deal to release the hostages for money. He wanted to be killed by a cop. Had they been able to dig up that hidden interest, they might have been able to avoid some of that day’s tragedy. The presence of hidden interests isn’t as rare as you might think. Your counterpart will often reject offers for reasons that have nothing to do with their merits. A client may put off buying your product so that their calendar year closes before the invoice hits, increasing his chance for a promotion. Or an employee might quit in the middle of a career-making project, just before bonus season, because he or she has learned that colleagues are making more money. For that employee, fairness is as much an interest as money. Whatever the specifics of the situation, these people are not acting irrationally. They are simply complying with needs and desires that you don’t yet understand, what the world looks like to them based on their own set of rules. Your job is to bring these Black Swans to light. As we’ve seen, when you recognize that your counterpart is not irrational, but simply ill-informed, constrained, or obeying interests that you do not yet know, your field of movement greatly expands. And that allows you to negotiate much more effectively. Here are a few ways to unearth these powerful Black Swans: GET FACE TIME Black Swans are incredibly hard to uncover if you’re not literally at the table. No matter how much research you do, there’s just some information that you are not going to find out unless you sit face-to-face. Today, a lot of younger people do almost everything over email. It’s just how things are done. But it’s very difficult to find Black Swans with email for the simple reason that, even if you knock your counterpart off their moorings with great labels and calibrated questions, email gives them too much time to think and re-center themselves to avoid revealing too much. In addition, email doesn’t allow for tone-of-voice effects, and it doesn’t let you read the nonverbal parts of your counterpart’s response (remember 7-38-55). Let’s return now to the tale of my client who was trying to get Coca-Cola as a client, only to learn that his contact at the company had been pushed aside. I realized that the only way my client was going to get a deal with Coca-Cola was by getting his contact to admit that
+>>>

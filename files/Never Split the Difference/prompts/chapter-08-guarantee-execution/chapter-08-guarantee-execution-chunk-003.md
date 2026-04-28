@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-08-guarantee-execution",
+  "chunk_id": "chapter-08-guarantee-execution-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 8 | GUARANTEE EXECUTION",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+    "source_pages": "216-248",
+    "char_start": 13265,
+    "char_end": 20920,
+    "checksum": "75efd18c5ba528ff"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e wary of two telling signs that your counterpart doesn’t believe the idea is theirs. As I’ve noted, when they say, “You’re right,” it’s often a good indicator they are not vested in what is being discussed. And when you push for implementation and they say, “I’ll try,” you should get a sinking feeling in your stomach. Because this really means, “I plan to fail.” When you hear either of these, dive back in with calibrated “How” questions until they define the terms of successful implementation in their own voice. Follow up by summarizing what they have said to get a “That’s right.” Let the other side feel victory. Let them think it was their idea. Subsume your ego. Remember: “Yes” is nothing
+
+without “How.” So keep asking “How?” And succeed. INFLUENCING THOSE BEHIND THE TABLE A few weeks after José got back to the United States, I drove to his family’s place in upstate New York. I was thrilled when José escaped, but the case left me with one nagging worry: Had my new strategy failed? You see, José had gotten home safely, but not because we’d negotiated his release. I worried that our winning had less to do with our brilliant strategy than with dumb luck. After being greeted warmly by Julie and her parents, José and I grabbed some coffee and sat down. I’d gone there to do what CNU referred to as a hostage survival debriefing. I was after insights into how to better advise people facing potential kidnappings how best to survive, not just physically, but psychologically. I was also burning to find out what had occurred behind the scenes because it seemed as if my new strategy hadn’t worked. Finally the conversation came around to our use of calibrated questions. “You know what?” he said. “The craziest thing was that their negotiator was supposed to stay in town and negotiate the deal but because Julie kept asking him questions he didn’t really know for sure how to answer, he kept coming out to the jungle. They all would get together and have a huge discussion about how to respond. They even thought about taking me into town and putting me on the phone because Julie was so persistent with asking how did she know if I was okay.” Right then I knew we had the right tool. It was exactly the opposite of the Burnham case, where our negotiator cut the deal with one of the guys and then the rest of them took the $300,000 and said, “No, we’re not doing that.” Causing the other side to work that hard and forcing that much internal coordination in service of our own goals was unprecedented. Our negotiating strategy in Ecuador worked not just because the questions contributed to the environment that let José escape, but because they made sure the kidnappers— our counterparts—were all on the same page. Yes, few hostage-takers—and few business deal makers —fly solo. But for the most part, there are almost always other players, people who can act as deal makers or deal killers. If you truly want to get to “Yes” and get your deal implemented, you have to discover how to affect these individuals. When implementation happens by committee, the support of that committee is key. You always have to identify and unearth their motivations, even if you haven’t yet identified each individual on that committee. That can be easy as asking a few calibrated questions, like “How does this affect the rest of your team?” or “How on board are the people not on this call?” or simply “What do your colleagues see as their main challenges in this area?” The larger concept I’m explaining here is that in any negotiation you have to analyze the entire negotiation space. When other people will be affected by what is negotiated and can assert their rights or power later on, it’s just stupid to consider only the interests of those at the negotiation table. You have to beware of “behind the table” or “Level II” players—that is, parties that are not directly involved but who can help implement agreements they like and block ones they don’t. You can’t disregard them even when you’re talking to a CEO. There could always be someone whispering into his ear. At the end of the day, the deal killers often are more important than the deal makers. Think back to the prison siege: it was almost ruined because one bit player on our side was not totally on board. That’s what our use of calibrated questions in Ecuador avoided, and that’s why José’s case was a home run. It only takes one bit player to screw up a deal. A few years into private practice I’d lost sight of the importance of assessing and influencing the hidden negotiation that happens “behind the table,” and I paid a substantial price. We were closing a deal with a big company in Florida that wanted negotiation training for one of its divisions. We’d been on the phone a bunch of times with the CEO and the head of HR, and they were both 100 percent gung ho on our offering. We were elated—we had what we thought was total buy-in from the top decision makers for an incredibly lucrative deal. And then, as we were figuring out the small print, the deal fell off the table. It turns out that the head of the division that needed the training killed the deal. Maybe this guy felt threatened, slighted, or otherwise somehow personally injured by the notion that he and his people “needed” any training at all. (A surprisingly high percentage of negotiations hinge on something outside dollars and cents, often having more to do with self-esteem, status, and other nonfinancial needs.) We’ll never know now. The point is, we didn’t care until too late because we convinced ourselves that we were on the phone with the only decision makers that mattered. We could have avoided all that had we asked a few calibrated questions, like: How does this affect everybody else? How on board is the rest of your team? How do we make sure that we deliver the right material to the right people? How do we ensure the managers of those we’re training are fully on board? If we had asked questions like that, the CEO and HR head would have checked with this guy, maybe even brought him into the conversation. And saved us all a lot of pain. SPOTTING LIARS, DEALING WITH JERKS, AND CHARMING EVERYONE ELSE As a negotiator, you’re going to run into guys who lie to your face and try to scare you into agreement. Aggressive jerks and serial fabricators come with the territory, and dealing with them is something you have to do. But learning how to handle aggression and identify falsehood is just part of a larger issue: that is, learning how to spot and interpret the subtleties of communication—both verbal and nonverbal—that reveal the mental states of your counterparts. Truly effective negotiators are conscious of the verbal, paraverbal (how it’s said), and nonverbal communications that pervade negotiations and group dynamics. And they know how to employ those subtleties to their benefit. Even changing a single word when you present options—like using “not lose” instead of “keep”—can unconsciously influence the conscious choices your counterpart makes. Here I want to talk about the tools you need to ID liars, disarm jerks, and charm everybody else. Of course, the open-ended “How” question is one of them—maybe the most important one—but there are many more. Alastair Onglingswan was living in the Philippines when, one evening in 2004, he hailed a taxi and settled in for a long ride home from Manila’s Greenhills shopping center. He dozed off. And he woke up in chains. Unfortunately for Alastair, the cabbie had a second business as a kidnapper. He kept a bottle of ether in his front seat, and when a target fell asleep he would drug him, imprison him, and ask for ransom.
+>>>

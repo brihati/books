@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-mom-test",
+  "chapter_id": "chapter-10-running-the-process",
+  "chunk_id": "chapter-10-running-the-process-chunk-002",
+  "source": {
+    "chapter_title": "Running the process",
+    "source_path": "/Users/sachin/books/files/The Mom Test/chapters/10 - Running the process.txt",
+    "source_pages": "99-113",
+    "char_start": 6298,
+    "char_end": 13998,
+    "checksum": "6dad7676bf156551"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s worth spending a bit of time improving. Just like prepping, reviewing is so simple that it sounds like a non-step. It’s tempting to skip it. Don’t! The review is important. Disseminate learnings to your team as quickly and as directly as possible, using notes and exact quotes The Mom Test by @robﬁtz 103 momtestbook.com    /    foundercentric.com wherever you can. It keeps you in sync, leads to better decisions, prevents arguments, and allows your whole team to beneﬁt from the learning you’ve worked so hard to acquire. Who should show up Everyone on the team who is making big decisions (including tech decisions) needs to go to at least some of the meetings. The tech guys don’t need to go to
+
+most of the meetings, but you’ll all learn a ton from hearing customer reactions ﬁrst-hand occasionally. You’ll also be able to help each other catch and ﬁx your conversation mistakes and biases. Meetings go best when you've got two people at them. One person can focus on taking notes and the other can focus on talking. As the second person, sometimes you'll notice the lead asking bad questions or missing a signal they should be digging into. Just jump in and ﬁx them. Don’t send more than two people unless it’s group-on-group or you’ve got a particularly good reason to do so. Three folks interviewing someone can be a little overwhelming. Going in solo is ﬁne once you get good at taking concise notes. The main problem of running solo is that it's harder to catch yourself and recover once you start going off-track asking bad questions or missing the point. If you’re shy and have no cofounder to take the lead, call in a favour with a friend to come to your ﬁrst couple conversations with you. You can just play the role of the note-taker until you’re comfortable. If there’s no workaround and you have to bite the bullet, remember that conﬁdence is domain-speciﬁc. Instead of suffering through, focus on getting better and understanding the process. It will get less scary as you improve. You can't outsource or hire someone to do customer learning. There are The Mom Test by @robﬁtz 104 momtestbook.com    /    foundercentric.com exceptional team dynamics where it works, but generally speaking, the founders need to be in the meetings themselves. When a hired gun brings you bad news (“This problem isn't real and nobody cares about what we're doing”), properly assimilating it is difﬁcult. More insidiously, if the signal is lukewarm, it’s tempting for a hire to gloss over it. Hiring out your learning is a guaranteed way to get bad signals. Until you've got a working business model and a repeatable sales or marketing process, the founders need to be in the meetings themselves. On the bright side, even though you have to be in the room to process the learning, you don't necessarily have to be the one setting up or leading the meetings. You can hire people to help as long as you’re there with them, listening. How to write it down Taking good notes is the best way to keep your team (and investors and advisors) in the loop. Plus, notes make it harder to lie to yourself. And when, months later, you decide to adjust the business's direction, you'll be able to return to your notes instead of having to go do a whole new set of interviews. When possible, write down exact quotes. Wrap them in quotation marks so you know it's verbatim. You can later use them in your marketing language, fundraising decks, and to resolve arguments with skeptical teammates. Other times the exact quote isn't relevant and you just write down the big idea. In either case, add symbols to your notes as context and shorthand. I use 12 main symbols and make up more in the ﬁeld as I need them. You probably won't exactly copy mine, so don't worry about memorising them. You'll build your own go-to list as you have more conversations. The Mom Test by @robﬁtz 105 momtestbook.com    /    foundercentric.com :) :( :|  ⨅ ☐ ⤴ ^ ☑＄♀☆ Emotions :) Excited :( Angry :| Embarrassed Someone saying "that's a problem" should be interpreted totally differently depending on whether they are neutral or outraged. Any strong emotion is worth writing down. For example, depending on your industry, you might also choose to make symbols for lust or laughter. Capture the big emotions and remember to dig into them when they come up. Their life  Pain or problem (symbol is a lightning bolt) ⨅ Goal or job-to-be-done (symbol is a soccer/football goal) ☐ Obstacle ⤴ Workaround ^ Background or context (symbol is a distant mountain) These ﬁve “life” symbols are your bread and butter. Combine them with emotion symbols where appropriate. Pains and obstacles carry a lot more weight when someone is embarrassed or angry about them. Obstacles are preventing a customer from solving their problems even though they want to. They're important because you'll probably also have to deal with them. For example, a lot of corporate folks would love to use cloud services and hate their current options, but can't use anything else because their company's IT policy is an obstacle. Their workaround might be to use their personal phone as a secondary computer or by doing certain work at home. Also worth noting. Speciﬁcs ☑ Feature request or purchasing criteria The Mom Test by @robﬁtz 106 momtestbook.com    /    foundercentric.com ＄ Money or budgets or purchasing process ♀ Mentioned a speciﬁc person or company ☆ Follow-up task As we discussed, feature requests usually get ignored, but they're a good signal to capture and explore. Must-have purchasing criteria are obviously more important. Money signals are also key. Write down speciﬁc names and companies. If it’s someone they know, ask for an intro at the end of the conversation. If it’s a competitor or alternate solution, write it down to research it later. Put a big star on items to follow-up on after the meeting, especially next steps you promised as a condition of their advancement/commitment. Where to write it down You want to take your customer notes so that they are: • Able to be sorted, mixed, and re-arranged • Able to be combined with the notes of the rest of your team • Permanent and retrievable • Not mixed in with other random noise like todo lists and ideas In practice, I’ve found that taking notes in my primary notebook is practically useless. Over the course of several months’ sprawl, you set an insurmountable search and retrieval task for yourself. If you won’t look at your notes, they aren’t much good. If you do end up taking notes in non-ideal places, you just need to spend a little extra post-meeting time moving them over into your permanent format. Otherwise you’ll be kicking yourself when you remember that amazing quote The Mom Test by @robﬁtz 107 momtestbook.com    /    foundercentric.com someone gave you which you can’t quite remember well enough to convince those skeptical investors. What is a better note-taking medium? Google Docs spreadsheets and Evernote are both great for team sharing, search, and retrieval. Spreadsheets are wonderfully sortable if you write your key signals in their own column. The downside is that it comes across as rude to take notes directly on a computer during a meeting, so you add a bit of mandatory post- meeting work to transfer your notes. I always found this a bit annoying, but it’s way better than losing your learning in an off-topic notebook. A dedicated notebook is ﬁne, if you can remember to carry it with you and use it. For a while, I would use my regular notebook for my customer notes and then just tear out every page which wasn’t from an interview so it was easier to ﬁnd them later. Hardly the most elegant. My favourite medium is index cards. Post-it notes also work.
+>>>

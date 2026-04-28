@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-mom-test",
+  "chapter_id": "chapter-07-commitment-and-advancement",
+  "chunk_id": "chapter-07-commitment-and-advancement-chunk-002",
+  "source": {
+    "chapter_title": "Commitment and advancement",
+    "source_path": "/Users/sachin/books/files/The Mom Test/chapters/07 - Commitment and advancement.txt",
+    "source_pages": "62-73",
+    "char_start": 6273,
+    "char_end": 13935,
+    "checksum": "b0bbe17624c3cdee"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e ready.” “What are the next steps?” “I would deﬁnitely buy that.” “When can we start the trial?” “Can I buy the prototype?” “When can you come back to talk to the rest of the team?” The Mom Test by @robﬁtz 67 momtestbook.com    /    foundercentric.com "That's so cool. I love it!" Bad meeting. Pure, unadulterated compliment. This may make you feel good, but there is precisely zero data here. But at least you won’t hurt yourself on this one since it’s so obviously ﬂuff. To ﬁx it, deﬂect the compliment and get back to business. "Looks great. Let me know when it launches." Bad meeting. A compliment plus a stalling tactic is the classic way to end a pitch for something you’re never going to buy.
+
+This comes in a lot of ﬂavours, but they’re all basically a polite way to say, “Don’t call me, I’ll call you.” The big error you can make here is to mistake this compliment-stall for a pre- order (“He said he’ll buy it when it launches!”). To ﬁx it, I’d look for a commitment I could ask for today. If I was very early stage, I might ask for an introduction to his boss or tech team or the budget- holder so I can make sure I fully understand their needs. If I was slightly further through development, I might push him to agree to be one of our alpha users and to roll it out to some subset of their team and be a case study for launch. If I’ve hit on a real problem, he’ll jump at the chance to start making progress today and get early access. "There are a couple people I can introduce you to when you're ready." Bad meeting. There’s some data here, but probably not as much as you The Mom Test by @robﬁtz 68 momtestbook.com    /    foundercentric.com initially hope. On the bright side, at least you know he doesn’t think you’re completely nuts or he wouldn’t have even made the ﬂuffy offer (unless he’s just name dropping). The problem is that the promise is so generic that it’s a worthless signal. To ﬁx it, try to convert fuzzy promises into something more concrete. The more speciﬁc it is, the more seriously you can take it. For example: who does he want to introduce you to and what does “ready” mean? And why can’t he make the intro now? This isn’t about being pushy. You don’t have manifest destiny over his rolodex. But you do need to distinguish between legitimate offers and polite gesturing. Knowing what “ready” means can also give you a better sense of what your short-term goals should be. "What are the next steps?" Good meeting. A classic good meeting conclusion. To succeed, a meeting doesn’t need to end with a check in your pocket. It just needs to advance to the next step, whatever that is. It's worth noting that you need to know your next steps to beneﬁt from this. If you have to say, “Let me have a think about that and get back to you,” then you’ve ruined a perfectly good meeting. Of course, even clear next steps can be a lie. Everything can be a lie. But with next steps in your pocket, you've got a ﬁghting chance. "I would deﬁnitely buy that." Bad meeting. Danger! There’s admittedly some signal here, but the false positive danger is off the charts. This is the mis-interpreted answer which sunk the ﬁrst startup I worked at to the tune of ten million bucks. The Mom Test by @robﬁtz 69 momtestbook.com    /    foundercentric.com To ﬁx it, you need to shift from fuzzy future promises into concrete current commitments. For example, you could ask for a letter of intent, a pre-purchase or deposit, or intros to other decision makers and team members. Kickstarter is so wonderful because it forces customers who say they would buy it to actually pull out a credit card and commit. "When can we start the trial?" Maybe a good meeting. Unlike “when does it launch," which is usually a stall, “When can we start” is a step forward. Setting up new software and training staff to use it is a big deal for most businesses. Even a "free" trial can cost them serious money. However, in some cases, "trying" software costs nothing, especially for individuals. For example, I've “tried” countless CRM (contact management) apps. It takes ten seconds to log in, look around, and never think about it again. As always, think in terms of currency. What are they giving up to try it out? If your trial is too "cheap" to try, you can try to increase the cost of it. For example, you could ask to write a case study about them after they've spent 2 weeks using it. Or you could get them to promise to try using it with their team for at least a week. If you've got a more developed product, you can take their credit card and just charge them nothing if they cancel within 30 days. The more they are giving up for you, the more seriously you can take their validation. "Can I buy the prototype?" Great meeting. The best meeting conclusion I've seen is the rarely-heard but always appreciated, “Can I buy the prototype?” A product designer was once showing me a brilliant smartphone tripod he was designing. He demo’d the 3D-printed prototype unit for me and I immediately The Mom Test by @robﬁtz 70 momtestbook.com    /    foundercentric.com asked him how much it would cost to buy the prototype. He laughed and said he’d gone through about a dozen prototypes already because people kept buying them. That’s a good sign. "When can you come back to talk to the rest of the team?" Good meeting. Bingo! If you are selling anything to companies, you’re going to have to talk to multiple people. If they won’t introduce you, then it’s a sure bet you’re at a dead end. Enterprise sales is tedious, but one of the perks is that you can get really accurate signals like this one quite early in the process. Building consumer products is a lot murkier since the customer conversation process doesn’t mimic the purchase process. How to ﬁx a bad meeting The worst meetings are the wishy-washy ones that you leave with neither rejection nor advancement. You are in no-man’s-land and you won’t learn anything until you ﬁx the meeting by forcing a next step (or rejection). A lost meeting can often be saved by just pushing for a commitment at the end while you're being brushed off with a compliment. But don't be annoying. You aren't trying to strong-arm folks into handing over their wallet. You are trying to cut through some of the polite rejections and ﬁnd out if they're actually going to become a partner/investor/customer. If they aren't excited, then good news: you got the information you came for. Assimilate it, decide if it matters enough to change your strategy, and then keep The Mom Test by @robﬁtz 71 momtestbook.com    /    foundercentric.com on keeping on. The goal is just to put them to a decision so you can learn whether you've found a must-have product and a real customer. Rule of  thumb: It’s not a real lead until you’ve given them a concrete chance to reject you. Don't pitch blind Even once you've moved on to more product-focused sales meetings, you still want to start with some open-ended learning to get your bearings. You may know what the market cares about, but ﬁguring out what’s unique about this particular person feels. It will make the rest of the conversation much smoother, increases your chances of closing the deal, and also gives you ongoing learning even after you've got a product. Startup sales meetings too often go like this: You: "We do X. Want to buy it?" Them: "No thanks." Those rejections aren't helpful. Hard pitching gives binary feedback: you either nailed it or you didn't. That's okay when you're making ﬁne adjustments (tweak this feature) but bad for bigger questions (does anybody care at all about what I'm doing). Ask learning questions which pass The Mom Test. Then conﬁrm by selling it.
+>>>

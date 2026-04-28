@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-04-beware-yes-master-no",
+  "chunk_id": "chapter-04-beware-yes-master-no-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 4 | BEWARE “YES”—MASTER “NO”",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/04 - CHAPTER 4 BEWARE YESMASTER NO.txt",
+    "source_pages": "102-129",
+    "char_start": 13293,
+    "char_end": 20945,
+    "checksum": "9b3e833145734a58"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+call a day. They knew it, too. A lot of times, they’d say, “Yeah, I’m Eddie. I haven’t called yet today. Go ahead and check the list. You got to talk to me.” Since I was there primarily to learn a skill, I loved the frequent callers. They were a problem, and I loved trying to figure them out. I felt I had some talent at it. I felt like a superstar. When it came time for my performance review, they assigned me a shift supervisor named Jim Snyder. Jim was a hotline veteran and a sweetheart; the only problem was he always wanted to joke around. Jim understood that volunteer burnout was the biggest problem at a hotline, so he dedicated his time to making work fun. I became good friends with Jim.
+
+For my review, Jim waited until I got a call and went into the monitoring room where the supervisors could listen to our calls. The call was from one of my frequent clients, a cabbie with a fear of going outside and plenty of time to tell me about it. This energy vampire (his name was Daryl) launched into his shtick about how he was going to lose his house and with it his will to live if he couldn’t work. “Seriously, when was the last time someone tried to hurt you on the streets?” I asked. “Well, I mean, it’s been a long time,” Daryl said. “Like . . . ?” “I can’t really remember a date, Chris. Maybe a year, I guess.” “So it’s safe to say that the outside world hasn’t been too hard on you, right?” “Yes,” Daryl said. “I suppose so.” We went back and forth like this for a while, as I made him admit that most of us had little to fear in the world. I was feeling good about my new skills, about listening to Daryl and then “CareFronting” him, which was the slightly goofy name we gave to assertively—but caringly— responding to frequent callers. It was all flowing, and our rapport was great. I even got Daryl to laugh a few times. By the time I was done with him, he couldn’t give me one reason not to step outside. “Thank you, Chris,” Daryl said just before he hung up. “Thanks for doing such a great job.” Before I went to see Jim, I leaned back in my chair and basked in that compliment. How often do you get that from a man in pain, I thought. Then I sprung up and strode toward the monitoring room, so proud I was practically buffing my nails on my shirt and patting my own back. Jim motioned me to the chair in front of him and gave me his biggest smile. I must have returned it with twice the wattage. “Well, Chris,” he said, still smiling. “That was one of the worst calls I ever heard.” I stared at him, gape-jawed. “Jim, did you hear Daryl congratulate me?” I asked. “I talked him down, man. I killed it.” Jim smiled—I hated that smile right then—and nodded. “That’s one of the signs, because they should be congratulating themselves when they get off the line,” he said. “They don’t need to be congratulating you. That tells me you did too much. If they think you did it—if you were the guy who killed it—how is he going to help himself? I don’t want to be harsh, but you were horrible.” As I listened to what Jim said, I felt that acid stomach rush you get when you are forced to accept that the guy dumping on you is completely right. Daryl’s response had been a kind of “yes,” but it had been anything but a true commitment “yes.” He’d made no promise to action. His “yes” had been designed to make me feel good enough to leave him alone. Daryl may not have known it, but his “yes” was as counterfeit as they came. You see, that whole call had been about me and my ego and not the caller. But the only way to get these callers to take action was to have them own the conversation, to believe that they were coming to these conclusions, to these necessary next steps, and that the voice at the other end was simply a medium for those realizations. Using all your skills to create rapport, agreement, and connection with a counterpart is useful, but ultimately that connection is useless unless the other person feels that they are equally as responsible, if not solely responsible, for creating the connection and the new ideas they have. I nodded slowly, the fight drained out of me. “One of the worst calls?” I said to Jim. “That’s right.” I worked hard at reorienting myself from that point on. I asked so many questions and read so much about it that soon they had me teaching two classes for new volunteers at HelpLine: the opening class, on active listening; and the one on CareFrontation. Got it, you say. It’s not about me. We need to persuade from their perspective, not ours. But how? By starting with their most basic wants. In every negotiation, in every agreement, the result comes from someone else’s decision. And sadly, if we believe that we can control or manage others’ decisions with compromise and logic, we’re leaving millions on the table. But while we can’t control others’ decisions, we can influence them by inhabiting their world and seeing and hearing exactly what they want. Though the intensity may differ from person to person, you can be sure that everyone you meet is driven by two primal urges: the need to feel safe and secure, and the need to feel in control. If you satisfy those drives, you’re in the door. As we saw with my chat with Daryl, you’re not going to logically convince them that they’re safe, secure, or in control. Primal needs are urgent and illogical, so arguing them into a corner is just going to push your counterpart to flee with a counterfeit “Yes.” And being “nice” in the form of feigned sympathy is often equally as unsuccessful. We live in an age that celebrates niceness under various names. We are exhorted to be nice and to respect people’s feelings at all times and in every situation. But nice alone in the context of negotiation can backfire. Nice, employed as a ruse, is disingenuous and manipulative. Who hasn’t received the short end of the stick in dealings with a “nice” salesman who took you for a ride? If you rush in with plastic niceness, your bland smile is going to dredge up all that baggage. Instead of getting inside with logic or feigned smiles, then, we get there by asking for “No.” It’s the word that gives the speaker feelings of safety and control. “No” starts conversations and creates safe havens to get to the final “Yes” of commitment. An early “Yes” is often just a cheap, counterfeit dodge. About five months after she’d told me to “go away,” I stopped by Amy Bonderow’s office and told her that I’d volunteered at HelpLine. “You did?” she asked, smiling with surprise. “I tell everybody to do that. And nobody ever does.” It turned out that Amy had started her negotiating career by volunteering at the same place. She started naming people who were now mutual friends of ours. We laughed about Jim. In a sudden shift, Amy stopped speaking and stared at me. I shifted in my shoes as she gave me the Pause. Then she smiled. “You get the next position.” At that time, there were five other people aiming for the same slot, people who had psychology degrees, experience, and credentials. But I was on the road to the next hostage negotiation training course at the FBI Academy in Quantico, Virginia, ahead of everybody else. My career as a negotiator had officially begun. “NO” IS PROTECTION Think back to the telemarketer at the beginning of this chapter. The obvious reply to his question—“Do you enjoy a nice glass of water?”—is “Yes.” But all you want to do is scream, “No!” After a question like that you just know the rest of the phone call is going to be painful. That, in a nutshell, distills the inherent contradictions in the values we give “Yes” and “No.” Whenever we negotiate, there’s no doubt we want to finish with a “Yes.”
+>>>

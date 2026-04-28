@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-mom-test",
+  "chapter_id": "chapter-05-asking-important-questions",
+  "chunk_id": "chapter-05-asking-important-questions-chunk-003",
+  "source": {
+    "chapter_title": "Asking important questions",
+    "source_path": "/Users/sachin/books/files/The Mom Test/chapters/05 - Asking important questions.txt",
+    "source_pages": "41-55",
+    "char_start": 13237,
+    "char_end": 20925,
+    "checksum": "1f6d27f75d5f7a3b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+or trafﬁc. For example, I have a blog which I quite like (but which I don’t take seriously as a business) at thestartuptoolkit.com. If you’re talking to me and you ask, “Hey Rob, what are your top problems with marketing your blog?” Then you’ve just prematurely zoomed on a non-problem. I’m going to tell you some sort of answer which sounds legit but is actually misleading. I might say that my keywords are all kind of generic, so it’s hard to attract the right people. Or that I walk a ﬁne line between writing beginner and advanced articles, so it’s tough to attract the right people. Whatever. Problems exist with my blog marketing, but the whole space just isn’t something I’m too fussed about.
+
+I write because it’s fun, not because it’s how I pay my rent. To have a useful conversation, you need to zoom back out to ask about my blog The Mom Test by @robﬁtz 49 momtestbook.com    /    foundercentric.com in general, rather than marketing my blog. A good conversation: You: “Hey Rob, what are the top problems with your blog?” Me: “I’m pissed that Google Reader is disappearing — I feel that I’m going to lose like half my followers. And this book is consuming all of my interest in writing, so I haven’t really posted in months. And Wordpress seems so slow these days.” Of  the topics here, one of  them (Google Reader and audience size) is related to marketing, so you can anchor on that and ﬁgure out whether I’m a customer or just a complainer. You: “That Google Reader thing is a mess. What are you doing about it?” Now that you’ve let me raise the topic, you know it’s on my mind and can more safely zoom in to talk about that speciﬁcally. As before, try to ﬁgure out what I’m already spending time and money on. Me: “Nothing, really. I don’t know what to do. But it sucks.” I’m not appearing terribly motivated, but the fact that I don’t know what to do could give you hope. You: “Have you looked into what your options are?” Continue anchoring and digging. Me: “No, I just caught the drama on Hacker News.” I knew the reader- pocalypse was coming and didn’t even search around to properly understand the implications and my options. This just isn’t a big deal for me, despite how “annoyed” I claim to be. You: “Are you going to make a serious effort to build your audience back up?” You are digging into the audience size signal, since it’s relevant to your space. It’s a ﬂuff-inviting question (hypothetical future-tense), so you should be skeptical of  the answer, but it’s hard to see a better way to get at the information you want from here. Not every question can be perfect, sadly. Me: “Probably just keep on writing when I have something to say. It’s The Mom Test by @robﬁtz 50 momtestbook.com    /    foundercentric.com more of a hobby than a business, really.” At this point, you might be suspicious about how much I actually care about my blog, despite going out of my way to mention it twice (hint hint: thestartuptoolkit.com). When it’s not clear whether a problem is a must-solve- right-now (e.g. you’re selling a painkiller) or a nice-to-have (you’re selling a vitamin), you can get some clarity by asking cost/value questions like the following. “Does-this-problem-matter” questions: • “How seriously do you take your blog?” • “Do you make money from it?” • “Have you tried making more money from it?” • “How much time do you spend on it each week?” • “Do you have any major aspirations for your blog?” • “Which tools and services do you use for it?” • “What are you already doing to improve this?” • “What are the 3 big things you’re trying to ﬁx or improve right now?” Some of these questions are generic, but give us signals that we can anchor on and dig around. The bulk of them are about ﬁnding out whether the person we’re talking to is taking this space seriously. Are they spending money or making money? Is it in their top 3? Are they actively looking for solutions? When you fall into a premature zoom, you can waste a ton of time ﬁguring out the minutia of a trivial problem. Even if you learn everything there is to know about that particular problem, you still haven’t got a business. Rule of  thumb: Start broad and don't zoom in until you’ve found a strong signal, both with your whole business and with every conversation. Gaze upon the elephant The Mom Test by @robﬁtz 51 momtestbook.com    /    foundercentric.com Lastly, sometimes we comfort ourselves by asking questions which don’t actually de-risk the business or resolve those critical, big, scary, lurking questions. We ignore the elephant in the room. Let’s say we suspect that teachers from the poorest schools are completely overloaded, and that our tools would save them time so they could better educate their students. We go talk to them and conﬁrm that yes, they are completely overloaded. We then spend weeks with them, ﬁguring out exactly what their dream tool would do. Unfortunately, we've missed the elephant, which is that the poorest schools may not have the budgets available to pay us what we need. We're liable to spend a huge amount of time exploring a real and urgent problem, only to hop into the deadpool due to our customer's budgeting issues. Successful startups tend to depend on multiple failure points. In this case it is both the needs of the teachers and the ability of the schools to pay us. If any of these conditions doesn't exist, we have to signiﬁcantly overhaul our idea. It's tempting to obsess over the most interesting of several failure points and ignore the others. It's a great way to miss important questions. Beyond the risks of our customers and market, we also have challenges with our own product. Overlooking the product risks is just as deadly as overlooking the goals and constraints of our customers. Take the following conversation with a professional public speaker. Is it full of good data or bad data? An ambiguous conversation: Them: “…I get paid 2 or 3 grand per talk. Sometimes more if it’s corporate work.” Some good pricing and value signals. You: “Where do you get your gigs? Do you have an agent?” Trying to understand the alternatives. Them: “Yeah. He kind of sucks though. Most of my work comes through people who just know me from my blog or have seen my other talks.” Hardly a must-solve problem since he has a reliable workaround, but at The Mom Test by @robﬁtz 52 momtestbook.com    /    foundercentric.com least it’s high value. You: “What’s wrong with the agent? And why do you still work with him?” Dig. Them: “I’m one of the lowest-paid people they work with, so I get ignored a lot. But sometimes he brings in deals, so whatever. It’s free money.” Good information on his motivations and goals. At this point, let’s say I’m conﬁdent that getting gigs is important to him. I also know what it’s worth and how he’s currently accomplishing it. So I zoom in to introduce the problem I’m solving and the way I want to approach it. You: “I’m building a marketplace to cut out the agents and connect event organisers directly with speakers. It should help you get more gigs and keep the agent fees. How would that ﬁt into your speaking life?” Them: “Man, that’s awesome. If you could get me more more gigs — or better paid ones — I’d happily drop my agent and pay you 20% of the boost. I know a bunch of other people who would love to as well.” This is the important bit — is it good? So what’s the result? Beyond being excited, we got some concrete data about how valuable this could be to him. Plus, it involved a commitment to be one of our early users. It sure seems good. But what did he actually tell us? He said that if we can get him more gigs, then he’ll pay a cut. Well, obviously. Who doesn’t want free money?
+>>>

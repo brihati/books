@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-04-beware-yes-master-no",
+  "chunk_id": "chapter-04-beware-yes-master-no-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 4 | BEWARE “YES”—MASTER “NO”",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/04 - CHAPTER 4 BEWARE YESMASTER NO.txt",
+    "source_pages": "102-129",
+    "char_start": 20246,
+    "char_end": 27933,
+    "checksum": "0ae5f0cf2dedd6d6"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+psychology degrees, experience, and credentials. But I was on the road to the next hostage negotiation training course at the FBI Academy in Quantico, Virginia, ahead of everybody else. My career as a negotiator had officially begun. “NO” IS PROTECTION Think back to the telemarketer at the beginning of this chapter. The obvious reply to his question—“Do you enjoy a nice glass of water?”—is “Yes.” But all you want to do is scream, “No!” After a question like that you just know the rest of the phone call is going to be painful. That, in a nutshell, distills the inherent contradictions in the values we give “Yes” and “No.” Whenever we negotiate, there’s no doubt we want to finish with a “Yes.”
+
+But we mistakenly conflate the positive value of that final “Yes” with a positive value of “Yes” in general. And because we see “No” as the opposite of “Yes,” we then assume that “No” is always a bad thing. Nothing could be further from the truth. Saying “No” gives the speaker the feeling of safety, security, and control. You use a question that prompts a “No” answer, and your counterpart feels that by turning you down he has proved that he’s in the driver’s seat. Good negotiators welcome— even invite—a solid “No” to start, as a sign that the other party is engaged and thinking. Gun for a “Yes” straight off the bat, though, and your counterpart gets defensive, wary, and skittish. That’s why I tell my students that, if you’re trying to sell something, don’t start with “Do you have a few minutes to talk?” Instead ask, “Is now a bad time to talk?” Either you get “Yes, it is a bad time” followed by a good time or a request to go away, or you get “No, it’s not” and total focus. As an exercise, the next time you get a telemarketing call, write down the questions the seller asks. I promise you’ll find that your level of discomfort correlates directly to how quickly he pushes you for “Yes.” My colleague Marti Evelsizer was the one who first opened my eyes to why “No” was better than “Yes.” Marti was the FBI’s Crisis Negotiation Coordinator in Pittsburgh at the time. She was a dynamo and a negotiating genius, which earned her huge respect both within the Bureau and with the local police. But human beings are innately jealous, and her immediate supervisor was no exception to that rule. Her success diminished him, and that made her a threat. His jealousy got the better of him when the Pittsburgh Police Department’s Hostage Negotiation Team asked her to sit on the selection board for their new candidates. Picking her, and doing so over her boss, was an unprecedented move. So her boss decided to remove her from her position. For ignoring her regular duties, he said. But really it was for being a threat. When Marti sat down with her supervisor for her official dismissal, her options were few. He had every right to do as he pleased. Marti told me that she considered a variety of scenarios. She thought about going right at his jealousy and hashing it out, or explaining how the job would reflect well on the Bureau: “Would you like our office to be honored for its expertise?” But by the time she sat down with him, she had picked one of the most strongly worded “No”-oriented setup questions I have ever heard. “Do you want the FBI to be embarrassed?” she said. “No,” he answered. “What do you want me to do?” she responded. He leaned back in his chair, one of those 1950s faux- leather numbers that squeak meaningfully when the sitter shifts. He stared at her over his glasses and then nodded ever so slightly. He was in control. “Look, you can keep the position,” he said. “Just go back out there and don’t let it interfere with your other duties.” And a minute later Marti walked out with her job intact. When I heard Marti do that, I was like, “Bang!” By pushing for a “No,” Marti nudged her supervisor into a zone where he was making the decisions. And then she furthered his feelings of safety and power with a question inviting him to define her next move. The important thing here is that Marti not only accepted the “No”; she searched it out and embraced it. At a recent sales conference, I asked the participants for the one word they all dread. The entire group yelled, “No!” To them—and to almost everyone—“No” means one thing: end of discussion. But that’s not what it means. “No” is not failure. Used strategically it’s an answer that opens the path forward. Getting to the point where you’re no longer horrified by the word “No” is a liberating moment that every negotiator needs to reach. Because if your biggest fear is “No,” you can’t negotiate. You’re the hostage of “Yes.” You’re handcuffed. You’re done. So let’s undress “No.” It’s a reaffirmation of autonomy. It is not a use or abuse of power; it is not an act of rejection; it is not a manifestation of stubbornness; it is not the end of the negotiation. In fact, “No” often opens the discussion up. The sooner you say “No,” the sooner you’re willing to see options and opportunities that you were blind to previously. Saying “No” often spurs people to action because they feel they’ve protected themselves and now see an opportunity slipping away. Since I’ve demystified “No” for myself, I’ve found the ideas, perceptions, and baggage that people have with that two-letter word to be fascinating. To me, it’s like watching a movie or a music video from the 1980s for the umpteenth time. You can identify with the experience—while simultaneously being conscious of the fact that the world, and you, have moved on. Today, I coach my students to learn to see “No” for what it is. Rather than harming them or those they negotiate with, “No” protects and benefits all parties in an exchange. “No” creates safety, security, and the feeling of control. It’s a requirement to implementable success. It’s a pause, a nudge, and a chance for the speaker to articulate what they do want. As you can see, “No” has a lot of skills. ■ “No” allows the real issues to be brought forth; ■ “No” protects people from making—and lets them correct—ineffective decisions; ■ “No” slows things down so that people can freely embrace their decisions and the agreements they enter into; ■ “No” helps people feel safe, secure, emotionally comfortable, and in control of their decisions; ■ “No” moves everyone’s efforts forward. One of my grad school students, a political fund-raiser named Ben Ottenhoff, drove home this lesson with a bang. For years, he’d been using a traditional “Yes pattern” fund- raising script to raise money for Republican congressional candidates. FUND-RAISER: Hello, can I speak with Mr. Smith? MR. SMITH: Yes, this is he. FUND-RAISER: I’m calling from the XYZ Committee, and I wanted to ask you a few important questions about your views on our economy today. Do you believe that gas prices are currently too high? MR. SMITH: Yes, gas prices are much too high and hurting my family. FUND-RAISER: Do you believe that the Democrats are part of the problem when it comes to high gas prices? MR. SMITH: Yes, President Obama is a bad person FUND-RAISER: Do you think we need change in November? MR. SMITH: Yes, I do. FUND-RAISER: Can you give me your credit card number so you can be a part of that change? In theory at least, the “Yes” answers built up a reservoir of positivity that exploded into donations when requested at the end of the script. The problem, in reality, was that the “Yes pattern” scripts had been giving poor rates of return for years. All the steps were “Yes,” but the final answer was invariably “No.” Then Ben read Jim Camp’s book Start with NO in my class and began to wonder if “No” could be a tool to boost donations. Ben knew that giving the potential donors a no-
+>>>

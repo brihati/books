@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-06-part-ii-methods",
+  "chunk_id": "chapter-06-part-ii-methods-chunk-009",
+  "source": {
+    "chapter_title": "Part II – Methods",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/06 - Part II Methods.txt",
+    "source_pages": "61-106",
+    "char_start": 48178,
+    "char_end": 55872,
+    "checksum": "d7214f29662eab03"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+NS. Nouns that express a concept are commonly used in bad writing instead of verbs that tell what somebody did. Here are three typical dead sentences: Bits & Pieces 77 The common reaction is incredulous laughter. Bemused cynicism isn't the only response to the old system. The current campus hostility is a symptom of the change. What is so eerie about these sentences is that they have no people in them. They also have no working verbs—only "is" or "isn't." The reader can't visualize anybody performing some activity; all the meaning lies in impersonal nouns that embody a vague concept: "reaction," "cynicism," "response," "hostil- ity." Turn these cold sentences around. Get people doing things:
+
+Most people just laugh with disbelief. Some people respond to the old system by turning cynical; others say. . . Its easy to notice the change—you can see how angry all the students are. My revised sentences aren't jumping with vigor, partly because the material I'm trying to knead into shape is shapeless dough. But at least they have real people and real verbs. Don't get caught holding a bag full of abstract nouns. You'll sink to the bottom of the lake and never be seen again. CREEPING NOUNISM. This is a new American disease that strings two or three nouns together where one noun—or, better yet, one verb—will do. Nobody goes broke now; we have money problem areas. It no longer rains; we have precipitation activity or a thunderstorm probability situation. Please, let it rain. Today as many as four or five concept nouns will attach them- selves to each other, like a molecule chain. Here's a brilliant specimen I recently found: "Communication facilitation skills 78 ON WRITING WELL development intervention." Not a person in sight, or a working verb. I think it's a program to help students write better. OVERSTATEMENT. "The living room looked as if an atomic bomb had gone off there," writes the novice writer, describing what he saw on Sun- day morning after a party that got out of hand. Well, we all know he s exaggerating to make a droll point, but we also know that an atomic bomb didn't go off there, or any other bomb except maybe a water bomb. "I felt as if ten 747 jets were flying through my brain," he writes, "and I seriously considered jump- ing out the window and killing myself." These verbal high jinks can get just so high—and this writer is already well over the limit—before the reader feels an overpowering drowsiness. Its like being trapped with a man who can't stop reciting limericks. Don't overstate. You didn't really consider jumping out the win- dow. Life has more than enough truly horrible funny situations. Let the humor sneak up so we hardly hear it coming. CREDIBILITY. Credibility is just as fragile for a writer as for a President. Don't inflate an incident to make it more outlandish than it actu- ally was. If the reader catches you in just one bogus statement that you are trying to pass off as true, everything you write there- after will be suspect. It's too great a risk, and not worth taking. DICTATION. Much of the "writing" done in America is done by dictation. Administrators, executives, managers, educators and other offi- cials think in terms of using their time efficiently. They think the quickest way of getting something "written" is to dictate it to a secretary and never look at it. This is false economy—they save a few hours and blow their whole personality. Dictated sen- tences tend to be pompous, sloppy and redundant. Executives Bits & Pieces 79 who are so busy that they can't avoid dictating should at least find time to edit what they have dictated, crossing words out and putting words in, making sure that what they finally write is a true reflection of who they are, especially if it's a document that will go to customers who will judge their personality and their company on the basis of their style. WRITING IS NOT A CONTEST. Every writer is starting from a different point and is bound for a different destination. Yet many writers are paralyzed by the thought that they are competing with everybody else who is try- ing to write and presumably doing it better. This can often hap- pen in a writing class. Inexperienced students are chilled to find themselves in the same class with students whose byline has appeared in the college newspaper. But writing for the college paper is no great credential; I've often found that the hares who write for the paper are overtaken by the tortoises who move stu- diously toward the goal of mastering the craft. The same fear hobbles freelance writers, who see the work of other writers appearing in magazines while their own keeps returning in the mail. Forget the competition and go at your own pace. Your only contest is with yourself. THE SUBCONSCIOUS MIND. Your subconscious mind does more writing than you think. Often you'll spend a whole day trying to fight your way out of some verbal thicket in which you seem to be tangled beyond sal- vation. Frequently a solution will occur to you the next morning when you plunge back in. While you slept, your writers mind didn't. A writer is always working. Stay alert to the currents around you. Much of what you see and hear will come back, having percolated for days or months or even years through your subconscious mind, just when your conscious mind, laboring to write, needs it. 80 ON WRITING WELL THE QUICKEST FIX. Surprisingly often a difficult problem in a sentence can be solved by simply getting rid of it. Unfortunately, this solution is usually the last one that occurs to writers in a jam. First they will put the troublesome phrase through all kinds of exer- tions—moving it to some other part of the sentence, trying to rephrase it, adding new words to clarify the thought or to oil whatever is stuck. These efforts only make the situation worse, and the writer is left to conclude that there is no solution to the problem—not a comforting thought. When you find yourself at such an impasse, look at the troublesome element and ask, "Do I need it at all?" Probably you don't. It was trying to do an unnecessary job all along—that's why it was giving you so much grief. Remove it and watch the afflicted sentence spring to life and breathe normally. It's the quickest cure and very often the best. PARAGRAPHS. Keep your paragraphs short. Writing is visual—it catches the eye before it has a chance to catch the brain. Short paragraphs put air around what you write and make it look inviting, whereas a long chunk of type can discourage a reader from even starting to read. Newspaper paragraphs should be only two or three sen- tences long; newspaper type is set in a narrow width, and the inches quickly add up. You may think such frequent paragraph- ing will damage the development of your point. Obviously The New Yorker is obsessed by this fear—a reader can go for miles without relief. Don't worry; the gains far outweigh the hazards. But don't go berserk. A succession of tiny paragraphs is as annoying as a paragraph that's too long. I'm thinking of all those midget paragraphs—verbless wonders—written by modern journalists trying to make their articles quick 'n' easy. Actually they make the reader's job harder by chopping up a natural train Bits & Pieces 81 of thought. Compare the following two arrangements of the same article—how they look at a glance and how they read: The No. 2 lawyer at the White The No. 2 lawyer at the White House left work early on Tuesday, House left work early on Tuesday, drove to an isolated park over- drove to an isolated park over- looking the Potomac River and looking the Potomac River and took his life. took his life. A revolver in his A revolver in his hand,
+>>>

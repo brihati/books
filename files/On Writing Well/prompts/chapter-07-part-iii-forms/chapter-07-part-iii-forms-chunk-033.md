@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-07-part-iii-forms",
+  "chunk_id": "chapter-07-part-iii-forms-chunk-033",
+  "source": {
+    "chapter_title": "Part III – Forms",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+    "source_pages": "107-244",
+    "char_start": 222408,
+    "char_end": 230102,
+    "checksum": "69b226e39e06db0a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+type of bore he knew well. It's a universal impatience, whatever the category of old-timer, just as it's a universal trait of old-timers to complain that their field has gone to the dogs. Marquis achieves one of the classic functions of humor: to deflect anger into a chan- nel where we can laugh at frailty instead of railing against it. The next writers on my tour were Donald Ogden Stewart, Robert Benchley and Frank Sullivan, who greatly broadened the possibilities of "free association" humor. Benchley added a dimension of warmth and vulnerability that wasn't present in humorists like Ade and Marquis, who ducked into impersonal forms like fable and doggerel, where they could hide. Nobody is
+
+better than Benchley at diving headlong into his subject: Humor 219 St. Francis of Assisi (unless I am getting him mixed up with St. Simeon Stylites, which might be very easy to do as both their names begin with "St.") was very fond of birds, and often had his picture taken with them sitting on his shoulders and pecking at his wrists. That was all right, if St. Francis liked it. We all have our likes and dislikes, and I have more of a feeling for dogs. Perhaps they were all just paving the way for S. J. Perelman. If so, Perelman gratefully acknowledged the debt. "You must learn by imitation," he said. "I could have been arrested for imi- tating Lardner in my pieces in the late 1920s—not the content, but the manner. These influences gradually fall away." His own influence hasn't been so easily shed. At his death in 1979 he had been writing steadily for more than half a century, putting the language through breathtaking loops, and the woods are still full of writers and comics who were drawn into the gravitational pull of his style and never quite got back out. It doesn't take a detective to see Perelman's hand not only in writers like Woody Allen but in the BBC's Goon Show and Monty Python, in the radio skits of Bob and Ray, and in the glancing wit of Groucho Marx—an influence more easily trace- able because Perelman wrote several of the Marx Brothers' early movies. What he created was an awareness that when the writers mind works by free association it can ricochet from the normal to the absurd and, by the unexpectedness of its angle, demolish whatever trite idea had been there before. Onto this element of constant surprise he grafted the dazzling wordplay that was his trademark, a rich and recondite vocabulary, and an erudition based on reading and travel. But even that mixture wouldn't have sustained him if he hadn't had a target. "All humor must be about something—it must touch concretely on life," he said, and although readers 220 ON WRITING WELL savoring his style may lose sight of his motive, some form of pomposity lies in ruins at the end of a Perelman piece, just as grand opera never quite recovered from the Marx Brothers' A Night at the Opera or banking from W. C. Fields s The Bank Dick. He was seldom at a loss for charlatans and knaves, espe- cially in the worlds of Broadway, Hollywood, advertising and merchandising. I still remember the teenage moment when I first got hit by one of Perelman s sentences. His sentences were unlike any I had ever seen, and they fractured me: The whistle shrilled and in a moment I was chugging out of Grand Central's dreaming spires. I had chugged only a few feet when I realized that I had left without the train, so I had to run back and wait for it to start.. .. With only two hours in Chicago I would be unable to see the city, and the thought drew me into a state of composure. I noted with pleasure that a fresh coat of grime had been given to the Dearborn Street station, though I was hardly vain enough to believe that it had anything to do with my visit. Women loved this impetual Irish adventurer who would rather fight than eat and vice-versa. One night he was chafing at The Bit, a tavern in Portsmouth, when he overheard a chance remark from a brawny gunner's mate in his cups.... The following morning the "Maid of Hull," a frigate of the line mounting 36 guns, out of Bath and into bed in a twin- kling, dropped downstream on the tide, bound for Bombay, object matrimony On her as passenger went my great-grand- father. . . . Fifty-three days later, living almost entirely on cameo brooches and the ptarmigan which fell to the ptrigger of his pfowling piece, he at last sighted the towers of Ishpem- ing, the Holy City of the Surds and Cosines, fanatical Mohammedan warrior sects. Humor 221 My classroom survey ended with Woody Allen, the most cerebral practitioner of the trade. Allen's magazine pieces, now collected in several books, constitute a body of written humor unique for being both intellectual and hilarious, probing not only his well-known themes of death and anxiety but such over- bearing academic disciplines and literary forms as philosophy, psychology, drama, Irish poetry and the explication of texts ("Hassidic Tales"). "A Look at Organized Crime," a parody of all the articles ever written explaining the Mafia, is one of the fun- niest pieces I know, and "The Schmeed Memoirs"—the recol- lections of Hitlers barber—is the ultimate jab at the "good Ger- man" who was just doing his job: I have been asked if I was aware of the moral implications of what I was doing. As I told the tribunal at Nuremberg, I did not know that Hitler was a Nazi. The truth was that for years I thought he worked for the phone company. When I finally did find out what a monster he was, it was too late to do anything, as I had made a down payment on some furniture. Once, toward the end of the war, I did contemplate loosening the Fûhrer s neck-napkin and allowing some tiny hairs to get down his back, but at the last minute my nerve failed me. The brief excerpts in this chapter can convey only a glimmer of the vast output and artistry of these giants. But I wanted my students to know that they were working within a long tradition of serious intent and considerable nerve, one that is still alive in the work of such writers as Ian Frazier, Garrison Keillor, Fran Lebowitz, Nora Ephron, Calvin Trillin and Mark Singer. Singer is the current star in a long lineage of New Yorker writers—St. Clair McKelway, Robert Lewis Taylor, Lillian Ross, Wolcott Gibbs—who used deadpan humor to assassinate such public nuisances as Walter Winchell, leaving hardly a mark where their stiletto broke the skin. 222 ON WRITING WELL Singer s lethal potion is concocted of hundreds of outlandish facts and quotes—he is a tenacious reporter—and a style that barely suppresses his own amusement. It works particularly well on the egregious buccaneers of the late 1990s who have long tried the patience of the citizenry, as proved by his profile in The New Yorker of the developer Donald Trump. Noting that Trump "had aspired to and achieved the ultimate luxury, an exis- tence unmolested by the rumbling of a soul," Singer describes a visit to Mar-a-Lago, the Palm Beach spa converted by Trump from the 118-room Hispano-Moorish-Venetian mansion built in the 1920s by Marjorie Merriweather Post and E. F. Hutton: Evidently, Trump s philosophy of wellness is rooted in a belief that prolonged exposure to exceptionally attractive young spa attendants will instill in the male clientele a will to live. Accordingly, he limits his role to a pocket veto of key hir- ing decisions. While giving me a tour of the main exercise room, where Tony Bennett, who does a couple of gigs at Mar- a-Lago each season and had been designated an "artist-in- residence," was taking a brisk walk on a treadmill, Trump introduced me to "our resident physician, Dr. Ginger Lee SouthalT—a recent chiropractic-college graduate. As Dr.
+>>>

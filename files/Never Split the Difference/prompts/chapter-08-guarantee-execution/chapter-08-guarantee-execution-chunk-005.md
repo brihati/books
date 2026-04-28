@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-08-guarantee-execution",
+  "chunk_id": "chapter-08-guarantee-execution-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 8 | GUARANTEE EXECUTION",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+    "source_pages": "216-248",
+    "char_start": 27199,
+    "char_end": 34879,
+    "checksum": "e665d6c7dcf657cd"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+. This happens because there are actually three kinds of “Yes”: Commitment, Confirmation, and Counterfeit. As we discussed in Chapter 5, so many pushy salesman try to trap their clients into the Commitment “Yes” that many people get very good at the Counterfeit “Yes. “ One great tool for avoiding this trap is the Rule of Three. The Rule of Three is simply getting the other guy to agree to the same thing three times in the same conversation. It’s tripling the strength of whatever dynamic you’re trying to drill into at the moment. In doing so, it uncovers problems before they happen. It’s really hard to repeatedly lie or fake conviction. When I first learned this skill, my biggest fear was how
+
+to avoid sounding like a broken record or coming off as really pushy. The answer, I learned, is to vary your tactics. The first time they agree to something or give you a commitment, that’s No. 1. For No. 2 you might label or summarize what they said so they answer, “That’s right.” And No. 3 could be a calibrated “How” or “What” question about implementation that asks them to explain what will constitute success, something like “What do we do if we get off track?” Or the three times might just be the same calibrated question phrased three different ways, like “What’s the biggest challenge you faced? What are we up against here? What do you see as being the most difficult thing to get around?” Either way, going at the same issue three times uncovers falsehoods as well as the incongruences between words and body language we mentioned in the last section. So next time you’re not sure your counterpart is truthful and committed, try it. THE PINOCCHIO EFFECT With Carlo Collodi’s famous character Pinocchio, it was easy to tell when he was lying: you just had to watch the nose. It turns out that Collodi wasn’t far off reality. Most people offer obvious telltale signs when they’re lying. Not a growing nose, but close enough. In a study of the components of lying,2 Harvard Business School professor Deepak Malhotra and his coauthors found that, on average, liars use more words than truth tellers and use far more third-person pronouns. They start talking about him, her, it, one, they, and their rather than I, in order to put some distance between themselves and the lie. And they discovered that liars tend to speak in more complex sentences in an attempt to win over their suspicious counterparts. It’s what W. C. Fields meant when he talked about baffling someone with bullshit. The researchers dubbed this the Pinocchio Effect because, just like Pinocchio’s nose, the number of words grew along with the lie. People who are lying are, understandably, more worried about being believed, so they work harder—too hard, as it were—at being believable. PAY ATTENTION TO THEIR USAGE OF PRONOUNS The use of pronouns by a counterpart can also help give you a feel for their actual importance in the decision and implementation chains on the other side of the table. The more in love they are with “I,” “me,” and “my” the less important they are. Conversely, the harder it is to get a first person pronoun out of a negotiator’s mouth, the more important they are. Just like in the Malhotra study where the liar is distancing himself from the lie, in a negotiation, smart decision makers don’t want to be cornered at the table into making a decision. They will defer to the people away from the table to keep from getting pinned down. Our cabdriver kidnapper in the Philippines of Alastair Onglingswan used “we,” “they,” and “them” so rigorously early on in the kidnapping I was convinced we were engaged with their leader. I just never knew how literally true it was until the rescue. In the Chase Manhattan Bank robbery from Chapter 2, the bank robber Chris Watts consistently talked out how dangerous the “others” were and how little influence he had on them, all a lie. THE CHRIS DISCOUNT People always talk about remembering and using (but not overusing) your counterpart’s name in a negotiation. And that’s important. The reality though is people are often tired of being hammered with their own name. The slick salesman trying to drive them to “Yes” will hit them with it over and over. Instead, take a different tack and use your own name. That’s how I get the Chris discount. Just as using Alastair’s name with the kidnapper and getting him to use it back humanized the hostage and made it less likely he would be harmed, using your own name creates the dynamic of “forced empathy.” It makes the other side see you as a person. A few years ago I was in a bar in Kansas with a bunch of fellow FBI negotiators. The bar was packed, but I saw one empty chair. I moved toward it but just as I got ready to sit the guy next to it said, “Don’t even think about it.” “Why?” I asked, and he said, “Because I’ll kick your ass.” He was big, burly, and already drunk, but look, I’m a lifelong hostage negotiator—I gravitate toward tense situations that need mediation like a moth to the flame. I held out my hand to shake his and said, “My name is Chris.” The dude froze, and in the pause my fellow FBI guys moved in, patted him on the shoulders, and offered to buy him a drink. Turned out he was a Vietnam veteran at a particularly low point. He was in a packed bar where the entire world seemed to be celebrating. The only thing he could think of was to fight. But as soon as I became “Chris,” everything changed. Now take that mindset to a financial negotiation. I was in an outlet mall a few months after the Kansas experience and I picked out some shirts in one of the stores. At the front counter the young lady asked me if I wanted to join their frequent buyer program. I asked her if I got a discount for joining and she said, “No.” So I decided to try another angle. I said in a friendly manner, “My name is Chris. What’s the Chris discount?” She looked from the register, met my eyes, and gave a little laugh. “I’ll have to ask my manager, Kathy,” she said and turned to the woman who’d been standing next to her. Kathy, who’d heard the whole exchange, said, “The best I can do is ten percent.” Humanize yourself. Use your name to introduce yourself. Say it in a fun, friendly way. Let them enjoy the interaction, too. And get your own special price. HOW TO GET YOUR COUNTERPARTS TO BID AGAINST THEMSELVES Like you saw Aaron and Julie do with their kidnappers, the best way to get your counterparts to lower their demands is to say “No” using “How” questions. These indirect ways of saying “No” won’t shut down your counterpart the way a blunt, pride-piercing “No” would. In fact, these responses will sound so much like counterbids that your counterparts will often keep bidding against themselves. We’ve found that you can usually express “No” four times before actually saying the word. The first step in the “No” series is the old standby: “How am I supposed to do that?” You have to deliver it in a deferential way, so it becomes a request for help. Properly delivered, it invites the other side to participate in your dilemma and solve it with a better offer. After that, some version of “Your offer is very generous, I’m sorry, that just doesn’t work for me” is an elegant second way to say “No.” This well-tested response avoids making a counteroffer, and the use of “generous” nurtures your counterpart to live up to the word. The “I’m sorry” also softens the “No” and builds empathy. (You can ignore the so-called negotiating experts who say apologies are always signs of weakness.) Then you can use something like “I’m sorry but I’m afraid I just can’t do that.” It’s a little more direct, and the “can’t do that” does great double duty. By expressing an
+>>>

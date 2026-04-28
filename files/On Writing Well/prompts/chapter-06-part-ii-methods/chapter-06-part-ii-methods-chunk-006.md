@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-06-part-ii-methods",
+  "chunk_id": "chapter-06-part-ii-methods-chunk-006",
+  "source": {
+    "chapter_title": "Part II – Methods",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/06 - Part II Methods.txt",
+    "source_pages": "61-106",
+    "char_start": 27232,
+    "char_end": 34923,
+    "checksum": "8c4b68be857b647c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ll's dread grip. You'll know you have arrived at III when you see emerging on your screen a sentence that begins, "In sum, it can be noted that..." Or a question that asks, "What insights, then, have we been able to glean from. .. ?" These are signals that you are about to repeat in compressed form what you have already said in detail. The reader's interest begins to falter; the tension you have built begins to sag. Yet you will be true to Miss Potter, your teacher, who made you swear fealty to the holy outline. You remind the reader of what can, in sum, be noted. You go glean- ing one more time in insights you have already adduced. But your readers hear the laborious sound of cranking. They
+
+notice what you are doing and how bored you are by it. They feel the stirrings of resentment. Why didn't you give more thought to how you were going to wind this thing up? Or are you summarizing because you think they're too dumb to get the point? Still, you keep cranking. But the readers have another option. They quit. That's the negative reason for not forgetting the importance of the last sentence. Failure to know where that sentence should occur can wreck an article that until its final stage has been tightly constructed. The positive reason for ending well is that a good last sentence—or last paragraph—is a joy in itself. It gives the reader a lift, and it lingers when the article is over. The perfect ending should take your readers slightly by sur- prise and yet seem exactly right. They didn't expect the article to 66 ON WRITING WELL end so soon, or so abruptly, or to say what it said. But they know it when they see it. Like a good lead, it works. It's like the cur- tain line in a theatrical comedy. We are in the middle of a scene (we think), when suddenly one of the actors says something funny, or outrageous, or epigrammatic, and the lights go out. We are startled to find the scene over, and then delighted by the aptness of how it ended. What delights us is the playwrights perfect control. For the nonfiction writer, the simplest way of putting this into a rule is: when you're ready to stop, stop. If you have pre- sented all the facts and made the point you want to make, look for the nearest exit. Often it takes just a few sentences to wrap things up. Ideally they should encapsulate the idea of the piece and conclude with a sentence that jolts us with its fitness or unexpectedness. Here's how H. L. Mencken ends his appraisal of President Calvin Coolidge, whose appeal to the "customers" was that his "govern- ment governed hardly at all; thus the ideal of Jefferson was real- ized at last, and the Jeffersonians were delighted": We suffer most, not when the White House is a peaceful dormitory, but when it [has] a tin-pot Paul bawling from the roof. Counting out Harding as a cipher only, Dr. Coolidge was preceded by one World Saver and followed by two more. What enlightened American, having to choose between any of them and another Coolidge, would hesitate for an instant? There were no thrills while he reigned, but neither were there any headaches. He had no ideas, and he was not a nui- sance. The five short sentences send the reader on his way quickly and with an arresting thought to take along. The notion of Coolidge having no ideas and not being a nuisance can't help leaving a residue of enjoyment. It works. The Lead and the Ending 67 Something I often do in my own work is to bring the story full circle—to strike at the end an echo of a note that was sounded at the beginning. It gratifies my sense of symmetry, and it also pleases the reader, completing with its resonance the journey we set out on together. But what usually works best is a quotation. Go back through your notes to find some remark that has a sense of finality, or that's funny, or that adds an unexpected closing detail. Some- times it will jump out at you during the interview—I've often thought, "That's my ending!"—or during the process of writing. In the mid-1960s, when Woody Allen was just becoming estab- lished as Americas resident neurotic, doing nightclub mono- logues, I wrote the first long magazine piece that took note of his arrival. It ended like this: "If people come away relating to me as a person," Allen says, "rather than just enjoying my jokes; if they come away wanting to hear me again, no matter what I might talk about, then I'm succeeding." Judging by the returns, he is. Woody Allen is Mr. Related-To, and he seems a good bet to hold the franchise for many years. Yet he does have a problem all his own, unshared by, unrelated to, the rest of America. "I'm obsessed," he says, "by the fact that my mother genuinely resembles Groucho Marx." There's a remark from so far out in left field that nobody could see it coming. The surprise it carries is tremendous. How could it not be a perfect ending? Surprise is one of the most refreshing elements in nonfiction writing. If something surprises you it will also surprise—and delight—the people you are writ- ing for, especially as you conclude your story and send them on their way. 1 0 QSKO Bits 8c Pieces This is a chapter of scraps and morsels—small admonitions on many points that I have collected under one, as they say, umbrella. VERBS. Use active verbs unless there is no comfortable way to get around using a passive verb. The difference between an active- verb style and a passive-verb style—in clarity and vigor—is the difference between life and death for a writer. "Joe saw him" is strong. "He was seen by Joe" is weak. The first is short and precise; it leaves no doubt about who did what. The second is necessarily longer and it has an insipid quality: something was done by somebody to someone else. Its also ambiguous. How often was he seen by Joe? Once? Every day? Once a week? A style that consists of passive constructions will sap the readers energy. Nobody ever quite knows what is being perpetrated by whom and on whom. I use "perpetrated" because it's the kind of word that pas- Bits & Pieces 69 sive-voice writers are fond of. They prefer long words of Latin origin to short Anglo-Saxon words—which compounds their trouble and makes their sentences still more glutinous. Short is generally better than long. Of the 701 words in Lincoln's Second Inaugural Address, a marvel of economy in itself, 505 are words of one syllable and 122 are words of two syllables. Verbs are the most important of all your tools. They push the sentence forward and give it momentum. Active verbs push hard; passive verbs tug fitfully. Active verbs also enable us to visualize an activity because they require a pronoun ("he"), or a noun ("the boy"), or a person ("Mrs. Scott") to put them in motion. Many verbs also carry in their imagery or in their sound a suggestion of what they mean: glitter, dazzle, twirl, beguile, scatter, swagger, poke, pamper, vex. Probably no other language has such a vast supply of verbs so bright with color. Don't choose one that is dull or merely serviceable. Make active verbs activate your sentences, and try to avoid the kind that need an appended preposition to complete their work. Don't set up a business that you can start or launch. Don't say that the presi- dent of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs. If you want to see how active verbs give vitality to the written word, don't just go back to Hemingway or Thurber or Thoreau. I commend the King James Bible and William Shakespeare. ADVERBS. Most adverbs are unnecessary. You will clutter your sentence and annoy the reader if you choose a verb that has a specific meaning and then add an adverb that carries the same meaning.
+>>>

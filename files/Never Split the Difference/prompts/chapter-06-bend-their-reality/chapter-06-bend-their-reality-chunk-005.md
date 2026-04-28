@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-06-bend-their-reality",
+  "chunk_id": "chapter-06-bend-their-reality-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 6 | BEND THEIR REALITY",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+    "source_pages": "152-187",
+    "char_start": 27160,
+    "char_end": 34804,
+    "checksum": "d934048cbee9efd6"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ins. That’s called Loss Aversion. That’s why people who statistically have no need for insurance buy it. Or consider this: a person who’s told he has a 95 percent chance of receiving $10,000 or a 100 percent chance of getting $9,499 will usually avoid risk and take the 100 percent certain safe choice, while the same person who’s told he has a 95 percent chance of losing $10,000 or a 100 percent chance of losing $9,499 will make the opposite choice, risking the bigger 95 percent option to avoid the loss. The chance for loss incites more risk than the possibility of an equal gain. Over the next few pages I’ll explain a few prospect theory tactics you can use to your advantage. But first let me
+
+leave you with a crucial lesson about loss aversion: In a tough negotiation, it’s not enough to show the other party that you can deliver the thing they want. To get real leverage, you have to persuade them that they have something concrete to lose if the deal falls through. 1. ANCHOR THEIR EMOTIONS To bend your counterpart’s reality, you have to start with the basics of empathy. So start out with an accusation audit acknowledging all of their fears. By anchoring their emotions in preparation for a loss, you inflame the other side’s loss aversion so that they’ll jump at the chance to avoid it. On my first consulting project after leaving the FBI, I received the honor to train the national hostage negotiation team for the United Arab Emirates. Unfortunately, the prestige of the assignment was tempered during the project by problems with the general contractor (I was a subcontractor). The problems became so bad that I was going to have to go back to the contractors I’d signed up, who normally got $2,000 a day, and tell them that for several months, I could only offer $500. I knew exactly what they would do if I just told them straight out: they’d laugh me out of town. So I got each of them on the phone and hit them hard with an accusation audit. “I got a lousy proposition for you,” I said, and paused until each asked me to go on. “By the time we get off the phone, you’re going to think I’m a lousy businessman. You’re going to think I can’t budget or plan. You’re going to think Chris Voss is a big talker. His first big project ever out of the FBI, he screws it up completely. He doesn’t know how to run an operation. And he might even have lied to me.” And then, once I’d anchored their emotions in a minefield of low expectations, I played on their loss aversion. “Still, I wanted to bring this opportunity to you before I took it to someone else,” I said. Suddenly, their call wasn’t about being cut from $2,000 to $500 but how not to lose $500 to some other guy. Every single one of them took the deal. No counteroffers, no complaints. Now, if I hadn’t anchored their emotions low, their perception of $500 would have been totally different. If I’d just called and said, “I can give you $500 per day. What do you think?” they’d have taken it as an insult and slammed down the phone. 2. LET THE OTHER GUY GO FIRST . . . MOST OF THE TIME. Now, it’s clear that the benefits of anchoring emotions are great when it comes to bending your counterpart’s reality. But going first is not necessarily the best thing when it comes to negotiating price. When the famous film director Billy Wilder went to hire the famous detective novelist Raymond Chandler to write the 1944 classic Double Indemnity, Chandler was new to Hollywood. But he came ready to negotiate, and in his meeting with Wilder and the movie’s producer, Chandler made the first salary offer: he bluffly demanded $150 per week and warned Wilder that it might take him three weeks to finish the project. Wilder and the producer could barely stop from laughing, because they had been planning to pay Chandler $750 per week and they knew that movie scripts took months to write. Lucky for Chandler, Wilder and the producer valued their relationship with Chandler more than a few hundred dollars, so they took pity on him and called an agent to represent Chandler in the negotiations. Similarly, I had a student named Jerry who royally screwed up his salary negotiation by going first (let me say that this happened before he was my student). In an interview at a New York financial firm, he demanded $110,000, in large part because it represented a 30 percent raise. It was only after he started that he realized that the firm had started everybody else in his program at $125,000. That’s why I suggest you let the other side anchor monetary negotiations. The real issue is that neither side has perfect information going to the table. This often means you don’t know enough to open with confidence. That’s especially true anytime you don’t know the market value of what you are buying or selling, like with Jerry or Chandler. By letting them anchor you also might get lucky: I’ve experienced many negotiations when the other party’s first offer was higher than the closing figure I had in mind. If I’d gone first they would have agreed and I would have left with either the winner’s curse or buyer’s remorse, those gut- wrenching feelings that you’ve overpaid or undersold. That said, you’ve got to be careful when you let the other guy anchor. You have to prepare yourself psychically to withstand the first offer. If the other guy’s a pro, a shark, he’s going to go for an extreme anchor in order to bend your reality. Then, when they come back with a merely absurd offer it will seem reasonable, just like an expensive $400 iPhone seems reasonable after they mark it down from a crazy $600. The tendency to be anchored by extreme numbers is a psychological quirk known as the “anchor and adjustment” effect. Researchers have discovered that we tend to make adjustments from our first reference points. For example, most people glimpsing 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1 estimate that it yields a higher result than the same string in reverse order. That’s because we focus on the first numbers and extrapolate. That’s not to say, “Never open.” Rules like that are easy to remember, but, like most simplistic approaches, they are not always good advice. If you’re dealing with a rookie counterpart, you might be tempted to be the shark and throw out an extreme anchor. Or if you really know the market and you’re dealing with an equally informed pro, you might offer a number just to make the negotiation go faster. Here’s my personal advice on whether or not you want to be the shark that eats a rookie counterpart. Just remember, your reputation precedes you. I’ve run into CEOs whose reputation was to always badly beat their counterpart and pretty soon no one would deal with them. 3. ESTABLISH A RANGE While going first rarely helps, there is one way to seem to make an offer and bend their reality in the process. That is, by alluding to a range. What I mean is this: When confronted with naming your terms or price, counter by recalling a similar deal which establishes your “ballpark,” albeit the best possible ballpark you wish to be in. Instead of saying, “I’m worth $110,000,” Jerry might have said, “At top places like X Corp., people in this job get between $130,000 and $170,000.” That gets your point across without moving the other party into a defensive position. And it gets him thinking at higher levels. Research shows that people who hear extreme anchors unconsciously adjust their expectations in the direction of the opening number. Many even go directly to their price limit. If Jerry had given this range, the firm probably would have offered $130,000 because it looked so cheap next to $170,000. In a recent study,4 Columbia Business School
+>>>

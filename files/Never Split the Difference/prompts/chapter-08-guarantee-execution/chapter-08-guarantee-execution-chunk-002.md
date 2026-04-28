@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-08-guarantee-execution",
+  "chunk_id": "chapter-08-guarantee-execution-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 8 | GUARANTEE EXECUTION",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+    "source_pages": "216-248",
+    "char_start": 6288,
+    "char_end": 13965,
+    "checksum": "9af1aeddfa082c77"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e saw how the calibrated questions would stall for time, and she was convinced that with enough time her husband would find a way to get home. The day after the kidnapping, the rebels marched José into the mountains along the Colombian border and settled in a cabin high in the jungle. There José built a rapport with the kidnappers to make himself harder for them to kill. He impressed them with his knowledge of the jungle and, with a black belt in karate, he filled the time by teaching them martial arts. My negotiators coached Julie every day as we waited for contact from the rebels. We learned later that the designated negotiator from José’s captors had to walk to town to negotiate by phone.
+
+My guys told Julie to answer every one of the kidnappers’ demands with a question. My strategy was to keep the kidnappers engaged but off balance. “How do I know José is alive?” she asked the first time they talked. To their demand for $5 million, she said, “We don’t have that kind of money. How can we raise that much?” “How can we pay you anything until we know José is okay?” Julie asked the next time they talked. Questions, always questions. The kidnapper who was negotiating with Julie seemed extremely perplexed by her persistent questions, and he kept asking for time to think. That slowed everything down, but he never got angry with Julie. Answering questions gave him the illusion that he had control of the negotiation. By constantly asking questions and making minuscule offers, Julie drove the ransom down to $16,500. When they came to that number, the kidnappers demanded she get it to them immediately. “How can I do that when I have to sell my cars and trucks?” she asked. Always buying more time. We were starting to grin because success was within reach; we were really close to a ransom that the family could afford. And then I got a phone call in the middle of the night from one of my deployed guys in Ecuador, Kevin Rust. Kevin is a terrific negotiator and the same guy who’d called to tell me a year earlier that Martin Burnham had been killed. My stomach tied into a knot when I heard his voice. “We just got a call from José,” Kevin said. “He’s still in guerrilla territory but he escaped and he’s on a bus and he’s making his way out.” It took me half a minute to respond, and when I did all I could say was “Holy shit! That’s fantastic news!” What had happened, we learned later, was that with all the delays and questions, some of the guerrillas peeled off and didn’t return. Pretty soon there was only one teenager guarding José at night. He saw an opening late one evening when it began to chuck down rain. Pounding on the metal roof, the rain drowned out all other sound as the lone guard slept. Knowing the wet leaves outside would absorb the sound of his footsteps, José climbed through the window, ran down jungle paths to a dirt road, and worked his way to a small town. Two days later he was back with Julie and their baby, just a few days before his daughter’s first birthday. Julie was right: with enough time he had found a way home. Calibrated “How” questions are a surefire way to keep negotiations going. They put the pressure on your counterpart to come up with answers, and to contemplate your problems when making their demands. With enough of the right “How” questions you can read and shape the negotiating environment in such a way that you’ll eventually get to the answer you want to hear. You just have to have an idea of where you want the conversation to go when you’re devising your questions. The trick to “How” questions is that, correctly used, they are gentle and graceful ways to say “No” and guide your counterpart to develop a better solution—your solution. A gentle How/No invites collaboration and leaves your counterpart with a feeling of having been treated with respect. Look back at what Julie did when the Colombian rebel kidnappers made their first demands. “How can we raise that much?” she asked. Notice that she did not use the word “No.” But she still managed to elegantly deny the kidnappers’ $5 million demand. As Julie did, the first and most common “No” question you’ll use is some version of “How am I supposed to do that?” (for example, “How can we raise that much?”). Your tone of voice is critical as this phrase can be delivered as either an accusation or a request for assistance. So pay attention to your voice. This question tends to have the positive effect of making the other side take a good look at your situation. This positive dynamic is what I refer to as “forced empathy,” and it’s especially effective if leading up to it you’ve already been empathic with your counterpart. This engages the dynamic of reciprocity to lead them to do something for you. Starting with José’s kidnapping, “How am I supposed to do that?” became our primary response to a kidnapper demanding a ransom. And we never had it backfire. Once I was working with an accounting consultant named Kelly who was owed a pile of money by a corporate client. She kept consulting because she believed she was developing a useful contact, and because the promise of a future payday seemed to justify continuing in good faith. But at a certain point Kelly was so far behind on her own bills that she was in a bind. She couldn’t continue to work with only a vague idea of when she’d get paid, but she worried that if she pushed too hard she wouldn’t get paid at all. I told her to wait until the client asked for more work, because if she made a firm payment demand right away she would be vulnerable if they refused. Luckily for Kelly, the client soon called to ask her for more work. Once he finished his request, she calmly asked a “How” question: “I’d love to help,” she said, “but how am I supposed to do that?” By indicating her willingness to work but asking for help finding a way to do so, she left her deadbeat customer with no choice but to put her needs ahead of everything else. And she got paid. Besides saying “No,” the other key benefit of asking “How?” is, quite literally, that it forces your counterpart to consider and explain how a deal will be implemented. A deal is nothing without good implementation. Poor implementation is the cancer that eats your profits. By making your counterparts articulate implementation in their own words, your carefully calibrated “How” questions will convince them that the final solution is their idea. And that’s crucial. People always make more effort to implement a solution when they think it’s theirs. That is simply human nature. That’s why negotiation is often called “the art of letting someone else have your way.” There are two key questions you can ask to push your counterparts to think they are defining success their way: “How will we know we’re on track?” and “How will we address things if we find we’re off track?” When they answer, you summarize their answers until you get a “That’s right.” Then you’ll know they’ve bought in. On the flip side, be wary of two telling signs that your counterpart doesn’t believe the idea is theirs. As I’ve noted, when they say, “You’re right,” it’s often a good indicator they are not vested in what is being discussed. And when you push for implementation and they say, “I’ll try,” you should get a sinking feeling in your stomach. Because this really means, “I plan to fail.” When you hear either of these, dive back in with calibrated “How” questions until they define the terms of successful implementation in their own voice. Follow up by summarizing what they have said to get a “That’s right.” Let the other side feel victory. Let them think it was their idea. Subsume your ego. Remember: “Yes” is nothing
+>>>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Preserve"
+  short_description: "Create source-linked book knowledge notes"
+  default_prompt: "Use $book-preserve-content to preserve this chapter as structured source-linked notes."

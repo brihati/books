@@ -1,0 +1,98 @@
+{
+  "pdf": "/Users/sachin/Downloads/on-writing-well.pdf",
+  "page_count": 322,
+  "mode": "toc",
+  "toc_level": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Cover",
+      "level": 1,
+      "start_page_1based": 1,
+      "end_page_1based": 7,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/01 - Cover.txt",
+      "char_count": 1037
+    },
+    {
+      "index": 2,
+      "title": "Copyright page",
+      "level": 1,
+      "start_page_1based": 8,
+      "end_page_1based": 8,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/02 - Copyright page.txt",
+      "char_count": 1209
+    },
+    {
+      "index": 3,
+      "title": "Contents",
+      "level": 1,
+      "start_page_1based": 9,
+      "end_page_1based": 10,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/03 - Contents.txt",
+      "char_count": 788
+    },
+    {
+      "index": 4,
+      "title": "Introduction",
+      "level": 1,
+      "start_page_1based": 11,
+      "end_page_1based": 14,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/04 - Introduction.txt",
+      "char_count": 6934
+    },
+    {
+      "index": 5,
+      "title": "Part I \u2013 Principles",
+      "level": 1,
+      "start_page_1based": 15,
+      "end_page_1based": 60,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+      "char_count": 73988
+    },
+    {
+      "index": 6,
+      "title": "Part II \u2013 Methods",
+      "level": 1,
+      "start_page_1based": 61,
+      "end_page_1based": 106,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/06 - Part II Methods.txt",
+      "char_count": 78692
+    },
+    {
+      "index": 7,
+      "title": "Part III \u2013 Forms",
+      "level": 1,
+      "start_page_1based": 107,
+      "end_page_1based": 244,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+      "char_count": 242815
+    },
+    {
+      "index": 8,
+      "title": "Part IV \u2013 Attitudes",
+      "level": 1,
+      "start_page_1based": 245,
+      "end_page_1based": 308,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+      "char_count": 111844
+    },
+    {
+      "index": 9,
+      "title": "Sources",
+      "level": 1,
+      "start_page_1based": 309,
+      "end_page_1based": 314,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/09 - Sources.txt",
+      "char_count": 7432
+    },
+    {
+      "index": 10,
+      "title": "Index",
+      "level": 1,
+      "start_page_1based": 315,
+      "end_page_1based": 322,
+      "out_file": "/Users/sachin/books/files/On Writing Well/chapters/10 - Index.txt",
+      "char_count": 14470
+    }
+  ]
+}

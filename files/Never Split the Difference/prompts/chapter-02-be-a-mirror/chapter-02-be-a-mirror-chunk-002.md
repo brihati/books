@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-02-be-a-mirror",
+  "chunk_id": "chapter-02-be-a-mirror-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 2 | BE A MIRROR",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+    "source_pages": "36-69",
+    "char_start": 6284,
+    "char_end": 13962,
+    "checksum": "af0d6e8bb8552f07"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+thought we’d be in and out of there in ten minutes, because the bad guys supposedly wanted to give themselves up. This would later become a problem, when negotiations stalled and Command became embarrassed, because they’d made the mistake of sharing this early optimism with the press, based on all the early misinformation. We arrived on the scene to take a surrender, but the situation went sideways almost immediately. Everything we assumed we knew was wrong. CALM THE SCHIZOPHRENIC Our Negotiation Operation Center (NOC) was set up in an office in a bank immediately across a narrow street from the Chase branch. We were way too close to the hostage site, so right away we were at a disadvantage.
+
+We were less than thirty yards from the crisis point, where ideally you want to have a little more of a buffer than that. You want to put some distance between you and whatever worst-case scenario might be waiting at the other end of the deal. When my partner and I arrived, I was immediately assigned to coach the police department negotiator on the phone. His name was Joe, and he was doing fine—but in these types of situations, nobody worked alone. We always worked in teams. The thinking behind this policy was that all these extra sets of ears would pick up extra information. In some standoffs, we had as many as five people on the line, analyzing the information as it came in, offering behind-the-scenes input and guidance to our man on the phone—and that’s how we were set up here. We had Joe taking the lead on the phone, and another three or four of us were listening in, passing notes back and forth, trying to make sense of a confusing situation. One of us was trying to gauge the mood of the bad guy taking the lead on the other end, and another was listening in for clues or “tells” that might give us a better read on what we were facing, and so on. Students of mine balk at this notion, asking, “Seriously, do you really need a whole team to . . . hear someone out?” The fact that the FBI has come to that conclusion, I tell them, should be a wake-up call. It’s really not that easy to listen well. We are easily distracted. We engage in selective listening, hearing only what we want to hear, our minds acting on a cognitive bias for consistency rather than truth. And that’s just the start. Most people approach a negotiation so preoccupied by the arguments that support their position that they are unable to listen attentively. In one of the most cited research papers in psychology,1 George A. Miller persuasively put forth the idea that we can process only about seven pieces of information in our conscious mind at any given moment. In other words, we are easily overwhelmed. For those people who view negotiation as a battle of arguments, it’s the voices in their own head that are overwhelming them. When they’re not talking, they’re thinking about their arguments, and when they are talking, they’re making their arguments. Often those on both sides of the table are doing the same thing, so you have what I call a state of schizophrenia: everyone just listening to the voice in their head (and not well, because they’re doing seven or eight other things at the same time). It may look like there are only two people in a conversation, but really it’s more like four people all talking at once. There’s one powerful way to quiet the voice in your head and the voice in their head at the same time: treat two schizophrenics with just one pill. Instead of prioritizing your argument—in fact, instead of doing any thinking at all in the early goings about what you’re going to say—make your sole and all-encompassing focus the other person and what they have to say. In that mode of true active listening— aided by the tactics you’ll learn in the following chapters— you’ll disarm your counterpart. You’ll make them feel safe. The voice in their head will begin to quiet down. The goal is to identify what your counterparts actually need (monetarily, emotionally, or otherwise) and get them feeling safe enough to talk and talk and talk some more about what they want. The latter will help you discover the former. Wants are easy to talk about, representing the aspiration of getting our way, and sustaining any illusion of control we have as we begin to negotiate; needs imply survival, the very minimum required to make us act, and so make us vulnerable. But neither wants nor needs are where we start; it begins with listening, making it about the other people, validating their emotions, and creating enough trust and safety for a real conversation to begin. We were far from that goal with the lead hostage-taker on the call. He kept putting up these weird smoke screens. He wouldn’t give up his name, he tried to disguise his voice, he was always telling Joe he was being put on speaker so everyone around him in the bank could hear, and then he would abruptly announce that he was putting Joe on “hold” and hang up the phone. He was constantly asking about a van, saying he and his partners wanted us to arrange one for them so they could drive themselves and the hostages to the local precinct to surrender. That was where the surrender nonsense had come from—but, of course, this wasn’t a surrender plan so much as it was an escape plan. In the back of his mind, this guy thought he could somehow leave the bank without being taken into custody, and now that his getaway driver had fled the scene he needed access to a vehicle. After it was all over, a couple of other details came clear. We weren’t the only ones who had been lied to. Apparently, this lead bank robber hadn’t told his partners they were going to rob a bank that morning. It turned out he was a cash courier who serviced the bank, and his partners were under the impression that they were going to burglarize the ATM. They didn’t sign up for taking hostages, so we learned that this guy’s co-conspirators were also hostages, in a way. They were caught up in a bad situation they didn’t see coming—and, in the end, it was this “disconnect” among the hostage-takers that helped us to drive a wedge between them and put an end to the stalemate. SLOW. IT. DOWN. The leader wanted to make us think he and his partners were taking good care of his hostages, but in reality the security guard was out of the picture and the second bank teller had run to the bank basement to hide. Whenever Joe said he wanted to talk to the hostages, the hostage-taker would stall, and make it seem like there was this frenzy of activity going on inside the bank, going to ridiculous lengths to tell us how much time and energy he and his cohorts were spending on taking good care of the hostages. Very often, the leader would use this as a reason to put Joe on hold, or to end a call. He’d say, “The girls need to go to the bathroom.” Or, “The girls want to call their families.” Or, “The girls want to get something to eat.” Joe was doing a good job keeping this guy talking, but he was slightly limited by the negotiating approach that police departments were using at the time. The approach was half MSU—Making Shit Up—and half a sort of sales approach—basically trying to persuade, coerce, or manipulate in any way possible. The problem was, we were in too much of a hurry, driving too hard toward a quick solution; trying to be a problem solver, not a people mover. Going too fast is one of the mistakes all negotiators are prone to making. If we’re too much in a hurry, people can feel as if they’re not being heard and we risk undermining the rapport and trust we’ve built. There’s plenty of research that now validates the passage of time as one of the most important tools for a negotiator.
+>>>

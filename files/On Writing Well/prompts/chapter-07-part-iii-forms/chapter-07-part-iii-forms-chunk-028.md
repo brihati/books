@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-07-part-iii-forms",
+  "chunk_id": "chapter-07-part-iii-forms-chunk-028",
+  "source": {
+    "chapter_title": "Part III – Forms",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+    "source_pages": "107-244",
+    "char_start": 187561,
+    "char_end": 195256,
+    "checksum": "e6aa0c1b0d62f1bf"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+your mind and the journey that took you to your conclusion. We like good critics as much for their personality as for their opinions. There's no medium like the movies to give us the pleasure of traveling with a good critic. The shared territory is so vast. Movies are intertwined with our daily lives and attitudes, our memories and myths—four different lines from Casablanca have made it into Bartlett's Familiar Quotations—and we count on the critic to make those connections for us. A typical service that the critic provides is to freeze briefly for our inspection the stars who shoot across the screen in film after film, sometimes arriving from a galaxy previously unknown to stargazers. Molly
+
+Haskell, reviewing A Cry in the Dark, in which Meryl Streep plays an Australian woman convicted of killing her baby on a camping trip, ponders Streep's "delight in disguise—in bizarre 200 ON WRITING WELL wigs, unorthodox getups and foreign accents—and in playing women who are outside the normal range of audience sympa- thy." Putting this in a historical context, as good critics should, she writes: The aura of the old stars radiated out of a sense of self, a core identity projected into every role. However varied the performances of Bette Davis, or Katharine Hepburn, or Mar- garet Sullavan, we always felt we were in the presence of something knowable, familiar, constant. They had recogniz- able voices, ways of reading a line, even certain expressions that remained constant from film to film. Comics could do imitations of them, and you either responded to them, unam- bivalently, or you didn't. Streep, chameleon-like, undercuts this response by never staying in one place long enough for you to get a fix on her. Bette Davis, stretching the bounds of type, went in for costume (The Virgin Queen) and period (The Old Maid), but she was always Bette Davis, and no one would have thought to want it otherwise. Like Streep, she even dared to play unlikable, morally ambiguous heroines, her greatest being the wife of the plantation owner in The Letter who murders her treacherous lover in cold blood, then refuses to repent. The difference is that Davis fused with the role, poured her own passion and intensity into it. Her heroine is as icily proud and implacable as Medea—which may be why members of the Academy denied her the Oscar she deserved in favor of sweeter and tamer Ginger Rogers for Kitty Foyle—but Davis makes us respond to the fire within. It's hard to imagine an actress like Streep, who remains at a safe distance from her roles, rising to such heights.. . or falling to such depths. The passage deftly connects Hollywood past and Hollywood present, leaving us to fathom the postmodern cool of Meryl Writing About the Arts: Critics and Columnists 201 Streep but also telling us everything we need to know about Bette Davis. By extension it tells us about a whole generation of grand dragons who reigned with Davis in the golden age of the star system—the likes of Joan Crawford and Barbara Stan- wyck—and who didn't mind being hated on the screen as long as they were loved at the box office. Turning to another medium, here's an excerpt from Living- Room War, by Michael J. Arien, a collection of columns of tele- vision criticism that Arlen wrote in the mid-1960s. Vietnam is often referred to as "televisions war," in the sense that this is the first war that has been brought to the people preponderantly by television. People indeed look at television. They really look at it. They look at Dick Van Dyke and become his friend. They look at thoughtful Chet Hunt- ley and find him thoughtful, and at witty David Brinkley and find him witty. They look at Vietnam. They look at Vietnam, it seems, as a child kneeling in the corridor, his eye to the keyhole, looks at two grownups arguing in a locked room— the aperture of the keyhole small; the figures shadowy, mostly out of sight; the voices indistinct, isolated threats without meaning; isolated glimpses, part of an elbow, a man's jacket (who is the man?), part of a face, a woman's face. Ah, she is crying. One sees the tears. (The voices continue indis- tinctly.) One counts the tears. Two tears. Three tears. Two bombing raids. Four seek-and-destroy missions. Six adminis- tration pronouncements. Such a fine-looking woman. One searches in vain for the other grownup, but, ah, the keyhole is so small, he is somehow never in the line of sight. Look! There is General Ky. Look! There are some planes returning safely to the Ticonderoga. I wonder (sometimes) what it is that the people who run television think about the war, because they have given us this keyhole view; we have given them the airwaves, and now, at this crucial time, they have 202 ON WRITING WELL given back to us this keyhole view—and I wonder if they truly think that those isolated glimpses of elbow, face, a swirl of dress (who is that other person anyway?) are all that we children can stand to see of what is going on inside the room. This is criticism at its best: stylish, allusive, disturbing. It dis- turbs us—as criticism often should—because it jogs a set of beliefs and forces us to reexamine them. What holds our atten- tion is the metaphor of the keyhole, so exact and yet so mysteri- ous. But what remains is a fundamental question about how the country's most powerful medium told the people about the war they were fighting—and escalating. The column ran in 1966, when most Americans still supported the Vietnam war. Would they have turned against it sooner if TV had widened the key- hole, had shown us not only the "swirl of dress" but the severed head and the burning child? It's too late now to know. But at least one critic was keeping watch. Critics should be among the first to notify us when the truths we hold to be self-evident cease to be true. Some arts are harder to catch in print than others. One is dance, which consists of movement. How can a writer freeze all the graceful leaps and pirouettes? Another is music. It's an art that we receive through our ears, yet writers are stuck with describing it in words that we will see. At best they can only partly succeed, and many a music critic has built a long career by hiding behind a hedge of Italian technical terms. He will find just a shade too much rubato in a pianist, a tinge of shrillness in a soprano's tessitura. But even in this world of evanescent notes a good critic can make sense of what happened by writing good English. Virgil Thomson, the music critic of the New York Herald Tribune from 1940 to 1954, was an elegant practitioner. A composer himself, an erudite and cultivated man, he never forgot that his readers Writing About the Arts: Critics and Columnists 203 were real people, and he wrote with a zest that swept them along, his style alive with pleasant surprises. He was also fear- less; during his tenure no sacred cow could safely graze. He never forgot that musicians are real people, and he didn't hesi- tate to shrink the giants to human scale: It is extraordinary how little musicians discuss among themselves Toscanini s lightness or wrongness about matters of speed and rhythm and the tonal amenities. Like other musicians, he is frequently apt about these and as frequently in error. What seems to be more important is his unvarying ability to put over a piece. He quite shamelessly whips up the tempo and sacrifices clarity and ignores a basic rhythm, just making the music, like his baton, go round and round, if he finds his audience s attention tending to waver. No piece has to mean anything specific; every piece has to provoke from its hearers a spontaneous vote of acceptance. This is what I call the "wow technique."
+>>>

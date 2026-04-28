@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-07-part-iii-forms",
+  "chunk_id": "chapter-07-part-iii-forms-chunk-004",
+  "source": {
+    "chapter_title": "Part III – Forms",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+    "source_pages": "107-244",
+    "char_start": 20246,
+    "char_end": 27941,
+    "checksum": "70bf7ec14746b171"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+agazines. They have the sound of spontaneity, the refreshing absence of a writer hovering over the product and burnishing it to a high gloss. Strictly, however, this isn't writing. It's a process of asking questions and then pruning and splicing and editing the tran- scribed answers, and it takes a tremendous amount of time and labor. Educated people who you think have been talking into your tape recorder with linear precision turn out to have been stumbling so aimlessly over the sands of language that they haven't completed a single decent sentence. The ear makes repeated allowances for missing grammar, syntax and transitions that the eye wouldn't tolerate in print. The seemingly simple use
+
+of a tape recorder isn't simple; infinite stitchery is required. But my main reasons for warning you off it are practical. One hazard is that you don't usually have a tape recorder with you; you are more likely to have a pencil. Another is that tape recorders malfunction. Few moments in journalism are as glum as the return of a reporter with "a really great story," followed by his pushing of the PLAY button and silence. But above all, a writer should be able to see his materials. If your interview is on tape you become a listener, forever fussing with the machine, running it backward to find the brilliant remark you can never quite find, running it forward, stopping, starting, driving your- self crazy. Be a writer. Write things down. I do my interviewing by hand, with a sharp No. 1 pencil. I Writing About People: The Interview 107 like the transaction with another person. I like the fact that that person can see me working—doing a job, not just sitting there letting a machine do it for me. Only once did I use a tape recorder extensively: for my book, Willie and Dwike, about the jazz musicians Willie Ruff and Dwike Mitchell. Although I knew both men well, I felt that a white writer who presumes to write about the black experience has an obligation to get the tonalities right. Its not that Ruff and Mitchell speak a different kind of English; they speak good and often eloquent English. But as Southern blacks they use certain words and idioms that are dis- tinctive to their heritage, adding richness and humor to what they say. I didn't want to miss any of those usages. My tape recorder caught them all, and readers of the book can hear that I got the two men right. Consider using a tape recorder in situa- tions where you might violate the cultural integrity of the people you're interviewing. Taking notes, however, has one big problem: the person you're interviewing often starts talking faster than you can write. You are still scribbling Sentence A when he zooms into Sen- tence B. You drop Sentence A and pursue him into Sentence B, meanwhile trying to hold the rest of Sentence A in your inner ear and hoping Sentence C will be a dud that you can skip alto- gether, using the time to catch up. Unfortunately, you now have your subject going at high speed. He is finally saying all the things you have been trying to cajole out of him for an hour, and saying them with what seems to be Churchillian eloquence. Your inner ear is clogging up with sentences you want to grab before they slip away. Tell him to stop. Just say, "Hold it a minute, please," and write until you catch up. What you are trying to do with your feverish scribbling is to quote him correctly, and nobody wants to be misquoted. With practice you will write faster and develop some form of shorthand. You'll find yourself devising abbreviations for often- 108 ON WRITING WELL used words and also omitting the small connective syntax. As soon as the interview is over, fill in all the missing words you can remember. Complete the uncompleted sentences. Most of them will still be lingering just within the bounds of recall. When you get home, type out your notes—probably an almost illegible scrawl—so that you can read them easily. This not only makes the interview accessible, along with the clippings and other materials you have assembled. It enables you to review in tranquillity a torrent of words that you wrote in haste, and thereby discover what the person really said. You'll find that he said much that's not interesting, or not pertinent, or that's repetitive. Single out the sentences that are most important or colorful. You'll be tempted to use all the words that are in your notes because you performed the labori- ous chore of getting them all down. But that's a self-indul- gence—no excuse for putting the reader to the same effort. Your job is to distill the essence. What about your obligation to the person you interviewed? To what extent can you cut or juggle his words? This question vexes every writer returning from a first interview—and it should. But the answer isn't hard if you keep in mind two stan- dards: brevity and fair play. Your ethical duty to the person being interviewed is to pre- sent his position accurately. If he carefully weighed two sides of an issue and you only quote his views of one side, making him seem to favor that position, you will misrepresent what he told you. Or you might misrepresent him by quoting him out of con- text, or by choosing only some flashy remark without adding the serious afterthought. You are dealing with a person s honor and reputation—and also with your own. But after that your duty is to the reader. He or she deserves the tightest package. Most people meander in their conversa- tion, filling it with irrelevant tales and trivia. Much of it is delightful, but it's still trivia. Your interview will be strong to the Writing About People: The Interview 109 extent that you get the main points made without waste. There- fore if you find on page 5 of your notes a comment that per- fectly amplifies a point on page 2—a point made earlier in the interview—you will do everyone a favor if you link the two thoughts, letting the second sentence follow and illustrate the first. This may violate the truth of how the interview actually progressed, but you will be true to the intent of what was said. Play with the quotes by all means—selecting, rejecting, thin- ning, transposing their order, saving a good one for the end. Just make sure the play is fair. Don't change any words or let the cut- ting of a sentence distort the proper context of what remains. Do I literally mean "don't change any words"? Yes and no. If a speaker chooses his words carefully you should make it a point of professional pride to quote him verbatim. Most interviewers are sloppy about this; they think that if they achieve a rough approximation it's good enough. It's not good enough: nobody wants to see himself in print using words or phrases he would never use. But if the speaker's conversation is ragged—if his sentences trail off, if his thoughts are disorderly, if his language is so tangled that it would embarrass him—the writer has no choice but to clean up the English and provide the missing links. Sometimes you can fall into a trap by trying to be too true to the speaker. As you write your article, you type his words exactly as you took them down. You even allow yourself a moment of satisfaction at being such a faithful scribe. Later, editing what you've written, you realize that several of the quotes don't quite make sense. When you first heard them they sounded so felici- tous that you didn't give them a second thought. Now, on sec- ond thought, there's a hole in the language or the logic. To leave the hole is no favor to the reader or the speaker—and no credit to the writer. Often you only need to add one or two clarifying words. Or you might find another quote in your notes that makes the same point clearly.
+>>>

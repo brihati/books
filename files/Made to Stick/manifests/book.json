@@ -1,0 +1,44 @@
+{
+  "book_id": "made-to-stick",
+  "title": "Made to Stick",
+  "book_dir": "/Users/sachin/books/files/Made to Stick",
+  "chapter_count": 4,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-chapter",
+      "index": 1,
+      "title": "CHAPTER 1",
+      "path": "/Users/sachin/books/files/Made to Stick/chapters/01 - CHAPTER 1.txt",
+      "start_page": 3,
+      "end_page": 3,
+      "char_count": 1331
+    },
+    {
+      "chapter_id": "chapter-02-chapter",
+      "index": 2,
+      "title": "CHAPTER 4",
+      "path": "/Users/sachin/books/files/Made to Stick/chapters/02 - CHAPTER 4.txt",
+      "start_page": 4,
+      "end_page": 70,
+      "char_count": 177517
+    },
+    {
+      "chapter_id": "chapter-03-chapter",
+      "index": 3,
+      "title": "CHAPTER 3",
+      "path": "/Users/sachin/books/files/Made to Stick/chapters/03 - CHAPTER 3.txt",
+      "start_page": 71,
+      "end_page": 92,
+      "char_count": 60187
+    },
+    {
+      "chapter_id": "chapter-04-chapter",
+      "index": 4,
+      "title": "CHAPTER 4",
+      "path": "/Users/sachin/books/files/Made to Stick/chapters/04 - CHAPTER 4.txt",
+      "start_page": 93,
+      "end_page": 225,
+      "char_count": 311590
+    }
+  ]
+}

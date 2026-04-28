@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-02-be-a-mirror",
+  "chunk_id": "chapter-02-be-a-mirror-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 2 | BE A MIRROR",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+    "source_pages": "36-69",
+    "char_start": 20257,
+    "char_end": 27931,
+    "checksum": "2fa069c98da1e380"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+smile-er as much as to the smile-ee: a smile on your face, and in your voice, will increase your own mental agility. Playful wasn’t the move with Chris Watts. The way the late-night FM DJ voice works is that, when you inflect your voice in a downward way, you put it out there that you’ve got it covered. Talking slowly and clearly you convey one idea: I’m in control. When you inflect in an upward way, you invite a response. Why? Because you’ve brought in a measure of uncertainty. You’ve made a statement sound like a question. You’ve left the door open for the other guy to take the lead, so I was careful here to be quiet, self-assured. It’s the same voice I might use in a contract negotiation,
+
+when an item isn’t up for discussion. If I see a work-for-hire clause, for example, I might say, “We don’t do work-for- hire.” Just like that, plain, simple, and friendly. I don’t offer up an alternative, because it would beg further discussion, so I just make a straightforward declaration. That’s how I played it here. I said, “Joe’s gone. You’re talking to me now.” Done deal. You can be very direct and to the point as long as you create safety by a tone of voice that says I’m okay, you’re okay, let’s figure things out. The tide was turning. Chris Watts was rattled, but he had a few moves left in him. One of the bad guys went down to the basement and collected one of the female bank tellers. She’d disappeared into the bowels of the bank at some point, but Chris Watts and his accomplice hadn’t chased after her because they knew she wasn’t going anywhere. Now one of the bank robbers dragged her back upstairs and put her on the phone. She said, “I’m okay.” That’s all. I said, “Who is this?” She said, “I’m okay.” I wanted to keep her talking, so I asked her name—but then, just like that, she was gone. This was a brilliant move on Chris Watts’s part. It was a threat, teasing us with the woman’s voice, but subtly and indirectly. It was a way for the bad guy to let us know he was calling the shots on his end of the phone without directly escalating the situation. He’d given us a “proof of life,” confirming that he did indeed have hostages with him who were in decent enough shape to talk on the phone, but stopped short of allowing us to gather any useful information. He’d managed to take back a measure of control. MIRRORING Chris Watts came back on the phone trying to act like nothing had happened. He was a little rattled, that’s for sure, but now he was talking. “We’ve identified every car on the street and talked to all the owners except one,” I said to Watts. “We’ve got a van out here, a blue and gray van. We’ve been able to get a handle on the owners of all of the vehicles except this one in particular. Do you know anything about it?” “The other vehicle’s not out there because you guys chased my driver away . . .” he blurted. “We chased your driver away?” I mirrored. “Well, when he seen the police he cut.” “We don’t know anything about this guy; is he the one who was driving the van?” I asked. The mirroring continued between me and Watts, and he made a series of damaging admissions. He started vomiting information, as we now refer to it in my consulting business. He talked about an accomplice we had no knowledge of at the time. That exchange helped us nail the driver of the getaway car. Mirroring, also called isopraxism, is essentially imitation. It’s another neurobehavior humans (and other animals) display in which we copy each other to comfort each other. It can be done with speech patterns, body language, vocabulary, tempo, and tone of voice. It’s generally an unconscious behavior—we are rarely aware of it when it’s happening—but it’s a sign that people are bonding, in sync, and establishing the kind of rapport that leads to trust. It’s a phenomenon (and now technique) that follows a very basic but profound biological principle: We fear what’s different and are drawn to what’s similar. As the saying goes, birds of a feather flock together. Mirroring, then, when practiced consciously, is the art of insinuating similarity. “Trust me,” a mirror signals to another’s unconscious, “You and I—we’re alike.” Once you’re attuned to the dynamic, you’ll see it everywhere: couples walking on the street with their steps in perfect synchrony; friends in conversation at a park, both nodding their heads and crossing the legs at about the same time. These people are, in a word, connected. While mirroring is most often associated with forms of nonverbal communication, especially body language, as negotiators a “mirror” focuses on the words and nothing else. Not the body language. Not the accent. Not the tone or delivery. Just the words. It’s almost laughably simple: for the FBI, a “mirror” is when you repeat the last three words (or the critical one to three words) of what someone has just said. Of the entirety of the FBI’s hostage negotiation skill set, mirroring is the closest one gets to a Jedi mind trick. Simple, and yet uncannily effective. By repeating back what people say, you trigger this mirroring instinct and your counterpart will inevitably elaborate on what was just said and sustain the process of connecting. Psychologist Richard Wiseman created a study using waiters to identify what was the more effective method of creating a connection with strangers: mirroring or positive reinforcement. One group of waiters, using positive reinforcement, lavished praise and encouragement on patrons using words such as “great,” “no problem,” and “sure” in response to each order. The other group of waiters mirrored their customers simply by repeating their orders back to them. The results were stunning: the average tip of the waiters who mirrored was 70 percent more than of those who used positive reinforcement. I decided it was time to hit him with his name—to let him know we were on to him. I said, “There’s a vehicle out here, and it’s registered to a Chris Watts.” He said, “Okay.” Not letting anything on. I said, “Is he there? Is this you? Are you Chris Watts?” It was a stupid question, on my part. A mistake. For a mirror to be effective, you’ve got to let it sit there and do its work. It needs a bit of silence. I stepped all over my mirror. As soon as I said it, I wanted to take it back. “Are you Chris Watts?” What the hell could this guy say to that? Of course, he replied, “No.” I’d made a bone-headed move and given Chris Watts a way to dodge this confrontation, but he was nevertheless rattled. Up until this moment, he’d thought he was anonymous. Whatever fantasy he had running through his head, there was a way out for him, a do-over button. Now he knew different. I composed myself, slowed it down a little, and this time shut my mouth after the mirror—I said, “No? You said ‘okay.’” Now I had him, I thought. His voice went way up. He ended up blurting a few things out, vomiting more information, and became so flustered he stopped talking to me. Suddenly his accomplice, who we later learned was Bobby Goodwin, came onto the phone. We hadn’t heard from this second hostage-taker, until now. We’d known all along that Chris Watts wasn’t acting alone, but we hadn’t gotten a good read on how many people he had working with him on this, and now here was his unwitting accomplice, thinking our original police department negotiator was still handling our end. We knew this because he kept calling me “Joe,” which told us he’d been in the loop early on, and somewhat less involved as the stalemate dragged on. At the very least, the disconnect told me these guys weren’t exactly on the same page—but I didn’t jump to correct him. Another thing: it sounded like this second guy was
+>>>

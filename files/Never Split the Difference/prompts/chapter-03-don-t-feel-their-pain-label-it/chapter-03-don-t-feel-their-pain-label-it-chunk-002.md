@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+  "chunk_id": "chapter-03-don-t-feel-their-pain-label-it-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+    "source_pages": "70-101",
+    "char_start": 6290,
+    "char_end": 13947,
+    "checksum": "71ec7cbc77d8d6cb"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+to resist, he often will. But if he approaches exuding calm, the inmate will be much more likely to be peaceful. It seems like wizardry, but it’s not. It’s just that when the officer has his audience clearly in mind, he can become who he needs to be to handle the situation. Empathy is a classic “soft” communication skill, but it has a physical basis. When we closely observe a person’s face, gestures, and tone of voice, our brain begins to align with theirs in a process called neural resonance, and that lets us know more fully what they think and feel. In an fMRI brain-scan experiment,1 researchers at Princeton University found that neural resonance disappears when people communicate poorly.
+
+The researchers could predict how well people were communicating by observing how much their brains were aligned. And they discovered that people who paid the most attention—good listeners— could actually anticipate what the speaker was about to say before he said it. If you want to increase your neural resonance skills, take a moment right now and practice. Turn your attention to someone who’s talking near you, or watch a person being interviewed on TV. As they talk, imagine that you are that person. Visualize yourself in the position they describe and put in as much detail as you can, as if you were actually there. But be warned, a lot of classic deal makers will think your approach is softheaded and weak. Just ask former secretary of state Hillary Clinton. A few years ago during a speech at Georgetown University, Clinton advocated, “showing respect, even for one’s enemies. Trying to understand and, insofar as psychologically possible, empathize with their perspective and point of view.” You can predict what happened next. A gaggle of pundits and politicians pounced on her. They called her statement inane and naïve, and even a sign she had embraced the Muslim Brotherhood. Some said that she had blown her chances at a presidential run. The problem with all of that hot air is that she was right. Politics aside, empathy is not about being nice or agreeing with the other side. It’s about understanding them. Empathy helps us learn the position the enemy is in, why their actions make sense (to them), and what might move them. As negotiators we use empathy because it works. Empathy is why the three fugitives came out after six hours of my late-night DJ voice. It’s what helped me succeed at what Sun Tzu called “the supreme art of war”: to subdue the enemy without fighting. LABELING Let’s go back to the Harlem doorway for a minute. We didn’t have a lot to go on, but if you’ve got three fugitives trapped in an apartment on the twenty-seventh floor of a building in Harlem, they don’t have to say a word for you to know that they’re worried about two things: getting killed, and going to jail. So for six straight hours in that sweltering apartment building hallway, the two FBI negotiating students and I took turns speaking. We rotated in order to avoid verbal stumbles and other errors caused by tiredness. And we stayed relentlessly on message, all three of us saying the same thing. Now, pay close attention to exactly what we said: “It looks like you don’t want to come out. It seems like you worry that if you open the door, we’ll come in with guns blazing. It looks like you don’t want to go back to jail.” We employed our tactical empathy by recognizing and then verbalizing the predictable emotions of the situation. We didn’t just put ourselves in the fugitives’ shoes. We spotted their feelings, turned them into words, and then very calmly and respectfully repeated their emotions back to them. In a negotiation, that’s called labeling. Labeling is a way of validating someone’s emotion by acknowledging it. Give someone’s emotion a name and you show you identify with how that person feels. It gets you close to someone without asking about external factors you know nothing about (“How’s your family?”). Think of labeling as a shortcut to intimacy, a time-saving emotional hack. Labeling has a special advantage when your counterpart is tense. Exposing negative thoughts to daylight—“It looks like you don’t want to go back to jail”—makes them seem less frightening. In one brain imaging study,2 psychology professor Matthew Lieberman of the University of California, Los Angeles, found that when people are shown photos of faces expressing strong emotion, the brain shows greater activity in the amygdala, the part that generates fear. But when they are asked to label the emotion, the activity moves to the areas that govern rational thinking. In other words, labeling an emotion—applying rational words to a fear—disrupts its raw intensity. Labeling is a simple, versatile skill that lets you reinforce a good aspect of the negotiation, or diffuse a negative one. But it has very specific rules about form and delivery. That makes it less like chatting than like a formal art such as Chinese calligraphy. For most people, it’s one of the most awkward negotiating tools to use. Before they try it the first time, my students almost always tell me they expect their counterpart to jump up and shout, “Don’t you dare tell me how I feel!” Let me let you in on a secret: people never even notice. The first step to labeling is detecting the other person’s emotional state. Outside that door in Harlem we couldn’t even see the fugitives, but most of the time you’ll have a wealth of information from the other person’s words, tone, and body language. We call that trinity “words, music, and dance.” The trick to spotting feelings is to pay close attention to changes people undergo when they respond to external events. Most often, those events are your words. If you say, “How is the family?” and the corners of the other party’s mouth turn down even when they say it’s great, you might detect that all is not well; if their voice goes flat when a colleague is mentioned, there could be a problem between the two; and if your landlord unconsciously fidgets his feet when you mention the neighbors, it’s pretty clear that he doesn’t think much of them (we’ll dig deeper into how to spot and use these cues in Chapter 9). Picking up on these tiny pieces of information is how psychics work. They size up their client’s body language and ask him a few innocent questions. When they “tell” his future a few minutes later, they’re really just saying what he wants to hear based on small details they’ve spotted. More than a few psychics would make good negotiators for that very reason. Once you’ve spotted an emotion you want to highlight, the next step is to label it aloud. Labels can be phrased as statements or questions. The only difference is whether you end the sentence with a downward or upward inflection. But no matter how they end, labels almost always begin with roughly the same words: It seems like . . . It sounds like . . . It looks like . . . Notice we said “It sounds like . . .” and not “I’m hearing that . . .” That’s because the word “I” gets people’s guard up. When you say “I,” it says you’re more interested in yourself than the other person, and it makes you take personal responsibility for the words that follow—and the offense they might cause. But when you phrase a label as a neutral statement of understanding, it encourages your counterpart to be responsive. They’ll usually give a longer answer than just “yes” or “no.” And if they disagree with the label, that’s okay. You can always step back and say, “I didn’t say that was what it was. I just said it seems like that.” The last rule of labeling is silence. Once you’ve thrown out a label, be quiet and listen. We all have a tendency to
+>>>

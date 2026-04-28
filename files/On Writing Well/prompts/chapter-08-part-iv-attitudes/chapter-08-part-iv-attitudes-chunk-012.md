@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-08-part-iv-attitudes",
+  "chunk_id": "chapter-08-part-iv-attitudes-chunk-012",
+  "source": {
+    "chapter_title": "Part IV – Attitudes",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+    "source_pages": "245-308",
+    "char_start": 75994,
+    "char_end": 83672,
+    "checksum": "542992e06760c027"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+sign of human habitation below. Simultaneously, however, hundreds of camels carrying huge slabs of salt were moving south to meet me. Even now tribal chiefs were turn- ing their thoughts to how to entertain me in their desert tent. Both of the preceding paragraphs contain touches of humor—tiny jokes. Again, they are efforts to keep myself amused. But they are also a deliberate attempt to maintain a persona. One of the oldest strains in travel writing and humor writing is the eternal credulity of the narrator. Used in modera- tion, making yourself gullible—or downright stupid—gives the reader the enormous pleasure of feeling superior. Our pilot circled over Timbuktu to give us an aerial view
+
+of the city we had traveled so far to see. It was a large sprawl A Writer's Decisions 275 of mud buildings that looked long abandoned, as dead as Fort Zinderneuf at the end of Beau Geste; surely nobody was alive down there. The Sahara in its steady encroachment, which has created the drought belt across central Africa known as the Sahel, had long since pushed past Timbuktu and left it marooned. I felt a tremor of fear; I didn't want to be put down in such a forsaken place. The reference to Beau Geste is an effort to tap into associa- tions that readers bring to the story. Much of what makes Tim- buktu legendary was put there by Hollywood. By invoking the fate of Fort Zinderneuf—Brian Donlevy played a sadistic French Foreign Legion commandant who propped the dead bodies of his soldiers back into the niches of the fort—I'm revealing my own fondness for the genre and striking a bond with fellow movie buffs. What I'm after is resonance; it can do a great deal of emotional work that writers can't achieve on their own. Two words—"tremor" and "forsaken"—took a while to find. When I found "forsaken" in my Roget's Thesaurus I was quite sure I had never used it before. I was glad to see it there among the synonyms. As one of Jesus s last words (speaking of reso- nance), it could hardly convey more loneliness and abandonment. At the airport we were met by our local guide, a Tuareg named Mohammed Ali. For a travel buff he was a consoling sight—if anybody can be said to own this part of the Sahara, it is the Tuareg, a race of proud Berbers who wouldn't submit to the Arabs or the later French colonials who swept into North Africa, withdrawing instead into the desert and making it their preserve. Mohammed Ali, who was wearing the tradi- tional blue robe of Tuareg men, had a dark, intelligent face, somewhat Arabic in the angularity of its features, and he moved with an assurance that was obviously part of his char- 276 ON WRITING WELL acter. As a teen-ager, it turned out, he had gone with his father on the haj to Mecca (many Tuareg eventually con- verted to Islam) and had stayed for seven years in Arabia and Egypt to study English, French and Arabic. The Tuareg have a language of their own, with a complex written alphabet, called Tamashek. Mohammed Ali said he had to take us first to the police station in Timbuktu to have our passports checked. I've seen too many movies to feel comfortable in this kind of interview situation, and as we sat in a dungeon-like room being interro- gated by two armed policemen, not far from a jail cell where we could see a man and a boy sleeping, I had another flash- back—this one to The Four Feathers and the scene of the British soldiers long imprisoned at Omdurman. The oppres- siveness stayed with me when we got back out and Mohammed Ah" walked us through the forlorn city, dutifully showing us its few "points of interest": the Grand Mosque, the market, and three dilapidated houses, commemorated by plaques, where Laing, Caillié and the German explorer Hein- rich Barth lived. We didn't see any other tourists. Again, the Four Feathers allusion, like the mention of Beau Geste, will bring a chill of recognition to anyone who knows the movie. The fact that the movie was based on a real campaign— Kitcheners expedition up the Nile to avenge the Mahdi's defeat of General Gordon—gives the sentence an edge of fear. Obvi- ously Arab justice in outposts of the Sahara is still far from merciful. Once more the asterisk announces a change of mood. It says, in effect: "So much for Timbuktu itself. Now we're going to get down to the real business of the story: looking for a camel cara- van." Making these divisions in a long and complex article not only helps the reader to follow your road map. It also takes A Writer's Decisions 277 some of the anxiety out of the act of writing, enabling you to break your material into manageable chunks and to take one chunk at a time. The total task seems less formidable, and panic is staved off. At the Azalai Hotel, where we appeared to be the only guests, we asked Mohammed Ali how many tourists were in Timbuktu to greet the salt caravan. "Six," he said. "The six of you." "But..." Something in me didn't want to finish the sen- tence. I took a different approach. "I don't understand what this word 'Azalai' means. Why is it called the Azalai Salt Caravan?" "That's the word the French used," he said, "when they organized the caravan and all the camels made the trip together once a year, around the beginning of December." "What do they do now?" several voices asked. "Well, when Mali got its independence they decided to let the traders bring their salt caravans to Timbuktu whenever they wanted to." Mali got its independence in 1960. We were in Timbuktu for an event that hadn't been held in 27 years. The last sentence is a small bomb dropped into the story. But it is allowed to speak for itself—just the facts, please—without comment. I didn't add an exclamation point to notify readers that it was an amazing moment. That would have spoiled their own pleasure of discovery. Trust your material. My wife, among others, was not surprised. We took the news calmly: old travel hands who have faith that they will find their camel caravan one way or another. Mainly our reaction was one of amazement that the canons of truth-in- advertising had been so brazenly disregarded. Mohammed Ali 278 ON WRITING WELL knew nothing about the gaudy promises tendered by the brochure. He only knew he had been hired to take us to meet a salt caravan, and he told us that in the morning we would go looking for one and would spend the night in the Sahara. Early December, he said, was the usual time for caravans to start arriving. He didn't say anything about a chieftain s tent. More carefully chosen words: "canons," "brazenly," "gaudy," "tendered." They're vivid and precise, but not long or fancy. Best of all, they are words that readers probably weren't expect- ing and that they therefore welcome. The sentence about the chieftains tent, referring back to a phrase in the brochure, is another tiny joke. These "snappers" at the end of a paragraph propel readers into the next paragraph and keep them in a good mood. In the morning my wife—a voice of reason at the edge of infinity—said she wouldn't go into the Sahara unless we went in two vehicles. I was therefore glad to see two Land Rovers awaiting us outside the hotel. One of them was having its front tire pumped up by a boy with a bicycle pump. Four of us squeezed into the back seat of one Land Rover; Mohammed Ali sat in front, next to the driver. The second Land Rover took our other two tour members and two boys who were described as "apprentices." Nobody said what they were apprenticing for. Another startling fact that needs no embellishment—the tire-pumping—and another small joke at the end. We drove straight out into the Sahara. The desert was a brown blanket without any end and with no tracks of any
+>>>

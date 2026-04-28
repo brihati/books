@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-07-create-the-illusion-of-control",
+  "chunk_id": "chapter-07-create-the-illusion-of-control-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/07 - CHAPTER 7 CREATE THE ILLUSION OF CONTROL.txt",
+    "source_pages": "188-215",
+    "char_start": 27193,
+    "char_end": 34848,
+    "checksum": "a5e4f2785e39c299"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e to proceed? ■ What is it that brought us into this situation? ■ How can we solve this problem? ■ What’s the objective? / What are we trying to accomplish here? ■ How am I supposed to do that? The implication of any well-designed calibrated question is that you want what the other guy wants but you need his intelligence to overcome the problem. This really appeals to very aggressive or egotistical counterparts. You’ve not only implicitly asked for help—triggering goodwill and less defensiveness—but you’ve engineered a situation in which your formerly recalcitrant counterpart is now using his mental and emotional resources to overcome your challenges. It is the first step in your counterpart
+
+internalizing your way—and the obstacles in it—as his own. And that guides the other party toward designing a solution. Your solution. Think back to how the doctor used calibrated questions to get his patient to stay. As his story showed, the key to getting people to see things your way is not to confront them on their ideas (“You can’t leave”) but to acknowledge their ideas openly (“I understand why you’re pissed off”) and then guide them toward solving the problem (“What do you hope to accomplish by leaving?”). Like I said before, the secret to gaining the upper hand in a negotiation is giving the other side the illusion of control. That’s why calibrated questions are ingenious: Calibrated questions make your counterpart feel like they’re in charge, but it’s really you who are framing the conversation. Your counterpart will have no idea how constrained they are by your questions. Once I was negotiating with one of my FBI bosses about attending a Harvard executive program. He had already approved the expenditure for the travel, but on the day before I was supposed to leave he called me into his office and began to question the validity of the trip. I knew him well enough to know that he was trying to show me that he was in charge. So after we talked for a while, I looked at him and asked, “When you originally approved this trip, what did you have in mind?” He visibly relaxed as he sat back in his chair and brought the top of his fingers and thumbs together in the shape of a steeple. Generally this is a body language that means the person feels superior and in charge. “Listen,” he said, “just make sure you brief everyone when you get back.” That question, calibrated to acknowledge his power and nudge him toward explaining himself, gave him the illusion of control. And it got me just what I wanted. HOW NOT TO GET PAID Let’s pause for a minute here, because there’s one vitally important thing you have to remember when you enter a negotiation armed with your list of calibrated questions. That is, all of this is great, but there’s a rub: without self- control and emotional regulation, it doesn’t work. The very first thing I talk about when I’m training new negotiators is the critical importance of self-control. If you can’t control your own emotions, how can you expect to influence the emotions of another party? To show you what I mean, let me tell you a story. Not long ago, a freelance marketing strategist came to me with a problem. One of her clients had hired a new CEO, a penny pincher whose strategy was to cut costs by offshoring everything he could. He was also a male chauvinist who didn’t like the assertive style in which the strategist, a woman, conducted herself. Immediately my client and the CEO started to go at each other on conference calls in that passive-aggressive way that is ever present in corporate America. After a few weeks of this, my client decided she’d had enough and invoiced the CEO for the last bit of work she’d done (about $7,000) and politely said that the arrangement wasn’t working out. The CEO answered by saying the bill was too high, that he’d pay half of it and that they would talk about the rest. After that, he stopped answering her calls. The underlying dynamic was that this guy didn’t like being questioned by anyone, especially a woman. So she and I developed a strategy that showed him she understood where she went wrong and acknowledged his power, while at the same time directing his energy toward solving her problem. The script we came up with hit all the best practices of negotiation we’ve talked about so far. Here it is by steps: 1. A “No”-oriented email question to reinitiate contact: “Have you given up on settling this amicably?” 2. A statement that leaves only the answer of “That’s right” to form a dynamic of agreement: “It seems that you feel my bill is not justified.” 3. Calibrated questions about the problem to get him to reveal his thinking: “How does this bill violate our agreement?” 4. More “No”-oriented questions to remove unspoken barriers: “Are you saying I misled you?” “Are you saying I didn’t do as you asked?” “Are you saying I reneged on our agreement?” or “Are you saying I failed you?” 5. Labeling and mirroring the essence of his answers if they are not acceptable so he has to consider them again: “It seems like you feel my work was subpar.” Or “. . . my work was subpar?” 6. A calibrated question in reply to any offer other than full payment, in order to get him to offer a solution: “How am I supposed to accept that?” 7. If none of this gets an offer of full payment, a label that flatters his sense of control and power: “It seems like you are the type of person who prides himself on the way he does business— rightfully so—and has a knack for not only expanding the pie but making the ship run more efficiently.” 8. A long pause and then one more “No”-oriented question: “Do you want to be known as someone who doesn’t fulfill agreements?” From my long experience in negotiation, scripts like this have a 90 percent success rate. That is, if the negotiator stays calm and rational. And that’s a big if. In this case, she didn’t. The first step—the magic email—worked better than she imagined, and the CEO called within ten minutes, surprising her. Almost immediately her anger flared at the sound of his patronizing voice. Her only desire became to show him how he was wrong, to impose her will, and the conversation became a showdown that went nowhere. You probably don’t need me to tell you that she didn’t even get half. With that in mind, I want to end this chapter with some advice on how to remain rational in a negotiation. Even with all the best techniques and strategy, you need to regulate your emotions if you want to have any hope of coming out on top. The first and most basic rule of keeping your emotional cool is to bite your tongue. Not literally, of course. But you have to keep away from knee-jerk, passionate reactions. Pause. Think. Let the passion dissipate. That allows you to collect your thoughts and be more circumspect in what you say. It also lowers your chance of saying more than you want to. The Japanese have this figured out. When negotiating with a foreigner, it’s common practice for a Japanese businessman to use a translator even when he understands perfectly what the other side is saying. That’s because speaking through a translator forces him to step back. It gives him time to frame his response. Another simple rule is, when you are verbally assaulted, do not counterattack. Instead, disarm your counterpart by asking a calibrated question. The next time a waiter or salesclerk tries to engage you in a verbal skirmish, try this out. I promise you it will change the entire tenor of the conversation. The basic issue here is that when people feel that they are not in control, they adopt what psychologists call a hostage mentality. That is, in moments of conflict they react
+>>>

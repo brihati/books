@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-01-the-new-rules",
+  "chunk_id": "chapter-01-the-new-rules-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 1 | THE NEW RULES",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/01 - CHAPTER 1 THE NEW RULES.txt",
+    "source_pages": "8-35",
+    "char_start": 27244,
+    "char_end": 34912,
+    "checksum": "8ec86c1a1e82a52a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+a martial art, balancing the subtle behaviors of emotional intelligence and the assertive skills of influence, to gain access to the mind of another person. Contrary to popular opinion, listening is not a passive activity. It is the most active thing you can do. Once we started developing our new techniques, the negotiating world split into two currents: negotiation as learned at the country’s top school continued down the established road of rational problem solving, while, ironically, we meatheads at the FBI began to train our agents in an unproven system based on psychology, counseling, and crisis intervention. While the Ivy League taught math and economics, we became experts in empathy.
+
+And our way worked. LIFE IS NEGOTIATION While you might be curious how FBI negotiators get some of the world’s toughest bad guys to give up their hostages, you could be excused for wondering what hostage negotiation has to do with your life. Happily, very few people are ever forced to deal with Islamist terrorists who’ve kidnapped their loved ones. But allow me to let you in on a secret: Life is negotiation. The majority of the interactions we have at work and at home are negotiations that boil down to the expression of a simple, animalistic urge: I want. “I want you to free the hostages,” is a very relevant one to this book, of course. But so is: “I want you to accept that $1 million contract.” “I want to pay $20,000 for that car.” “I want you to give me a 10 percent raise.” and “I want you to go to sleep at 9 p.m.” Negotiation serves two distinct, vital life functions— information gathering and behavior influencing—and includes almost any interaction where each party wants something from the other side. Your career, your finances, your reputation, your love life, even the fate of your kids— at some point all of these hinge on your ability to negotiate. Negotiation as you’ll learn it here is nothing more than communication with results. Getting what you want out of life is all about getting what you want from—and with— other people. Conflict between two parties is inevitable in all relationships. So it’s useful—crucial, even—to know how to engage in that conflict to get what you want without inflicting damage. In this book, I draw on my more than two-decade career in the Federal Bureau of Investigation to distill the principles and practices I deployed in the field into an exciting new approach designed to help you disarm, redirect, and dismantle your counterpart in virtually any negotiation. And to do so in a relationship-affirming way. Yes, you’ll learn how we negotiated the safe release of countless hostages. But you’ll also learn how to use a deep understanding of human psychology to negotiate a lower car price, a bigger raise, and a child’s bedtime. This book will teach you to reclaim control of the conversations that inform your life and career. The first step to achieving a mastery of daily negotiation is to get over your aversion to negotiating. You don’t need to like it; you just need to understand that’s how the world works. Negotiating does not mean browbeating or grinding someone down. It simply means playing the emotional game that human society is set up for. In this world, you get what you ask for; you just have to ask correctly. So claim your prerogative to ask for what you think is right. What this book is really about, then, is getting you to accept negotiation and in doing so learn how to get what you want in a psychologically aware way. You’ll learn to use your emotions, instincts, and insights in any encounter to connect better with others, influence them, and achieve more. Effective negotiation is applied people smarts, a psychological edge in every domain of life: how to size someone up, how to influence their sizing up of you, and how to use that knowledge to get what you want. But beware: this is not another pop-psych book. It’s a deep and thoughtful (and most of all, practical) take on leading psychological theory that distills lessons from a twenty-four-year career in the FBI and ten years teaching and consulting in the best business schools and corporations in the world. And it works for one simple reason: it was designed in and for the real world. It was not born in a classroom or a training hall, but built from years of experience that improved it until it reached near perfection. Remember, a hostage negotiator plays a unique role: he has to win. Can he say to a bank robber, “Okay, you’ve taken four hostages. Let’s split the difference—give me two, and we’ll call it a day?” No. A successful hostage negotiator has to get everything he asks for, without giving anything back of substance, and do so in a way that leaves the adversaries feeling as if they have a great relationship. His work is emotional intelligence on steroids. Those are the tools you’ll learn here. THE BOOK Like a contractor building a house, this book is constructed from the ground up: first comes the big slabs of foundation, then the necessary load-bearing walls, the elegant but impermeable roof, and the lovely interior decorations. Each chapter expands on the previous one. First you’ll learn the refined techniques of this approach to Active Listening and then you’ll move on to specific tools, turns of phrase, the ins and outs of the final act—haggling—and, finally, how to discover the rarity that can help you achieve true negotiating greatness: the Black Swan. In Chapter 2, you’ll learn how to avoid the assumptions that blind neophyte negotiators and replace them with Active Listening techniques like Mirroring, Silences, and the Late- Night FM DJ Voice. You’ll discover how to slow things down and make your counterpart feel safe enough to reveal themselves; to discern between wants (aspirations) and needs (the bare minimum for a deal); and to laser-focus on what the other party has to say. Chapter 3 will delve into Tactical Empathy. You’ll learn how to recognize your counterpart’s perspective and then gain trust and understanding through Labeling—that is, by repeating that perspective back to them. You’ll also learn how to defuse negative dynamics by bringing them into the open. Finally, I’ll explain how to disarm your counterpart’s complaints about you by speaking them aloud in an Accusation Audit. Next, in Chapter 4, I’ll examine ways to make your counterpart feel understood and positively affirmed in a negotiation in order to create an atmosphere of unconditional positive regard. Here, you’ll learn why you should strive for “That’s right” instead of “Yes” at every stage of a negotiation, and how to identify, rearticulate, and emotionally affirm your counterpart’s worldview with Summaries and Paraphrasing. Chapter 5 teaches the flip side of Getting to Yes. You’ll learn why it’s vitally important to get to “No” because “No” starts the negotiation. You’ll also discover how to step out of your ego and negotiate in your counterpart’s world, the only way to achieve an agreement the other side will implement. Finally, you’ll see how to engage your counterpart by acknowledging their right to choose, and you’ll learn an email technique that ensures that you’ll never be ignored again. In Chapter 6, you’ll discover the art of bending reality. That is, I’ll explain a variety of tools for framing a negotiation in such a way that your counterpart will unconsciously accept the limits you place on the discussion. You’ll learn how to navigate deadlines to create urgency; employ the idea of fairness to nudge your counterpart; and anchor their emotions so that not accepting your offer feels like a loss. After this, Chapter 7 is dedicated to that incredibly
+>>>

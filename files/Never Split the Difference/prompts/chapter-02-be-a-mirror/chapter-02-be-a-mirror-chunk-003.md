@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-02-be-a-mirror",
+  "chunk_id": "chapter-02-be-a-mirror-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 2 | BE A MIRROR",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+    "source_pages": "36-69",
+    "char_start": 13262,
+    "char_end": 20957,
+    "checksum": "28ced769c55f5c1e"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+mited by the negotiating approach that police departments were using at the time. The approach was half MSU—Making Shit Up—and half a sort of sales approach—basically trying to persuade, coerce, or manipulate in any way possible. The problem was, we were in too much of a hurry, driving too hard toward a quick solution; trying to be a problem solver, not a people mover. Going too fast is one of the mistakes all negotiators are prone to making. If we’re too much in a hurry, people can feel as if they’re not being heard and we risk undermining the rapport and trust we’ve built. There’s plenty of research that now validates the passage of time as one of the most important tools for a negotiator.
+
+When you slow the process down, you also calm it down. After all, if someone is talking, they’re not shooting. We caught a break when the robbers started to make noise about food. Joe was going back and forth with them for a while on what they were going to have and how we were going to get it to them. It became a negotiation in and of itself. We got it all set up, prepared to send the food in on a kind of robot device, because that’s what this guy was comfortable with, but then he did an about-face, said to forget about it. Said they’d found some food inside, so it was just one brick wall after another, one smoke screen after another. It would feel to us like we were making a little progress, then this guy would take an abrupt turn, or hang up on us, or change his mind. Meanwhile, our investigators used the time to run the registration of every one of the dozens of vehicles found nearby on the street, and managed to speak to the owners of every one of them except one—a car belonging to someone named Chris Watts. This became our one and only lead, at the time, and as our endless back-and-forth continued on the phone we sent a group of investigators to the address on Chris Watts’s registration, where they found someone who knew Chris Watts and agreed to come down to the scene of the standoff to possibly identify him. We still didn’t have a visual on the inside, so our eyewitness had to be more of an “earwitness”—and he was able to identify Chris Watts by his voice. We now knew more about our adversary than he thought we knew, which put us at a momentary advantage. We were putting together all the puzzle pieces, but it didn’t get us any closer to our endgame, which was to determine for sure who was inside the building, to ensure the health and well-being of the hostages, and to get them all out safely—the good guys and the bad guys. THE VOICE After five hours, we were stuck, so the lieutenant in charge asked me to take over. Joe was out; I was in. Basically, it was the only strategic play at our disposal that didn’t involve an escalation in force. The man we now knew as Chris Watts had been in the habit of ending his calls abruptly, so my job was to find a way to keep him talking. I switched into my Late-Night, FM DJ Voice: deep, soft, slow, and reassuring. I had been instructed to confront Watts as soon as possible about his identity. I also came onto the phone with no warning, replacing Joe, against standard protocol. It was a shrewd move by the NYPD lieutenant to shake things up, but it easily could have backfired. This soothing voice was the key to easing the confrontation. Chris Watts heard my voice on the line and cut me off immediately—said, “Hey, what happened to Joe?” I said, “Joe’s gone. This is Chris. You’re talking to me now.” I didn’t put it like a question. I made a downward- inflecting statement, in a downward-inflecting tone of voice. The best way to describe the late-night FM DJ’s voice is as the voice of calm and reason. When deliberating on a negotiating strategy or approach, people tend to focus all their energies on what to say or do, but it’s how we are (our general demeanor and delivery) that is both the easiest thing to enact and the most immediately effective mode of influence. Our brains don’t just process and understand the actions and words of others but their feelings and intentions too, the social meaning of their behavior and their emotions. On a mostly unconscious level, we can understand the minds of others not through any kind of thinking but through quite literally grasping what the other is feeling. Think of it as a kind of involuntary neurological telepathy—each of us in every given moment signaling to the world around us whether we are ready to play or fight, laugh or cry. When we radiate warmth and acceptance, conversations just seem to flow. When we enter a room with a level of comfort and enthusiasm, we attract people toward us. Smile at someone on the street, and as a reflex they’ll smile back. Understanding that reflex and putting it into practice is critical to the success of just about every negotiating skill there is to learn. That’s why your most powerful tool in any verbal communication is your voice. You can use your voice to intentionally reach into someone’s brain and flip an emotional switch. Distrusting to trusting. Nervous to calm. In an instant, the switch will flip just like that with the right delivery. There are essentially three voice tones available to negotiators: the late-night FM DJ voice, the positive/playful voice, and the direct or assertive voice. Forget the assertive voice for now; except in very rare circumstances, using it is like slapping yourself in the face while you’re trying to make progress. You’re signaling dominance onto your counterpart, who will either aggressively, or passive- aggressively, push back against attempts to be controlled. Most of the time, you should be using the positive/playful voice. It’s the voice of an easygoing, good- natured person. Your attitude is light and encouraging. The key here is to relax and smile while you’re talking. A smile, even while talking on the phone, has an impact tonally that the other person will pick up on. The effect these voices have are cross-cultural and never lost in translation. On a vacation to Turkey with his girlfriend, one of our instructors at The Black Swan Group was befuddled—not to mention a little embarrassed—that his partner was repeatedly getting better deals in their backstreet haggling sessions at the spice markets in Istanbul. For the merchants in such markets throughout the Middle East, bargaining is an art form. Their emotional intelligence is finely honed, and they’ll use hospitality and friendliness in a powerful way to draw you in and create reciprocity that ends in an exchange of money. But it works both ways, as our instructor discovered while observing his girlfriend in action: she approached each encounter as a fun game, so that no matter how aggressively she pushed, her smile and playful demeanor primed her merchant friends to settle on a successful outcome. When people are in a positive frame of mind, they think more quickly, and are more likely to collaborate and problem-solve (instead of fight and resist). It applies to the smile-er as much as to the smile-ee: a smile on your face, and in your voice, will increase your own mental agility. Playful wasn’t the move with Chris Watts. The way the late-night FM DJ voice works is that, when you inflect your voice in a downward way, you put it out there that you’ve got it covered. Talking slowly and clearly you convey one idea: I’m in control. When you inflect in an upward way, you invite a response. Why? Because you’ve brought in a measure of uncertainty. You’ve made a statement sound like a question. You’ve left the door open for the other guy to take the lead, so I was careful here to be quiet, self-assured. It’s the same voice I might use in a contract negotiation,
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-09-bargain-hard",
+  "chunk_id": "chapter-09-bargain-hard-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 9 | BARGAIN HARD",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+    "source_pages": "249-280",
+    "char_start": 20256,
+    "char_end": 27924,
+    "checksum": "513599b2ef1f4617"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+welcome the extreme anchor. But extreme anchoring is powerful and you’re human: your emotions may well up. If they do there are ways to weather the storm without bidding against yourself or responding with anger. Once you learn these tactics, you’ll be prepared to withstand the hit and counter with panache. First, deflect the punch in a way that opens up your counterpart. Successful negotiators often say “No” in one of the many ways we’ve talked about (“How am I supposed to accept that?”) or deflect the anchor with questions like “What are we trying to accomplish here?” Responses like these are great ways to refocus your counterpart when you feel you’re being pulled into the compromise trap.
+
+You can also respond to a punch-in-the-face anchor by simply pivoting to terms. What I mean by this is that when you feel you’re being dragged into a haggle you can detour the conversation to the nonmonetary issues that make any final price work. You can do this directly by saying, in an encouraging tone of voice, “Let’s put price off to the side for a moment and talk about what would make this a good deal.” Or you could go at it more obliquely by asking, “What else would you be able to offer to make that a good price for me?” And if the other side pushes you to go first, wriggle from his grip. Instead of naming a price, allude to an incredibly high number that someone else might charge. Once when a hospital chain wanted me to name a price first, I said, “Well, if you go to Harvard Business School, they’re going to charge you $2,500 a day per student.” No matter what happens, the point here is to sponge up information from your counterpart. Letting your counterpart anchor first will give you a tremendous feel for him. All you need to learn is how to take the first punch. One of my Georgetown MBA students, a guy named Farouq, showed how not to fold after being punched when he went to hit up the MBA dean for funds to hold a big alumni event in Dubai. It was a desperate situation, because he needed $600 and she was his last stop. At the meeting, Farouq told the dean about how excited the students were about the trip and how beneficial it would be for the Georgetown MBA brand in the region. Before he could even finish, the dean jumped in. “Sounds like a great trip you guys are planning,” she said. “But money is tight and I could authorize no more than $300.” Farouq hadn’t expected the dean to go so quickly. But things don’t always go according to plan. “That is a very generous offer given your budget limits, but I am not sure how that would help us achieve a great reception for the alums in the region,” Farouq said, acknowledging her limits but saying no without using the word. Then he dropped an extreme anchor. “I have a very high amount in my head: $1,000 is what we need.” As expected, the extreme anchor quickly knocked the dean off her limit. “That is severely out of my range and I am sure I can’t authorize that. However, I will give you $500.” Farouq was half-tempted to fold—being $100 short wasn’t make-or-break—but he remembered the curse of aiming low. He decided to push forward. The $500 got him closer to the goal but not quite there, he said; $850 would work. The dean replied by saying that she was already giving more than what she wanted and $500 was reasonable. At this point, if Farouq had been less prepared he would have given up, but he was ready for the punches. “I think your offer is very reasonable and I understand your restrictions, but I need more money to put on a great show for the school,” he said. “How about $775?” The dean smiled, and Farouq knew he had her. “You seem to have a specific number in your head that you are trying to get to,” she said. “Just tell it to me.” At that point Farouq was happy to give her his number as he felt she was sincere. “I need $737.50 to make this work and you are my last stop,” he said. She laughed. The dean then praised him for knowing what he wanted and said she’d check her budget. Two days later, Farouq got an email saying her office would put in $750. PUNCHING BACK: USING ASSERTION WITHOUT GETTING USED BY IT When a negotiation is far from resolution and going nowhere fast, you need to shake things up and get your counterpart out of their rigid mindset. In times like this, strong moves can be enormously effective tools. Sometimes a situation simply calls for you to be the aggressor and punch the other side in the face. That said, if you are basically a nice person, it will be a real stretch to hit the other guy like Mike Tyson. You can’t be what you’re not. As the Danish folk saying goes, “You bake with the flour you have.” But anyone can learn a few tools. Here are effective ways to assert smartly: REAL ANGER, THREATS WITHOUT ANGER, AND STRATEGIC UMBRAGE Marwan Sinaceur of INSEAD and Stanford University’s Larissa Tiedens found that expressions of anger increase a negotiator’s advantage and final take.2 Anger shows passion and conviction that can help sway the other side to accept less. However, by heightening your counterpart’s sensitivity to danger and fear, your anger reduces the resources they have for other cognitive activity, setting them up to make bad concessions that will likely lead to implementation problems, thus reducing your gains. Also beware: researchers have also found that disingenuous expressions of unfelt anger—you know, faking it—backfire, leading to intractable demands and destroying trust. For anger to be effective, it has to be real, the key for it is to be under control because anger also reduces our cognitive ability. And so when someone puts out a ridiculous offer, one that really pisses you off, take a deep breath, allow little anger, and channel it—at the proposal, not the person—and say, “I don’t see how that would ever work.” Such well-timed offense-taking—known as “strategic umbrage”—can wake your counterpart to the problem. In studies by Columbia University academics Daniel Ames and Abbie Wazlawek, people on the receiving end of strategic umbrage were more likely to rate themselves as overassertive, even when the counterpart didn’t think so.3 The real lesson here is being aware of how this might be used on you. Please don’t allow yourself to fall victim to “strategic umbrage.” Threats delivered without anger but with “poise”—that is, confidence and self-control—are great tools. Saying, “I’m sorry that just doesn’t work for me,” with poise, works. “WHY” QUESTIONS Back in Chapter 7, I talked about the problems with “Why?” Across our planet and around the universe, “Why?” makes people defensive. As an experiment, the next time your boss wants something done ask him or her “Why?” and watch what happens. Then try it with a peer, a subordinate, and a friend. Observe their reactions and tell me if you don’t find some level of defensiveness across the spectrum. Don’t do this too much, though, or you’ll lose your job and all your friends. The only time I say, “Why did you do that?” in a negotiation is when I want to knock someone back. It’s an iffy technique, though, and I wouldn’t advocate it. There is, however, another way to use “Why?” effectively. The idea is to employ the defensiveness the question triggers to get your counterpart to defend your position. I know it sounds weird, but it works. The basic format goes like this: When you want to flip a dubious counterpart to your side, ask them, “Why would you do that?” but in a way that the “that” favors you. Let me explain. If you are working to lure a client away from a competitor, you might say, “Why would you ever do business with me? Why would you ever change from your existing supplier? They’re great!”
+>>>

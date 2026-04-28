@@ -1,0 +1,98 @@
+{
+  "book_id": "never-split-the-difference",
+  "title": "Never Split the Difference",
+  "book_dir": "/Users/sachin/books/files/Never Split the Difference",
+  "chapter_count": 10,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-the-new-rules",
+      "index": 1,
+      "title": "CHAPTER 1 | THE NEW RULES",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/01 - CHAPTER 1 THE NEW RULES.txt",
+      "start_page": 8,
+      "end_page": 35,
+      "char_count": 38437
+    },
+    {
+      "chapter_id": "chapter-02-be-a-mirror",
+      "index": 2,
+      "title": "CHAPTER 2 | BE A MIRROR",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+      "start_page": 36,
+      "end_page": 69,
+      "char_count": 46789
+    },
+    {
+      "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+      "index": 3,
+      "title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+      "start_page": 70,
+      "end_page": 101,
+      "char_count": 44062
+    },
+    {
+      "chapter_id": "chapter-04-beware-yes-master-no",
+      "index": 4,
+      "title": "CHAPTER 4 | BEWARE “YES”—MASTER “NO”",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/04 - CHAPTER 4 BEWARE YESMASTER NO.txt",
+      "start_page": 102,
+      "end_page": 129,
+      "char_count": 36147
+    },
+    {
+      "chapter_id": "chapter-05-trigger-the-two-words-that-immediately-transform",
+      "index": 5,
+      "title": "CHAPTER 5 | TRIGGER THE TWO WORDS THAT IMMEDIATELY TRANSFORM ANY NEGOTIATION",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/05 - CHAPTER 5 TRIGGER THE TWO WORDS THAT IMMEDIATELY TRANSFORM ANY NEGOTIATION.txt",
+      "start_page": 130,
+      "end_page": 151,
+      "char_count": 28496
+    },
+    {
+      "chapter_id": "chapter-06-bend-their-reality",
+      "index": 6,
+      "title": "CHAPTER 6 | BEND THEIR REALITY",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+      "start_page": 152,
+      "end_page": 187,
+      "char_count": 48871
+    },
+    {
+      "chapter_id": "chapter-07-create-the-illusion-of-control",
+      "index": 7,
+      "title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/07 - CHAPTER 7 CREATE THE ILLUSION OF CONTROL.txt",
+      "start_page": 188,
+      "end_page": 215,
+      "char_count": 37747
+    },
+    {
+      "chapter_id": "chapter-08-guarantee-execution",
+      "index": 8,
+      "title": "CHAPTER 8 | GUARANTEE EXECUTION",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+      "start_page": 216,
+      "end_page": 248,
+      "char_count": 44506
+    },
+    {
+      "chapter_id": "chapter-09-bargain-hard",
+      "index": 9,
+      "title": "CHAPTER 9 | BARGAIN HARD",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+      "start_page": 249,
+      "end_page": 280,
+      "char_count": 43076
+    },
+    {
+      "chapter_id": "chapter-10-find-the-black-swan",
+      "index": 10,
+      "title": "CHAPTER 10 | FIND THE BLACK SWAN",
+      "path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+      "start_page": 281,
+      "end_page": 322,
+      "char_count": 57441
+    }
+  ]
+}

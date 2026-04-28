@@ -1,0 +1,161 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-04-introduction",
+  "chunk_id": "chapter-04-introduction-chunk-001",
+  "source": {
+    "chapter_title": "Introduction",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/04 - Introduction.txt",
+    "source_pages": "11-14",
+    "char_start": 0,
+    "char_end": 6933,
+    "checksum": "e19ac42716fd361e"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+INTRODUCTION
+CSSQ
+When I first wrote this book, in 1976, the readers I had in mind
+were a relatively small segment of the population: students, writ-
+ers, editors and people who wanted to learn to write. I wrote it on
+a typewriter, the highest technology then available. I had no
+inkling of the electronic marvels just around the corner that were
+about to revolutionize the act of writing. First came the word
+processor, in the 1980s, which made the computer an everyday
+tool for people who had never thought of themselves as writers.
+Then came the Internet and e-mail, in the 1990s, which com-
+pleted the revolution. Today everybody in the world is writing to
+everybody else, keeping in touch and doing business across every
+border and time zone.
+To me this is nothing less than a miracle, curing overnight what
+appeared to be a deep American disorder. I've been repeatedly
+told by people in nonwriting occupations—especially people in
+science, technology, medicine, business and finance—that they
+hate writing and can't write and don't want to be made to write.
+One thing they particularly didn't want to write was letters.
+Just getting started on a letter loomed as a chore with so many
+formalities—Where's the stationery? Where's the envelope?
+Where's the stamp?—that they would keep putting it off, and
+when they finally did sit down to write they would spend the
+entire first paragraph explaining why they hadn't written sooner.
+x
+INTRODUCTION
+In the second paragraph they would describe the weather in their
+part of the country—a subject of no interest anywhere else. Only
+in the third paragraph would they begin to relax and say what
+they wanted to say.
+Then along came e-mail and all the formalities went away.
+E-mail has no etiquette. It doesn't require stationery, or neatness,
+or proper spelling, or preliminary chitchat. E-mail writers are like
+people who stop a friend on the sidewalk and say, "Did you see
+the game last night?" WHAP! No amenities. They just start typ-
+ing at full speed. So here's the miracle: All those people who said
+they hate writing and can't write and don't want to write can write
+and do want to write. In fact, they can't be turned off. Never have
+so many Americans written so profusely and with so few inhibi-
+tions. Which means that it wasn't a cognitive problem after all. It
+was a cultural problem, rooted in that old bugaboo of American
+education: fear.
+Fear of writing gets planted in American schoolchildren at an
+early age, especially children of scientific or technical or mechan-
+ical bent. They are led to believe that writing is a special language
+owned by the English teacher, available only to the humanistic
+few who have "a gift for words." But writing isn't a skill that some
+people are born with and others aren't, like a gift for art or music.
+Writing is talking to someone else on paper. Anybody who can
+think clearly can write clearly, about any subject at all. That has
+always been the central premise of this book.
+On one level, therefore, the new fluency created by e-mail is
+terrific news. Any invention that eliminates the fear of writing is
+up there with air conditioning and the lightbulb. But, as always,
+there's a catch. Nobody told all the new e-mail writers that the
+essence of writing is rewriting. Just because they are writing with
+ease and enjoyment doesn't mean they are writing well.
+That condition was first revealed in the 1980s, when people
+began writing on word processors. Two opposite things hap-
+pened. The word processor made good writers better and bad
+INTRODUCTION
+xi
+writers worse. Good writers know that very few sentences come
+out right the first time, or even the third time or the fifth time.
+For them the word processor was a rare gift, enabling them to
+fuss endlessly with their sentences—cutting and revising and
+reshaping—without the drudgery of retyping. Bad writers
+became even more verbose because writing was suddenly so easy
+and their sentences looked so pretty on the screen. How could
+such beautiful sentences not be perfect?
+E-mail pushed that verbosity to a new extreme: chatter unlim-
+ited. Its a spontaneous medium, not conducive to slowing down or
+looking back. That makes it ideal for the never-ending upkeep of
+personal life: maintaining contact with far-flung children and grand-
+children and friends and long-lost classmates. If the writing is often
+garrulous or disorganized or not quite clear, no real harm is done.
+But e-mail is also where much of the world s business is now
+conducted. Millions of e-mail messages every day give people the
+information they need to do their job, and a badly written mes-
+sage can cause a lot of damage. Employers have begun to realize
+that they literally cannot afford to hire men and women who can't
+write sentences that are tight and logical and clear. The new
+information age, for all its high-tech gadgetry, is, finally, writing-
+based. E-mail, the Internet and the fax are all forms of writing,
+and writing is, finally, a craft, with its own set of tools, which are
+words. Like all tools, they have to be used right.
+On Writing Well is a craft book. That's what I set out to write
+25 years ago—a book that would teach the craft of writing warmly
+and clearly—and its principles have never changed; they are as
+valid in the digital age as they were in the age of the typewriter. I
+don't mean that the book itself hasn't changed. I've revised and
+expanded it five times since 1976 to keep pace with new trends
+in the language and in society: a far greater interest in memoir-
+writing, for instance, and in writing about business and science
+and sports, and in nonfiction writing by women and by newcom-
+ers to the United States from other cultural traditions.
+xii
+INTRODUCTION
+I'm also not the same person I was 25 years ago. Books that
+teach, if they have a long life, should reflect who the writer has
+become at later stages of his own long life—what he has been
+doing and thinking about. On Writing Well and I have grown
+older and wiser together. In each of the five new editions the new
+material consisted of things I had learned since the previous edi-
+tion by continuing to wrestle with the craft as a writer. As a
+teacher, I've become far more preoccupied with the intangibles
+of the craft—the attitudes and values, like enjoyment and confi-
+dence and intention, that keep us going and produce our best
+work. But it wasn't until the sixth edition that I knew enough to
+write the two chapters (21 and 22) that deal at proper length with
+those attitudes and values.
+Ultimately, however, good writing rests on craft and always
+will. I don't know what still newer electronic marvels are waiting
+just around the corner to make writing twice as easy and twice as
+fast in the next 25 years. But I do know they won't make writing
+twice as good. That will still require plain old hard work—clear
+thinking—and the plain old tools of the English language.
+William Zinsser
+September 2001
+>>>

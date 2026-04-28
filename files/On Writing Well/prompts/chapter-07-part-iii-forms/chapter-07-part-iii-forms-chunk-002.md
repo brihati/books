@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-07-part-iii-forms",
+  "chunk_id": "chapter-07-part-iii-forms-chunk-002",
+  "source": {
+    "chapter_title": "Part III – Forms",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+    "source_pages": "107-244",
+    "char_start": 6272,
+    "char_end": 13965,
+    "checksum": "92e18aafbe543c1b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+readers. Add all the books combining history and biography that have distinguished American letters in recent years: David McCullough's Truman and The Path Between the Seas, Robert A. Caro's The Power Broker and The Years of Lyndon Johnson, Taylor Branch's Parting the Waters: America in the King Years, 1954-63, Richard Rhodes's The Making of the Atomic Bomb, Thomas L. Friedman's From Beirut to Jerusalem, J. Anthony Lukas s Common Ground, Ronald Steel's Walter Lippmann and the American Century, David Remnick's Lenin's Tomb. My ros- ter of the new literature of nonfiction, in short, would include all the writers who come bearing information and who present it with vigor, clarity and humanity.
+
+I'm not saying that fiction is dead. Obviously the novelist can take us into hidden places where no other writer can go: into the Nonfiction as Literature 99 deep emotions and the interior life. What I'm saying is that I have no patience with the snobbery that says nonfiction is only journal- ism by another name and that journalism by any name is a dirty word. While we're redefining literature, lets also redefine jour- nalism. Journalism is writing that first appears in any periodic journal, whatever its constituency: American Heritage, Natural History, The New York Review of Books, Scientific American, Granta, Harvard Magazine, Audubon, Lingua Franca. Lewis Thomas's first two books, Lives of a Cell and The Medusa and the Snail, were first written as essays for the New England Journal of Medicine. Historically, in America, good journalism becomes good literature. H. L. Mencken, Ring Lardner, Joseph Mitchell, Edmund Wilson and dozens of other major American writers were working journalists before they were canonized in the church of literature. They just did what they did best and never worried about how it was defined. Ultimately every writer must follow the path that feels most comfortable. For most people learning to write, that path is nonfiction. It enables them to write about what they know or can observe or can find out. This is especially true of young peo- ple and students. They will write far more willingly about sub- jects that touch their own lives or that they have an aptitude for. Motivation is at the heart of writing. If nonfiction is where you do your best writing, or your best teaching of writing, don't be buffaloed into the idea that its an inferior species. The only important distinction is between good writing and bad writing. Good writing is good writing, whatever form it takes and what- ever we call it. 1 2 CSSO Writing About People The Interview Get people talking. Learn to ask questions that will elicit answers about what is most interesting or vivid in their lives. Nothing so animates writing as someone telling what he thinks or what he does—in his own words. His own words will always be better than your words, even if you are the most elegant stylist in the land. They carry the inflection of his speaking voice and the idiosyncrasies of how he puts a sentence together. They contain the regionalisms of his conversation and the lingo of his trade. They convey his enthusi- asms. This is a person talking to the reader directly, not through the filter of a writer. As soon as a writer steps in, everyone else s experience becomes secondhand. Writing About People: The Interview 101 Therefore learn how to conduct an interview. Whatever form of nonfiction you write, it will come alive in proportion to the number of "quotes" you can weave into it as you go along. Often you'll find yourself embarking on an article so apparently life- less—the history of an institution, or some local issue such as storm sewers—that you will quail at the prospect of keeping your readers, or even yourself, awake. Take heart. You'll find the solution if you look for the human element. Somewhere in every drab institution are men and women who have a fierce attachment to what they are doing and are rich repositories of lore. Somewhere behind every storm sewer is a politician whose future hangs on getting it installed and a widow who has always lived on the block and is outraged that some damn-fool legislator thinks it will wash away. Find these people to tell your story and it won't be drab. I've proved this to myself often. Many years ago I was invited to write a small book for the New York Public Library to cele- brate the 50th anniversary of its main building on Fifth Avenue. On the surface it seemed to be just the story of a marble build- ing and millions of musty volumes. But behind the facade I found that the library had 19 research divisions, each with a curator supervising a hoard of treasures and oddities, from Washington's handwritten Farewell Address to 750,000 movie stills. I decided to interview all those curators to learn what was in their collections, what they were adding to keep up with new areas of knowledge, and how their rooms were being used. I found that the Science & Technology division had a collec- tion of patents second only to that of the United States Patent Office and was therefore almost a second home to the city's patent lawyers. But it also had a daily stream of men and women who thought they were on the verge of discovering perpetual motion. "Everybody's got something to invent," the curator explained, "but they won't tell us what they're looking for— maybe because they think we'll patent it ourselves." The whole 102 ON WRITING WELL building turned out to be just such a mixture of scholars and searchers and crackpots, and my story, though ostensibly the chronicle of an institution, was really a story about people. I used the same approach in a long article about Sotheby's, the London auction firm. Sotheby's was also divided into various domains, such as silver and porcelain and art, each with an expert in charge, and, like the Library, it subsisted on the whims of a capricious public. The experts were like department heads in a small college, and all of them had anecdotes that were unique both in substance and in the manner of telling: "We just sit here like Micawber waiting for things to come in," said R. S. Timewell, head of the furniture department. "Recently an old lady near Cambridge wrote that she wanted to raise two thousand pounds and asked if I would go through her house and see if her furniture would fetch that much. I did, and there was absolutely nothing of value. As I was about to leave I said, 'Have I seen everything?' She said I had, except for a maid's room that she hadn't bothered to show me. The room had a very fine 18th-century chest that the old lady was using to store blankets in. Tour worries are over,' I told her, 'if you sell that chest.' She said, 'But that's quite impossi- ble—where will I store my blankets?'" My worries were over, too. By listening to the quizzical scholars who ran the business and to the men and women who flocked there every morning bearing unloved objects found in British attics ("I'm afraid it isn't Queen Anne, madam—much nearer Queen Victoria, unfortunately"), I got as much human detail as a writer could want. Again, when I was asked in 1966 to write a history of the Book-of-the-Month Club to mark its 40th birthday, I thought I might encounter nothing but inert matter. But I found a pep- pery human element on both sides of the fence, for the books Writing About People: The Interview 103 had always been selected by a panel of strong-minded judges and sent to equally stubborn subscribers, who never hesitated to wrap up a book they didn't like and send it right back. I was given more than a thousand pages of transcribed interviews with the five original judges (Heywood Broun, Henry Seidel Canby,
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-mom-test",
+  "chapter_id": "chapter-05-asking-important-questions",
+  "chunk_id": "chapter-05-asking-important-questions-chunk-002",
+  "source": {
+    "chapter_title": "Asking important questions",
+    "source_path": "/Users/sachin/books/files/The Mom Test/chapters/05 - Asking important questions.txt",
+    "source_pages": "41-55",
+    "char_start": 6240,
+    "char_end": 13937,
+    "checksum": "d4726e697bb58862"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ut which they’ll happily tell you the details of if you ask them. Before you have solid evidence that you’re ﬁxing a meaningful problem for your customer segment, you can really mess yourself up by zooming in too quickly. A (really, really) bad conversation: You: “Hello. Thanks for taking the time. We’re building phone and tablet apps to help people stay in shape and just wanted to understand how you stay ﬁt.” This isn’t a terrible opening, but I’d generally avoid mentioning the idea immediately since it gives them a good idea of  which answers you’re hoping to hear. Them: “Okay.” I never exercise, so this should be quick. The Mom Test by @robﬁtz 45 momtestbook.com    /    foundercentric.com
+
+You: “How often do you go to the gym?” This sort of  demographic data doesn’t give you any new insight, but can still be useful at the start of  a conversation to ﬁgure out what sort of  person you’re talking to so you can ask relevant follow-ups. Them: “Not really ever.” Well, looks like we’re done here then! You: “What would you say your biggest problem with going to the gym is?” This is where the conversation goes horribly wrong. Instead of  ﬁguring out whether staying ﬁt is actually a real problem, we’re prematurely zooming in on it. Any response we get is going to be dangerously misleading. Them: “I guess the time it takes to get there. I’m always kind of busy, you know?” Wait, who says I have a problem with going to the gym? I thought I just told you I don’t care about the gym! But if  I had to choose one, I guess I’d go with convenience. Not that I’ve done a pushup in 5 years. Pushups are pretty convenient. You: “Perfect. That’s great. And could you rank these 4 in terms of which is most important to you in a ﬁtness program: convenience, personalisation, novelty, or cost?” Note that we’re still assuming we’re talking to a person who actually cares about getting in shape. Questions like this don’t actually tell you if  the person cares about any of  it at all. Them: “Probably convenience, then cost, then personalisation, then novelty.” Since you asked, I’ll answer. Hypothetically speaking, of  course. You: “Okay. Awesome. Thanks so much. We’re working on an app to help you exercise in the convenience of your own home. I think it’s going to be a great ﬁt for what you care about.” Totally missing the point and mis-interpreting the conversation as validation. Now ﬁshing for compliments. Them: “Cool. I’d love to try it when it launches.” Half-hearted compliment plus non-committal stalling tactic. You: “Great — I’ll send over one of our beta keys so you can check it The Mom Test by @robﬁtz 46 momtestbook.com    /    foundercentric.com out.” We got a user! Them: “Thanks.” I am literally never going to type that in. The reason this conversation is so very bad is because, if you aren’t paying attention, it seems like it went well. If you focus the conversation too quickly on one problem area, you can think you’ve validated a “top” problem when you haven’t. You just led them there. If you ask me what my biggest problem with staying ﬁt is, I’ll probably tell you it’s the time cost of going to the gym. But then, if you build me a workout-at- home app, I’m going to ignore it. Even though commute time is the biggest problem with getting in shape, the whole area of ﬁtness just isn’t something I care about enough to act on. My #1 ﬁtness problem is still an unimportant one. Let’s start the conversation in the same way and ﬁx it when it starts to go off track: A good conversation You: “How often do you go to the gym?” Them: “Um. Not really ever.” Looks like we’re done here. You: “Why not?” Instead of  taking for granted that staying ﬁt is one of  their top priorities, let’s dig into the motivations. Them: “I don’t know, it’s just not something I’m that worried about, you know?” Not trying to ﬁx this, so unlikely to buy or use an app. You: “When’s the last time you did try? Have you ever joined a gym or taken up jogging or anything?” Let’s anchor the generic just to make sure… Them: “Oh yeah, I used to be into sports in high school. It just hasn’t been a big deal since I settled down. Running around after the kids gives me all the cardio I need!” The Mom Test by @robﬁtz 47 momtestbook.com    /    foundercentric.com You: “Haha, gotcha. Thanks for the time!” This was a pleasant conversation and we learned what we came for, so we can abandon ship and leave him to his day. The premature zoom is a real problem because it leads to data which seems like validation, but is actually worthless. In other words, it’s a big source of false positives. Let’s re-run the same conversation, but instead of immediately zooming in on exercise, we’ll start more generic, since we aren’t sure that ﬁtness is a must-solve problem: A good conversation: You: “What are your big goals and focuses right now?” Products which solve problems on this list are inﬁnitely more likely to get bought. We might alternately ask for major annoyances, costs, or joys. Them: “The big one is ﬁnalising that promotion at work. And we just bought our ﬁrst house, so I’ve got to get that all ﬁxed up and ready to go. Exciting times. And I want to ﬁnd a bit more time for the missus, you know? Things have been pretty busy lately.” Work, house, and marriage. Not looking good for us! You: “You’re buying a new house and expect to be less busy?” Them: “Can’t blame a guy for hoping.” You: “Is getting healthier on that list?” We probably already know the answer, but it doesn’t hurt to ask leading questions when you’re about to abort the conversation anyway. If  they come back with a positive, just be a little extra careful in making sure they aren’t lying. Them: “I’m actually feeling pretty good at the moment.” Not a customer. However, we don’t always need to start the conversation from the square one of The Mom Test by @robﬁtz 48 momtestbook.com    /    foundercentric.com do-they-care-at-all. Sometimes we know the problem exists as a top priority and we can safely zoom in immediately. For example, let’s say we help drive qualiﬁed leads to small business websites. We know that marketing is always a top 3 problem for small businesses, so we can focus on it and start the conversation by zooming in with a question like: You: What are your big problems with marketing? We can immediately zoom in on the problem if  we are 100% certain it’s a must-solve problem which people are ready to pay for. Versus: You: What are your big problems right now? If  we aren’t sure it’s a must- solve problem, we start more generic to see if  they care at all about the problem category, in which case they’ll mention it. Now imagine you’ve built the aforementioned marketing tool for small businesses and realise it could also be used to help bloggers get more attention. You’re wondering if you have another strong customer segment. However, since blogs have a harder time monetising trafﬁc than small businesses, we can’t necessarily assume that they’re also going to happily pay for trafﬁc. For example, I have a blog which I quite like (but which I don’t take seriously as a business) at thestartuptoolkit.com. If you’re talking to me and you ask, “Hey Rob, what are your top problems with marketing your blog?” Then you’ve just prematurely zoomed on a non-problem. I’m going to tell you some sort of answer which sounds legit but is actually misleading. I might say that my keywords are all kind of generic, so it’s hard to attract the right people. Or that I walk a ﬁne line between writing beginner and advanced articles, so it’s tough to attract the right people. Whatever. Problems exist with my blog marketing, but the whole space just isn’t something I’m too fussed about.
+>>>

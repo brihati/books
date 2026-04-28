@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-09-bargain-hard",
+  "chunk_id": "chapter-09-bargain-hard-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 9 | BARGAIN HARD",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+    "source_pages": "249-280",
+    "char_start": 27224,
+    "char_end": 34894,
+    "checksum": "d4e5acff80f38bfb"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+o that?” in a negotiation is when I want to knock someone back. It’s an iffy technique, though, and I wouldn’t advocate it. There is, however, another way to use “Why?” effectively. The idea is to employ the defensiveness the question triggers to get your counterpart to defend your position. I know it sounds weird, but it works. The basic format goes like this: When you want to flip a dubious counterpart to your side, ask them, “Why would you do that?” but in a way that the “that” favors you. Let me explain. If you are working to lure a client away from a competitor, you might say, “Why would you ever do business with me? Why would you ever change from your existing supplier? They’re great!”
+
+In these questions, the “Why?” coaxes your counterpart into working for you. “I” MESSAGES Using the first-person singular pronoun is another great way to set a boundary without escalating into confrontation. When you say, “I’m sorry, that doesn’t work for me,” the word “I” strategically focuses your counterpart’s attention onto you long enough for you to make a point. The traditional “I” message is to use “I” to hit the pause button and step out of a bad dynamic. When you want to counteract unproductive statements from your counterpart, you can say, “I feel ___ when you ___ because ___,” and that demands a time-out from the other person. But be careful with the big “I”: You have to be mindful not to use a tone that is aggressive or creates an argument. It’s got to be cool and level. NO NEEDINESS: HAVING THE READY-TO-WALK MINDSET We’ve said previously that no deal is better than a bad deal. If you feel you can’t say “No” then you’ve taken yourself hostage. Once you’re clear on what your bottom line is, you have to be willing to walk away. Never be needy for a deal. Before we move on, I want to emphasize how important it is to maintain a collaborative relationship even when you’re setting boundaries. Your response must always be expressed in the form of strong, yet empathic, limit-setting boundaries —that is, tough love—not as hatred or violence. Anger and other strong emotions can on rare occasions be effective. But only as calculated acts, never a personal attack. In any bare-knuckle bargaining session, the most vital principle to keep in mind is never to look at your counterpart as an enemy. The person across the table is never the problem. The unsolved issue is. So focus on the issue. This is one of the most basic tactics for avoiding emotional escalations. Our culture demonizes people in movies and politics, which creates the mentality that if we only got rid of the person then everything would be okay. But this dynamic is toxic to any negotiation. Punching back is a last resort. Before you go there, I always suggest an attempt at de-escalating the situation. Suggest a time-out. When your counterparts step back and take a breath, they’ll no longer feel that they are hostage to a bad situation. They’ll regain a sense of agency and power. And they’ll appreciate you for that. Think of punching back and boundary-setting tactics as a flattened S-curve: you’ve accelerated up the slope of a negotiation and hit a plateau that requires you to temporarily stop any progress, escalate or de-escalate the issue acting as the obstacle, and eventually bring the relationship back to a state of rapport and get back on the slope. Taking a positive, constructive approach to conflict involves understanding that the bond is fundamental to any resolution. Never create an enemy. ACKERMAN BARGAINING I’ve spent a lot of time talking about the psychological judo that I’ve made my stock in trade: the calibrated questions, the mirrors, the tools for knocking my counterpart off his game and getting him to bid against himself. But negotiation still comes down to determining who gets which slice of the pie, and from time to time you’re going to be forced into some real bare-knuckle bargaining with a hard-ass haggler. I faced bare-knuckle bargaining all the time in the hostage world. I haggled with a lot of guys who stuck to their game plan and were used to getting their way. “Pay or we’ll kill,” they’d say, and they meant it. You had to have your skills drum-tight to negotiate them down. You need tools. Back at FBI negotiation training, I learned the haggling system that I use to this day. And I swear by it. I call the system the Ackerman model because it came from this guy Mike Ackerman, an ex-CIA type who founded a kidnap-for-ransom consulting company based out of Miami. On many kidnappings we’d constantly be paired with “Ackerman guys”—never Mike himself—who helped design the haggle. After I retired from the FBI, I finally met Mike on a trip to Miami. When I told him I also used the system for business negotiations, he laughed and said he’d run the system by Howard Raiffa, a legendary Harvard negotiation guy, and Howard had said it would work in any situation. So I felt pretty justified by that. The Ackerman model is an offer-counteroffer method, at least on the surface. But it is a very effective system for beating the usual lackluster bargaining dynamic, which has the predictable result of meeting in the middle. The systematized and easy-to-remember process has only four steps: 1. Set your target price (your goal). 2. Set your first offer at 65 percent of your target price. 3. Calculate three raises of decreasing increments (to 85, 95, and 100 percent). 4. Use lots of empathy and different ways of saying “No” to get the other side to counter before you increase your offer. 5. When calculating the final amount, use precise, nonround numbers like, say, $37,893 rather than $38,000. It gives the number credibility and weight. 6. On your final number, throw in a nonmonetary item (that they probably don’t want) to show you’re at your limit. The genius of this system is that it incorporates the psychological tactics we’ve discussed—reciprocity, extreme anchors, loss aversion, and so on—without you needing to think about them. If you’ll bear with me for a moment, I’ll go over the steps so you see what I mean. First, the original offer of 65 percent of your target price will set an extreme anchor, a big slap in the face that might bring your counterpart right to their price limit. The shock of an extreme anchor will induce a fight-or-flight reaction in all but the most experienced negotiators, limiting their cognitive abilities and pushing them into rash action. Now look at the progressive offer increases to 85, 95, and 100 percent of the target price. You’re going to drop these in sparingly: after the counterpart has made another offer on their end, and after you’ve thrown out a few calibrated questions to see if you can bait them into bidding against themselves. When you make these offers, they work on various levels. First, they play on the norm of reciprocity; they inspire your counterpart to make a concession, too. Just like people are more likely to send Christmas cards to people who first send cards to them, they are more likely to make bargaining concessions to those who have made compromises in their direction. Second, the diminishing size of the increases—notice that they decrease by half each time—convinces your counterpart that he’s squeezing you to the point of breaking. By the time they get to the last one, they’ll feel that they’ve really gotten every last drop. This really juices their self-esteem. Researchers have found that people getting concessions often feel better about the bargaining process than those who are given a single firm, “fair” offer. In fact, they feel better even when they end up paying more—or receiving less—than they otherwise might.
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-07-part-iii-forms",
+  "chunk_id": "chapter-07-part-iii-forms-chunk-025",
+  "source": {
+    "chapter_title": "Part III – Forms",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+    "source_pages": "107-244",
+    "char_start": 166624,
+    "char_end": 174311,
+    "checksum": "317371c77d091d6f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+is and most other games. The little boys—and girls—who once played those games grow up to be readers of the sports pages, and in their imagination they are still young, still on the field and the court and the rink, still play- ing those games. What they want to know when they open their newspaper is how the players played and how the game came out. Please tell us. One new role for the sportswriter is to let us know what it feels like to actually perform a sport: to be a marathon runner or a soccer goalie, a skier or a golfer or a gymnast. The historic 188 ON WRITING WELL moment is ripe—popular interest in how far the body can be pushed has never been higher. Americans are jogging, not walk-
+
+ing, toward the millennium, keeping fit on fitness machines, cal- ibrating every nuance of weight gain and weight loss, pulmonary intake and cardiac stress. For a nonfiction writer these weekend warriors provide a whole new readership: sports fans who are also recreational sportsmen, eager to be put inside the head of athletes at the top of their form. High speed, a central thrill of many sports, is typical of the sensations that ordinary mortals can only try to imagine. As the owner of cars that tend to shake at 65 miles per hour, I've never come close to knowing how it feels to drive a racing car. I needed a writer, Lesley Hazleton, to strap me into the seat of a Formula One vehicle. "Whenever I drive fast," she writes, "there is an awareness that I am in transgression of the laws of nature, moving faster than my body was designed to move." This awareness doesn't truly begin, Hazleton says, until a driver expe- riences the g-force, an outside force that "works on you with such pressure that it seems as though your body is moved first and your insides follow after": Race drivers contend with g-forces so great that they are subject to three or four times the normal force of gravity. From a standing start, a Formula One car will reach a hun- dred miles an hour in just under three seconds. And in that first second the driver s head is pushed back so violently that his face distends, giving him a ghostly smile. Within another second he has changed gears twice, and each time he does so, the acceleration force smashes him back into the seat again. After three seconds, accelerating upward from a hundred miles an hour toward two hundred, his peripheral vision is completely blurred. He can only see straight ahead. The 800-horsepower engine is screaming at 130 decibels, and each piston completes four combustion Sports 189 cycles 10,000 times a minute, which means that the vibration he feels is at that rate. His neck and shoulder muscles are under immense strain, trying to keep his eyes level as the g-force pushes his head from side to side in the corners. The strong acceleration makes blood pool in his legs so that less is delivered to the heart, which means that there's less cardiac output, forcing the pulse rate up. Formula One drivers' pulses are often up to 180, even 200, and they stay at 85 percent of that maximum for almost the entire length of a two-hour race. Breathing quickens as the muscles call for more blood— speed literally takes your breath away—and the whole body goes into emergency stance. A two-hour emergency. The mouth goes dry, the eyes dilate as the car travels the length of a football field for every normal heartbeat. The brain pro- cesses information at an astonishingly rapid rate, since the higher the speed, the less the reaction time. Reactions have to be not only quick but also extraordinarily precise, no mat- ter how great the physical strain. Split seconds may be mere slivers of time, but they are also the difference between win- ning and losing a race, or between entering and avoiding a crash. In short, a Formula One driver has to be almost preternat- urally alert under conditions of maximum physical pressure. Obviously, the adrenaline is pumping. . .. But in addition to the physical fitness of top athletes, he needs that chess player s mind as he assimilates telemetry data, calculates over- taking points, and executes a racing strategy. All of which is why speed is so dangerous for most of us: we simply have nei- ther the physical nor the mental stamina to handle it. Psychologically, what happens in a race is still more com- plex. The muscles, the brain chemicals, the laws of physics, the vibration, the conditions of the race—all these combine to generate a high level of excitement and tension in the body, 190 ON WRITING WELL making the driver feel absolutely clearheaded and alert. And high. Although Hazleton keeps using "his"—his muscles, his eyes, his legs—the pronoun for her article should be "her." Amid all the erosions in sports and sports journalism today, she repre- sents one huge gain: the emergence of women as fine athletes, often on turf previously monopolized by men, and as reporters with equal access to male locker rooms and the other routine rights of journalism. Consider the many kinds of progress—both in performance and in attitude—embodied in the following piece by one of those writers, Janice Kaplan, which ran in 1984: To understand how good women have become in sports, you have to understand how bad they were just a decade ago. In the early '70s the debate wasn't how much women could do athletically, but whether a normal woman should be ath- letic at all. Marathoning, for example, was said to be bad for children, for the elderly and for women. The formidable Boston Marathon was officially closed to women until 1972. That year Nina Kuscsik battled sexism and a mid-race bout with diar- rhea to become the first winner of the women's division. Those of us who knew about it felt a surge of pride, mixed with a tinge of embarrassment. Pride, because Kuscsik's vic- tory proved that women could run 26 miles after all. Embar- rassment, because her time of three hours and ten minutes was more than 50 minutes slower than the best men's times. Fifty minutes. That's an eternity in racing lingo. The obvious explanation was that women had rarely run marathons before and lacked training and experience. An obvious explanation— but who really believed it? Flash ahead to this year. For the first time, the women's marathon will be an Olympic event. One of the top competi- Sports 191 tors is likely to be Joan Benoit, who holds the current women's world record—two hours and 22 minutes. In the dozen years since the first woman raced in Boston, the best women's times have improved by about 50 minutes. Another eternity. Men's times in the marathon have meanwhile improved by only a few minutes, so this dramatic progress should begin to answer the question of training vs. hormones: Are women slower and weaker than men because of built-in biological differences—or because of cultural bias and the fact that we haven't been given a chance to prove what we can do?.. . Whether the gap between men and women will ever be totally closed seems almost beside the point. What matters is that women are doing what they never dreamed they could do—taking themselves and their bodies seriously. A pivotal event in this revolution of altered consciousness was the mid-1970s tennis match between Billie Jean King and Bobby Riggs. "It was billed as the battle of the sexes," Kaplan recalls in another article, "and it was." There has probably never been a sporting event that was less about sports and more about social issues. The big issue in this match was women: where we belonged and what we could do. Forget Supreme Court decisions and ERA votes; we looked to two athletes to settle the issues of equality for women in a way that really mattered. In sports, all is writ
+>>>

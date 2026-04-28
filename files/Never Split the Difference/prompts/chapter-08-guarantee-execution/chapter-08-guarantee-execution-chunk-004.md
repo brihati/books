@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-08-guarantee-execution",
+  "chunk_id": "chapter-08-guarantee-execution-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 8 | GUARANTEE EXECUTION",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+    "source_pages": "216-248",
+    "char_start": 20220,
+    "char_end": 27899,
+    "checksum": "93bbc0b3b31d5809"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+—can unconsciously influence the conscious choices your counterpart makes. Here I want to talk about the tools you need to ID liars, disarm jerks, and charm everybody else. Of course, the open-ended “How” question is one of them—maybe the most important one—but there are many more. Alastair Onglingswan was living in the Philippines when, one evening in 2004, he hailed a taxi and settled in for a long ride home from Manila’s Greenhills shopping center. He dozed off. And he woke up in chains. Unfortunately for Alastair, the cabbie had a second business as a kidnapper. He kept a bottle of ether in his front seat, and when a target fell asleep he would drug him, imprison him, and ask for ransom.
+
+Within hours, the kidnapper used Alastair’s phone to contact his girlfriend in New York. He demanded a daily payment to “take care” of Alastair while he researched the family’s wealth. “It’s okay if you don’t pay,” he said. “I can always sell his organs in Saudi Arabia.” Within twenty-four hours, I’d been charged with heading the negotiation from Quantico. Alastair’s girlfriend was too nervous to handle the family side of the negotiation, and his mother, who lived in the Philippines, just wanted to accept any demand the kidnapper made. But Alastair’s brother Aaron, in Manila, was different: he just got the idea of negotiation and he accepted that Alastair might die, which would make him a better and more effective negotiator. Aaron and I set up an always-on phone line and I became Aaron’s guru on the other side of the world. Through the kidnapper’s comments and demands, I saw that he was experienced and patient. As a token of his intentions, he offered to cut off one of Alastair’s ears and send it to the family along with a video of him severing the ear. The demand for the daily payment was clearly a trick to quickly drain the family of as much money as possible while at the same time gauging their wealth. We had to figure out who this guy was—Was he a lone operator or part of a group? Did he plan on killing Alastair or not?—and we had to do that before the family went broke. To get there, we were going to have to engage the kidnapper in a protracted negotiation. We were going to have to slow everything down. From Quantico, I loaded Aaron up with calibrated questions. I instructed him to keep peppering the violent jerk with “How?” How am I supposed to . . . ? How do we know . . . ? How can we . . . ? There is great power in treating jerks with deference. It gives you the ability to be extremely assertive—to say “No”—in a hidden fashion. “How do we know if we pay you that you won’t hurt Alastair?” Aaron asked. In the Chinese martial art of tai chi, the goal is to use your opponent’s aggressiveness against him—to turn his offense into your way to defeat him. That’s the approach we took with Alastair’s kidnapper: we wanted to absorb his threats and wear him down. We made sure that even scheduling a call with us was complex. We delayed making email responses. Through all these tactics, we gained the upper hand while giving the kidnapper the illusion of control. He thought he was solving Aaron’s problems while we were just reading him and wasting his time. You see, it’s best not to go chin to chin with aggressiveness like that of Alastair’s kidnapper; rather, default to using “what” and “how” questions to avoid making bids or adjusting your own negotiating position. Dodge and weave. Finally, following days of back-and-forth bargaining on the daily rate, Aaron got the kidnapper down to a token amount and agreed to deposit a portion of the funds in his bank account. After that partial payment was made, Aaron came up with the perfect way to nonconfrontationally confront the cabbie with a calibrated “When/What” question. “When we run out of money, what will happen?” Aaron asked. The kidnapper paused. “It will be all right,” he finally responded. Yes! Without realizing what he had just agreed to, our killer had just promised us he wouldn’t hurt Alastair. A repetitive series of “What” and “How” questions can help you overcome the aggressive tactics of a manipulative adversary. As you can see in that last exchange, the kidnapper’s protracted chats with Aaron had turned Aaron almost into a friend. Over time the kidnapper had become unguarded about spending time on the phone with his “friend.” Finally, the Philippine National Police investigators tracked the phone to a house and raided it. The kidnapper and Alastair were not there, but the kidnapper’s wife was. She told the police about another house they owned. The police quickly raided the other house, freed Alastair, and arrested the kidnapper. There are plenty of other tactics, tools, and methods for using subtle verbal and nonverbal forms of communication to understand and modify the mental states of your counterpart. As I run through some of them here, I want you to take a moment to internalize each one. These are the kind of tools that can help observant negotiators hit home runs. THE 7-38-55 PERCENT RULE In two famous studies on what makes us like or dislike somebody,1 UCLA psychology professor Albert Mehrabian created the 7-38-55 rule. That is, only 7 percent of a message is based on the words while 38 percent comes from the tone of voice and 55 percent from the speaker’s body language and face. While these figures mainly relate to situations where we are forming an attitude about somebody, the rule nonetheless offers a useful ratio for negotiators. You see, body language and tone of voice—not words—are our most powerful assessment tools. That’s why I’ll often fly great distances to meet someone face-to-face, even when I can say much of what needs to be said over the phone. So how do you use this rule? First, pay very close attention to tone and body language to make sure they match up with the literal meaning of the words. If they don’t align, it’s quite possible that the speaker is lying or at least unconvinced. When someone’s tone of voice or body language does not align with the meaning of the words they say, use labels to discover the source of the incongruence. Here’s an example: You: “So we’re agreed?” Them: “Yes . . .” You: “I heard you say, ‘Yes,’ but it seemed like there was hesitation in your voice.” Them: “Oh, it’s nothing really.” You: “No, this is important, let’s make sure we get this right.” Them: “Thanks, I appreciate it.” This is the way to make sure your agreement gets implemented with no surprises. And your counterpart will be grateful. Your act of recognizing the incongruence and gently dealing with it through a label will make them feel respected. Consequently, your relationship of trust will be improved. THE RULE OF THREE I’m positive that sometime in your life you’ve been involved in a negotiation where you got a “Yes” that later turned out to be a “No.” Maybe the other party was lying to you, or maybe they were just engaged in wishful thinking. Either way, this is not an uncommon experience. This happens because there are actually three kinds of “Yes”: Commitment, Confirmation, and Counterfeit. As we discussed in Chapter 5, so many pushy salesman try to trap their clients into the Commitment “Yes” that many people get very good at the Counterfeit “Yes. “ One great tool for avoiding this trap is the Rule of Three. The Rule of Three is simply getting the other guy to agree to the same thing three times in the same conversation. It’s tripling the strength of whatever dynamic you’re trying to drill into at the moment. In doing so, it uncovers problems before they happen. It’s really hard to repeatedly lie or fake conviction. When I first learned this skill, my biggest fear was how
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-08-part-iv-attitudes",
+  "chunk_id": "chapter-08-part-iv-attitudes-chunk-007",
+  "source": {
+    "chapter_title": "Part IV – Attitudes",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+    "source_pages": "245-308",
+    "char_start": 41108,
+    "char_end": 48803,
+    "checksum": "fc65e06d767d4a11"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ought off a complicated story that took me outside my normal experi- ence. I also had bagged a rare bird of my own, and when I put Peterson away in a drawer with my other collected specimens I thought: that was interesting. 22 esse The Tyranny of the Final Product In the writing course called "People and Places" that I teach at the New School, in Manhattan, students often tell me they have an idea for an article that would be perfect for New York, or for Sports Illustrated, or for some other magazine. That's the last thing I want to hear. They can already picture their story in print: the headline, the layout, the photographs and, best of all, the byline. Now all they have to do is write it.
+
+This fixation on the finished article causes writers a lot of trouble, deflecting them from all the earlier decisions that have to be made to determine its shape and voice and content. It's a very American kind of trouble. We are a culture that worships the winning result: the league championship, the high test score. Coaches are paid to win, teachers are valued for getting stu- dents into the best colleges. Less glamorous gains made along the way—learning, wisdom, growth, confidence, dealing with 256 ON WRITING WELL failure—aren't given the same respect because they can't be given a grade. For writers the winning grade is the check. The question that professional authors get asked most often at writing confer- ences is "How can I sell my writing?" Its the only question I won't try to answer, partly because I'm not qualified—I have no idea what editors in today's market are looking for; I wish I did. But mainly it's because I have no interest in teaching writers how to sell. I want to teach them how to write. If the process is sound, the product will take care of itself, and sales are likely to follow. That's the premise of my course at the New School. Better known by its original name, the New School for Social Research, it was founded in 1919 by liberal-minded scholars and has been one of the city's most vibrant colleges ever since. I like to teach there because I've always felt sympathetic to its historic role: to provide information that helps motivated adults to get on with their lives. I like arriving by subway for my evening class and being part of the rush of men and women entering the building and getting out of classes that have just ended. I chose "people and places" as the focus of my course because together they are at the heart of expository writing. By concentrating on those two elements I thought I would be able to teach much of what nonfiction writers need to know: how to situate what they write in a particular place, and how to get the people who live in that place to talk about what makes it—or once made it—unique. But I also wanted to conduct an experiment. As an editor and a teacher I've found that the most untaught and underesti- mated skill in nonfiction writing is how to organize a long arti- cle: how to put the jigsaw puzzle together. Writers are endlessly taught how to write a clear declarative sentence. But ask them to try something more extensive—an article or a book—and the sentences leach out all over the floor like marbles. Every editor The Tyranny of the Final Product 257 of a lengthy manuscript knows that grim moment of irreversible chaos. The writer, his eye on the finish line, never gave enough thought to how to run the race. I wondered if there was any way to wrest writers away from their infatuation with the completed act of writing. Suddenly I had a radical idea: I would teach a writing course in which no writing is required. At our first session my class consisted—as it has ever since— of two dozen adults, ranging from their twenties to their sixties, mostly women. A few were journalists with small suburban newspapers and television stations and trade magazines. But on the whole they were people with everyday jobs who wanted to learn how to use writing to make sense of their lives: to find out who they were at that moment, who they once were, and what heritage formed them. I devoted the first period to getting us all introduced and explaining some of the principles of writing about people and places. At the end I said: "Next week I want you to come here prepared to tell us about one place that's important to you that you'd like to write about. Tell us why you want to write about it and how you want to write about it." I've never been a teacher who likes to read student writing aloud unless it's unusually good; people are too vulnerable about what they have written. But I guessed that they wouldn't be self-conscious about what they were merely thinking. Thoughts haven't been committed to sacred paper; they can always be changed or rearranged or dis- owned. Still, I didn't know what to expect. The first volunteer the following week was a young woman who said she wanted to write about her church, on upper Fifth Avenue, which had recently had a bad fire. Although the church was back in use, its walls were blackened and its wood was charred and it smelled of smoke. The woman found that unset- tling, and she wanted to sort out what the fire meant to her as a parishioner and to the church. I asked her what she proposed to 258 ON WRITING WELL write. She said she might interview the minister, or the organist, or the firemen, or maybe the sexton, or the choirmaster. "You've given us five good pieces by Francis X. Clines," I told her, referring to a New York Times reporter who writes local features warmly and well. "But they're not good enough for you, or for me, or for this course. I want you to go deeper. I want you to find some connection between yourself and the place you're writing about." The woman asked what sort of piece I had in mind. I said I was reluctant to suggest one because the idea of the course was to think our way collectively to possible solutions. But since she was our first guinea pig I would give it a try. "When you go to church in the next few weeks," I said, "just sit there and think about the fire. After three or four Sundays the church is going to tell you what that fire means." Then I said: "God is going to tell that church to tell you what the fire means." There was a small gasp in the classroom; Americans get squeamish at any mention of religion. But the students saw that I was serious, and from that moment they took my idea seri- ously, inviting the rest of us into their lives each week, telling us about some place that touched their interests or their emotions and trying to decide how to write about it. I would spend the first half of each class period teaching the craft and reading pas- sages by nonfiction writers who had solved issues that the stu- dents were struggling with. The other half was our lab: a dissect- ing table of writers' organizational problems. By far the biggest problem was compression: how to distill a coherent narrative from a tangled mass of facts and feelings and memories. "I want to write an article about the disappearance of small towns in Iowa," one woman told us, describing how the fabric of life in the Midwest had frayed since she was a girl on her grandparents' farm. It was a good American subject, valu- able as social history. But nobody can write an article about the disappearance of small towns in Iowa; it would be all generaliza- The Tyranny of the Final Product 259 tion and no humanity. The writer would have to write about one small town in Iowa and thereby tell her larger story, and even within that one town she would have to reduce her story still further: to one store, or one family, or one farmer. We talked about different approaches, and the writer gradually thought
+>>>

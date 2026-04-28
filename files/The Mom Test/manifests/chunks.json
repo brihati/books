@@ -1,0 +1,63 @@
+{
+  "book_id": "the-mom-test",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 33,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-contents",
+      "title": "Contents",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-introduction",
+      "title": "Introduction",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-03-the-mom-test",
+      "title": "The Mom Test",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-04-avoiding-bad-data",
+      "title": "Avoiding bad data",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-05-asking-important-questions",
+      "title": "Asking important questions",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-06-keeping-it-casual",
+      "title": "Keeping it casual",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-07-commitment-and-advancement",
+      "title": "Commitment and advancement",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-08-finding-conversations",
+      "title": "Finding conversations",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-09-choosing-your-customers",
+      "title": "Choosing your customers",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-10-running-the-process",
+      "title": "Running the process",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-11-conclusion-and-cheatsheet",
+      "title": "Conclusion and cheatsheet",
+      "chunk_count": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-01-the-new-rules",
+  "chunk_id": "chapter-01-the-new-rules-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 1 | THE NEW RULES",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/01 - CHAPTER 1 THE NEW RULES.txt",
+    "source_pages": "8-35",
+    "char_start": 13276,
+    "char_end": 20947,
+    "checksum": "d01d1e07ddc27d24"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+q. If I could dominate the country’s brightest students with just one of the many emotionally attuned negotiating techniques I had developed and used against terrorists and kidnappers, why not apply them to business? What was the difference between bank robbers who took hostages and CEOs who used hardball tactics to drive down the price of a billion-dollar acquisition? After all, kidnappers are just businessmen trying to get the best price. OLD-SCHOOL NEGOTIATION Hostage taking—and therefore hostage negotiating—has existed since the dawn of recorded time. The Old Testament spins plenty of tales of Israelites and their enemies taking each other’s citizens hostage as spoils of war. The Romans,
+
+for their part, used to force the princes of vassal states to send their sons to Rome for their education, to ensure the continued loyalty of the princes. But until the Nixon administration, hostage negotiating as a process was limited to sending in troops and trying to shoot the hostages free. In law enforcement, our approach was pretty much to talk until we figured out how to take them out with a gun. Brute force. Then a series of hostage disasters forced us to change. In 1971, thirty-nine hostages were killed when the police tried to resolve the Attica prison riots in upstate New York with guns. Then at the 1972 Olympics in Munich, eleven Israeli athletes and coaches were killed by their Palestinian captors after a botched rescue attempt by the German police. But the greatest inspiration for institutional change in American law enforcement came on an airport tarmac in Jacksonville, Florida, on October 4, 1971. The United States was experiencing an epidemic of airline hijackings at the time; there were five in one three- day period in 1970. It was in that charged atmosphere that an unhinged man named George Giffe Jr. hijacked a chartered plane out of Nashville, Tennessee, planning to head to the Bahamas. By the time the incident was over, Giffe had murdered two hostages—his estranged wife and the pilot—and killed himself to boot. But this time the blame didn’t fall on the hijacker; instead, it fell squarely on the FBI. Two hostages had managed to convince Giffe to let them go on the tarmac in Jacksonville, where they’d stopped to refuel. But the agents had gotten impatient and shot out the engine. And that had pushed Giffe to the nuclear option. In fact, the blame placed on the FBI was so strong that when the pilot’s wife and Giffe’s daughter filed a wrongful death suit alleging FBI negligence, the courts agreed. In the landmark Downs v. United States decision of 1975, the U.S. Court of Appeals wrote that “there was a better suited alternative to protecting the hostages’ well- being,” and said that the FBI had turned “what had been a successful ‘waiting game,’ during which two persons safely left the plane, into a ‘shooting match’ that left three persons dead.” The court concluded that “a reasonable attempt at negotiations must be made prior to a tactical intervention.” The Downs hijacking case came to epitomize everything not to do in a crisis situation, and inspired the development of today’s theories, training, and techniques for hostage negotiations. Soon after the Giffe tragedy, the New York City Police Department (NYPD) became the first police force in the country to put together a dedicated team of specialists to design a process and handle crisis negotiations. The FBI and others followed. A new era of negotiation had begun. HEART VS. MIND In the early 1980s, Cambridge, Massachusetts, was the hot spot in the negotiating world, as scholars from different disciplines began interacting and exploring exciting new concepts. The big leap forward came in 1979, when the Harvard Negotiation Project was founded with a mandate to improve the theory, teaching, and practice of negotiation so that people could more effectively handle everything from peace treaties to business mergers. Two years later, Roger Fisher and William Ury— cofounders of the project—came out with Getting to Yes,2 a groundbreaking treatise on negotiation that totally changed the way practitioners thought about the field. Fisher and Ury’s approach was basically to systematize problem solving so that negotiating parties could reach a mutually beneficial deal—the getting to “Yes” in the title. Their core assumption was that the emotional brain—that animalistic, unreliable, and irrational beast—could be overcome through a more rational, joint problem-solving mindset. Their system was easy to follow and seductive, with four basic tenets. One, separate the person—the emotion—from the problem; two, don’t get wrapped up in the other side’s position (what they’re asking for) but instead focus on their interests (why they’re asking for it) so that you can find what they really want; three, work cooperatively to generate win- win options; and, four, establish mutually agreed-upon standards for evaluating those possible solutions. It was a brilliant, rational, and profound synthesis of the most advanced game theory and legal thinking of the day. For years after that book came out, everybody—including the FBI and the NYPD—focused on a problem-solving approach to bargaining interactions. It just seemed so modern and smart. Halfway across the United States, a pair of professors at the University of Chicago was looking at everything from economics to negotiation from a far different angle. They were the economist Amos Tversky and the psychologist Daniel Kahneman. Together, the two launched the field of behavioral economics—and Kahneman won a Nobel Prize—by showing that man is a very irrational beast. Feeling, they discovered, is a form of thinking. As you’ve seen, when business schools like Harvard’s began teaching negotiation in the 1980s, the process was presented as a straightforward economic analysis. It was a period when the world’s top academic economists declared that we were all “rational actors.” And so it went in negotiation classes: assuming the other side was acting rationally and selfishly in trying to maximize its position, the goal was to figure out how to respond in various scenarios to maximize one’s own value. This mentality baffled Kahneman, who from years in psychology knew that, in his words, “[I]t is self-evident that people are neither fully rational nor completely selfish, and that their tastes are anything but stable.” Through decades of research with Tversky, Kahneman proved that humans all suffer from Cognitive Bias, that is, unconscious—and irrational—brain processes that literally distort the way we see the world. Kahneman and Tversky discovered more than 150 of them. There’s the Framing Effect, which demonstrates that people respond differently to the same choice depending on how it is framed (people place greater value on moving from 90 percent to 100 percent—high probability to certainty—than from 45 percent to 55 percent, even though they’re both ten percentage points). Prospect Theory explains why we take unwarranted risks in the face of uncertain losses. And the most famous is Loss Aversion, which shows how people are statistically more likely to act to avert a loss than to achieve an equal gain. Kahneman later codified his research in the 2011 bestseller Thinking, Fast and Slow.3 Man, he wrote, has two systems of thought: System 1, our animal mind, is fast, instinctive, and emotional; System 2 is slow, deliberative, and logical. And System 1 is far more influential. In fact, it guides and steers our rational thoughts. System 1’s inchoate beliefs, feelings, and impressions are the main sources of the explicit beliefs and deliberate choices of System 2.
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+  "chunk_id": "chapter-03-don-t-feel-their-pain-label-it-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+    "source_pages": "70-101",
+    "char_start": 27137,
+    "char_end": 34826,
+    "checksum": "6cc10fa9cfad2685"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+just ask for a volunteer, my students sit on their hands and look away. You’ve been there. You can almost feel your back muscles tense as you think, Oh please, don’t call on me. So I don’t ask. Instead, I say, “In case you’re worried about volunteering to role-play with me in front of the class, I want to tell you in advance . . . it’s going to be horrible.” After the laughter dies down, I then say, “And those of you who do volunteer will probably get more out of this than anyone else.” I always end up with more volunteers than I need. Now, look at what I did: I prefaced the conversation by labeling my audience’s fears; how much worse can something be than “horrible”? I defuse them and wait,
+
+letting it sink in and thereby making the unreasonable seem less forbidding. All of us have intuitively done something close to this thousands of times. You’ll start a criticism of a friend by saying, “I don’t want this to sound harsh . . .” hoping that whatever comes next will be softened. Or you’ll say, “I don’t want to seem like an asshole . . .” hoping your counterpart will tell you a few sentences later that you’re not that bad. The small but critical mistake this commits is denying the negative. That actually gives it credence. In court, defense lawyers do this properly by mentioning everything their client is accused of, and all the weaknesses of their case, in the opening statement. They call this technique “taking the sting out.” What I want to do here is turn this into a process that, applied systematically, you can use to disarm your counterpart while negotiating everything from your son’s bedtime to large business contracts. The first step of doing so is listing every terrible thing your counterpart could say about you, in what I call an accusation audit. This idea of an accusation audit is really, really hard for people to get their minds around. The first time I tell my students about it, they say, “Oh my God. We can’t do that.” It seems both artificial and self-loathing. It seems like it would make things worse. But then I remind them that it’s exactly what I did the first day of class when I labeled their fears of the hostage game in advance. And they all admit that none of them knew. As an example, I’m going to use the experience of one of my students, Anna, because I couldn’t be more proud at how she turned what she learned in my class into $1 million. At the time, Anna was representing a major government contractor. Her firm had won a competition for a sizable government deal by partnering with a smaller company, let’s call it ABC Corp., whose CEO had a close relationship with the government client representative. Problems started right after they won the contract, though. Because ABC’s relationship had been instrumental in winning the deal, ABC felt that it was owed a piece of the pie whether it fulfilled its part of the contract or not. And so, while the contract paid them for the work of nine people, they continually cut back support. As Anna’s company had to perform ABC’s work, the relationship between ABC and Anna’s company fragmented into vituperative emails and bitter complaining. Facing an already low profit margin, Anna’s company was forced into tough negotiations to get ABC to take a cut to 5.5 people. The negotiations left a bitter aftertaste on both sides. The vituperative emails stopped, but then again a l l emails stopped. And no communication is always a bad sign. A few months after those painful talks, the client demanded a major rethink on the project and Anna’s firm was faced with losing serious money if it didn’t get ABC to agree to further cuts. Because ABC wasn’t living up to its side of the bargain, Anna’s firm would have had strong contractual grounds to cut out ABC altogether. But that would have damaged Anna’s firm’s reputation with a very important customer, and could have led to litigation from ABC. Faced with this scenario, Anna set up a meeting with ABC where she and her partners planned to inform ABC that its pay was being cut to three people. It was a touchy situation, as ABC was already unhappy about the first cut. Even though she was normally an aggressive and confident negotiator, worries about the negotiations ruined Anna’s sleep for weeks. She needed to extract concessions while improving the relationship at the same time. No easy task, right? To prepare, the first thing Anna did was sit down with her negotiating partner, Mark, and list every negative charge that ABC could level at them. The relationship had gone sour long before, so the list was huge. But the biggest possible accusations were easy to spot: “You are the typical prime contractor trying to force out the small guy.” “You promised us we would have all this work and you reneged on your promise.” “You could have told us about this issue weeks ago to help us prepare.” Anna and Mark then took turns role-playing the two sides, with one playing ABC and the other disarming these accusations with anticipatory labels. “You’re going to think we are a big, bad prime contractor when we are done,” Anna practiced saying slowly and naturally. “It seems you feel this work was promised to you from the beginning,” Mark said. They trained in front of an observer, honing their pacing; deciding at what point they would label each fear; and planning when to include meaningful pauses. It was theater. When the day of the meeting arrived, Anna opened by acknowledging ABC’s biggest gripes. “We understand that we brought you on board with the shared goal of having you lead this work,” she said. “You may feel like we have treated you unfairly, and that we changed the deal significantly since then. We acknowledge that you believe you were promised this work.” This received an emphatic nod from the ABC representatives, so Anna continued by outlining the situation in a way that encouraged the ABC reps to see the firms as teammates, peppering her statements with open-ended questions that showed she was listening: “What else is there you feel is important to add to this?” By labeling the fears and asking for input, Anna was able to elicit an important fact about ABC’s fears, namely that ABC was expecting this to be a high-profit contract because it thought Anna’s firm was doing quite well from the deal. This provided an entry point for Mark, who explained that the client’s new demands had turned his firm’s profits into losses, meaning that he and Anna needed to cut ABC’s pay further, to three people. Angela, one of ABC’s representatives, gasped. “It sounds like you think we are the big, bad prime contractor trying to push out the small business,” Anna said, heading off the accusation before it could be made. “No, no, we don’t think that,” Angela said, conditioned by the acknowledgment to look for common ground. With the negatives labeled and the worst accusations laid bare, Anna and Mark were able to turn the conversation to the contract. Watch what they do closely, as it’s brilliant: they acknowledge ABC’s situation while simultaneously shifting the onus of offering a solution to the smaller company. “It sounds like you have a great handle on how the government contract should work,” Anna said, labeling Angela’s expertise. “Yes—but I know that’s not how it always goes,” Angela answered, proud to have her experience acknowledged. Anna then asked Angela how she would amend the contract so that everyone made some money, which pushed Angela to admit that she saw no way to do so without cutting ABC’s worker count. Several weeks later, the contract was tweaked to cut ABC’s payout, which brought Anna’s company $1 million that put the contract into the black. But it was Angela’s
+>>>

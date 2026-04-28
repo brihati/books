@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+  "chunk_id": "chapter-03-don-t-feel-their-pain-label-it-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+    "source_pages": "70-101",
+    "char_start": 34126,
+    "char_end": 41826,
+    "checksum": "69f9f2a3fdf06e8b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+they acknowledge ABC’s situation while simultaneously shifting the onus of offering a solution to the smaller company. “It sounds like you have a great handle on how the government contract should work,” Anna said, labeling Angela’s expertise. “Yes—but I know that’s not how it always goes,” Angela answered, proud to have her experience acknowledged. Anna then asked Angela how she would amend the contract so that everyone made some money, which pushed Angela to admit that she saw no way to do so without cutting ABC’s worker count. Several weeks later, the contract was tweaked to cut ABC’s payout, which brought Anna’s company $1 million that put the contract into the black. But it was Angela’s
+
+reaction at the end of the meeting that most surprised Anna. After Anna had acknowledged that she had given Angela some bad news and that she understood how angry she must feel, Angela said: “This is not a good situation but we appreciate the fact that you are acknowledging what happened, and we don’t feel like you are mistreating us. And you are not the ‘Big Bad Prime.’” Anna’s reaction to how this turned out? “Holy crap, this stuff actually works!” She’s right. As you just saw, the beauty of going right after negativity is that it brings us to a safe zone of empathy. Every one of us has an inherent, human need to be understood, to connect with the person across the table. That explains why, after Anna labeled Angela’s fears, Angela’s first instinct was to add nuance and detail to those fears. And that detail gave Anna the power to accomplish what she wanted from the negotiation. GET A SEAT—AND AN UPGRADE—ON A SOLD-OUT FLIGHT Up to this point, we’ve been building each skill as if they were musical instruments: first, try the saxophone mirror; now here’s the bass label; and finally, why don’t you blow a note on the French horn of tactical silence. But in a real negotiation the band all plays together. So you’ve got to learn how to conduct. Keeping all the instruments playing is really awkward for most people. It seems to go by in such a rush. So what I’m going to do here is play a song at slow speed so you can hear each instrument note by note. I promise you’ll quickly see how the skills you have been building play off one another, rising, riffing, falling, and pausing in perfect harmony. Here is the situation (the song, if you will): My student Ryan B. was flying from Baltimore to Austin to sign a large computer-consulting contract. For six months, the client representative had gone back and forth on whether he wanted the services, but a major system collapse put the representative in a tight spot with his CEO. To shift the blame, he called Ryan with his CEO on the line and very aggressively demanded to know why it was taking Ryan so long to come ink the contract. If Ryan was not there by Friday morning, he said, the deal was off. Ryan bought a ticket for the next morning, Thursday, but a freak lightning storm whipped up in Baltimore, closing the airport for five hours. It became painfully clear that Ryan wasn’t going to make his original connection to Austin from Dallas. Worse, when he called American Airlines just before departing, he found that his connection had been automatically rebooked to 3 p.m. the next day, putting the contract in jeopardy. When Ryan finally got to Dallas at 8 p.m., he ran to the gate where the day’s final American Airlines flight to Austin was less than thirty minutes from takeoff. His goal was to get on that flight or, at worst, get an earlier flight the next day. In front of him at the gate, a very aggressive couple was yelling at the gate agent, who was barely looking at them as she tapped on the computer in front of her; she was clearly making every effort not to scream back. After she’d said, “There’s nothing I can do,” five times, the angry couple finally gave up and left. To start, watch how Ryan turns that heated exchange to his advantage. Following on the heels of an argument is a great position for a negotiator, because your counterpart is desperate for an empathetic connection. Smile, and you’re already an improvement. “Hi, Wendy, I’m Ryan. It seems like they were pretty upset.” This labels the negative and establishes a rapport based on empathy. This in turn encourages Wendy to elaborate on her situation, words Ryan then mirrors to invite her to go further. “Yeah. They missed their connection. We’ve had a fair amount of delays because of the weather.” “The weather?” After Wendy explains how the delays in the Northeast had rippled through the system, Ryan again labels the negative and then mirrors her answer to encourage her to delve further. “It seems like it’s been a hectic day.” “There’ve been a lot of ‘irate consumers,’ you know? I mean, I get it, even though I don’t like to be yelled at. A lot of people are trying to get to Austin for the big game.” “The big game?” “UT is playing Ole Miss football and every flight into Austin has been booked solid.” “Booked solid?” Now let’s pause. Up to this point, Ryan has been using labels and mirrors to build a relationship with Wendy. To her it must seem like idle chatter, though, because he hasn’t asked for anything. Unlike the angry couple, Ryan is acknowledging her situation. His words ping-pong between “What’s that?” and “I hear you,” both of which invite her to elaborate. Now that the empathy has been built, she lets slip a piece of information he can use. “Yeah, all through the weekend. Though who knows how many people will make the flights. The weather’s probably going to reroute a lot of people through a lot of different places.” Here’s where Ryan finally swoops in with an ask. But notice how he acts: not assertive or coldly logical, but with empathy and labeling that acknowledges her situation and tacitly puts them in the same boat. “Well, it seems like you’ve been handling the rough day pretty well,” he says. “I was also affected by the weather delays and missed my connecting flight. It seems like this flight is likely booked solid, but with what you said, maybe someone affected by the weather might miss this connection. Is there any possibility a seat will be open?” Listen to that riff: Label, tactical empathy, label. And only then a request. At this point, Wendy says nothing and begins typing on her computer. Ryan, who’s eager not to talk himself out of a possible deal, engages in some silence. After thirty seconds, Wendy prints a boarding pass and hands it to Ryan, explaining that there were a few seats that were supposed to be filled by people who would now arrive much later than the flight’s departure. To make Ryan’s success even better, she puts him in Economy Plus seating. All that in under two minutes! The next time you find yourself following an angry customer at a corner store or airplane line, take a moment and practice labels and mirrors on the service person. I promise they won’t scream, “Don’t try to control me!” and burst into flames—and you might walk away with a little more than you expected. KEY LESSONS As you try to insert the tools of tactical empathy into your daily life, I encourage you to think of them as extensions of natural human interactions and not artificial conversational tics. In any interaction, it pleases us to feel that the other side is listening and acknowledging our situation. Whether you are negotiating a business deal or simply chatting to the person at the supermarket butcher counter, creating an empathetic relationship and encouraging your counterpart to expand on their situation is the basis of healthy human interaction. These tools, then, are nothing less than emotional best practices that help you cure the pervasive ineptitude that
+>>>

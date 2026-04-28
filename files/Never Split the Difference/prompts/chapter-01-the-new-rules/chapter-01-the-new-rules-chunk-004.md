@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-01-the-new-rules",
+  "chunk_id": "chapter-01-the-new-rules-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 1 | THE NEW RULES",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/01 - CHAPTER 1 THE NEW RULES.txt",
+    "source_pages": "8-35",
+    "char_start": 20247,
+    "char_end": 27943,
+    "checksum": "0d949a417f383c4e"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+). Prospect Theory explains why we take unwarranted risks in the face of uncertain losses. And the most famous is Loss Aversion, which shows how people are statistically more likely to act to avert a loss than to achieve an equal gain. Kahneman later codified his research in the 2011 bestseller Thinking, Fast and Slow.3 Man, he wrote, has two systems of thought: System 1, our animal mind, is fast, instinctive, and emotional; System 2 is slow, deliberative, and logical. And System 1 is far more influential. In fact, it guides and steers our rational thoughts. System 1’s inchoate beliefs, feelings, and impressions are the main sources of the explicit beliefs and deliberate choices of System 2.
+
+They’re the spring that feeds the river. We react emotionally (System 1) to a suggestion or question. Then that System 1 reaction informs and in effect creates the System 2 answer. Now think about that: under this model, if you know how to affect your counterpart’s System 1 thinking, his inarticulate feelings, by how you frame and deliver your questions and statements, then you can guide his System 2 rationality and therefore modify his responses. That’s what happened to Andy at Harvard: by asking, “How am I supposed to do that?” I influenced his System 1 emotional mind into accepting that his offer wasn’t good enough; his System 2 then rationalized the situation so that it made sense to give me a better offer. If you believed Kahneman, conducting negotiations based on System 2 concepts without the tools to read, understand, and manipulate the System 1 emotional underpinning was like trying to make an omelet without first knowing how to crack an egg. THE FBI GETS EMOTIONAL As the new hostage negotiating team at the FBI grew and gained more experience in problem-solving skills during the 1980s and ’90s, it became clear that our system was lacking a crucial ingredient. At the time, we were deep into Getting to Yes. And as a negotiator, consultant, and teacher with decades of experience, I still agree with many of the powerful bargaining strategies in the book. When it was published, it provided groundbreaking ideas on cooperative problem solving and originated absolutely necessary concepts like entering negotiations with a BATNA: the Best Alternative To a Negotiated Agreement. It was genius. But after the fatally disastrous sieges of Randy Weaver’s Ruby Ridge farm in Idaho in 1992 and David Koresh’s Branch Davidian compound in Waco, Texas, in 1993, there was no denying that most hostage negotiations were anything but rational problem-solving situations. I mean, have you ever tried to devise a mutually beneficial win-win solution with a guy who thinks he’s the messiah? It was becoming glaringly obvious that Getting to Yes didn’t work with kidnappers. No matter how many agents read the book with highlighters in hand, it failed to improve how we as hostage negotiators approached deal making. There was clearly a breakdown between the book’s brilliant theory and everyday law enforcement experience. Why was it that everyone had read this bestselling business book and endorsed it as one of the greatest negotiation texts ever written, and yet so few could actually follow it successfully? Were we morons? After Ruby Ridge and Waco, a lot of people were asking that question. U.S. deputy attorney general Philip B. Heymann, to be specific, wanted to know why our hostage negotiation techniques were so bad. In October 1993, he issued a report titled “Lessons of Waco: Proposed Changes in Federal Law Enforcement,”4 which summarized an expert panel’s diagnosis of federal law enforcement’s inability to handle complex hostage situations. As a result, in 1994 FBI director Louis Freeh announced the formation of the Critical Incident Response Group (CIRG), a blended division that would combine the Crises Negotiation, Crises Management, Behavioral Sciences, and Hostage Rescue teams and reinvent crisis negotiation. The only issue was, what techniques were we going to use? Around this time, two of the most decorated negotiators in FBI history, my colleague Fred Lanceley and my former boss Gary Noesner, were leading a hostage negotiation class in Oakland, California, when they asked their group of thirty-five experienced law enforcement officers a simple question: How many had dealt with a classic bargaining situation where problem solving was the best technique? Not one hand went up. Then they asked the complementary question: How many students had negotiated an incident in a dynamic, intense, uncertain environment where the hostage-taker was in emotional crisis and had no clear demands? Every hand went up. It was clear: if emotionally driven incidents, not rational bargaining interactions, constituted the bulk of what most police negotiators had to deal with, then our negotiating skills had to laser-focus on the animal, emotional, and irrational. From that moment onward, our emphasis would have to be not on training in quid pro quo bargaining and problem solving, but on education in the psychological skills needed in crisis intervention situations. Emotions and emotional intelligence would have to be central to effective negotiation, not things to be overcome. What were needed were simple psychological tactics and strategies that worked in the field to calm people down, establish rapport, gain trust, elicit the verbalization of needs, and persuade the other guy of our empathy. We needed something easy to teach, easy to learn, and easy to execute. These were cops and agents, after all, and they weren’t interested in becoming academics or therapists. What they wanted was to change the behavior of the hostage-taker, whoever they were and whatever they wanted, to shift the emotional environment of the crisis just enough so that we could secure the safety of everyone involved. In the early years, the FBI experimented with both new and old therapeutic techniques developed by the counseling profession. These counseling skills were aimed at developing positive relationships with people by demonstrating an understanding of what they’re going through and how they feel about it. It all starts with the universally applicable premise that people want to be understood and accepted. Listening is the cheapest, yet most effective concession we can make to get there. By listening intensely, a negotiator demonstrates empathy and shows a sincere desire to better understand what the other side is experiencing. Psychotherapy research shows that when individuals feel listened to, they tend to listen to themselves more carefully and to openly evaluate and clarify their own thoughts and feelings. In addition, they tend to become less defensive and oppositional and more willing to listen to other points of view, which gets them to the calm and logical place where they can be good Getting to Yes problem solvers. The whole concept, which you’ll learn as the centerpiece of this book, is called Tactical Empathy. This is listening as a martial art, balancing the subtle behaviors of emotional intelligence and the assertive skills of influence, to gain access to the mind of another person. Contrary to popular opinion, listening is not a passive activity. It is the most active thing you can do. Once we started developing our new techniques, the negotiating world split into two currents: negotiation as learned at the country’s top school continued down the established road of rational problem solving, while, ironically, we meatheads at the FBI began to train our agents in an unproven system based on psychology, counseling, and crisis intervention. While the Ivy League taught math and economics, we became experts in empathy.
+>>>

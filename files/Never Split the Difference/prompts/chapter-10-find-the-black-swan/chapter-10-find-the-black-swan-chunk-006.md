@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-10-find-the-black-swan",
+  "chunk_id": "chapter-10-find-the-black-swan-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 10 | FIND THE BLACK SWAN",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+    "source_pages": "281-322",
+    "char_start": 27256,
+    "char_end": 34907,
+    "checksum": "6595fc3c70e0551c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ve leverage per se. Rather, it’s gaining a holistic understanding of your counterpart’s worldview—in this case, literally a religion—and using that knowledge to inform your negotiating moves. Using your counterpart’s religion is extremely effective in large part because it has authority over them. The other guy’s “religion” is what the market, the experts, God, or society—whatever matters to him—has determined to be fair and just. And people defer to that authority. In the next conversation with Watson, we mentioned that the next morning was the Dawn of the Third Day. There was a long moment of silence on the other end of the line. Our Negotiation Operation Center was so quiet you could hear
+
+the heartbeat of the guy next to you. Watson coughed. “I’ll come out,” he said. And he did, ending a forty-eight-hour standoff, saving himself from harm, and allowing the nation’s capital to resume its normal life. No explosives were found. While the importance of “knowing their religion” should be clear from Watson’s story, here are two tips for reading religion correctly: ■ Review everything you hear. You will not hear everything the first time, so double-check. Compare notes with your team members. You will often discover new information that will help you advance the negotiation. ■ Use backup listeners whose only job is to listen between the lines. They will hear things you miss. In other words: listen, listen again, and listen some more. We’ve seen how a holistic understanding of your counterpart’s “religion”—a huge Black Swan—can provide normative leverage that leads to negotiating results. But there are other ways in which learning your counterpart’s “religion” enables you to achieve better outcomes. THE SIMILARITY PRINCIPLE Research by social scientists has confirmed something effective negotiators have known for ages: namely, we trust people more when we view them as being similar or familiar. People trust those who are in their in-group. Belonging is a primal instinct. And if you can trigger that instinct, that sense that, “Oh, we see the world the same way,” then you immediately gain influence. When our counterpart displays attitudes, beliefs, ideas— even modes of dress—that are similar to our own, we tend to like and trust them more. Similarities as shallow as club memberships or college alumni status increase rapport. That’s why in many cultures negotiators spend large amounts of time building rapport before they even think of offers. Both sides know that the information they glean could be vital to effective deal making and leverage building. It’s a bit like dogs circling each other, smelling each other’s behind. I once worked a deal for our services with this CEO in Ohio where the similarity principle played a major role. My counterpart was constantly making references that I recognized as being sort of born-again Christian material. As we talked he kept going back and forth on whether he should bring in his advisors. The whole issue of his advisors clearly pained him; at one point he even said, “Nobody understands me.” At that moment I began to rack my brain for the Christian word that captured the essence of what he was saying. And then the term came to my mind, a term people often used in church to describe the duty one had to administer our own and our world’s—and therefore God’s— resources with honesty, accountability, and responsibility. “This is really stewardship for you, isn’t it?” I said. His voice immediately strengthened. “Yes! You’re the only one who understands,” he said. And he hired us at that moment. By showing that I understood his deeper reasons for being and accessing a sense of similarity, of mutual belongingness, I was able to bring him to the deal. The minute I established a kind of shared identity with this Christian, we were in. Not simply because of similarity alone, but because of the understanding implied by that moment of similarity. THE POWER OF HOPES AND DREAMS Once you know your counterpart’s religion and can visualize what he truly wants out of life, you can employ those aspirations as a way to get him to follow you. Every engineer, every executive, every child—all of us want to believe we are capable of the extraordinary. As children, our daydreams feature ourselves as primary players in great moments: an actor winning an Oscar, an athlete hitting the game-winning shot. As we grow older, however, our parents, teachers, and friends talk more of what we can’t and shouldn’t do than what is possible. We begin to lose faith. But when someone displays a passion for what we’ve always wanted and conveys a purposeful plan of how to get there, we allow our perceptions of what’s possible to change. We’re all hungry for a map to joy, and when someone is courageous enough to draw it for us, we naturally follow. So when you ascertain your counterpart’s unattained goals, invoke your own power and follow-ability by expressing passion for their goals—and for their ability to achieve them. Ted Leonsis is great at this. As the owner of the Washington Wizards professional basketball team and the Washington Capitals professional hockey team, he is always talking about creating the immortal moments in sports that people will tell their grandchildren about. Who doesn’t want to come to an agreement with someone who is going to make them immortal? RELIGION AS A REASON Research studies have shown that people respond favorably to requests made in a reasonable tone of voice and followed with a “because” reason. In a famous study from the late 1970s,3 Harvard psychology professor Ellen Langer and her colleagues approached people waiting for copy machines and asked if they could cut the line. Sometimes they gave a reason; sometimes they didn’t. What she found was crazy: without her giving a reason, 60 percent let her through, but when she did give one, more than 90 percent did. And it didn’t matter if the reason made sense. (“Excuse me, I have five pages. May I cut in line because I have to make copies?” worked great.) People just responded positively to the framework. While idiotic reasons worked with something simple like photocopying, on more complicated issues you can increase your effectiveness by offering reasons that reference your counterpart’s religion. Had that Christian CEO offered me a lowball offer when he agreed to hire my firm, I might have answered, “I’d love to but I too have a duty to be a responsible steward of my resources.” IT’S NOT CRAZY, IT’S A CLUE It’s not human nature to embrace the unknown. It scares us. When we are confronted by it, we ignore it, we run away, or we label it in ways that allow us to dismiss it. In negotiations, that label most often takes the form of the statement, “They’re crazy!” That’s one reason I’ve been highly critical of some of the implementation of America’s hostage negotiation policy —which is that we don’t negotiate with those we refer broadly to as “the Terrorists,” including groups from the Taliban to ISIS. The rationale for this nonengagement is summarized well by the journalist Peter Bergen, CNN’s national security analyst: “Negotiations with religious fanatics who have delusions of grandeur generally do not go well.” The alternative we’ve chosen is to not understand their religion, their fanaticism, and their delusions. Instead of negotiations that don’t go well, we shrug our shoulders and say, “They’re crazy!” But that’s absolutely wrongheaded. We must understand these things. I’m not saying that because I’m a softheaded pacifist (the FBI doesn’t hire agents like that) but because I know understanding such things is the best way to discover
+>>>

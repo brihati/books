@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-05-part-i-principles",
+  "chunk_id": "chapter-05-part-i-principles-chunk-003",
+  "source": {
+    "chapter_title": "Part I – Principles",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+    "source_pages": "15-60",
+    "char_start": 13264,
+    "char_end": 20953,
+    "checksum": "97738f0ae3002420"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+of On Writing Well. Although they look like a first draft, they had already been rewritten and retyped—like almost every other page— four or five times. With each rewrite I try to make what I have written tighter, stronger and more precise, eliminating every element that's not doing useful work. Then I go over it once more, reading it aloud, and am always amazed at how much clutter can still be cut. (In later edi- tions I eliminated the sexist pronoun "he" denoting "the writer" and "the reader.") 12 ON WRITING WELL Faced with such obstacles, readers are at first tenacious. They blame themselves—they obviously missed something, and they go back over the mystifying sentence, or over the whole
+
+paragraph, piecing it out like an ancient rune, making guesses and moving on. But they won't do that for long. The writer is making them work too hard, and they will look for one who is better at the craft. Writers must therefore constantly ask: what am I trying to say? Surprisingly often they don't know. Then they must look at what they have written and ask: have I said it? Is it clear to someone encountering the subject for the first time? If it's not, some fuzz has worked its way into the machinery. The clear writer is someone clearheaded enough to see this stuff for what it is: fuzz. I don't mean that some people are born clearheaded and are therefore natural writers, whereas others are naturally fuzzy and will never write well. Thinking clearly is a conscious act that writers must force on themselves, as if they were working on any other project that requires logic: making a shopping list or doing an algebra problem. Good writing doesn't come naturally, though most people seem to think it does. Professional writers are constantly bearded by people who say they'd like to "try a little writing sometime"—meaning when they retire from their real profession, like insurance or real estate, which is hard. Or they say, "I could write a book about that." I doubt it. Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it's because it is hard. CKSSO Clutter Fighting clutter is like fighting weeds—the writer is always slightly behind. New varieties sprout overnight, and by noon they are part of American speech. Consider what President Nixon's aide John Dean accomplished in just one day of testi- mony on television during the Watergate hearings. The next day everyone in America was saying "at this point in time" instead of "now." Consider all the prepositions that are draped onto verbs that don't need any help. We no longer head committees. We head them up. We don't face problems anymore. We face up to them when we can free up a few minutes. A small detail, you may say—not worth bothering about. It is worth bothering about. Writing improves in direct ratio to the number of things we can keep out of it that shouldn't be there. "Up" in "free up" should- n't be there. Examine every word you put on paper. You'll find a surprising number that don't serve any purpose. Take the adjective "personal," as in "a personal friend of mine," "his personal feeling" or "her personal physician." Its 14 ON WRITING WELL typical of hundreds of words that can be eliminated. The per- sonal friend has come into the language to distinguish him or her from the business friend, thereby debasing both language and friendship. Someone's feeling is that person's personal feel- ing—that's what "his" means. As for the personal physician, that's the man or woman summoned to the dressing room of a stricken actress so she won't have to be treated by the imper- sonal physician assigned to the theater. Someday I'd like to see that person identified as "her doctor." Physicians are physicians, friends are friends. The rest is clutter. Clutter is the laborious phrase that has pushed out the short word that means the same thing. Even before John Dean, peo- ple and businesses had stopped saying "now." They were saying "currently" ("all our operators are currently busy"), or "at the present time," or "presently" (which means "soon"). Yet the idea can always be expressed by "now" to mean the immediate moment ("Now I can see him"), or by "today" to mean the his- torical present ("Today prices are high"), or simply by the verb "to be" ("It is raining"). There's no need to say, "At the present time we are experiencing precipitation." "Experiencing" is one of the ultimate clutterers. Even your dentist will ask if you are experiencing any pain. If he had his own kid in the chair he would say, "Does it hurt?" He would, in short, be himself. By using a more pompous phrase in his pro- fessional role he not only sounds more important; he blunts the painful edge of truth. It's the language of the flight attendant demonstrating the oxygen mask that will drop down if the plane should run out of air. "In the unlikely possibility that the air- craft should experience such an eventuality," she begins—a phrase so oxygen-depriving in itself that we are prepared for any disaster. Clutter is the ponderous euphemism that turns a slum into a depressed socioeconomic area, garbage collectors into waste- disposal personnel and the town dump into the volume reduc- Clutter 15 tion unit. I think of Bill Mauldin s cartoon of two hoboes riding a freight car. One of them says, "I started as a simple bum, but now I'm hard-core unemployed." Clutter is political correctness gone amok. I saw an ad for a boys' camp designed to provide "individual attention for the minimally exceptional." Clutter is the officiai language used by corporations to hide their mistakes. When the Digital Equipment Corporation elimi- nated 3,000 jobs its statement didn't mention layoffs; those were "involuntary methodologies." When an Air Force missile crashed, it "impacted with the ground prematurely." When General Motors had a plant shutdown, that was a "volume-related pro- duction-schedule adjustment." Companies that go belly-up have "a negative cash-flow position." Clutter is the language of the Pentagon calling an invasion a "reinforced protective reaction strike" and justifying its vast bud- gets on the need for "counterforce deterrence." As George Orwell pointed out in "Politics and the English Language," an essay written in 1946 but often cited during the Vietnam and Cambodia years of Presidents Johnson and Nixon, "political speech and writing are largely the defense of the indefensible. ... Thus political language has to consist largely of euphemism, question-begging and sheer cloudy vagueness." Orwell's warning that clutter is not just a nuisance but a deadly tool has come true in the recent decades of American military adventurism in Southeast Asia and other parts of the world. Verbal camouflage reached new heights during General Alexander Haig's tenure as President Reagan's secretary of state. Before Haig nobody had thought of saying "at this juncture of maturization" to mean "now." He told the American people that terrorism could be fought with "meaningful sanctionary teeth" and that intermediate nuclear missiles were "at the vortex of cruciality." As for any worries that the public might harbor, his message was "leave it to Al," though what he actually said was: "We must push this to a lower decibel of public fixation. I don't 16 ON WRITING WELL think there's much of a learning curve to be achieved in this area of content." I could go on quoting examples from various fields—every profession has its growing arsenal of jargon to throw dust in the eyes of the populace. But the list would be tedious. The point of
+>>>

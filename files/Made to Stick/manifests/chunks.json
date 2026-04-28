@@ -1,0 +1,28 @@
+{
+  "book_id": "made-to-stick",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 85,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-chapter",
+      "title": "CHAPTER 1",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-chapter",
+      "title": "CHAPTER 4",
+      "chunk_count": 27
+    },
+    {
+      "chapter_id": "chapter-03-chapter",
+      "title": "CHAPTER 3",
+      "chunk_count": 9
+    },
+    {
+      "chapter_id": "chapter-04-chapter",
+      "title": "CHAPTER 4",
+      "chunk_count": 48
+    }
+  ]
+}

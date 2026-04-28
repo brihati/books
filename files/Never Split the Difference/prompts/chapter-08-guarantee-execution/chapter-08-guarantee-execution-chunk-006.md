@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-08-guarantee-execution",
+  "chunk_id": "chapter-08-guarantee-execution-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 8 | GUARANTEE EXECUTION",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+    "source_pages": "216-248",
+    "char_start": 34179,
+    "char_end": 41874,
+    "checksum": "053a5ccdc45295af"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+elivered, it invites the other side to participate in your dilemma and solve it with a better offer. After that, some version of “Your offer is very generous, I’m sorry, that just doesn’t work for me” is an elegant second way to say “No.” This well-tested response avoids making a counteroffer, and the use of “generous” nurtures your counterpart to live up to the word. The “I’m sorry” also softens the “No” and builds empathy. (You can ignore the so-called negotiating experts who say apologies are always signs of weakness.) Then you can use something like “I’m sorry but I’m afraid I just can’t do that.” It’s a little more direct, and the “can’t do that” does great double duty. By expressing an
+
+inability to perform, it can trigger the other side’s empathy toward you. “I’m sorry, no” is a slightly more succinct version for the fourth “No.” If delivered gently, it barely sounds negative at all. If you have to go further, of course, “No” is the last and most direct way. Verbally, it should be delivered with a downward inflection and a tone of regard; it’s not meant to be “NO!” One of my students, a guy named Jesus Bueno, wrote me not long ago to tell me an amazing story about how he’d used the multi-step “No” to help his brother Joaquin out of a sticky business situation. His brother and two friends had bought a cannabis grow shop franchise in northern Spain, where the cultivation of marijuana for personal use is legal. Joaquin and his partner, Bruno, each invested 20,000 euros in the business for a 46 percent stake (a minority partner invested another €3,500 for 8 percent). From the beginning, Joaquin and Bruno had a rocky relationship. Joaquin is an excellent salesman, while Bruno was more of a bookkeeper. The minority partner was also an excellent salesman, and he and Joaquin believed that growing sales was the correct strategy. That meant offering discounts for large orders and repeat customers, which Bruno disagreed with. Their planned spending on launching a website and expanding inventory also rubbed Bruno the wrong way. Then Bruno’s wife became a problem as she started nagging Joaquin about how he should not spend so much on expansion and instead take more profits. One day, Joaquin was reviewing inventory purchases and noticed that some items they had ordered had not been placed on the store’s shelves. He began searching for them online and to his surprise he found an eBay store set up with the wife’s first name that was selling exactly those missing products. This started a huge argument between Bruno and Joaquin, and soured their relationship. In the heat of the moment, Bruno told Joaquin that he was open to selling his shares because he felt the business risks they were taking were too large. So Joaquin consulted with his brother: my student Jesus. Because they believed that pressure from Bruno’s wife was why he wanted to sell, Jesus helped Joaquin craft an empathy message around that: “It seems like you are under a lot of pressure from your wife.” Joaquin was also in the middle of a divorce, so they decided to use that to relate to the wife issues, and they prepared an accusation audit—“I know you think I don’t care about costs and taking profits from the company”—in order to diffuse the negative energy and get Bruno talking. It worked like a charm. Bruno immediately agreed with the accusation audit and began explaining why he thought Joaquin was careless with spending. Bruno also noted that he didn’t have someone to bail him out like Joaquin did (Joaquin got a start-up loan from his mother). Joaquin used mirrors to keep Bruno talking, and he did. Finally, Joaquin said, “I know how the pressure from your wife can feel, I’m going through a divorce myself and it really takes a lot out of you.” Bruno then went on a ten- minute rant about his wife and let slip a huge piece of information: the wife was very upset because the bank that lent them the €20,000 had reviewed their loan and had given them two options: repay the loan in full, or pay a much higher interest rate. Bingo! Joaquin and Jesus huddled after learning that, and decided that Joaquin could reasonably pay just above the loan price because Bruno had already taken €14,000 in salary from the business. The letter from the bank put Bruno in a bad spot, and Joaquin figured he could bid low because there wasn’t really a market for Bruno to sell his shares. They decided that €23,000 would be the magic number, with €11,000 up front with the remaining €12,000 over a year period. Then things went sideways. Instead of waiting for Bruno to name a price, Joaquin jumped the gun and made his full offer, telling Bruno that he thought it was “very fair.” If there’s one way to put off your counterpart, it’s by implying that disagreeing with you is unfair. What happened next proved that. Bruno angrily hung up the phone and two days later Joaquin received an email from a guy saying he’d been hired to represent Bruno. They wanted €30,812: €20,000 for the loan, €4,000 for salary, €6,230 for equity, and €582 for interest. Nonround figures that seemed unchangeable in their specificity. This guy was a pro. Jesus told Joaquin that he’d truly screwed up. But they both knew that Bruno was pretty desperate to sell. So they decided to use the multi-step “No” strategy to get Bruno to bid against himself. The worst-case scenario, they decided, was that Bruno would just change his mind about selling his shares and the status quo would continue. It was a risk they’d have to take. They crafted their first “No” message: The price you offered is very fair, and I certainly wish that I could afford it. Bruno has worked very hard for this business, and he deserves to be compensated appropriately. I am very sorry, but wish you the best of luck. Notice how they made no counteroffer and said “No” without using the word? Joaquin was shocked when the following day he received an email from the advisor lowering the price to €28,346. Joaquin and Jesus then crafted their second gentle “No”: Thank you for your offer. You were generous to reduce the price, which I greatly appreciate. I really wish that I could pay you this amount, but I am sincere in that I cannot afford this amount at this time. As you know, I am in the middle of a divorce and I just cannot come up with that type of money. Again, I wish you the best of luck. The next day Joaquin received a one-line email from the advisor dropping the price to €25,000. Joaquin wanted to take it but Jesus told him that he had some “No” steps to go. Joaquin fought him, but in the end he relented. There’s a critical lesson there: The art of closing a deal is staying focused to the very end. There are crucial points at the finale when you must draw on your mental discipline. Don’t think about what time the last flight leaves, or what it would be like to get home early and play golf. Do not let your mind wander. Remain focused. They wrote: Thank you again for the generous offer. You have really come down on the price and I have tried very hard to come up with that amount. Unfortunately, no one is willing to lend me the money, not even my mother. I have tried various avenues but cannot come up with the funding. In the end, I can offer you €23,567, although I can only pay €15,321.37 up front. I could pay you the remainder over a one-year period, but that is really the most I can do. I wish you the best in your decision. Brilliant use of specific numbers, and what an empathy- building way to say “No” without using the word! And it worked. Within one hour, the advisor responded to accept. Look at this closely: see how the mixture of mirroring and open-ended questions dragged out the information
+>>>

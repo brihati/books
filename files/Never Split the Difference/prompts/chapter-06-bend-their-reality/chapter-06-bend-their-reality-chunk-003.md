@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-06-bend-their-reality",
+  "chunk_id": "chapter-06-bend-their-reality-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 6 | BEND THEIR REALITY",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+    "source_pages": "152-187",
+    "char_start": 13249,
+    "char_end": 20897,
+    "checksum": "5b73d26b0578cf7e"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+contract negotiations they didn’t tell the players’ union. They would concede and concede as the deadline approached, inciting the union to keep negotiating past the secret deadline. In that sense, hiding a deadline means you’re negotiating with yourself, and you always lose when you do so. Moore discovered that when negotiators tell their counterparts about their deadline, they get better deals. It’s true. First, by revealing your cutoff you reduce the risk of impasse. And second, when an opponent knows your deadline, he’ll get to the real deal- and concession-making more quickly. I’ve got one final point to make before we move on: Deadlines are almost never ironclad. What’s more important
+
+is engaging in the process and having a feel for how long that will take. You may see that you have more to accomplish than time will actually allow before the clock runs out. NO SUCH THING AS FAIR In the third week of my negotiations class, we play my favorite type of game, that is, the kind that shows my students how much they don’t understand themselves (I know—I’m cruel). It’s called the Ultimatum Game, and it goes like this: After the students split into pairs of a “proposer” and an “accepter,” I give each proposer $10. The proposer then has to offer the accepter a round number of dollars. If the accepter agrees he or she receives what’s been offered and the proposer gets the rest. If the accepter refuses the offer, though, they both get nothing and the $10 goes back to me. Whether they “win” and keep the money or “lose” and have to give it back is irrelevant (except to my wallet). What’s important is the offer they make. The truly shocking thing is that, almost without exception, whatever selection anyone makes, they find themselves in a minority. No matter whether they chose $6/$4, $5/$5, $7/$3, $8/$2, etc., they look around and are inevitably surprised to find no split was chosen far more than any other. In something as simple as merely splitting $10 of “found” money, there is no consensus of what constitutes a “fair” or “rational” split. After we run this little experiment, I stand up in front of the class and make a point they don’t like to hear: the reasoning each and every student used was 100 percent irrational and emotional. “What?” they say. “I made a rational decision.” Then I lay out how they’re wrong. First, how could they all be using reason if so many have made different offers? That’s the point: They didn’t. They assumed the other guy would reason just like them. “If you approach a negotiation thinking that the other guy thinks like you, you’re wrong,” I say. “That’s not empathy; that’s projection.” And then I push it even further: Why, I ask, did none of the proposers offer $1, which is the best rational offer for them and logically unrejectable for the accepter? And if they did and they got rejected—which happens—why did the accepter turn them down? “Anyone who made any offer other than $1 made an emotional choice” I say. “And for you accepters who turned down $1, since when is getting $0 better than getting $1? Did the rules of finance suddenly change?” This rocks my students’ view of themselves as rational actors. But they’re not. None of us are. We’re all irrational, all emotional. Emotion is a necessary element to decision making that we ignore at our own peril. Realizing that hits people hard between the eyes. In Descartes’ Error: Emotion, Reason, and the Human Brain,2 neuroscientist Antonio Damasio explained a groundbreaking discovery he made. Studying people who had damage in the part of the brain where emotions are generated, he found that they all had something peculiar in common: They couldn’t make decisions. They could describe what they should do in logical terms, but they found it impossible to make even the simplest choice. In other words, while we may use logic to reason ourselves toward a decision, the actual decision making is governed by emotion. THE F-WORD: WHY IT’S SO POWERFUL, WHEN TO USE IT, AND HOW The most powerful word in negotiations is “Fair.” As human beings, we’re mightily swayed by how much we feel we have been respected. People comply with agreements if they feel they’ve been treated fairly and lash out if they don’t. A decade of brain-imaging studies has shown that human neural activity, particularly in the emotion-regulating insular cortex, reflects the degree of unfairness in social interactions. Even nonhuman primates are hardwired to reject unfairness. In one famous study, two capuchin monkeys were set to perform the same task, but one was rewarded with sweet grapes while the other received cucumbers. In response to such blatant unfairness, the cucumber-fed monkey literally went bananas. In the Ultimatum Game, years of experience has shown me that most accepters will invariably reject any offer that is less than half of the proposer’s money. Once you get to a quarter of the proposer’s money you can forget it and the accepters are insulted. Most people make an irrational choice to let the dollar slip through their fingers rather than to accept a derisory offer, because the negative emotional value of unfairness outweighs the positive rational value of the money. This irrational reaction to unfairness extends all the way to serious economic deals. Remember Robin Williams’s great work as the voice of the genie in Disney’s Aladdin? Because he wanted to leave something wonderful behind for his kids, he said, he did the voice for a cut-rate fee of $75,000, far below his usual $8 million payday. But then something happened: the movie became a huge hit, raking in $504 million. And Williams went ballistic. Now look at this with the Ultimatum Game in mind. Williams wasn’t angry because of the money; it was the perceived unfairness that pissed him off. He didn’t complain about his contract until Aladdin became a blockbuster, and then he and his agent went loud and long about how they got ripped off. Lucky for Williams, Disney wanted to keep its star happy. After initially pointing out the obvious—that he’d happily signed the deal—Disney made the dramatic gesture of sending the star a Picasso painting worth a reported $1 million. The nation of Iran was not so lucky. In recent years, Iran has put up with sanctions that have cost it well over $100 billion in foreign investment and oil revenue in order to defend a uranium-enriching nuclear program that can only meet 2 percent of its energy needs. In other words, like the students who won’t take a free $1 because the offer seems insulting, Iran has screwed itself out of its chief source of income—oil and gas revenue—in order to pursue an energy project with little expected payoff. Why? Again, fairness. For Iran, it’s not fair that the global powers—which together have several thousand nuclear weapons—should be able to decide if it can use nuclear energy. And why, Iran wonders, is it considered a pariah for enriching uranium when India and Pakistan, which clandestinely acquired nuclear weapons, are accepted members of the international community? In a TV interview, former Iranian nuclear negotiator Seyed Hossein Mousavian hit the nail on the head. “The nuclear issue today for Iranians is not nuclear,” he said, “it’s defending their integrity [as an] independent identity against the pressure of the rest.” You may not trust Iran, but its moves are pretty clear evidence that rejecting perceived unfairness, even at substantial cost, is a powerful motivation. Once you understand what a messy, emotional, and destructive dynamic “fairness” can be, you can see why “Fair” is a tremendously powerful word that you need to use with care.
+>>>

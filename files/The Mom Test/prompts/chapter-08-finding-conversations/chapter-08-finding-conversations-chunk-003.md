@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-mom-test",
+  "chapter_id": "chapter-08-finding-conversations",
+  "chunk_id": "chapter-08-finding-conversations-chunk-003",
+  "source": {
+    "chapter_title": "Finding conversations",
+    "source_path": "/Users/sachin/books/files/The Mom Test/chapters/08 - Finding conversations.txt",
+    "source_pages": "74-88",
+    "char_start": 13186,
+    "char_end": 20881,
+    "checksum": "0028a0848f75c8ff"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+person you’re being introduced to won’t know the backstory anyway, so it’s a clean start from there. I wouldn’t make a habit of doing stuff like this since it’s a bit annoying and can burn bridges, but sometimes you’re backed into a corner and need to get started somehow. Asking for and framing the meeting Sometimes a proper meeting can't be avoided. For example, you might want the full hour or need to talk to someone senior outside of your peer or networking group. But since you don't necessarily have anything to sell, it's unclear what the meeting is for. In those cases, the right explanation and framing can do wonders. The Mom Test by @robﬁtz 83 momtestbook.com    /    foundercentric.com
+
+If you don’t know why you’re there, it becomes a sales meeting by default, which is bad for 3 reasons. First, the customer closes up about some important topics like pricing. Second, attention shifts to you instead of them. And ﬁnally, it’s going to be the worst sales meeting ever because you aren’t ready. Symptoms: • “Um. So….” • “How’s it going?” There are a lot of bad ways to frame the meeting, both when ﬁrst asking for it and once it begins. Questions like, "Can I interview you" or "Thanks for agreeing to this interview" both set set off alarm bells that this meeting is going to be super boring. I don't want to be interviewed; I want to talk and help! The common, "Can I get your opinion on what we're doing?" sets expectations of neediness and that you want compliments or approval. No expectations at all are set by, "Do you have time for a quick coffee/lunch/ chat/meeting?" which suggests you're liable to waste my time. The framing format I like has 5 key elements. 1. You're an entrepreneur trying to solve horrible problem X, usher in wonderful vision Y, or ﬁx stagnant industry Z. Don't mention your idea. 2. Frame expectations by mentioning what stage you're at and, if it's true, that you don't have anything to sell. 3. Show weakness and give them a chance to help by mentioning your speciﬁc problem that you're looking for answers on. This will also clarify that you're not a time waster. 4. Put them on a pedestal by showing how much they, in particular, can help. 5. Ask for help. The Mom Test by @robﬁtz 84 momtestbook.com    /    foundercentric.com Or, in shorter form: Vision / Framing / Weakness / Pedestal / Ask The mnemonic is “Very Few Wizards Properly Ask [for help]." Here's what it might look like before you have a product: Hey Pete, I'm trying to make desk & ofﬁce rental less of a pain for new businesses (vision). We're just starting out and don't have anything to sell, but want to make sure we're building something that actually helps (framing). I've only ever come at it from the tenant's side and I'm having a hard time understanding how it all works from the landlord's perspective (weakness). You've been renting out desks for a while and could really help me cut through the fog (pedestal). Do you have time in the next couple weeks to meet up for a chat? (ask) Sometimes the 5 parts will be combined into just one or two sentences, or they can be in a different order. For example, the next email sounded a little too pitchy and I was worried he would delete it as sales spam before getting through the ﬁrst two sentences. As such, I moved my admission of weakness as early as I could get it: Hey Scott, I run a startup trying to make advertising more playful and ultimately effective (vision). We're having a load of trouble ﬁguring out how all the pieces of the industry ﬁt together and where we can best ﬁt into it (weakness). You know more about this industry than anyone and could really save us from a ton of mistakes (pedestal). We're funded and have a couple products out already, but this is in no way a sales meeting -- we're just moving into a new area and could really use some of your expertise (framing). The Mom Test by @robﬁtz 85 momtestbook.com    /    foundercentric.com Can you spare a bit of time in the next week to help point us in the right direction over a coffee? (ask) People like to help entrepreneurs. But they also hate wasting their time. An opening like this tells them that you know what you need and that they'll be able to make a real difference. Once the meeting starts, you have to grab the reins or it's liable to turn into them drilling you on your idea, which is exactly what you don't want. To do this, I basically repeat what I said in the email and then immediately drop into the ﬁrst question. If someone else made the introduction, I'll use them as a voice of authority: Hey Tim, thanks so much for taking the time. As I mentioned in the email, we're trying to make it easier for universities to spin out student businesses (vision) and aren't exactly sure how it all works yet (framing & weakness). I think Tom made this intro (authority) because you have pretty unique insight into what's going on behind the curtain and could really help us get pointed in the right direction (pedestal)… (introductions continue) I was looking at your spinout portfolio and it's pretty impressive, especially company X. How did they get from your classroom to where they are now? (grab the reins and ask good questions) These conversations are easy to screw up. As such, you need to be the one in control. You set the agenda, you keep it on topic, and you propose next steps. Don't be a jerk about it, but do have a plan for the meeting and be assertive about keeping it on track. It’s worth noting that this is how I set up meetings from warm intros. The main goal is to clarify what I need and how they can help. Cold approaches are a totally different beast and are much more of a gamble. Again, the point of cold calls is to stop having them. Find a clever ways to generate warm intros and tell The Mom Test by @robﬁtz 86 momtestbook.com    /    foundercentric.com those people how they can help. You’ll have a much easier time. To commute or to call One of the solutions to the time cost of these conversations is to move them onto Skype or phone calls. In most situations, I don’t think the added volume from using calls is worth the information you lose by not being in the room. Maybe I'm just bad at this stuff, but I get confused enough by what people are telling me in person. Losing access to their facial expressions or body language feels like shooting myself in the foot. More subtly, calls damage the delicate power dynamic of these conversations. When someone is having a coffee with you, there’s the potential to chat as friends. You can just shoot the breeze about the industry for a bit. You can keep it casual. They’re enjoying the conversation The same is decidedly not true on the phone or Skype. People try to squeeze calls in between other activities. They’re wondering how quickly they can “ﬁnish with business” and hang up. Folks on the phone become super annoyed when you “just want to chat”. So you need to make the whole thing more formal and planned, which is one of the exact mistakes we’re trying to avoid! Phone calls end up sounding more like scripted interviews than natural conversations, because they are. It’s a constraint of the medium. Plus, nobody becomes friends over the phone, which means you aren't going to get the warm intros and future meetings you need. Setting up a call feels like less overhead in the short-term, but that’s because you aren’t yet able to see all the time-saving and business-saving beneﬁts of in-person relationships with your customers. That being said, some other great people in the ﬁeld seem to have gotten good The Mom Test by @robﬁtz 87 momtestbook.com    /    foundercentric.com results using phone calls. Use whatever serves your purpose.
+>>>

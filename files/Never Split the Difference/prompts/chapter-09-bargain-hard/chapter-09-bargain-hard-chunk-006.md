@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-09-bargain-hard",
+  "chunk_id": "chapter-09-bargain-hard-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 9 | BARGAIN HARD",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+    "source_pages": "249-280",
+    "char_start": 34194,
+    "char_end": 41875,
+    "checksum": "2eb9204d62a350b8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+le who first send cards to them, they are more likely to make bargaining concessions to those who have made compromises in their direction. Second, the diminishing size of the increases—notice that they decrease by half each time—convinces your counterpart that he’s squeezing you to the point of breaking. By the time they get to the last one, they’ll feel that they’ve really gotten every last drop. This really juices their self-esteem. Researchers have found that people getting concessions often feel better about the bargaining process than those who are given a single firm, “fair” offer. In fact, they feel better even when they end up paying more—or receiving less—than they otherwise might.
+
+Finally, the power of nonround numbers bears reiterating. Back in Haiti, I used to use the Ackerman system ferociously. Over eighteen months we got two or three kidnappings a week, so from experience, we knew the market prices were $15,000 to $75,000 per victim. Because I was a hard-ass, I made it my goal to get in under $5,000 in every kidnapping that I ran. One really stands out, the first one I mentioned in this book. I went through the Ackerman process, knocking them off their game with an extreme anchor, hitting them with calibrated questions, and slowly gave progressively smaller concessions. Finally, I dropped the weird number that closed the deal. I’ll never forget the head of the Miami FBI office calling my colleague the next day and saying, “Voss got this guy out for $4,751? How does $1 make a difference?” They were howling with laughter, and they had a point. That $1 is ridiculous. But it works on our human nature. Notice that you can’t buy anything for $2, but you can buy a million things for $1.99. How does a cent change anything? It doesn’t. But it makes a difference every time. We just like $1.99 more than $2.00 even if we know it’s a trick. NEGOTIATING A RENT CUT AFTER RECEIVING NOTICE OF AN INCREASE Eight months after a Georgetown MBA student of mine named Mishary signed a rental contract for $1,850/month, he got some unwelcome news: his landlord informed him that if he wanted to re-up, it would be $2,100/month for ten months, or $2,000/month for a year. Mishary loved the place and didn’t think he’d find a better one, but the price was already high and he couldn’t afford more. Taking to heart our class slogan, “You fall to your highest level of preparation,” he dove into the real estate listings and found that prices for comparable apartments were $1,800–$1,950/month, but none of them were in as good a building. He then examined his own finances and figured the rent he wanted to pay was $1,830. He requested a sit-down with his rental agent. This was going to be tough. At their meeting, Mishary laid out his situation. His experience in the building had been really positive, he said. And, he pointed out, he always paid on time. It would be sad for him to leave, he said, and sad for the landlord to lose a good tenant. The agent nodded. “Totally in agreement,” he said. “That’s why I think it will benefit both of us to agree on renewing the lease.” Here Mishary pulled out his research: buildings around the neighborhood were offering “much” lower prices, he said. “Even though your building is better in terms of location and services, how am I supposed to pay $200 extra?” The negotiation was on. The agent went silent for a few moments and then said, “You make a good point, but this is still a good price. And as you noted, we can charge a premium.” Mishary then dropped an extreme anchor. “I fully understand, you do have a better location and amenities. But I’m sorry, I just can’t,” he said. “Would $1,730 a month for a year lease sound fair to you?” The agent laughed and when he finished said there was no way to accept that number, because it was way below market price. Instead of getting pulled into a haggle, Mishary smartly pivoted to calibrated questions. “Okay, so please help me understand: how do you price lease renewals?” The agent didn’t say anything shocking—merely that they used factors like area prices and supply-and-demand— but that gave Mishary the opening to argue that his leaving would open the landlord to the risk of having an unrented apartment and the cost of repainting. One month unrented would be a $2,000 loss, he said. Then he made another offer. Now, you’re probably shaking your head that he’s making two offers without receiving one in return. And you’re right; normally that’s verboten. But you have to be able to improvise. If you feel in control of a negotiation, you can do two or three moves at a time. Don’t let the rules ruin the flow. “Let me try and move along with you: how about $1,790 for 12 months?” The agent paused. “Sir, I understand your concerns, and what you said makes sense,” he said. “Your number, though, is very low. However, give me time to think this out and we can meet at another time. How does that sound?” Remember, any response that is not an outright rejection means you have the edge. Five days later the two met again. “I ran the numbers, and believe me this is a good deal,” the agent started. “I am able to offer you $1,950 a month for a year.” Mishary knew he’d won. The agent just needed a little push. So he praised the agent and said no without saying, “No.” And notice how he brilliantly mislabels in order to get the guy to open up? “That is generous of you, but how am I supposed to accept it when I can move a few blocks away and stay for $1,800? A hundred and fifty dollars a month means a lot to me. You know I am a student. I don’t know, it seems like you would rather run the risk of keeping the place unrented.” “It’s not that,” the agent answered. “But I can’t give you a number lower than the market.” Mishary made a dramatic pause, as if the agent was extracting every cent he had. “Then I tell you what, I initially went up from $1,730 to $1,790,” he said, sighing. “I will bring it up to $1,810. And I think this works well for both.” The agent shook his head. “This is still lower than the market, sir. And I cannot do that.” Mishary then prepared to give the last of his Ackerman offers. He went silent for a while and then asked the agent for a pen and paper. Then he started doing fake calculations to seem like he was really pushing himself. Finally, he looked up at the agent and said, “I did some numbers, and the maximum I can afford is $1,829.” The agent bobbed his head from side to side, as if getting his mind around the offer. At last, he spoke. “Wow. $1,829,” he said. “You seem very precise. You must be an accountant. [Mishary was not.] Listen, I value you wanting to renew with us and for that I think we can make this work for a twelve-month lease.” Ka-ching! Notice this brilliant combination of decreasing Ackerman offers, nonround numbers, deep research, smart labeling, and saying no without saying “No”? That’s what gets you a rent discount when a landlord wanted to raise his monthly take. KEY LESSONS When push comes to shove—and it will—you’re going to find yourself sitting across the table from a bare-knuckle negotiator. After you’ve finished all the psychologically nuanced stuff—the labeling and mirroring and calibrating— you are going to have to hash out the “brass tacks.” For most of us, that ain’t fun. Top negotiators know, however, that conflict is often the path to great deals. And the best find ways to actually have fun engaging in it. Conflict brings out truth, creativity, and resolution. So the next time you find yourself face-to-face with a bare-knuckle bargainer, remember the lessons in this chapter. ■ Identify your counterpart’s negotiating style. Once you know whether they are
+>>>

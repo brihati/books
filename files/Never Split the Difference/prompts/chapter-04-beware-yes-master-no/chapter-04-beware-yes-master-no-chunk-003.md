@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-04-beware-yes-master-no",
+  "chunk_id": "chapter-04-beware-yes-master-no-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 4 | BEWARE “YES”—MASTER “NO”",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/04 - CHAPTER 4 BEWARE YESMASTER NO.txt",
+    "source_pages": "102-129",
+    "char_start": 6300,
+    "char_end": 13993,
+    "checksum": "654d08eaddf74fdf"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+nd whenever asked for anything he responded with a terse negative. After I’d gotten to know him a bit, I asked him why. “Chris,” he said, proudly, “a lieutenant’s job is to say, ‘No.’” At first, I thought that sort of automated response signaled a failure of imagination. But then I realized I did the same thing with my teenage son, and that after I’d said “No” to him, I often found that I was open to hearing what he had to say. That’s because having protected myself, I could relax and more easily consider the possibilities. “No” is the start of the negotiation, not the end of it. We’ve been conditioned to fear the word “No.” But it is a statement of perception far more often than of fact. It
+
+seldom means, “I have considered all the facts and made a rational choice.” Instead, “No” is often a decision, frequently temporary, to maintain the status quo. Change is scary, and “No” provides a little protection from that scariness. Jim Camp, in his excellent book, Start with NO,1 counsels the reader to give their adversary (his word for counterpart) permission to say “No” from the outset of a negotiation. He calls it “the right to veto.” He observes that people will fight to the death to preserve their right to say “No,” so give them that right and the negotiating environment becomes more constructive and collaborative almost immediately. When I read Camp’s book, I realized this was something we’d known as hostage negotiators for years. We’d learned that the quickest way to get a hostage-taker out was to take the time to talk them out, as opposed to “demanding” their surrender. Demanding their surrender, “telling” them to come out, always ended up creating a much longer standoff and occasionally, actually contributed to death. It comes down to the deep and universal human need for autonomy. People need to feel in control. When you preserve a person’s autonomy by clearly giving them permission to say “No” to your ideas, the emotions calm, the effectiveness of the decisions go up, and the other party can really look at your proposal. They’re allowed to hold it in their hands, to turn it around. And it gives you time to elaborate or pivot in order to convince your counterpart that the change you’re proposing is more advantageous than the status quo. Great negotiators seek “No” because they know that’s often when the real negotiation begins. Politely saying “No” to your opponent (we’ll go into this in more depth in Chapter 9), calmly hearing “No,” and just letting the other side know that they are welcome to say “No” has a positive impact on any negotiation. In fact, your invitation for the other side to say “No” has an amazing power to bring down barriers and allow for beneficial communication. This means you have to train yourself to hear “No” as something other than rejection, and respond accordingly. When someone tells you “No,” you need to rethink the word in one of its alternative—and much more real— meanings: ■ I am not yet ready to agree; ■ You are making me feel uncomfortable; ■ I do not understand; ■ I don’t think I can afford it; ■ I want something else; ■ I need more information; or ■ I want to talk it over with someone else. Then, after pausing, ask solution-based questions or simply label their effect: “What about this doesn’t work for you?” “What would you need to make it work?” “It seems like there’s something here that bothers you.” People have a need to say, “No.” So don’t just hope to hear it at some point; get them to say it early. PERSUADE IN THEIR WORLD I’d like to present you with a guy named Joe Businessman as he readies himself for a negotiation. You’ve met him before. He’s the prepared type, with all his Getting to Yes strategies written out and memorized. And he’s more than ready to unleash them on the guy across the table. Joe pauses to look at his expensive suit in the mirror, fantasizing about the impressive things he’ll say and the fancy charts and graphs that’ll back up those things and leave his counterpart—his opponent—vanquished and in defeat. He is Russell Crowe in Gladiator. He is The Man. Now allow me to let you in on a secret: None of that preparation will mean a damn thing. His negotiation style is all me, me, me, ego, ego, ego. And when the people on the other side of the table pick up those signals, they’re going to decide that it’s best to politely, even furtively, ignore this Superman . . . by saying “Yes”! “Huh?” you say. Sure, the word they’ll say right off is “Yes,” but that word is only a tool to get this blowhard to go away. They’ll weasel out later, claiming changing conditions, budget issues, the weather. For now, they just want to be released because Joe isn’t convincing them of anything; he’s only convincing himself. I’ll let you in on a secret. There are actually three kinds of “Yes”: Counterfeit, Confirmation, and Commitment. A counterfeit “yes” is one in which your counterpart plans on saying “no” but either feels “yes” is an easier escape route or just wants to disingenuously keep the conversation going to obtain more information or some other kind of edge. A confirmation “yes” is generally innocent, a reflexive response to a black-or-white question; it’s sometimes used to lay a trap but mostly it’s just simple affirmation with no promise of action. And a commitment “yes” is the real deal; it’s a true agreement that leads to action, a “yes” at the table that ends with a signature on the contract. The commitment “yes” is what you want, but the three types sound almost the same so you have to learn how to recognize which one is being used. Human beings the world over are so used to being pursued for the commitment “yes” as a condition to find out more that they have become masters at giving the counterfeit “yes.” That’s what the people facing Joe Businessman are doing, dangling the counterfeit “yes” so they can hear more. Whether you call it “buy-in” or “engagement” or something else, good negotiators know that their job isn’t to put on a great performance but to gently guide their counterpart to discover their goal as his own. Let me tell you, I learned that the hard way. Two months after talking with Amy, I started answering phones for HelpLine, the crisis hotline founded by Norman Vincent Peale. The basic rule was that you couldn’t be with anybody on the phone for more than twenty minutes. If you did your job, it wasn’t going to take you longer than that to get them to a better place. We had a thick book of organizations we referred them to for help. It was a paramedic approach: patch them up and send them on their way. But people in crisis only accounted for about 40 percent of the calls we got. The majority of the calls came from frequent callers. These are highly dysfunctional people, energy vampires whom no one else would listen to anymore. We kept a list of frequent callers and when you got one, the first thing you had to do was check to see if the person had called that day, because they were only allowed one call a day. They knew it, too. A lot of times, they’d say, “Yeah, I’m Eddie. I haven’t called yet today. Go ahead and check the list. You got to talk to me.” Since I was there primarily to learn a skill, I loved the frequent callers. They were a problem, and I loved trying to figure them out. I felt I had some talent at it. I felt like a superstar. When it came time for my performance review, they assigned me a shift supervisor named Jim Snyder. Jim was a hotline veteran and a sweetheart; the only problem was he always wanted to joke around. Jim understood that volunteer burnout was the biggest problem at a hotline, so he dedicated his time to making work fun. I became good friends with Jim.
+>>>

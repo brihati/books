@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Summary"
+  short_description: "Summarize books through chunk-note hierarchy"
+  default_prompt: "Use $book-hierarchical-summary to create a chapter summary from preserved notes."

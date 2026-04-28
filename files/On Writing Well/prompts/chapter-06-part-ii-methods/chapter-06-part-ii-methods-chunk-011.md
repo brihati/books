@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-06-part-ii-methods",
+  "chunk_id": "chapter-06-part-ii-methods-chunk-011",
+  "source": {
+    "chapter_title": "Part II – Methods",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/06 - Part II Methods.txt",
+    "source_pages": "61-106",
+    "char_start": 62153,
+    "char_end": 69854,
+    "checksum": "8afec18defdf36b8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ed me in my repairs was "you." Instead of talking about what "the writer" does and the trouble he gets into, I found more places where I could address the writer directly ("You'll often find... "). It doesn't work for every kind of writing, but it's a godsend to anyone writing an instruc- tional book or a self-help book. The voice of a Dr. Spock talking to the mother of a child with a fever, or the voice of a Julia Child talking to the cook stalled in mid-recipe, is one of the most reas- suring sounds a reader can hear. Always look for ways to make yourself available to the people you're trying to reach. REWRITING. Rewriting is the essence of writing well: it's where the game is won or lost.
+
+That idea is hard to accept. We all have an emo- tional equity in our first draft; we can't believe that it wasn't born perfect. But the odds are close to 100 percent that it was- n't. Most writers don't initially say what they want to say, or say it as well as they could. The newly hatched sentence almost always has something wrong with it. It's not clear. It's not logical. Its verbose. It's klunky. It's pretentious. It's boring. It's full of clutter. It's full of clichés. It lacks rhythm. It can be read in sev- Bits & Pieces 85 eral different ways. It doesn't lead out of the previous sentence. It doesn't... The point is that clear writing is the result of a lot of tinkering. Many people assume that professional writers don't need to rewrite; the words just fall into place. On the contrary, careful writers can't stop fiddling. I've never thought of rewriting as an unfair burden; I'm grateful for every chance to keep improving my work. Writing is like a good watch—it should run smoothly and have no extra parts. Students, I realize, don't share my love of rewriting. They think of it as punishment: extra homework or extra infield practice. Please—if you're such a student—think of it as a gift. You won't write well until you understand that writ- ing is an evolving process, not a product. Nobody expects you to get it right the first time, or even the second time. What do I mean by "rewriting"? I don't mean writing one draft and then writing a different second version, and then a third. Most rewriting consists of reshaping and tightening and refining the raw material you wrote on your first try. Much of it consists of making sure you've given the reader a narrative flow he can follow with no trouble from beginning to end. Keep putting yourself in the reader's place. Is there something he should have been told early in the sentence that you put near the end? Does he know when he starts sentence B that you've made a shift—of subject, tense, tone, emphasis—from sen- tence A? Let's look at a typical paragraph and imagine that it's the writer's first draft. There's nothing really wrong with it; it's clear and it's grammatical. But it's full of ragged edges: failures of the writer to keep the reader notified of changes in time, place and mood, or to vary and animate the style. What I've done is to add, in bracketed italics after each sentence, some of the thoughts that might occur to an editor taking a first look at this draft. After that you'll find my revised paragraph, which incorporates those corrective thoughts. 86 ON WRITING WELL There used to be a time when neighbors took care of one another, he remembered. [Put "he remembered" first to estab- lish reflective tone. ] It no longer seemed to happen that way, however. [The contrast supplied by "however" must come first. Start with "But." Also establish America locale.] He wondered if it was because everyone in the modern world was so busy. [All these sentences are the same length and have the same soporific rhythm; turn this one into a question?] It occurred to him that people today have so many things to do that they don't have time for old-fashioned friendship. [Sen- tence essentially repeats previous sentence; kill it or warm it up with specific detail. ] Things didn't work that way in Amer- ica in previous eras. [Reader is still in the present; reverse the sentence to tell him he's now in the past. "America" no longer needed if inserted earlier] And he knew that the situation was very different in other countries, as he recalled from the years when he lived in villages in Spain and Italy. [Reader is still in America. Use a negative transition word to get him to Europe. Sentence is also too flabby. Break it into two sentences?] It almost seemed to him that as people got richer and built their houses farther apart they isolated themselves from the essen- tials of life. [Irony deferred too long. Plant irony early. Sharpen the paradox about richness. ] And there was another thought that troubled him. [This is the real point of the para- graph; signal the reader that it's important. Avoid weak "there was" construction.] His friends had deserted him when he needed them most during his recent illness. [Reshape to end with "most"; the last word is the one that stays in the reader's ear and gives the sentence its punch. Hold sickness for next sentence; it's a separate thought. ] It was almost as if they found him guilty of doing something shameful. [Introduce sickness here as the reason for the shame. Omit "guilty"; it's implicit.] He recalled reading somewhere about societies in primitive parts of the world in Bits & Pieces 87 which sick people were shunned, though he had never heard of any such ritual in America. [Sentence starts slowly and stays sluggish and dull. Break it into shorter units. Snap off the ironic point. ] He remembered that neighbors used to take care of one another. But that no longer seemed to happen in America. Was it because everyone was so busy? Were people really so preoccupied with their television sets and their cars and their fitness programs that they had no time for friendship? In pre- vious eras that was never true. Nor was it how families lived in other parts of the world. Even in the poorest villages of Spain and Italy, he recalled, people would drop in with a loaf of bread. An ironic idea struck him: as people got richer they cut themselves off from the richness of life. But what really troubled him was an even more shocking fact. The time when his friends deserted him was the time when he needed them most. By getting sick he almost seemed to have done some- thing shameful. He knew that other societies had a custom of "shunning" people who were very ill. But that ritual only existed in primitive cultures. Or did it? My revisions aren't the best ones that could be made, or the only ones. They're mainly matters of carpentry: altering the sequence, tightening the flow, sharpening the point. Much could still be done in such areas as cadence, detail and freshness of language. Beyond these repairs, which only apply to individ- ual sentences; the total construction is equally important. Read your article aloud from beginning to end, always remembering where you left the reader in the previous sentence. You might find you had written two sentences like this: The tragic hero of the play is Othello. Small and malevo- lent, Iago feeds his jealous suspicions. 88 ON WRITING WELL In itself there's nothing wrong with the Iago sentence. But as a sequel to the previous sentence it's very wrong. The name lin- gering in the reader's ear is Othello; the reader naturally assumes that Othello is small and malevolent. When you read your writing aloud with these connecting links in mind you'll hear a dismaying number of places where you lost the reader, or confused the reader, or failed to tell him the one fact he needed to know, or told him the same thing twice: the inevitable loose ends of every early draft. What you
+>>>

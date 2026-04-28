@@ -1,0 +1,5 @@
+interface:
+  display_name: "Book Workflow"
+  short_description: "Ingest books, summarize them, and generate skills."
+  default_prompt: "Use $book-workflow to ingest a book, preserve its content, and generate a per-book skill."
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Query"
+  short_description: "Answer from preserved local book sources"
+  default_prompt: "Use $book-query to answer this from my preserved local book content."

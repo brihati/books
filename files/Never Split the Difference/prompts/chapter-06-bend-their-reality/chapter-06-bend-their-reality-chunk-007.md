@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-06-bend-their-reality",
+  "chunk_id": "chapter-06-bend-their-reality-chunk-007",
+  "source": {
+    "chapter_title": "CHAPTER 6 | BEND THEIR REALITY",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+    "source_pages": "152-187",
+    "char_start": 41053,
+    "char_end": 48725,
+    "checksum": "f40b1f95b450d28b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+boss to fight to get it for you. BE PLEASANTLY PERSISTENT ON NONSALARY TERMS Pleasant persistence is a kind of emotional anchoring that creates empathy with the boss and builds the right psychological environment for constructive discussion. And the more you talk about nonsalary terms, the more likely you are to hear the full range of their options. If they can’t meet your nonsalary requests, they may even counter with more money, like they did with a French-born American former student of mine. She kept asking—with a big smile— for an extra week of vacation beyond what the company normally gave. She was “French,” she said, and that’s what French people did. The hiring company was completely
+
+handcuffed on the vacation issue, but because she was so darned delightful, and because she introduced a nonmonetary variable into the notion of her value, they countered by increasing her salary offer. SALARY TERMS WITHOUT SUCCESS TERMS IS RUSSIAN ROULETTE Once you’ve negotiated a salary, make sure to define success for your position—as well as metrics for your next raise. That’s meaningful for you and free for your boss, much like giving me a magazine cover story was for the bar association. It gets you a planned raise and, by defining your success in relation to your boss’s supervision, it leads into the next step . . . SPARK THEIR INTEREST IN YOUR SUCCESS AND GAIN AN UNOFFICIAL MENTOR Remember the idea of figuring what the other side is really buying? Well, when you are selling yourself to a manager, sell yourself as more than a body for a job; sell yourself, and your success, as a way they can validate their own intelligence and broadcast it to the rest of the company. Make sure they know you’ll act as a flesh-and-blood argument for their importance. Once you’ve bent their reality to include you as their ambassador, they’ll have a stake in your success. Ask: “What does it take to be successful here?” Please notice that this question is similar to questions that are suggested by many MBA career counseling centers, yet not exactly the same. And it’s the exact wording of this question that’s critical. Students from my MBA courses who have asked this question in job interviews have actually had interviewers lean forward and say, “No one ever asked us that before.” The interviewer then gave a great and detailed answer. The key issue here is if someone gives you guidance, they will watch to see if you follow their advice. They will have a personal stake in seeing you succeed. You’ve just recruited your first unofficial mentor. To show how this can be done to near perfection, I can think of no better example than my former MBA student Angel Prado. While Angel was finishing up his MBA, he went to his boss and began to lay the groundwork for his work post- MBA (which the company was paying). During his last semester, he set a nonspecific anchor—a kind of range—by suggesting to his boss that once he graduated and the company was done investing in his MBA (around $31,000 per year), that money should go to him as salary. His boss made no commitment, but Angel was pleasantly persistent about it, which set the idea as an anchor in his boss’s mind. Upon graduation, Angel and his boss had their big sit- down. In an assertive and calm manner, Angel broached a nonfinancial issue to move the focus away from “How much?”: he asked for a new title. Angel’s boss readily agreed that a new role was a no- brainer after Angel’s new degree. At that point, Angel and his manager defined what his roles and responsibilities would be in his new role, thereby setting success metrics. Then Angel took a breath and paused so that his boss would be the first to throw out a number. At last, he did. Curiously enough, the number showed that Angel’s earlier efforts at anchoring had worked: he proposed to add $31,000 to Angel’s base salary, almost a 50 percent raise. But Angel was no rookie negotiator, not after taking my class. So instead of countering and getting stuck in “How much?” he kept talking, labeling the boss’s emotions and empathizing with his situation (at the time the company was going through difficult negotiations with its investors). And then Angel courteously asked for a moment to step away and print up the agreed-upon job description. This pause created a dynamic of pre-deadline urgency in his boss, which Angel exploited when he returned with the printout. On the bottom, he’d added his desired compensation: “$134.5k—$143k.” In that one little move, Angel weaved together a bunch of the lessons from this chapter. The odd numbers gave them the weight of thoughtful calculation. The numbers were high too, which exploited his boss’s natural tendency to go directly to his price limit when faced by an extreme anchor. And they were a range, which made Angel seem less aggressive and the lower end more reasonable in comparison. From his boss’s body language—raised eyebrows—it was clear that he was surprised by the compensation request. But it had the desired effect: after some comments about the description, he countered with $120,000. Angel didn’t say “No” or “Yes,” but kept talking and creating empathy. Then, in the middle of a sentence, seemingly out of the blue, his boss threw out $127,000. With his boss obviously negotiating with himself, Angel kept him going. Finally his boss said he agreed with the $134,500 and would pay that salary starting in three months, contingent on the board of directors’ approval. As the icing on the cake, Angel worked in a positive use of the word “Fair” (“That’s fair,” he said), and then sold the raise to his boss as a marriage in which his boss would be the mentor. “I’m asking you, not the board, for the promotion, and all I need is for you to agree with it,” he said. And how did Angel’s boss reply to his new ambassador? “I’ll fight to get you this salary.” So follow Angel’s lead and make it rain! KEY LESSONS Compared to the tools discussed in previous chapters, the techniques here seem concrete and easy to use. But many people shy away from them because they seem manipulative. Something that bends your counterpart’s reality must be cheating, right? In response, let me just say that these tools are used by all the best negotiators because they simply recognize the human psyche as it is. We are emotional, irrational beasts who are emotional and irrational in predictable, pattern- filled ways. Using that knowledge is only, well, rational. As you work these tools into your daily life, remember the following powerful lessons: ■ All negotiations are defined by a network of subterranean desires and needs. Don’t let yourself be fooled by the surface. Once you know that the Haitian kidnappers just want party money, you will be miles better prepared. ■ Splitting the difference is wearing one black and one brown shoe, so don’t compromise. Meeting halfway often leads to bad deals for both sides. ■ Approaching deadlines entice people to rush the negotiating process and do impulsive things that are against their best interests. ■ The F-word—“Fair”—is an emotional term people usually exploit to put the other side on the defensive and gain concessions. When your counterpart drops the F-bomb, don’t get suckered into a concession. Instead, ask them to explain how you’re mistreating them. ■ You can bend your counterpart’s reality by anchoring his starting point. Before you make an offer, emotionally anchor them by saying how bad it will be. When you get to numbers, set an extreme anchor to make your “real” offer seem reasonable, or use a range to seem less aggressive. The real value of anything depends on what vantage point you’re looking at it from. ■
+>>>

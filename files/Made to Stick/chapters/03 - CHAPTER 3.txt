@@ -1,0 +1,984 @@
+begun brainstorming immediately: "Well, first we'd need to solve this
+problem, then we'd need to develop this technology, then . . ."
+The vision of a pocketable radio sustained a company through a
+tricky period of growth and led it to become an internationally recog-
+nized player in technology. The vision of a man on the moon sus-
+tained tens of thousands of separate individuals, in dozens of
+organizations, for almost a decade. These are big, powerful, sticky
+ideas.
+When we're skeptical about our ability to get people's attention, or
+our ability to keep people's attention, we should draw inspiration from
+Kennedy and Ibuka. And, on a smaller scale, from Nora Ephron's
+journalism teacher and Nordstrom's managers. Unexpectedness, in
+the service of core principles, can have surprising longevity.
+CHAPTER 3
+CONCRETE
+One hot summer day a Fox was strolling through an orchard. He
+saw a bunch of Grapes ripening high on a grape vine. "Just the
+thing to quench my thirst," he said. Backing up a few paces, he
+took a run and jumped at the grapes, just missing. Turning
+around again, he ran faster and jumped again. Still a miss. Again
+and again he jumped, until at last he gave up out of exhaustion.
+Walking away with his nose in the air, he said: "I am sure they are
+sour." It is easy to despise what you can't get.
+The fable above, "The Fox and the Grapes," was written by
+Aesop. According to Herodotus, he was a slave (though he was
+later freed). Aesop authored some of the stickiest stories in
+world history. We've all heard his greatest hits: "The Tortoise and the
+Hare," "The Boy Who Cried Wolf," "The Goose That Laid the
+Golden Eggs," "The Wolf in Sheep's Clothing," and many more. If
+any story told in this book is still circulating a few millennia from
+now, odds are it will be "The Fox and the Grapes."
+Even English speakers who've never heard "The Fox and the
+Grapes" will recognize the phrase "sour grapes," which encapsulates
+CONCRETE                                                  99
+the moral of the story. Aesop's lesson has traveled the world. In Hun-
+gary, people say savanyu a szolo — "sour grapes" in Hungarian. In
+China, they say, "Grapes are sour because you cannot reach them."
+In Sweden, a little local color was added; the Swedish expression Surt
+sa raven om ronnbaren means "Sour, the fox said, about the rowan-
+berries."
+Clearly, Aesop was illustrating a universal human shortcoming.
+The fable would not have survived for more than 2,500 years if it
+didn't reflect some profound truth about human nature. But there
+are many profound truths that have not seeped into the day-to-day
+language and thinking of dozens of cultures. This truth is especially
+sticky because of the way it was encoded. The concrete images evoked
+by the fable—the grapes, the fox, the dismissive comment about sour
+grapes—allowed its message to persist. One suspects that the life span
+of Aesop's ideas would have been shorter if they'd been encoded as
+Aesop's Helpful Suggestions — "Don't be such a bitter jerk when you
+fail."
+What the world needs is a lot more fables. On the Web, a satirical
+site features a "Business Buzzword Generator." Readers can produce
+their own business buzzwords by combining one word each from
+three columns, which yields phrases like "reciprocal cost-based re-
+engineering," "customer-oriented visionary paradigm," and "strategic
+logistical values." (All of these sound eerily plausible as buzzwords, by
+the way.) Teachers have their own buzzwords: metacognitive skills, in-
+trinsic motivation, portfolio assessment, developmentally appropriate,
+thematic learning. And if you've ever talked to a doctor, we don't even
+have to provide examples. Our favorite from medicine: "idiopathic
+cardiomyopathy." "Cardiomyopathy" means something is wrong with
+your heart, and "idiopathic" means "we have no idea why yours isn't
+working."
+Language is often abstract, but life is not abstract. Teachers teach
+students about battles and animals and books. Doctors repair prob-
+100                                            MADE TO STICK
+lems with our stomachs, backs, and hearts. Companies create soft-
+ware, build planes, distribute newspapers; they build cars that are
+cheaper, faster, or fancier than last year's. Even the most abstract busi-
+ness strategy must eventually show up in the tangible actions of
+human beings. It's easier to understand those tangible actions than to
+understand an abstract strategy statement—just as it's easier to under-
+stand a fox dissing some grapes than an abstract commentary about
+the human psyche.
+Abstraction makes it harder to understand an idea and to remem-
+ber it. It also makes it harder to coordinate our activities with others,
+who may interpret the abstraction in very different ways. Concrete-
+ness helps us avoid these problems. This is perhaps the most impor-
+tant lesson that Aesop can teach us.
+The Nature Conservancy
+For fifty years, The Nature Conservancy (TNC) has helped protect
+environmentally precious areas in the world using the simplest possi-
+ble method: It buys them. It buys land at market prices, making it off-
+limits to environmentally damaging uses, such as development or
+logging. This strategy has come to be known within TNC as "bucks
+and acres." It had appeal to donors and benefactors, because the re-
+sults of their gifts were so clear. A big gift bought a big piece of land.
+A small gift bought a small piece of land. As one donor commented,
+TNC produced "results you could walk around on."
+In 2002, Mike Sweeney, the COO of TNC California, was facing
+a big challenge. California is particularly important to TNC, because
+it contains so many environmentally critical areas. California is one
+of only five Mediterranean climate regions in the world. (The others
+are the fynbos of South Africa, the matorral of Chile, the kwongan of
+Australia, and, of course, the Mediterranean.) These Mediterranean
+climate zones occupy only 2 percent of the world's landmass but host
+CONCRETE                                                101
+more than 20 percent of its plant species. If you want to buy environ-
+mentally precious land, Mediterranean climates give you a lot of
+bang for your buck.
+In 2002, Sweeney and his staff had taken a map of California and
+colored in the most environmentally sensitive areas, the areas worth
+preserving. Astonishingly, 40 percent of the map was colored. This
+was a non-starter: There weren't enough bucks out there to buy that
+many acres.
+Yet 9 percent of the state was classified as being in "critical dan-
+ger." Nine percent of California was still far too much to contemplate
+purchasing, but these regions were environmentally essential; TNC
+couldn't simply give up on them.
+TNC decided to implement some new approaches. "Bucks and
+acres" couldn't succeed with this vast quantity of land. So instead of
+owning the land outright, TNC would ensure that the critical areas
+were protected against damage. The organization would pay land-
+owners not to develop their land, buying what's known as a "conser-
+vation easement." It would work with local and state governments to
+change policies and encourage conservation of private and public
+land. It would focus on important marine areas, where there was no
+land to buy.
+These new strategies made sense—TNC could protect more areas
+than it could reach through "bucks and acres." But they also had
+drawbacks. First, they were much less concrete to donors. Donors
+can't "walk around on" a favorable government regulation. Second,
+they were also potentially demoralizing for employees—they made
+progress less tangible. When TNC was focused on land deals,
+Sweeney said, "it was easy to celebrate a deal closing, to tell everyone,
+'John and Mary got this land,' and to pat them on the back." These
+"milestone moments," so great for morale, were harder to find in the
+new model. How could TNC make the new strategy more concrete?
+What would you do in this situation? Is there a way to recapture
+102                                             MADE TO STICK
+the invaluable tangibility of the "bucks and acres" strategy in a con-
+text that was necessarily more ambiguous? You've got 40 percent (or
+at least 9 percent) of the state to protect, and you can't buy it. How do
+you explain yourself to donors and partners?
+Chip has discussed this case with his students at Stanford, and in
+grappling with the need for concreteness some students respond by
+breaking up the impossibly large scale of the challenge—40 percent
+of California! 9 percent in critical need!—by subdividing it into more
+tangible "subgoals." For example: "We will protect a 2 percent chunk
+of California every year for twenty years." Others try to invoke a unit
+of measurement that we can understand, such as the acre. Most peo-
+ple can visualize an acre. But the scale is too big: 2 percent of Cali-
+fornia is about two million acres. No one can picture two million
+acres.
+The students are wisely trying to find a way to break up a big, ab-
+stract goal into smaller, more concrete subgoals. This is the right
+idea. But in this case the numbers are just too big. And "acreage" is
+not necessarily the best way to think. There are 1,500-acre plots of
+land that are more environmentally precious than other 90,000-acre
+plots. Thinking about "acreage per year" is akin to a museum curator
+thinking about "canvases per year," without regard to period, style, or
+painter.
+Here's what TNC did: Instead of talking in terms of land area, it
+talked about a "landscape." A landscape is a contiguous plot of land
+with unique, environmentally precious features. The TNC set a goal
+of preserving fifty landscapes—of which twenty-five were an immedi-
+ate priority—over a ten-year period. Five landscapes per year sounds
+more realistic than 2 million acres per year, and it's much more con-
+crete.
+To the east of Silicon Valley there is a set of brown hills that are
+the beginnings of a wilderness the size of Yosemite. The brown hills
+are an important watershed for the San Francisco Bay, but they are
+CONCRETE                                                103
+quickly being chipped away by Silicon Valley sprawl. Although the
+area is important ecologically, it is not like the redwoods or the coast,
+with beautiful visuals that engage people's imaginations. The hills are
+covered with grass interspersed with a few oak trees. Most of the year,
+the grass is brown. Sweeney admits that it's not very sexy. Even local
+groups in the Silicon Valley area that were interested in protecting
+open spaces weren't paying attention to the brown hills. But, says
+Sweeney, "We don't go after stuff because it's pretty. We go after it be-
+cause it's an ecologically important part of creation."
+TNC named the oak savanna the Mount Hamilton Wilderness
+(based on its highest peak, the site of a local observatory). Identifying
+the area as a coherent landscape and naming it put it on the map for
+local groups and policymakers. Before, Sweeney says, Silicon Valley
+groups wanted to protect important areas close to their homes, but
+they didn't know where to start. "If you say, 'There's a really important
+area to the east of Silicon Valley,' it's just not exciting, because it's not
+tangible. But when you say, 'The Mount Hamilton Wilderness,' their
+interest perks up."
+The Packard Foundation, a Silicon Valley institution created by
+one of the founders of the Hewlett-Packard Company, provided a
+large grant to protect the Mount Hamilton Wilderness. Other envi-
+ronmental groups in the Bay Area started campaigning to preserve
+the area. Sweeney says, "We're always laughing now, because we see
+other people's documents and they're talking about the Mount Ham-
+ilton Wilderness. We say, 'You know we made that up.'"
+People who live in cities tend to name and define their neighbor-
+hoods: "the Castro," "SoHo," "Lincoln Park," and so forth. These
+names come to define an area and its traits. Neighborhoods have per-
+sonalities. The Nature Conservancy created the same effect with its
+landscapes. The Mount Hamilton Wilderness is not a set of acres; it's
+an eco-celebrity.
+This is not a story about land; it's a story about abstraction. TNC
+104                                          MADE TO STICK
+avoided the trap of abstraction —saving 2 million acres per year—by
+converting abstract blobs on a map into tangible landscapes. TNC
+realized, wisely, that the context had grown more ambiguous, and the
+solutions had grown more ambiguous, but that their messages could
+not be allowed to grow more ambiguous. Concreteness is an indis-
+pensable component of sticky ideas.
+Understanding Subtraction
+What makes something "concrete"? If you can examine something
+with your senses, it's concrete. A V8 engine is concrete. "High-
+performance" is abstract. Most of the time, concreteness boils down
+to specific people doing specific things. In the "Unexpected" chap-
+ter, we talked about Nordstrom's world-class customer service.
+"World-class customer service" is abstract. A Nordie ironing a cus-
+tomer's shirt is concrete.
+Concrete language helps people, especially novices, understand
+new concepts. Abstraction is the luxury of the expert. If you've got to
+teach an idea to a room full of people, and you aren't certain what
+they know, concreteness is the only safe language.
+To see this, we can start by studying math classrooms in Asia. We
+know, from the news over the years, that East Asian children outper-
+form American children in, well, just about everything (except the
+consumption of fatty foods). This is especially evident in math. The
+math skills of Americans fall behind those of Asians early—the gap is
+apparent in the first grade, and it widens throughout elementary-
+school.
+What are Asian schools doing differently? Our stereotype is that
+these schools operate with almost robotic efficiency: Hours are long
+and discipline is strict. We think of East Asian students as being less
+"creative" somehow; we like to think they outperform our students
+through rote mechanics and memorization. The truth, it turns out, is
+almost exactly the opposite.
+CONCRETE                                                105
+In 1993, a group of researchers studied ten schools in Japan, ten in
+Taiwan, and twenty in the United States. In each school, they picked
+two different math teachers to observe, and they observed four lessons
+with each teacher. The researchers found that all the teachers used
+rote recall quite a bit; it was standard procedure in at least half the les-
+sons observed in every country. But other techniques varied greatly
+among the three countries.
+For instance, consider this question by a Japanese teacher: "You
+had 100 yen but then you bought a notebook for 70 yen. How much
+money do you still have?" Or this question, posed by a teacher in Tai-
+wan: "Originally there are three kids playing ball. Two more came
+later, and then one more joined them. How many are playing now?"
+As she talked, she drew stick figures on the board and wrote down the
+equation 3 + 2 + 1.
+Notice that these teachers are explaining abstract mathematical
+concepts by emphasizing things that are concrete and familiar-
+buying school supplies and playing ball. Their explanations take ad-
+vantage of preexisting schemas, a tactic we explored in the "Simple"
+chapter. Teachers take an existing schema—the dynamics of a six-
+person ball game—and overlay a new layer of abstraction.
+The researchers called this style of questioning Computing in
+Context. It is pretty much the opposite of "rote recall." And, contrary
+to our stereotypes, it occurred about twice as much in Asia as it did in
+the United States (61 percent of lessons versus 31 percent).
+In another case, a Japanese teacher placed on a desk 5 rows of 10
+tiles each. Then she took away 3 rows of 10 tiles. She asked a student
+how many tiles were left, and he gave the correct answer: 20. The
+teacher then asked the students how they knew that this was a sub-
+traction problem. This teacher provided her students with a visual
+image of subtraction. Students could build an abstract concept—
+"subtraction" —on a concrete foundation: 30 tiles being yanked away
+from an original set of 50. The researchers coded questions like this
+one as Conceptual Knowledge questions. This type of question was
+106                                            MADE TO STICK
+asked in 37 percent of lessons in Japan, 20 percent in Taiwan, but
+only 2 percent in the United States.
+Using concreteness as a foundation for abstraction is not just good
+for mathematical instruction; it is a basic principle of understanding.
+Novices crave concreteness. Have you ever read an academic paper or
+a technical article or even a memo and found yourself so flummoxed
+by the fancy abstract language that you were crying out for an example?
+Or maybe you've experienced the frustration of cooking from a
+recipe that was too abstract: "Cook until the mixture reaches a hearty
+consistency." Huh? Just tell me how many minutes to stir! Show me a
+picture of what it looks like! After we've cooked the dish a few times,
+then the phrase "hearty consistency" might start to make sense. We
+build a sensory image of what that phrase represents. But the first
+time it's as meaningless as 3 + 2 + 1 would be to a three-year-old.
+This is how concreteness helps us understand—it helps us con-
+struct higher, more abstract insights on the building blocks of our
+existing knowledge and perceptions. Abstraction demands some
+concrete foundation. Trying to teach an abstract principle without
+concrete foundations is like trying to start a house by building a roof
+in the air.
+Concrete Is Memorable
+Concrete ideas are easier to remember. Take individual words, for in-
+stance. Experiments in human memory have shown that people are
+better at remembering concrete, easily visualized nouns ("bicycle" or
+"avocado") than abstract ones ("justice" or "personality").
+Naturally sticky ideas are stuffed full of concrete words and im-
+ages—think of the Kentucky Fried Rat or the Kidney Heist's ice-filled
+bathtub. The Kidney Heist legend would have been far less sticky if
+the man had woken up and found that someone had absconded with
+his self-esteem.
+CONCRETE
+107
+Yale researcher Eric Havelock studies tales that have been passed
+down by word of mouth, such as the Iliad and the Odyssey. He notes
+that these tales are characterized by lots of concrete actions, with few
+abstractions. Why? The ancient Greeks certainly had no problem
+with abstraction —this was the society that produced Plato and Aris-
+totle, after all. Havelock believes that the stories evolved away from
+abstraction over time. When they were passed along from generation
+to generation, the more memorable concrete details survived and the
+abstractions evaporated.
+Let's skip to the modern world and another timeless and beautiful
+domain of expression: accounting. Put yourself in the shoes of an ac-
+counting professor who has to introduce accounting principles to col-
+lege students. To a new student, accounting can seem bewilderingly
+abstract—the income statement, the balance sheet, T-accounts, ac-
+counts receivable, treasury stock. No people or sensory data in sight.
+As the teacher, how do you make accounting concepts vivid? Two
+professors from Georgia State University, Carol Springer and Faye
+Borthick, decided to try something radically different. In the fall of
+2000, Springer and Borthick taught a semester of accounting using,
+as a centerpiece, a semester-long case study. The case study followed
+a new business launched by two imaginary college sophomores, Kris
+and Sandy, at LeGrande State University.
+Kris and Sandy had an idea for a new product called Safe Night
+Out (SNO), a device targeted at parents with teenagers who were old
+enough to drive. Installed in the teenager's car, the' device would
+record the route and speed of the car. For the first time, parents could
+confirm whether their car was being driven responsibly.
+At this point you, as a student in introductory accounting, become
+part of the story. Kris and Sandy are your friends, and they've heard
+that you're taking an accounting class. They need your help. They ask,
+Is our business idea feasible? How many units would we have to sell in
+order to pay for our tuition? You are given guidance on how to track
+108                                           MADE TO STICK
+down the costs of the relevant materials (GPS receivers, storage hard-
+ware) and partnerships (how much it would cost to sell it on eBay).
+The semester-long Kris and Sandy soap opera revealed the role
+that accounting plays in business life. Every accounting course de-
+fines the distinction between fixed and variable costs, but in the soap
+opera this distinction wasn't so much denned as discovered. Kris and
+Sandy have to pay some costs no matter what, such as the program-
+ming expense for developing the product. Those are fixed costs.
+Other costs are incurred only when products are made or sold—the
+cost of the materials or eBay's commission, for example. Those are
+variable costs. If your friends are pouring their tuition money into a
+start-up business, those distinctions matter.
+The case study is an example of learning in context, similar to the
+teachers in the Asian math classrooms. But in the math classrooms a
+student might encounter 300 different examples over the course of a
+semester. In the accounting class, students had one example that was
+sufficiently rich to encompass a semester's worth of material.
+As the semester progresses, you witness, from your hot seat as Kris
+and Sandy's accountant, the evolution of their business. A local court
+approaches Kris and Sandy wanting to use the SNO device for its
+parolees, but it wants to lease the device rather than buy it. How should
+Kris and Sandy respond? Later, the business begins to grow rapidly, but
+suddenly Kris and Sandy make a panicked call to you, having bounced
+a check. They've been selling more units than ever, yet there's no cash
+in the bank. How is that possible? (This problem is faced by many start-
+up businesses, and it introduces the difference between profitability
+and cash flow.) The answer becomes clear to you only after you've
+worked through a month of payment slips and eBay receipts.
+So, did the students learn better? At first it was hard to say. The
+changes to the course made it hard to compare final exams directly
+with those of previous years. Some students seemed more enthusias-
+tic about the new course, but others groused because the case study
+demanded a lot of time. Over time, however, the benefits of the con-
+CONCRETE                                                109
+crete case study became increasingly obvious. After experiencing the
+case study, students with high GPAs were more likely to major in ac-
+counting. The concreteness actually made the most capable students
+want to become accountants.
+But the case study also had positive effects for regular students. In
+the next accounting course—taken an average of two years later—the
+first section of the course built heavily on the concepts that students
+were supposed to have learned in introductory accounting. Students
+who had worked through the case study scored noticeably higher on
+this first exam. In fact, the difference in scores was particularly dra-
+matic for students with a C average overall. Generally speaking, they
+scored twelve points higher. And remember, this is two years after the
+case study ended. Concreteness sticks.
+The Velcro Theory of Memory
+What is it about concreteness that makes ideas stick? The answer lies
+with the nature of our memories.
+Many of us have a sense that remembering something is a bit like
+putting it in storage. To remember a story is to file it away in our cere-
+bral filing cabinets. There's nothing wrong with that analogy. But the
+surprising thing is that there may be completely different filing cabi-
+nets for different kinds of memories.
+You can actually test this idea for yourself. The following set of
+sentences will ask you to remember various ideas. Spend five or ten
+seconds lingering on each one—don't rush through them. As you
+move from one sentence to another, you'll notice that it feels different
+to remember different kinds of things.
+*  Remember the capital of Kansas.
+*  Remember the first line of "Hey Jude" (or some other song
+that you know well).
+* Remember the Mona Lisa.
+110                                          MADE TO STICK
+* Remember the house where you spent most of your child-
+hood.
+* Remember the definition of "truth."
+* Remember the definition of "watermelon."
+David Rubin, a cognitive psychologist at Duke University, uses
+this exercise to illustrate the nature of memory. Each command to re-
+member seems to trigger a different mental activity. Remembering
+the capital of Kansas is an abstract exercise, unless you happen to live
+in Topeka. By contrast, when you think about "Hey Jude," you may
+hear Paul McCartney's voice and piano playing. (If the phrase "Hey
+Jude" drew a blank, please exchange this book for a Beatles album.
+You'll be happier.)
+No doubt the Mona Lisa memory conjured a visual image of that
+famously enigmatic smile. Remembering your childhood home
+might have evoked a host of memories—smells, sounds, sights. You
+might even have felt yourself running through your home, or re-
+membering where your parents used to sit.
+The definition of "truth" may have been a bit harder to sum-
+mon—you certainly have a sense of what "truth" means, but you
+probably had no preformulated definition to pluck out of memory, as
+with the Mona Lisa. You might have had to create a definition on the
+fly that seemed to fit with your sense of what "truth" means.
+The definition of "watermelon" might also have involved some
+mental gyrations. The word "watermelon" immediately evoked sense
+memories —the striped green rind and red fruit, the sweet smell and
+taste, the heft of a whole watermelon. Then you might have felt your
+gears switch as you tried to encapsulate these sense memories into a
+definition.
+Memory, then, is not like a single filing cabinet. It is more like
+Velcro. If you look at the two sides of Velcro material, you'll see that
+one is covered with thousands of tiny hooks and the other is covered
+CONCRETE                                           111
+with thousands of tiny loops. When you press the two sides together,
+a huge number of hooks get snagged inside the loops, and that's what
+causes Velcro to seal.
+Your brain hosts a truly staggering number of loops. The more
+hooks an idea has, the better it will cling to memory. Your childhood
+home has a gazillion hooks in your brain. A new credit card number
+has one, if it's lucky.
+Great teachers have a knack for multiplying the hooks in a partic-
+ular idea. A teacher from Iowa named Jane Elliott once designed a
+message so powerful—tapping into so many different aspects of emo-
+tion and memory—that, twenty years later, her students still remem-
+ber it vividly.
+Brown Eyes, Blue Eyes
+Martin Luther King, Jr., was assassinated on April 4, 1968. The next
+day, Jane Elliott, an elementary-school teacher in Iowa, found herself
+trying to explain his death to her classroom of third-graders. In the all-
+white town of Riceville, Iowa, students were familiar with King but
+could not understand who would want him dead, or why.
+Elliott said, "I knew it was time to deal with this in a concrete way,
+because we'd talked about discrimination since the first day of school.
+But the shooting of Martin Luther King, one of our 'Heroes of the
+Month' two months earlier, couldn't be explained to little third-
+graders in Riceville, Iowa."
+She came to class the next day with a plan: She aimed to make
+prejudice tangible to her students. At the start of class, she divided the
+students into two groups: brown-eyed kids and blue-eyed kids. She
+then made a shocking announcement: Brown-eyed kids were supe-
+rior to blue-eyed kids —"They're the better people in this room." The
+groups were separated: Blue-eyed kids were forced to sit at the back of
+the classroom. Brown-eyed kids were told that they were smarter.
+H2                                                 MADE TO STICK
+They were given extra time at recess. The blue-eyed kids had to wear
+special collars, so that everyone would know their eye color from a
+distance. The two groups were not allowed to mix at recess.
+Elliott was shocked at how quickly the class was transformed. "I
+watched those kids turn into nasty, vicious, discriminating third-
+graders ... it was ghastly," she said. "Friendships seemed to dissolve
+instantly, as brown-eyed kids taunted their blue-eyed former friends.
+One brown-eyed student asked Elliott how she could be the teacher
+"if you've got dem blue eyes."
+At the start of class the following day, Elliott walked in and an-
+nounced that she had been wrong. It was actually the brown-eyed
+children who were inferior. This reversal of fortune was embraced in-
+stantly. A shout of glee went up from the blue-eyed kids as they ran to
+place their collars on their lesser, brown-eyed counterparts.
+On the day when they were in the inferior group, students de-
+scribed themselves as sad, bad, stupid, and mean. "When we were
+down," one boy said, his voice cracking, "it felt like everything bad
+was happening to us." When they were on top, the students felt
+happy, good, and smart.
+Even their performance on academic tasks changed. One of the
+reading exercises was a phonics card pack that the kids were supposed
+to go through as quickly as possible. The first day, when the blue-eyed
+kids were on the bottom, it took them 5.5 minutes. On the second
+day, when they were on top, it took 2.5 minutes. "Why couldn't you
+go this fast yesterday?" Elliott asked. One blue-eyed girl said, "We had
+those collars on. . . ." Another student chimed in, "We couldn't stop
+thinking about those collars."
+Elliott's simulation made prejudice concrete—brutally concrete.
+It also had an enduring impact on the students' lives. Studies con-
+ducted ten and twenty years later showed that Elliott's students were
+significantly less prejudiced than their peers who had not been
+through the exercise.
+Students still remember the simulation vividly. A fifteen-year re-
+CONCRETE                                                113
+union of Elliott's students broadcast on the PBS series Frontline re-
+vealed how deeply it had moved them. Ray Hansen, remembering
+the way his understanding changed from one day to the next, said, "It
+was one of the most profound learning experiences I've ever had."
+Sue Ginder Rolland said, "Prejudice has to be worked out young or it
+will be with you all your life. Sometimes I catch myself [discriminat-
+ing], stop myself, think back to the third grade, and remember what it
+was like to be put down."
+Jane Elliott put hooks into the idea of prejudice. It would have
+been easy for her to treat the idea of prejudice the way other class-
+room ideas are treated—as an important but abstract bit of knowl-
+edge, like the capital of Kansas or the definition of "truth." She could
+have treated prejudice as something to be learned, like the story of a
+World War II battle. Instead, Elliott turned prejudice into an experi-
+ence. Think of the "hooks" involved: The sight of a friend suddenly
+sneering at you. The feel of a collar around your neck. The despair at
+feeling inferior. The shock you get when you look at your own eyes in
+the mirror. This experience put so many hooks into the students'
+memories that, decades later, it could not be forgotten.
+The Path to Abstraction:
+The Blueprint and the Machine
+Jane Elliott's simulation of prejudice is compelling evidence of the
+power of concreteness. But if concreteness is so powerful, why do we
+slip so easily into abstraction?
+The reason is simple: because the difference between an expert
+and a novice is the ability to think abstractly. New jurors are struck by
+lawyers' personalities and factual details and courtroom rituals. Mean-
+while, judges weigh the current case against the abstract lessons of past
+cases and legal precedent. Biology students try to remember whether
+reptiles lay eggs or not. Biology teachers think in terms of the grand
+system of animal taxonomy.
+114                                          MADE TO STICK
+Novices perceive concrete details as concrete details. Experts per-
+ceive concrete details as symbols of patterns and insights that they
+have learned through years of experience. And, because they are ca-
+pable of seeing a higher level of insight, they naturally want to talk on
+a higher level. They want to talk about chess strategies, not about
+bishops moving diagonally.
+And here is where our classic villain, the Curse of Knowledge, in-
+serts itself. A researcher named Beth Bechky studied a manufacturing
+firm that designed and built the complicated machinery used to pro-
+duce silicon chips. To build such machinery, the firm needed two
+sets of skills: engineers who could create brilliant designs, and skilled
+manufacturing people who could transform those designs into com-
+plex physical machines.
+If the firm was to succeed, these two sets of people had to be able to
+communicate smoothly. But, not surprisingly, they spoke different lan-
+guages. The engineers tended to think abstractly—they spent their day
+agonizing over drawings and blueprints. The manufacturing team, on
+the other hand, tended to think on a physical level—they spent their
+day building machines.
+What's most revealing for the Curse of Knowledge is what hap-
+pened when something went wrong on the manufacturing floor. The
+manufacturing folks would sometimes run into a problem—something
+didn't fit or perhaps wasn't receiving enough power. The manufactur-
+ers would bring the problem to the engineers, and the engineers would
+immediately get to work. Specifically, they'd get to work fixing their
+drawings.
+For example, the manufacturing team might find a part that didn't
+fit on the machine. When the team showed the part to the engineers,
+they wanted to pull out the blueprints and move things around on the
+drawing. In other words, the engineers instinctively wanted to jump
+to a higher level of abstraction.
+The engineers, Bechky found, made their drawings "increasingly
+CONCRETE                                                115
+elaborate" in the hope that the enhanced drawings would clarify the
+process for the manufacturers. Over time, the drawings became more
+abstract, which further hampered communication.
+The engineers were behaving like American tourists who travel to
+foreign countries and try to make themselves understood by speaking
+English more slowly and loudly. They were suffering from the Curse
+of Knowledge. They had lost the ability to imagine what it was like to
+look at a technical drawing from the perspective of a nonexpert.
+The manufacturing people were thinking, Why don't you just
+come down to the factory floor and show me where the part should go?
+And the engineering people were thinking, What do I need to do to
+make the drawings better?
+The miscommunication has a quality that is familiar, no doubt, to
+many readers who don't work on silicon chip-making machinery. So
+how do you fix it? Should both parties learn greater empathy for the
+other and, in essence, meet in the middle? Actually, no. The solution
+is for the engineers to change their behavior. Why? As Bechky notes,
+the physical machine was the most effective and relevant domain of
+communication. Everyone understands the machines fluently. There-
+fore problems should be solved at the level of the machine.
+It's easy to lose awareness that we're talking like an expert. We
+start to suffer from the Curse of Knowledge, like the tappers in the
+"tappers and listeners" game. It can feel unnatural to speak con-
+cretely about subject matter we've known intimately for years. But if
+we're willing to make the effort we'll see the rewards: Our audience
+will understand what we're saying and remember it.
+The moral of this story is not to "dumb things down." The manu-
+facturing people faced complex problems and they needed smart an-
+swers. Rather, the moral of the story is to find a "universal language,"
+one that everyone speaks fluently. Inevitably, that universal language
+will be concrete.
+1 16                                          MADE TO STICK
+Concrete Allows Coordination
+In the last chapter, we closed with two unexpected slogans that were
+used to motivate and coordinate large groups of smart people. The slo-
+gans were challenges to build a "pocketable radio" and to "put a man on
+the moon within the decade." Notice that these slogans are also pleas-
+ingly concrete. It is. doubtful that Japanese engineers were paralyzed
+with uncertainty about their mission, or that much time was spent at
+NASA quibbling about the meaning of "man," "moon," or "decade."
+Concreteness makes targets transparent. Even experts need trans-
+parency. Consider a software start-up whose goal is to build "the next
+great search engine." Within the start-up are two programmers with
+nearly identical knowledge, working in neighboring cubes. To one
+"the next great search engine" means completeness, ensuring that
+the search engine returns everything on the Web that might be rele-
+vant, no matter how obscure. To the other it means speed, ensuring
+pretty good results very fast. Their efforts will not be fully aligned
+until the goal is made concrete.
+When Boeing prepared to launch the design of the 727 passenger
+plane in the 1960s, its managers set a goal that was deliberately con-
+crete: The 727 must seat 131 passengers, fly nonstop from Miami to
+New York City, and land on Runway 4-22 at La Guardia. (The 4-22
+runway was chosen for its length —less than a mile, which was much
+too short for any of the existing passenger jets.) With a goal this con-
+crete, Boeing effectively coordinated the actions of thousands of ex-
+perts in various aspects of engineering or manufacturing. Imagine
+how much harder it would have been to build a 727 whose goal was
+to be "the best passenger plane in the world."
+The Ferraris Go to Disney World in the R & D Lab
+Stone Yamashita Partners, a small consulting firm in San Francisco,
+was founded by Robert Stone and Keith Yamashita, former Apple ere-
+CONCRETE                                                117
+atives. Stone Yamashita is a master of using concrete techniques to help
+organizations create change. "Almost everything we do is visceral and
+visual," Keith Yamashita says. The "product" of most consulting firms
+is often a PowerPoint presentation. At Stone Yamashita, it's much more
+likely to be a simulation, an event, or a creative installation.
+Around 2002, Stone Yamashita was approached by Hewlett-
+Packard (HP). HP's top management team hoped to win a partner-
+ship with Disney, and they asked Stone Yamashita to help prepare a
+proposal that would highlight HP research, and show how it could
+help Disney run its theme parks.
+HP, like many technology firms, generates great research in its lab-
+oratories, but that research isn't always translated into tangible physi-
+cal products. Researchers get excited about pushing the boundaries of
+a technology, making products that are complex and sophisticated,
+while customers generally seek out products that are easy and reliable.
+The desires of researchers and customers don't always dovetail.
+The "presentation" that Stone Yamashita designed was an exhibit
+that filled 6,000 square feet. Yamashita describes the gist: "We in-
+vented a fictitious family called the Ferraris, three generations of
+them, and built an exhibit about their life and their visit to Disney
+World."
+Walking into the exhibit, you began in the Ferraris' living room,
+furnished with family photos. Each subsequent room followed the
+Ferraris through various scenes of their Disney World vacation. HP
+technology helped them buy tickets, sped their entry into the park,
+and scheduled their reservations for dinner. Another bit of technol-
+ogy helped them enjoy their favorite rides while minimizing waiting
+time. Back inside their hotel room at the end of the day, there was a
+final twist: A digital picture frame had automatically downloaded a
+picture of them as they rode a Disney World roller coaster.
+Stone Yamashita, working with HP's engineers, turned a message
+about the benefits of collaboration—what could have been a Power-
+Point presentation —into a living, breathing simulation. Stone Yama-
+118                                          MADE TO STICK
+shita put hooks into the idea of e-services. They took an abstract idea
+and made it concrete with an intense sensory experience.
+Note that there were two different audiences for the exhibit. The
+first audience was Disney. Disney's execs were the "novices"—they
+needed to be shown, in tangible terms, what HP's technology could
+do for them. Then there were HP's employees, particularly the engi-
+neers. They were far from novices. Many engineers had been skepti-
+cal about the value of Yamashita's demos. Once the exhibit opened,
+however, it produced tremendous enthusiasm within HP. It was ini-
+tially intended to stay up long enough to make the Disney pitch, but,
+because it was so popular, it remained for three or four months after-
+ward. One observer said, "It became very viral in that others began to
+ask, 'Did you see that great thing that the labs team did? Did you
+know that we could do this? Did you know that they did it in only
+twenty-eight days?'"
+Concreteness helped this team of experts coordinate. A diverse
+group of engineers, accustomed to contemplating difficult technol-
+ogy problems, suddenly came face-to-face with the Ferrari family. By
+grappling with one family's concrete needs —their tickets and reserva-
+tions and photos—they did something remarkable: They took ab-
+stract ideas from their research labs and turned them into a family
+picture on a roller-coaster ride.
+CONCRETE
+119
+Concrete Brings Knowledge to Bear:
+White Things
+Grab a pencil and a piece of paper and find a way to time yourself
+(a watch, a spouse who likes to count, etc.). Here is a do-it-yourself
+test on concreteness. You'll do two brief fifteen-second exercises.
+When you've got your supplies ready, set your timer for fifteen sec-
+onds, then follow the instructions for Step 1 below.
+STEP 1 INSTRUCTIONS:
+Write down as many things that are white in color as you can
+think of.
+STOP. Reset your timer for fifteen seconds. Turn the page for the
+instructions for Step 2.
+120                                          MADE TO STICK
+STEP 2 INSTRUCTIONS:
+Write down as many white things in your refrigerator as you can
+think of.
+Most people, remarkably, can list about as many white things
+from their refrigerators as white anythings. This result is stunning be-
+cause, well, our fridges don't include a particularly large part of the
+universe. Even people who list more white anythings often feel that
+the refrigerator test is "easier."
+Why does this happen? Because concreteness is a way of mobiliz-
+ing and focusing your brain. For another example of this phenome-
+non, consider these two statements: (1) Think of five silly things that
+people have done in the world in the past ten years. (2) Think about
+five silly things your child has done in the past ten years.
+Sure, this is a neat brain trick. But what value does it have? Con-
+sider a situation where an entrepreneur used this neat brain trick to
+earn a $4.5 million investment from a savvy and sophisticated group
+of investors.
+Kaplan and Go Computers
+For an entrepreneur, having the chance to pitch a business idea to
+local venture capitalists is a big deal, like a budding actor getting an
+audition with an independent film director. But having a chance to
+pitch an idea to Kleiner Perkins —the most prestigious firm in Silicon
+Valley—is more like a private one-on-one audition with Steven Spiel-
+berg. You could walk out a star, or you could walk out having blown
+the biggest chance of your life.
+And that's why twenty-nine-year-old Jerry Kaplan was nervous as he
+stood in the Kleiner Perkins office in early 1987. His presentation
+would start in about thirty minutes. Kaplan was a former researcher at
+Stanford who had quit to work at Lotus in its early days. Lotus, with its
+bestselling Lotus 1-2-3 spreadsheet, became a stock market darling.
+CONCRETE                                                121
+Now Kaplan was ready for the next challenge. He had a vision for a
+smaller, more portable generation of personal computers.
+He hung around outside the conference room as the previous
+entrepreneur finished his presentation. Watching the other entrepre-
+neur, he felt underprepared. As he observed, his nervousness advanced
+toward panic. The other entrepreneur wore a dark pin-striped suit with
+a red power tie. Kaplan had on a sport jacket with an open-collared
+shirt. The other entrepreneur was projecting an impressive color graph
+onto the whiteboard. Kaplan was carrying a maroon portfolio with a
+blank pad of paper inside. This did not bode well.
+Kaplan had thought that he was showing up for an informal "get
+to know you" session, but, standing there, he realized how naive he'd
+been. He had "no business plan, no slides, no charts, no financial
+projections, no prototypes." Worst of all, the überprepared entrepre-
+neur in the boardroom was facing a skeptical audience that now pep-
+pered him with tough questions.
+When Kaplan's turn arrived, one of the partners introduced him.
+Kaplan took a deep breath and started: "I believe that a new type of
+computer, more like a notebook than a typewriter, and operated by a
+pen rather than a keyboard, will serve the needs of professionals like
+ourselves when we are away from our desks. We will use them to take
+notes, send and receive messages through cellular telephone links;
+look up addresses, phone numbers, price lists, and inventories; do
+spreadsheet calculations; and fill out order forms."
+He covered the required technology, highlighting the major un-
+known: whether a machine could reliably recognize handwriting and
+convert it into commands. Kaplan recounts what happened next:
+My audience seemed tense. I couldn't tell whether they were an-
+noyed by my lack of preparation or merely concentrating on what
+I was saying. . . . Thinking I had already blown it, and therefore
+had little to lose, I decided to risk some theatrics.
+"If I were carrying a portable PC right now, you would sure as
+122                                             MADE TO STICK
+hell know it. You probably didn't realize that I am holding a
+model of the future of computing right here in my hands."
+I tossed my maroon leather case in the air. It sailed to the cen-
+ter of the table where it landed with a loud clap.
+"Gentlemen, here is a model of the next step in the computer
+revolution."
+For a moment, I thought this final act of drama might get me
+thrown out of the room. They were sitting in stunned silence, star-
+ing at my.plain leather folder—which lay motionless on the
+table—as though it were suddenly going to come to life. Brook
+Byers, the youthful-looking but long-time partner in the firm,
+slowly reached out and touched the portfolio as if it were some
+sort of talisman. He asked the first question.
+"Just how much information could you store in something
+like this?"
+John Doerr [another partner] answered before I could re-
+spond. "It doesn't matter. Memory chips are getting smaller and
+cheaper each year and the capacity will probably double for the
+same size and price annually."
+Someone else chimed in. "But bear in mind, John, that unless
+you translate the handwriting efficiently, it's likely to take up a lot
+more room." The speaker was Vinod Khosla, the founding CEO
+of Sun Microsystems, who helped the partnership evaluate tech-
+nology deals.
+Kaplan said that from that point on he hardly had to speak, as part-
+ners and associates traded questions and insights that fleshed out his
+proposal. Periodically, he said, someone would reach out to touch or
+examine his portfolio. "It had been magically transformed from a sta-
+tionery-store accessory into a symbol of the future of technology."
+A few days later, Kaplan got a call from Kleiner Perkins. The part-
+ners had decided to back the idea. Their investment valued Kaplan's
+nonexistent company at $4.5 million.
+CONCRETE
+123
+What transformed this meeting from a grill session —with an anx-
+ious entrepreneur in the hot seat—to a brainstorming session? The
+maroon portfolio. The portfolio presented a challenge to the board-
+room participants —a way of focusing their thoughts and bringing
+their existing knowledge to bear. It changed their attitude from reac-
+tive and critical to active and creative.
+The presence of the portfolio made it easier for the venture capi-
+talists to brainstorm, in the same way that focusing on "white things
+in our refrigerator" made it easier for us to brainstorm. When they
+saw the size of the portfolio, it sparked certain questions: How much
+memory could you fit in that thing? Which PC components will
+shrink in the next few years, and which won't? What new technology
+would have to be invented to make it feasible? This same process was
+sparked in Sony's Japanese engineering team by the concept of a
+"pocketable radio."
+Concreteness creates a shared "turf on which people can collab-
+orate. Everybody in the room feels comfortable that they're tackling
+the same challenge. Even experts —even the Kleiner Perkins venture
+capitalists, the rock stars of the technology world —benefit from con-
+crete talk that puts them on common ground.
+Oral Rehydration Therapy Saves
+Children's Lives!
+the situation: Each year more than a million children in countries
+around the world die from dehydration caused by diarrhea. This
+problem can be prevented, at very low cost, by getting kids the right
+kind of fluids. How do you get people invested in this idea?
+124                                            MADE TO STICK
+message 1: Here's an explanation from PSI, a nonprofit group that
+addresses health problems in developing countries:
+Diarrhea is one of the leading killers of young children in devel-
+oping countries, causing over 1.5 million child deaths annually. Diar-
+rhea itself is not the cause of death, but rather dehydration, the loss
+of body fluid. Approximately three quarters of the body is composed
+of water, and if fluid loss exceeds ten percent of total body fluid, vital
+organs collapse, followed by death. If an episode is severe, as with
+cholera, death can occur within just eight hours.
+To prevent life-threatening dehydration it is necessary to increase
+liquid intake in quantities sufficient to replenish the fluids and elec-
+trolytes lost with diarrhea. The best liquid for this purpose is a blend
+of electrolytes, sugar, and water, known as oral rehydration salts.
+ORS restores body fluid and electrolytes more rapidly than any other
+liquid, and does so even when the intestinal wall is compromised by
+disease.
+comments on message 1: Quick: How solvable is this problem? Sup-
+pose you were a health official in a developing nation. What would
+you do tomorrow to start saving kids?
+To be fair, this message appears on a Web page that describes
+what PSI has been doing to solve this problem. The text doesn't
+necessarily reflect how the organization might approach decision-
+makers to persuade them to act. The information is written in lan-
+guage that creates credibility; there is lots of scientific language and
+exposition. If the problem sounds too complex, however, that could
+deter people from trying to solve it.
+message 2: This message is from James Grant, who was the director
+of UNICEF for many years. Grant always traveled with a packet filled
+CONCRETE                                                125
+with one teaspoon of salt and eight teaspoons of sugar—the ingredi-
+ents for Oral Rehydration Therapy (ORT) when mixed with a liter of
+water. When he met with the prime ministers of developing countries,
+he would take out his packet of salt and sugar and say, "Do you know
+that this costs less than a cup of tea and it can save hundreds of thou-
+sands of children's lives in your country?"
+comments on message 2: Quick: How solvable is this problem?
+What are you going to do tomorrow to start saving these children's
+lives? Grant's message brings you to the table, helps you bring your
+knowledge to bear. Maybe you're brainstorming ways of getting
+salt/sugar packets to schools. Maybe you're thinking about publicity
+campaigns to teach mothers the right ratio of salt and sugar.
+Grant is clearly a master of making ideas stick. He brings out a
+concrete prop and starts with an attention-grabbing unexpected con-
+trast: This packet costs less than a cup of tea, but it can have a real
+impact. Prime ministers spend their time thinking about elaborate,
+complex social problems—building infrastructure, constructing hos-
+pitals, maintaining a healthy environment—and suddenly here's a
+bag of salt and sugar that can save hundreds of thousands of chil-
+dren.
+Grant's message does sacrifice the statistics and the scientific de-
+scription that add credibility to the PSI message. But, as the director of
+UNICEF, he had enough credibility to keep people from questioning
+his facts. So Grant left the (uncontested) factual battle behind and
+fought the motivational battle. His bag of salt and sugar is the equiva-
+lent of Kaplan's maroon portfolio in the venture-capital presentation: It
+helps the members of the audience bring their expertise to the prob-
+lem. You can't see it and not start brainstorming about the possibilities.
+126
+MADE TO STICK
+Checklist                  Message 1                Message 2
+
+Simple                      -                        X
+
+Unexpected                  -                        X
+
+Concrete                    -                        X
+
+Credible                    X                        -
+
+Emotional                   X                        X
+
+Story                       -                        -
+punch line: This Clinic is one of our favorite before-and-after exam-
+ples in the book, because it shows how powerful a concrete idea can
+be. The moral is to find some way to invite people to the table, to help
+them bring their knowledge to bear. Here, a prop works better than a
+scientific description.
+Making Ideas Concrete
+How do we move toward concrete ideas for our own messages? We
+might find our own decisions easier to make if they are guided by the
+needs of specific people: our readers, our students, our customers.
+General Mills is one of the world's largest manufacturers of con-
+sumer products. Its brands include Pillsbury, Cheerios, Green Giant,
+Betty Crocker, Chex, and many others. One of the largest brands in
+the company, from a sales perspective, is Hamburger Helper. Melissa
+Studzinski, a twenty-eight-year-old from Michigan, joined General
+Mills in 2004 as Hamburger Helper's brand manager.
+When she joined the team, Hamburger Helper had been in a
+decade-long slump. The CEO, frustrated by the decline, announced
+that his number one goal for 2005 was to fix and grow the Hamburger
+CONCRETE                                                127
+Helper brand. Studzinski, the newest person on the team, was eager
+to tackle the challenge.
+When she started the job, she was given three huge binders full of
+data and stats: sales and volume data, advertising-strategy briefs, prod-
+uct information, and market research on the brand's customers. The
+binders were difficult to pick up, let alone absorb into memory. She
+called them the "death binders."
+A few months later, Studzinski's team decided to put the data aside
+and try something new. They made plans to send members of the
+Hamburger Helper team—marketing, advertising, and R & D staffers
+—out into the homes of Hamburger Helper customers. The idea was
+known informally as "Fingertips," because the General Mills employ-
+ees needed to have a picture of the brand's customers at their fingertips.
+A call went out for mothers (the predominant customers of Ham-
+burger Helper) who were willing to let strangers come into their
+homes and gawk at them while they cooked. The team visited two to
+three dozen homes. Studzinski visited three homes, and the experi-
+ence stuck with her. "I had read and I could recite all the data about
+our customers," she says. "I knew their demographics by heart. But it
+was a very different experience to walk into a customer's home and
+experience a little bit of her life. I'll never forget one woman, who
+had a toddler on her hip while she was mixing up dinner on the stove.
+We know that 'convenience' is an important attribute of our product,
+but it's a different thing to see the need for convenience firsthand."
+Most of all, Studzinski learned that moms and their kids really
+valued predictability. Hamburger Helper had eleven different pasta
+shapes, but kids didn't care about different shapes. What they did care
+about was flavor, and moms just wanted to buy the same predictable fla-
+vor their kids wouldn't reject. But Hamburger Helper had more than
+thirty different flavors, and moms struggled to find their favorites among
+the massive grocery-store displays. Food and beverage companies
+constantly push to develop new flavors and packages, but Studzinski
+needed to resist this push. "Moms saw new flavors as risky," she says.
+128                                                MADE TO STICK
+Using this concrete information about moms and kids, the team
+convinced a diverse collection of people across the organization—in
+groups ranging from supply chain and manufacturing to finance —
+to simplify the product line. According to Studzinski, the cost savings
+were "huge," yet moms were happier because it was easier to find their
+families' favorites on grocery stores shelves. The insight to simplify the
+product line —along with other key insights concerning pricing and
+advertising—sparked a turnaround for the brand. At the end of fiscal
+year 2005, Hamburger Helper's sales had increased 11 percent.
+Studzinski says, "Now when I've got a decision to make about the
+brand, I think of the women I met. I wonder what they would do if they
+were in my shoes. And it's amazing how helpful it is to think that way."
+The same philosophy is just as useful for ideas that are more tran-
+scendent. The Saddleback Church is a very successful church in
+a suburb of Irvine, California, that has grown to more than 50,000
+members. Over the years, the church's leaders have created a de-
+tailed picture of the kind of person they're trying to reach. They call
+him "Saddleback Sam." Here's how Rick Warren, the minister of the
+Saddleback Church, describes him:
+Saddleback Sam is the typical unchurched man who lives in our
+area. His age is late thirties or early forties. He has a college de-
+gree and may have an advanced degree. ... He is married to Sad-
+dleback Samantha, and they have two kids, Steve and Sally.
+Surveys show that Sam likes his job, he likes where he lives,
+and he thinks he's enjoying life more now than he was five years
+ago. He's self-satisfied, even smug, about his station in life. He's
+either a professional, a manager, or a successful entrepreneur.
+... Another important characteristic of Sam is that he's skepti-
+cal of what he calls "organized" religion. He's likely to say, "I be-
+lieve in Jesus. I just don't like organized religion."
+CONCRETE                                                129
+The profile goes into much greater depth: Sam and Samantha's tastes
+in pop culture, their preferences about social events, and so on.
+What does "Saddleback Sam" accomplish for church leaders?
+Sam forces them to view their decisions through a different lens. Say
+someone proposes a telemarketing campaign to local community
+members. It sounds as if it has great potential to reach new people.
+But the leaders know from their research that Sam hates telemar-
+keters, so the idea is scratched.
+And thinking about Saddleback Sam and Samantha isn't limited
+to church leaders. There are hundreds of small ministries at the Sad-
+dleback Church: grade school classes, Mother's Day Out programs, a
+men's basketball league. All are led by volunteer members who don't
+receive day-to-day direction from paid church staff. But these diverse
+programs work together because people throughout the church know

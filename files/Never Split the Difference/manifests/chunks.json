@@ -1,0 +1,58 @@
+{
+  "book_id": "never-split-the-difference",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 71,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-the-new-rules",
+      "title": "CHAPTER 1 | THE NEW RULES",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-02-be-a-mirror",
+      "title": "CHAPTER 2 | BE A MIRROR",
+      "chunk_count": 7
+    },
+    {
+      "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+      "title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+      "chunk_count": 7
+    },
+    {
+      "chapter_id": "chapter-04-beware-yes-master-no",
+      "title": "CHAPTER 4 | BEWARE “YES”—MASTER “NO”",
+      "chunk_count": 7
+    },
+    {
+      "chapter_id": "chapter-05-trigger-the-two-words-that-immediately-transform",
+      "title": "CHAPTER 5 | TRIGGER THE TWO WORDS THAT IMMEDIATELY TRANSFORM ANY NEGOTIATION",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-06-bend-their-reality",
+      "title": "CHAPTER 6 | BEND THEIR REALITY",
+      "chunk_count": 8
+    },
+    {
+      "chapter_id": "chapter-07-create-the-illusion-of-control",
+      "title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-08-guarantee-execution",
+      "title": "CHAPTER 8 | GUARANTEE EXECUTION",
+      "chunk_count": 7
+    },
+    {
+      "chapter_id": "chapter-09-bargain-hard",
+      "title": "CHAPTER 9 | BARGAIN HARD",
+      "chunk_count": 7
+    },
+    {
+      "chapter_id": "chapter-10-find-the-black-swan",
+      "title": "CHAPTER 10 | FIND THE BLACK SWAN",
+      "chunk_count": 10
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-06-bend-their-reality",
+  "chunk_id": "chapter-06-bend-their-reality-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 6 | BEND THEIR REALITY",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+    "source_pages": "152-187",
+    "char_start": 20198,
+    "char_end": 27860,
+    "checksum": "28030596815c2901"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+Pakistan, which clandestinely acquired nuclear weapons, are accepted members of the international community? In a TV interview, former Iranian nuclear negotiator Seyed Hossein Mousavian hit the nail on the head. “The nuclear issue today for Iranians is not nuclear,” he said, “it’s defending their integrity [as an] independent identity against the pressure of the rest.” You may not trust Iran, but its moves are pretty clear evidence that rejecting perceived unfairness, even at substantial cost, is a powerful motivation. Once you understand what a messy, emotional, and destructive dynamic “fairness” can be, you can see why “Fair” is a tremendously powerful word that you need to use with care.
+
+In fact, of the three ways that people drop this F-bomb, only one is positive. The most common use is a judo-like defensive move that destabilizes the other side. This manipulation usually takes the form of something like, “We just want what’s fair.” Think back to the last time someone made this implicit accusation of unfairness to you, and I bet you’ll have to admit that it immediately triggered feelings of defensiveness and discomfort. These feelings are often subconscious and often lead to an irrational concession. A friend of mine was selling her Boston home in a bust market a few years back. The offer she got was much lower than she wanted—it meant a big loss for her—and out of frustration she dropped this F-bomb on the prospective buyer. “We just want what’s fair,” she said. Emotionally rattled by the implicit accusation, the guy raised his offer immediately. If you’re on the business end of this accusation, you need to realize that the other side might not be trying to pick your pocket; like my friend, they might just be overwhelmed by circumstance. The best response either way is to take a deep breath and restrain your desire to concede. Then say, “Okay, I apologize. Let’s stop everything and go back to where I started treating you unfairly and we’ll fix it.” The second use of the F-bomb is more nefarious. In this one, your counterpart will basically accuse you of being dense or dishonest by saying, “We’ve given you a fair offer.” It’s a terrible little jab meant to distract your attention and manipulate you into giving in. Whenever someone tries this on me, I think back to the last NFL lockout. Negotiations were getting down to the wire and the NFL Players Association (NFLPA) said that before they agreed to a final deal they wanted the owners to open their books. The owners’ answer? “We’ve given the players a fair offer.” Notice the horrible genius of this: instead of opening their books or declining to do so, the owners shifted the focus to the NFLPA’s supposed lack of understanding of fairness. If you find yourself in this situation, the best reaction is to simply mirror the “F” that has just been lobbed at you. “Fair?” you’d respond, pausing to let the word’s power do to them as it was intended to do to you. Follow that with a label: “It seems like you’re ready to provide the evidence that supports that,” which alludes to opening their books or otherwise handing over information that will either contradict their claim to fairness or give you more data to work with than you had previously. Right away, you declaw the attack. The last use of the F-word is my favorite because it’s positive and constructive. It sets the stage for honest and empathetic negotiation. Here’s how I use it: Early on in a negotiation, I say, “I want you to feel like you are being treated fairly at all times. So please stop me at any time if you feel I’m being unfair, and we’ll address it.” It’s simple and clear and sets me up as an honest dealer. With that statement, I let people know it is okay to use that word with me if they use it honestly. As a negotiator, you should strive for a reputation of being fair. Your reputation precedes you. Let it precede you in a way that paves success. HOW TO DISCOVER THE EMOTIONAL DRIVERS BEHIND WHAT THE OTHER PARTY VALUES A few years ago, I stumbled upon the book How to Become a Rainmaker,3 and I like to review it occasionally to refresh my sense of the emotional drivers that fuel decisions. The book does a great job to explain the sales job not as a rational argument, but as an emotional framing job. If you can get the other party to reveal their problems, pain, and unmet objectives—if you can get at what people are really buying—then you can sell them a vision of their problem that leaves your proposal as the perfect solution. Look at this from the most basic level. What does a good babysitter sell, really? It’s not child care exactly, but a relaxed evening. A furnace salesperson? Cozy rooms for family time. A locksmith? A feeling of security. Know the emotional drivers and you can frame the benefits of any deal in language that will resonate. BEND THEIR REALITY Take the same person, change one or two variables, and $100 can be a glorious victory or a vicious insult. Recognizing this phenomenon lets you bend reality from insult to victory. Let me give you an example. I have this coffee mug, red and white with the Swiss flag. No chips, but used. What would you pay for it, deep down in your heart of hearts? You’re probably going to say something like $3.50. Let’s say it’s your mug now. You’re going to sell it to me. So tell me what it’s worth. You’re probably going to say something between $5 and $7. In both cases, it was the exact same mug. All I did was move the mug in relation to you, and I totally changed its value. Or imagine that I offer you $20 to run a three-minute errand and get me a cup of coffee. You’re going to think to yourself that $20 for three minutes is $400 an hour. You’re going to be thrilled. What if then you find out that by getting you to run that errand I made a million dollars. You’d go from being ecstatic for making $400 an hour to being angry because you got ripped off. The value of the $20, just like the value of the coffee mug, didn’t change. But your perspective of it did. Just by how I position the $20, I can make you happy or disgusted by it. I tell you that not to expose our decision making as emotional and irrational. We’ve already seen that. What I am saying is that while our decisions may be largely irrational, that doesn’t mean there aren’t consistent patterns, principles, and rules behind how we act. And once you know those mental patterns, you start to see ways to influence them. By far the best theory for describing the principles of our irrational decisions is something called Prospect Theory. Created in 1979 by the psychologists Daniel Kahneman and Amos Tversky, prospect theory describes how people choose between options that involve risk, like in a negotiation. The theory argues that people are drawn to sure things over probabilities, even when the probability is a better choice. That’s called the Certainty Effect. And people will take greater risks to avoid losses than to achieve gains. That’s called Loss Aversion. That’s why people who statistically have no need for insurance buy it. Or consider this: a person who’s told he has a 95 percent chance of receiving $10,000 or a 100 percent chance of getting $9,499 will usually avoid risk and take the 100 percent certain safe choice, while the same person who’s told he has a 95 percent chance of losing $10,000 or a 100 percent chance of losing $9,499 will make the opposite choice, risking the bigger 95 percent option to avoid the loss. The chance for loss incites more risk than the possibility of an equal gain. Over the next few pages I’ll explain a few prospect theory tactics you can use to your advantage. But first let me
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-07-create-the-illusion-of-control",
+  "chunk_id": "chapter-07-create-the-illusion-of-control-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/07 - CHAPTER 7 CREATE THE ILLUSION OF CONTROL.txt",
+    "source_pages": "188-215",
+    "char_start": 13238,
+    "char_end": 20937,
+    "checksum": "e3977bf70449fe42"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+questions that asked for a piece of information only the hostage could know. Computer-security-style questions, like, “What’s the name of Martin’s first dog?” or “What’s Martin’s dad’s middle name?” This particular type of question had many failings, however. For one thing, it had sort of become a signature of law enforcement in the kidnapping world. When a family starts asking a question of that type, it’s a near certainty that the cops are coaching them. And that makes kidnappers very nervous. Even beyond the nerves, you had the problem that answering questions like those required little, if any, effort. The bad guys go and get the fact and give it to you right away, because it’s so easy.
+
+Bang, bang, bang! It happens so fast that you didn’t gain any tactical advantage, any usable information, any effort on their part toward a goal that serves you. And all negotiation, done well, should be an information-gathering process that vests your counterpart in an outcome that serves you. Worst of all, the bad guys know that they have just given you something—a proof of life—which triggers this whole human reciprocity gene. Whether we like to recognize it or not, a universal rule of human nature, across all cultures, is that when somebody gives you something, they expect something in return. And they won’t give anything else until you pay them back. Now, we didn’t want to trigger this whole reciprocity thing because we didn’t want to give anything. So what happened? All of our conversations became these paralyzed confrontations between two parties who wanted to extract something from each other but didn’t want to give. We didn’t communicate, out of pride and fear. That’s why we failed, while numbskulls like this crooked Philippine politician just stumbled in and got what we so desperately needed. That is, communication without reciprocity. I sat back and wondered to myself, How the hell do we do that? SUSPEND UNBELIEF While I was racking my brains over how this sleazy politician managed to get Martin Burnham on the phone while we never could, FBI Pittsburgh had a kidnapping case. My partner Chuck brought me the tapes from the case because he thought it was funny. You see, one Pittsburgh drug dealer had kidnapped the girlfriend of another Pittsburgh drug dealer, and for whatever reason the victim drug dealer came to the FBI for help. Coming to the FBI seemed kind of contrary to his best interests, being a drug dealer and all, but he did it because no matter who you are, when you need help you go to the FBI. Right? On the tapes, our hostage negotiators are riding around with this drug dealer while he’s negotiating with the other drug dealer. Normally we would have had the guy ask a bulletproof proof-of-life question, like, “What was the name of the girlfriend’s teddy bear when she was little?” But in this situation, this drug dealer hadn’t yet been coached on asking a “correct” question. So in the middle of the conversation with the kidnapper, he just blurts, “Hey, dog, how do I know she’s all right?” And the funniest thing happened. The kidnapper actually went silent for ten seconds. He was completely taken aback. Then he said, in a much less confrontational tone of voice, “Well, I’ll put her on the phone.” I was floored because this unsophisticated drug dealer just pulled off a phenomenal victory in the negotiation. To get the kidnapper to volunteer to put the victim on the phone is massively huge. That’s when I had my “Holy shit!” moment and realized that this is the technique I’d been waiting for. Instead of asking some closed-ended question with a single correct answer, he’d asked an open-ended, yet calibrated one that forced the other guy to pause and actually think about how to solve the problem. I thought to myself, This is perfect! It’s a natural and normal question, not a request for a fact. It’s a “how” question, and “how” engages because “how” asks for help. Best of all, he doesn’t owe the kidnapper a damn thing. The guy volunteers to put the girlfriend on the phone: he thinks it’s his idea. The guy who just offered to put the girlfriend on the line thinks he’s in control. And the secret to gaining the upper hand in a negotiation is giving the other side the illusion of control. The genius of this technique is really well explained by something that the psychologist Kevin Dutton says in his book Split-Second Persuasion.1 He talks about what he calls “unbelief,” which is active resistance to what the other side is saying, complete rejection. That’s where the two parties in a negotiation usually start. If you don’t ever get off that dynamic, you end up having showdowns, as each side tries to impose its point of view. You get two hard skulls banging against each other, like in Dos Palmas. But if you can get the other side to drop their unbelief, you can slowly work them to your point of view on the back of their energy, just like the drug dealer’s question got the kidnapper to volunteer to do what the drug dealer wanted. You don’t directly persuade them to see your ideas. Instead, you ride them to your ideas. As the saying goes, the best way to ride a horse is in the direction in which it is going. Our job as persuaders is easier than we think. It’s not to get others believing what we say. It’s just to stop them unbelieving. Once we achieve that, the game’s half-won. “Unbelief is the friction that keeps persuasion in check,” Dutton says. “Without it, there’d be no limits.” Giving your counterpart the illusion of control by asking calibrated questions—by asking for help—is one of the most powerful tools for suspending unbelief. Not long ago, I read this great article in the New York Times2 by a medical student who was faced with a patient who had ripped out his IV, packed his bags, and was making a move to leave because his biopsy results were days late and he was tired of waiting. Just then a senior physician arrived. After calmly offering the patient a glass of water and asking if they could chat for a minute, he said he understood why the patient was pissed off and promised to call the lab to see why the results were delayed. But what he did next is what really suspended the patient’s unbelief: he asked a calibrated question—what he felt was so important about leaving—and then when the patient said he had errands to handle, the doctor offered to connect the patient with services that could help him get them done. And, boom, the patient volunteered to stay. What’s so powerful about the senior doctor’s technique is that he took what was a showdown—“I’m going to leave” versus “You can’t leave”—and asked questions that led the patient to solve his own problem . . . in the way the doctor wanted. It was still a kind of showdown, of course, but the doctor took the confrontation and bravado out of it by giving the patient the illusion of control. As an old Washington Post editor named Robert Estabrook once said, “He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.” This same technique for suspending unbelief that you use with kidnappers and escaping patients works for anything, even negotiating prices. When you go into a store, instead of telling the salesclerk what you “need,” you can describe what you’re looking for and ask for suggestions. Then, once you’ve picked out what you want, instead of hitting them with a hard offer, you can just say the price is a bit more than you budgeted and ask for help with one of the greatest-of-all-time calibrated questions: “How am I supposed to do that?” The critical part of this approach is that you really are asking for help and your delivery must convey that.
+>>>

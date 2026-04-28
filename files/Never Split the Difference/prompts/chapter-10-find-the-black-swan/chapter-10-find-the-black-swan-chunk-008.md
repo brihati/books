@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-10-find-the-black-swan",
+  "chunk_id": "chapter-10-find-the-black-swan-chunk-008",
+  "source": {
+    "chapter_title": "CHAPTER 10 | FIND THE BLACK SWAN",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+    "source_pages": "281-322",
+    "char_start": 41192,
+    "char_end": 48851,
+    "checksum": "509e190dac3f42f3"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+very difficult to find Black Swans with email for the simple reason that, even if you knock your counterpart off their moorings with great labels and calibrated questions, email gives them too much time to think and re-center themselves to avoid revealing too much. In addition, email doesn’t allow for tone-of-voice effects, and it doesn’t let you read the nonverbal parts of your counterpart’s response (remember 7-38-55). Let’s return now to the tale of my client who was trying to get Coca-Cola as a client, only to learn that his contact at the company had been pushed aside. I realized that the only way my client was going to get a deal with Coca-Cola was by getting his contact to admit that
+
+he was useless for the situation and pass my client on to the correct executive. But there was no way this guy wanted to do that, because he still imagined that he could be important. So I told my client to get his contact out of the Coca- Cola complex. “You got to get him to dinner. You’re going to say, ‘Would it be a bad idea for me to take you to your favorite steak house and we just have a few laughs, and we don’t talk business?’” The idea was that no matter the reason—whether the contact was embarrassed, or didn’t like my client, or just didn’t want to discuss the situation—the only way the process was going to move forward was through direct human interaction. So my client got this guy out for dinner and as promised he didn’t bring up business. But there was no way not to talk about it, and just because my client created personal, face-to-face interaction, the contact admitted he was the wrong guy. He admitted that his division was a mess and he’d have to hand things off to somebody else to get the deal done. And he did. It took more than a year to get the deal signed, but they did it. OBSERVE UNGUARDED MOMENTS While you have to get face time, formal business meetings, structured encounters, and planned negotiating sessions are often the least revealing kinds of face time because these are the moments when people are at their most guarded. Hunting for Black Swans is also effective during unguarded moments at the fringes, whether at meals like my client had with his Coca-Cola contact, or the brief moments of relaxation before or after formal interactions. During a typical business meeting, the first few minutes, before you actually get down to business, and the last few moments, as everyone is leaving, often tell you more about the other side than anything in between. That’s why reporters have a credo to never turn off their recorders: you always get the best stuff at the beginning and the end of an interview. Also pay close attention to your counterpart during interruptions, odd exchanges, or anything that interrupts the flow. When someone breaks ranks, people’s façades crack just a little. Simply noticing whose cracks and how others respond verbally and nonverbally can reveal a gold mine. WHEN IT DOESN’T MAKE SENSE, THERE’S CENTS TO BE MADE Students often ask me whether Black Swans are specific kinds of information or any kind that helps. I always answer that they are anything that you don’t know that changes things. To drive this home, here’s the story of one of my MBA students who was interning for a private equity real estate firm in Washington. Faced with actions from his counterpart that didn’t pass the sense test, he innocently turned up one of the greatest Black Swans I’ve seen in years by using a label. My student had been performing due diligence on potential targets when a principal at the firm asked him to look into a mixed-use property in the heart of Charleston, South Carolina. He had no experience in the Charleston market, so he called the broker selling the property and requested the marketing package. After discussing the deal and the market, my student and his boss decided that the asking price of $4.3 million was about $450,000 too high. At that point, my student called the broker again to discuss pricing and next steps. After initial pleasantries, the broker asked my student what he thought of the property. “It looks like an interesting property,” he said. “Unfortunately, we don’t know the market fundamentals. We like downtown and King Street in particular, but we have a lot of questions.” The broker then told him that he had been in the market for more than fifteen years, so he was well informed. At this point, my student pivoted to calibrated “How” and “What” questions in order to gather information and judge the broker’s skills. “Great,” my student said. “First and foremost, how has Charleston been affected by the economic downturn?” The broker replied with a detailed answer, citing specific examples of market improvement. In the process, he showed my student that he was very knowledgeable. “It sounds like I’m in good hands!” he said, using a label to build empathy. “Next question: What sort of cap rate can be expected in this type of building?” Through the ensuing back-and-forth, my student learned that owners could expect rates of 6 to 7 percent because buildings like this were popular with students at the local university, a growing school where 60 percent of the student body lived off campus. He also learned that it would be prohibitively expensive —if not physically impossible—to buy land nearby and build a similar building. In the last five years no one had built on the street because of historic preservation rules. Even if they could buy land, the broker said a similar building would cost $2.5 million just in construction. “The building is in great shape, especially compared to the other options available to students,” the broker said. “It seems like this building functions more as a glorified dormitory than a classic multifamily building,” my student said, using a label to extract more information. And he got it. “Fortunately and unfortunately, yes,” the broker said. “The occupancy has historically been one hundred percent and it is a cash cow, but the students act like college students . . .” A lightbulb went on in my student’s head: there was something strange afoot. If it were such a cash cow, why would someone sell a 100 percent occupied building located next to a growing campus in an affluent city? That was irrational by any measure. A little befuddled but still in the negotiation mindset, my student constructed a label. Inadvertently he mislabeled the situation, triggering the broker to correct him and reveal a Black Swan. “If he or she is selling such a cash cow, it seems like the seller must have doubts about future market fundamentals,” he said. “Well,” he said, “the seller has some tougher properties in Atlanta and Savannah, so he has to get out of this property to pay back the other mortgages.” Bingo! With that, my student had unearthed a fantastic Black Swan. The seller was suffering constraints that, until that moment, had been unknown. My student put the broker on mute as he described other properties and used the moment to discuss pricing with his boss. He quickly gave him the green light to make a lowball offer—an extreme anchor—to try to yank the broker to his minimum. After quizzing the broker if the seller would be willing to close quickly, and getting a “yes,” my student set his anchor. “I think I have heard enough,” he said. “We are willing to offer $3.4 million.” “Okay,” the broker answered. “That is well below the asking price. However, I can bring the offer to the seller and see what he thinks.” Later that day, the broker came back with a counteroffer. The seller had told him that the number was too low, but he was willing to take $3.7 million. My student could barely
+>>>

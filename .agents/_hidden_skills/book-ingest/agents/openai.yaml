@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Ingest"
+  short_description: "Normalize books into source-linked chunks"
+  default_prompt: "Use $book-ingest to ingest this book into the local preservation workspace."

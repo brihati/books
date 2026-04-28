@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-08-part-iv-attitudes",
+  "chunk_id": "chapter-08-part-iv-attitudes-chunk-010",
+  "source": {
+    "chapter_title": "Part IV – Attitudes",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+    "source_pages": "245-308",
+    "char_start": 62012,
+    "char_end": 69700,
+    "checksum": "50d26b7e304111d7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+for edge-seekers. Of the half-dozen places that have always lured travelers with the mere sound of their name—Bali and Tahiti, Samarkand and Fez, Mombasa and Macao—none can match Timbuktu for the remoteness it con- veys. I was surprised by how many people, hearing of my trip, didn't think Timbuktu was a real place, or, if it was, couldn't think where in the world it might be. They knew it well as a word—the most vivid of all synonyms for the almost-unreach- able, a God-given toy for songwriters stuck for an "oo" rhyme and a metaphor for how far a lovestruck boy would go to win the unwinnable girl. But as an actual place—surely Timbuktu was one of those "long-lost" African kingdoms like King
+
+Solomon's Mines that turned out not to exist when the Victo- rian explorers went looking for them. The first sentence of that paragraph grows out of the last sentence of the previous paragraph; the reader is given no chance to squirm away. After that the paragraph has one pur- pose: it acknowledges what the reader already knows—or half knows—about Timbuktu. It thereby welcomes him as a fellow traveler, someone who brings the same emotions to the trip as the writer himself. It also adds a certain kind of information— not hard facts, but enjoyable lore. The following paragraph gets down to hard work—work that can't be put off any longer. Notice how much information is crammed into these three sentences: The long-lost Timbuktu, however, got found, though the men who finally found it after terrible ordeals—the Scotsman 268 ON WRITING WELL Gordon Laing in 1826 and the Frenchman René Caillié in 1828—must have felt cruelly mocked for their efforts. The legendary city of 100,000 people described by the 16th- century traveler Leo Africanus—a center of learning with 20,000 students and 180 Koranic schools—was a desolate set- tlement of mud buildings, its glory and its population long gone, surviving only because of its unique location as the junction of important camel caravan routes across the Sahara. Much of what got traded in Africa, especially salt from the north and gold from the south, got traded in Timbuktu. So much for the history of Timbuktu and the reason for its fame. It's all that a magazine reader needs to know about the city's past and its significance. Don't give readers of a magazine piece more information than they require; if you want to tell more, write a book or write for a scholarly journal. Now, what do your readers want to know next? Ask yourself that question after every sentence. Here what they want to know is: why did / go to Timbuktu? What was the purpose of my trip? The following paragraph gets right to it—again, keeping the thread of the previous sentence taut: It was to watch the arrival of one of those caravans that I had come to Timbuktu. I was one of six men and women bright enough or dumb enough—we didn't yet know which— to sign up for a two-week tour we had seen announced in the Sunday New York Times, run by a small travel agency of French origins that specializes in West Africa. (Timbuktu is in Mali, the former French Sudan.) The agency's office is in New York, and I had gone there first thing Monday morning to beat the crowd; I asked the usual questions and got the usual answers—yellow fever shots, cholera shots, malaria pills, don't drink the water—and was given a brochure. A Writer's Decisions 269 Besides explaining the genesis of the trip, that paragraph does one other job: it establishes the writers personality and voice. In travel writing you should never forget that you are the guide. Its not enough just to take your readers on a trip; you must take them on your trip. Make them identify with you— with your hopes and apprehensions. This means giving them some idea of who you are. The phrase "bright enough or dumb enough" calls up a familiar figure in travel literature: the tourist as a possible patsy or buffoon. Another throwaway phrase is the line about beating the crowd. I put it in just to amuse myself. Strictly, that fourth paragraph is too late to say where Timbuktu is. But I couldn't find a way to mention it earlier without pulling apart the fabric of the lead. Here's paragraph five: "It s your opportunity to participate in a once-in-a-lifetime extravaganza—the annual Azalai Salt Caravan to Timbuktu!" the brochure began. "Picture this: Hundreds of camels carry- ing huge slabs of precious salt ('white gold' to the natives of land-locked West Africa) make their triumphant entry into Timbuktu, an ancient and mystical part desert/part city of some 7,000 inhabitants. The colorful nomads who drive the caravans have traveled 1,000 miles across the Sahara to cele- brate the end of their trek with outdoor feasts and traditional tribal dances. Spend the night in a desert tent as guest of the tribal chief." That's a typical example of how a writer can get other people to do helpful work for him—in their words, which are usually more revealing than the writers words. In this case the brochure not only tells the reader what kind of trip has been promised; its language is an amusement in itself and a window into the grandiosity of the promoters. Be on the watch for funny or self- 270 ON WRITING WELL serving quotes and use them with gratitude. Here's the last para- graph of the lead: Well, that's my kind of trip, if not necessarily my kind of prose, and it also turned out to be my wife's kind of trip and four other people's kind of trip. In years we ranged from late middle age to Medicare. Five of us were from mid-Manhat- tan, one was a widow from Maryland, and all of us had made a lifelong habit of traveling to places on the edge. Names like Venice and Versailles didn't bob up in our accounts of earlier trips, or even Marrakech or Luxor or Chiang Mai. The talk was of Bhutan and Borneo, Tibet and Yemen and the Moluc- cas. Now—praise Allah!—we had made it to Timbuktu. Our camel caravan was about to come in. That concludes the lead. Those six paragraphs took as long to write as the entire remainder of the piece. But when I finally wrestled them into place I felt confidently launched. Maybe someone else could write a better lead for that story, but / couldn't. I felt that readers who were still with me would stay to the end. No less important than decisions about structure are deci- sions about individual words. Banality is the enemy of good writ- ing; the challenge is to not write like everybody else. One fact that had to be stated in the lead was how old the six of us were. Initially I wrote something serviceable like "we were in our fifties and sixties." But the merely serviceable is a drag. Was there any way to state the fact with freshness? There didn't seem to be. At last a merciful muse gave me Medicare—and thus the phrase "from late middle age to Medicare." If you look long enough you can usually find a proper name or a metaphor that will bring those dull but necessary facts to life. Even more time went into the sentence about Venice and A Writer's Decisions 271 Versailles. Originally I wrote, "Names like London and Paris didn't turn up in our accounts of earlier trips." Not much fun there. I tried to think of other popular capitals. Rome and Cairo? Athens and Bangkok? No better. Maybe alliteration would help—readers enjoy any effort to gratify their sense of rhythm and cadence. Madrid and Moscow? Tel Aviv and Tokyo? Too tricky. I stopped thinking of capitals and tried to think of tourist-infested cities. Venice popped into my head and I was glad to see it; everybody goes to Venice. Did any other cities begin with V? Only Vienna, which was too close to Venice in several respects. Finally I shifted my thinking from tourist cities
+>>>

@@ -1,0 +1,107 @@
+{
+  "book_id": "the-mom-test",
+  "title": "The Mom Test",
+  "book_dir": "/Users/sachin/books/files/The Mom Test",
+  "chapter_count": 11,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-contents",
+      "index": 1,
+      "title": "Contents",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/01 - Contents.txt",
+      "start_page": 2,
+      "end_page": 2,
+      "char_count": 300
+    },
+    {
+      "chapter_id": "chapter-02-introduction",
+      "index": 2,
+      "title": "Introduction",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/02 - Introduction.txt",
+      "start_page": 3,
+      "end_page": 7,
+      "char_count": 7103
+    },
+    {
+      "chapter_id": "chapter-03-the-mom-test",
+      "index": 3,
+      "title": "The Mom Test",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/03 - The Mom Test.txt",
+      "start_page": 8,
+      "end_page": 22,
+      "char_count": 22104
+    },
+    {
+      "chapter_id": "chapter-04-avoiding-bad-data",
+      "index": 4,
+      "title": "Avoiding bad data",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/04 - Avoiding bad data.txt",
+      "start_page": 23,
+      "end_page": 40,
+      "char_count": 27589
+    },
+    {
+      "chapter_id": "chapter-05-asking-important-questions",
+      "index": 5,
+      "title": "Asking important questions",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/05 - Asking important questions.txt",
+      "start_page": 41,
+      "end_page": 55,
+      "char_count": 27081
+    },
+    {
+      "chapter_id": "chapter-06-keeping-it-casual",
+      "index": 6,
+      "title": "Keeping it casual",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/06 - Keeping it casual.txt",
+      "start_page": 56,
+      "end_page": 61,
+      "char_count": 10694
+    },
+    {
+      "chapter_id": "chapter-07-commitment-and-advancement",
+      "index": 7,
+      "title": "Commitment and advancement",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/07 - Commitment and advancement.txt",
+      "start_page": 62,
+      "end_page": 73,
+      "char_count": 16488
+    },
+    {
+      "chapter_id": "chapter-08-finding-conversations",
+      "index": 8,
+      "title": "Finding conversations",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/08 - Finding conversations.txt",
+      "start_page": 74,
+      "end_page": 88,
+      "char_count": 23690
+    },
+    {
+      "chapter_id": "chapter-09-choosing-your-customers",
+      "index": 9,
+      "title": "Choosing your customers",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/09 - Choosing your customers.txt",
+      "start_page": 89,
+      "end_page": 98,
+      "char_count": 17185
+    },
+    {
+      "chapter_id": "chapter-10-running-the-process",
+      "index": 10,
+      "title": "Running the process",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/10 - Running the process.txt",
+      "start_page": 99,
+      "end_page": 113,
+      "char_count": 23571
+    },
+    {
+      "chapter_id": "chapter-11-conclusion-and-cheatsheet",
+      "index": 11,
+      "title": "Conclusion and cheatsheet",
+      "path": "/Users/sachin/books/files/The Mom Test/chapters/11 - Conclusion and cheatsheet.txt",
+      "start_page": 114,
+      "end_page": 120,
+      "char_count": 8046
+    }
+  ]
+}

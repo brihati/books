@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-10-find-the-black-swan",
+  "chunk_id": "chapter-10-find-the-black-swan-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 10 | FIND THE BLACK SWAN",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+    "source_pages": "281-322",
+    "char_start": 6287,
+    "char_end": 13987,
+    "checksum": "3e9d849f8575d089"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+of law enforcement a service by highlighting this event and he told me and a room full of agents the story of that horrible June day during a training session at Quantico. It was an introduction to the suicide-by-cop phenomenon—when an individual deliberately creates a crisis situation to provoke a lethal response from law enforcement—but there was an even greater lesson at stake: the point of the story then, and now, was how important it is to recognize the unexpected to make sure things like Moore’s death never happen again. On that day in June 1981, O’Brien kept calling the bank, but each time the bank employee who answered quickly hung up. It was at that moment they should have realized
+
+the situation was outside the known. Hostage-takers always talked because they always had demands; they always wanted to be heard, respected, and paid. But this guy didn’t. Then, midway through the standoff, a police officer entered the command post with the news that a double homicide with a third person critically wounded had been reported a few blocks away. “Do we need to know this?” Van Zandt said. “Is there a connection?” No one knew or found out in time. If they had, they might have uncovered a second Black Swan: that Griffin had already killed several people without making monetary demands. And then, a few hours in, the hostage-taker had one of the hostages read a note to the police over the phone. Curiously, there were no demands. Instead, it was a rambling diatribe about Griffin’s life and the wrongs he’d endured. The note was so long and unfocused it was never read in its entirety. Because of this, one important line— another Black Swan—wasn’t registered: “. . . after the police take my life . . .” Because these Black Swans weren’t uncovered, Van Zandt and his colleagues never saw the situation for what it was: Griffin wanted to die, and he wanted the police to do it for him. Nothing like this—a shootout on a deadline?—had ever happened to the FBI, so they tried to fit the information into what had happened in the past. Into the old templates. They wondered, What does he actually want? After scaring them for a bit, they expected Griffin to pick up the phone and start a dialogue. No one gets killed on deadline. Or so they thought. UNCOVERING UNKNOWN UNKNOWNS The lesson of what happened at 3 p.m. on June 17, 1981, in Rochester, New York, was that when bits and pieces of a case don’t add up it’s usually because our frames of reference are off; they will never add up unless we break free of our expectations. Every case is new. We must let what we know—our known knowns—guide us but not blind us to what we do not know; we must remain flexible and adaptable to any situation; we must always retain a beginner’s mind; and we must never overvalue our experience or undervalue the informational and emotional realities served up moment by moment in whatever situation we face. But those were not the only important lessons of that tragic event. If an overreliance on known knowns can shackle a negotiator to assumptions that prevent him from seeing and hearing all that a situation presents, then perhaps an enhanced receptivity to the unknown unknowns can free that same negotiator to see and hear the things that can produce dramatic breakthroughs. From the moment I heard the tale of June 17, 1981, I realized that I had to completely change how I approached negotiating. I began to hypothesize that in every negotiation each side is in possession of at least three Black Swans, three pieces of information that, were they to be discovered by the other side, would change everything. My experience since has proven this to be true. Now, I should note here that this is not just a small tweak to negotiation technique. It is not coincidence that I embraced Black Swan as the name of my company and the symbol of our approach. Finding and acting on Black Swans mandates a shift in your mindset. It takes negotiation from being a one- dimensional move-countermove game of checkers to a three-dimensional game that’s more emotional, adaptive, intuitive . . . and truly effective. Finding Blacks Swans is no easy task, of course. We are all to some degree blind. We do not know what is around the corner until we turn it. By definition we do not know what we don’t know. That’s why I say that finding and understanding Black Swans requires a change of mindset. You have to open up your established pathways and embrace more intuitive and nuanced ways of listening. This is vital to people of all walks of life, from negotiators to inventors and marketers. What you don’t know can kill you, or your deal. But to find it out is incredibly difficult. The most basic challenge is that people don’t know the questions to ask the customer, the user . . . the counterpart. Unless correctly interrogated, most people aren’t able to articulate the information you want. The world didn’t tell Steve Jobs that it wanted an iPad: he uncovered our need, that Black Swan, without us knowing the information was there. The problem is that conventional questioning and research techniques are designed to confirm known knowns and reduce uncertainty. They don’t dig into the unknown. Negotiations will always suffer from limited predictability. Your counterpart might tell you, “It’s a lovely plot of land,” without mentioning that it is also a Superfund site. They’ll say, “Are the neighbors noisy? Well, everyone makes a bit of noise, don’t they?” when the actual fact is that a heavy metal band practices there nightly. It is the person best able to unearth, adapt to, and exploit the unknowns that will come out on top. To uncover these unknowns, we must interrogate our world, must put out a call, and intensely listen to the response. Ask lots of questions. Read nonverbal clues and always voice your observations with your counterpart. This is nothing beyond what you’ve been learning up to now. It is merely more intense and intuitive. You have to feel for the truth behind the camouflage; you have to note the small pauses that suggest discomfort and lies. Don’t look to verify what you expect. If you do, that’s what you’ll find. Instead, you must open yourself up to the factual reality that is in front of you. This is why my company changed its format for preparing and engaging in a negotiation. No matter how much research our team has done prior to the interaction, we always ask ourselves, “Why are they communicating what they are communicating right now?” Remember, negotiation is more like walking on a tightrope than competing against an opponent. Focusing so much on the end objective will only distract you from the next step, and that can cause you to fall off the rope. Concentrate on the next step because the rope will lead you to the end as long as all the steps are completed. Most people expect that Black Swans are highly proprietary or closely guarded information, when in fact the information may seem completely innocuous. Either side may be completely oblivious to its importance. Your counterpart always has pieces of information whose value they do not understand. THE THREE TYPES OF LEVERAGE I’m going to come back to specific techniques for uncovering Black Swans, but first I’d like to examine what makes them so useful. The answer is leverage. Black Swans are leverage multipliers. They give you the upper hand. Now, “leverage” is the magic word, but it’s also one of those concepts that negotiation experts casually throw about but rarely delve into, so I’d like to do so here. In theory, leverage is the ability to inflict loss and withhold gain. Where does your counterpart want to gain and what do they fear losing? Discover these pieces of
+>>>

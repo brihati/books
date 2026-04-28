@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-05-part-i-principles",
+  "chunk_id": "chapter-05-part-i-principles-chunk-004",
+  "source": {
+    "chapter_title": "Part I – Principles",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+    "source_pages": "15-60",
+    "char_start": 20253,
+    "char_end": 27933,
+    "checksum": "2c678ead23bda941"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+of saying "at this juncture of maturization" to mean "now." He told the American people that terrorism could be fought with "meaningful sanctionary teeth" and that intermediate nuclear missiles were "at the vortex of cruciality." As for any worries that the public might harbor, his message was "leave it to Al," though what he actually said was: "We must push this to a lower decibel of public fixation. I don't 16 ON WRITING WELL think there's much of a learning curve to be achieved in this area of content." I could go on quoting examples from various fields—every profession has its growing arsenal of jargon to throw dust in the eyes of the populace. But the list would be tedious. The point of
+
+raising it now is to serve notice that clutter is the enemy. Beware, then, of the long word that's no better than the short word: "assis- tance" (help), "numerous" (many), "facilitate" (ease), "individual" (man or woman), "remainder" (rest), "initial" (first), "implement" (do), "sufficient" (enough), "attempt" (try), "referred to as" (called) and hundreds more. Beware of all the slippery new fad words: paradigm and parameter, prioritize and potentialize. They are all weeds that will smother what you write. Don't dialogue with someone you can talk to. Don't interface with anybody. Just as insidious are all the word clusters with which we explain how we propose to go about our explaining: "I might add," "It should be pointed out," "It is interesting to note." If you might add, add it. If it should be pointed out, point it out. If it is interesting to note, make it interesting; are we not all stupe- fied by what follows when someone says, "This will interest you"? Don't inflate what needs no inflating: "with the possible exception of" (except), "due to the fact that" (because), "he totally lacked the ability to" (he couldn't), "until such time as" (until), "for the purpose of" (for). Is there any way to recognize clutter at a glance? Here's a device my students at Yale found helpful. I would put brackets around every component in a piece of writing that wasn't doing useful work. Often just one word got bracketed: the unnecessary preposition appended to a verb ("order up"), or the adverb that carries the same meaning as the verb ("smile happily"), or the adjective that states a known fact ("tall skyscraper"). Often my brackets surrounded the little qualifiers that weaken any sen- tence they inhabit ("a bit," "sort of), or phrases like "in a sense," which don't mean anything. Sometimes my brackets surrounded Clutter 17 an entire sentence—the one that essentially repeats what the previous sentence said, or that says something readers don't need to know or can figure out for themselves. Most first drafts can be cut by 50 percent without losing any information or los- ing the authors voice. My reason for bracketing the students' superfluous words, instead of crossing them out, was to avoid violating their sacred prose. I wanted to leave the sentence intact for them to analyze. I was saying, "I may be wrong, but I think this can be deleted and the meaning won't be affected. But you decide. Read the sentence without the bracketed material and see if it works." In the early weeks of the term I handed back papers that were fes- tooned with brackets. Entire paragraphs were bracketed. But soon the students learned to put mental brackets around their own clutter, and by the end of the term their papers were almost clean. Today many of those students are professional writers, and they tell me, "I still see your brackets—they're fol- lowing me through life." You can develop the same eye. Look for the clutter in your writing and prune it ruthlessly. Be grateful for everything you can throw away. Reexamine each sentence you put on paper. Is every word doing new work? Can any thought be expressed with more economy? Is anything pompous or pretentious or faddish? Are you hanging on to something useless just because you think it's beautiful? Simplify, simplify. QSSSO Style So much for early warnings about the bloated monsters that lie in ambush for the writer trying to put together a clean English sentence. "But," you may say, "if I eliminate everything you think is clutter and if I strip every sentence to its barest bones, will there be anything left of me?" The question is a fair one; simplicity carried to an extreme might seem to point to a style little more sophisticated than "Dick likes Jane" and "See Spot run." I'll answer the question first on the level of carpentry. Then I'll get to the larger issue of who the writer is and how to pre- serve his or her identity. Few people realize how badly they write. Nobody has shown them how much excess or murkiness has crept into their style and how it obstructs what they are trying to say. If you give me an eight-page article and I tell you to cut it to four pages, you'll howl and say it can't be done. Then you'll go home and do it, and it will be much better. After that comes the hard part: cut- ting it to three. Style 19 The point is that you have to strip your writing down before you can build it back up. You must know what the essential tools are and what job they were designed to do. Extending the metaphor of carpentry, it's first necessary to be able to saw wood neatly and to drive nails. Later you can bevel the edges or add elegant finials, if that's your taste. But you can never forget that you are practicing a craft that's based on certain principles. If the nails are weak, your house will collapse. If your verbs are weak and your syntax is rickety, your sentences will fall apart. I'll admit that certain nonfiction writers, like Tom Wolfe and Norman Mailer, have built some remarkable houses. But these are writers who spent years learning their craft, and when at last they raised their fanciful turrets and hanging gardens, to the surprise of all of us who never dreamed of such ornamentation, they knew what they were doing. Nobody becomes Tom Wolfe overnight, not even Tom Wolfe. First, then, learn to hammer the nails, and if what you build is sturdy and serviceable, take satisfaction in its plain strength. But you will be impatient to find a "style"—to embellish the plain words so that readers will recognize you as someone spe- cial. You will reach for gaudy similes and tinseled adjectives, as if "style" were something you could buy at the style store and drape onto your words in bright decorator colors. (Decorator colors are the colors that decorators come in.) There is no style store; style is organic to the person doing the writing, as much a part of him as his hair, or, if he is bald, his lack of it. Trying to add style is like adding a toupee. At first glance the formerly bald man looks young and even handsome. But at second glance—and with a toupee there's always a second glance—he doesn't look quite right. The problem is not that he doesn't look well groomed; he does, and we can only admire the wigmaker's skill. The point is that he doesn't look like himself. This is the problem of writers who set out deliberately to garnish their prose. You lose whatever it ià that makes you 20 ON WRITING WELL unique. The reader will notice if you are putting on airs. Read- ers want the person who is talking to them to sound genuine. Therefore a fundamental rule is: be yourself. No rule, however, is harder to follow. It requires writers to do two things that by their metabolism are impossible. They must relax, and they must have confidence. Telling a writer to relax is like telling a man to relax while being examined for a hernia, and as for confidence, see how stiffly he sits, glaring at the screen that awaits his words. See
+>>>

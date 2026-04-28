@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-05-part-i-principles",
+  "chunk_id": "chapter-05-part-i-principles-chunk-010",
+  "source": {
+    "chapter_title": "Part I – Principles",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+    "source_pages": "15-60",
+    "char_start": 55218,
+    "char_end": 62897,
+    "checksum": "e51a31ae99cb3dc6"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ip of your tongue, where it doesn't do you any good. The Thesaurus is to the writer what a rhyming dictionary is to the songwriter—a reminder of all the choices—and you should use it with grati- tude. If, having found the scalawag and the scapegrace, you want to know how they differ, then go to the dictionary. Also bear in mind, when you're choosing words and stringing them together, how they sound. This may seem absurd: readers read with their eyes. But in fact they hear what they are reading far more than you realize. Therefore such matters as rhythm and alliteration are vital to every sentence. A typical example— maybe not the best, but undeniably the nearest—is the preced- ing paragraph.
+
+Obviously I enjoyed making a certain arrange- ment of my ruffians and riffraff, my hooligans and hoodlums, and my readers enjoyed it too—far more than if I had provided a mere list. They enjoyed not only the arrangement but the effort to entertain them. They weren't enjoying it, however, with their eyes. They were hearing the words in their inner ear. E. B. White makes the case cogently in The Elements of Style, a book every writer should read once a year, when he sug- gests trying to rearrange any phrase that has survived for a cen- Words 37 tury or two, such as Thomas Paine s "These are the times that try men's souls": Times like these try men's souls. How trying it is to live in these times! These are trying times for men's souls. Soulwise, these are trying times. Paine s phrase is like poetry and the other four are like oat- meal—which is the divine mystery of the creative process. Good writers of prose must be part poet, always listening to what they write. E. B. White is one of my favorite stylists because I'm con- scious of being with a man who cares about the cadences and sonorities of the language. I relish (in my ear) the pattern his words make as they fall into a sentence. I try to surmise how in rewriting the sentence he reassembled it to end with a phrase that will momentarily linger, or how he chose one word over another because he was after a certain emotional weight. It's the difference between, say, "serene" and "tranquil"—one so soft, the other strangely disturbing because of the unusual n and q. Such considerations of sound and rhythm should be woven through everything you write. If all your sentences move at the same plodding gait, which even you recognize as deadly but don't know how to cure, read them aloud. (I write entirely by ear and read everything aloud before letting it go out into the world.) You'll begin to hear where the trouble lies. See if you can gain variety by reversing the order of a sentence, or by sub- stituting a word that has freshness or oddity, or by altering the length of your sentences so they don't all sound as if they came out of the same mold. An occasional short sentence can carry a tremendous punch. It stays in the reader's ear. Remember that words are the only tools you've got. Learn to use them with originality and care. And also remember: some- body out there is listening. CSSSO Usage All this talk about good words and bad words brings us to a gray but important area called "usage." What is good usage? What is good English? What newly minted words is it O.K. to use, and who is to be the judge? Is it O.K. to use "O.K."? Earlier I mentioned an incident of college students hassling the administration, and in the last chapter I described myself as a word freak. Here are two fairly recent arrivals. "Hassle" is both a verb and a noun, meaning to give somebody a hard time, or the act of being given a hard time, and anyone who has ever been hassled for not properly filling out Form 35-BX will agree that the word sounds exactly right. "Freak" means an enthusiast, and there's no missing the aura of obsession that goes with call- ing someone a jazz freak, or a chess freak, or a sun freak, though it would probably be pushing my luck to describe a man who compulsively visits circus sideshows as a freak freak. Anyway, I accept these two usages gladly. I don't consider them slang, or put quotation marks around them to show that I'm mucking about in the argot of the youth culture and really Usage 39 know better. They're good words and we need them. But I won't accept "notables" and "greats" and "upcoming" and many other newcomers. They are cheap words and we don't need them. Why is one word good and another word cheap? I can't give you an answer, because usage has no fixed boundaries. Lan- guage is a fabric that changes from one week to another, adding new strands and dropping old ones, and even word freaks fight over what is allowable, often reaching their decision on a wholly subjective basis such as taste ("notables" is sleazy). Which still leaves the question of who our tastemakers are. The question was confronted by the editors of a brand-new dictionary, The American Heritage Dictionary, at the outset of their task in the mid-1960s. They assembled a "Usage Panel" to help them appraise the new words and dubious constructions that had come knocking at the door. Which ones should be ush- ered in, which thrown out on their ear? The panel consisted of 104 men and women—mostly writers, poets, editors and teach- ers—who were known for caring about the language and trying to use it well. I was a member of the panel, and over the next few years I kept getting questionnaires. Would I accept "final- ize" and "escalate"? How did I feel about "It's me"? Would I allow "like" to be used as a conjunction—like so many people do? How about "mighty," as in "mighty fine"? We were told that in the dictionary our opinions would be tab- ulated in a separate "Usage Note," so that readers could see how we voted. The questionnaire also left room for any comments we might feel impelled to make—a chance that the panelists seized avidly, as we found when the dictionary was published and our comments were released to the press. Passions ran high. "Good God, no! Never!" cried Barbara W. Tuchman, asked about the verb "to author." Scholarship hath no fury like that of a language purist faced with sludge, and I shared Tuchman's vow that "author" should never be authorized, just as I agreed with Lewis 40 ON WRITING WELL Mumford that the adverb "good" should be "left as the exclusive property of Ernest Hemingway." But guardians of usage are doing only half their job if they merely keep the language from becoming sloppy. Any dolt can rule that the suffix "wise," as in "healthwise," is doltwise, or that being "rather unique" is no more possible than being rather pregnant. The other half of the job is to help the language grow by welcoming any immigrant that will bring strength or color. Therefore I was glad that 97 percent of us voted to admit "dropout," which is clean and vivid, but that only 47 percent would accept "senior citizen," which is typical of the pudgy new intruders from the land of sociology, where an illegal alien is now an undocumented resident. I'm glad we accepted "esca- late," the kind of verbal contraption I generally dislike but which the Vietnam war endowed with a precise meaning, complete with overtones of blunder. I'm glad we took into full membership all sorts of robust words that previous dictionaries derided as "colloquial": adjec- tives like "rambunctious," verbs like "trigger" and "rile," nouns like "shambles" and "tycoon" and "trek," the latter approved by 78 percent to mean any difficult trip, as in "the commuter's daily trek to Manhattan." Originally it was a Cape Dutch word applied to the Boers' arduous journey by ox wagon. But our panel evidently felt that the Manhattan commuters daily trek is no less arduous.
+>>>

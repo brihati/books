@@ -1,0 +1,98 @@
+{
+  "book_id": "on-writing-well",
+  "title": "On Writing Well",
+  "book_dir": "/Users/sachin/books/files/On Writing Well",
+  "chapter_count": 10,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-cover",
+      "index": 1,
+      "title": "Cover",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/01 - Cover.txt",
+      "start_page": 1,
+      "end_page": 7,
+      "char_count": 1037
+    },
+    {
+      "chapter_id": "chapter-02-copyright-page",
+      "index": 2,
+      "title": "Copyright page",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/02 - Copyright page.txt",
+      "start_page": 8,
+      "end_page": 8,
+      "char_count": 1209
+    },
+    {
+      "chapter_id": "chapter-03-contents",
+      "index": 3,
+      "title": "Contents",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/03 - Contents.txt",
+      "start_page": 9,
+      "end_page": 10,
+      "char_count": 788
+    },
+    {
+      "chapter_id": "chapter-04-introduction",
+      "index": 4,
+      "title": "Introduction",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/04 - Introduction.txt",
+      "start_page": 11,
+      "end_page": 14,
+      "char_count": 6934
+    },
+    {
+      "chapter_id": "chapter-05-part-i-principles",
+      "index": 5,
+      "title": "Part I – Principles",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+      "start_page": 15,
+      "end_page": 60,
+      "char_count": 73988
+    },
+    {
+      "chapter_id": "chapter-06-part-ii-methods",
+      "index": 6,
+      "title": "Part II – Methods",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/06 - Part II Methods.txt",
+      "start_page": 61,
+      "end_page": 106,
+      "char_count": 78692
+    },
+    {
+      "chapter_id": "chapter-07-part-iii-forms",
+      "index": 7,
+      "title": "Part III – Forms",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/07 - Part III Forms.txt",
+      "start_page": 107,
+      "end_page": 244,
+      "char_count": 242815
+    },
+    {
+      "chapter_id": "chapter-08-part-iv-attitudes",
+      "index": 8,
+      "title": "Part IV – Attitudes",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+      "start_page": 245,
+      "end_page": 308,
+      "char_count": 111844
+    },
+    {
+      "chapter_id": "chapter-09-sources",
+      "index": 9,
+      "title": "Sources",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/09 - Sources.txt",
+      "start_page": 309,
+      "end_page": 314,
+      "char_count": 7432
+    },
+    {
+      "chapter_id": "chapter-10-index",
+      "index": 10,
+      "title": "Index",
+      "path": "/Users/sachin/books/files/On Writing Well/chapters/10 - Index.txt",
+      "start_page": 315,
+      "end_page": 322,
+      "char_count": 14470
+    }
+  ]
+}

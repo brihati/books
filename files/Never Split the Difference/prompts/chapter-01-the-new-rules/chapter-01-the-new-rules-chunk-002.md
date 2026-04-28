@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-01-the-new-rules",
+  "chunk_id": "chapter-01-the-new-rules-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 1 | THE NEW RULES",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/01 - CHAPTER 1 THE NEW RULES.txt",
+    "source_pages": "8-35",
+    "char_start": 6295,
+    "char_end": 13976,
+    "checksum": "f7c878c96301be8e"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+and sharing stories of what succeeded and what failed. It was an iterative process, not an intellectual one, as we refined the tools we used day after day. And it was urgent. Our tools had to work, because if they didn’t someone died. But why did they work? That was the question that drew me to Harvard, to that office with Mnookin and Blum. I lacked confidence outside my narrow world. Most of all, I needed to articulate my knowledge and learn how to combine it with theirs—and they clearly had some—so I could understand, systematize, and expand it. Yes, our techniques clearly worked with mercenaries, drug dealers, terrorists, and brutal killers. But, I wondered, what about with normal humans?
+
+As I’d soon discover in the storied halls of Harvard, our techniques made great sense intellectually, and they worked everywhere. It turned out that our approach to negotiation held the keys to unlock profitable human interactions in every domain and every interaction and every relationship in life. This book is how it works. THE SMARTEST DUMB GUY IN THE ROOM To answer my questions, a year later, in 2006, I talked my way into Harvard Law School’s Winter Negotiation Course. The best and brightest compete to get into this class, and it was filled with brilliant Harvard students getting law and business degrees and hotshot students from other top Boston universities like the Massachusetts Institute of Technology and Tufts. The Olympic trials for negotiating. And I was the only outsider. The first day of the course, all 144 of us piled into a lecture hall for an introduction and then we split into four groups, each led by a negotiation instructor. After we’d had a chat with our instructor—mine was named Sheila Heen, and she’s a good buddy to this day—we were partnered off in pairs and sent into mock negotiations. Simple: one of us was selling a product, the other was the buyer, and each had clear limits on the price they could take. My counterpart was a languid redhead named Andy (a pseudonym), one of those guys who wear their intellectual superiority like they wear their khakis: with relaxed confidence. He and I went into an empty classroom overlooking one of those English-style squares on Harvard’s campus, and we each used the tools we had. Andy would throw out an offer and give a rationally airtight explanation for why it was a good one—an inescapable logic trap—and I’d answer with some variation of “How am I supposed to do that?” We did this a bunch of times until we got to a final figure. When we left, I was happy. I thought I’d done pretty well for a dumb guy. After we all regrouped in the classroom, Sheila went around the students and asked what price each group had agreed on, and then wrote the result on the board. Finally, it was my turn. “Chris, how did you do with Andy?” she asked. “How much did you get?” I’ll never forget Sheila’s expression when I told her what Andy had agreed to pay. Her whole face first went red, as if she couldn’t breathe, and then out popped a little strangled gasp like a baby bird’s hungry cry. Finally, she started to laugh. Andy squirmed. “You got literally every dime he had,” she said, “and in his brief he was supposed to hold a quarter of it back in reserve for future work.” Andy sank deep in his chair. The next day the same thing happened with another partner. I mean, I absolutely destroyed the guy’s budget. It didn’t make sense. A lucky one-off was one thing. But this was a pattern. With my old-school, experiential knowledge, I was killing guys who knew every cutting-edge trick you could find in a book. The thing was, it was the cutting-edge techniques these guys were using that felt dated and old. I felt like I was Roger Federer and I had used a time machine to go back to the 1920s to play in a tennis tournament of distinguished gentlemen who wore white pantsuits and used wood rackets and had part-time training regimens. There I was with my titanium alloy racket and dedicated personal trainer and computer-strategized serve-and-volley plays. The guys I was playing were just as smart—actually, more so—and we were basically playing the same game with the same rules. But I had skills they didn’t. “You’re getting famous for your special style, Chris,” Sheila said, after I announced my second day’s results. I smiled like the Cheshire cat. Winning was fun. “Chris, why don’t you tell everybody your approach,” Sheila said. “It seems like all you do to these Harvard Law School students is say ‘No’ and stare at them, and they fall apart. Is it really that easy?” I knew what she meant: While I wasn’t actually saying “No,” the questions I kept asking sounded like it. They seemed to insinuate that the other side was being dishonest and unfair. And that was enough to make them falter and negotiate with themselves. Answering my calibrated questions demanded deep emotional strengths and tactical psychological insights that the toolbox they’d been given did not contain. I shrugged. “I’m just asking questions,” I said. “It’s a passive- aggressive approach. I just ask the same three or four open- ended questions over and over and over and over. They get worn out answering and give me everything I want.” Andy jumped in his seat as if he’d been stung by a bee. “Damn!” he said. “That’s what happened. I had no idea.” By the time I’d finished my winter course at Harvard, I’d actually become friends with some of my fellow students. Even with Andy. If my time at Harvard showed me anything, it was that we at the FBI had a lot to teach the world about negotiating. In my short stay I realized that without a deep understanding of human psychology, without the acceptance that we are all crazy, irrational, impulsive, emotionally driven animals, all the raw intelligence and mathematical logic in the world is little help in the fraught, shifting interplay of two people negotiating. Yes, perhaps we are the only animal that haggles—a monkey does not exchange a portion of his banana for another’s nuts—but no matter how we dress up our negotiations in mathematical theories, we are always an animal, always acting and reacting first and foremost from our deeply held but mostly invisible and inchoate fears, needs, perceptions, and desires. That’s not how these folks at Harvard learned it, though. Their theories and techniques all had to do with intellectual power, logic, authoritative acronyms like BATNA and ZOPA, rational notions of value, and a moral concept of what was fair and what was not. And built on top of this false edifice of rationality was, of course, process. They had a script to follow, a predetermined sequence of actions, offers, and counteroffers designed in a specific order to bring about a particular outcome. It was as if they were dealing with a robot, that if you did a, b, c, and d in a certain fixed order, you would get x. But in the real world negotiation is far too unpredictable and complex for that. You may have to do a then d, and then maybe q. If I could dominate the country’s brightest students with just one of the many emotionally attuned negotiating techniques I had developed and used against terrorists and kidnappers, why not apply them to business? What was the difference between bank robbers who took hostages and CEOs who used hardball tactics to drive down the price of a billion-dollar acquisition? After all, kidnappers are just businessmen trying to get the best price. OLD-SCHOOL NEGOTIATION Hostage taking—and therefore hostage negotiating—has existed since the dawn of recorded time. The Old Testament spins plenty of tales of Israelites and their enemies taking each other’s citizens hostage as spoils of war. The Romans,
+>>>

@@ -1,0 +1,58 @@
+{
+  "book_id": "on-writing-well",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 87,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-cover",
+      "title": "Cover",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-copyright-page",
+      "title": "Copyright page",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-03-contents",
+      "title": "Contents",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-04-introduction",
+      "title": "Introduction",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-05-part-i-principles",
+      "title": "Part I – Principles",
+      "chunk_count": 12
+    },
+    {
+      "chapter_id": "chapter-06-part-ii-methods",
+      "title": "Part II – Methods",
+      "chunk_count": 14
+    },
+    {
+      "chapter_id": "chapter-07-part-iii-forms",
+      "title": "Part III – Forms",
+      "chunk_count": 35
+    },
+    {
+      "chapter_id": "chapter-08-part-iv-attitudes",
+      "title": "Part IV – Attitudes",
+      "chunk_count": 17
+    },
+    {
+      "chapter_id": "chapter-09-sources",
+      "title": "Sources",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-10-index",
+      "title": "Index",
+      "chunk_count": 3
+    }
+  ]
+}

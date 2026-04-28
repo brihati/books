@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-05-part-i-principles",
+  "chunk_id": "chapter-05-part-i-principles-chunk-005",
+  "source": {
+    "chapter_title": "Part I – Principles",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+    "source_pages": "15-60",
+    "char_start": 27233,
+    "char_end": 34934,
+    "checksum": "0f89ce75ef2decc6"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s that he doesn't look like himself. This is the problem of writers who set out deliberately to garnish their prose. You lose whatever it ià that makes you 20 ON WRITING WELL unique. The reader will notice if you are putting on airs. Read- ers want the person who is talking to them to sound genuine. Therefore a fundamental rule is: be yourself. No rule, however, is harder to follow. It requires writers to do two things that by their metabolism are impossible. They must relax, and they must have confidence. Telling a writer to relax is like telling a man to relax while being examined for a hernia, and as for confidence, see how stiffly he sits, glaring at the screen that awaits his words. See
+
+how often he gets up to look for something to eat or drink. A writer will do anything to avoid the act of writing. I can testify from my newspaper days that the number of trips to the water cooler per reporter-hour far exceeds the body's need for fluids. What can be done to put the writer out of these miseries? Unfortunately, no cure has been found. I can only offer the con- soling thought that you are not alone. Some days will go better than others. Some will go so badly that you'll despair of ever writing again. We have all had many of those days and will have many more. Still, it would be nice to keep the bad days to a minimum, which brings me back to the problem of trying to relax. Assume that you are the writer sitting down to write. You think your article must be of a certain length or it won't seem important. You think how august it will look in print. You think of all the people who will read it. You think that it must have the solid weight of authority. You think that its style must dazzle. No wonder you tighten; you are so busy thinking of your awesome responsibility to the finished article that you can't even start. Yet you vow to be worthy of the task, and, casting about for grand phrases that wouldn't occur to you if you weren't trying so hard to make an impression, you plunge in. Paragraph 1 is a disaster—a tissue of generalities that seem to have come out of a machine. No person could have written them. Paragraph 2 isn't much better. But Paragraph 3 begins to Style 21 have a somewhat human quality, and by Paragraph 4 you begin to sound like yourself. You've started to relax. It s amazing how often an editor can throw away the first three or four paragraphs of an article, or even the first few pages, and start with the para- graph where the writer begins to sound like himself or herself. Not only are those first paragraphs impersonal and ornate; they don't say anything—they are a self-conscious attempt at a fancy introduction. What I'm always looking for as an editor is a sen- tence that says something like "I'll never forget the day when I . . . " I think, "Aha! A person!" Writers are obviously at their most natural when they write in the first person. Writing is an intimate transaction between two people, conducted on paper, and it will go well to the extent that it retains its humanity. Therefore I urge people to write in the first person: to use "I" and "me" and "we" and "us." They put up a fight. "Who am I to say what 7 think?" they ask. "Or what / feel?" "Who are you not to say what you think?" I tell them. "There's only one you. Nobody else thinks or feels in exactly the same way." "But nobody cares about my opinions," they say. "It would make me feel conspicuous." "They'll care if you tell them something interesting," I say, "and tell them in words that come naturally." Nevertheless, getting writers to use "I" is seldom easy. They think they must earn the right to reveal their emotions or their thoughts. Or that it's egotistical. Or that it's undignified—a fear that afflicts the academic world. Hence the professorial use of "one" ("One finds oneself not wholly in accord with Dr. Maltby s view of the human condition"), or of the impersonal "it is" ("It is to be hoped that Professor Felt's monograph will find the wider audience it most assuredly deserves"). I don't want to meet "one"—he's a boring guy. I want a professor with a passion for his subject to tell me why it fascinates him. 22 ON WRITING WELL I realize that there are vast regions of writing where "I" isn't allowed. Newspapers don't want "I" in their news stories; many magazines don't want it in their articles; businesses and institu- tions don't want it in the reports they send so profusely into the American home; colleges don't want "I" in their term papers or dissertations, and English teachers discourage any first-person pronoun except the literary "we" ("We see in Melville's symbolic use of the white whale. . . "). Many of those prohibitions are valid. Newspaper articles should consist of news, reported objectively. I also sympathize with teachers who don't want to give students an easy escape into opinion—"I think Hamlet was stupid"—before they have grappled with the discipline of assessing a work on its merits and on external sources. "I" can be a self-indulgence and a cop-out. Still, we have become a society fearful of revealing who we are. The institutions that seek our support by sending us their brochures sound remarkably alike, though surely all of them— hospitals, schools, libraries, museums, zoos—were founded and are still sustained by men and women with different dreams and visions. Where are these people? It's hard to glimpse them among all the impersonal passive sentences that say "initiatives were undertaken" and "priorities have been identified." Even when "I" isn't permitted, it's still possible to convey a sense of I-ness. The political columnist James Reston didn't use "I" in his columns; yet I had a good idea of what kind of person he was, and I could say the same of many other essayists and reporters. Good writers are visible just behind their words. If you aren't allowed to use "I," at least think "I" while you write, or write the first draft in the first person and then take the "F's out. It will warm up your impersonal style. Style is tied to the psyche, and writing has deep psychologi- cal roots. The reasons why we express ourselves as we do, or fail to express ourselves because of "writer's block," are partly buried in the subconscious mind. There are as many kinds of Style 23 writers block as there are kinds of writers, and I have no inten- tion of trying to untangle them. This is a short book, and my name isn't Sigmund Freud. But I've also noticed a new reason for avoiding "I": Ameri- cans are unwilling to go out on a limb. A generation ago our leaders told us where they stood and what they believed. Today they perform strenuous verbal feats to escape that fate. Watch them wriggle through TV interviews without committing them- selves. I remember President Ford assuring a group of visiting businessmen that his fiscal policies would work. He said: "We see nothing but increasingly brighter clouds every month." I took this to mean that the clouds were still fairly dark. Ford's sentence was just vague enough to say nothing and still sedate his constituents. Later administrations brought no relief. Defense Secretary Caspar Weinberger, assessing a Polish crisis in 1984, said: "There's continuing ground for serious concern and the situation remains serious. The longer it remains serious, the more ground there is for serious concern." President Bush, questioned about his stand on assault rifles in 1989, said: "There are various groups that think you can ban certain kinds of guns. I am not in that mode. I am in the mode of being deeply concerned." But my all-time champ is Elliot Richardson, who held four major cabinet positions in the 1970s. It's hard to know where to
+>>>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book The Mom Test Coach"
+  short_description: "Practice The Mom Test with local preserved content."
+  default_prompt: "Use $book-the-mom-test-coach to practice The Mom Test with role-play, debriefs, and chapter-grounded coaching."

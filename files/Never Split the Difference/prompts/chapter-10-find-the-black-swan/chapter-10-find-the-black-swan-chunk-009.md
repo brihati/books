@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-10-find-the-black-swan",
+  "chunk_id": "chapter-10-find-the-black-swan-chunk-009",
+  "source": {
+    "chapter_title": "CHAPTER 10 | FIND THE BLACK SWAN",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+    "source_pages": "281-322",
+    "char_start": 48151,
+    "char_end": 55828,
+    "checksum": "062c35f314646a5f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+properties and used the moment to discuss pricing with his boss. He quickly gave him the green light to make a lowball offer—an extreme anchor—to try to yank the broker to his minimum. After quizzing the broker if the seller would be willing to close quickly, and getting a “yes,” my student set his anchor. “I think I have heard enough,” he said. “We are willing to offer $3.4 million.” “Okay,” the broker answered. “That is well below the asking price. However, I can bring the offer to the seller and see what he thinks.” Later that day, the broker came back with a counteroffer. The seller had told him that the number was too low, but he was willing to take $3.7 million. My student could barely
+
+keep from falling off his chair; the counteroffer was lower than his goal. But rather than jump at the amount—and risk leaving value on the table with a wimp-win deal—my student pushed further. He said “No” without using the word. “That is closer to what we believe the value to be,” he said, “but we cannot in good conscience pay more than $3.55 million.” (Later, my student told me—and I agreed—that he should have used a label or calibrated question here to push the broker to bid against himself. But he was so surprised by how far the price had dropped that he stumbled into old-school haggling.) “I am only authorized to go down to $3.6 million,” the broker answered, clearly showing that he’d never taken a negotiation class that taught the Ackerman model and how to pivot to terms to avoid the haggle. My student’s boss signaled to him that $3.6 million worked and he agreed to the price. I’ve teased several of the techniques my student used to effectively negotiate a great deal for his firm, from the use of labels and calibrated questions to the probing of constraints to unearth a beautiful Black Swan. It also bears noting that my student did tons of work beforehand and had prepared labels and questions so that he was ready to jump on the Black Swan when the broker offered it. Once he knew that the seller was trying to get money out of this building to pay off mortgages on the underperforming ones, he knew that timing was important. Of course, there’s always room for improvement. Afterward my student told me he wished he hadn’t lowballed the offer so quickly and instead used the opportunity to discuss the other properties. He might have found more investment opportunities within the seller’s portfolio. In addition, he could have potentially built more empathy and teased out more unknown unknowns with labels or calibrated questions like “What markets are you finding difficult right now?” Maybe even gotten face time with the seller directly. Still, well done! OVERCOMING FEAR AND LEARNING TO GET WHAT YOU WANT OUT OF LIFE People generally fear conflict, so they avoid useful arguments out of fear that the tone will escalate into personal attacks they cannot handle. People in close relationships often avoid making their own interests known and instead compromise across the board to avoid being perceived as greedy or self-interested. They fold, they grow bitter, and they grow apart. We’ve all heard of marriages that ended in divorce and the couple never fought. Families are just an extreme version of all parts of humanity, from government to business. Except for a few naturals, everyone hates negotiation at first. Your hands sweat, your fight-or-flight kicks in (with a strong emphasis o n flight), and your thoughts trip drunkenly over themselves. The natural first impulse for most of us is to chicken out, throw in the towel, run. The mere idea of tossing out an extreme anchor is traumatic. That’s why wimp-win deals are the norm in the kitchen and in the boardroom. But stop and think about that. Are we really afraid of the guy across the table? I can promise you that, with very few exceptions, he’s not going to reach across and slug you. No, our sweaty palms are just an expression of physiological fear, a few trigger-happy neurons firing because of something more base: our innate human desire to get along with other members of the tribe. It’s not the guy across the table who scares us: it’s conflict itself. If this book accomplishes only one thing, I hope it gets you over that fear of conflict and encourages you to navigate it with empathy. If you’re going to be great at anything—a great negotiator, a great manager, a great husband, a great wife—you’re going to have to do that. You’re going to have to ignore that little genie who’s telling you to give up, to just get along—as well as that other genie who’s telling you to lash out and yell. You’re going to have to embrace regular, thoughtful conflict as the basis of effective negotiation—and of life. Please remember that our emphasis throughout the book is that the adversary is the situation and that the person that you appear to be in conflict with is actually your partner. More than a little research has shown that genuine, honest conflict between people over their goals actually helps energize the problem-solving process in a collaborative way. Skilled negotiators have a talent for using conflict to keep the negotiation going without stumbling into a personal battle. Remember, pushing hard for what you believe is not selfish. It is not bullying. It is not just helping you. Your amygdala, the part of the brain that processes fear, will try to convince you to give up, to flee, because the other guy is right, or you’re being cruel. But if you are an honest, decent person looking for a reasonable outcome, you can ignore the amygdala. With the style of negotiation taught in the book—an information-obsessed, empathic search for the best possible deal—you are trying to uncover value, period. Not to strong-arm or to humiliate. When you ask calibrated questions, yes, you are leading your counterpart to your goals. But you are also leading them to examine and articulate what they want and why and how they can achieve it. You are demanding creativity of them, and therefore pushing them toward a collaborative solution. When I bought my red 4Runner, no doubt I disappointed the salesman by giving him a smaller payday than he would have liked. But I helped him reach his quota, and no doubt I paid more for the truck than the car lot had paid Toyota. If all I’d wanted was to “win,” to humiliate, I would have stolen the thing. And so I’m going to leave you with one request: Whether it’s in the office or around the family dinner table, don’t avoid honest, clear conflict. It will get you the best car price, the higher salary, and the largest donation. It will also save your marriage, your friendship, and your family. One can only be an exceptional negotiator, and a great person, by both listening and speaking clearly and empathetically; by treating counterparts—and oneself—with dignity and respect; and most of all by being honest about what one wants and what one can—and cannot—do. Every negotiation, every conversation, every moment of life, is a series of small conflicts that, managed well, can rise to creative beauty. Embrace them. KEY LESSONS What we don’t know can kill us or our deals. But uncovering it can totally change the course of a negotiation and bring us unexpected success. Finding the Black Swans—those powerful unknown unknowns—is intrinsically difficult, however, for the simple reason that we don’t know the questions to ask. Because we don’t know what the treasure is, we don’t know where to dig. Here are some of the best techniques for flushing out the Black Swans—and exploiting them. Remember, your counterpart might not even know how important the information is, or even that they shouldn’t reveal it. So keep
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-03-don-t-feel-their-pain-label-it",
+  "chunk_id": "chapter-03-don-t-feel-their-pain-label-it-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 3 | DON’T FEEL THEIR PAIN, LABEL IT",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+    "source_pages": "70-101",
+    "char_start": 13247,
+    "char_end": 20888,
+    "checksum": "a600c0eecccdb02f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+t . . .” That’s because the word “I” gets people’s guard up. When you say “I,” it says you’re more interested in yourself than the other person, and it makes you take personal responsibility for the words that follow—and the offense they might cause. But when you phrase a label as a neutral statement of understanding, it encourages your counterpart to be responsive. They’ll usually give a longer answer than just “yes” or “no.” And if they disagree with the label, that’s okay. You can always step back and say, “I didn’t say that was what it was. I just said it seems like that.” The last rule of labeling is silence. Once you’ve thrown out a label, be quiet and listen. We all have a tendency to
+
+expand on what we’ve said, to finish, “It seems like you like the way that shirt looks,” with a specific question like “Where did you get it?” But a label’s power is that it invites the other person to reveal himself. If you’ll trust me for a second, take a break now and try it out: Strike up a conversation and put a label on one of the other person’s emotions—it doesn’t matter if you’re talking to the mailman or your ten-year-old daughter—and then go silent. Let the label do its work. NEUTRALIZE THE NEGATIVE, REINFORCE THE POSITIVE Labeling is a tactic, not a strategy, in the same way a spoon is a great tool for stirring soup but it’s not a recipe. How you use labeling will go a long way in determining your success. Deployed well, it’s how we as negotiators identify and then slowly alter the inner voices of our counterpart’s consciousness to something more collaborative and trusting. First, let’s talk a little human psychology. In basic terms, people’s emotions have two levels: the “presenting” behavior is the part above the surface you can see and hear; beneath, the “underlying” feeling is what motivates the behavior. Imagine a grandfather who’s grumbly at a family holiday dinner: the presenting behavior is that he’s cranky, but the underlying emotion is a sad sense of loneliness from his family never seeing him. What good negotiators do when labeling is address those underlying emotions. Labeling negatives diffuses them (or defuses them, in extreme cases); labeling positives reinforces them. We’ll come back to the cranky grandfather in a moment. First, though, I want to talk a little bit about anger. As an emotion, anger is rarely productive—in you or the person you’re negotiating with. It releases stress hormones and neurochemicals that disrupt your ability to properly evaluate and respond to situations. And it blinds you to the fact that you’re angry in the first place, which gives you a false sense of confidence. That’s not to say that negative feelings should be ignored. That can be just as damaging. Instead, they should be teased out. Labeling is a helpful tactic in de-escalating angry confrontations, because it makes the person acknowledge their feelings rather than continuing to act out. Early on in my hostage negotiation career, I learned how important it was to go directly at negative dynamics in a fearless but deferential manner. It was to fix a situation I’d created myself. I’d angered the top FBI official in Canada when I entered the country without first alerting him (so he could notify the Department of State), a procedure known as “country clearance.” I knew I needed to call and assuage him to straighten out the situation, or I risked being expelled. Top guys like to feel on top. They don’t want to be disrespected. All the more so when the office they run isn’t a sexy assignment. “Bless me, Father, for I have sinned,” I said when he answered the phone. There was a long pause at the other end of the line. “Who is this?” he said. “Bless me, Father, for I have sinned,” I repeated. “It’s Chris Voss.” Again there was a long silence. “Does your boss know you’re here?” I said he did, and crossed my fingers. At this point, the FBI official would have been completely within his rights to tell me to leave Canada immediately. But by mentioning the negative dynamic, I knew I’d diffused it as much as I could. I had a chance. “All right, you’ve got country clearance,” he finally said. “I’ll take care of the paperwork.” Try this the next time you have to apologize for a bone- headed mistake. Go right at it. The fastest and most efficient means of establishing a quick working relationship is to acknowledge the negative and diffuse it. Whenever I was dealing with the family of a hostage, I started out by saying I knew they were scared. And when I make a mistake— something that happens a lot—I always acknowledge the other person’s anger. I’ve found the phrase “Look, I’m an asshole” to be an amazingly effective way to make problems go away. That approach has never failed me. Let’s go back to the cranky grandfather. He’s grumpy because he never sees the family and he feels left out. So he’s speaking up in his own dysfunctional way to get attention. How do you fix that? Instead of addressing his grumpy behavior, you acknowledge his sadness in a nonjudgmental way. You head him off before he can really get started. “We don’t see each other all that often,” you could say. “It seems like you feel like we don’t pay any attention to you and you only see us once a year, so why should you make time for us?” Notice how that acknowledges the situation and labels his sadness? Here you can pause briefly, letting him recognize and appreciate your attempts to understand what he’s feeling, and then turn the situation around by offering a positive solution. “For us this is a real treat. We want to hear what you have to talk about. We want to value this time with you because we feel left out of your life.” Research shows that the best way to deal with negativity is to observe it, without reaction and without judgment. Then consciously label each negative feeling and replace it with positive, compassionate, and solution-based thoughts. One of my Georgetown University students, a guy named TJ, who worked as an assistant controller at the Washington Redskins, put that lesson to work while he was taking my negotiations class. The economy was in the toilet at the time, and Redskins season ticket holders were leaving in droves to avoid the cost. Worse, the team had been terrible the year before, and off-field player problems were alienating the fans. The team’s CFO was getting more worried—and cranky —by the day, and two weeks before the season was to start he walked by TJ’s desk and slammed down a folder full of paper. “Better yesterday than today,” he said and walked away. Inside was a list of forty season ticket holders who hadn’t paid their bills, a USB drive with a spreadsheet about each one’s situation, and a script to use when calling them. TJ saw right away that the script was a disaster. It began by saying that his colleagues had been trying to call for months, and the account had been escalated to him. “I wanted to inform you,” it read, “that in order to receive your tickets for the upcoming season opener against the New York Giants, you will need to pay your outstanding balance in full prior to September 10.” It was the stupidly aggressive, impersonal, tone-deaf style of communication that is the default for most business. It was all “me, me, me” from TJ, with no acknowledgment of the ticket holder’s situation. No empathy. No connection. Just give me the money. Maybe I don’t need to say it, but the script didn’t work. TJ left messages; no one called back. A few weeks into the class, TJ rewrote the script. These weren’t massive changes, and he didn’t offer the fans any discounts. What he did was add subtle tweaks to make the
+>>>

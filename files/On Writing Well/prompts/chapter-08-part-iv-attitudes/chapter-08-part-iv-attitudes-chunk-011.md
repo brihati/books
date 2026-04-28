@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-08-part-iv-attitudes",
+  "chunk_id": "chapter-08-part-iv-attitudes-chunk-011",
+  "source": {
+    "chapter_title": "Part IV – Attitudes",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+    "source_pages": "245-308",
+    "char_start": 69000,
+    "char_end": 76693,
+    "checksum": "1bb8ee1baf1c25a4"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+iter's Decisions 271 Versailles. Originally I wrote, "Names like London and Paris didn't turn up in our accounts of earlier trips." Not much fun there. I tried to think of other popular capitals. Rome and Cairo? Athens and Bangkok? No better. Maybe alliteration would help—readers enjoy any effort to gratify their sense of rhythm and cadence. Madrid and Moscow? Tel Aviv and Tokyo? Too tricky. I stopped thinking of capitals and tried to think of tourist-infested cities. Venice popped into my head and I was glad to see it; everybody goes to Venice. Did any other cities begin with V? Only Vienna, which was too close to Venice in several respects. Finally I shifted my thinking from tourist cities
+
+to tourist sites, mentally fanning out from the major capitals, and it was on one of those excursions that I hit Versailles. It made my day. Next I needed a fresher verb than "turn up." I wanted an active verb that conveyed an image. None of the usual synonyms was quite right. Finally I thought of "bob"—a three-letter word, ludicrously simple. Yet it was the perfect word: it paints a pic- ture of an object periodically rising to the surface of the water. That left just one decision: what slightly offbeat tourist sites would seem commonplace to six travelers who had signed up for Timbuktu? The three that I finally chose—Luxor, Marrakech and Chiang Mai—were quite exotic in the 1950s, when I first visited them. Today they're not; the age of jet travel has made them almost as popular as London and Paris. Altogether, the sentence took almost an hour. But I didn't begrudge a minute of it. On the contrary, seeing it fall into place gave me great pleasure. No writing decision is too small to be worth a large expenditure of time. Both you and the reader know it when your finicky labor is rewarded by a sentence com- ing out right. Notice that there's an asterisk at the end of the lead. (It could also be a blank space.) That asterisk is a signpost. It announces to the reader that you have organized your article in 272 ON WRITING WELL a certain way and that a new phase is about to begin—perhaps a change of chronology, such as a flashback, or a change of sub- ject, or emphasis, or tone. Here, after a highly compressed lead, the asterisk enables the writer to take a deep breath and start over, this time at the more leisurely gait of a storyteller: We got to Timbuktu by flying from New York to Abidjan, capital of the Ivory Coast, and taking a plane from there to Bamako, capital of Mali, its neighbor to the north. Unlike the verdant Ivory Coast, Mali is dry, its southern half nourished mainly by the Niger River, its upper half pure desert; Tim- buktu is literally the last stop for travelers going north across the Sahara, or the first stop for travelers coming south—a coveted speck on the horizon after weeks of heat and thirst. None of us on the tour knew much about Mali or what to expect of it—our thoughts were fixed on our rendezvous with the salt caravan at Timbuktu, not on the country we would cross to get there. What we didn't expect was that we would be so instantly taken with it. Mali was an immersion in color: handsome people wearing fabrics of intoxicating design, mar- kets bright with fruits and vegetables, children whose smile was a routine miracle. Desperately poor, Mali was people- rich. The tree-lined city of Bamako delighted us with its energy and confidence. Up early the next morning, we drove for ten hours in a van that had seen better days, but not much better days, to reach the holy city of Djenné, a medieval center of trade and Islamic scholarship on the Niger that predated Timbuktu and rivaled it in luster. Today Djenné can only be reached by a small ferry, and as we bounced over unspeakable roads, hur- rying to arrive before dark, the spires and turrets of its great clay mosque, looking like a distant sandcastle, taunted us by seeming to recede. When we finally got there the mosque still looked like a sandcastle—an elegant fortress that might have A Writer's Decisions 273 been built by children on a beach. Architecturally (I later learned) it was in the Sudanese style; all these years, children on beaches have been building in the Sudanese style. To linger in Djenné s ancient square at dusk was a high moment of our trip. The next two days were no less rich. One was spent driv- ing into—and back out of—Dogon country. The Dogon, who live on an escarpment not easily reached by outsiders, are prized by anthropologists for their animist culture and cos- mology and by art collectors for their masks and statues, and the few hours that we spent climbing around their villages and watching a masked dance gave us too brief a glimpse of a society that was far from simple. The second day was spent in Mopte, a vibrant market town on the Niger that we liked enormously and also left too soon. But we had a date in Tim- buktu and a chartered plane to take us there. Obviously there's far more to say about Mali than is jammed into those four paragraphs—many scholarly books have been written about the Dogon culture and the Niger River peoples. But this wasn't an article about Mali; it was about a quest for a camel caravan. Therefore a decision had to made about the larger shape of the piece. My decision was to get across Mali as fast as possible—to explain in the barest number of sentences what route we took and what was important about the places where we stopped. At such moments I ask myself one very helpful question: "What is the piece really about?" (Not just "What is the piece about?") Fondness for material you've gone to a lot of trouble to gather isn't a good enough reason to include it if it s not central to the story you've chosen to tell. Self-discipline bordering on masochism is required. The only consolation for the loss of so much material is that it isn't totally lost; it remains in your writ- ing as an intangible that the reader can sense. Readers should 274 ON WRITING WELL always feel that you know more about your subject than you've put in writing. Back to "But we had a date in Timbuktu": The exactness of that date was what had worried me most when I visited the travel agency. I asked the head of the agency how she could be so sure the salt caravan would arrive on December 2; nomads leading camels aren't my idea of people operating on a timetable. My wife, who isn't cursed with my optimism about such life forces as camels and travel agents, was certain we would be told at Timbuktu that the salt caravan had come and gone, or, more probably, hadn't been heard from at all. The travel agent scoffed at my question. "We're in close touch with the caravan," she said. "We send scouts into the desert. If they tell us the caravan is going to be a few days late we can juggle your itinerary in Mali." That made sense to me—optimists can make sense of any- thing—and now I was in a plane not much bigger than Lind- bergh's, flying north toward Timbuktu over terrain so barren that I saw no sign of human habitation below. Simultaneously, however, hundreds of camels carrying huge slabs of salt were moving south to meet me. Even now tribal chiefs were turn- ing their thoughts to how to entertain me in their desert tent. Both of the preceding paragraphs contain touches of humor—tiny jokes. Again, they are efforts to keep myself amused. But they are also a deliberate attempt to maintain a persona. One of the oldest strains in travel writing and humor writing is the eternal credulity of the narrator. Used in modera- tion, making yourself gullible—or downright stupid—gives the reader the enormous pleasure of feeling superior. Our pilot circled over Timbuktu to give us an aerial view
+>>>

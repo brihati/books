@@ -1,0 +1,98 @@
+{
+  "pdf": "files/Never Split the Difference/Never Split the Difference.pdf",
+  "page_count": 375,
+  "mode": "toc",
+  "toc_level": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "CHAPTER 1 | THE NEW RULES",
+      "level": 1,
+      "start_page_1based": 8,
+      "end_page_1based": 35,
+      "out_file": "files/Never Split the Difference/chapters/01 - CHAPTER 1 THE NEW RULES.txt",
+      "char_count": 38437
+    },
+    {
+      "index": 2,
+      "title": "CHAPTER 2 | BE A MIRROR",
+      "level": 1,
+      "start_page_1based": 36,
+      "end_page_1based": 69,
+      "out_file": "files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+      "char_count": 46789
+    },
+    {
+      "index": 3,
+      "title": "CHAPTER 3 | DON\u2019T FEEL THEIR PAIN, LABEL IT",
+      "level": 1,
+      "start_page_1based": 70,
+      "end_page_1based": 101,
+      "out_file": "files/Never Split the Difference/chapters/03 - CHAPTER 3 DONT FEEL THEIR PAIN LABEL IT.txt",
+      "char_count": 44062
+    },
+    {
+      "index": 4,
+      "title": "CHAPTER 4 | BEWARE \u201cYES\u201d\u2014MASTER \u201cNO\u201d",
+      "level": 1,
+      "start_page_1based": 102,
+      "end_page_1based": 129,
+      "out_file": "files/Never Split the Difference/chapters/04 - CHAPTER 4 BEWARE YESMASTER NO.txt",
+      "char_count": 36147
+    },
+    {
+      "index": 5,
+      "title": "CHAPTER 5 | TRIGGER THE TWO WORDS THAT IMMEDIATELY TRANSFORM ANY NEGOTIATION",
+      "level": 1,
+      "start_page_1based": 130,
+      "end_page_1based": 151,
+      "out_file": "files/Never Split the Difference/chapters/05 - CHAPTER 5 TRIGGER THE TWO WORDS THAT IMMEDIATELY TRANSFORM ANY NEGOTIATION.txt",
+      "char_count": 28496
+    },
+    {
+      "index": 6,
+      "title": "CHAPTER 6 | BEND THEIR REALITY",
+      "level": 1,
+      "start_page_1based": 152,
+      "end_page_1based": 187,
+      "out_file": "files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+      "char_count": 48871
+    },
+    {
+      "index": 7,
+      "title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+      "level": 1,
+      "start_page_1based": 188,
+      "end_page_1based": 215,
+      "out_file": "files/Never Split the Difference/chapters/07 - CHAPTER 7 CREATE THE ILLUSION OF CONTROL.txt",
+      "char_count": 37747
+    },
+    {
+      "index": 8,
+      "title": "CHAPTER 8 | GUARANTEE EXECUTION",
+      "level": 1,
+      "start_page_1based": 216,
+      "end_page_1based": 248,
+      "out_file": "files/Never Split the Difference/chapters/08 - CHAPTER 8 GUARANTEE EXECUTION.txt",
+      "char_count": 44506
+    },
+    {
+      "index": 9,
+      "title": "CHAPTER 9 | BARGAIN HARD",
+      "level": 1,
+      "start_page_1based": 249,
+      "end_page_1based": 280,
+      "out_file": "files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+      "char_count": 43076
+    },
+    {
+      "index": 10,
+      "title": "CHAPTER 10 | FIND THE BLACK SWAN",
+      "level": 1,
+      "start_page_1based": 281,
+      "end_page_1based": 322,
+      "out_file": "files/Never Split the Difference/chapters/10 - CHAPTER 10 FIND THE BLACK SWAN.txt",
+      "char_count": 57441
+    }
+  ]
+}

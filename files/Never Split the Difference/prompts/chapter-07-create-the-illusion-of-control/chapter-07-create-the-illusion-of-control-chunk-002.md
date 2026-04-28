@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-07-create-the-illusion-of-control",
+  "chunk_id": "chapter-07-create-the-illusion-of-control-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/07 - CHAPTER 7 CREATE THE ILLUSION OF CONTROL.txt",
+    "source_pages": "188-215",
+    "char_start": 6250,
+    "char_end": 13937,
+    "checksum": "8607704814af4d2c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+, too. Some of my contacts reported that FBI director Robert Mueller was personally briefing President George W. Bush every morning on what we were doing. When Director Mueller showed up in the U.S. Embassy in Manila and I was introduced to him, a look of recognition came over his face. That was a very heady moment. But all the support in the world won’t work if your counterpart’s team is dysfunctional. If your negotiation efforts don’t reach past your counterpart and into the team behind him, then you’ve got a “hope”-based deal—and hope is not a strategy. One of the things I failed to fully appreciate then was that the kidnappers had changed negotiators themselves. Sabaya had been replaced.
+
+My boss Gary Noesner had, in a previous kidnapping, pointed out to me that a change in negotiators by the other side almost always signaled that they meant to take a harder line. What I didn’t realize at the time was this meant Sabaya was going to play a role as a deal breaker if he wasn’t accounted for. Our new tack was to buy the Burnhams back. Although the United States officially doesn’t pay ransoms, a donor had been found who would provide $300,000. The new Abu Sayyaf negotiator agreed to a release. The ransom drop was a disaster. The kidnappers decided that they wouldn’t release the Burnhams: or, rather, Sabaya, who was physically in charge of the hostages, refused to release them. He had cut his own side-deal—one we didn’t know about—and it had fallen through. The new negotiator, now embarrassed and in a foul mood, covered himself by claiming that the payment was short $600. We were baffled —“Six hundred dollars? You won’t let hostages go because of six hundred dollars?”—and we tried to argue that if the money was missing, it must have been the courier who had stolen the money. But we had no dynamic of trust and cooperation to back us up. The $300,000 was gone and we were back to rarely answered text messages. The slow-motion wreck culminated about two months later with a botched “rescue.” A team of Philippine Scout Rangers walking around in the woods came across the Abu Sayyaf camp, or so they said. Later we heard another government agency had tipped them off. That other government agency (OGA) had not told us about their location because . . . because . . . why? That’s something I will never understand. The Scout Rangers formed a skirmish line from a tree line above the camp and opened fire, indiscriminately pouring bullets into the area. Gracia and Martin were taking a nap in their hammocks when the fire started raining down. They both fell out of their hammocks and started to roll down the hill toward safety. But as a sheet of bullets from their rescuers fell on them, Gracia felt a searing burn flare through her right thigh. And then, she felt Martin go limp. Minutes later, after the last rebels fled, the squad of Philippine soldiers tried to reassure Gracia that her husband was fine, but she shook her head. After a year in captivity, she had no time for fantasies. Gracia knew her husband was dead, and she was right: he’d been hit in the chest, three times, by “friendly” fire. In the end, the supposed rescue mission killed two of the three hostages there that day (a Philippine nurse named Ediborah Yap also died), and the big fish—Sabaya— escaped to live a few more months. From beginning to end, the thirteen-month mission was a complete failure, a waste of lives and treasure. As I sat in the dark at home a few days later, dispirited and spent, I knew that something had to change. We couldn’t let this happen again. If the hostages’ deaths were going to mean something, we would have to find a new way to negotiate, communicate, listen, and speak, both with our enemies and with our friends. Not for communication’s sake, though. No. We had to do it to win. AVOID A SHOWDOWN No two ways about it, my return to the United States was a time of reckoning. I questioned—I even doubted—some of what we were doing at the FBI. If what we knew wasn’t enough, we had to get better. The real kick in the pants came after my return, when I was reviewing information about the case, a lot of which we hadn’t had in the field. Among the piles of information was one fact that totally blew my mind. Martin Burnham had been overheard on a phone call to someone. I wondered what in God’s name our hostage was doing talking on the phone without us knowing. And with whom was he talking? There’s only one reason a hostage ever gets on a phone. It’s to provide proof of life. Someone else had been trying to ransom the Burnhams out. It turned out to be someone working for a crooked Philippine politician who’d been running a parallel negotiation for the Burnhams’ release. He wanted to buy the hostages out himself in order to show up Philippine president Arroyo. But it wasn’t so much that this guy was going behind our backs that bothered me. As is pretty clear already, there were a whole lot of underhanded things going on. What really ate at me was that this schmuck, who wasn’t an FBI- trained hostage negotiator, had pulled off something that I hadn’t been able to. He’d gotten to speak to Martin Burnham on the phone. For free. That’s when I realized that this crooked pol’s success where we had failed was a kind of metaphor for everything that was wrong with our one-dimensional mindset. Beyond our problems with the Philippine military, the big reason we had no effective influence with the kidnappers and hostages was that we had this very tit-for-tat mentality. Under that mentality, if we called up the bad guys we were asking for something, and if they gave it to us we had to give them something back. And so, because we were positive that the Burnhams were alive, we’d never bothered to call and ask for proof of life. We were afraid to go into debt. If we made an “ask” and they granted it, we’d owe. Not making good on a debt risked the accusation of bad-faith negotiation and bad faith in kidnappings gets people killed. And of course we didn’t ask the kidnappers to talk directly to the hostage because we knew they’d say “no” and we were afraid of being embarrassed. That fear was a major flaw in our negotiating mindset. There is some information that you can only get through direct, extended interactions with your counterpart. We also needed new ways to get things without asking for them. We needed to finesse making an “ask” with something more sophisticated than closed-ended questions with their yes-no dynamic. That’s when I realized that what we had been doing wasn’t communication; it was verbal flexing. We wanted them to see things our way and they wanted us to see it their way. If you let this dynamic loose in the real world, negotiation breaks down and tensions flare. That whole ethos permeated everything the FBI was doing. Everything was a showdown. And it didn’t work. Our approach to proof-of-life questions embodied all these problems. At the time, we proved that our hostages were alive by devising questions that asked for a piece of information only the hostage could know. Computer-security-style questions, like, “What’s the name of Martin’s first dog?” or “What’s Martin’s dad’s middle name?” This particular type of question had many failings, however. For one thing, it had sort of become a signature of law enforcement in the kidnapping world. When a family starts asking a question of that type, it’s a near certainty that the cops are coaching them. And that makes kidnappers very nervous. Even beyond the nerves, you had the problem that answering questions like those required little, if any, effort. The bad guys go and get the fact and give it to you right away, because it’s so easy.
+>>>

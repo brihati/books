@@ -1,0 +1,29 @@
+{
+  "name": "book-workflow",
+  "version": "0.1.0",
+  "description": "Run a UI-first local book workflow that ingests books, preserves them end to end, and generates book-specific skills.",
+  "keywords": [
+    "books",
+    "summaries",
+    "skills",
+    "preservation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Book Workflow",
+    "shortDescription": "Build end-to-end book pipelines from plain-English requests.",
+    "longDescription": "Resolve a book path from a UI request, ingest it if needed, extract notes, generate summaries, validate the local artifacts, and scaffold a book-specific coach skill.",
+    "developerName": "Sachin",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Let's create an end to end pipeline for this book.",
+      "Prepare this book for querying and coaching.",
+      "Refresh the preserved artifacts and coach skill for this book."
+    ],
+    "brandColor": "#0F766E"
+  }
+}

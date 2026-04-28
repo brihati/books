@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-02-be-a-mirror",
+  "chunk_id": "chapter-02-be-a-mirror-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 2 | BE A MIRROR",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+    "source_pages": "36-69",
+    "char_start": 34199,
+    "char_end": 41879,
+    "checksum": "6fbfd30ef9b464ee"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+way through the rest of it, and yet this commander was angry. He didn’t like that he’d been played, so he turned to one of the guys from NYPD’s Technical Assistance Response Unit (TARU) and commanded them to get a camera inside the bank, a mic . . . something. Now that I was huddled with Bobby, the commander swapped me out in favor of another primary negotiator on the phone. The new negotiator played it the same way I had, a couple of hours earlier—said, “This is Dominick. You’re talking to me now.” Dominick Misino was a great hostage negotiator—in my view, one of the world’s great closers, which was the term often used for the guy brought in to bang out the last details and secure the deal.
+
+He didn’t get rattled and he was good at what he did. Matter-of-fact. Street smart. Dominick plowed ahead. And then, an amazing thing happened—a nearly disastrous amazing thing. As Chris Watts was talking to Dominick, he heard an electric tool of some kind burrowing its way through the wall behind him. It was one of our TARU guys, trying to get a bug planted inside—in precisely the wrong spot, at precisely the wrong time. Chris Watts was already rattled enough as it was, his partner giving himself up like that and leaving him to play out the siege on his own. And now, to hear our guys drilling through the wall, it just about set him off. He responded like a pit bull backed into a corner. He called Dominick a liar. Dominick was unflappable. He kept his cool as Chris Watts raged on the other end of the phone, and eventually Dominick’s cool, calm demeanor brought the guy from a boil to a simmer. In retrospect, it was a fool move to try to get a bug inside the bank at this late stage—born out of frustration and panic. We’d gotten one of the hostage-takers out of the bank, but now we’d given back a measure of control. Startling the one remaining hostage-taker, who may or may not have been a loose cannon, was absolutely not a good idea. As Dominick went to work smoothing over the situation, Chris Watts switched things up on us. He said, “What if I let a hostage go?” This came as if from nowhere. Dominick hadn’t even thought to ask, but Chris Watts just offered up one of the tellers like it was no big deal—and to him, at this late stage in the standoff, I guess it wasn’t. From his view, such a conciliatory move might buy him enough time to figure out a way to escape. Dominick remained calm, but seized on the opportunity. He said he wanted to talk to the hostage first, to make sure everything went okay, so Chris Watts tapped one of the women and put her on the phone. The woman had been paying attention, knew there’d been some sort of snafu when Bobby wanted to give himself up, so even though she was still completely terrified she had the presence of mind to ask about the door. I remember thinking this showed a lot of brass—to be terrified, held against your will, roughed up a bit, and to still have your wits about you. She said, “Are you sure you have a key to the front door?” Dominick said, “The front door’s open.” And it was. Ultimately, what happened was one of the women came out, unharmed, and an hour or so later the other woman followed, also unharmed. We were working on getting the bank guard out, but we couldn’t be sure from the accounts of these bank tellers what kind of shape this guy might be in. We didn’t even know if he was still alive. They hadn’t seen him since first thing that morning. He could have had a heart attack and died—there was just no way to know. But Chris Watts had one last trick up his sleeve. He pulled a fast one on us and out of the blue, offered to come out. Maybe he thought he could catch us off guard one last time. What was strange about his sudden appearance was that he seemed to be looking about, surveying the scene, like he still thought he’d somehow elude capture. Right up until the moment the cops put the handcuffs on him, his gaze was darting back and forth, scanning for some kind of opportunity. The bright lights were on this guy, he was basically surrounded, but somewhere in the back of his scheming, racing mind he still thought he had a chance. It was a long, long day, but it went down in the books as a success. Nobody was hurt. The bad guys were in custody. And I emerged from the experience humbled by how much more there was to learn, but at the same time, awakened to and inspired by the elemental power of emotion, dialogue, and the FBI’s evolving toolbox of applied psychological tactics to influence and persuade just about anyone in any situation. In the decades since my initiation into the world of high- stakes negotiations, I’ve been struck again and again by how valuable these seemingly simple approaches can be. The ability to get inside the head—and eventually under the skin—of your counterpart depends on these techniques and a willingness to change your approach, based on new evidence, along the way. As I’ve worked with executives and students to develop these skills, I always try to reinforce the message that being right isn’t the key to a successful negotiation—having the right mindset is. HOW TO CONFRONT—AND GET YOUR WAY— WITHOUT CONFRONTATION I only half-jokingly refer to mirroring as magic or a Jedi mind trick because it gives you the ability to disagree without being disagreeable. To consider just how useful that can be, think of the average workplace: invariably there is still someone in a position of authority who arrived at that position through aggressive assertiveness, sometimes outright intimidation, with “old school” top-down, command-and-control assumptions that the boss is always right. And let’s not delude ourselves: whatever the enlightened rules of the “new school,” in every environment (work or otherwise) you will always have to deal with forceful type A people who prefer consent to collaboration. If you take a pit bull approach with another pit bull, you generally end up with a messy scene and lots of bruised feelings and resentment. Luckily, there’s another way without all the mess. It’s just four simple steps: 1. Use the late-night FM DJ voice. 2. Start with “I’m sorry . . .” 3. Mirror. 4. Silence. At least four seconds, to let the mirror work its magic on your counterpart. 5. Repeat. One of my students experienced the effectiveness of this simple process at her workplace, where her impulsive boss was known for his “drive-bys”: an infuriating practice by which the boss would suddenly swing by one’s office or cubicle unannounced with an “urgent,” poorly thought out assignment that created a lot of unnecessary work. Past attempts at any kind of debate created immediate pushback. “There’s a better way” was always interpreted by this boss as “the lazy way.” Such a drive-by occurred toward the end of a long consulting engagement, one that had generated literally thousands of documents. The boss, still skeptical of anything “digital,” wanted the security of paper copies. Popping his head into her office, the boss said, “Let’s make two copies of all the paperwork.” “I’m sorry, two copies?” she mirrored in response, remembering not only the DJ voice, but to deliver the mirror in an inquisitive tone. The intention behind most mirrors should be “Please, help me understand.” Every time you mirror someone, they will reword what they’ve said. They will never say it exactly the same way they said it the first time. Ask someone, “What do you mean by that?” and you’re likely to incite irritation or defensiveness. A mirror, however, will get you the clarity you want while signaling respect and concern for what the other person is saying. “Yes,” her boss responded, “one for us and one for the customer.”
+>>>

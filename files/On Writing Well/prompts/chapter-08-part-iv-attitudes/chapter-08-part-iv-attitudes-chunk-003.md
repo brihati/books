@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-08-part-iv-attitudes",
+  "chunk_id": "chapter-08-part-iv-attitudes-chunk-003",
+  "source": {
+    "chapter_title": "Part IV – Attitudes",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/08 - Part IV Attitudes.txt",
+    "source_pages": "245-308",
+    "char_start": 13201,
+    "char_end": 20884,
+    "checksum": "dc624bae89756995"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e on a generation that had never been exposed to nobility of language as a means of addressing the populace? I couldn't recall a single attempt since John F. Kennedy's inaugural speech in 1961. (Mario Cuomo and Jesse Jackson have partly restored my faith.) This was a generation reared on television, where the picture is valued more than the word—where the word, in fact, is devalued, used as mere chat- ter, and often misused and mispronounced. It was also a genera- tion reared on music—songs and rhythms meant primarily to be heard and felt. With so much noise in the air, was any American child being trained to listen? Was anyone calling attention to the majesty of a well-constructed sentence?
+
+My other question raised a more subtle mystery: what is the line that separates eloquence from bombast? Why are we exalted by the words of Wilbur Cross and anesthetized by the speeches of most politicians and public officials who ply us with oratorical ruffles and flourishes? Part of the answer takes us back to taste. A writer with an ear for language will reach for fresh imagery and avoid phrases that are trite. The hack will reach for those very clichés, thinking he will enrich his thoughts with currency that is, as he would put it, tried and true. Another part of the answer lies in simplicity. Writing that will endure tends to consist of words that are short and strong; words that sedate are words of three, four and five syllables, mostly of Latin origin, many of them ending in "ion" and embodying a vague concept. In Wilbur Cross's Thanksgiving Proclamation there are no four-syllable words and only ten three-syllable words, three of which are proper nouns he was stuck with. Notice how many of the governors words are any- thing but vague: leaves, wind, frost, air, evening, earth, comforts, soil, labor, breath, body, justice, courage, peace, land, rites, The Sound of Your Voice 241 home. They are homely words in the best sense—they catch the rhythm of the seasons and the dailiness of life. Also notice that all of them are nouns. After verbs, plain nouns are your strongest tools; they resonate with emotion. But ultimately eloquence runs on a deeper current. It moves us with what it leaves unsaid, touching off echoes in what we already know from our reading, our religion and our heritage. Eloquence invites us to bring some part of ourselves to the transaction. It was no accident that Lincoln's speeches resounded with echoes of the King James Bible; he knew it almost by heart from his boyhood, and he had so soaked him- self in its sonorities that his formal English was more Eliza- bethan than American. The Second Inaugural Address rever- berates with Biblical phrases and paraphrases: "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces, but let us judge not, that we be not judged." The first half of the sentence borrows a metaphor from Genesis, the second half reshapes a famous command in Matthew, and "a just God" is from Isaiah. If this speech affects me more than any other American doc- ument, it's not only because I know that Lincoln was killed five weeks later, or because I'm moved by all the pain that culmi- nated in his plea for a reconciliation that would have malice toward none and charity for all. It's also because Lincoln tapped some of Western man's oldest teachings about slavery, clemency and judgment. His words carried stern overtones for the men and women who heard him in 1865, reared, as he was, on the Bible. But even in the late 1990s it's hard not to feel a wrath almost too ancient to grasp in Lincoln's notion that God might will the Civil War to continue "until all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three 242 ON WRITING WELL thousand years ago, so still it must be said 'the judgments of the Lord are true and righteous altogether.'" Wilbur Cross's Thanksgiving Proclamation also echoes with truths that we know in our bones. To such mysteries as the changing of the seasons and the bounty of the earth we bring strong emotions of our own. Who hasn't looked with awe at Orion? To such democratic processes as "the long search after truth" and "liberty and justice freely granted" we bring frag- ments of our own searches after truth, our own grantings and receivings, in a nation where so many human rights have been won and so many still elude us. Governor Cross doesn't take our time to explain these processes, and I'm grateful to him for that. I hate to think how many clichés a hack orator would marshal to tell us far more—and nourish us far less. Therefore remember the uses of the past when you tell your story. What moves us in writing that has regional or ethnic roots—Southern writing, African-American writing, Jewish- American writing—is the sound of voices far older than the nar- rator's, talking in cadences that are more than ordinarily rich. Toni Morrison, one of the most eloquent of black writers, once said: "I remember the language of the people I grew up with. Language was so important to them. All that power was in it. And grace and metaphor. Some of it was very formal and Bibli- cal, because the habit is that when you have something impor- tant to say you go into parable, if you're from Africa, or you go into another level of language. I wanted to use language that way, because my feeling was that a black novel was not black because I wrote it, or because there were black people in it, or because it was about black things. It was the style. It had a cer- tain style. It was inevitable. I couldn't describe it, but I could produce it." Go with what seems inevitable in your own heritage. Embrace it and it may lead you to eloquence. 21 osao Enjoyment, Fear and Confidence As a boy I never wanted to grow up to be a writer, or—God forbid—an author. I wanted to be a newspaperman, and the newspaper I wanted to be a man on was the New York Herald Tribune. Reading it every morning, I loved the sense of enjoy- ment it conveyed. Everyone who worked on the paper—editors, writers, photographers, make-up men—was having a wonderful time. The articles usually had an extra touch of gracefulness, or humanity, or humor—some gift of themselves that the writers and editors enjoyed making to their readers. I thought they were putting out the paper just for me. To be one of those edi- tors and writers was my idea of the ultimate American dream. That dream came true when I returned home from World War II and got a job on the Herald Tribune staff. I brought with me my belief that a sense of enjoyment is a priceless attribute for a writer or for a publication, and I was now in the same room 244 ON WRITING WELL with the men and women who had first put that idea in my head. The great reporters wrote with warmth and gusto, and the great critics and columnists like Virgil Thomson and Red Smith wrote with elegance and with a mirthful confidence in their opinions. On the "split page"—as the first page of the second section was called, when papers only had two sections—the political column of Walter Lippmann, America s most venerated pundit, ran above the one-panel cartoon by H. T. Webster, cre- ator of "The Timid Soul," who was also an American institution. I liked the insouciance that presented on the same page two fea- tures so different in gravity. Nobody thought of hustling Web- ster off to the comics section. Both men were giants, part of the same equation. Among those blithe souls a city-desk reporter named John
+>>>

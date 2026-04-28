@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Made To Stick Coach"
+  short_description: "Practice Made to Stick with local preserved content."
+  default_prompt: "Use $book-made-to-stick-coach to practice Made to Stick with role-play, debriefs, and chapter-grounded coaching."

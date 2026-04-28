@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-04-beware-yes-master-no",
+  "chunk_id": "chapter-04-beware-yes-master-no-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 4 | BEWARE “YES”—MASTER “NO”",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/04 - CHAPTER 4 BEWARE YESMASTER NO.txt",
+    "source_pages": "102-129",
+    "char_start": 27233,
+    "char_end": 34933,
+    "checksum": "46c0b6781255dfc8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+MR. SMITH: Yes, President Obama is a bad person FUND-RAISER: Do you think we need change in November? MR. SMITH: Yes, I do. FUND-RAISER: Can you give me your credit card number so you can be a part of that change? In theory at least, the “Yes” answers built up a reservoir of positivity that exploded into donations when requested at the end of the script. The problem, in reality, was that the “Yes pattern” scripts had been giving poor rates of return for years. All the steps were “Yes,” but the final answer was invariably “No.” Then Ben read Jim Camp’s book Start with NO in my class and began to wonder if “No” could be a tool to boost donations. Ben knew that giving the potential donors a no-
+
+hard-feelings way to get off the call was going to be a tough sell to his grassroots fund-raisers, because it goes against everything they had been trained to do. But Ben’s a smart guy, so instead of totally swapping scripts he had a small group of his grassroots guys test-market a “No”-oriented script. FUND-RAISER: Hello, can I speak with Mr. Smith? MR. SMITH: Yes, this is he. FUND-RAISER: I’m calling from the XYZ Committee, and I wanted to ask you a few important questions about your views on our economy today. Do you feel that if things stay the way they are, America’s best days are ahead of it? MR. SMITH: No, things will only get worse. FUND-RAISER: Are you going to sit and watch President Obama take the White House in November without putting up a fight? MR. SMITH: No, I’m going to do anything I can to make sure that doesn’t happen. FUND-RAISER: If you want do something today to make sure that doesn’t happen, you can give to XYZ Committee, which is working hard to fight for you. See how clearly that swaps “Yes” for “No” and offers to take a donation if Mr. Smith wants? It puts Mr. Smith in the driver’s seat; he’s in charge. And it works! In a truly remarkable turnaround, the “No”-oriented script got a 23 percent better rate of return. The only sad part of Ben’s tale is that despite the huge improvement in results, he couldn’t roll out the script to all his fund-raisers. It went against fund-raising orthodoxy, and longtime fund-raisers like the fake comfort of the “Yes.” Genius is often missed the first time around, right? One negotiating genius who’s impossible to miss is Mark Cuban, the billionaire owner of the Dallas Mavericks. I always quote to my students one of his best lines on negotiation: “Every ‘No’ gets me closer to a ‘Yes.’” But then I remind them that extracting those “No’s” on the road to “Yes” isn’t always easy. There is a big difference between making your counterpart feel that they can say “No” and actually getting them to say it. Sometimes, if you’re talking to somebody who is just not listening, the only way you can crack their cranium is to antagonize them into “No.” One great way to do this is to mislabel one of the other party’s emotions or desires. You say something that you know is totally wrong, like “So it seems that you really are eager to leave your job” when they clearly want to stay. That forces them to listen and makes them comfortable correcting you by saying, “No, that’s not it. This is it.” Another way to force “No” in a negotiation is to ask the other party what they don’t want. “Let’s talk about what you would say ‘No’ to,” you’d say. And people are comfortable saying “No” here because it feels like self-protection. And once you’ve gotten them to say “No,” people are much more open to moving forward toward new options and ideas. “No”—or the lack thereof—also serves as a warning, the canary in the coal mine. If despite all your efforts, the other party won’t say “No,” you’re dealing with people who are indecisive or confused or who have a hidden agenda. In cases like that you have to end the negotiation and walk away. Think of it like this: No “No” means no go. EMAIL MAGIC: HOW NEVER TO BE IGNORED AGAIN There’s nothing more irritating than being ignored. Being turned down is bad, but getting no response at all is the pits. It makes you feel invisible, as if you don’t exist. And it’s a waste of your time. We’ve all been through it: You send an email to someone you’re trying to do business with and they ignore you. Then you send a polite follow-up and they stonewall you again. So what do you do? You provoke a “No” with this one-sentence email. Have you given up on this project? The point is that this one-sentence email encapsulates the best of “No”-oriented questions and plays on your counterpart’s natural human aversion to loss. The “No” answer the email demands offers the other party the feeling of safety and the illusion of control while encouraging them to define their position and explain it to you. Just as important, it makes the implicit threat that you will walk away on your own terms. To stop that from happening—to cut their losses and prove their power—the other party’s natural inclination is to reply immediately and disagree. No, our priorities haven’t changed. We’ve just gotten bogged down and . . . If you’re a parent, you already use this technique instinctively. What do you do when your kids won’t leave the house/park/mall? You say, “Fine. I’m leaving,” and you begin to walk away. I’m going to guess that well over half the time they yell, “No, wait!” and run to catch up. No one likes to be abandoned. Now, this may seem like a rude way to address someone in business, but you have to get over that. It’s not rude, and though it’s direct, it’s cloaked with the safety of “No.” Ignoring you is what’s rude. I can tell you that I’ve used this successfully not just in North America, but with people in two different cultures (Arabic and Chinese) famous for never saying “No.” KEY LESSONS Using this chapter’s tools in daily life is difficult for many people because they go directly against one of society’s biggest social dictums. That is, “Be nice.” We’ve instrumentalized niceness as a way of greasing the social wheels, yet it’s often a ruse. We’re polite and we don’t disagree to get through daily existence with the least degree of friction. But by turning niceness into a lubricant, we’ve leeched it of meaning. A smile and a nod might signify “Get me out of here!” as much as it means “Nice to meet you.” That’s death for a good negotiator, who gains their power by understanding their counterpart’s situation and extracting information about their counterpart’s desires and needs. Extracting that information means getting the other party to feel safe and in control. And while it may sound contradictory, the way to get there is by getting the other party to disagree, to draw their own boundaries, to define their desires as a function of what they do not want. As you try to put the chapter’s methods to use, I encourage you to think of them as the anti–“niceness ruse.” Not in the sense that they are unkind, but in the sense that they are authentic. Triggering “No” peels away the plastic falsehood of “Yes” and gets you to what’s really at stake. Along the way, keep in mind these powerful lessons: ■ Break the habit of attempting to get people to say “yes.” Being pushed for “yes” makes people defensive. Our love of hearing “yes” makes us blind to the defensiveness we ourselves feel when someone is pushing us to say it. ■ “No” is not a failure. We have learned that “No” is the anti-“Yes” and therefore a word to be avoided at all costs. But it really often just means “Wait” or “I’m not comfortable with that.” Learn how to hear it calmly. It is not the end of the negotiation, but the beginning. ■ “Yes” is the final goal of a negotiation, but don’t aim for it at the start. Asking someone for “Yes” too quickly in a conversation—“Do you like to
+>>>

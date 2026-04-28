@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-06-bend-their-reality",
+  "chunk_id": "chapter-06-bend-their-reality-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 6 | BEND THEIR REALITY",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/06 - CHAPTER 6 BEND THEIR REALITY.txt",
+    "source_pages": "152-187",
+    "char_start": 34104,
+    "char_end": 41753,
+    "checksum": "cbfa126776f2d407"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+stablishes your “ballpark,” albeit the best possible ballpark you wish to be in. Instead of saying, “I’m worth $110,000,” Jerry might have said, “At top places like X Corp., people in this job get between $130,000 and $170,000.” That gets your point across without moving the other party into a defensive position. And it gets him thinking at higher levels. Research shows that people who hear extreme anchors unconsciously adjust their expectations in the direction of the opening number. Many even go directly to their price limit. If Jerry had given this range, the firm probably would have offered $130,000 because it looked so cheap next to $170,000. In a recent study,4 Columbia Business School
+
+psychologists found that job applicants who named a range received significantly higher overall salaries than those who offered a number, especially if their range was a “bolstering range,” in which the low number in the range was what they actually wanted. Understand, if you offer a range (and it’s a good idea to do so) expect them to come in at the low end. 4. PIVOT TO NONMONETARY TERMS People get hung up on “How much?” But don’t deal with numbers in isolation. That leads to bargaining, a series of rigid positions defined by emotional views of fairness and pride. Negotiation is a more intricate and subtle dynamic than that. One of the easiest ways to bend your counterpart’s reality to your point of view is by pivoting to nonmonetary terms. After you’ve anchored them high, you can make your offer seem reasonable by offering things that aren’t important to you but could be important to them. Or if their offer is low you could ask for things that matter more to you than them. Since this is sometimes difficult, what we often do is throw out examples to start the brainstorming process. Not long ago I did some training for the Memphis Bar Association. Normally, for the training they were looking for, I’d charge $25,000 a day. They came in with a much lower offer that I balked at. They then offered to do a cover story about me in their association magazine. For me to be on the cover of a magazine that went out to who knows how many of the country’s top lawyers was priceless advertising. (Plus my mom is really proud of it!) They had to put something on the cover anyway, so it had zero cost to them and I gave them a steep discount on my fee. I constantly use that as an example in my negotiations now when I name a price. I want to stimulate my counterpart’s brainstorming to see what valuable nonmonetary gems they might have that are cheap to them but valuable to me. 5. WHEN YOU DO TALK NUMBERS, USE ODD ONES Every number has a psychological significance that goes beyond its value. And I’m not just talking about how you love 17 because you think it’s lucky. What I mean is that, in terms of negotiation, some numbers appear more immovable than others. The biggest thing to remember is that numbers that end in 0 inevitably feel like temporary placeholders, guesstimates that you can easily be negotiated off of. But anything you throw out that sounds less rounded—say, $37,263—feels like a figure that you came to as a result of thoughtful calculation. Such numbers feel serious and permanent to your counterpart, so use them to fortify your offers. 6. SURPRISE WITH A GIFT You can get your counterpart into a mood of generosity by staking an extreme anchor and then, after their inevitable first rejection, offering them a wholly unrelated surprise gift. Unexpected conciliatory gestures like this are hugely effective because they introduce a dynamic called reciprocity; the other party feels the need to answer your generosity in kind. They will suddenly come up on their offer, or they’ll look to repay your kindness in the future. People feel obliged to repay debts of kindness. Let’s look at it in terms of international politics. In 1977 Egyptian president Anwar Sadat dramatically pushed negotiations on the Egypt-Israel peace treaty forward by making a surprise address to the Israeli Knesset, a generous gesture that did not involve making any actual concessions but did signify a big step toward peace. Back in Haiti, a few hours after the kidnappers had snatched his aunt, I was on the phone with the politician’s nephew. There was no way their family could come up with $150,000, he told me, but they could pay between $50,000 and $85,000. But since learning that the ransom was just party money, I was aiming much lower: $5,000. We were not going to compromise. It was a matter of professional pride. I advised him to start off by anchoring the conversation in the idea that he didn’t have the money, but to do so without saying “No” so as not to hit their pride head-on. “How am I supposed to do that?” he asked in the next call. The kidnapper made another general threat against the aunt and again demanded the cash. That’s when I had the nephew subtly question the kidnapper’s fairness. “I’m sorry,” the nephew responded, “but how are we supposed to pay if you’re going to hurt her?” That brought up the aunt’s death, which was the thing the kidnappers most wanted to avoid. They needed to keep her unharmed if they hoped to get any money. They were commodity traders, after all. Notice that to this point the nephew hadn’t named a price. This game of attrition finally pushed the kidnappers to name a number first. Without prodding, they dropped to $50,000. Now that the kidnappers’ reality had been bent to a smaller number, my colleagues and I told the nephew to stand his ground. “How can I come up with that kind of money?” we told him to ask. Again, the kidnapper dropped his demand, to $25,000. Now that we had him in our sights, we had the nephew make his first offer, an extreme low anchor of $3,000. The line went silent and the nephew began to sweat profusely, but we told him to hold tight. This always happened at the moment the kidnapper’s economic reality got totally rearranged. When he spoke again, the kidnapper seemed shell- shocked. But he went on. His next offer was lower, $10,000. Then we had the nephew answer with a strange number that seemed to come from deep calculation of what his aunt’s life was worth: $4,751. His new price? $7,500. In response, we had the cousin “spontaneously” say he’d throw in a new portable CD stereo and repeated the $4,751. The kidnappers, who didn’t really want the CD stereo felt there was no more money to be had, said yes. Six hours later, the family paid that sum and the aunt came back home safely. HOW TO NEGOTIATE A BETTER SALARY One of the critical factors in business school rankings is how well their graduates are compensated. So I tell every MBA class I lecture that my first objective is to single-handedly raise the ranking of their school by teaching them how to negotiate a better salary. I break down the process into three parts that blend this chapter’s dynamics in a way that not only brings you better money, but convinces your boss to fight to get it for you. BE PLEASANTLY PERSISTENT ON NONSALARY TERMS Pleasant persistence is a kind of emotional anchoring that creates empathy with the boss and builds the right psychological environment for constructive discussion. And the more you talk about nonsalary terms, the more likely you are to hear the full range of their options. If they can’t meet your nonsalary requests, they may even counter with more money, like they did with a French-born American former student of mine. She kept asking—with a big smile— for an extra week of vacation beyond what the company normally gave. She was “French,” she said, and that’s what French people did. The hiring company was completely
+>>>

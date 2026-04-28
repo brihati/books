@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-02-be-a-mirror",
+  "chunk_id": "chapter-02-be-a-mirror-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 2 | BE A MIRROR",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/02 - CHAPTER 2 BE A MIRROR.txt",
+    "source_pages": "36-69",
+    "char_start": 27231,
+    "char_end": 34899,
+    "checksum": "d52a5e8df9b87c76"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e later learned was Bobby Goodwin, came onto the phone. We hadn’t heard from this second hostage-taker, until now. We’d known all along that Chris Watts wasn’t acting alone, but we hadn’t gotten a good read on how many people he had working with him on this, and now here was his unwitting accomplice, thinking our original police department negotiator was still handling our end. We knew this because he kept calling me “Joe,” which told us he’d been in the loop early on, and somewhat less involved as the stalemate dragged on. At the very least, the disconnect told me these guys weren’t exactly on the same page—but I didn’t jump to correct him. Another thing: it sounded like this second guy was
+
+speaking through a towel, or a sweatshirt—like he was biting on some kind of fabric, even. Going to all these lengths to mask his voice, which meant he was clearly scared. He was nervous, jumpy as hell, anxious over how this standoff was going down. I tried to set him at ease—still with the downward- inflecting DJ voice. I said, “Nobody’s going anywhere.” I said, “Nobody’s gonna get hurt.” After about a minute and a half, the jumpiness seemed to disappear. The muffled voice, too. His voice came through much more clearly as he said, “I trust you, Joe.” The more I kept this second guy on the phone, the more it became clear he was someplace he did not want to be. Bobby wanted out—and, of course, he wanted out without getting hurt. He was already in deep, but he didn’t want it to get any deeper. He didn’t start out that day planning to rob a bank, but it took hearing my calm voice on the other end of the phone for him to start to see a way out. The seventh- largest standing army in the world was at the ready outside the bank doors—that’s the size and scope of the NYPD, in full force, and their guns were fixed on him and his partner. Obviously, Bobby was desperate to step out those doors unharmed. I didn’t know where Bobby was, inside the bank. To this day, I don’t know if he managed to step away from his partner, or if he was talking to me in plain sight of Chris Watts. I only know that I had his full attention, and that he was looking for a way to end the standoff—or, at least, to end his role in it. I learned later that in between phone calls Chris Watts was busy squirreling cash inside the bank walls. He was also burning piles of cash, in full view of the two female hostages. On the face of it, this was bizarre behavior, but to a guy like Chris Watts there was a certain logic to it. Apparently, he’d gotten it in his head that he could burn, say, $50,000, and if $300,000 was reported missing bank officials wouldn’t think to go looking for the other $250,000. It was an interesting deception—not exactly clever, but interesting. It showed a weird attention to detail. In his own mind at least, if Chris Watts managed to escape this box he’d made for himself, he could lie low for a while and come back at some future date for the money he’d stashed away—money that would no longer be on the bank’s ledgers. What I liked about this second guy, Bobby, was that he didn’t try to play any games with me on the phone. He was a straight shooter, so I was able to respond as a straight shooter in kind. The same way I’d get back whatever I put out, he was getting back whatever he was putting out, so I was with him on this. Experience told me all I had to do was keep him talking and he’d come around. We’d find a way to get him out of that bank—with or without Chris Watts. Someone on my team handed me a note: “Ask him if he wants to come out.” I said, “Do you want to come out first?” I paused, remaining silent. “I don’t know how I’d do it,” Bobby said finally. “What’s stopping you from doing it right now?” I asked. “How do I do that?” he asked again. “Tell you what. Meet me out front right now.” This was a breakthrough moment for us—but we still had to get Bobby out of there, and find a way to let him know that I’d be waiting for him on the other side of the door. I’d given him my word that I would be the one to take his surrender, and that he wouldn’t get hurt, and now we had to make that happen—and very often it’s this implementation phase that can be the most difficult. Our team scrambled to put a plan in place to bring this about. I started putting on bulletproof gear. We surveyed the scene, figuring I could position myself behind one of the big trucks we’d parked out in front of the bank, to give me a measure of cover, just in case. Then we ran into one of those maddening situations where one hand didn’t know what the other was doing. It turned out the bank door had been barricaded from the outside early on in the standoff—a precaution to ensure that none of the bank robbers could flee the scene. We all knew this, of course, on some level, but when the time came for Bobby to give himself up and walk out the door, it’s like our brains went into sleep mode. No one on the SWAT team thought to remind anyone on the negotiating team of this one significant detail, so for a couple long beats Bobby couldn’t get out, and I got a sick feeling in my stomach that whatever progress we’d just made with this guy would be for nothing. So there we were, scrambling to recover. Soon, two SWAT guys moved forward toward the entrance, with ballistic shields, guns drawn, to take the locks and the barricade off the door—and at this point they still didn’t know what they were facing on the other side. It was a super-tense moment. There could have been a dozen guns on these two SWAT guys, but there was nothing for them to do but make their slow approach. Those guys were rock solid. They unlocked the door, backed away, and finally we were good to go. Bobby came out—his hands in the air. I’d walked him through a specific set of instructions on what to do when he came out the door, what to expect. A couple of SWAT guys patted him down. Bobby turned and looked and said, “Where’s Chris? Take me to Chris.” Finally, they brought him around to me, and we were able to debrief him inside our makeshift command post. This was the first we learned that there was only one other hostage-taker inside—and this naturally set the commander off. I didn’t learn this until later, but I could see why he would have been angry and embarrassed at this latest turn. All along, he’d been telling the media there were a bunch of bad guys inside—an international assemblage of bad guys, remember? But now that it turned out it was essentially a two-man operation, and one of the bad guys had wanted no part of it, the commander looked like he didn’t have a handle on the situation. But like I said, we didn’t know about the commander’s reaction just yet. All we knew was that we’d just gotten all this new intel, which told us we were closer to achieving our desired outcome than we had just thought. This was a positive development, something to celebrate. With what we now knew, it was going to be a whole lot easier to negotiate our way through the rest of it, and yet this commander was angry. He didn’t like that he’d been played, so he turned to one of the guys from NYPD’s Technical Assistance Response Unit (TARU) and commanded them to get a camera inside the bank, a mic . . . something. Now that I was huddled with Bobby, the commander swapped me out in favor of another primary negotiator on the phone. The new negotiator played it the same way I had, a couple of hours earlier—said, “This is Dominick. You’re talking to me now.” Dominick Misino was a great hostage negotiator—in my view, one of the world’s great closers, which was the term often used for the guy brought in to bang out the last details and secure the deal.
+>>>

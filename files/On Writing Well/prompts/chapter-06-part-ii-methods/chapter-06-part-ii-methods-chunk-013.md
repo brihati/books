@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-06-part-ii-methods",
+  "chunk_id": "chapter-06-part-ii-methods-chunk-013",
+  "source": {
+    "chapter_title": "Part II – Methods",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/06 - Part II Methods.txt",
+    "source_pages": "61-106",
+    "char_start": 69154,
+    "char_end": 76853,
+    "checksum": "efa55ced18235ee8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+d you had written two sentences like this: The tragic hero of the play is Othello. Small and malevo- lent, Iago feeds his jealous suspicions. 88 ON WRITING WELL In itself there's nothing wrong with the Iago sentence. But as a sequel to the previous sentence it's very wrong. The name lin- gering in the reader's ear is Othello; the reader naturally assumes that Othello is small and malevolent. When you read your writing aloud with these connecting links in mind you'll hear a dismaying number of places where you lost the reader, or confused the reader, or failed to tell him the one fact he needed to know, or told him the same thing twice: the inevitable loose ends of every early draft. What you
+
+must do is make an arrangement—one that holds together from start to finish and that moves with economy and warmth. Learn to enjoy this tidying process. I don't like to write (I like to have written). But I love to rewrite. I especially like to cut: to press the DELETE key and see an unnecessary word or phrase or sentence vanish into the electricity. I like to replace a humdrum word with one that has more precision or color. I like to strengthen the transition between one sentence and another. I like to rephrase a drab sentence to give it a more pleasing rhythm or a more graceful musical line. With every small refine- ment I feel that I'm coming nearer to where I would like to arrive, and when I finally get there I know it was the rewriting, not the writing, that won the game. WORD PROCESSING. The word processor is God's gift, or technology's gift, to rewriting and reorganizing. It puts your words right in front of your eyes for your instant consideration—and reconsideration; you can play with your sentences until you get them right. The paragraphs and pages will keep rearranging themselves, no mat- ter how much you cut and change, and then your printer will type everything neatly while you go and have a beer. Sweeter music could hardly be sung to writers than the sound of their article being retyped with all its improvements—but not by them. Bits & Pieces 89 It's no longer necessary for this book to explain, as earlier editions did, how to operate the wonderful new machine that had come into our lives and how to put its wonders to use in writing, rewriting, and organizing. That's now common knowl- edge. I'll just remind you (if you're still not a believer) that the savings in time and drudgery are enormous. With a word pro- cessor I sit down to write more willingly than I did when I used a typewriter, especially if I'm facing a complex task of organiza- tion, and I finish the task sooner and with far less fatigue. These are crucial gains for a writer: time, output, energy, enjoyment and control. TRUST YOUR MATERIAL. The longer I work at the craft of writing, the more I realize that there's nothing more interesting than the truth. What peo- ple do—and what people say—continues to take me by surprise with its wonderfulness, or its quirkiness, or its drama, or its humor, or its pain. Who could invent all the astonishing things that really happen? I increasingly find myself saying to writers and students, "Trust your material." It's hard advice to follow. Recently I spent some time as a writing coach at a newspa- per in a small American city. I noticed that many reporters had fallen into the habit of trying to make the news more palatable by writing in a feature style. Their leads consisted of a series of snippets that went something like this: Whoosh! It was incredible. Ed Barnes wondered if he was seeing things. Or maybe it was just spring fever. Funny how April can do that to a guy. It wasn't as if he hadn't checked his car before leaving the house. But then again, he didn't remember to tell Linda. 90 ON WRITING WELL Which was odd, because he always remembered to tell Linda. Ever since they started going together back in junior high. Was that really 20 years ago? And now there was also little Scooter to worry about. Come to think of it, the dog was acting kind of suspicious. The articles often began on page 1, and I would read as far as "Continued on page 9" and still have no idea of what they were about. Then I would dutifully turn to page 9 and find myself in an interesting story, full of specific details. I'd say to the reporter, "That was a good story when I finally got over here to page 9. Why didn't you put that stuff in the lead?" The reporter would say, "Well, in the lead I was writing color." The assumption is that fact and color are two separate ingredients. They're not; color is organic to the fact. Your job is to present the colorful fact. In 1988 I wrote a baseball book called Spring Training. It combined my lifelong vocation with my lifelong addiction— which is one of the best things that can happen to a writer. People of every age will write better and with more enjoyment if they write about what they care about. I chose spring training as my small corner of the large subject of baseball because it's a time of renewal, both for the players and for the fans. The game is given back to us in its original purity: it's played outside, in the sun, on grass, without organ music, by young men who are almost near enough to touch and whose salaries and grievances are mercifully put aside for six weeks. Above all, it's a time of teaching and learn- ing. I chose the Pittsburgh Pirates as the team I would cover because they trained in an old-time ballpark in Bradenton, Florida, and were a young club just starting to rebuild, with a manager, Jim Leyland, who was committed to teaching. I knew that I didn't want to romanticize the game. I don't like baseball movies that go into slow motion when the batter hits a home run, to notify me that it's a pregnant moment. I Bits & Pieces 91 know that about home runs, especially if they're hit with two out in the bottom of the ninth to win the game. I resolved not to let my writing go into slow motion—not to nudge the reader with significance—or to claim baseball as a metaphor for life, death, middle age, lost youth or a more innocent America. My premise was that baseball is a job—honorable work—and I wanted to know how that job gets taught and learned. So I went to Jim Leyland and his coaches and I said, "You're a teacher. I'm a teacher. Tell me: How do you teach hitting? How do you teach pitching? How do you teach fielding? How do you teach baserunning? How do you keep these young men up for such a brutally long schedule?" All of them responded generously and told me in detail how they do what they do. So did the players and all the other men and women who had infor- mation I wanted: umpires, scouts, ticket sellers, local boosters. One day I climbed up into the stands behind home plate to look for a scout. Spring training is baseball's ultimate talent show, and the camps are infested with laconic men who have spent a lifetime appraising talent. I spotted an empty seat next to a weathered man in his sixties who was using a stopwatch and taking notes. When the inning was over I asked him what he was timing. He said he was Nick Kamzic, Northern Scouting Coordinator of the California Angels, and he was timing runners on the base paths. I asked him what kind of information he was looking for. "Well, it takes a right-handed batter 4.3 seconds to reach first base," he said, "and a left-handed batter 4.1 or 4.2 sec- onds. Naturally that varies a little—you've got to take the human element into consideration." "What do those numbers téll you?" I asked. "Well, of course the average double play takes 4.3 sec- onds," he said. He said it as if it was common knowledge. I had never given any thought to the elapsed time of a double play. 92
+>>>

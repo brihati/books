@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-09-bargain-hard",
+  "chunk_id": "chapter-09-bargain-hard-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 9 | BARGAIN HARD",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+    "source_pages": "249-280",
+    "char_start": 13258,
+    "char_end": 20956,
+    "checksum": "7b53054ac0211a56"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+h to preparation can be lacking as they are much more focused on the person behind the table. They want to get to know you. They have a tremendous passion for the spirit of negotiation and what it takes not only to manage emotions but also to satisfy them. While it is very easy to disagree with an Accommodator, because they want nothing more that to hear what you have to say, uncovering their objections can be difficult. They will have identified potential problem areas beforehand and will leave those areas unaddressed out of fear of the conflict they may cause. If you have identified yourself as an Accommodator, stick to your ability to be very likable, but do not sacrifice your objections.
+
+Not only do the other two types need to hear your point of view; if you are dealing with another Accommodator they will welcome it. Also be conscious of excess chitchat: the other two types have no use for it, and if you’re sitting across the table from someone like yourself you will be prone to interactions where nothing gets done. ASSERTIVE The Assertive type believes time is money; every wasted minute is a wasted dollar. Their self-image is linked to how many things they can get accomplished in a period of time. For them, getting the solution perfect isn’t as important as getting it done. Assertives are fiery people who love winning above all else, often at the expense of others. Their colleagues and counterparts never question where they stand because they are always direct and candid. They have an aggressive communication style and they don’t worry about future interactions. Their view of business relationships is based on respect, nothing more and nothing less. Most of all, the Assertive wants to be heard. And not only do they want to be heard, but they don’t actually have the ability to listen to you until they know that you’ve heard them. They focus on their own goals rather than people. And they tell rather than ask. When you’re dealing with Assertive types, it’s best to focus on what they have to say, because once they are convinced you understand them, then and only then will they listen for your point of view. To an Assertive, every silence is an opportunity to speak more. Mirrors are a wonderful tool with this type. So are calibrated questions, labels, and summaries. The most important thing to get from an Assertive will be a “that’s right” that may come in the form of a “that’s it exactly” or “you hit it on the head.” When it comes to reciprocity, this type is of the “give an inch/take a mile” mentality. They will have figured they deserve whatever you have given them so they will be oblivious to expectations of owing something in return. They will actually simply be looking for the opportunity to receive more. If they have given some kind of concession, they are surely counting the seconds until they get something in return. If you are an Assertive, be particularly conscious of your tone. You will not intend to be overly harsh but you will often come off that way. Intentionally soften your tone and work to make it more pleasant. Use calibrated questions and labels with your counterpart since that will also make you more approachable and increase the chances for collaboration. We’ve seen how each of these groups views the importance of time differently (time = preparation; time = relationship; time = money). They also have completely different interpretations of silence. I’m definitely an Assertive, and at a conference this Accommodator type told me that he blew up a deal. I thought, What did you do, scream at the other guy and leave? Because that’s me blowing up a deal. But it turned out that he went silent; for an Accommodator type, silence is anger. For Analysts, though, silence means they want to think. And Assertive types interpret your silence as either you don’t have anything to say or you want them to talk. I’m one, so I know: the only time I’m silent is when I’ve run out of things to say. The funny thing is when these cross over. When an Analyst pauses to think, their Accommodator counterpart gets nervous and an Assertive one starts talking, thereby annoying the Analyst, who thinks to herself, Every time I try to think you take that as an opportunity to talk some more. Won’t you ever shut up? Before we move on I want to talk about why people often fail to identify their counterpart’s style. The greatest obstacle to accurately identifying someone else’s style is what I call the “I am normal” paradox. That is, our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption? But while innocent and understandable, thinking you’re normal is one of the most damaging assumptions in negotiations. With it, we unconsciously project our own style on the other side. But with three types of negotiators in the world, there’s a 66 percent chance your counterpart has a different style than yours. A different “normal.” A CEO once told me he expected nine of ten negotiations to fail. This CEO was likely projecting his beliefs onto the other side. In reality, he probably only matched with someone like-minded one of ten times. If he understood that his counterpart was different from him, he would most surely have increased his success rate. From the way they prepare to the way they engage in dialogue, the three types negotiate differently. So before you can even think about bargaining effectively, you have to understand your counterpart’s “normal.” You have to identify their type by opening yourself to their difference. Because when it comes to negotiating, the Golden Rule is wrong. The Black Swan rule is don’t treat others the way you want to be treated; treat them the way they need to be treated. (I’ve got a complementary PDF available that will help you identify your type and that of those around you. Please visit http://info .blackswanltd.com/3-types.) TAKING A PUNCH Negotiation academics like to treat bargaining as a rational process devoid of emotion. They talk about the ZOPA—or Zone of Possible Agreement—which is where the seller’s and buyer’s zones cross. Say Tony wants to sell his car and won’t take less than $5,000 and Samantha wants to buy but won’t pay more than $6,000. The ZOPA runs from $5,000 to $6,000. Some deals have ZOPAs and some don’t. It’s all very rational. Or so they’d have you think. You need to disabuse yourself of that notion. In a real bargaining session, kick-ass negotiators don’t use ZOPA. Experienced negotiators often lead with a ridiculous offer, an extreme anchor. And if you’re not prepared to handle it, you’ll lose your moorings and immediately go to your maximum. It’s human nature. Like the great ear-biting pugilist Mike Tyson once said, “Everybody has a plan until they get punched in the mouth.” As a well-prepared negotiator who seeks information and gathers it relentlessly, you’re actually going to want the other guy to name a price first, because you want to see his hand. You’re going to welcome the extreme anchor. But extreme anchoring is powerful and you’re human: your emotions may well up. If they do there are ways to weather the storm without bidding against yourself or responding with anger. Once you learn these tactics, you’ll be prepared to withstand the hit and counter with panache. First, deflect the punch in a way that opens up your counterpart. Successful negotiators often say “No” in one of the many ways we’ve talked about (“How am I supposed to accept that?”) or deflect the anchor with questions like “What are we trying to accomplish here?” Responses like these are great ways to refocus your counterpart when you feel you’re being pulled into the compromise trap.
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-07-create-the-illusion-of-control",
+  "chunk_id": "chapter-07-create-the-illusion-of-control-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 7 | CREATE THE ILLUSION OF CONTROL",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/07 - CHAPTER 7 CREATE THE ILLUSION OF CONTROL.txt",
+    "source_pages": "188-215",
+    "char_start": 20238,
+    "char_end": 27893,
+    "checksum": "fc35b2af4a022807"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+discovered the most valuable secret of negotiation.” This same technique for suspending unbelief that you use with kidnappers and escaping patients works for anything, even negotiating prices. When you go into a store, instead of telling the salesclerk what you “need,” you can describe what you’re looking for and ask for suggestions. Then, once you’ve picked out what you want, instead of hitting them with a hard offer, you can just say the price is a bit more than you budgeted and ask for help with one of the greatest-of-all-time calibrated questions: “How am I supposed to do that?” The critical part of this approach is that you really are asking for help and your delivery must convey that.
+
+With this negotiating scheme, instead of bullying the clerk, you’re asking for their advice and giving them the illusion of control. Asking for help in this manner, after you’ve already been engaged in a dialogue, is an incredibly powerful negotiating technique for transforming encounters from confrontational showdowns into joint problem-solving sessions. And calibrated questions are the best tool. CALIBRATE YOUR QUESTIONS A few years ago, I was consulting with a client who had a small firm that did public relations for a large corporation. The folks at the big company were not paying their bills, and as time went on, they owed my client more and more money. They kept her on the hook by promising lots of repeat business, implying that she would get a pile of revenue if she just kept working. She felt trapped. My advice for her was simple: I told her to engage them in a conversation where she summarized the situation and then asked, “How am I supposed to do that?” She shook her head. No way. The idea of having to ask this question just terrified her. “If they tell me I have to, then I’m trapped!” was her reaction. She also heard the question as “You’re screwing me out of money and it has to stop.” That sounded like the first step to her getting fired as a consultant. I explained to her that this implication, though real, was in her mind. Her client would hear the words and not the implication as long as she kept calm and avoided making it sound by her delivery like an accusation or threat. As long as she stayed cool, they would hear it as a problem to be solved. She didn’t quite believe me. We walked through the script several times, but she was still afraid. Then a few days later she called me, totally giddy with happiness. The client had called with another request and she had finally gotten up the courage to summarize the situation, and ask, “How am I supposed to do that?” And you know what? The answer she got was “You’re right, you can’t and I apologize.” Her client explained that they were going through some internal problems, but she was given a new accounting contact and told she’d be paid within forty-eight hours. And she was. Now, think about how my client’s question worked: without accusing them of anything, it pushed the big company to understand her problem and offer the solution she wanted. That in a nutshell is the whole point of open- ended questions that are calibrated for a specific effect. Like the softening words and phrases “perhaps,” “maybe,” “I think,” and “it seems,” the calibrated open- ended question takes the aggression out of a confrontational statement or close-ended request that might otherwise anger your counterpart. What makes them work is that they are subject to interpretation by your counterpart instead of being rigidly defined. They allow you to introduce ideas and requests without sounding overbearing or pushy. And that’s the difference between “You’re screwing me out of money, and it has to stop” and “How am I supposed to do that?” The real beauty of calibrated questions is the fact that they offer no target for attack like statements do. Calibrated questions have the power to educate your counterpart on what the problem is rather than causing conflict by telling them what the problem is. But calibrated questions are not just random requests for comment. They have a direction: once you figure out where you want a conversation to go, you have to design the questions that will ease the conversation in that direction while letting the other guy think it’s his choice to take you there. That’s why I refer to these questions as calibrated questions. You have to calibrate them carefully, just like you would calibrate a gun sight or a measuring scale, to target a specific problem. The good news is that there are rules for that. First off, calibrated questions avoid verbs or words like “can,” “is,” “are,” “do,” or “does.” These are closed-ended questions that can be answered with a simple “yes” or a “no.” Instead, they start with a list of words people know as reporter’s questions: “who,” “what,” “when,” “where,” “why,” and “how.” Those words inspire your counterpart to think and then speak expansively. But let me cut the list even further: it’s best to start with “what,” “how,” and sometimes “why.” Nothing else. “Who,” “when,” and “where” will often just get your counterpart to share a fact without thinking. And “why” can backfire. Regardless of what language the word “why” is translated into, it’s accusatory. There are very rare moments when this is to your advantage. The only time you can use “why” successfully is when the defensiveness that is created supports the change you are trying to get them to see. “Why would you ever change from the way you’ve always done things and try my approach?” is an example. “Why would your company ever change from your long-standing vendor and choose our company?” is another. As always, tone of voice, respectful and deferential, is critical. Otherwise, treat “why” like a burner on a hot stove— don’t touch it. Having just two words to start with might not seem like a lot of ammunition, but trust me, you can use “what” and “how” to calibrate nearly any question. “Does this look like something you would like?” can become “How does this look to you?” or “What about this works for you?” You can even ask, “What about this doesn’t work for you?” and you’ll probably trigger quite a bit of useful information from your counterpart. Even something as harsh as “Why did you do it?” can be calibrated to “What caused you to do it?” which takes away the emotion and makes the question less accusatory. You should use calibrated questions early and often, and there are a few that you will find that you will use in the beginning of nearly every negotiation. “What is the biggest challenge you face?” is one of those questions. It just gets the other side to teach you something about themselves, which is critical to any negotiation because all negotiation is an information-gathering process. Here are some other great standbys that I use in almost every negotiation, depending on the situation: ■ What about this is important to you? ■ How can I help to make this better for us? ■ How would you like me to proceed? ■ What is it that brought us into this situation? ■ How can we solve this problem? ■ What’s the objective? / What are we trying to accomplish here? ■ How am I supposed to do that? The implication of any well-designed calibrated question is that you want what the other guy wants but you need his intelligence to overcome the problem. This really appeals to very aggressive or egotistical counterparts. You’ve not only implicitly asked for help—triggering goodwill and less defensiveness—but you’ve engineered a situation in which your formerly recalcitrant counterpart is now using his mental and emotional resources to overcome your challenges. It is the first step in your counterpart
+>>>

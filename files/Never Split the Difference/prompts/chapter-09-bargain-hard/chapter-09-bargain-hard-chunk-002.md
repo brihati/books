@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "never-split-the-difference",
+  "chapter_id": "chapter-09-bargain-hard",
+  "chunk_id": "chapter-09-bargain-hard-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 9 | BARGAIN HARD",
+    "source_path": "/Users/sachin/books/files/Never Split the Difference/chapters/09 - CHAPTER 9 BARGAIN HARD.txt",
+    "source_pages": "249-280",
+    "char_start": 6277,
+    "char_end": 13958,
+    "checksum": "1e8524391b8f03a8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+I see what? I asked him. “All Keenon is doing is mirroring you. And he’s been doing it for almost an hour.” “Oh,” I said, my face going red as Keenon began to laugh. He was totally right. Keenon had been playing with me the entire time, using the psychological tool that works most effectively with assertive guys like me: the mirror. Your personal negotiation style—and that of your counterpart—is formed through childhood, schooling, family, culture, and a million other factors; by recognizing it you can identify your negotiating strengths and weaknesses (and those of your counterpart) and adjust your mindset and strategies accordingly. Negotiation style is a crucial variable in bargaining. If
+
+you don’t know what instinct will tell you or the other side to do in various circumstances, you’ll have massive trouble gaming out effective strategies and tactics. You and your counterpart have habits of mind and behavior, and once you identify them you can leverage them in a strategic manner. Just like Keenon did. There’s an entire library unto itself of research into the archetypes and behavioral profiles of all the possible people you’re bound to meet at the negotiating table. It’s flat-out overwhelming, so much so that it loses its utility. Over the last few years, in an effort primarily led by my son Brandon, we’ve consolidated and simplified all that research, cross- referencing it with our experiences in the field and the case studies of our business school students, and found that people fall into three broad categories. Some people are Accommodators; others—like me—are basically Assertive; and the rest are data-loving Analysts. Hollywood negotiation scenes suggest that an Assertive style is required for effective bargaining, but each of the styles can be effective. And to truly be effective you need elements from all three. A study of American lawyer-negotiators1 found that 65 percent of attorneys from two major U.S. cities used a cooperative style while only 24 percent were truly assertive. And when these lawyers were graded for effectiveness, more than 75 percent of the effective group came from the cooperative type; only 12 percent were Assertive. So if you’re not Assertive, don’t despair. Blunt assertion is actually counterproductive most of the time. And remember, your personal negotiating style is not a straitjacket. No one is exclusively one style. Most of us have the capacity to throttle up our nondominant styles should the situation call for it. But there is one basic truth about a successful bargaining style: To be good, you have to learn to be yourself at the bargaining table. To be great you have to add to your strengths, not replace them. Here’s a quick guide to classifying the type of negotiator you’re facing and the tactics that will be most fitting for you. ANALYST Analysts are methodical and diligent. They are not in a big rush. Instead, they believe that as long as they are working toward the best result in a thorough and systematic way, time is of little consequence. Their self-image is linked to minimizing mistakes. Their motto: As much time as it takes to get it right. Classic analysts prefer to work on their own and rarely deviate from their goals. They rarely show emotion, and they often use what is very close to the FM DJ Voice I talked about in Chapter 3, slow and measured with a downward inflection. However, Analysts often speak in a way that is distant and cold instead of soothing. This puts people off without them knowing it and actually limits them from putting their counterpart at ease and opening them up. Analysts pride themselves on not missing any details in their extensive preparation. They will research for two weeks to get data they might have gotten in fifteen minutes at the negotiating table, just to keep from being surprised. Analysts hate surprises. They are reserved problem solvers, and information aggregators, and are hypersensitive to reciprocity. They will give you a piece, but if they don’t get a piece in return within a certain period of time, they lose trust and will disengage. This can often seem to come out of nowhere, but remember, since they like working on things alone the fact that they are talking to you at all is, from their perspective, a concession. They will often view concessions by their counterpart as a new piece of information to be taken back and evaluated. Don’t expect immediate counterproposals from them. People like this are skeptical by nature. So asking too many questions to start is a bad idea, because they’re not going to want to answer until they understand all the implications. With them, it’s vital to be prepared. Use clear data to drive your reason; don’t ad-lib; use data comparisons to disagree and focus on the facts; warn them of issues early; and avoid surprises. Silence to them is an opportunity to think. They’re not mad at you and they’re not trying to give you a chance to talk more. If you feel they don’t see things the way you do, give them a chance to think first. Apologies have little value to them since they see the negotiation and their relationship with you as a person largely as separate things. They respond fairly well in the moment to labels. They are not quick to answer calibrated questions, or closed-ended questions when the answer is “Yes.” They may need a few days to respond. If you’re an analyst you should be worried about cutting yourself off from an essential source of data, your counterpart. The single biggest thing you can do is to smile when you speak. People will be more forthcoming with information to you as a result. Smiling can also become a habit that makes it easy for you to mask any moments you’ve been caught off guard. ACCOMMODATOR The most important thing to this type of negotiator is the time spent building the relationship. Accommodators think as long as there is a free-flowing continuous exchange of information time is being well spent. As long as they’re communicating, they’re happy. Their goal is to be on great terms with their counterpart. They love the win-win. Of the three types, they are most likely to build great rapport without actually accomplishing anything. Accommodators want to remain friends with their counterpart even if they can’t reach an agreement. They are very easy to talk to, extremely friendly, and have pleasant voices. They will yield a concession to appease or acquiesce and hope the other side reciprocates. If your counterparts are sociable, peace-seeking, optimistic, distractible, and poor time managers, they’re probably Accommodators. If they’re your counterpart, be sociable and friendly. Listen to them talk about their ideas and use calibrated questions focused specifically on implementation to nudge them along and find ways to translate their talk into action. Due to their tendency to be the first to activate the reciprocity cycle, they may have agreed to give you something they can’t actually deliver. Their approach to preparation can be lacking as they are much more focused on the person behind the table. They want to get to know you. They have a tremendous passion for the spirit of negotiation and what it takes not only to manage emotions but also to satisfy them. While it is very easy to disagree with an Accommodator, because they want nothing more that to hear what you have to say, uncovering their objections can be difficult. They will have identified potential problem areas beforehand and will leave those areas unaddressed out of fear of the conflict they may cause. If you have identified yourself as an Accommodator, stick to your ability to be very likable, but do not sacrifice your objections.
+>>>

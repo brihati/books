@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "on-writing-well",
+  "chapter_id": "chapter-05-part-i-principles",
+  "chunk_id": "chapter-05-part-i-principles-chunk-007",
+  "source": {
+    "chapter_title": "Part I – Principles",
+    "source_path": "/Users/sachin/books/files/On Writing Well/chapters/05 - Part I Principles.txt",
+    "source_pages": "15-60",
+    "char_start": 34234,
+    "char_end": 41920,
+    "checksum": "82a95243f6bc2e3d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s sentence was just vague enough to say nothing and still sedate his constituents. Later administrations brought no relief. Defense Secretary Caspar Weinberger, assessing a Polish crisis in 1984, said: "There's continuing ground for serious concern and the situation remains serious. The longer it remains serious, the more ground there is for serious concern." President Bush, questioned about his stand on assault rifles in 1989, said: "There are various groups that think you can ban certain kinds of guns. I am not in that mode. I am in the mode of being deeply concerned." But my all-time champ is Elliot Richardson, who held four major cabinet positions in the 1970s. It's hard to know where to
+
+begin picking from his trove of equivocal statements, but con- sider this one: "And yet, on balance, affirmative action has, I think, been a qualified success." A 13-word sentence with five hedging words. I give it first prize as the most wishy-washy sen- tence in modern public discourse, though a rival would be his analysis of how to ease boredom among assembly-line workers: "And so, at last, I come to the one firm conviction that I men- tioned at the beginning: it is that the subject is too new for final judgments." That's a firm conviction? Leaders who bob and weave like 24 ON WRITING WELL aging boxers don't inspire confidence—or deserve it. The same thing is true of writers. Sell yourself, and your subject will exert its own appeal. Believe in your own identity and your own opin- ions. Writing is an act of ego, and you might as well admit it. Use its energy to keep yourself going. CSSEO The Audience Soon after you confront the matter of preserving your identity, another question will occur to you: "Who am I writing for?*' It s a fundamental question, and it has a fundamental answer: You are writing for yourself. Don't try to visualize the great mass audience. There is no such audience—every reader is a differ- ent person. Don't try to guess what sort of thing editors want to publish or what you think the country is in a mood to read. Edi- tors and readers don't know what they want to read until they read it. Besides, they're always looking for something new. Don't worry about whether the reader will "get it" if you indulge a sudden impulse for humor. If it amuses you in the act of writing, put it in. (It can always be taken out, but only you can put it in.) You are writing primarily to please yourself, and if you go about it with enjoyment you will also entertain the readers who are worth writing for. If you lose the dullards back in the dust, you don't want them anyway. This may seem to be a paradox. Earlier I warned that the reader is an impatient bird, perched on the thin edge of distrac- 26 ON WRITING WELL tion or sleep. Now I'm saying you must write for yourself and not be gnawed by worry over whether the reader is tagging along. I'm talking about two different issues. One is craft, the other is attitude. The first is a question of mastering a precise skill. The second is a question of how you use that skill to express your personality. In terms of craft, there's no excuse for losing readers through sloppy workmanship. If they doze off in the middle of your arti- cle because you have been careless about a technical detail, the fault is yours. But on the larger issue of whether the reader likes you, or likes what you are saying or how you are saying it, or agrees with it, or feels an affinity for your sense of humor or your vision of life, don't give him a moment's worry. You are who you are, he is who he is, and either you'll get along or you won't. Perhaps this still seems like a paradox. How can you think carefully about not losing the reader and still be carefree about his opinion? I assure you that they are separate processes. First, work hard to master the tools. Simplify, prune and strive for order. Think of this as a mechanical act, and soon your sentences will become cleaner. The act will never become as mechanical as, say, shaving or shampooing—you will always have to think about the various ways in which the tools can be used. But at least your sentences will be grounded in solid prin- ciples, and your chances of losing the reader will be smaller. Think of the other as a creative act: the expressing of who you are. Relax and say what you want to say. And since style is who you are, you only need to be true to yourself to find it grad- ually emerging from under the accumulated clutter and debris, growing more distinctive every day. Perhaps the style won't solidify for years as your style, your voice. Just as it takes time to find yourself as a person, it takes time to find yourself as a stylist, and even then your style will change as you grow older. But whatever your age, be yourself when you write. Many old men still write with the zest they had in their twenties or The Audience 27 thirties; obviously their ideas are still young. Other old writers ramble and repeat themselves; their style is the tip-off that they have turned into garrulous bores. Many college students write as if they were desiccated alumni 30 years out. Never say any- thing in writing that you wouldn't comfortably say in conversa- tion. If you're not a person who says "indeed" or "moreover," or who calls someone an individual ("he's a fine individual"), please don't write it. Let's look at a few writers to see the pleasure with which they put on paper their passions and their crotchets, not caring whether the reader shares them or not. The first excerpt is from "The Hen (An Appreciation)," written by E. B. White in 1944, at the height of World War II: Chickens do not always enjoy an honorable position among city-bred people, although the egg, I notice, goes on and on. Right now the hen is in favor. The war has deified her and she is the darling of the home front, feted at conference tables, praised in every smoking car, her girlish ways and curi- ous habits the topic of many an excited husbandryman to whom yesterday she was a stranger without honor or allure. My own attachment to the hen dates from 1907, and I have been faithful to her in good times and bad. Ours has not always been an easy relationship to maintain. At first, as a boy in a carefully zoned suburb, I had neighbors and police to reckon with; my chickens had to be as closely guarded as an underground newspaper. Later, as a man in the country, I had my old friends in town to reckon with, most of whom regarded the hen as a comic prop straight out of vaudeville... . Their scorn only increased my devotion to the hen. I remained loyal, as a man would to a bride whom his family received with open ridicule. Now it is my turn to wear the smile, as I listen to the enthusiastic cackling of urbanités, who have suddenly taken up the hen socially and 28 ON WRITING WELL who fill the air with their newfound ecstasy and knowledge and the relative charms of the New Hampshire Red and the Laced Wyandotte. You would think, from their nervous cries of wonder and praise, that the hen was hatched yesterday in the suburbs of New York, instead of in the remote past in the jungles of India. To a man who keeps hens, all poultry lore is exciting and endlessly fascinating. Every spring I settle down with my farm journal and read, with the same glazed expression on my face, the age-old story of how to prepare a brooder house.... There's a man writing about a subject I have absolutely no interest in. Yet I enjoy this piece thoroughly. I like the simple beauty of its style. I like the rhythms, the unexpected but refreshing words ("deified," "allure," "cackling"), the specific details like the Laced Wyandotte and the brooder house. But
+>>>
