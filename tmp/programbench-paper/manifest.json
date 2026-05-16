@@ -1,0 +1,47 @@
+{
+  "input": "https://programbench.com/static/paper.pdf",
+  "source": {
+    "source_type": "url",
+    "source": "https://programbench.com/static/paper.pdf",
+    "content_type": "application/pdf",
+    "bytes": 2487790
+  },
+  "pdf": {
+    "path": "/Users/sachin/books/tmp/programbench-paper/source/paper.pdf",
+    "sha256": "5d9738c146a483a968417997fb0b25a2b3726b5f4d2b6501995e447e07065716",
+    "bytes": 2487790
+  },
+  "options": {
+    "render_pages": "with-images",
+    "image_min_area": 10000
+  },
+  "extraction": {
+    "page_count": 43,
+    "metadata": {
+      "format": "PDF 1.7",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "LaTeX with hyperref",
+      "producer": "pdfTeX-1.40.27",
+      "creationDate": "D:20260505013455-07'00'",
+      "modDate": "D:20260505013455-07'00'",
+      "trapped": "",
+      "encryption": null
+    },
+    "asset_count": 14,
+    "embedded_image_count": 9,
+    "page_render_count": 5,
+    "empty_text_pages": [],
+    "references_start_page": 13,
+    "references_detection_uncertain": false,
+    "validation": {
+      "missing_linked_assets": [],
+      "has_full_markdown": true,
+      "has_full_text": true,
+      "has_references_file": true
+    }
+  },
+  "extracted_at": "2026-05-06T09:06:48.184943+00:00"
+}

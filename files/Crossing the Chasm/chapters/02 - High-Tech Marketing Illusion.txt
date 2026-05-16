@@ -1,0 +1,1906 @@
+1
+High-Tech Marketing Illusion
+When this book was originally drafted in 1989, I drew on the 
+example of an electric car as a disruptive innovation that had yet 
+to cross the chasm. Indeed at that time there were only a few 
+technology enthusiasts retrofitting cars with alternative power 
+supplies. When I revised it extensively in 1999, once again I 
+drew on the same example. GM had just released an electric 
+vehicle, and all the other manufacturers were making noise. But 
+the market yawned instead. Now it is 2013, and once again we 
+are talking about the market for electric vehicles. This time the 
+vendor in the spotlight is Tesla, and the vehicle getting the most 
+attention is their Model S sedan.
+Stepping back a bit from the cool factor, let’s assume these cars 
+work like any other, except they are quieter and better for the en­
+vironment. Now the question is: When are you going to buy one?
+The Technology Adoption Life Cycle
+Your answer to the preceding question will tell a lot about how 
+you relate to the Technology Adoption Life Cycle, a model for 
+12
+Crossing the Chasm
+understanding the acceptance of new products. If your answer 
+is “Not until hell freezes over,” you are probably a very late 
+adopter of technology, what we call in the model a laggard. If 
+your answer is “When I have seen electric cars prove themselves 
+and when there are enough service stations on the road,” you 
+might be a middle-of-the-road adopter, or in the model, the 
+early majority. If you say, “Not until most people have made the 
+switch and it becomes really inconvenient to drive a gasoline 
+car,” you are probably more of a follower, a member of the late 
+majority. If, on the other hand, you want to be the first one on 
+your block with an electric car, you are apt to be an innovator or 
+an early adopter.
+In a moment we are going to take a look at these labels in 
+greater detail, but first we need to understand their signifi­
+cance. It turns out our attitude toward technology adoption 
+becomes significant—at least in a marketing sense—any time 
+we are introduced to products that require us to change our 
+current mode of behavior or to modify other products and 
+services we rely on. In academic terms, such change-sensitive 
+products are called discontinuous or disruptive innovations The 
+contrasting term, continuous or sustaining innovations, refers to 
+the normal upgrading of products that does not require us to 
+change behavior.
+For example, when Warby Parker promises you better­
+looking eyeglasses, that is a continuous innovation. You still 
+are wearing the same combination of lenses and frames, you 
+just look cooler. When Ford’s Fusion promises better mile­
+age, when Google Gmail promises you better integration with 
+other Google apps, or when Samsung promises sharper and 
+brighter TV pictures across bigger and bigger screens, these 
+High-Tech Marketing Illusion
+13
+are all continuous innovations. As a consumer, you don’t 
+have to change your ways in order to take advantage of these 
+improvements.
+On the other hand, if the Samsung were a 3-D TV, it 
+would be incompatible with normal viewing, requiring you 
+to don special glasses to get the special effects. This would be 
+a discontinuous innovation because you would have to change 
+your normal TV-viewing behavior. Similarly if the new Gmail 
+account were to be activated on a Google Chrome notebook 
+running Android, it would be incompatible with most of to­
+day’s software base, which runs under either Microsoft or 
+Apple operating systems. Again, you would be required to 
+seek out a whole new set of software, thereby classifying this 
+too as a discontinuous innovation. Or if the new Ford Fusion 
+is the Eriergi model, which uses electricity instead of gaso­
+line, or if the new sight-improvement offer were Lasik surgery 
+rather than eyeglasses, then once again you would have an 
+offer incompatible with the infrastructure of supporting com­
+ponents otherwise available. In all these cases, the innovation 
+demands significant changes by not only the consumer but 
+also the infrastructure of supporting businesses that provide 
+complementary products and services to round out the com­
+plete offer. That is how and why such innovations come to be 
+called discontinuous.
+Between continuous and discontinuous lies a spectrum of de­
+mands for behavioral change. Contact lenses, unlike Lasik 
+surgery, do not require a whole new infrastructure, but they 
+do ask for a whole new set of behaviors from the consumer. 
+Internet TVs do not require any special viewing glasses, but 
+they do require the consumer to be “digitally competent.”
+14
+Crossing the Chasm
+Microsoft’s Surface tablet, unlike the Chrome notebook, is 
+compatible with the installed base of Microsoft applications, 
+but its “tiles” interface requires users to learn a whole new set 
+of conventions. And Ford’s hybrid Fusion, unlike its Energi 
+model, can leverage the existing infrastructure of gas stations, 
+but it does require learning new habits for starting and run­
+ning the car. All these, like the special washing instructions 
+for certain fabrics, the special street lanes reserved for bicy­
+cle riders, the special dialing instructions for calling over­
+seas, represent some new level of demand on the consumer to 
+absorb a change in behavior. That’s the price of moderniza­
+tion. Sooner or later, all businesses must make these demands. 
+And so it is that all businesses can profit by lessons from high- 
+tech industries.
+Whereas other industries introduce discontinuous innova­
+tions only occasionally and with much trepidation, high-tech 
+enterprises do so routinely and as confidently as a born-again 
+Christian holding four aces. From their inception, there­
+fore, high-tech industries have needed a marketing model 
+that coped effectively with this type of product introduction. 
+Thus the Technology Adoption Life Cycle became central to 
+the entire sector’s approach to marketing. (People are usually 
+amused to learn that the original research that gave rise to this 
+model was done on the adoption of new strains of seed pota­
+toes among American fanners. Despite these agrarian roots, 
+however, the model has thoroughly transplanted itself into the 
+soil of Silicon Valley.)
+The model describes the market penetration of any new 
+technology product in terms of a progression in the types of 
+consumers it attracts throughout its useful life:
+High-Tech Marketing Illusion
+15
+TECHNOLOGY ADOPTION LIFE CYCLE
+As you can see, we have a bell curve. The divisions in the 
+curve are roughly equivalent to where standard deviations 
+would fall. That is, the early majority and the late majority fall 
+within one standard deviation of the mean, the early adopters 
+and the laggards within two, and way out there, at the very 
+onset of a new technology, about three standard deviations from 
+the norm, are the innovators.
+The groups are distinguished from each other by their char­
+acteristic response to a discontinuous innovation based on a new 
+technology. Each group represents a unique psychographic profile—a 
+combination of psychology and demographics that makes its mar­
+keting responses different from those of the other groups. Under­
+standing each profile and its relationship to its neighbors provides 
+a critical foundation for high-tech marketing overall.
+Innovators pursue new technology products aggressively. 
+They sometimes seek them out even before a formal market­
+ing program has been launched. This is because technology is 
+16
+Crossing the Chasm
+a central interest in their life, regardless of what function it is 
+performing. At root they are intrigued with any fundamental 
+advance and often make a technology purchase simply for the 
+pleasure of exploring the new device’s properties. There are not 
+very many innovators m any given market segment, but win­
+ning them over at the outset of a marketing campaign is import­
+ant nonetheless, because their endorsement reassures the other 
+players in the marketplace that the product could in fact work.
+Early adopters, like innovators, buy into new product concepts 
+very early in their life cycle, but unlike innovators, they are not 
+technologists. Rather they are people who find it easy to imagine, 
+understand, and appreciate the benefits of a new technology, and 
+to relate these potential benefits to their other concerns. When­
+ever they find a strong match, early adopters are willing to base 
+their buying decisions upon it. Because early adopters do not rely 
+on well-established references in making these buying decisions, 
+preferring instead to rely on their own intuition and vision, they 
+are core to opening up any high-tech market segment.
+The early majority share some of the early adopter’s ability to 
+relate to technology, but ultimately they are driven by a strong 
+sense of practicality. They know that many of these newfangled 
+inventions end up as passing fads, so they are content to wait and see 
+how other people are making out before they buy in themselves. 
+They want to see well-established references before investing sub­
+stantially. Because there are so many people in this segment— 
+roughly one-third of the whole adoption life cycle—winning 
+their business is fundamental to any substantial profits and growth.
+The late majority shares all the concerns of the early majority, 
+plus one major additional one: Whereas people in the early ma­
+jority are comfortable with their ability to handle a technology 
+product, should they finally decide to purchase it, members of 
+High-Tech Marketing Illusion
+17
+the late majority are not. As a result, they wait until something 
+has become an established standard, and even then they want to 
+see lots of support and tend to buy, therefore, from large, well- 
+established companies. Like the early majority, this group com­
+prises about one-third of the total buying population in any given 
+segment. Courting its favor is highly profitable indeed, for while 
+profit margins decrease as the products mature, so do the selling 
+costs, and virtually all the R&D costs have been amortized.
+Finally there are the laggards. These people simply don’t 
+want anything to do with new technology, for any of a variety 
+of reasons, some personal and some economic. The only time 
+they ever buy a technological product is when it is buried deep 
+inside another product—the way, say, that a microprocessor is 
+designed into the braking system of a new car—such that they 
+don’t even know it is there. From a market development per­
+spective laggards are generally regarded as not worth pursuing 
+on any other basis.
+To recap the logic of the Technology Adoption Life Cycle, 
+its underlying thesis is that technology is absorbed into any 
+given community in stages corresponding to the psychological 
+and social profiles of various segments within that community. 
+This process can be thought of as a continuum with definable 
+stages, each associated with a definable group, and each group 
+making up a predictable portion of the whole.
+The High-Tech Marketing Model
+This profile is in turn the very foundation of the High-Tech 
+Marketing Model. That model says that the way to develop a 
+high-tech market is to work the curve left to right, focusing first 
+18
+Crossing the Chasm
+on the innovators, growing that market segment, then moving 
+on to the early adopters, growing that segment, and so on, to 
+the early majority, late majority, and even to the laggards. In 
+this effort, companies must use each “captured” group as a ref­
+erence base for launching their marketing into the next group. 
+Thus the endorsement of innovators becomes an important tool 
+for developing a credible pitch to the early adopters, that of the 
+early adopters to the early majority, and so on.
+The idea is to keep this process moving smoothly, progress­
+ing something like the passing of a baton in a relay race or like 
+Tarzan making his way across the jungle swinging from vine 
+to well-placed vine. It is important to maintain momentum in 
+order to create a bandwagon effect that makes it natural for 
+the next group to want to buy in. Too much of a delay and 
+the effect would be something like hanging from a motionless 
+vine—nowhere to go but down. (Actually, going down is the 
+graceful alternative. What happens more often is a desperate 
+attempt to re-create momentum, typically through some highly 
+visible form of promotion, which ends up making the company 
+look like Tarzan frantically jerking back and forth, trying to get 
+a vine moving with no leverage. This typically leads the other 
+animals in the jungle just to sit and wait for him to fall.)
+There is an additional motive for maintaining momentum: 
+to keep ahead of the next emerging technology. In the past 
+decade desktop personal computers have largely been displaced 
+by laptops, a substantial number of which are likely to be dis­
+placed in this decade by tablets. You need to take advantage 
+of your day in the sun before the next day renders you obso­
+lete. From this notion comes the idea of a window of opportunity. 
+If momentum is lost, then we can be overtaken by a compet­
+itor, thereby losing the advantages exclusive to a technology 
+High-Tech Marketing Illusion
+19
+leadership 
+position—specifically, 
+the 
+profit-margin 
+advantage 
+during the middle to late stages, which is the primary source 
+from which high-tech fortunes are made.
+This, in essence, is the High-Tech Marketing Model—a 
+vision of a smooth unfolding through all the stages of the Tech­
+nology Adoption Life Cycle. What is dazzling about this concept, 
+particularly to those who own equity in a high-tech venture, is 
+its promise of a virtual monopoly over a major new market de­
+velopment. If you can get there first, “catch the curve,” and ride 
+it up through the early majority segment, thereby establishing 
+the de facto standard, you can get rich very quickly and “own” 
+a highly profitable market for a very long time to come.
+Testimonials
+The Apple iPad is a prime example of leveraging the High-Tech 
+Marketing Model end to end. Launched in 2009 after being 
+demoed at MacWorld by Steve Jobs, its touch-interface dynam­
+ics and gorgeous display of images made it an instant hit with 
+Mac enthusiasts, selling three hundred thousand units its first 
+day. Then visionary executives began using it as their personal 
+digital assistant, especially for email and presentations, forcing 
+their CIOs to find a way to accommodate them. Then sales exec­
+utives, the ultimate pragmatists, found that iPads were great for 
+one-on-one presentations to economic buyers, and now whole 
+sales forces were getting outfitted. Meanwhile, in boardrooms 
+across America the iPad had become a socially acceptable way 
+to be always online, in part because one could distribute board 
+materials to it electronically to be accessed during the meeting. 
+Then the kids got their hands on them, and there was a massive 
+20
+Crossing the Chasm
+explosion in use cases, primarily Facebook and other forms of 
+social computing, but also including leveraging the World Wide 
+Web for broader educational impact. And with Facebook along 
+came the grandparents, historically a conservative if not a laggard 
+constituency when it came to anything computer related. And 
+finally it got to toddlers and babies, and God help us, kittens 
+interacting directly with the screens and experiencing frustration 
+with any image that fails to respond like an iPad. In sum, in less 
+than five years, iPads have become pervasively integrated into the 
+information fabric that makes up our digital lives—not bad for 
+something not old enough to be in the first grade.
+Astounding as this accomplishment is, many other compa­
+nies have achieved a comparable status. This is what Microsoft, 
+Intel, and Dell achieved in desktop PCs, Qualcomm and ARM 
+in smartphones, Cisco in routers and switches, Google in search 
+advertising, SAP in enterprise-class business applications, Oracle 
+in relational databases, and HP in laser and inkjet printers.
+Each of these companies has held market share in excess of 
+50 percent in its prime market. All of them have been able to es­
+tablish strongholds in the early majority segment, if not beyond, 
+and to this day look forward to continued growth, strong profit 
+margins, and preferred relationships with suppliers and custom­
+ers. To be sure, some like Dell and, more dramatically, HP have 
+fallen on hard times, but even then customers often bend over 
+backward to give market share leaders second and third chances, 
+bringing cries of anguish from their competitors who would 
+never be granted such grace.
+It should come as no surprise that the history of these flag­
+ship products conforms to the High-Tech Marketing Model. 
+In truth, the model was essentially derived from an abstraction 
+of these histories. And so high-tech marketing, well into the
+High-Tech Marketing Illusion
+21
+second decade of the twenty-first century, keeps before it the 
+example of these companies and the abstraction of the High- 
+Tech Marketing Model, and marches confidently forward.
+Of course, if that were a sufficient formula for success, you 
+would need to read no further.
+Illusion and Disillusion: Cracks in the Bell Curve
+It is now time to advise you that there are any number of us in 
+Silicon Valley who are willing to testify that there is something 
+wrong with the High-Tech Marketing Model. We believe this to 
+be true because we all own what once were meaningful equity 
+stakes in corporations that either no longer exist or whose current 
+valuation is so diluted that our stock—were there a market for it, 
+which there is not—has lost all monetary significance.
+Although we all experienced our fates uniquely, much of 
+our shared experience can be summarized by recasting the 
+Technology Adoption Life Cycle in the following way:
+THE REVISED TECHNOLOGY ADOPTION LIFE CYCLE
+22
+Crossing the Chasm
+As you can see, the components of the life cycle are un­
+changed, but between any two psychographic groups has been 
+introduced a gap. This symbolizes the dissociation between 
+the two groups—that is, the difficulty any group will have in 
+accepting a new product if it is presented in the same way as it 
+was to the group to its immediate left. Each of these gaps rep­
+resents an opportunity for marketing to lose momentum, to 
+miss the transition to the next segment, thereby never to gain 
+the promised land of profit-margin leadership in the middle of 
+the bell curve.
+The First Crack
+Two of the gaps in the High-Tech Marketing Model are rela­
+tively minor—what one might call “cracks in the bell curve”— 
+yet even here unwary ventures have slipped and fallen. The first 
+is between the innovators and the early adopters. It is a gap that 
+occurs when a hot technology product cannot be readily trans­
+lated into a major new benefit—something like Esperanto. The 
+enthusiast loves it for its architecture, but nobody else can even 
+figure out how to start using it.
+Take virtual reality, for example. It is very cool technology 
+and was able to generate its own mark-up language, VRML, 
+but aside from one early success with Second Life, it basi­
+cally has been characterized by a series of interesting exper­
+iments which have yet to be followed up on. The challenge 
+here is primarily technological, meaning that the gap is simply 
+too great between the Google-class processing power needed 
+to create a truly seamless experience (our neurons are very 
+fussy consumers indeed) and the personal budgets that would 
+fund any of these applications at scale. One can envision the 
+High-Tech Marketing Illusion
+23
+technology getting there someday, but for now that day is so 
+far in the future, it leaves virtual reality stuck with the enthu­
+siasts waiting for a visionary.
+The same could be said for 3-D printing. This has inspired a 
+generation of technology enthusiasts to form a “Maker’s Move­
+ment,” an extension of the do-it-yourself culture that special­
+izes in fabricating objects of all sorts. At the time of this writing 
+3-D printing is getting a lot of press, but the actual market is 
+still much like the original home computing market in the days 
+of Heathkits before the Apple II—a DIY technology enthusi­
+ast’s paradise.
+This is a market development problem. As we shall see in 
+the next chapter, the key to getting beyond the enthusiasts and 
+winning over a visionary is to show that the new technology 
+enables some strategic leap forward, something never before 
+possible, which has an intrinsic value and appeal to the nontech­
+nologist. This benefit is typically symbolized by a single, com­
+pelling flagship application, something that showcases the power 
+and value of the new product. If the marketing effort is unable 
+to find that compelling application, then market development 
+stalls with the innovators, and the future of the product falls 
+through this first crack in the bell curve.
+The Other Crack
+There is another crack in the bell curve, of approximately 
+equal magnitude, that falls between the early majority and the 
+late majority. By this point in the Technology Adoption Life 
+Cycle, the market is already well developed, and the technology 
+product has been absorbed into the mainstream. The key issue 
+now—transitioning from the early to the late majority—has to 
+24
+Crossing the Chasm
+do with lingering residual demands on the end user to be tech­
+nologically competent.
+Simply put, the early majority is willing and able to become 
+technologically competent where necessary; the late majority is 
+not. When a product reaches this point in the market develop­
+ment, it must be made increasingly easier to adopt in order to 
+continue being successful. If this does not occur, the transition 
+to the late majority will stall.
+Home automation, programmable appliances, and high-end 
+cameras are all currently in this situation, as are a whole slew of 
+telephones that offer call forwarding, three-way conferencing, 
+or even just call transferring. How many times have you been 
+on the phone and heard—or said—“Now I may lose you when I 
+hit the transfer button, so be sure to call back if I do.” The prob­
+lem is that for people who are not frequent users of the system 
+the protocols are simply too hard to remember. As a result, users 
+do not use the features, and so companies in mature markets 
+find it harder and harder to get paid for the R&D they have 
+done because the end user cannot capture the benefit. Instead, 
+they bemoan that the product has become a commodity when 
+in fact it is the experience of the product that has been com­
+moditized. This truly is marketing’s fault, particularly when 
+companies have ceded marketing the right to redesign the user 
+interface and thus control the user experience.
+Other examples of products in danger of falling through 
+the crack between the early and late majority are scanning and 
+project management software. The market leaders in these two 
+areas, Hewlett-Packard and Microsoft respectively, have been 
+quite successful in capturing the early majority, but their prod­
+ucts still give conservatives in the late majority pause. And so 
+High-Tech Marketing Illusion
+25
+these categories are in danger of stagnating although neither
+market has ever in fact been saturated.
+Discovering the Chasm
+The real news, however, is not the two cracks in the bell curve,
+the one between the innovators and the early adopters, the
+other between the early and late majority. No, the real news
+is the deep and dividing chasm that separates the early adopt­
+ers from the early majority. This is by far the most formidable
+and unforgiving transition in the Technology Adoption Life
+Cycle, and it is all the more dangerous because it typically goes
+unrecognized.
+The reason the transition can go unnoticed is that with both
+groups the customer list and the size of the order can look the
+same. Typically, in either segment, you would see a list of For­
+tune 500 to Fortune 2000 customers making relatively large
+orders—five figures for sure, more often six figures or even
+higher. But in fact the basis for the sale—what has been prom­
+ised, implicitly or explicitly, and what must be delivered—is
+radically different.
+What the early adopter is buying, as we shall see in greater
+detail in Chapter 2, is some kind of change agent. By being the
+first to implement this change in their industry, the early adopt­
+ers expect to get a jump on the competition, whether from
+lower product costs, faster time to market, more complete cus­
+tomer service, or some other comparable business advantage.
+They expect a radical discontinuity between the old ways and
+the new, and they are prepared to champion this cause against
+26
+Crossing the Chasm
+entrenched resistance. Being the first, they also are prepared to 
+bear with the inevitable bugs and glitches that accompany any 
+innovation just coming to market.
+By contrast, the early majority want to buy a productivity im­
+provement for existing operations. They are looking to minimize 
+the discontinuity with the old ways. They want evolution, not 
+revolution. They want technology to enhance, not overthrow, 
+the established ways of doing business. And above all, they do 
+not want to debug somebody else’s product. By the time they 
+adopt it, they want it to work properly and to integrate appro­
+priately with their existing technology base.
+This contrast just scratches the surface relative to the differ­
+ences and incompatibilities among early adopters and the early 
+majority. Let me just make two key points for now: Because of 
+these incompatibilities, early adopters do not make good refer­
+ences for the early majority. And because of the early majority’s 
+concern not to disrupt their organizations, good references are 
+critical to their buying decisions. So what we have here is a 
+catch-22. The only suitable reference for an early majority cus­
+tomer, it turns out, is another member of the early majority, but 
+no upstanding member of the early majority will buy without 
+first having consulted with several suitable references.
+Bodies in the Chasm
+What happens in this catch-22 situation? First, because the 
+product has caught on with the early adopters, it has garnered 
+a lot of publicity: Holograms, pen-based tablets, fuel cells, QR 
+codes, Massive Open Online Courses—we have all read a lot 
+about these types of offerings, yet not one has achieved to date 
+High-Tech Marketing Illusion
+27
+mainstream market status, despite the fact that the current offers 
+actually do work reasonably well. In large part this is because 
+of the high degree of discontinuity implicit in their adoption 
+by organizations, and the inability of the marketing effort, to 
+date, to lower this barrier to the early majority. So the products 
+languish, continuing to feed off the early adopter segment of the 
+market, but unable to really take off and break through to the 
+high-volume opportunities.
+Segways are a classic example of this phenomenon. You’ve 
+seen them on occasion in malls or in airports, looking some­
+thing like an old-fashioned lawn mower gone vertical, ridden 
+around by someone in a security professional’s uniform. Kind of 
+dorky looking, but don’t kid yourself. The gyroscopic balance 
+control is fabulous, and the control movements once mastered 
+are graceful. The hope was these devices would become a uni­
+versal transport mechanism. Why didn’t that happen? In a word: 
+stairs. Stairs are pesky little devils that crop up everywhere, and 
+Segways do not handle them well at all. That’s what we call a 
+showstopper. So while Steve Wozniak can still field a brace of 
+Segways for a rousing match of polo, no one has yet come up 
+with a breakthrough application for the rest of us. Hence its fate 
+for any foreseeable future is to dwell in the chasm forever.
+As expensive a lesson as the Segway was for its investors, it 
+pales by comparison with the reputed $6 billion bath Motorola 
+took on its satellite mobile phone venture Iridium. Again, from 
+a technology enthusiast’s point of view, what a great idea! In­
+stead of building out tens of thousands of cellular base stations 
+everywhere—and still failing to adequately cover sparsely pop­
+ulated areas—how about putting up seventy-seven low-earth­
+orbiting satellites and do the job for the entire planet? (FYI, 
+seventy-seven happens to be the atomic number for iridium, 
+28
+Crossing the Chasm
+which is a technology enthusiast’s idea of a cool inside joke.) 
+So what happened? Well, in this case it was not stairs that were 
+the problem, it was buildingsl Satellite communications do not 
+work very well inside buildings. Add to that the bulkiness of 
+the handsets compared to cellular mobile phones, plus the very 
+high cost of subscribing, and once again you have a showstop­
+per. Today the technology is indeed used successfully for niche 
+applications, but to put that in perspective, the network was 
+bought out of bankruptcy for $25 million. Chasms can result in 
+very painful falls indeed.
+In sum, when promoters of high-tech products try to make 
+the transition from a market base made up of visionary early 
+adopters to penetrate the next adoption segment, the pragmatist 
+early majority, they are effectively operating without a reference 
+base and without a support base within a market that is highly reference 
+oriented and highly support oriented.
+This is indeed a chasm, and into this chasm many an unwary 
+start-up venture has fallen. Despite repeated instances of the 
+chasm effect, however, high-tech marketing still struggles to get 
+this problem properly in focus. As a final prelude to our going 
+forward, therefore, by way of evoking additional glimmers of 
+recognition and understanding of this plight of the chasm, I 
+offer the following parable as a kind of condensation of the en­
+trepreneurial experience gone awry.
+A High-Tech Parable
+In the first year of selling a product—most of it alpha and beta 
+release—the emerging high-tech company expands its cus­
+tomer list to include some technology enthusiast innovators and 
+High-Tech Marketing Illusion
+29
+one or two visionary early adopters. Everyone is pleased, and at
+the first annual Christmas party, held on the company premises,
+plastic glasses and potluck canapes are held high.
+In the second year—the first year of true product—the com­
+pany wins over several more visionary early adopters, including
+a handful of truly major deals. Revenue meets plan, and every­
+one is convinced it is time to ramp up—especially the venture
+capitalists who note that next year’s plan calls for a 300 percent
+increase in revenue. (What could justify such a number? The
+High Tech Marketing Model, of course! For are we not just at
+that point in the model where the slope will increase exponen­
+tially? We don’t want to lose market share at this critical juncture
+to some competitor. We must exploit our first-mover advantage
+and act while we are still within our window of opportunity.
+Strike while the iron is hot!) This year the company Christmas
+party is held at a fine hotel, the glasses are crystal, the wine
+vintage, and the theme, a la Dickens, is “Great Expectations.”
+At the beginning of the third year, a major sales force ex­
+pansion is undertaken, impressive sales collateral and advertis­
+ing are underwritten, district offices are opened, and customer
+support is strengthened. Halfway through the year, however,
+sales revenues are disappointing. A few more companies have
+come on board, but only after a prolonged sales struggle and
+significant compromise on price. The number of sales overall is
+far fewer than expected, and growth in expenses is vastly out­
+distancing growth in income. In the meantime, R&D is badly
+bogged down with several special projects committed to in the
+early contracts with the original customers.
+Meetings are held (for the young organization is nothing if
+not participative in its management style). The salespeople com­
+plain that there are great holes in the product line and that what
+30
+Crossing the Chasm
+is available today is overpriced, full of bugs, and not what the 
+customer wants. The engineers claim they have met spec and 
+schedule for every major release, at which point the customer 
+support staff merely groan. Executive managers lament that the 
+sales force doesn’t call high enough in the prospect organiza­
+tion, lacks the ability to communicate the vision, and simply 
+isn’t aggressive enough. Nothing is resolved, and, offline, po­
+litical enclaves begin to form.
+Third quarter revenues results are in—and they are absolutely 
+dismal. It is time to whip the slaves. The board of venture cap­
+italists starts in on the founders and the president, who in turn 
+put the screws to the vice president of sales, who passes it on to 
+the troops in the trenches. Turnover follows. The vice president 
+of marketing is fired. It’s time to bring in “real management.” 
+More financing is required, with horrendous dilution for the ini­
+tial cadre of investors—especially the founders and the key tech­
+nical staff. One or more founders object but are shunted aside. 
+Six months pass. Real management doesn’t do any better. Key 
+defections occur. Time to bring in consultants. More turnover. 
+What we really need now, investors decide, is a turnaround artist. 
+Layoffs followed by more turnover. And so it goes. When the 
+screen fades to the credits, yet another venture staggers off to join 
+the twilight companies of Silicon Valley—zombie enterprises, 
+not truly alive and yet, due in part to the vagaries of venture cap­
+ital accounting, unable to choose death with dignity.
+Now, it is possible that this parable overstates the case—I 
+have been accused of such things in the past. But it is no ex­
+aggeration to say that year in and year out, hundreds of high- 
+tech start-ups, despite having good technology and exciting 
+products, and despite initial promising returns from the market, 
+falter and then fail. Here’s why:
+High-Tech Marketing Illusion
+31
+What the company staff interpreted as a ramp in sales lead­
+ing smoothly “up the curve” was in fact an initial blip—what 
+we will be calling the early market—and not the first indications 
+of an emerging mainstream market. The company failed because 
+its managers were unable to recognize that there is something 
+fundamentally different between a sale to an early adopter and 
+a sale to the early majority, even when the company name on 
+the check reads the same. Thus, at a time of greatest peril, when 
+the company was just entering the chasm, its leaders held high 
+expectations rather than modest ones, and spent heavily in ex­
+pansion projects rather than husbanding resources.
+All this is the result of high-tech marketing illusion—the 
+belief induced by the High-Tech Marketing Model that new 
+markets unfold in a continuous and smooth way. In order to 
+avoid the perils of the chasm, we need to achieve a new state— 
+high-tech marketing enlightenment—by going deeper into the 
+dynamics of the Technology Adoption Life Cycle to correct 
+the flaws in the model and provide a secure basis for marketing 
+strategy development.
+2
+High-Tech Marketing 
+Enlightenment
+First there is a mountain,
+Then there is'no mountain, 
+Then there is.
+—Zen proverb
+What is it about California? How can any state be so successful 
+and yet so weird? I myself am from Oregon, a perfectly normal 
+state, with a pleasantly thriving economy and plenty of fish­
+ermen and lumberjacks and such to balance out the high-tech 
+crazies. I never intended to move south and write a book that 
+says—in the very next paragraph, mind you—that you should 
+bet your next million on a Zen proverb. California is a bad 
+influence.
+However, if you are going to risk time and money in high 
+tech, then you really do need to remember how high-tech mar­
+kets develop, and the following proverb is as good a way as any:
+First there is a market . . . Made up of innovators and early 
+adopters, it is an early market, flush with enthusiasm and vision 
+34
+Crossing the Chasm
+and, often as not, funded by a potful of customer dollars ear­
+marked for accomplishing some grand strategic goal.
+Then there is no market.. . This is the chasm period, during 
+which the early market is still trying to digest its ambitious proj­
+ects, and the mainstream market waits to see if anything good 
+will come of them.
+Then there is. If all goes well, and the product and your com­
+pany pass through the chasm period intact, then a mainstream 
+market does emerge, made up of the early and the late majority. 
+With them comes the real opportunity for wealth and growth.
+To reap the rewards of the mainstream market, your market­
+ing strategy must successfully respond to all three of these stages. 
+In each case, the key to success is to focus in on the dominant 
+“adoption type” in the current phase of the market, learn to 
+appreciate that segment’s psychographics, and then adjust your 
+marketing strategy and tactics accordingly. Illustrating how to 
+do that is the goal of this chapter.
+First Principles
+Before we get started, however, we need to establish some 
+ground rules. The first step toward enlightenment is to get a 
+firm grasp on the obvious. In our case, that means getting a 
+useful working definition of the word marketing. Useful in this 
+context means actionable—can we find in the concept of mar­
+keting a reasonable basis for taking actions that will predictably 
+and positively affect company revenues? That, after all, is the 
+purpose of this book.
+Actually, m this context, defining marketing is not partic­
+ularly difficult: It simply means taking actions to create, grow, 
+High-Tech Marketing Enlightenment
+35
+maintain, or defend markets. What a market is we will get to in 
+a moment, but it is, first, a real thing, independent of any one 
+individual’s actions. Marketing’s purpose, therefore, is to de­
+velop and shape something that is real, and not, as people some­
+times want to believe, to create illusions. In other words, we are 
+dealing with a discipline more akin to gardening or sculpting 
+than, say, to spray painting or hypnotism.
+Of course, talking this way about marketing merely throws 
+the burden of definition onto market, which we will define, for 
+the purposes of high tech, as:
+• 
+a set of actual or potential customers
+• 
+for a given set of products or services
+• 
+who have a common set of needs or wants, and
+• 
+who reference each other when making a buying 
+decision.
+People intuitively understand every part of this definition 
+except the last. Unfortunately, getting the last part—the notion 
+that part of what defines a high-tech market is the tendency 
+of its members to reference each other when making buying 
+decisions—is absolutely key to successful high-tech marketing. 
+So let’s make this as clear as possible.
+If two people buy the same product for the same reason but 
+have no way they could reference each other, they are not part 
+of the same market. That is, if I sell an oscilloscope for moni­
+toring heartbeats to a doctor in Boston and the identical product 
+for the same purpose to a doctor in Zaire, and these two doctors 
+have no reasonable basis for communicating with each other, 
+then I am dealing in two different markets. Similarly, if I sell an 
+oscilloscope to a doctor in Boston and then go next door and
+36
+Crossing the Chasm
+sell the same product to an engineer working on a sonar device, 
+I am also dealing in two different markets. In both cases, the 
+reason we have separate markets is that the customers could not 
+have referenced each other.
+Depending on what day of the week it is, this idea seems to 
+be either blindingly obvious or doubtful at best. Staying with 
+the example at hand, can’t one argue that there is, after all, 
+such a thing as the oscilloscope market? Well, yes and no. If 
+you want to use the word market in this sense (I would prefer 
+you use the word category to convey this idea), it stands for the 
+aggregate sales, both past and projected, for oscilloscopes. If that 
+is how you want to use the word—say, if you are a financial 
+analyst—that’s fine, but you had better realize you are adding 
+apples and oranges (that is, doctor sales + engineer sales) to get 
+your final totals, and in so doing, you are leaving yourself open 
+to misinterpreting the data badly. Most important, market, when 
+it is defined in this sense, ceases to be a single, isolable object of 
+action—it no longer refers to any single entity that can be acted 
+on—and cannot, therefore, be the focus of marketing.
+The way around this problem for many marketing profes­
+sionals is to break up the category into isolable “market seg­
+ments.” Market segments, in this vocabulary, meet our definition 
+of markets, including the self-referencing aspect. When mar­
+keting consultants sell market segmentation studies, all they are 
+actually doing is breaking out the natural market boundaries 
+within an aggregate of current and potential sales.
+Marketing professionals insist on market segmentation be­
+cause they know that no meaningful marketing program can 
+be implemented across a set of customers who do not reference 
+each other. The reason for this is simply leverage. No com­
+pany can afford to pay for every marketing contact made. Every 
+High-Tech Marketing Enlightenment
+37
+program must rely on some ongoing chain-reaction effects— 
+what is usually called word of mouth. The more self-referencing 
+the market and the more tightly bounded its communications 
+channels, the greater the opportunity for such effects.
+So much for first principles. There are additional elements 
+to our final definition of market—principally, a concept called 
+“the whole product”—but we will get to that later in the book. 
+For now, let’s apply what we have to the three phases of high- 
+tech marketing. The first of these is the early market.
+Early Markets
+The initial customer set for a new technology product is made 
+up primarily of innovators and early adopters. In the high-tech 
+industry, the innovators are better known as technology enthu­
+siasts or just techies, whereas the early adopters are the vision­
+aries. It is the latter group, the visionaries, who dominate the 
+buying decisions in this market, but it is the technology enthu­
+siasts who are first to realize the potential in the new product. 
+High-tech marketing, therefore, begins with the techies.
+Innovators: The Technology Enthusiasts
+Classically, the first people to adopt any new technology are 
+those who appreciate the technology for its own sake. For 
+anyone old enough to have been raised on Donald Duck comic 
+books from Walt Disney (a dwindling cadre, to be sure), Gyro 
+Gearloose may well have been your first encounter with a, tech­
+nology enthusiast. Or, if you were more classically educated, 
+perhaps it was Archimedes crying, “Eureka!” at discovering the 
+concept of measuring specific gravity through the displacement
+38
+Crossing the Chasm
+of water, or Daedalus, inventing a labyrinth and then the wings 
+whereby one could fly out of it (if one did not fly too close 
+to the sun). Or, for those who turn more toward movies and 
+TV, more familiar examples of the type include Back to the Fu­
+ture's Doc Brown or Data from Star Trek, or Sherlock Holmes 
+as portrayed in the TV show Elementary. “Inventors,” “propeller 
+heads,” “nerds,” “techies”—we have many labels for a group 
+of people who are, as a rule and despite a tendency toward in­
+troversion, delightful companions—provided you like to talk 
+about technical topics.
+They are the ones who first appreciate the architecture of 
+your product and why it therefore has a competitive advantage 
+over the current crop of products established in the market­
+place. They are the ones who will spend hours trying to get 
+products to work that, in all conscience, never should have been 
+shipped in the first place. They will forgive ghastly documen­
+tation, horrendously slow performance, ludicrous omissions in 
+functionality, and bizarrely obtuse methods of invoking some 
+needed function—all in the name of moving technology for­
+ward. They make great critics because they truly care.
+To give some high-tech examples, technology enthusiasts 
+are the ones who buy HDTVs, home networking solutions, 
+and digital cameras when they each cost well over a thousand 
+dollars. They are interested in voice synthesis and voice rec­
+ognition, interactive multimedia systems, neural networks, the 
+modeling of chaos in Mandelbrot sets, and the notion of an 
+artificial life based on silicon. At the moment I am writing this 
+sentence they are logging on to Amazon Web Services with 
+their credit card to test out their latest SETI hypothesis.
+Sometimes 
+a 
+technology 
+enthusiast 
+becomes 
+famous— 
+usually as the inventor of a lucrative product. In the world of
+High-Tech Marketing Enlightenment
+39
+PCs, Bill Gates started business life this way, but he may have 
+forfeited his status somewhat as he became more Machiavellian. 
+Marc Andreessen, on the other hand, has tried to stay more in 
+role, although he too is looking more and more corporate. That 
+could not be said, on the other hand, of such Internet founding 
+stalwarts as Perl inventor Larry Wall, Apache cofounder Brian 
+Behlendorf, or Linux creator Linus Torvalds. Birkenstocks for­
+ever, man. Power to the People (oops, sorry, I’m having a 1960’s 
+flashback).
+My personal favorite, though, was a fellow named David 
+Lichtman, with whom I worked at Rand Information Systems 
+m the late seventies and early eighties. Long before anyone was 
+taking PCs seriously, David showed me one he had put together 
+himself—including, as a peripheral, a voice synthesizer. This was 
+sitting on his desk at work right next to a little microprocessor- 
+driven box he had invented to fill out his time sheet for him. If 
+you followed David home, you would find a house littered with 
+cameras, sound equipment, and assorted electronic toys. And at 
+work, whenever there was any question about how a particu­
+larly arcane or intricate tool actually functioned, David was the 
+man to ask. He was the archetypal technology enthusiast.
+In business, technology enthusiasts are the gatekeepers for 
+any new technology. They are the ones who have the interest 
+to learn about it and the ones everyone else deems competent 
+to do the early evaluation. As such, they are the first key to any 
+high-tech marketing effort.
+As a buying population, or as key influencers in corporate 
+buying decisions, technology enthusiasts pose fewer require­
+ments than any other group in the adoption profile—but you 
+must not ignore the issues that are important to them. First, 
+and most crucially, they want the truth, and without any tricks.
+40
+Crossing the Chasm
+Second, wherever possible, whenever they have a technical 
+problem, they want access to the most technically knowledge­
+able person to answer it. Often this may not be sound from a 
+management point of view, and you will have to deny or restrict 
+such access, but you should never forget that it is wanted.
+Third, they want to be first to get the new stuff. By working 
+with them under nondisclosure—a commitment to which they 
+typically adhere scrupulously—you can get great feedback early 
+in the design cycle and begin building a supporter who will 
+influence buyers not only in his own company but elsewhere in 
+the marketplace as well. Finally, they want everything cheap. 
+This is sometimes a matter of budgets, but it is more funda­
+mentally a problem of perception—they think all technology 
+should be free or available at cost, and they have no use for 
+“added-value” arguments. The key consequence here is, if it is 
+their money, you have to make it available cheap, and if it is not, 
+you have to make sure price is not their concern.
+In large companies, technology enthusiasts can most often 
+be found in the advanced technology group, or some such con­
+gregation, chartered with keeping the company abreast of the 
+latest developments in high tech. There they are empowered 
+to buy one of almost anything, simply to explore its properties 
+and examine its usefulness to the corporation. In smaller com­
+panies, which do not have such budgetary luxuries, the tech­
+nology enthusiast may well be the “designated techie” in the 
+IT (information technology) group or a member of a product 
+design team who either will specify your product for inclusion 
+into the overall system or supply it to the rest of the team as a 
+technology aid or tool.
+To reach technology enthusiasts, you need to place your 
+message in one of their various haunts-—on the Web, of course.
+High-Tech Marketing Enlightenment
+41
+Direct response advertising works well with this group, as they 
+are the segment most likely to send for literature, or a free 
+demo, a webinar, or whatever else of substance you offer. Just 
+don’t waste your money on a lot of fancy image advertising— 
+they read all that as marketing hype. Direct email will reach 
+them—and provided it is factual and new information, they 
+read cover to cover.
+In sum, technology enthusiasts are easy to do business with, 
+provided you 1) have the latest and greatest technology, and 
+2) don’t need to make much money. For any innovation, there 
+will always be a small class of these enthusiasts who will want 
+to try it out just to see if it works. That said, for the most part, 
+these people are not powerful enough to dictate the buying 
+decisions of others, nor do they represent a significant market in 
+themselves. What they represent instead is a sounding board for 
+initial product or service features and a test bed for introducing 
+modifications to the product or service until it is thoroughly 
+“debugged.”
+To give a prosaic example, in In Search of Excellence Tom 
+Peters and Robert Waterman tell the story of the fellow at 3M 
+who invented Post-it notes. He just put them on the desk of 
+secretaries, and some of those secretaries just tried them to see if 
+or how they would work. Those secretaries became Post-it note 
+enthusiasts and were an early key in the campaign to keep the 
+product idea alive.
+Enthusiasts are like kindling: They help start the fire. They 
+need to be cherished for that. The way to cherish them is to let 
+them in on the secret, to let them play with the product and give 
+you their feedback, and wherever appropriate, to implement the 
+improvements they suggest and to let them know that you im­
+plemented them.
+42
+Crossing the Chasm
+The other key to working with enthusiasts toward a success­
+ful marketing campaign is to find the ones who have access to 
+the big boss. Big bosses are people who can dictate purchases 
+and who do represent a significant marketing opportunity in 
+and of themselves. To get more specific about the kind of big 
+boss we are looking for, let us now turn to the next group in the 
+Technology Adoption Life Cycle, the early adopters, or as they 
+are often called in the high-tech industry, the visionaries.
+Early Adopters: The Visionaries
+Visionaries are that rare breed of people who have the insight 
+to match up an emerging technology to a strategic opportunity, 
+the temperament to translate that insight into a high-visibility, 
+high-risk project, and the charisma to get the rest of their orga­
+nization to buy into that project. They are the early adopters of 
+high-tech products. Often working with budgets in the multi­
+ple millions of dollars, they represent a hidden source of venture 
+capital that funds high-technology business.
+When John F. Kennedy launched the U.S. space program, he 
+showed himself to be something we in America had not known 
+for some time—a visionary president. When Henry Ford im­
+plemented factory-line mass production of automobiles so that 
+every family m America could afford a car, he became one of 
+our best-known business visionaries. When Steve Jobs took the 
+Xerox PARC user interface out of the laboratory and put it into 
+a Macintosh personal computer “for the rest of us,” then drove 
+the rest of the industry to accept this new approach in spite of 
+itself, he showed himself to be a visionary to be reckoned with.
+As a class, visionaries tend to be recent entrants to the ex­
+ecutive ranks, highly motivated, and driven by a “dream.” The 
+core of the dream is a business goal, not a technology goal, and it 
+High-Tech Marketing Enlightenment
+43
+involves taking a quantum leap forward in how business is con­
+ducted in their industry or by their customers. It also involves 
+a high degree of personal recognition and reward. Understand 
+their dream, and you will understand how to market to them.
+To give additional examples specific to high tech, when 
+Harry McMahon at Merrill Lynch committed to put ten thou­
+sand people on Salesforce.com’s cloud-based sales force auto­
+mation system at a time when that vendor had no other large 
+enterprise customer, he was acting as a visionary. When Linda 
+Dillman at Wal-Mart committed to install Symbol RFID sys­
+tems to create real-time visibility into all the inventory in every 
+Wal-Mart store, she was acting as a visionary. When Reed Hast­
+ings, CEO of Netflix, committed to outsource the computing for 
+his entire business to Amazon.com’s Elastic Compute Cloud, he 
+was acting as a visionary. And when Ted McConnell at Procter 
+& Gamble committed to direct all digital advertising worldwide 
+via AudienceScience’s ad spend management system, he was 
+acting as a visionary. In every case, these people took significant 
+business risks with what at the time was unproven technology 
+and/or an unproven company in order to achieve breakthrough 
+improvements in productivity and customer service.
+And that is the key point. Visionaries are not looking for 
+an improvement; they are looking for a fundamental break­
+through. Technology is important only insomuch as it prom­
+ises to deliver on this dream. If the dream is credit-card-free 
+consumer purchasing, then it is likely to include e~wallets on 
+a mobile device with near-field communication. If the goal is 
+to provide elite education worldwide at no charge, then the 
+technology will likely include MOOCs from institutions like 
+Stanford University perhaps supplemented by material from an 
+organization like the Khan Academy. If the goal is to provide 
+44
+Crossing the Chasm
+virtually limitless mobile computing with highly infrequent 
+refreshes of battery power, then it is likely to include a tech­
+nology like Google Glass. If the goal is to provide personalized 
+medicine where the drug is matched to your personal metab­
+olism so that success rates are dramatically improved, then it 
+will likely leverage molecular diagnostics from companies like 
+CardioDx or Crescendo. The key point is that, in contrast with 
+the technology enthusiast, a visionary focuses on value not from 
+a system’s technology per se but rather from the strategic leap 
+forward such technology can enable.
+Visionaries drive the high-tech industry because they see 
+the potential for an “order-of-magnitu de” return on investment 
+and willingly take high risks to pursue that goal. They will 
+work with vendors who have little or no funding, with products 
+that start life as little more than a diagram on a whiteboard, and 
+with technology gurus who bear a disconcerting resemblance to 
+Rasputin. They know they are going outside the mainstream, 
+and they accept that as part of the price you pay when trying to 
+leapfrog the competition.
+Because they see such vast potential for the technology they 
+have in mind, they are the least price-sensitive of any segment 
+of the technology adoption profile. They typically have bud­
+gets that let them allocate generous amounts toward the imple­
+mentation of a strategic initiative. This means they can usually 
+provide up-front money to seed additional development that 
+supports their project—hence their importance as a source of 
+high-tech development capital.
+Finally, beyond fueling the industry with dollars, visionaries 
+are also effective at alerting the business community to perti­
+nent technology advances. Outgoing and ambitious as a group, 
+they are usually more than willing to serve as highly visible 
+High-Tech Marketing Enlightenment
+45
+references, thereby drawing the attention of the business press 
+and additional customers to small fledgling enterprises.
+As a buying group, visionaries are easy to sell but very hard 
+to please. This is because they are buying a dream that, to some 
+degree, will always be a dream. The “incarnation” of this dream 
+will require the melding of numerous technologies, many of 
+which will be immature or even nonexistent at the beginning 
+of the project. The odds against everything falling into place 
+without a hitch are astronomical. Nonetheless, both the buyer 
+and the seller can build successfully on two key principles.
+First, visionaries like a project orientation. They want to 
+start out with a pilot project, which makes sense because they 
+are “going where no man has gone before,” and you are going 
+there with them. This is followed by more project work, con­
+ducted in phases, with milestones, and the like. The visionaries’ 
+idea is to be able to stay very close to the development train to 
+make sure it is going in the right direction and to be able to get 
+off if they discover it is not going where they thought.
+While reasonable from the customer’s point of view, this 
+project orientation is usually at odds with the intentions of 
+entrepreneurial vendors who are trying to create a more uni­
+versally applicable product around which they can build a 
+multi-customer business. This is potentially a lose-lose situation 
+threatening both the quality of the vendor’s work and the fabric 
+of the relationship, and it requires careful account management 
+including frequent contact at the executive level.
+The winning strategy is built around the entrepreneur being 
+able to “productize” the deliverables from each phase of the 
+visionary project. That is, whereas for the visionary the deliver­
+ables of phase one are only of marginal interest—proof of con­
+cept with some productivity improvement gained, but not “the 
+46
+Crossing the Chasm
+vision”—these same deliverables, repackaged, can be a whole 
+product to someone with less ambitious goals. For example, a 
+company might be developing a comprehensive object-oriented 
+software toolkit, capable of building systems that could model 
+the entire workings of a manufacturing plant, thereby creating 
+an order-of-magnitude improvement in scheduling and pro­
+cessing efficiency. The first deliverable of the toolkit might be a 
+model of just one milling machine’s operations and its environ­
+ment. The visionary looks at that model as a milestone. But the 
+vendor of that milling machine might look at the same model 
+as a very desirable product extension and want to license it with 
+only modest alterations. It is important, therefore, in creating 
+the phases of the visionary’s project to build in milestones that 
+lend themselves to this sort of product spin-off.
+The other key quality of visionaries is that they are in a 
+hurry. They see the future in terms of windows of opportunity, 
+and they see those windows closing. As a result, they tend to 
+exert deadline pressures—the carrot of a big payment or the 
+stick of a penalty clause—to drive the project faster. This plays 
+into the classic weaknesses of entrepreneurs—lust after the big 
+score and overconfidence in their ability to execute within any 
+given time frame.
+Here again, account management and executive restraint are 
+crucial. The goal should be to package each of the phases such 
+that each phase:
+1. is accomplishable by mere mortals working in earth time
+2. provides the vendor with a marketable product
+3. provides the customer with a concrete return on invest­
+ment that can be celebrated as a major step forward.
+High-Tech Marketing Enlightenment
+47
+The last point is crucial. Getting closure with visionaries is 
+next to impossible. Expectations derived from dreams simply 
+cannot be met. This is not to devalue the dream, for without it 
+there would be no directing force to drive progress of any sort. 
+What is important is to celebrate continually the tangible and 
+partial both as useful things in their own right and as heralds of 
+the new order to come.
+The most important principle stemming from all this is the 
+emphasis on management of expectations. Because controlling 
+expectations is so crucial, the only practical way to do business 
+with visionaries is through a small, top-level direct sales force. 
+At the front end of the sales cycle, you need such a group to 
+understand the visionaries’ goals and give them confidence that 
+your company can step up to them. In the middle of the sales 
+cycle, you need to be extremely flexible about commitments as 
+you begin to adapt to the visionaries’ agenda. At the end, you 
+need to be very careful in negotiations, keeping the spark of the 
+vision alive without committing to tasks that are unachievable 
+within the time frame allotted. All this implies a mature and 
+sophisticated representative working on your behalf.
+In terms of prospecting for visionaries, they are not likely to 
+have a particular job title, except that, to be truly useful, they 
+must have achieved at least a senior vice presidential level in 
+order to have the clout to fund their visions. In fact, in terms of 
+communications, typically you don’t find them, they find you. 
+The way they find you, interestingly enough, is by maintaining 
+relationships with technology enthusiasts. That is one of the 
+reasons why it is so important to capture the technology enthu­
+siast segment.
+In sum, visionaries represent an opportunity early in a prod­
+uct’s life cycle to generate a burst of revenue and gain exceptional 
+48
+Crossing the Chasm
+visibility. The opportunity comes with a price tag—a highly 
+demanding customer who will seek to influence your compa­
+ny’s priorities directly and a high-risk project that could end in 
+disappointment for all. But without this boost many high-tech 
+products cannot make it to market, unable to gain the visibility 
+they need within their window of opportunity, or unable to 
+sustain their financial obligations while waiting for their mar­
+ketplace to develop more slowly. Visionaries are the ones who 
+give high-tech companies their first big break. It is hard to plan 
+for them in marketing programs, but it is even harder to plan 
+without them.
+The Dynamics of Early Markets
+To get an early market started requires an entrepreneurial com­
+pany with a breakthrough technology product that enables a 
+new and compelling application, a technology enthusiast who 
+can evaluate and appreciate the superiority of the product over 
+current alternatives, and a well-heeled visionary who can fore­
+see an order-of-magnitude improvement from implementing 
+the new application. When the market is unfolding as it should, 
+the entrepreneurial company seeds the technology enthusiast 
+community with early copies of its product while at the same 
+time sharing its vision with the visionary executives. It then 
+invites the visionary executives to check with the technology 
+enthusiast of their choice to verify that the vision is indeed 
+achievable. Out of these conversations comes a series of nego­
+tiations in which, for what seems like a very large amount of 
+money at the time, but which will later be recognized as just 
+the tip of the iceberg, the technology enthusiasts get to buy 
+High-Tech Marketing Enlightenment
+49
+more toys than they have ever dreamed of, the entrepreneurial 
+company commits itself to product modifications and system 
+integration services it never intended to, and the visionary has 
+what on paper looks to be an achievable project, but which is in 
+fact a highly improbable dream.
+That’s when the market unfolds as it should. That is the good 
+scenario—good because, although it is rife with problems, they 
+are ones that will get solved one way or another, and some level 
+of value will be achieved all around. There are numerous other 
+scenarios where the early market does not even get a proper 
+start. Here are some of them:
+• First problem: The company simply has no expertise 
+in bringing a product to market. It raises insufficient 
+capital for the effort, hires inexperienced sales and 
+marketing people, tries to sell the product through an 
+inappropriate channel of distribution, promotes in the 
+wrong places and in the wrong ways, and in general 
+fouls things up.
+Remedying this kind of situation is not as hard as it 
+may seem, provided the participants in the company are 
+still communicating and cooperating with each other, 
+and everyone is willing to scale back their expectations 
+several notches.
+The basis for reform is the principle that winning at 
+marketing more often than not means being the biggest 
+fish in the pond. If we are very small, then we must 
+search out a very small pond, a target market segment 
+that fits our size. To qualify as a “real pond,” as we also 
+noted before, its members must be aware of themselves 
+as a group, that is, it must constitute a self^referencing 
+50
+Crossing the Chasm
+market segment, so that when we establish a leadership 
+position with some of its members, they will get the 
+word out—quickly and economically—to the rest. 
+Of course, no single pond of a size we can dominate 
+in the short term is large enough to provide a sustain­
+ing market for the long term. Sooner or later, we have 
+to expand into adjacent ponds. Or, to shift the meta­
+phor, we need to reframe our tactics in the context of 
+a “bowling pin” strategy, where one targets a given 
+segment not just because one can “knock it over” but 
+because, in so doing, it will help knock over the next 
+target segment, and thus lead to market expansion. 
+With the right kind of angle of attack, it is amazing 
+how large and fast the chain reaction can be. So one is 
+never necessarily out of the game, even when things are 
+pretty bleak.
+• A second problem: The company sells the visionary 
+before it has the product. This is a version of the famous 
+vaporware problem, based on preannouncing and pre­
+marketing a product that still has significant develop­
+ment hurdles to overcome. At best, the entrepreneurial 
+company secures a few pilot projects, but as schedules 
+continue to slip, the visionary’s position in the organi­
+zation weakens, and support for the project is eventually 
+withdrawn, despite a lot of customized work, with no 
+usable customer reference gained.
+Caught in this situation, the entrepreneurial com­
+pany has only one adequate response, a truly unhappy 
+one: shut down its marketing efforts, admit its mistakes 
+to its investors, and focus all its energies into turning its 
+pilot projects into something useful, first m terms of a
+High-Tech Marketing Enlightenment
+51
+deliverable to the customer, and ultimately in terms of a 
+marketable product.
+A company in the Mohr Davidow portfolio that did 
+this brilliantly is Brickstream. Founded with artificial 
+intelligence technology to extract information from 
+video, it promised to give brick-and-mortar retailers the 
+same kind of visibility into in-store traffic that e-tailers 
+were getting from their clickstreams on the Web. Its 
+first-generation systems were sold with great success, 
+but implementation proved to be a bear, costs remained 
+stubbornly and unacceptably high, and performance fell 
+embarrassingly short. All those great sales turned into 
+unreferenceable accounts, and it was dark days indeed.
+Under a new management team the company has 
+turned itself around dramatically. Its first act was to 
+refocus on a much simpler problem—-just counting the 
+people that come into a store every day—and do that 
+better, faster, and cheaper than the current technology. 
+This had nothing like the dramatic impact they had 
+been promising before, but it was a real business, and it 
+was profitable. From there they eventually developed 
+camera technology that could actually support their 
+“brickstream” vision, and migrated into queue manage­
+ment at checkout counters, tying back into the work­
+force management needed to make sure staff was on 
+hand at the right times of day. And most recently, they 
+have incorporated additional camera technology and 
+analytics to branch out further into security and inven­
+tory protection applications as well—all on the back of 
+a prudently managed business that is cash-flow posi­
+tive. To be sure, the company did lose its initial market 
+52
+Crossing the Chasm
+window, but the good news is, the latest developments 
+in retail and e-commerce are creating a second window 
+to exploit.
+• Problem number three: Marketing falls prey to the 
+crack between the technology enthusiast and the vision­
+ary by failing to discover, or at least failing to articulate, 
+the compelling application that provides the order-of- 
+magnitude leap in benefits. A number of companies buy 
+the product to test it out, but it never gets incorporated 
+into a major system rollout, because the rewards never 
+quite measure up to the risks. The resulting lack of 
+revenue leads to folding the effort, either by shutting it 
+down entirely or selling it for the technology assets to 
+another enterprise.
+The corrective response here begins with reevalu­
+ating what we have. If it is not, in fact, a breakthrough 
+product, then it is never going to create an early market. 
+But perhaps it could serve as a supplementary product 
+in an existing mainstream market. If that is indeed the 
+case, then the right response is to swallow our pride, 
+reduce our financial expectations, and subordinate 
+ourselves to an existing mainstream-market company, 
+which can put our product in play through its existing 
+channels. Computer Associates, today called CA Tech­
+nologies and one of the largest software companies in 
+the world, was built up almost entirely on this principle 
+of remarketing other companies’ often cast-off products. 
+Alternatively, if we truly have a breakthrough 
+product but we are stalled in getting the early market 
+moving, then we have to step down from the lofty the­
+oretical plateau on which we have established that this
+High-Tech Marketing Enlightenment
+53
+product can be part of any number of exciting applica­
+tions and get very practical about focusing on one appli­
+cation, making sure that it is indeed a compelling one 
+for at least one visionary who is already familiar with
+us, and then committing to that visionary, in return 
+for his or her support, to removing every obstacle to 
+getting that application adopted.
+These are some of the most common ways in which an 
+early market development effort can go off—and be put 
+back on—track. For the most part, the problems are solv­
+able because there are always multiple options at the outset 
+of anything. The biggest problem is typically overly ambi­
+tious expectations combined with undercapitalization—or, 
+as my grandmother used to put it, when your eyes are 
+bigger than your stomach. Things get a lot more complex 
+when we are dealing with the dynamics of mainstream 
+markets, to which we shall now turn.
+Mainstream Markets
+Mainstream markets in high tech look a lot like mainstream 
+markets in any other industry, particularly where enterprises 
+are selling to other enterprises. They are dominated by the 
+early majority, who in high tech are best understood as prag­
+matists, who, in turn, tend to be accepted as leaders by the 
+late majority, best thought of as conservatives, and rejected as 
+leaders by the laggards, or skeptics. As in the previous chapter, 
+we are going to look closely at how the psychographics of each 
+of these groups influences the development and dynamics of a 
+high-tech market.
+54
+Crossing the Chasm
+Early Majority: The Pragmatists
+Throughout the history of high tech, the early majority, or 
+pragmatists, have represented the bulk of the market volume for 
+any technology product. You can succeed with the visionaries, 
+and you can thereby get a reputation for being a high flyer with 
+a hot product, but that is not ultimately where the dollars are. 
+Instead, those funds are in the hands of more prudent souls, 
+who do not want to be pioneers (“Pioneers are people with 
+arrows in their backs”), who never volunteer to be an early test 
+site (“Let somebody else debug your product”), and who have 
+learned the hard way that the “leading edge” of technology is 
+all too often the “bleeding edge.”
+Who are the pragmatists? Actually, important as they are, 
+they are hard to characterize because they do not have the vi­
+sionary’s penchant for drawing attention to themselves. They 
+are not the Hamlets but the Horatios, not the Don Quixotes 
+but the Sancho Panzas, in character more like Harry Potter than 
+Dirty Harry—people who do not assert a position in life so 
+much as derive one from what life provides. Never the stand­
+out, they are what makes for the continuity, so that after the star 
+either dies (tragedy) or rides off into the sunset (heroic romance, 
+comedy), they are left to clean up and to answer the inevitable 
+final question: Who was that masked man?
+In the realm of high tech, pragmatist CEOs are not common, 
+and those there are, true to their type, tend to keep a rela­
+tively low profile. Dan Warmenhoven at NetApp, Jeff Weiner 
+at Linkedln, John Chen at Sybase, John Donahoe at eBay, even 
+such visible leaders as Meg Whitman at HP and Michael Dell 
+at Dell—low on drama, high on integrity and commitment. 
+They tend to be best known by their closest colleagues, from 
+whom they typically have earned the highest respect, and by 
+High-Tech Marketing Enlightenment
+55
+their peers within their industry, where they show up near the 
+top of the leaderboard year after year.
+Of course, to market successfully to pragmatists, one does 
+not have to be one—-just understand their values and work to 
+serve them. To look more closely into these values, if the goal of 
+visionaries is to take a quantum leap forward, the goal of prag­
+matists is to make a percentage improvement—incremental, 
+measurable, predictable progress. If they are installing a new 
+product, they want to know how other people have fared with 
+it. The word risk is a negative one in their vocabulary—it does 
+not connote opportunity or excitement but rather the chance 
+to waste money and time. They will undertake risks when re­
+quired, but they first will put in place safety nets and manage 
+the risks very closely.
+The Fortune 2000 IT community, as a group, is led by 
+people who are largely pragmatist m orientation. Business de­
+mands for increased productivity push them toward the front 
+of the adoption life cycle, but natural prudence and budget 
+restrictions keep them cautious. As individuals, pragmatists 
+held back from using software-as-a-service applications until 
+Salesforce.com made it safe to enter the water, held back from 
+supporting 
+bring-your-own-device 
+policies 
+until 
+companies 
+like Mobilelron and Air watch offered mobile device manage­
+ment solutions, and held back from investing in video until 
+Cisco made telepresence a household word.
+If pragmatists are hard to win over, they are loyal once won, 
+often enforcing a company standard that requires the purchase 
+of your product, and only your product, for a given requirement. 
+This focus on standardization is, well, pragmatic, in that it sim­
+plifies internal service demands. But the secondary effects of this 
+standardization on your growth and profitability—increasing 
+56
+Crossing the Chasm
+sales volumes and lowering the cost of sales—is dramatic. Hence
+the importance of pragmatists as a market segment.
+The most celebrated example and beneficiary of this effect in
+the last decade of the twentieth century was Microsoft. It cre­
+ated dominant market positions in desktop operating systems,
+office automation, and departmental servers, such that a decade
+later the enterprise landscape looked very homogeneous. At the
+same time, however, as each of these markets was developing,
+enterprise IT as a category also supported a variety of'second-
+tier vendors, and each of these vendors was also able to carve
+out its own pragmatist enclave of its own. In the engineering
+community, customers gravitated to Sun’s Solaris; in the graph­
+ics community, to Macintoshes; in the workgroup, to Novell
+Netware; in the Fortune 500 replicated-site environments of
+branch banking and retail, to OS/2; in the VAR-dominated
+professional services systems for doctors and dentists, to SCO
+Unix; and m consulting and financial services, to Lotus Notes.
+While Microsoft won out in the end, each one of these compa­
+nies was able to ride a pragmatist wave within a specific market
+to boost its sales a quantum leap upward. It is crucial, therefore,
+for every long-term strategic marketing plan to understand the
+pragmatist buyers and to focus on winning their trust.
+When pragmatists buy, they care about the company they
+are buying from, the quality of the product they are buying,
+the infrastructure of supporting products and system interfaces,
+and the reliability of the service they are going to get. In other
+words, they are planning on living with this decision personally
+for a long time to come. (By contrast, the visionaries are more
+likely to be planning on implementing the great new order and
+then using that as a springboard to their next great career step
+upward.) Because pragmatists are m it for the long haul, and
+High-Tech Marketing Enlightenment
+57
+because they control the bulk of the dollars in the marketplace,
+the rewards for building relationships of trust with them are
+very much worth the effort.
+Pragmatists tend to be “vertically” oriented, meaning that
+they communicate more with others like themselves within
+their own industry than do technology enthusiasts and early
+adopters, who are more likely to communicate “horizontally”
+across industry boundaries in search of kindred spirits. This
+means it is very tough to break into a new industry selling to
+pragmatists. References and relationships are very important to
+these people, and there is a kind of catch-22 operating: Pragma­
+tists won’t buy from you until you are established, yet you can’t
+get established until they buy from you. Obviously, this works
+to the disadvantage of start-ups and, conversely, to the great
+advantage of companies with established track records. On the
+other hand, once a start-up has earned its spurs with the prag­
+matist buyers within a given vertical market, they tend to be
+very loyal to it, and even go out of their way to help it succeed.
+At one time Salesforce.com was the disrupter in the sales force
+automation industry. Now it has become the de facto standard.
+When this happens, the cost of sales goes way down, and the
+leverage on incremental R&D to support any given customer
+goes way up. That’s one of the reasons pragmatists make such a
+great market.
+There is no one distribution channel preferred by pragma­
+tists, but they do want to keep the sum total of their distribution
+relationships to a minimum. This allows them to maximize
+their buying leverage and maintain a few clear points of control
+should anything go wrong. In some cases this prejudice can
+be overcome if the pragmatist buyer knows a particular sales­
+person from a previous relationship. As a rule, however, the
+58
+Crossing the Chasm
+path into the pragmatist community is smoother if a smaller
+entrepreneurial vendor can develop an alliance with one of the
+already accepted vendors or if it can establish a value-added-
+reseller (VAR) sales base. VARs, if they truly specialize in the
+pragmatist’s particular industry, and if they have a reputation for
+delivering quality work on time and within budget, represent
+an extremely attractive type of solution to a pragmatist. They
+can provide a “turnkey” answer to a problem, without impact­
+ing internal resources already overloaded with the burdens of
+ongoing system maintenance. What the pragmatist likes best
+about VARs is that they represent a single point of control, a
+single company to call if anything goes wrong.
+One final characteristic of pragmatist buyers is that they like
+to see competition—in part to get costs down, in part to have
+the security of more than one alternative to fall back on should
+anything go wrong, and in part to assure themselves they are
+buying from a proven market leader. This last point is crucial:
+Pragmatists want to buy from proven market leaders because they
+know that third parties will design supporting products around a
+market-leading product. That is, market-leading products create
+an aftermarket that other vendors service. This radically reduces
+pragmatist customers’ burden of support. By contrast, if they mis­
+takenly choose a product that does not become the market leader,
+but rather one of the also-rans, then this highly valued aftermar­
+ket support does not develop, and they will be stuck making all
+the enhancements by themselves. Market leadership is crucial,
+therefore, to winning pragmatist customers.
+Pragmatists are reasonably price-sensitive. They are will­
+ing to pay a modest premium for top quality or special ser­
+vices, but in the absence of any special differentiation, they want
+the best deal. That’s because, having typically made a career
+High-Tech Marketing Enlightenment
+59
+commitment to their job and/or their company, they get mea­
+sured year in and year out on what their operation has spent 
+versus what it has returned to the corporation.
+Overall, to market to pragmatists, you must be patient. You 
+need to be conversant with the issues that dominate their particu­
+lar business. You need to show up at the industry-specific confer­
+ences and trade shows they attend. You need to be mentioned in 
+articles that run in the newsletters and blogs they read. You need 
+to be installed in other companies in their industry. You need to 
+have developed applications for your product that are specific to 
+their industry. You need to have partnerships and alliances with 
+the other vendors who serve their industry. You need to have 
+earned a reputation for quality and service. In short, you need to 
+make yourself over into the obvious supplier of choice.
+This is a long-term agenda, requiring careful pacing, recur­
+rent investment, and a mature management team. One of its 
+biggest payoffs, on the other hand, is that it not only delivers 
+the pragmatist element of the Technology Adoption Life Cycle 
+but tees up the conservative element as well. Sadly, however, 
+high-tech industry has, for the most part, not seen fit to reap 
+the rewards it has so carefully sown. To see how this has come 
+about, let us now take a closer look at the conservatives.
+Late Majority: The Conservatives
+The mathematics of the Technology Adoption Life Cycle model 
+says that for every pragmatist there is a conservative. Put another 
+way, conservatives represent approximately one-third of the total 
+available customers within any given Technology Adoption Life 
+Cycle. As a marketable segment, however, they are rarely devel­
+oped as profitably as they could be, largely because high-tech 
+companies are not, as a rule, in sympathy with them.
+60
+Crossing the Chasm
+Conservatives, in essence, are against discontinuous innova­
+tions. They believe far more in tradition than in progress. And 
+when they find something that works for them, they like to 
+stick with it. Thus these folks are on Macs when everyone else 
+is on Windows, then they are on Windows whenever every­
+one has switched back to Macs. They still use BlackBerrys, and 
+they work just fine for them. They email rather than text and 
+actually call each other from time to time. They neither tweet 
+nor post, and their newspaper still arrives at the front door. And 
+they are just fine with that, thank you very much.
+In this sense, conservatives have more in common with early 
+adopters than one might think. Both can be stubborn in their 
+resistance to the call to conform that unites the pragmatist herd. 
+To be sure, eventually conservatives do succumb to the new par­
+adigm just to stay on par with the rest of the world. But just be­
+cause they use such products doesn’t mean they have to like them.
+The truth is, conservatives often fear high tech a little bit. 
+Therefore, they tend to invest only at the end of a technology 
+life cycle, when products are extremely mature, market-share 
+competition is driving low prices, and the products themselves 
+can be treated as commodities. Often their real goal in buying 
+high-tech products is simply not to get stung. Unfortunately, 
+because they are engaging with the low-margin end of the 
+market, where there is little motive for the seller to build a high- 
+integrity relationship with the buyer, they often do get stung. 
+This only reinforces their disillusion with high tech and resets 
+the buying cycle at an even more cynical level.
+If high-tech businesses are going to be successful over the 
+long term, they must learn to break this vicious circle and es­
+tablish a reasonable basis for conservatives to want to do busi­
+ness with them. They must understand that conservatives do
+High-Tech Marketing Enlightenment
+61
+not have high aspirations about their high-tech investments 
+and hence will not support high price margins. Nonetheless, 
+through sheer volume, they can offer great rewards to the com­
+panies that serve them appropriately.
+Conservatives like to buy preassembled packages, with ev­
+erything bundled, at a heavily discounted price. The last thing 
+they want to hear is that the software they just bought doesn’t 
+support the home network they have installed. They want 
+high-tech products to be like refrigerators—you open the door, 
+the light comes on automatically, your food stays cold, and you 
+don’t have to think about it. The products they understand best 
+are those dedicated to a single function—music, video, email, 
+games. The notion that a single device could do all four of these 
+functions does not excite them—instead, it is something they 
+find vaguely nauseating.
+The conservative marketplace provides a great opportunity, 
+in this regard, to take low-cost, trailing-edge technology com­
+ponents and repackage them into single-function systems for 
+specific business needs. The quality of the package should be 
+quite high because there is nothing in it that has not already 
+been thoroughly debugged. The price should be quite low be­
+cause all the R.&D has long since been amortized, and every bit 
+of the manufacturing learning curve has been taken advantage 
+of It is, in short, not just a pure marketing ploy but a true solu­
+tion for a new class of customer.
+There are two keys to success here. The first is to have thor­
+oughly thought through the “whole solution” to a particular 
+target end-user market’s needs, and to have provided for every 
+element of that solution within the package. This is critical be­
+cause there is no profit margin to support an after-purchase sup­
+port system. The other key is to have lined up a low-overhead 
+62
+Crossing the Chasm
+distribution channel that can get this package to the target 
+market effectively. In this context, the rise of “as-a-service” of­
+ferings delivered over the Web creates a magnificent opportu­
+nity to make progress with this segment.
+Conservatives represent a major opportunity for the high- 
+tech industry in that they greatly extend the market for high-tech 
+offers that are no longer state-ofothe-art. The fact that the 
+United States has all but conceded great hunks of this market 
+to the Far East is testimony not so much to the cost advantages 
+of offshore manufacturing as to the failure of onshore product 
+planning and marketing imagination. Many offshore solutions 
+today still bring only one value to the table—low cost. Conser­
+vatives are indeed price sensitive, but that is largely because they 
+cannot get full value from their user experience. If you give 
+them something they can relate to, they are more than willing 
+to pay up for it. Just check out an Apple Store. Far more dollars 
+could be mined from this segment of the high-tech market­
+place if American leading-edge manufacturers and marketers, 
+with their high-volume channels and vast purchasing resources, 
+simply paid more attention to it.
+So, the conservative market is still something that high tech 
+has more in its future than in its past. The key is to focus on 
+convenience rather than performance, user experience rather 
+than feature sets. Backup cameras in cars are a great example of 
+technology conservatives gravitate toward, as are parking assist 
+systems. Even GPS applications have become more friend than 
+foe. Not so, however, with speech-activated functions, for they 
+lack the predictability that conservatives so desperately need.
+Overall, one has the feeling that the conservative market is 
+still perceived more as a burden than an opportunity. High-tech 
+business success within it will require a new kind of marketing 
+High-Tech Marketing Enlightenment
+63
+imagination linked to a less venturesome financial model. The 
+dollars are there for the making if we can meet new challenges 
+that are as yet only partially familiar. However, as the cost of 
+R&D radically escalates, companies are going to have to amor­
+tize that cost across bigger and bigger markets, and this must in­
+evitably lead to the long-ignored “back half” of the technology 
+adoption curve.
+The Dynamics of Mainstream Markets
+Just as the visionaries drive the development of the early market, 
+so do the pragmatists drive the development of the mainstream 
+market. Winning their support is not only the point of entry 
+but the key to long-term dominance. But having done so, you 
+cannot take the market for granted.
+To maintain leadership in a mainstream market, you must 
+at least keep pace with the competition. At this point it is no 
+longer necessary to be the technology leader, nor is it necessary 
+to have the very best product. But the product must be good 
+enough, and should a competitor make a major breakthrough, 
+you have to make at least a catch-up response.
+This is the game that Oracle has played masterfully in the 
+first decade of the twenty-first century. After several decades of 
+relying primarily on organic R&D to build out its portfolio of 
+enterprise IT software, it changed the game when it made an un­
+solicited (and undesired) bid for PeopleSoft. When that acquisition 
+finally closed, it inaugurated a new phase in enterprise IT, one of 
+consolidation very much along the lines seen in earlier times for 
+railroads, airlines, accounting firms, and more recently, banks. 
+But in Oracle’s case, it was not just bulking up in its traditional 
+64
+Crossing the Chasm
+categories, but rather it was buying up the assets needed to create 
+a top-to-bottom enterprise “stack,” the full complement of what 
+a Fortune 500 CIO would expect to own. This included cus­
+tomer relationship management from Seibel, application server 
+middleware from BEA, and product life cycle management soft­
+ware from Agile, and eventually led even to annexing Sun Mi­
+crosystems for a complete hardware solution as well.
+Such consolidations are designed to conserve rather than to 
+innovate. It is not that innovation has ceased but rather that 
+it has relocated. Technologies from a prior era, once the focal 
+point of innovation, now become the scaffolding upon which 
+next-generation innovation will build. In that context, stability 
+and predictability become much more highly valued, and eco­
+systems are willing to pay a premium to a core set of vendors to 
+maintain them.
+The key to making a smooth transition from the pragmatist 
+to the conservative market segments is to maintain a strong re­
+lationship with the former, always giving them an open door to 
+go to the new paradigm, while still keeping the latter happy by 
+adding value to the old infrastructure. It is a balancing act to say 
+the least, but properly managed, the earnings potential in loyal 
+mature market segments is very high indeed.
+In this regard, if we now look back over the first four profiles 
+in the Technology Adoption Life Cycle, we see an interesting 
+trend. The importance of the product itself, its unique function­
+ality, when compared to the importance of the ancillary services 
+to the customer, is at its highest with the technology enthusiast, 
+and at its lowest with the conservative. This is no surprise, since 
+one’s level of involvement and competence with a high-tech prod­
+uct is a prime indicator of when one will enter the Technology
+High-Tech Marketing Enlightenment
+65
+Adoption Life Cycle. The key lesson is that the longer your prod­
+uct is in the market, the more mature it becomes, and the more
+important the service element is to the customer. Conservatives,
+m particular, are extremely service oriented.
+In the last decade, high tech has truly come to grips with
+this phenomenon by actively reconfiguring its product offers
+as services. Software as a service (SaaS), data center infrastruc­
+ture as a service (IaaS), development and deployment platform
+software as a service (PaaS)—all are creating a new stack in the
+cloud, that virtualized space to which more and more comput­
+ing is migrating.
+To get to this place, two things have to happen in coordi­
+nation with one another. The first is that vendors must design
+out as much as possible the service demands that derive from
+installing and implementing their products successfully This is
+service-as-a-tax, adding no value, being simply the price you
+have to pay to get the stuff to work. This is still extraordinarily
+high for enterprise IT software, and while it has created a lot of
+income for systems integrators, it has left a bad taste in every­
+one’s mouth, so the less of it, the better.
+By contrast, when vendors address the second goal of making
+the service yield an improved user experience, then there are
+smiles all around. The Apple iPad is a wonderful example here,
+for it appeals not only to technology enthusiasts and visionaries
+(“It is just so cool!”), but equally so to pragmatists (“No training
+costs!”) and to conservatives (“No training, period!”). When
+you watch a toddler playing with one, you realize just how far
+we have come from control-alt-delete.
+That said, there will always be people who still feel disenfran­
+chised by high tech, and it is to their issues that we will now turn.
+66
+Crossing the Chasm
+Laggards: The Skeptics
+Skeptics—the group that makes up the last one-sixth of the Tech­
+nology Adoption Life Cycle—do not participate in the high- 
+tech marketplace, except to block purchases. Thus, the primary 
+function of high-tech marketing in relation to skeptics is to neu­
+tralize their influence. In a sense, this is a pity because skeptics 
+can teach us a lot about what we are doing wrong—hence this 
+postscript.
+One of the favorite arguments of skeptics is that disruptive 
+innovations of any kind rarely fulfill their promises and almost 
+always come with unintended consequences. This combination 
+of elusive reward with omnipresent risk just looks to them like a 
+bad bet. Of course, visionaries and pragmatists are quite adept at 
+overcoming these objections; otherwise there would be no high- 
+tech industry for us to discuss. But what if, instead of rushing to 
+rebuttal, we were to explore the merits of the skeptic’s argument?
+The point is, as any experienced seller of high-tech prod­
+ucts can tell you, cost justification of high-tech purchases is a 
+shaky venture at best. There is always the potential to return 
+significant dollars, but it always depends on factors beyond the 
+system itself. Put another way, this simply means that the claims 
+that salespeople make for high-tech products are really claims 
+made for ‘‘whole product solutions” that incorporate elements 
+well beyond whatever high-tech manufacturers ship inside their 
+boxes. If high-tech marketers do not take responsibility for 
+seeing that the whole product solution is being delivered, then 
+they are giving the skeptic an opening to block the sale. (For all 
+the reasons just cited, the significance of whole product solu­
+tions is discussed at length later as the key component of suc­
+cessfully crossing the chasm and entering into the mainstream.)
+High-Tech Marketing Enlightenment
+67
+What skeptics are struggling to point out is that new systems, 
+for the most part, don’t deliver on the promises that were made at 
+the time of their purchase. This is not to say they do not end up 
+delivering value, but rather that the value they actually deliver is 
+not often anticipated at the time of purchase. If this is true—and 
+to some degree I believe it is—it means that committing to a new 
+system is a much greater act of faith than normally imagined. It 
+means that the primary value in the act derives more from such 
+notions as supporting a bias toward action than from any quantifi­
+able packet of cost-justified benefits. The idea that the value of the 
+system will be discovered rather than known at the time of instal­
+lation implies, in turn, that product flexibility and adaptability, as 
+well as ongoing account service, should be critical components of 
+any buyer’s evaluation checklist.
+Ultimately the service that skeptics provide to high-tech 
+marketers is to point continually to the discrepancies between 
+the sales claims and the delivered product. These discrepancies, 
+in turn, create opportunities for the customer to fail, and such 
+failures, through word of mouth, will ultimately come back to 
+haunt us as lost market share. Steamrolling over the skeptics, in 
+other words, may be a great sales tactic, but it is a poor market­
+ing one. From a marketing point of view, we are all subject to 
+the “Emperor’s New Clothes” syndrome, but particularly so in 
+high tech, where every player in the market has a vested interest 
+in boosting the overall perception of the industry. Skeptics don’t 
+buy our act. We ought to take advantage of that fact.
+Back to the Chasm
+As the preceding pages indicate, there is clearly a lot of value in 
+the Technology Adoption Life Cycle as a marketing model. By 
+68
+Crossing the Chasm
+isolating the psychographics of customers based on when they 
+tend to enter the market, it gives clear guidance on how to de­
+velop a marketing program for an innovative product.
+The basic flaw in the model, as we have said, is that it implies 
+a smooth and continuous progression across segments over the 
+life of a product, whereas experience teaches just the opposite. 
+Indeed, making the marketing and communications transition 
+between any two adoption segments is normally excruciatingly 
+awkward because you must adopt new strategies just at the time 
+you have become most comfortable with the old ones.
+The biggest problem during this transition period is the lack 
+of a customer base that can be referenced at the time of making 
+the transition into a new segment. As we saw when we redrew 
+the Technology Adoption Life Cycle, the spaces between seg­
+ments indicate the credibility gap that arises from seeking to use 
+the group on the left as a reference base to penetrate the segment 
+on the right.
+In some cases, the basic affinities of the market keep groups 
+relatively close together. Early-adopting visionaries, for exam­
+ple, tend to keep in touch with and respect the views of tech­
+nology enthusiasts; this is because they need the latter to serve as 
+a reality check on the technical feasibility of their vision and to 
+help evaluate specific products. As a result, enthusiasts can speak 
+to at least some of the visionaries’ concerns.
+In a comparable way, conservatives look to pragmatists to 
+help lead them in their technology purchases. Both groups 
+like to see themselves as members of a particular industry first, 
+businesspeople second, and purchasers of technology third. 
+Pragmatists, however, have more confidence in technology as a 
+potential benefit and in their ability to make sound technology 
+purchases. Conservatives are considerably more nervous about 
+High-Tech Marketing Enlightenment
+69
+both. They are willing to go along, up to a point, with pragma­
+tists they respect, but they are still slightly unnerved by pragma­
+tists’ overall self-confidence. So, once again, the reference base 
+has partial value in transitioning between adoption segments.
+The significance of this weakening in the reference base 
+traces back to the fundamental point made about markets in 
+the introduction: Namely, that markets—particularly high-tech 
+markets—are made up of people who reference each other during 
+the buying decision. As we move from segment to segment in the 
+technology adoption life cycle, we may have any number of ref­
+erences built up, but they may not be of the right sort.
+Nowhere is this better seen than in the transition between 
+visionaries and pragmatists. If there are to some extent minor 
+gaps between the other adoption groups, between visionaries 
+and pragmatists there is a great—and to a large extent, greatly 
+ignored—chasm.
+If we look deep into that chasm, we see four fundamental 
+characteristics of visionaries that alienate pragmatists.
+Visionaries lack respect for the value of colleagues’ experi­
+ences. Visionaries are the first people in their industry segment 
+to see the potential of the new technology. Fundamentally, they 
+see themselves as smarter than their opposite numbers in com­
+petitive companies—and quite often they are. Indeed, it is their 
+ability to see things first that they want to leverage into a com­
+petitive advantage. That advantage can only come about if no 
+one else has discovered it. They do not expect, therefore, to be 
+buying a well-tested product with an extensive list of industry 
+references. Indeed, if such a reference base exists, it will almost 
+certainly turn them off, indicating that for this technology, at 
+any rate, they are already too late.
+Pragmatists, on the other hand, deeply value the experience 
+70
+Crossing the Chasm
+of their colleagues in other companies. When they buy, they 
+expect extensive references, and they want a good number to 
+come from companies in their own industry segment. This, as 
+we have already noted, creates a catch-22 situation; since there 
+are usually only one or two visionaries per industry segment, 
+how can you accumulate the number of references a pragma­
+tist requires, when virtually everyone left to call on is also a 
+pragmatist?
+Visionaries take a greater interest in technology than in their 
+industry. Visionaries are defining the future. You meet them at 
+technology conferences and other futurist forums where people 
+gather to forecast trends and seek out new market opportunities. 
+They are easy to strike up a conversation with, and they under­
+stand and appreciate what high-tech companies and high-tech 
+products are trying to do. They want to talk ideas with bright 
+people. They are bored with the mundane details of their own 
+industries. They like to talk and think high tech.
+Pragmatists, on the other hand, don’t put a lot of stake in fu­
+turistic things. They see themselves more in present-day terms, 
+as the people devoted to making the wheels of their industry 
+turn. Therefore, they tend to invest their convention time in 
+industry-specific 
+forums 
+discussing 
+industry-specific 
+issues. 
+Where pragmatists are concerned, sweeping changes and global 
+advantages may make for fine speeches, but not much else.
+Visionaries fail to acknowledge the importance of existing 
+product infrastructure. Visionaries are building systems from 
+the ground up. They are incarnating their vision. They do 
+not expect to find components for these systems lying around. 
+They do not expect standards to have been established— 
+indeed, they are planning to set new standards. They do not 
+expect support groups to be in place, procedures to have been 
+High-Tech Marketing Enlightenment
+71
+established, or third parties to be available to share in the 
+workload and the responsibility.
+Pragmatists expect all these things. When they see visionaries 
+forging their own paths with little or no thought of connecting 
+with the mainstream practices in their industry, they shudder. 
+Pragmatists have based their careers on such connections. Once 
+again, it is painfully obvious that visionaries, as a group, make a 
+very poor reference base for pragmatists.
+Visionaries have little self-awareness about the impact of 
+their disruptiveness. From a pragmatist’s point of view, vision­
+aries are the people who come in and soak up all the budget 
+for their pet projects. If the project is a success, they take all 
+the credit, while the pragmatists get stuck trying to maintain a 
+system that is so “state-of-the-art” no one is quite sure how to 
+keep it working. If the project fails, visionaries always seem to 
+be a step ahead of the disaster, getting out of town while they 
+can, and leaving the pragmatists to clean up the mess. Vision­
+aries, successful or not, don’t plan to stick around long. They 
+see themselves on a fast track that has them leapfrogging up the 
+corporate ladder and across corporations. Pragmatists, on the 
+other hand, tend to be committed long term to their profession 
+and the company at which they work. They are very cautious 
+about grandiose schemes because they know they will have to 
+live with the results.
+All in all, it is easy to see why pragmatists are not anxious 
+to reference visionaries in their buying decisions. Hence the 
+chasm. This situation can be further complicated if the high- 
+tech company, fresh from its marketing successes with vision­
+aries, neglects to change its sales pitch. Thus, the company may 
+be trumpeting its recent success at early test sites when what 
+the pragmatist really wants to hear about are up-and-running 
+72
+Crossing the Chasm
+production installations. Or the company may be saying “state-
+of-the-art” 
+when 
+the 
+pragmatist 
+wants 
+to 
+hear 
+“industry
+standard.”
+The problem goes beyond pitches and positioning, though.
+It is fundamentally a problem of time. The high-tech vendor
+wants—indeed, needs—the pragmatist to buy now, and the
+pragmatist needs—or at least wants—to wait. Both have ab­
+solutely legitimate positions. The fact remains, however, that
+somewhere a clock has been started, and the question is, who is
+going to blink first?
+For everyone’s sake, it had better be the pragmatist. How
+to make sure of this outcome is the subject of the next section.
+PART TWO
+Crossing the Chasm

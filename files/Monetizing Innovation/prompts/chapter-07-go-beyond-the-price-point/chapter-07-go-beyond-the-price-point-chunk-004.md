@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-07-go-beyond-the-price-point",
+  "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt",
+    "source_pages": "95-112",
+    "char_start": 20211,
+    "char_end": 27887,
+    "checksum": "0aec91c2565a7a0d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+y consider this model. 4. Alternative Metric Pricing/Pay As You Go What Is It? Many companies have succeeded by pricing transactions on measures other than the industry per-unit standard. Often these alternative metrics are closer to product value and customer beneﬁts. Industrial giant GE has used such alternative metric pricing in recent years, embracing the power of analytics software, digital sensors, and data. In 2011, the company launched a big initiative to attach and embed digital sensors to its medical equipment, aircraft engines, power turbines, and other industrial equipment. The company generates $1 billion a year from the “outcomes-based” services it now provides—which, for exam-
+
+ple, help airlines identify problematic engines sooner and thus reduce downtime.14 Instead of selling or leasing a CAT scan machine or a jet engine, GE charges customers by the hours of usage for a medical practice or the miles ﬂown for an airline. As such, customers pay when they use or beneﬁt from the product. If GE reduces its customers’ downtime, that goes into GE’s pockets. It has monetized 100 percent of the value of its offering, exactly as Michelin has been doing with tires. Software companies have also successfully employed alternative pricing metrics. A software company that produces lab reports increased revenue by 20 percent just by changing its pricing metric from ﬁxed perpetual license to charging per lab report. It considered this alternate metric model to be much more aligned with the perceived value. The model also minimized customers’ upfront investment commitments. Of course, this was also beneﬁcial to the software ﬁrm since it could now charge a higher price for a lab report (compared with breaking even on the perpetual fee). The Advantages If your innovation enhances customers’ performance in a way that is superior to the alternatives, the alternative pricing model might be for you. By aligning the metric to your customers’ performance, you achieve full monetization potential. But you must be able to deliver on your promise, as Michelin did with its ﬂeet operator customers. 88 Monetizing Innovation An alternate pricing model can be very successful when you can align the metric directly to how customers perceive value. For example, let’s assume you are a manufacturer of robotic surgery equipment that can be installed in hospitals. If a hospital is small to medium in size, they typically don’t have the capital to invest in machinery you provide. The traditional way is to price by the upfront cost for the instrument. What if you price by surgery? This alternative is totally aligned with the value delivered to the hospital as compared to them paying a really high upfront cost. In other words, you are participating in the revenue your customers generate by using your product and services. Ultimately you can show- case your intentions as a win-win situation for you and your customers. Finally, this monetization model could be effective if you are an adept predictor of future trends. For example, telecommunication providers have long anticipated the trends of increased usage of digital data and devices and have proactively changed their metric to “gigabyte-based pricing” or “device and gigabyte-based pricing.” Is It Right for You? The alternative pricing model makes sense when your innovation creates signiﬁcant value to end customers but you cannot capture a fair share of that value using traditional monetization models. Michelin is an excellent example of this. This model makes more sense when you have total control over how customers use your product. For example, if Monsanto is paid via yield per acre, it must make sure that its herbicides are applied in farmers’ ﬁelds as prescribed. Only then does Monsanto have full control over the impact of its products on customers. And this, in fact, is how Monsanto’s monetization model works. 5. Freemium Pricing What Is It? With the freemium model, a company offers two or more tiers of pricing for its products and services, one of which is free. The goal of a freemium monetization model is to attract a huge customer base to the free version and later convert a signiﬁcant percentage to paid subscriptions. This model is also called “land and expand.” You try to land with a freemium offer and expand with paid offers. Both LinkedIn and Dropbox are good examples of companies that have succeeded with freemium pricing. Customers with basic needs can Go beyond the Price Point 89 access a limited version of LinkedIn’s career networking and Dropbox’s storage services for free. But customers with greater needs pay for more sophisticated features. The Internet has greatly expanded freemium possibilities by reducing the cost of distributing many services to zero. In fact, freemium is now the dominant business model for many Internet start-ups, online service providers, software companies, and smartphone apps.15 The Advantages Because freemium services lower the cost of cus- tomer entry to zero, they spur rapid adoption. The free offering becomes, in effect, a marketing tool for the premium offering. That helps companies reduce their cost of customer acquisition compared with more expensive traditional marketing and sales methods. Is It Right for You? The freemium model is deﬁnitely not right for everyone. It only works if you have a very low cost of production (preferably no production costs at all) and minimal ﬁxed costs that can and will be offset by the generally smaller percentage of paying customers. What’s more, companies often struggle to turn the freemium model into long-term monetization. The land-and-expand approach fails for 90 percent of companies. (For an exception to the rule, see the LinkedIn case study in Chapter 13.) In fact, the number of free customers who convert to premium is typically below 10 percent in software companies. In video games, freemium games have an average life span of less than a year, losing 75 percent of free users after just one day and retaining just 2 percent after a month of play.16 If you decide to offer a freemium service, you must double down on your efforts to convert customers to the premium version. It is extra- ordinarily difﬁcult to get consumers to buy something they previously received for free. One need only to look at the scores of Web-based businesses that failed to monetize free online offerings in the last two decades. For example, most newspapers (apart from ones like the New York Times and the Wall Street Journal ) have failed to convert free readers en masse to paid online subscribers. This is the same dilemma for Evernote, a mobile app that helps people take notes on the ﬂy. The ﬁrm became one of the ﬁrst “unicorn” start-ups, joining the exclusive club for private tech companies worth $1 billion or 90 Monetizing Innovation more. Despite reaching 150 million registered users this year, Evernote has been slow to generate revenue, according to Business Insider.17 To have a chance at converting free customers to paid customers, you need to test what beneﬁts they will pay for and ensure a functional free experience. You also need to know exactly how many customers will actually be willing to pay. What’s more, you must avoid giving the farm away for free because it will leave your premium offering with very little value. Five Questions to Choose the Right Monetization Model We have provided ﬁve monetization models and explained when they apply. These models are by no means the only ones you can use. You can also combine pieces of each one. For example, the $112 billion U.S. retailer Costco charges a membership (subscription) fee to use its ware-
+>>>

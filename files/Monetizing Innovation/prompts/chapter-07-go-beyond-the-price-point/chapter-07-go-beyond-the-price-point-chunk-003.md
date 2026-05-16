@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-07-go-beyond-the-price-point",
+  "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt",
+    "source_pages": "95-112",
+    "char_start": 13227,
+    "char_end": 20911,
+    "checksum": "3f06d9b68ffa544b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+($1.6 billion) of the global music industry’s digital revenue, a six- fold increase since 2009.6 Subscription models also work in highly competitive industries in which market share is divided among many ﬁrms—a land-grab scenario. In these situations, subscriptions can help lock out competitors whose goods or services are only available on an individual transaction basis. Last, subscriptions are becoming popular in industries such as soft- ware that formerly required customers to make big upfront investments to purchase the products. By letting customers buy the products in bite- size chunks, subscriptions make them more affordable and predictable for everyone. 2. Dynamic Pricing What Is It?
+
+A dynamic pricing monetization model is one in which a given product’s or service’s price ﬂuctuates based on factors such as season, time of day, weather conditions, or other considerations that could impact willingness-to-pay, demand, and supply. For decades, the airline industry pioneered dynamic pricing, chang- ing ticket prices based on the time of booking, class of service, and other factors. As one of the pioneers of dynamic pricing, American Airlines’ former CEO Robert Crandall, eloquently put it, “If I have 2,000 customers on a given route and 400 different prices, I am obviously short 1,600 prices.”7 With rapid advancements in data collection and analytics technol- ogies, companies in other industries can now use more complex algo- rithms to adjust prices more frequently. Uber is a prime example. The ﬁrm, launched in 2010, has disrupted the taxi business with a dynamic pricing monetization model that ties price to the real-time demand and supply of taxis. The beneﬁts go both ways: to Uber’s drivers and to the consumer. An increase in price during peak hours attracts more Uber drivers to meet the demand. Consequently, consumers don’t have to ﬁght for a taxi or wait in the rain trying to ﬂag one down, and they’re willing to pay more for that beneﬁt. More on Uber in Chapter 13. Dynamic ticket pricing is becoming more prevalent in professional and collegiate sports, with higher- and lower-proﬁle games priced Go beyond the Price Point 85 accordingly, even in the regular season.8 Some supermarkets have applied dynamic pricing at the level of the individual consumer, offering personalized pricing based on repeat purchases.9 Frequent buyers of a product will get a lower price to encourage the behavior; people who haven’t bought the product before, or buy it infrequently, pay a higher price. French home improvement chain Castorama has installed electronic shelf pricing that adjusts prices in real time according to demand.10 But dynamic pricing can backﬁre. Coca-Cola began testing a vend- ing machine in 1999 that automatically raised prices for its soft drinks in warmer weather.11 The company abandoned the experiment; customers didn’t like it one bit. The Advantages As the travel and hospitality industry has known for years, dynamic pricing boosts the monetization of ﬁxed and constrained capacity. Companies don’t want expensive, costly-to-maintain assets, like jumbo jets or ﬁve-star hotels, operating with empty seats or rooms. Dynamic pricing models let you adjust price (in this case lower) to monetize your unused capacity. Similarly, you can raise prices if your capacity is fully constrained. The more volatile the demand, the bigger the beneﬁts from dynamic pricing. In addition, dynamic pricing can help a company that doesn’t have capacity constraints, but whose demand and price elasticity is volatile. For example, UK grocery chain Tesco prices products higher in the evenings because high-income evening shoppers tend to be willing to pay more. Is It Right for You? First, dynamic pricing should be considered when demand and price elasticity in your market vary signiﬁcantly. If they do, you then must ask what factors inﬂuence the volatility and whether you could set your price based on these factors. Second, you should consider dynamic pricing if your supply is constrained or ﬁxed. But dynamic pricing is a complex undertaking. Companies that wish to use it effectively must make signiﬁcant investments in technology and business process changes. As Coca-Cola and other companies have found, dynamic pricing can irritate customers who believe they’re being taken advantage of. Dynamic pricing generally requires a customer base that is willing to pay a higher price for other beneﬁts—like a taxi on a cold, rainy evening. 86 Monetizing Innovation 3. Market-Based Pricing: Auctions What Is It? Auctions set prices based on competition for goods or services. They’ve been around for centuries. In fact, the ﬁrst auctions date back as far as 500 BC.12 Today, thanks to networking technology, it seems as if everything can be auctioned, from securities to artwork. Auctioning is a primary way Google makes oodles of money. Google AdWords, which drives the advertising displayed alongside search results, is powered by an auction. Advertisers outbid one another for the most prominent placement based on keywords. During the ﬁrst half of 2015, that auction-based ad business accounted for 70 percent of Google’s $35 billion in revenue, according to company earnings reports.13 “Two-sided” marketplaces (those that connect sellers and buyers) have also embraced auctions. The most prominent is eBay, which has built an $18 billion-a-year business helping people sell household items through auction pricing. In a similar vein, Manheim, an automobile auction company (which we will explore in more detail in Chapter 9), is the world’s largest auction provider for buying and selling used cars. The Advantages With auction-based pricing, you can withdraw from the act of price setting and let the market ﬁgure out what it wants to pay. In other words, even though you are the seller, the market perceives you as the neutral party; customers outbid each other to buy and raise prices for you. In addition, when you use an auction model, you can inﬂuence the price without being too explicit about it. For example, you can set a minimum price for the auction and dictate how long the auction takes and the process of bidding. Is It Right for You? Unlike the auctions of old, which required little more than a room, a podium, and a fast-talking auctioneer, today’s high- tech auction-based pricing requires sophisticated systems and processes. If they are not executed properly, they can produce huge, costly mistakes. The auction model might not work if the market has excess inventory and your customers have many options, or if you are in a competitive environment and don’t have the pricing power required to make an auction model successful. However, auctions are ideal for so-called seller markets, where inventory is constrained, the power is with the sellers (as owners of Go beyond the Price Point 87 inventory), and demand is high. If you are one such seller or can become one, as Google did with AdWords, you should seriously consider this model. 4. Alternative Metric Pricing/Pay As You Go What Is It? Many companies have succeeded by pricing transactions on measures other than the industry per-unit standard. Often these alternative metrics are closer to product value and customer beneﬁts. Industrial giant GE has used such alternative metric pricing in recent years, embracing the power of analytics software, digital sensors, and data. In 2011, the company launched a big initiative to attach and embed digital sensors to its medical equipment, aircraft engines, power turbines, and other industrial equipment. The company generates $1 billion a year from the “outcomes-based” services it now provides—which, for exam-
+>>>

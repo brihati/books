@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-006",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 34213,
+    "char_end": 41865,
+    "checksum": "7db3385e9723b8d7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+oice-of-the-customer research, you can ‘test-sell’ your product even though you haven’t even started the product development process yet,” Drews says. “Then, when the customer asks when he can have it, you know you created a very powerful product idea.” A company will have far more conﬁdence that its product develop- ment investment will pay off. “With this kind of upfront customer feedback, it is much easier for top management to approve signiﬁcant funding for a new product,” Drews says. Institutionalizing the Innovation Monetization Process After it saw the big ﬁnancial return on the X-zone 5000 and several other successful pilot cases, Dräger Safety decided it had to institutionalize this
+
+new product development approach for every new product idea. The new process (called CPM, for Customer Process Monitoring) begins before a new product is designed. The research and value analysis part of CPM has ﬁve phases: 1. Deﬁning where to focus the target market in terms of geo- graphic region, application, and industries. Dräger Safety concentrates on its most important industries and chooses product features largely on the basis of what those markets require. 2. Identifying key decision makers and inﬂuencers. In Dräger Safety’s case, it’s almost always a customer’s buying center—a group consisting of a safety engineer, procurement professional, and a 178 Monetizing Innovation technical or plant manager. Each person has different requirements and degrees of inﬂuence on the buying decision. 3. Launching qualitative research to observe and interview customers in their environments. In this phase, the company gathers invaluable data on how customers will use the product. The ﬁrm also identiﬁes unarticulated and articulated needs (as we dis- cussed in Chapter 4), especially those that lead to “wow” features. 4. Conducting a quantitative survey. While the qualitative research provides a wellspring of feedback on relevant features, the quantita- tive survey assesses customers’ WTP in absolute terms, and relative to competitors’ offerings. The company uses conjoint analysis and other techniques. From this research, Dräger Safety identiﬁes needs-based segments, customer groups with homogeneous requirements, values, and WTP. For example, for the X-zone 5000 research, sewage customers said a watertight housing was very important and they were willing to pay for it. In contrast, petrochemicals customers showed less interest and almost no WTP for that feature. 5. Assessing competitive products. Before it establishes the value proposition and selling story of a new product, the ﬁrm spends considerable time to understand the strengths and weaknesses of competing products. “Your product cannot and does not have to be better than competitors’ products in every function,” says Drews. “You must pick your battles so that your product is stronger than competitors’ products in key functions for your target segments.” As a result of its CPM process, Dräger Safety’s new-product plans are no longer ruled by anecdotal evidence from salespeople about the importance of certain features. The company has learned that many proposed product features are of little interest to customers, and thus they have little willingness to pay for them. This was a revelation to Dräger Safety’s R&D team. Knowing which features customers don’t care about and won’t pay for has helped the team to signiﬁcantly reduce the cost of new products. With all this information, Dräger Safety then created a full-ﬂedged product concept. Features that differentiate a product and generate value for customers (especially those “wow” features) pass the test; they’re baked into the product concept. Costly and unimportant features fail the test, and they are omitted. Learning from the Best 179 Because Dräger Safety is vitally interested in meeting the often varying needs of different segments, it creates variations of each product. This was the case with the X-zone 5000 gas detector. For example, the sewage market version of the product came in a more expensive, watertight case. Creating Winning Sales and Marketing Messages After Dräger Safety creates a robust product concept, its next monetiza- tion task is to create the all-important messages for marketing and sales campaigns. The ﬁrst job here is creating selling stories—narratives that articulate the product’s value to each inﬂuencer and decision maker in the purchasing process. But before it starts printing marketing and sales collateral—indeed, even before it starts developing the product itself—Dräger Safety gauges customer reactions to its selling stories. You may be thinking, how can you ask customers about a new product that you haven’t yet developed? How can customers react to something they can’t see? Dräger Safety creates simple presentations that show key product beneﬁts—exactly what customers get if they purchase the device. These presentations vary by customer role. For example, the purchasing function gets a presentation on the beneﬁts it cares about. The safety engineers get a presentation on what matters to them, and so on. These selling stories generate important conversations with custom- ers—conversations that give Dräger Safety a much ﬁner sense of how much customers want the product and what they’d shell out for it. All these conversations happen before a single product is put through the manufacturing process. In fact, they take place even before Dräger Safety’s product design professionals start the engineering process. These conversations are critical because it is far better to “fail early”—to learn what customers do and don’t value—before kicking off product development. Only when Dräger Safety gets an overall positive market reaction to a new product concept will it launch into its product development process. That gives the R&D team a clear mandate and much higher conﬁdence in the product specs. Since it added CPM to the beginning of its product development process, Dräger Safety hasn’t had to change product speciﬁcations in the product development phase—and if they had to change, it was 180 Monetizing Innovation tweaks rather than drastic modiﬁcations Drews says. This is the design the product around the price paradigm at its best. Embedding Monetization into Dräger’s Innovation DNA Dräger Safety’s version of monetizing innovation—of creating products around a price—has taken ﬁrm hold. The CPM work that started with the X-zone 5000 product remains an integral part of the ﬁrm’s innova- tion process. So how exactly did Drews bring CPM into the organization and make it stick? Launching successful pilot tests was a key element. While he headed R&D, Drews collaborated with his counterpart in marketing to develop the CPM process and institute it in a few pilot projects. The X-zone 5000 was one of them. Another pilot test, for a new “alcotest” product—shorthand for an alcohol breath-detecting device—became a major success as well. Sales of an entirely new generation of alcotest product were 10 times higher than the version it replaced. And the new product’s proﬁt margins were signiﬁcantly greater than prior ones. These pilots proved to be very successful. They convinced Dräger Safety of the power of its CPM innovation process. Before long, the company couldn’t imagine doing R&D any other way. Now all relevant Dräger Safety innovations must move through the CPM process. Each new idea is presented to the ﬁrm’s product portfolio board (which includes C-level managers), and the board makes the ultimate project decision: a yes or a no. Major projects that have not gone through the CPM process are not approved.
+>>>

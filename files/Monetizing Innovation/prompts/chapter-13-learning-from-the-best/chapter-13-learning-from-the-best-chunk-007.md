@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-007",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 41165,
+    "char_end": 48824,
+    "checksum": "a18163fa2b98d3d2"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ess as well. Sales of an entirely new generation of alcotest product were 10 times higher than the version it replaced. And the new product’s proﬁt margins were signiﬁcantly greater than prior ones. These pilots proved to be very successful. They convinced Dräger Safety of the power of its CPM innovation process. Before long, the company couldn’t imagine doing R&D any other way. Now all relevant Dräger Safety innovations must move through the CPM process. Each new idea is presented to the ﬁrm’s product portfolio board (which includes C-level managers), and the board makes the ultimate project decision: a yes or a no. Major projects that have not gone through the CPM process are not approved.
+
+To make the CPM process stick in the organization, Drews and his peers from the marketing department hired people to run the new CPM group. The CPM managers were made part of the marketing/ product management function. In doing so, Drews and his marketing colleagues made a bold move to bridge the gap between R&D and marketing and demonstrate that the entire product development process had to shift from inside-out to outside-in thinking, rooted in customer desires. As a result, Dräger Safety’s product development projects are now spearheaded by CPM managers from marketing/product management. For Dräger Safety, outside-in thinking has become part of its innovation DNA. Learning from the Best 181 But while such organizational and process changes are important to making a CPM process stick, they aren’t the most critical ones, Drews believes. Changing culture and strategy are more important—and more difﬁcult. In culture, a corporate DNA of “product ﬁrst, customer second” is, in Drews words, a “huge animal” to address. In such companies, a CPM-like process is hard to accept at ﬁrst because executives fondly remember times in the 1970s and 1980s when product development delivered big wins. When asked to institute a process like CPM today, executives will say, “Our old approach to product development worked before; why would it be different now?” Companies can be equally resistant to the strategic changes that a CPM approach forces on management: a crystal-clear focus on key market segments. In developing a new product, the CPM approach requires management to decide which customer segments to emphasize over other segments. Sales-driven companies can perceive this as heresy; focus and priorities will limit sales opportunities, so goes the impression. That, of course, is a wrong perception. (See Chapter 5.) These mindset, cultural, and strategic changes can only be driven from the top of an organization. That’s the way Drews did it when he ran R&D at Dräger Safety, and later when he became CEO. But, he adds, the changes must also be driven by executives in R&D, product manage- ment, and marketing—the business functions critical to product innovation. “Creating a CPM type of process is relatively simple,” Drews sums up. “But deploying it and making sure it stays in place for every new product can be like climbing the Mount Everest.” Uber—Monetizing a Disruptive Innovation through Innovative Price Models You want supply to always be full, and you use price to basically either bring more supply on or get more supply off, or get more demand in the system or get some demand out. It’s classic Econ 101. —Travis Kalanick, CEO and co-founder of Uber6 Uber is redeﬁning the American success story. It is remaking an entire industry, changing the way we think about how people get from point A to point B. Although it is still privately traded as of this writing, Uber has 182 Monetizing Innovation one of the highest valuations of any U.S. company. It only took Uber ﬁve and a half years to surpass the valuation of 107-year-old General Motors.7 It has reached this pinnacle seemingly by magic. As others have noted, Uber, the biggest new player in the transportation sector, owns no cars. Wikipedia describes them simply as “makers of a mobile application providing access to vehicles for hire.” Whereas Walmart stocks goods and Apple builds computers, Uber doesn’t own or make or even store what it sells. Think, for a moment, of the scope of that accomplishment! Imagine taking on a major sector of the U.S. economy, dominated by a set of well-capitalized players, without signiﬁcant working capital and without inventory. Those who know Uber best, the insiders, have an opinion on the company’s amazing rise. They say Uber’s success was powered by its revolutionary approach to monetization. Uber Designed Its Innovation around the Price There are two levers to Uber’s pricing strategy—the dynamic piece and penetration pricing. Let’s look at both of these closely. Part One: The Dynamic Piece What accounts for Uber’s success? Fans of the service will point to the app, which allows you to know exactly when you’ll be picked up, track your driver’s progress, estimate your fare, and pay automatically with a pre-loaded credit card. All of these are great features, but no matter how amazing Uber’s app may be, no matter how clean the vehicles or magical the customer experience, none of that counts when a would-be rider sees the dreaded words, no cars available. According to Bill Gurley, an early investor and current Uber board member, that was one of the company’s biggest challenges. Even among the all-star team of Uber insiders, Gurley stands apart. On Forbes’ Midas List, dubbed “The World’s Smartest Tech Investors,” Gurley has also served on the boards of GrubHub, Zillow, NextDoor, and OpenTable among several others. His blog, Above the Crowd, is a must-read for the growth capital community. And before he became famous, he was the lead analyst for the IPO of a little-known company at that time, Amazon. Learning from the Best 183 Early on, according to Gurley, Uber had discovered that they were dealing with a highly price-sensitive crowd. “It became very obvious very early in the company that the elasticity was off the charts,” Gurley says in a conversation he had with us.8 The key insight was that this did not just apply to the riders. It applied to the drivers as well. Faced with a shortage of drivers to pick up weekend bar patrons just after last call, Uber “messed around with incentives,” says Gurley. The results were surprisingly strong. By offering additional money, they were able to “move supply off the edge” and get more drivers picking up Bostonians at 2 a.m. The company could have attacked the car availability problem by forcing drivers to sign up for quotas, as some ﬁrms do. They could have insisted on regular hours, graveyard shifts, and forced scheduling. Instead, they solved it in the most elegant way possible: with a monetization model. This is what Gurley refers to as the “dynamic piece,” also known as Uber’s surge pricing. Today, in times of peak demand, the company charges customers more for a ride than during non-peak times. In Chapter 7, we discussed this approach under the name “dynamic pricing,” one of the key monetization models powering many successful businesses. In effect, Uber’s platform has a customer pay the driver more during high-demand periods, so that the driver is willing to brave the elements— or skip their own New Year’s Eve party—to give the customer a ride. If Uber had not implemented the dynamic pricing model, the alternative would have been to leave numerous customers in the lurch, complaining about availability and reliability. Such customer dissatisfaction would have severely hurt adoption. Instead, the dynamic model intentionally reduces demand and at the same time increases supply in order to maximize availability and reliability.
+>>>

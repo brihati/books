@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 27215,
+    "char_end": 34913,
+    "checksum": "89624abf17f0901d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+R&D. Drews, who joined the ﬁrm in 1991 as a mechanical engineer, had climbed the ranks to become global R&D vice president. In 2008, he was promoted to president and CEO. The company had a long history of manufacturing gas detection equipment, air quality monitors, masks, and other safety tools. Its engineers had spent decades developing devices to help make tough jobs safer. By 1937, the ﬁrm created the Dräger Tube, a portable gas detector that measured the levels of carbon monoxide, methane, and other harmful gases in a mine. Decades later, after a complete rethinking of its innovation process, Dräger Safety brought to market another industry-leading product, the X-zone 5000 gas detector.
+
+Let’s examine the before-and-after picture of Dräger Safety’s innovation process. The Limitations of the Old Innovation Process At the time Drews took over the ﬁrm’s R&D, its longstanding product development process typically began with a bunch of engineers brain- storming in a whiteboard-ﬁlled conference room. As Drews says, it was emblematic of the so-called “fuzzy front end” of innovation—when a new product is often a nebulous concept. The primary input for product development came from Dräger Safety salespeople. From their rounds with customers, they came back to R&D with customer suggestions and complaints. However, used as Learning from the Best 175 customer research for product development purposes, such feedback had severe limitations. First, it was anecdotal and thus might not broadly represent the customer base. Second, it reﬂected needs the customers could articulate and thus left out their unarticulated desires. Third, it was gathered in an unstructured way, which made it hard to know the relative importance of any customer suggestion. Finally, it was ﬁltered through the eyes of the sales force and thus wasn’t direct from the horse’s mouth. For those reasons, while it was valuable, the sales force’s input couldn’t drive product development, Drews believed. There was one other not-so-tiny ﬂaw in using the sales force as the ﬁrm’s market research team: The sales team would come to R&D and say the price of a proposed new product had to go down and the perform- ance had to go up at the same time. Not a big surprise. No salesperson wants price to be a customer objection. However, if the price had to go down, that meant the ﬁrm’s production cost had to drop as well, otherwise the price reduction would pinch margins. Competitors’ products were another input to new product designs. When competitors added features to their own products, Dräger Safety salespeople lobbied hard to match the features. The scene at Dräger Safety provided the perfect recipe for a feature shock. Nobody rigorously examined the value each feature delivered to customers. The ﬁrm’s entire product deﬁnition process was unstructured—in part because customers were treated as one segment and because Dräger had no systematic way to prioritize their needs. As a result, Dräger Safety created too many products overloaded with features and overengineered to deliver those features. That led to lots of overpromising on customer delivery dates because the company’s fea- ture-laden products were a bear to manufacture. The messy product development process created internal havoc as well. Frequent changes to product speciﬁcations delayed schedules, which deeply frustrated the R&D team. On top of that, the sales force applied constant pressure to reduce prices, which in turn forced Dräger Safety engineers to change their designs in order to trim manufacturing costs. In short, the fuzzy front end of innovation led to overengineered, one-size-ﬁts-all product speciﬁcations, scope creep (in which the list of features kept growing), an unclear selling story, and mediocre product margins. 176 Monetizing Innovation Bringing Innovation to the Innovation Process When Drews became global head of R&D in 2000, he said “enough” to the old product development process. He forced R&D to ﬂip it: Start with the true voice of the customer, not the internal view. “Thinking about how to monetize a product during the front end of innovation gives a ﬁrm a very good chance that it can come up with something great,” Drews says. Without it, he believes, ﬁrms are likely to create an average or losing product that tries to do too many things. “A powerful innovation approach is to ﬁnd out both the articulated and unarticulated needs of the customer,” he says. The unarticulated needs can lead to the biggest innovations, Drews says. “The key is to understand how much value your innovation provides customers in solving their problem.” At Drews’s insistence, Dräger Safety reversed its innovation process. It began with engineers and others from the new product team going out in the ﬁeld and observing customers. The X-zone 5000 gas detector started this way, with Drews himself observing customers who drilled for oil and gas and ﬁrms that deal with sewage. “You really want to understand how people are dealing with your equipment,” he says. For example, Drews and other Dräger Safety employees went to such dark places as pipelines and parts of Hamburg’s sewage canals to talk to the workers who spend 80 to 90 percent of their job time underground. The Dräger Safety crew asked them for pointed advice on how to improve the ﬁrm’s products. They spoke with workers who monitored manholes and operated underground in sewage canal pipes. These workers, called testers, must continually sample the air from canals to detect toxic or combustible gases. The interviews found the testers had two main problems. First, pedestrians often accidently kicked the gas detectors into a canal because they didn’t see them. Second, when it rained, a tester had to stay out in the rain rather than work from a truck, because the detector’s visual alarm wasn’t bright enough and the audio alarm wasn’t loud enough. Dräger Safety’s new X-zone 5000 portable gas detector addressed both issues. Resembling a mini R2-D2 from the Star Wars movies, the small, three-legged device stands 20 inches high and 12 inches wide and weighs in at 15 to 22 pounds, depending on the size of the battery. The $4,300 product provided big process cost savings for customers, despite Learning from the Best 177 commanding a price premium of 35 percent above its next-best competitor. The X-zone 5000 became a huge hit. Product sales were 250 percent higher than expected, margins proved far above average, and the company won a German safety award for the product. So what led to the X-zone 5000’s roaring success? Dräger Safety had shown the concept of X-zone 5000 to customers before engineers even started to develop it. Customers loved how the X-zone 5000 addressed their biggest pain points, with its distinct visual appearance and improved alarms. The new innovation process produced another beneﬁt, one that went beyond creating an on-target product: pre-selling the new product long before it was available. “By doing such voice-of-the-customer research, you can ‘test-sell’ your product even though you haven’t even started the product development process yet,” Drews says. “Then, when the customer asks when he can have it, you know you created a very powerful product idea.” A company will have far more conﬁdence that its product develop- ment investment will pay off. “With this kind of upfront customer feedback, it is much easier for top management to approve signiﬁcant funding for a new product,” Drews says. Institutionalizing the Innovation Monetization Process After it saw the big ﬁnancial return on the X-zone 5000 and several other successful pilot cases, Dräger Safety decided it had to institutionalize this
+>>>

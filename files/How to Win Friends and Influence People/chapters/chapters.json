@@ -1,0 +1,278 @@
+{
+  "pdf": "/Users/sachin/Downloads/31-10-2020-083612How to Win Friends and Influence People - Dale Carnegie.pdf",
+  "page_count": 263,
+  "mode": "toc",
+  "toc_level": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "1. \u201cIf You Want to Gather Honey, Don\u2019t Kick Over the Beehive\u201d",
+      "level": 2,
+      "start_page_1based": 25,
+      "end_page_1based": 37,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/01 - 1. If You Want to Gather Honey Dont Kick Over the Beehive.txt",
+      "char_count": 26777
+    },
+    {
+      "index": 2,
+      "title": "2. The Big Secret of Dealing with People",
+      "level": 2,
+      "start_page_1based": 38,
+      "end_page_1based": 50,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/02 - 2. The Big Secret of Dealing with People.txt",
+      "char_count": 23975
+    },
+    {
+      "index": 3,
+      "title": "3. \u201cHe Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way\u201d",
+      "level": 2,
+      "start_page_1based": 51,
+      "end_page_1based": 67,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/03 - 3. He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way.txt",
+      "char_count": 31644
+    },
+    {
+      "index": 4,
+      "title": "1. Do This and You\u2019ll Be Welcome Anywhere",
+      "level": 2,
+      "start_page_1based": 68,
+      "end_page_1based": 79,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/04 - 1. Do This and Youll Be Welcome Anywhere.txt",
+      "char_count": 23133
+    },
+    {
+      "index": 5,
+      "title": "2. A Simple Way to Make a Good First Impression",
+      "level": 2,
+      "start_page_1based": 80,
+      "end_page_1based": 87,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/05 - 2. A Simple Way to Make a Good First Impression.txt",
+      "char_count": 14391
+    },
+    {
+      "index": 6,
+      "title": "3. If You Don\u2019t Do This, You Are Headed for Trouble",
+      "level": 2,
+      "start_page_1based": 88,
+      "end_page_1based": 95,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/06 - 3. If You Dont Do This You Are Headed for Trouble.txt",
+      "char_count": 15925
+    },
+    {
+      "index": 7,
+      "title": "4. An Easy Way to Become a Good Conversationalist",
+      "level": 2,
+      "start_page_1based": 96,
+      "end_page_1based": 104,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/07 - 4. An Easy Way to Become a Good Conversationalist.txt",
+      "char_count": 17823
+    },
+    {
+      "index": 8,
+      "title": "5. How to Interest People",
+      "level": 2,
+      "start_page_1based": 105,
+      "end_page_1based": 108,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/08 - 5. How to Interest People.txt",
+      "char_count": 7506
+    },
+    {
+      "index": 9,
+      "title": "6. How to Make People Like You Instantly",
+      "level": 2,
+      "start_page_1based": 109,
+      "end_page_1based": 120,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/09 - 6. How to Make People Like You Instantly.txt",
+      "char_count": 21647
+    },
+    {
+      "index": 10,
+      "title": "1. You Can\u2019t Win an Argument",
+      "level": 2,
+      "start_page_1based": 121,
+      "end_page_1based": 128,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/10 - 1. You Cant Win an Argument.txt",
+      "char_count": 12119
+    },
+    {
+      "index": 11,
+      "title": "2. A Sure Way of Making Enemies\u2014and How to Avoid It",
+      "level": 2,
+      "start_page_1based": 129,
+      "end_page_1based": 139,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/11 - 2. A Sure Way of Making Enemiesand How to Avoid It.txt",
+      "char_count": 20720
+    },
+    {
+      "index": 12,
+      "title": "3. If You\u2019re Wrong, Admit It",
+      "level": 2,
+      "start_page_1based": 140,
+      "end_page_1based": 146,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/12 - 3. If Youre Wrong Admit It.txt",
+      "char_count": 13827
+    },
+    {
+      "index": 13,
+      "title": "4. A Drop of Honey",
+      "level": 2,
+      "start_page_1based": 147,
+      "end_page_1based": 154,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/13 - 4. A Drop of Honey.txt",
+      "char_count": 15796
+    },
+    {
+      "index": 14,
+      "title": "5. The Secret of Socrates",
+      "level": 2,
+      "start_page_1based": 155,
+      "end_page_1based": 160,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/14 - 5. The Secret of Socrates.txt",
+      "char_count": 9998
+    },
+    {
+      "index": 15,
+      "title": "6. The Safety Valve in Handling Complaints",
+      "level": 2,
+      "start_page_1based": 161,
+      "end_page_1based": 165,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/15 - 6. The Safety Valve in Handling Complaints.txt",
+      "char_count": 8731
+    },
+    {
+      "index": 16,
+      "title": "7. How to Get Cooperation",
+      "level": 2,
+      "start_page_1based": 166,
+      "end_page_1based": 170,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/16 - 7. How to Get Cooperation.txt",
+      "char_count": 9569
+    },
+    {
+      "index": 17,
+      "title": "8. A Formula That Will Work Wonders for You",
+      "level": 2,
+      "start_page_1based": 171,
+      "end_page_1based": 176,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/17 - 8. A Formula That Will Work Wonders for You.txt",
+      "char_count": 9446
+    },
+    {
+      "index": 18,
+      "title": "9. What Everybody Wants",
+      "level": 2,
+      "start_page_1based": 177,
+      "end_page_1based": 183,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/18 - 9. What Everybody Wants.txt",
+      "char_count": 14209
+    },
+    {
+      "index": 19,
+      "title": "10. An Appeal That Everybody Likes",
+      "level": 2,
+      "start_page_1based": 184,
+      "end_page_1based": 188,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/19 - 10. An Appeal That Everybody Likes.txt",
+      "char_count": 9310
+    },
+    {
+      "index": 20,
+      "title": "11. The Movies Do It. TV Does It. Why Don\u2019t You Do It?",
+      "level": 2,
+      "start_page_1based": 189,
+      "end_page_1based": 192,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/20 - 11. The Movies Do It. TV Does It. Why Dont You Do It.txt",
+      "char_count": 7359
+    },
+    {
+      "index": 21,
+      "title": "12. When Nothing Else Works, Try This",
+      "level": 2,
+      "start_page_1based": 193,
+      "end_page_1based": 197,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/21 - 12. When Nothing Else Works Try This.txt",
+      "char_count": 6113
+    },
+    {
+      "index": 22,
+      "title": "1. If You Must Find Fault, This Is the Way to Begin",
+      "level": 2,
+      "start_page_1based": 198,
+      "end_page_1based": 203,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/22 - 1. If You Must Find Fault This Is the Way to Begin.txt",
+      "char_count": 10172
+    },
+    {
+      "index": 23,
+      "title": "2. How to Criticize\u2014and Not Be Hated for It",
+      "level": 2,
+      "start_page_1based": 204,
+      "end_page_1based": 207,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/23 - 2. How to Criticizeand Not Be Hated for It.txt",
+      "char_count": 6845
+    },
+    {
+      "index": 24,
+      "title": "3. Talk About Your Own Mistakes First",
+      "level": 2,
+      "start_page_1based": 208,
+      "end_page_1based": 212,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/24 - 3. Talk About Your Own Mistakes First.txt",
+      "char_count": 8154
+    },
+    {
+      "index": 25,
+      "title": "4. No One Likes to Take Orders",
+      "level": 2,
+      "start_page_1based": 213,
+      "end_page_1based": 215,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/25 - 4. No One Likes to Take Orders.txt",
+      "char_count": 3979
+    },
+    {
+      "index": 26,
+      "title": "5. Let the Other Person Save Face",
+      "level": 2,
+      "start_page_1based": 216,
+      "end_page_1based": 219,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/26 - 5. Let the Other Person Save Face.txt",
+      "char_count": 6076
+    },
+    {
+      "index": 27,
+      "title": "6. How to Spur People On to Success",
+      "level": 2,
+      "start_page_1based": 220,
+      "end_page_1based": 225,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/27 - 6. How to Spur People On to Success.txt",
+      "char_count": 9212
+    },
+    {
+      "index": 28,
+      "title": "7. Give a Dog a Good Name",
+      "level": 2,
+      "start_page_1based": 226,
+      "end_page_1based": 229,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/28 - 7. Give a Dog a Good Name.txt",
+      "char_count": 7724
+    },
+    {
+      "index": 29,
+      "title": "8. Make the Fault Seem Easy to Correct",
+      "level": 2,
+      "start_page_1based": 230,
+      "end_page_1based": 233,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/29 - 8. Make the Fault Seem Easy to Correct.txt",
+      "char_count": 7516
+    },
+    {
+      "index": 30,
+      "title": "9. Making People Glad to Do What You Want",
+      "level": 2,
+      "start_page_1based": 234,
+      "end_page_1based": 263,
+      "out_file": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/30 - 9. Making People Glad to Do What You Want.txt",
+      "char_count": 41237
+    }
+  ]
+}

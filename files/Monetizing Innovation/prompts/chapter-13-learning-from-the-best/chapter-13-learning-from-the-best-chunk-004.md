@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-004",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 20229,
+    "char_end": 27914,
+    "checksum": "72d9ebba7e6c8080"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+pay for the InMail. The policy discouraged recruiters from sending generic InMails that generated few responses and thus created a poor member experience. We must point out that LinkedIn changed its InMail policy 12 years after the site opened for business. Had the company launched its InMail program with this policy, few members would have used the service; the site didn’t have enough members at the time. It made sense only when LinkedIn had become highly popular, with hundreds of millions of members. Creating Products for Recruiters and Members From the begin- ning, LinkedIn was keen on monetizing both sides of the two-sided marketplace it served. On one side would be members, who created
+
+résumé-type proﬁles and built their professional connections through the platform. On the other side would be recruiters. LinkedIn is one of those rare two-sided marketplaces that monetizes both sides. Most two-sided marketplaces monetize only one side—a missed opportunity! LinkedIn gave the recruiters something they had dreamt about for years: ready access to professionals who were not looking for work. Nothing like it existed in the market. Like with InMail, LinkedIn set about designing a suite of recruiter products while keeping a focus on monetization by proactively identifying recruiter needs, values, and WTP. The results are stunning—the growth of Talent Solutions has been explosive and has continued unabated. By 2014, it had become a $1.3 billion business. And in 2015, revenue was 41 percent higher than the year before. Meanwhile, on the member side, a growing percentage of users are signing up for premium subscriptions: 18 percent of LinkedIn’s total revenue came from these subscriptions in 2015. These users pay extra for e-mail and search tools that help them ﬁnd jobs and generate business leads. 172 Monetizing Innovation Instituting a Rigorous Monetization Process So how has LinkedIn gone from zero to $3 billion in revenue in a dozen years? The answer is nicely summed up by Andrew Freed, the head of Talent Solutions Marketing: “LinkedIn has put in place a rigorous process for monetizing innovation and has embedded that into the core philoso- phy and approach to bringing products to market.” Josh Gold, LinkedIn’s global head of pricing strategy, describes how the company’s new process works for monetizing innovations this way: At LinkedIn we typically use a multi-step, iterative process to test new concepts with customers. As our conﬁdence in the product’s potential increases, we invest more time and energy into optimizing our go-to- market monetization strategy. More speciﬁcally the typical process steps are as follows: • Hypothesis development: Innovation teams start with identifying the white space. They ask questions like “Where can we create and deliver differentiated value?” and “Which markets are underserved?” • Internal reﬁnement: A cross-functional group of internal experts comes together to reﬁne and pressure test the hypotheses. These discussions bring together teams like marketing, sales, pricing, and product design. • Initial customer validation: The team then starts validating product-market ﬁt, perceived value, and WTP with target markets. Methods used include value trade-offs, ideal package (i.e. product conﬁguration) creation, unaided WTP, and purchase probability (as outlined in Chapter 4). This typically occurs prior to writing any code. • The gut-check: The concept must then pass an internal “smell test.” The team typically pitches the product concept to LinkedIn sales reps—the people at the ﬁrm who are closest to customers. If both customers and the LinkedIn’s sales team give the concept a thumbs-up, the product team has the green light to start developing it. • Building a precise model: After this stage, typically a larger scale quantitative study is commissioned to get more precise inputs (on product conﬁguration, price models, and of course the WTP), in order to build a robust business case (as outlined in Chapter 9). Such ﬁndings Learning from the Best 173 are constantly fed to the product teams so that things are moving lock, stock, and barrel. • Paid pilots: Instead of giving the product to beta-testers for free, LinkedIn typically goes to market and sells the beta version of the product. Why? It provides another layer of validation for the mon- etizing potential of the new service based on the value delivered. In the words of Josh Gold, “Our beta users have skin in the game by actually paying for the pilot tests.” And there is a clear impact of having skin in the game: It generates better concept-testing feedback from the testers. It also allows LinkedIn to ﬁne-tune the price levels prior to a full go-to- market launch. In summary, what LinkedIn has is an extremely collaborative, parallelized approach with an extraordinary amount of rigor to moneti- zation and commercialization. This robust process speaks volumes to LinkedIn’s unwavering focus on providing value and identifying the monetization potential of that value long before that product comes to market. This is typically how LinkedIn designs the product around the value and the price. Looking Ahead Over the recent years, the ﬁrm has brought several new promising products to market. One such product is Elevate, launched in 2015. Products such as Elevate are crucial to LinkedIn’s further evolution as an invaluable online tool to help employees progress in their careers, and employers ﬁnd the people they need. Like Andrew Freed said, embed- ding the monetization process into the core philosophy and approach to bringing products to market at LinkedIn is the key to its continued success. Dräger—Collecting the Specs for Successful Industrial Products before Engineering Porsche vehicles and LinkedIn recruiting tools have an appeal that any consumer can understand. But Dräger Safety, Inc. makes products that most people will never see. A $1 billion unit of a $3 billion German company, Dräger Safety manufactures gas detection equipment. Its 174 Monetizing Innovation customers are mining, sewer cleanup, and other industrial companies that must keep worker environments free of toxic fumes. Yet the rules of “design the product around the price” innovation apply just as much to B2B products like Dräger Safety’s industrial tools as they do to consumer offerings. Dräger Safety has reaped the rewards of developing new products this way. Its experience illustrates the impor- tance of talking to customers early about their needs and their WTP for products that meet those needs. Dräger Safety also shows the value of creating sales and marketing messages that articulate a product’s value to customers and make it a must-have. Finally, the ﬁrm demonstrates why altering the strategy and culture of product development is just as important as changing the process—and more difﬁcult.5 Dräger Safety began learning the power of this approach in the early 2000s, when Ralf Drews started running its global R&D. Drews, who joined the ﬁrm in 1991 as a mechanical engineer, had climbed the ranks to become global R&D vice president. In 2008, he was promoted to president and CEO. The company had a long history of manufacturing gas detection equipment, air quality monitors, masks, and other safety tools. Its engineers had spent decades developing devices to help make tough jobs safer. By 1937, the ﬁrm created the Dräger Tube, a portable gas detector that measured the levels of carbon monoxide, methane, and other harmful gases in a mine. Decades later, after a complete rethinking of its innovation process, Dräger Safety brought to market another industry-leading product, the X-zone 5000 gas detector.
+>>>

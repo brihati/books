@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-012",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 75997,
+    "char_end": 83643,
+    "checksum": "c2353e80e4efcce6"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+evenue model that would be a win for both the ﬁrm and its customers. In other words, they needed a winning monetization model. So they set out to create one. Understanding How to Charge To the Optimizely monetization team, the question of how to charge was, in many ways, more important than how much to charge. The more a customer uses the product, the more beneﬁts the customer derives. Consequently, the team wanted to base the monetization model on usage. Use it more, pay more for it. But that model would be a bit unusual in the software industry (at least back in 2010). When the team looked at the software market, it found most SaaS companies priced their offerings on a per-user basis. Per-
+
+user pricing made sense, they believed, if customers got more value as more of their employees used the software—a network effect. However, the Optimizely monetization team felt per-user pricing had no relation- ship to their software’s value. Of course, they were right. The number of employees in a company using Optimizely’s service had no bearing on whether that company generated business value from the software. If Optimizely had charged on a SaaS per-user model, and only the few employees who worked on it were monetized, Optimizely would have left a lot of money on the table. They would have produced a classic minivation. In addition, the monetization team also worried that customers would not be able to predict how many people would use the software. This would likely slow down the purchase decision. 196 Monetizing Innovation After weighing these factors, the monetization team decided to charge according to the number of monthly unique visitors (MUVs) bucketed into an experiment. This metric was more in line with the value of Optimizely’s product. It also enabled smaller companies with lower site trafﬁc to afford Optimizely. As their use of the software grew, they would get more value from it and thus be in a better position to pay more as their website trafﬁc grew. That’s a win-win. Larger companies tended to have larger MUVs and already were in a good position to pay Optimizely a price commensurate with the value they gained from the product. The MUVs model also enabled Optimizely to increase revenue from customers over time. The more tests a customer conducted, the more value it received from Optimizely, and the more it would pay in return for getting greater value. In addition, as a customer’s web trafﬁc grew, it had to spend more to maintain the same level of testing. The MUVs pricing model also simpliﬁed Optimizely’s sales process, since customers only needed to know their monthly site trafﬁc (not how many users might use the software)—a measure they invariably knew. (If they didn’t, it was doubtful Optimizely could help them. After all, it was software, not a magic wand.) The MUVs pricing model is exactly analogous to the Michelin monetization model described in Chapter 7: charging by the miles truckers drove the tires, not per tire. Expanding the Product Portfolio In 2014, Optimizely began gauging customer interest in a new product, Personalization, to help companies tailor their web experi- ences for customers in real time. The product lets customers tailor their website based on demographic and behavioral data on each web visitor. For example, a customer who purchased a backyard barbecue on the last site visit could be shown grill covers, sauces, and grilling tools. This kind of personalization creates customer loyalty, increases engagement, and can greatly increase the chances that a visitor will buy more on the site. To validate whether customers valued their product and how much they would pay for it, Optimizely talked to a representative set of customers and prospects around the world. The answer to the ﬁrst question was a loud and clear “yes!” Learning from the Best 197 Optimizely then used the techniques mentioned in Figure 4.3 in Chapter 4 (including most–least and build-your-own) to break down a list of 15 product beneﬁts/features into leaders, ﬁllers, and killers. With this information, the Personalization product team created a good/ better/best package that tied the products to the right segments. But from a product portfolio standpoint, the team was left with two fundamental questions: 1. Should they bundle the Personalization offering with the Testing offering? 2. How should they charge for the Personalization product? Should its pricing be different than Testing’s pricing? To Bundle or Not to Bundle To answer the ﬁrst question, Optimizely took a closer look at each core market segment, breaking each into three groups: 1. Current Testing customers who might also value Personalization 2. Prospects who might want to purchase Testing and Personalization in a bundle 3. Prospects who only would want Personalization Selling Personalization to existing Testing customers was a no- brainer, since it would be a natural extension to the software they already owned. For example, a retailer who is an existing customer and has tested several campaigns might want to personalize its home page for shoppers based on the test results (e.g., customize the web page based on current weather conditions in their region, or the consumer’s purchasing history). But since Optimizely’s current customers already subscribed to the Testing product, bundling the two offerings didn’t help Optimizely answer the question of whether they should do it. When the Optimizely team talked to prospects who hadn’t pur- chased Testing, or Personalization, it learned their needs could be substantially different for the two products. One reason was that each product was not necessarily needed by the prospect organization at the same time. Most companies preferred to sequence the purchase of the products. 198 Monetizing Innovation To further complicate matters, there was no clear consensus among the prospects on whether a prospect should buy Testing before Person- alization or vice versa. A small segment clearly needed both products, but not so many to warrant bundling the two. Everything pointed to keeping Personalization a stand-alone prod- uct, but under the same optimization experience platform that Opti- mizely was building. When customers used the products together, they needed to be seamlessly integrated, but one should be able to work without the other. Optimizely chose this route: Customers who wanted both products could choose from the good/better/best options of Personalization and Testing (that is, mix and match between the products). This also allowed advanced users of the Testing product to purchase a basic package of Personalization to get started. As the customer advanced on the learning curve, retrieving increasing beneﬁts (from advanced packages) would be possible. Had Optimizely not validated the go-to-market approach (including value and price) with customers before it developed the offerings, it might have bundled them, trying to sell the two products together since this was the easiest thing to do from a product standpoint. At best, that would have created a minivation. We have seen many SaaS companies go down this path and then try to take a step back after the bundle’s sales fall short of expectations. Optimizely’s laser focus on having the customer conversations early in the product development process steered it to the (shall we say it?) optimal outcome. Deciding How to Charge for the Personalization Product With its Personalization product strategy in hand, the next step for Optimizely was deciding how to charge for it. Should it use the same metric it used for the Testing product, MUV? Using the same metric
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-013",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 83922,
+    "char_end": 91610,
+    "checksum": "806195a105d849c1"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+heir resistance to the call to conform that unites the pragmatist herd. To be sure, eventually conservatives do succumb to the new par­ adigm just to stay on par with the rest of the world. But just be­ cause they use such products doesn’t mean they have to like them. The truth is, conservatives often fear high tech a little bit. Therefore, they tend to invest only at the end of a technology life cycle, when products are extremely mature, market-share competition is driving low prices, and the products themselves can be treated as commodities. Often their real goal in buying high-tech products is simply not to get stung. Unfortunately, because they are engaging with the low-margin end of the
+
+market, where there is little motive for the seller to build a high- integrity relationship with the buyer, they often do get stung. This only reinforces their disillusion with high tech and resets the buying cycle at an even more cynical level. If high-tech businesses are going to be successful over the long term, they must learn to break this vicious circle and es­ tablish a reasonable basis for conservatives to want to do busi­ ness with them. They must understand that conservatives do High-Tech Marketing Enlightenment 61 not have high aspirations about their high-tech investments and hence will not support high price margins. Nonetheless, through sheer volume, they can offer great rewards to the com­ panies that serve them appropriately. Conservatives like to buy preassembled packages, with ev­ erything bundled, at a heavily discounted price. The last thing they want to hear is that the software they just bought doesn’t support the home network they have installed. They want high-tech products to be like refrigerators—you open the door, the light comes on automatically, your food stays cold, and you don’t have to think about it. The products they understand best are those dedicated to a single function—music, video, email, games. The notion that a single device could do all four of these functions does not excite them—instead, it is something they find vaguely nauseating. The conservative marketplace provides a great opportunity, in this regard, to take low-cost, trailing-edge technology com­ ponents and repackage them into single-function systems for specific business needs. The quality of the package should be quite high because there is nothing in it that has not already been thoroughly debugged. The price should be quite low be­ cause all the R.&D has long since been amortized, and every bit of the manufacturing learning curve has been taken advantage of It is, in short, not just a pure marketing ploy but a true solu­ tion for a new class of customer. There are two keys to success here. The first is to have thor­ oughly thought through the “whole solution” to a particular target end-user market’s needs, and to have provided for every element of that solution within the package. This is critical be­ cause there is no profit margin to support an after-purchase sup­ port system. The other key is to have lined up a low-overhead 62 Crossing the Chasm distribution channel that can get this package to the target market effectively. In this context, the rise of “as-a-service” of­ ferings delivered over the Web creates a magnificent opportu­ nity to make progress with this segment. Conservatives represent a major opportunity for the high- tech industry in that they greatly extend the market for high-tech offers that are no longer state-ofothe-art. The fact that the United States has all but conceded great hunks of this market to the Far East is testimony not so much to the cost advantages of offshore manufacturing as to the failure of onshore product planning and marketing imagination. Many offshore solutions today still bring only one value to the table—low cost. Conser­ vatives are indeed price sensitive, but that is largely because they cannot get full value from their user experience. If you give them something they can relate to, they are more than willing to pay up for it. Just check out an Apple Store. Far more dollars could be mined from this segment of the high-tech market­ place if American leading-edge manufacturers and marketers, with their high-volume channels and vast purchasing resources, simply paid more attention to it. So, the conservative market is still something that high tech has more in its future than in its past. The key is to focus on convenience rather than performance, user experience rather than feature sets. Backup cameras in cars are a great example of technology conservatives gravitate toward, as are parking assist systems. Even GPS applications have become more friend than foe. Not so, however, with speech-activated functions, for they lack the predictability that conservatives so desperately need. Overall, one has the feeling that the conservative market is still perceived more as a burden than an opportunity. High-tech business success within it will require a new kind of marketing High-Tech Marketing Enlightenment 63 imagination linked to a less venturesome financial model. The dollars are there for the making if we can meet new challenges that are as yet only partially familiar. However, as the cost of R&D radically escalates, companies are going to have to amor­ tize that cost across bigger and bigger markets, and this must in­ evitably lead to the long-ignored “back half” of the technology adoption curve. The Dynamics of Mainstream Markets Just as the visionaries drive the development of the early market, so do the pragmatists drive the development of the mainstream market. Winning their support is not only the point of entry but the key to long-term dominance. But having done so, you cannot take the market for granted. To maintain leadership in a mainstream market, you must at least keep pace with the competition. At this point it is no longer necessary to be the technology leader, nor is it necessary to have the very best product. But the product must be good enough, and should a competitor make a major breakthrough, you have to make at least a catch-up response. This is the game that Oracle has played masterfully in the first decade of the twenty-first century. After several decades of relying primarily on organic R&D to build out its portfolio of enterprise IT software, it changed the game when it made an un­ solicited (and undesired) bid for PeopleSoft. When that acquisition finally closed, it inaugurated a new phase in enterprise IT, one of consolidation very much along the lines seen in earlier times for railroads, airlines, accounting firms, and more recently, banks. But in Oracle’s case, it was not just bulking up in its traditional 64 Crossing the Chasm categories, but rather it was buying up the assets needed to create a top-to-bottom enterprise “stack,” the full complement of what a Fortune 500 CIO would expect to own. This included cus­ tomer relationship management from Seibel, application server middleware from BEA, and product life cycle management soft­ ware from Agile, and eventually led even to annexing Sun Mi­ crosystems for a complete hardware solution as well. Such consolidations are designed to conserve rather than to innovate. It is not that innovation has ceased but rather that it has relocated. Technologies from a prior era, once the focal point of innovation, now become the scaffolding upon which next-generation innovation will build. In that context, stability and predictability become much more highly valued, and eco­ systems are willing to pay a premium to a core set of vendors to maintain them. The key to making a smooth transition from the pragmatist
+>>>

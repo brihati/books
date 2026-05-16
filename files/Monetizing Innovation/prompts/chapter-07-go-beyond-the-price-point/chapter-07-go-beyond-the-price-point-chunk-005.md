@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-07-go-beyond-the-price-point",
+  "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-005",
+  "source": {
+    "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt",
+    "source_pages": "95-112",
+    "char_start": 27187,
+    "char_end": 34845,
+    "checksum": "0a2745c0b7a81fc9"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ider.17 To have a chance at converting free customers to paid customers, you need to test what beneﬁts they will pay for and ensure a functional free experience. You also need to know exactly how many customers will actually be willing to pay. What’s more, you must avoid giving the farm away for free because it will leave your premium offering with very little value. Five Questions to Choose the Right Monetization Model We have provided ﬁve monetization models and explained when they apply. These models are by no means the only ones you can use. You can also combine pieces of each one. For example, the $112 billion U.S. retailer Costco charges a membership (subscription) fee to use its ware-
+
+house stores on top of charging for products you purchase. OpenTable charges restaurants a monthly subscription fee and a transaction fee for every diner in a reservation. Before implementing any of the models, you should have extensive conversations with customers and then test them. Whichever model you choose, it should not only play to your organization’s strengths, but also beneﬁt your customers. It should also take into account future trends for your product, company, and industry. Here are ﬁve questions to consider when assessing which monetization model is right for you. 1. How Likely Are Your Customers to Accept the Model? Different customers like different pricing models. Is your model predict- able, ﬂexible, fair, and transparent enough for your particular customer base? Customers almost always have preferences for certain models. Make sure your model is in line with their preferences. Test out different models to discover your customers’ favorites. One way to do this is to provide your customers with options, the prices of which always total the same amount (if you did the math), and ask them whether they have a preference or are indifferent. If your customers are rational they will always say they are indifferent, since the price is the same across options. However, we have done such testing hundreds of times and have yet to see the “indifferent” option win! People always have a preference. Go beyond the Price Point 91 2. How Will Future Developments Impact the Model? Make sure you do scenario planning around the model. What are the key trends in your business? For example, if you’re a mobile phone service provider, is the number of phone calls increasing or decreasing? How about the number of devices? What risks and opportunities do those trends present long term? How will the pricing metrics hold up? Michelin, for example, factored improvement in tire durability into its distance-based pricing model. Google anticipated an auction-based model would serve it well not only in the early days when prices would be low, but also later on as demand increased. 3. What Stage Is Your Company In and Does Your Model Choice Fit That? A monetization approach has to suit your company’s situation—its life cycle, competitive position, and relationship to customers. If you’re a start- up, for instance, you may want to keep things simple and transparent, as paymentprocessor Square did with its 2.5 percent no-hidden-fee model. A mature company may need to differentiate itself from rivals with a more complex approach. Also important is what you have in your innovation pipeline. When your new offerings come to market, will your model help you monetize them (as Michelin’s model did with its new tires)? 4. What Are Your Competitors Doing? The reason to ask this question is not to mimic your rivals’ monetization approaches but to set yourself apart. Wherever possible, use your monetization model to create a competitive difference, as Netﬂix did to the point of transforming the video rental business and displacing video store competitors like Blockbuster. The question becomes especially relevant when competitors are not equipped to react to any model changes you can bring. 5. How Difﬁcult Is the Monetization Model to Implement? A monetization model is good only to the extent you can make it work. Assess factors like feasibility, difﬁculty of customer adoption, and 92 Monetizing Innovation scalability. Make sure you can measure the data necessary to enforce the pricing. In addition, you must be able to communicate the model easily to customers and partners. Don’t exclude yourself from a particular monetization model based on existing infrastructure and system limita- tions, but be sure to factor in the additional investments needed to make the model work. Gauge the total cost of ownership and the ultimate return. Most of all, make sure your model is driving value to customers and your pricing is commensurate with the value you deliver. The marketplace performance of companies such as Google, Netﬂix, Michelin, General Electric, and Uber irrefutably shows the power of choosing the right monetization model when bringing new products and services to market. These companies demonstrate that a winning mone- tization model can help a ﬁrm leapfrog the competition in ways even a winning product or service offering alone cannot. The rapid evolution of the Internet and other technologies has created abundant opportunities to capitalize on monetization models that are new to your industry. You and your colleagues need to explore them, and quickly, to get out in front. Sometimes the best innovation is the innovation in the monetization model itself! A FEW PRICE STRUCTURES THAT HAVE STOOD THE TEST OF TIME We described in earlier sections how to choose one of the ﬁve monetization models. A price structure builds on such monetization models to account for different levels of usage. This is especially applicable when the monetization model is pay per unit, alternate metric, or subscription. Here’s an example: Say you are about to introduce a new payment processing service, and you’ve decided to charge 3 percent of each payment transaction. That’s a simple monetization model—the alternate metric model. A more comprehensive—but also more complex—way to implement this would be to base that percentage on usage intensity. For example, the 3 percent charge per transaction is for customers that do between 100,000 and 500,000 payment transactions a month; a lower rate (2 percent) is charged to customers who do 500,000 to 1.5 million transactions a month, and so on. (See Figure 7.1.) (continued ) Go beyond the Price Point 93 (Continued ) With this structure, you are telling customers that the more they use your services, the better the rate they get. This could be more attractive to customers than a ﬂat 3 percent rate no matter how many transactions they did. That’s a tier-based structure or, more speciﬁcally, a volume-based structure. Now let’s look at a matrix model. (See Figure 7.2.) Starting from the top left corner of the matrix, the rate gets progressively better for the customer as you work your way down to the bottom right. The key difference between the volume and matrix structures is that the matrix is a two-dimensional structure while the volume is one-dimensional. In Figure 7.2, the ﬁrst dimension is volume and the second dimension is percent share of transactions (that is, the wallet share you receive). The logic is that the higher the volume of transactions and share of business you get, the better the rate for your customer. Note that the two dimensions could be any metric on which you decide to tier. Figure 7.1 Tier-Based Pricing 94 Monetizing Innovation Summary Monetization models can confer signiﬁcant competitive advantage on a new product or service. How you charge trumps how much you charge. As the Michelin case showed, when done right, the best
+>>>

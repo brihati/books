@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-04-have-the-willingness-to-pay-talk-early",
+  "chunk_id": "chapter-04-have-the-willingness-to-pay-talk-early-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 4: Have the “Willingness-to-Pay” Talk Early",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/04 - CHAPTER 4 Have the Willingness-to-Pay Talk Early.txt",
+    "source_pages": "55-68",
+    "char_start": 6292,
+    "char_end": 13986,
+    "checksum": "61cdc7f85b43f5fd"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ove customers would be willing to pay for the service—and would ﬁnd value for each of those 25 features—before they embarked on a long journey of turning it into a product. The innovation team recruited several hundred potential customers to validate how much they were willing to pay. First, they explained the product concept and the functionality they were planning to build. Then they tried to understand if the customers saw any value in the concept. Most important, they asked customers whether they would be willing to pay for such a product. They found customers truly valued the concept and were willing to pay anywhere from $10 to $20 for a monthly subscription fee, as shown in Figure 4.1.
+
+The conversations demonstrated the company had a product custom- erswerewillingtopay for.Itsmanagerswerenolongeroperatingonawing and a prayer. Next, the innovation team dug one level deeper to ﬁnd out Figure 4.1 Distribution of Customers’ Willingness to Pay 42 Monetizing Innovation which features customers were willing to pay for. Prior to that discussion, the team believed one of the coolest features was enabling buyers to ﬁnd out if one of their Facebook connections had used a seller of a product/ service they were interested in. The team thought this feature would be critical to creating trust. They were superexcited about building this and touted it as the number one feature. Certainly, consumers would be willing to pay for that and all the other features (25 in total), wouldn’t they? When the company actually validated this with customers, it turned out customers were only willing to pay for 10 of the 25 features. (These are shown in Figure 4.2.) Of those 10, the Facebook feature ranked seventh in WTP. For customers, the Facebook feature was a nice-to- have, not a must. Customers had become so used to relying on third- party reviews (common at other Internet sites), that they didn’t really care much if the reviews came from their Facebook buddies. The CEO told the R&D team to focus on the 10 features customers valued. The other 15? Forget about them. In this way, the WTP talk allowed the company to prioritize. Equally important, the talk showed them which features customers didn’t need at all. The ranking of the 10 most desired features gave the R&D and innovation team its marching orders—which features should be Figure 4.2 Willingness to Pay for Features Have the “Willingness-to-Pay” Talk Early 43 developed ﬁrst, second, third, and so on. In the vernacular of software development, it gave the team a product roadmap. More important, because the team focused on only the important features, they conse- quently built a better product experience for customers. The WTP talk helped prevent the company from creating a feature shock. Most companies don’t do this kind of homework when they develop a new product or service. Our 2014 survey of 1,600 companies in more than 40 countries (encompassing a range of business-to-business and business-to-consumer industries) found 80 percent wait until just before their product is introduced to the marketplace to determine its price.6 Of those 80 percent, the majority do not have the WTP conversations at all. For those that do, the conversation happens after the product is built, but by then it’s too late. All of these companies operate on the huge hope that customers will be willing to pay for their products and services, but in reality they simply don’t know. No wonder the survey also indicated that 72 percent of new products are failures and don’t meet their revenue or proﬁt targets. The smart companies, on the other hand, have the WTP conversa- tion earlier and use this to shape the product and their own destiny. The Information You Need from Those Early Pricing Talks So having early pricing discussions is essential. But what kind of information are we trying to uncover? First, you want to understand your customers’ overall WTP for your product—the price range they would consider reasonable (if, in fact, they would pay anything at all). Then you have to ask yourself whether that price range would work for your company. It may not if you can’t deliver a market-acceptable product at a price that makes you a proﬁt. Second, you must understand how much value customers place on each feature and what they’d be willing to pay for that value. In this step, you dig a level deeper to understand exactly which features customers value most and would thus be most willing to pay for. This step will help you create your product roadmap—what features to develop ﬁrst, next, and so on. What’s more, it will focus your team on the features that generate the most customer interest and help avoid a feature shock. 44 Monetizing Innovation One Internet company found this out the hard way—after it had brought a new product to market. The company hosts web pages and registers domain names for small businesses. It launched a new product and wasn’t getting sufﬁcient revenue for almost a year. We investigated and diagnosed the product as a feature shock: It had 27 features, many that small businesses did not care about. We told them to whittle the product down to eight features and then increase the price. It worked beyond the ﬁrm’s wildest dreams, boosting the sales conversion rate and revenue more than 25 percent. This sounds counterintuitive: Fewer features create more demand? But it was true in this case. Piling too many features into the product was killing demand by hiding the features that truly mattered. The company had created something that many customers thought excessive and thus actually reduced their WTP. Today, the ﬁrm wishes it had known that before it launched and watched a year’s revenue go poof. We see this scenario over and over again: A company guesses what customers will value about its product and what they’d pay for it. Don’t just hope; ﬁnd out! Amazon could have found out whether customers valued the 3-D features in the Fire Phone. Validate feature value and willingness to pay, and you’ll build far more successful products. Insights, Tips, and Tricks By now you should understand why it’s essential to discuss your new product concept with customers, and ask what they’d pay for it, early in your development process. But if you are like most of our clients, you are a little nervous about discussing pricing with customers before you have a product. How does one do that? The simplest way is to ask direct questions about the value of your product and its features, for example: • “What do you think could be an acceptable price?” • “What do you think would be an expensive price?” • “What do you think would be a prohibitively expensive price?” • “Would you buy this product at $XYZ?” Then follow each question with the most powerful question of all: “Why?” Have the “Willingness-to-Pay” Talk Early 45 What your customers will tell you will be worth its weight in gold. Direct questioning is very useful for getting to a quick ballpark range. More fundamentally, it provides a fast way to see if customers value your product and if they will pay for it—before you sink a lot of money into it. More sophisticated methods for getting at pricing include simulating purchase scenarios that ask customers to pick an option. For instance, you could show a product lineup with different price points and feature combinations and then ask which ones they would choose (including not choosing any option). Again, ask “why?” Then you change the scenario (for example, the feature and price combination) and ask them to choose again. With this technique, you are tapping into the mental models and rules people use to make choices. This will enable you to understand
+>>>

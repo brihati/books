@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-07-go-beyond-the-price-point",
+  "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt",
+    "source_pages": "95-112",
+    "char_start": 6263,
+    "char_end": 13927,
+    "checksum": "139966c284839b1c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+spend more on sales and marketing to convince Go beyond the Price Point 81 customers these new-fangled tires were worth the premium they were being asked to pay. Michelin simply changed its monetization model. It was a brilliant move. Michelin soon boasted the biggest proﬁts in the industry; by 2011, its earnings before interest and taxes were 25 percent higher than Bridgestone’s and more than three times Goodyear’s.2 Innovative Monetization Models: More the Rule Than the Exception Since the turn of the century, innovative monetization models such as Michelin’s have swept through other industries as well. One of them is the $369 billion global computer software industry,3 where the “software
+
+as a service” monetization model has taken hold. In the construction industry, equipment such as backhoes and tractors now have sensors that transmit data when they’re about to break down (so customers can ﬁx them before they break). This demands a rethinking of the industry’s monetization model. If you charge by the hour for an engineer to ﬁx the equipment on site, your maintenance revenue may disappear. A better model might be to include proactive maintenance services into your machine’s price and then increase that price. With technological advancements such as these, increasingly the monetization model is the innovation. But those advancements have been in the making for a few years. For example, in 1999, a then two- year-old movie rental ﬁrm named Netﬂix began charging a ﬂat monthly fee (a subscription model) for unlimited movie rentals by mail rather than the per-disk rental people paid at the neighborhood video store. Cus- tomers took to this model in droves, and Netﬂix later displaced Blockbuster. Since 2000, the reigning monetization model for the online adver- tising market has been the auction. This is how Google has made most of its immense proﬁts. While Google didn’t invent the online ad auctioning monetization model, it undisputedly has been the best at perfecting and making money from it. Uber has disrupted the taxi business with a dynamic pricing model based on supply and demand in a given location. Medtech and General Electric have begun charging hospitals and physician groups according to 82 Monetizing Innovation their use of medical equipment rather than selling or renting the equip- ment. Metromile, an auto insurance startup,4 tracks customers’ driving behaviors using telematics (onboard digital devices) and calculates their total premiums on a per-mile basis. These innovative monetization models have differentiated these companies and enabled dramatic success. However, selecting the wrong monetization model can have just as signiﬁcant an impact. A European trucking company found this out soon after signing a three-year contract to distribute a TV manufacturer’s goods. The distributor charged the TV set maker a ﬁxed price per TV delivered. Over time the size of the TVs increased exponentially, which meant the distributor couldn’t ﬁt as many TVs into each truck as it used to, and thus had to make more truck runs. Costs increased massively, but revenue did not because of the ﬁxed price. Hence, the TV distributor ultimately lost money on the deal. The TV set distributor learned a harsh lesson: Monetarily, a bad monetization model can be worse than a bad price. Five Powerful Monetization Models Sifting through dozens of pricing and revenue strategies, we have identiﬁed ﬁve monetization models that have been proven over time to help companies launch an innovative product or service, differentiate it, or dominate their marketplace. These ﬁve are not the only monetiza- tion models out there, but they are among the most valuable for new product launches. Let’s look at how each model works, its advantages, and the new technologies that make it possible, then how to decide which one best suits your business. 1. The Subscription Model What Is It? The customer provides periodic and automatic payment for continued delivery of (or access to) a company’s offering. For example, customers may opt to subscribe to the Wall Street Journal rather than buying it on a newsstand. Netﬂix customers today choose among several subscription rate plans to receive video via digital streaming. The number of companies embracing this model for products and services is exploding as the Internet has spawned a subscription economy Go beyond the Price Point 83 (sometimes called “the membership economy”). Companies that offer subscription options for everything from clothing and shaving supplies (the Dollar Shave Club) to household goods are challenging established businesses. The Advantages The subscription model lifts lifetime revenue over- all, and customer lifetime revenue speciﬁcally. A customer who buys the Wall Street Journal intermittently generally spends less money than a customer committed to a year of delivery. Obviously, this generates more revenue for the WSJ. A customer on subscription is also likely to stay for a longer time without churning (since you increase switching costs after getting the customer more familiar with your offering). The WSJ loves subscription revenue models for their recurring revenue. For example, if the weather is bad or newsstand operators go on strike, a publication will lose sales. But with subscriptions, the money keeps coming, rain or shine. While selling a long-term subscription is generally harder, it limits the number of buying decisions customers must make and locks them in. With a subscription, a newspaper buyer doesn’t have to decide Monday whether to buy that day’s edition. Add automatic renewal to the equation, and the company is in even better shape. Subscriptions also open up cross-selling and upselling opportunities. Companies can use the data collected on subscribers to make other offers based on preferences and behaviors. Netﬂix has used its subscribers’ movie- watching habits to create original TV series that have become huge hits, such as House of Cardsand Daredevil. These showshavehelped Netﬂix more than double its number of streaming service subscribers between 2012 and 2015, from 33 million to 69 million in 2015’s third quarter.5 Last, the relationships between subscribers and brands also prove stronger and stickier than transactional ones. While the company gets to know the consumer, the consumer becomes more intimate with the brand and perhaps even emerges as an unofﬁcial ambassador for the product or service, thereby increasing the brand’s value. Is It Right for You? A subscription monetization model is an option for products and services sold both online and ofﬂine. Subscription models are also beneﬁcial in industries where customers use the product continually. A great example is the music sector, where subscription plans 84 Monetizing Innovation for online music services from ﬁrms like Spotify and Pandora have taken a ﬁrm hold. In 2014, such streaming subscriptions accounted for nearly a quarter ($1.6 billion) of the global music industry’s digital revenue, a six- fold increase since 2009.6 Subscription models also work in highly competitive industries in which market share is divided among many ﬁrms—a land-grab scenario. In these situations, subscriptions can help lock out competitors whose goods or services are only available on an individual transaction basis. Last, subscriptions are becoming popular in industries such as soft- ware that formerly required customers to make big upfront investments to purchase the products. By letting customers buy the products in bite- size chunks, subscriptions make them more affordable and predictable for everyone. 2. Dynamic Pricing What Is It?
+>>>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Price To Scale Coach"
+  short_description: "Transform SaaS pricing with stronger packaging, metrics, rate-setting, and rollout."
+  default_prompt: "Use $book-price-to-scale-coach to improve SaaS packaging, pricing metrics, rate-setting, usage-based pricing choices, and pricing rollout using Price to Scale."

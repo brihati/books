@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-07-launch-the-invasion",
+  "chunk_id": "chapter-07-launch-the-invasion-chunk-003",
+  "source": {
+    "chapter_title": "Launch the Invasion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/07 - Launch the Invasion.txt",
+    "source_pages": "202-217",
+    "char_start": 13341,
+    "char_end": 21110,
+    "checksum": "4b61842e0fdc0e72"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+atural allies in this quest are local value-added re­ sellers, often sole proprietors themselves, who run low-overhead businesses that are always hungry for new customers. Often Launch the Invasion 205 such VARs are themselves technology enthusiasts, happiest when they can share their expertise with others and get paid for it to boot. What they are not typically good at, on the other hand, is marketing and sales. This is where the product vendors have to step in. Vendors who target the truly small business customer must take virtually all of the responsibility for marketing, and most of it for sales, while almost none for post-sales support—this last is what the VAR really does for a living.
+
+The marketing consists of classic Web programs, with the added wrinkle that the lead flow may be shared directly with the VARs if the latter have an active go-to-market capability. The small business customer cannot really leverage a Sales 2.0 experience because they lack the expertise to participate in it knowledgeably. Instead, they are looking for an agent to mediate between them and the world of technology, a trusted advisor, and that is the role the VAR fulfills. And because VARs make the bulk of their income from post­ sales services, they are anxious to earn and keep that trust. Companies that have had success with this model include small-business-CRM SaaS-provider Infusionsoft, online bill payer Bill.com, and Intuit, the latter two companies leveraging CPAs as their primary VAR resource. To sum up, there are five distinct customer-oriented distri­ bution channels serving high tech, each aligned with a different kind of target customer, each of which will have a different slant to your compelling reason to buy. Entrepreneurs crossing the chasm need to pick the channel that best fits their target market strategy. That will be their primary channel. As the company succeeds on the other side of the chasm, it will likely expand its channel coverage to take on other segments, but for a long time to come its primary channel will not change. It is important, 206 Crossing the Chasm therefore, that the channel/strategy fit be a good one, and there is no shame in switching channels if your first choice is not bearing proper fruit. Distribution-Oriented Pricing Pricing decisions are among the hardest for management groups to reach consensus on. The problem is that there are so many perspectives competing for the controlling influence. In this sec­ tion we are going to sort out some of those perspectives and set out some rational guidelines for pricing during the chasm period. Customer-Oriented Pricing The first perspective to set on pricing is the customers’, and, as we noted in the section on discovering the chasm, that varies dramatically with their psychographics. Visionaries—the cus­ tomers dominating the early market’s development—are rela­ tively price-insensitive. Seeking a strategic leap forward, with an order-of-magnitude return on investment, they are con­ vinced that any immediate costs are insignificant when com­ pared with the end result. Indeed, they want to make sure there is, if anything, extra money in the price, because they know they are going to need special service, and they want their vendors to have the funding to provide it. There is even a kind of prestige in buying the high-priced alternative. All this is pure value-based pricing. Because of the high value placed on the end result, the product price has a high umbrella under which it can unfold. At the other end of the market are the conservatives. They want low pricing. They have waited a long time before buying Launch the Invasion 207 the product—long enough for complete institutionalization of the whole product, and long enough for prices to have dropped to only a small margin above cost. This is their reward for buying late. They don’t get competitive advantage, but they do keep their out-of-pocket costs way down. This is cost-based pric­ ing, something that will eventually emerge in any mainstream market, once all the other margin-justifying elements have been exhausted. Between these two types lie the pragmatists—our target customers for the chasm-crossing effort. Pragmatists, as we have said repeatedly, want to back the market leader. They have learned that by so doing they can keep their whole prod­ uct costs—the costs not only of purchase but of ownership as well—to their lowest, and still get some competitive leverage from the investment. They expect to pay a premium price for the market leader relative to the competition, perhaps as high as 30 percent. This is competition-based pricing. Even though the market leaders are getting a premium, their allowed price is still a function of comparison with the other players in the market. And if they are not the market leader, they will have to apply the reverse of this rule and discount accordingly From the customer perspective, then, as we argued in the previous chapter, the key issue when crossing the chasm is market leadership versus a viable competitive set, captured by comparison to your two reference competitors, and the key pricing strategy is premium margin above a norm set by these comparisons. That is, you have earned a premium over the market alternative because you have next-generation technol­ ogy and a premium over the product alternative because you have invested to orchestrate a segment-specific whole product. 208 Crossing the Chasm Vendor-Oriented Pricing Vendor-oriented pricing is a function of internal issues, begin­ ning with cost of goods, and extending to cost of sales, cost of overhead, cost of capital, promised rate of risk-adjusted return, and any number of other factors. These factors are critical to being able to manage an enterprise profitably on an ongoing basis. None of these, however, has any immediate meaning in the marketplace. They take on meaning only as they impact other market-visible issues. For example, vendor-oriented pricing typically sets the dis­ tribution channel decision by establishing a price-point ballpark that puts the product in the direct sales, Web self-service, or Sales 2.0 camp. Moreover, once the product is in the market, vendor-oriented factors can make a big impact if, for example, they allow for a low-cost pricing advantage in a late mainstream market, or if they allow for operating margins that can fund new R&D for the next early market. The biggest impact of vendor-oriented pricing is on the number of transactions required to create a given amount of annual revenue. Suppose the target were $10 million, which if it came from a single beachhead segment is a reasonable revenue stream to suggest you have successfully crossed the chasm. In an OEM model fulfilled through two-tier distribution, that could be the result of just one or two big design wins. In a direct sales model, it is probably more like twenty to forty transactions, with half of it coming from perhaps the top five. In a Sales 2.0 model, you would probably multiply that by ten—say, 200 to 400 transactions. And in a VAR-enabled model going after small businesses, multiply by another ten, and for a consumer high-volume model, still another ten—say, 20,000—40,000 transactions averaging around $25/month. Launch the Invasion 209 As you can see, each of these price points will call into being a different management perspective on the sales funnel, top to bottom, from suspect to prospect to qualified lead all the way to closed customer. The higher the volume, the more transactional the process, and the more you depend on filling the top of the funnel. The higher the price, the more relationship-oriented the
+>>>

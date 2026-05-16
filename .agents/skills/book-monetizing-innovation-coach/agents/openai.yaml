@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Monetizing Innovation Coach"
+  short_description: "Design products around willingness to pay, segmented packaging, and price integrity."
+  default_prompt: "Use $book-monetizing-innovation-coach to shape product design, willingness-to-pay research, packaging, and price integrity decisions using Monetizing Innovation."

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-08-leaving-the-chasm-behind",
+  "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-005",
+  "source": {
+    "chapter_title": "Leaving the Chasm Behind",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt",
+    "source_pages": "218-246",
+    "char_start": 20360,
+    "char_end": 28071,
+    "checksum": "ad3cf8416eb27c65"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+the swiftest, and second prize is a long way back from first, so spending early and big is seen as the key to success. Beyond this there is a third, more general principle that can help entrepreneurs think through their management of capital for marketing purposes. In this realm, it is typically more capital intensive to cross the chasm than it is to build the early market. Early market development efforts typically do not respond well to massive infusions of capital—in the 1980s we saw this with the IBM PC Jr. and Prodigy; m the 1990s with pen-based com­ puters and video-to-the-home, in the last decade with RFID chips for inventory management and smart grids for electric power distribution.
+
+You simply cannot spend your way into the hearts and minds of technology enthusiasts and visionaries. To be sure, there is a minimum level of capitalization required. You have to be able to travel to make direct sales calls, and show up looking presentable, and you probably should have an office and a phone that is answered in a professional way. You do need to invest in early market public relations—the product launch is Leaving the Chasm Behind 225 crucial to building early market success—but you do not need to advertise, nor do you need to invest in developing partnerships or building channel relationships. All this is premature until you have established some early market credibility on your own. Once early market leadership has been established, however, the entire equation changes. The whole product investment— securing the partnerships and alliances and then making them work to deliver the final goods—takes a significant number of funded initiatives. So does the channel development process, both on the pull and on the push sides, creating demand and providing incentives for sales. And it is critical during this period to have an effective marketing communications program, in­ cluding press relations, market relations, and advertising. In sum, this is when you want to spend your market devel­ opment money—not before. It is important, therefore, that you not start this process until after you have established early market leadership, and that you not commit to throwing off all kinds of cash during the chasm period. Simply applying these two con­ cepts to the business plan can keep you out of a lot of trouble. Organizational Decisions: From Pioneers to Settlers Turning from issues of finance to issues of people, we must recognize that the chasm inherently separates visionaries from pragmatists—not only among the customers for technology­ based offerings but also among the companies that serve them. To leave the chasm behind, to cross it and not fall back into it, involves a transformation in the enterprise that few individuals can span. It is the move from being pioneers to becoming settlers. 226 Crossing the Chasm In the development organization, pioneers are the ones who push the edge of the technology application envelope. They do not institutionalize. They do not like to create infrastruc­ ture. They don’t even like to document. They want to do great deeds, and when there are no more great deeds to be done, they want to move on. Their brilliance fuels the early market, and without them, there would be no such thing as high tech. Nonetheless, once you have crossed the chasm, these people can become a potential liability. Their fundamental interest is to innovate, not administrate. Things like industry standards and common interfaces and adaptations to installed solutions, especially when these solutions are clearly technically inferior, are all foreign and repugnant to the high-tech pioneers. So as the market infrastructure begins to close in around them, they are already looking for less crowded country. In the meantime, they are not likely to cooperate in the compromises needed and can be highly disruptive to groups that are seeking to carry this agenda out. It is critical, therefore, that as the enterprise shifts from the pro duct-centric world of the early market to the market-centric world of the mainstream, pioneer technologists be transferred elsewhere—either to another, more futuristic project within the enterprise, or if that is not an option, to an­ other company where their talents can be better utilized. There is a comparable process going on m the sales force at the same time. Here the group at the forefront is the high-tech sales pioneers. These are people who have the gift of selling to visionaries. They are able to understand the technology and product at a level where they can readily manipulate it and adapt it to the dreams of the visionaries. They can talk the visionaries’ language, understand the quantum leap forward that visionaries seek to achieve, and wrap their products in that cloak. They can Leaving the Chasm Behind 227 translate that language back into concrete manifestations of the product, to be illustrated through custom demos, for which they make insatiable demands. They can think big, and they can get big orders. They are the darlings of the early market. Without them, achieving early market leadership is all but impossible. These same people, however, also become a liability once you have crossed the chasm. Indeed, they are the ones primarily responsible for dragging companies back into the chasm. The problem is, they cannot stop making the visionary sale, a sale predicated on delivering custom implementations of the whole product. Such contracts are fulfilled by robbing from Peter—the mainstream R&D effort—to pay Paul—the custom R&D effort necessary to achieve the visionaries’ buying objective. The key to leaving the chasm behind is to stop custom developments and institutionalize the whole product, to build to a set of standards that the marketplace as a whole, or at least one segment of it, can support. This mainstream effort necessarily puts enormous strain on the R&D department, who must not, therefore, be distracted by yet another wild and crazy venture. And so it is that a pioneer salesperson left unchecked can be highly disruptive and demoralizing to a sales organiza­ tion looking to leave the chasm behind. So now we have two sets of people—technology pioneers and pioneer salespeople—who are fundamental to success in the early market and potentially a liability after the company has crossed the chasm. They must be outplaced, but who is compe­ tent to do so? And how, in the world will their knowledge ever be replaced? And who is going to take over what they leave behind? And is any of this moral or fair, given their contribu­ tions to date? I know of no high-tech firm that has not struggled with 228 Crossing the Chasm these issues sooner or later. And how you respond affects not only those who leave but also those who stay. This is a time when you must perform impeccably. Let’s deal with the moral issue first. And let us take as our starting point that'casting aside people, dislocating their lives and threatening their livelihood, is immoral—even if businesses and governments routinely do so with abandon. The issues then become ones of foresight, agreement, planning, and preparation. Pioneers do not want to settle down. That is not in their best in­ terest nor in the interest of the companies that employ them. If, at the beginning of the process, everyone can acknowledge this fact, and acknowledge that the very goal of pioneers, the final manifestation of their success, is to create a mainstream market and thereby put themselves out of a job, then we can have a rea­ sonable basis for going forward. How we would go forward and under what kind of compensation program is a discussion we
+>>>

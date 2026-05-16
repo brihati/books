@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-05-assemble-the-invasion-force",
+  "chunk_id": "chapter-05-assemble-the-invasion-force-chunk-007",
+  "source": {
+    "chapter_title": "Assemble the Invasion Force",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/05 - Assemble the Invasion Force.txt",
+    "source_pages": "135-168",
+    "char_start": 40405,
+    "char_end": 48166,
+    "checksum": "ef1de1621436f7ed"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+n—no more “I know I waste half of my ad budget, but I just don’t know which half” Now Rocket Fuel’s custom­ ers did, with no-investment required from the company itself The net of all this is that the advertising industry as a whole, realizing that consumer attention has migrated online in a big way, has collectively rallied around companies like Rocket Fuel and AudienceScience and Visible Measures (to name three of MDV’s investments in the area) because everyone in the ecosys­ tem has a vested interest in engaging consumers across this new medium. The lesson for everyone else is clear: If you want to go 154 Crossing the Chasm fast, go alone; if you want to go far, go with others. In the age
+
+of the Internet you need to do both at the same time, and that’s where whole product partners can make all the difference. That said, Rocket Fuel is something of a special case—not all fast-growing businesses in digital commerce depend so in­ tensely on big data and analytics. Some actually depend primar­ ily on people! Take Infusionsoft, for example. Partners and Allies: The Example of Infusionsoft Infusionsoft is another MDV-mvested software-as-a-service company, one that provides sales and marketing services (what the tech industry calls CRM—Customer Relationship Man­ agement) to small businesses (typically fewer than twenty-five employees, many no more than one or two). It was founded to help truly small business owners make the transition to online marketing, a capability that can be transformative if used prop­ erly, but highly daunting to adopt, especially for those new to either digital or marketing or both. This created an initial conundrum for Infusionsoft—how do you attract typically late-adopting target customers to a tech­ nology they are not themselves engaging with? Online market­ ing only works, after all, if your target customer is online. The company solved this problem by partnering with a cadre of small business marketing experts who made their living selling seminars to small business owners advocating the new online approach. These gurus were able to attract prospects in droves, and what better way to stay in touch with them than to help them in­ stall an online marketing capability? The software reinforced the teachings, and the teachings reinforced the software. To be Assemble the Invasion Force 155 sure, this was still a congregation of early adopters, but it helped Infusionsoft meet its first growth milestones. To cross the chasm, however, the company needed to expand beyond the early market for marketing innovation and access the pragmatist majority. It experimented with a number of possible beachhead markets, and had particular success with professional speakers (a more generalized version of the market­ ing guru segment), fitness studios, and dentists (these last two both having a “retention marketing” objective that particularly lent itself to online reminders). In conjunction with these forays it also tried an experiment that failed. Instead of charging customers what had been a hefty up-front fee to get them up and running, it waived the fee en­ tirely, thereby vastly increasing the number of prospects willing to sign up. Unfortunately, a large number of those same cus­ tomers churned out after a short period. Painful as that was, it taught an important lesson about the whole product: Onboard­ ing, both for technical and for business process reengineering reasons, had to be carefully supervised. By adding back a lower-cost version of their onboarding ser­ vice, Infusionsoft was able to drive down its churn and achieve its targeted retention rate goals. But this raised a second challenge: How could you scale the company to meet the escalating demand without creating a low-margin call center environment? This challenge was made even more acute when the company ex­ panded from a pure marketing service to an end-to-end CRM offer. The good news here is that nature abhors a vacuum. The fact that Infusionsoft customers were willing to pay several thou­ sand dollars to be guided through their onboarding and coached through their first several marketing campaigns was not lost on 156 Crossing the Chasm the service providers in their ecosystem. A number of them began to throw their hats in the ring to provide the same service. This led the company to host an Implementation Accelerator workshop, in which they brought twenty-five customers together with a complete suite of experts for a two-day “marketing hack- athon.” Included in the effort were Infusionsoft success coaches to help with inventing marketing strategy and tactics, copywriters, script writers and videographers, software object designers, and webmas­ ters, not to mention Infusions oft’s own tech support staff. What some customers were able to accomplish in two days exceeded what many had done in an entire year. Clearly smoothing the pathway to a whole product was a critical success factor. This led the company to create a training and certification program that in the past two years has graduated more than two hundred Infusionsoft Certified Consultants, not one of whom is on the company’s payroll. Moreover, because each hand washes the other, these same consultants are a strong source of referrals, driving more than half of the company’s new customer enroll­ ments in the most recent fiscal year. The lesson here is clear: While strategic partnerships often struggle mightily to sustain their engagement and maintain their relevance, whole product partnerships built around whole products for specific target markets with compelling reasons to buy do not. That said, let’s see how these same principles can be applied in a strategic partnering scenario. Partners and Allies: The Example of Mozilla While I clearly favor the tactical path, there are cases in high tech when you simply have to take a top-down, orchestrate- Assemble the Invasion Force 157 the-industry approach. Such was the challenge facing the team at Mozilla in 2011 when they made the commitment to expand their world-renowned Firefox browser franchise from the desk­ top to the mobile device. Firefox is an open-source Web browser that came into exis­ tence largely to remediate the flaws in Microsoft’s Internet Ex­ plorer 7.0. That particular piece of technology put the end user’s computer at the mercy of spammers in unacceptable ways, and the team at Mozilla led an effort to create a “people’s choice” alternative. It worked, with 100 million downloads in the first year, leading it to becoming the third most popular browser in the world behind Internet Explorer and Google Chrome. It also worked in another way, spurring both Microsoft and Google to adopt “Do Not Track” optionality into their latest releases, thereby helping to fulfill Mozilla’s populist mission. Mission accomplished? Well, not so fast. How about the next two billion people who are expected to come on to the Internet in the next few years for the first time, people from developing economies who have never had Web access before? They will be using mobile devices for sure—what browser will be their standard? To continue its mission of populist values, Mozilla needed to orchestrate the mobile industry to create a mobile browser that could perform at a smartphone level, competing directly with Apple and Google Android devices, and to organize the entire ecosystem to support this open-source platform as a de facto standard. Mobile is an amazingly diverse sector, ranging from very conservative national telephony franchises to over-the-top technology disrupters coming from all sides. How could a siriall not-for-profit company in Mountain View, California, hope to
+>>>

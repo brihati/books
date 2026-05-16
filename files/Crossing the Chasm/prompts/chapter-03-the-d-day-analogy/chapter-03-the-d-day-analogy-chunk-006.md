@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-03-the-d-day-analogy",
+  "chunk_id": "chapter-03-the-d-day-analogy-chunk-006",
+  "source": {
+    "chapter_title": "The D-Day Analogy",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/03 - The D-Day Analogy.txt",
+    "source_pages": "82-110",
+    "char_start": 34467,
+    "char_end": 42241,
+    "checksum": "86efb0c1a576531d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+n of events that took Doc- umentum to more than $100 million in revenues. It was niche marketing at its most leveraged. There are two keys to this entire sequence. The first is knocking over the head pin, taking the beachhead, crossing the chasm (and chaining together three mixed metaphors to do it!). The size of the first pin is not the issue, but the economic value of the problem it fixes is. The more serious the problem, the faster the target niche will pull you out of the chasm. Once out, your opportunities to expand into other niches are immensely increased because now, having one set of pragmatist customers solidly behind you, you are much less risky for others to back as a new vendor.
+
+The second key is to have lined up other market segments into which you can leverage your initial niche solution. This allows you to reframe the financial gain in crossing the chasm. It is not just about the money you make from the first niche: It is the sum of that money plus the gains from all subsequent niches. It is a bowl­ ing alley estimate, not just a head pm estimate, that should drive the calculation of gain. This is a particularly important point for entrepreneurs working inside large corporations who are having to compete for funding against larger, more established market opportunities. If the executive council cannot see the extended market, if they only see the first niche, they won’t fund. Con­ versely, if you go the other way, and show them only an aggre­ gated mass market, the end result of the market going horizontal The D-Day Analogy 95 and into hypergrowth, they will fund, but then they will fire you as you fail to generate these spectacular numbers quickly. The bowling pin model allows you both to focus on the immediate market, keeping the burn rate down and the market development effort targeted, while still keeping in view the larger win. Salesforce.com: A Software-as-a-Service Company Crosses the Chasm From the very beginning of packaged enterprise applications, software was always delivered as a product to a client company’s data center, where it was installed on their computers and inte­ grated into their storage and networking systems. This required the client company to make significant investments both in capital equipment and operating budgets for expert staff. Moreover, it re­ quired significant systems integration efforts, typically costing sev­ eral times more than the software itself, sometimes as much as ten times more. By the time the software was installed, there was often an updated release on the market, but the effort to put it in would be so great, customers normally forwent upgrade after upgrade, denying themselves all the latest innovations simply because the pain of adding them in was so great. There had to be a better way. With the launch of Salesforce.com, CEO Marc Benioff an­ nounced to the world that there was indeed a better way, one that would spell the “end of software.” It was called software-as- a-service, later to be abbreviated as SaaS, the idea being that there was one and only one copy of the software running at the ven­ dor’s data center, which multiple customers would use simulta­ neously, accessing it over the Internet. Each customer’s data was kept isolated from every other customer’s data, and the entire 96 Crossing the Chasm operation was secured by the latest technology managed by the most competent experts. Customers needed no data center, no expensive staff of IT professionals, and no systems integrators to get up and running on the system. To say the least, it was disruptive—not so much to the customer as to an entire appli­ cation ecosystem that made its living off the old model. You cannot threaten that many livelihoods without generat­ ing a backlash, and a backlash there was indeed. The enterprise ecosystem exclaimed that such a system was inherently insecure, that only a fool would put enterprise data “in the cloud.” The PC ecosystem exclaimed that such an application was inherently dependent on the network, meaning unreliable response times and additional complexity above a packaged PC application running on an on-premise PC server. Skeptical analysts agreed that the idea was ahead of its time and dismissed it as yet another dot-com notion that was bound to flame out. Most doubted Salesforce would even get to the chasm, much less cross it. And yet, as it turned out, Salesforce has become the fastest-growing software company in history, approaching $4 billion in sales as of this writing, with growth rates north of 25 percent even at that size. So how did they do it? Interestingly, they did not go after a vertical market. Instead they focused their segmentation along the following lines: • They targeted salespeople and their managers only—not customer service, not marketing. • They targeted mid-market companies, big enough to need systems to compete with market leaders in their category, small enough to be unable to afford the IT investment required. • They focused on the United States only, in part to stay The D-Day Analogy 97 close to the customer, in part because the United States has always been the early-adopting country in enter­ prise software. • They focused on technology-savvy industries, begin­ ning with high tech itself, then moving into telco, pharmaceuticals, and financial services. The problem they were addressing was, quite simply, making the quarter. Unlike the incumbent sales automation packages, which were sold to enterprise executives to help them with budgeting and forecasting, Salesforce was designed first and foremost to help the salespeople themselves, giving them and their managers direct visibility into their pipelines, showing exactly what stage each prospect was in, alerting them to actions they could take to move it to the next stage. Unlike their competitors, which demanded significant effort to be kept up to date but gave little back in the way of day-to-day help, Salesforce was a true productivity tool. Salespeople loved it—which was a first, believe me. And be­ cause they loved it, they told other salespeople about it, and adop­ tion grew virally, not because some CIO had declared this was the new package, but because individual teams could sign up on their own without their CIO’s help, or in some cases, without even his or her approval. Finally, because software-as-a-service is sold as a subscription, it was very much in Salesforce’s interests to keep cus­ tomers using the product, and since they ran the product them­ selves, they could see who was and who wasn’t using it, and focus their support efforts accordingly. By contrast, while the pack­ aged software vendors had sold all-you-can-eat enterprise-wide license agreements, many were in fact going unused, and no one was terribly incented to do anything about it. As a result, wher­ ever Salesforce landed, it tended to expand, relatively unopposed. 98 Crossing the Chasm A key lesson to learn here is that you want to target a beach­ head segment that is: • Big enough to matter • Small enough to win, and a • Good fit with your crown jewels. That’s what Salesforce did. By confining itself to the activities and the budgets of a single department, it was able to win more territory faster than if it had gone after a suite of applications crossing sales, service, and marketing. That would have required many more approvals and given the incumbents lots of chances to derail or at least slow down their growth. And because all their industries were U.S.-centered and “tech savvy,” and because salespeople tend to job hop more than other professions, there was plenty of cross-pollination to help spread the demand virally.
+>>>

@@ -1,0 +1,118 @@
+{
+  "book_id": "the-strategy-and-tactics-of-pricing",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 164,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-cover",
+      "title": "Cover",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-title",
+      "title": "Title",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-03-copyright",
+      "title": "Copyright",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-04-contents",
+      "title": "Contents",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-05-detailed-table-of-contents",
+      "title": "Detailed Table of Contents",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-06-preface",
+      "title": "Preface",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-07-acknowledgments",
+      "title": "Acknowledgments",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-08-list-of-in-line-boxes",
+      "title": "List of In-Line Boxes",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-09-list-of-exhibits",
+      "title": "List of Exhibits",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-10-strategic-pricing-coordinating-the-drivers-of-pr",
+      "title": "Chapter 1 Strategic Pricing Coordinating the Drivers of Profitability",
+      "chunk_count": 12
+    },
+    {
+      "chapter_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra",
+      "title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "chunk_count": 12
+    },
+    {
+      "chapter_id": "chapter-12-price-and-value-communication-strategies-to-infl",
+      "title": "Chapter 3 Price and Value Communication Strategies to Influence Willingness-to-Pay",
+      "chunk_count": 9
+    },
+    {
+      "chapter_id": "chapter-13-price-structure-tactics-for-pricing-differently",
+      "title": "Chapter 4 Price Structure Tactics for Pricing Differently Across Customer Segment",
+      "chunk_count": 14
+    },
+    {
+      "chapter_id": "chapter-14-pricing-policy-influencing-customer-expectations",
+      "title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "chunk_count": 15
+    },
+    {
+      "chapter_id": "chapter-15-price-level-setting-prices-that-capture-a-share",
+      "title": "Chapter 6 Price Level Setting Prices that Capture a Share of the Value Created",
+      "chunk_count": 9
+    },
+    {
+      "chapter_id": "chapter-16-price-competition-managing-conflict-thoughtfully",
+      "title": "Chapter 7 Price Competition Managing Conflict Thoughtfully",
+      "chunk_count": 11
+    },
+    {
+      "chapter_id": "chapter-17-measurement-of-price-sensitivity-research-techni",
+      "title": "Chapter 8 Measurement of Price Sensitivity Research Techniques to Supplement Judgment",
+      "chunk_count": 16
+    },
+    {
+      "chapter_id": "chapter-18-financial-analysis-analyzing-costs-and-profits-f",
+      "title": "Chapter 9 Financial Analysis Analyzing Costs and Profits for Pricing",
+      "chunk_count": 13
+    },
+    {
+      "chapter_id": "chapter-19-specialized-strategies-adapting-pricing-to-accom",
+      "title": "Chapter 10 Specialized Strategies Adapting Pricing to Accommodate Common Challenges",
+      "chunk_count": 10
+    },
+    {
+      "chapter_id": "chapter-20-creating-strategic-pricing-capability-assembling",
+      "title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "chunk_count": 12
+    },
+    {
+      "chapter_id": "chapter-21-ethics-and-the-law-understanding-the-constraints",
+      "title": "Chapter 12 Ethics and the Law Understanding the Constraints on Pricing",
+      "chunk_count": 12
+    },
+    {
+      "chapter_id": "chapter-22-index",
+      "title": "Index",
+      "chunk_count": 9
+    }
+  ]
+}

@@ -1,0 +1,1063 @@
+ CHAPTER 7
+ Price Competition
+ Managing Conﬂ ict Thoughtfully
+ Victorious warriors win ﬁ rst and then go to war, while defeated warriors go to war
+ﬁ rst and then seek to win.
+ Sun Tzu  1
+ The sixth, and ﬁ nal element, of the Value Cascade is Price Competition.
+A gap occurs between actual and potential value realization when a ﬁ rm
+makes pricing decisions that fail to anticipate the response of competitors to
+those decisions.
+ Ironically, there is little issue here for ﬁ rms that operate in markets with
+so many competitors, each with a small market share, that there is no poten-
+tial to manage it. Those ﬁ rms need merely remain alert to changes in market
+prices and adjust prices quickly, as described in Chapter 6, when the reference
+value changes. Managing price competition becomes more challenging, and
+an unnecessary gap in proﬁ tability becomes much more likely, when a ﬁ rm’s
+market share is large enough that competitors react to its decisions.
+The ramiﬁ cations of competitive reaction can be substantial. Recall the
+description in Chapter 1 of how Alamo Rent A Car went quickly from being
+the most proﬁ table rental car company to one suffering losses because it
+failed to anticipate the reaction of competitors to what may, otherwise, have
+been a ﬁ nancially sound growth strategy. In contrast, large airlines ﬂ ying to
+multiple destinations made a wise decision when they introduced frequent
+ﬂ yer programs in an attempt to blunt the effect of lower prices from small,
+low-cost competitors. Of course, the small competitors could also offer fre-
+quent ﬂ yer programs offering the same number of points per mile of travel,
+but they could not offer the ability to accumulate points as rapidly nor could
+they offer the same variety of destinations once an award level was attained.
+Thus the relative inability of lower-cost competitors to react with an offer of
+equal value enabled larger competitors to create a much-needed source of
+competitive advantage.
+Chapter 7 • Price Competition
+153
+ UNDERSTANDING THE PRICING GAME
+ Price competition is a “game,” as deﬁ ned by game theorists, because the ulti-
+mate outcome resulting from any move that you make depends upon how
+your competitors react to it. Making the right choices in a game is very differ-
+ent from making the right choices to solve a puzzle—such as how to make a
+product more efﬁ ciently. Moreover, competitive pricing is a type of game that
+requires skills foreign to many managers. What most of us know about com-
+petition has been learned from sports, academics, and perhaps from partici-
+pating in intracompany sales contests. The rules for success in these types of
+competition are quite different from those for success in pricing. The reason, in
+technical jargon, is that the former are all examples of “positive-sum” games,
+whereas price competition is usually a “negative-sum” game.  2  Understand-
+ing the difference between positive-sum and negative-sum games is crucial to
+making sound pricing decisions that contribute to proﬁ tability and business
+value.
+ Positive-sum games are those in which the very process of competition
+creates beneﬁ ts. Consequently, the more prolonged and intense the game—in
+sports, academics, or sales—the greater the rewards to the players. The win-
+ner always ﬁ nds playing such games worthwhile and even the loser may gain
+enough from the experience so as not to regret having played. In fact, peo-
+ple and companies with a healthy attitude toward these activities often seek
+opportunities to challenge themselves. A strong competitive spirit is a crite-
+rion commonly used to identify job candidates with high potential for success
+not only in sports, but also in scientiﬁ c research. It is also indicative of people
+likely to be successful in sales if the ﬁ rm creates a competitive culture that
+honors those who excel in meeting or exceeding sales goals.
+ Unfortunately, that same gung-ho attraction to competition can be quite
+unhealthy when applied to negative-sum games: those in which the process
+of competition imposes costs on players. Warfare, labor strikes and dueling
+are negative-sum games because the loser never beneﬁ ts from participation
+and even the winner may end the confrontation badly wounded. The longer
+the conﬂ ict drags on, the greater the cost it imposes on the players. Price com-
+petition is usually a negative-sum game, since the more intense price com-
+petition is, the more it can undermine the value of the market over which
+one is competing. That is likely to be the case where total market demand is
+increased very little by lower prices and competitors have similar cost struc-
+tures. Therefore, price competitors do well to forget what they learned about
+competing from sports and other positive-sum games, and to try instead to
+draw lessons from what are, hopefully, less familiar competitive games such
+as warfare.
+ Students of actual warfare, who are cognizant of its costs do not make
+the mistake of equating success with winning battles. Sir Basil Liddell Hart,
+author of more than 30 books on military strategy, offers advice to political
+and military leaders that marketers would do well to note:
+ Fighting power is but one of the instruments of grand strategy—which
+should [also] take account of and apply . . . ﬁ nancial pressure, diplomatic
+Chapter 7 • Price Competition
+154
+pressure, commercial pressure, and . . . ethical pressure, to weaken the
+opponent’s will. . . . It should not only combine the various instruments,
+but also regulate their use as to avoid damage to the future state of peace.  3
+ In short, winning battles is not an end in itself, and warfare is certainly not the
+only means to an end. In the same vein, winning sales is not an end in itself
+and reducing prices is not the only, and is rarely the most cost-effective, means
+for winning new customers.
+ For marketers, as for diplomats, warfare should be a last resort, and even
+then the potential beneﬁ ts of using it must be weighed against the cost. For-
+tunately, there are many positive-sum ways for marketers to compete. Cre-
+ating new products, creating new ways to deliver service, communicating
+more effectively with customers about beneﬁ ts, and increasing the efﬁ ciency
+of operation are all positive-sum forms of competition. Precisely because they
+create proﬁ ts rather than dissipate them, building capabilities for positive-
+sum forms of competition is the basis of a sustainable competitive strategy.
+Price competition may also be part of an overall proﬁ table growth strategy.
+But competing on price alone can succeed at best only in the short term until
+competitors ﬁ nd it threatening enough to react.
+ COMPETING TO GROW PROFITABLY
+ Unfortunately, many managers erroneously believe that the key to ﬁ nancial
+success is ﬁ rst to win market share, after which proﬁ ts will follow (see box
+“Market-Share Myth” below). When many competitors pursue this same
+strategy, they engage in mindless negative-sum competition, which does little
+more than destroy proﬁ tability for everyone. Fortunately, there are competitive
+strategies that can increase, or at least maintain, the value of markets through
+positive-sum competition. Rather than attracting customers by taking less in
+margin, positive-sum strategies attract customers by offering them new sources
+of value or by meeting their needs in new ways that create value more cost effec-
+tively. Recall our discussion of Exhibit 1-3 in Chapter 1, where we contrasted
+Product-led versus Customer-led offer development. Companies grow both
+top-line revenue and bottom-line proﬁ t simultaneously when they can create
+new sources of customer value without adding as much to cost, or when they
+can reduce costs without equally reducing the value, enabling them to reduce
+prices to win sales without reducing margins below those of competitors.
+ Market-Share Myth
+ A common myth among marketers is that growing market share is the
+key to proﬁ tability. If that were true, the largest airlines in North America
+would be the most proﬁ table while the small upstarts would be strug-
+gling. In fact, for most of the last few decades, the opposite has been the
+case.i The source of this myth is a demonstrable correlation between mar-
+ket share and proﬁ tability.ii But as any student of statistics should know,
+correlation does not necessarily imply a causal relationship.
+ A far more plausible explanation for the correlation is that both prof-
+itability and market share are caused by the same underlying source of
+Chapter 7 • Price Competition
+155
+business success: a sustainable competitive advantage in meeting customer
+needs more effectively or in doing so more efﬁ ciently.iii When a company
+has a competitive advantage, it can earn higher margins due to either a price
+premium or a lower cost of production. That advantage, if sustainable, also
+discourages competitors from targeting the company’s customers or from
+effectively resisting its attempts to expand. Consequently, although a less
+fortunate company would face equally efﬁ cient competitors who could take
+market shares with margin-destroying price competition, a company with
+a competitive advantage can sustain higher market share even as it earns
+higher proﬁ ts. Market share, rather than being the key to proﬁ tability, is, like
+proﬁ tability, simply another outcome of a fundamentally well-run company.
+ Unfortunately, when management misperceives the symptom of
+a poor strategy (insufﬁ cient or declining market share) as a cause and
+seeks it by some inappropriate means, such as price cutting, the expected
+increase in proﬁ tability doesn’t materialize. On the contrary, a grab for
+market share unjustiﬁ ed by an underlying competitive advantage will
+usually reduce the company’s own and its industry’s proﬁ tability. The
+ultimate objective of any strategic plan should not be to achieve or even
+sustain sales volume, but to build and sustain competitive advantage.
+Proﬁ tability and, in many cases, market share growth, will follow. In fact,
+contrary to the myth that a higher market share causes higher proﬁ tability,
+changes in proﬁ tability usually precede changes in market share, not the
+other way around. For example, Walmart’s competitive advantages made
+it the most proﬁ table retailer in the United States long before it became
+the largest, whereas several of its key competitors’ poor proﬁ tability pre-
+ceded by many years their loss of dominant market share. This pattern of
+changes in proﬁ tability leading, not following, changes in market share is
+equally visible in the automobile, steel, and banking industries.
+ A strategic plan based on building volume, rather than on creating a
+competitive advantage, is essentially a beggar-thy-neighbor strategy—a
+negative-sum game that ultimately will only undermine industry proﬁ tabil-
+ity. Every point of market share won by reducing margins (either by offering
+a lower price or by incurring higher costs) invariably reduces the value of
+the sales gained. Since competitors can effectively retaliate, they probably
+will—and at least partially eliminate any gain in share while reducing the
+value of a sale even further. The only sustainable way to increase relative
+proﬁ tability is by achieving a competitive advantage that will enable you to
+increase sales and margins. In short, the goal of a strategic plan should not
+be to become bigger than the competition (although that may happen) but to
+become better. Such positive-sum competition, rather than undermining the
+proﬁ tability of an industry, constantly renews it.iv
+ (i)   “Global Earnings Scoreboard: Most Recent 12 Months Reported,”  Airline Weekly , Janu-
+ary 9, 2017.
+(ii)  Robert D. Buzzell, Bradley T Gale, and Ralph Sultan, “Market Share—a Key to Proﬁ t-
+ability”, Harvard Business Review (January 1975).
+ (iii)  Robert Jacobson and David Aaker, “Is Market Share All That It’s Cracked Up to Be?”
+ Journal of Marketing 49 (Fall 1985), pp. 11–22; Richard Schmalensee, “Do Markets Dif-
+fer Much?”  The American Economic Review 75(3) (June 1985), pp. 341–351; William W.
+Alberts, “The Experience Curve Doctrine Reconsidered,”  Journal of Marketing 53 (July
+Chapter 7 • Price Competition
+156
+ When competitors cannot immediately or cost-effectively duplicate new ways
+of creating value, a company that creates those new ways achieves a “compet-
+itive advantage.” Unfortunately, some managers completely misunderstand
+the concept of competitive advantage and its importance for long-term prof-
+itability. We hear them report that they have a “competitive advantage” in
+having more stores than the competition, more knowledgeable salespeople,
+or higher quality. None of these is a competitive advantage unless they also
+enable the ﬁ rm to deliver value more cost-effectively than their competitors
+can or convince their customers to pay a premium for the extra value deliv-
+ered. Offering customers a more attractive offer by accepting a lower mar-
+gin than the competition may be a sales advantage, but it is not a sustainable
+competitive advantage, since competitors can easily match it and because it
+reduces the return from investing in other, non-price means to win sales.
+ How can a ﬁ rm achieve competitive advantage? Sometimes it’s by luck.
+Oil companies in the Middle East, for example, enjoy oil ﬁ elds from which
+oil can be more cheaply extracted than from those in Manitoba, Norway, or
+Kazakhstan.  4  Often, advantage comes from moving ﬁ rst on a new idea. By
+winning a patent, by gaining economies of scale, or by preempting the best
+locations, a ﬁ rm may achieve an advantage that would be more costly for a
+later entrant to match. Uber has built a lead in car hire by investing heav-
+ily in technology—both current technology and in what will be required in
+the future for driverless cars—thereby increasing the potential value and cut-
+ting the cost of car services. Once frequent users had downloaded its app, it
+became much more costly for potential competitors to acquire customers or to
+recruit drivers.
+ More often, competitive advantages are carved out of the efﬁ cient man-
+agement of a ﬁ rm’s value chain. Michael Porter, the Harvard competition
+guru, cites three ways that companies can proactively manage operations to
+achieve competitive advantage:  5
+ •  Needs-Based Positioning —based on serving the needs of only a particular
+customer segment or niche, which enables the ﬁ rm to tailor its opera-
+tions to meet the unique needs of that segment more cost-effectively.
+ •  Access-Based Positioning —based on the company’s ability to gain access
+to customers in unique ways. Access can be a function of geography or
+customer scale. For example, serving a uniquely wide or narrow geo-
+graphic market, based on the ﬁ rm’s cost structure, can create a unique
+cost and service advantage.
+1989), pp. 36–49; Cathy Anterasiun, John L. Graham, and R. Bruce Money, “Are U.S.
+Managers Superstitious about Market Share?”  Sloan Management Review (Summer 1996),
+pp. 67–77; Linda L. Hellofs and Robert Jacobson, “Market Share and Customers’ Per-
+ceptions of Quality: When Can Firms Grow Their Way to Higher Versus Lower Qual-
+ity?”  Journal of Marketing 63 (January 1999), pp. 16–25; J. Scott Armstrong and Kesten C.
+Green, “Competitor-Oriented Objectives: The Myth of Market Share”  International Jour-
+nal of Business 12(1) (2017), pp. 115–134.
+ (iv)  For evidence that there are proﬁ t leaders in the bottom and middle ranges of market
+share almost as frequently as in the top range, see William L. Shanklin, “Market Share Is
+Not Destiny,”  Journal of Business & Industrial Marketing 4 (Winter–Spring 1989), pp. 5–16;
+and “The ‘Myth of Market Share’: Can Focusing Too Much on the Competition Harm
+Proﬁ tability?” at Knowledge@Wharton, January 24, 2007.
+Chapter 7 • Price Competition
+157
+ •  Focus-Based Positioning —based on developing a unique capability to do
+one or more narrowly focused activities that add value to value chains
+across industries. Because the focused activity does not add value alone,
+a focused supplier must closely monitor and coordinate its operations
+with other suppliers that manage the value chain.
+ Whole Foods is an example of a company that has created competitive advan-
+tage with “needs-based positioning.” The company deﬁ ned a higher standard
+for acceptable ingredients in foods and acceptable practices in dealing with
+food suppliers. The standard appeals to food buyers who are exceptionally
+concerned about the source and quality of ingredients when purchasing foods
+and personal care products. More importantly, those people are willing to pay
+more for products that meet Whole Foods’ high standards. In North America,
+the company has essentially replaced a cottage industry of small “health food”
+stores carrying a limited selection of items with large stores carrying a “purer”
+substitute for practically anything one could ﬁ nd in a regular grocery store.
+As regular grocers have expanded the number of products they offer for this
+segment, Whole Foods has been able to expand its offers as well to maintain a
+large portion of each customer’s shopping basket. Although the company has
+suffered during economic downturns when a smaller share of the market is
+willing to pay the Whole Foods price premium, the company’s sales and prof-
+its recover equally as strongly during business cycle recoveries. Consequently,
+the advantage created by the company’s unique positioning has enabled it
+to outperform the traditional grocery retail segment on both proﬁ t margins
+(EBITDA/Revenue) and growth over the long term.
+ The U.S. beer industry offers a classic case of “access-based positioning,”
+with ﬁ rms both widening and narrowing their geographic reach to achieve
+competitive advantage. Companies with a national presence, such as Anheuser-
+Busch InBev enjoys a huge competitive advantage in purchasing television
+advertising space at low national rates. It leverages that advantage to over-
+whelm smaller regional competitors with a volume of advertising that they can-
+not afford to match. The growth of smaller regional competitors is limited by the
+need to rely on local cachet and word-of-mouth promotion to operate proﬁ tably.
+ MathWorks is a prime example of a focus-based supplier. The
+Massachusetts-based company has developed a capability to develop math-
+ematical algorithms that enable other companies’ equipment or software to
+operate more efﬁ ciently. In some cases, an end-user might buy an algorithm—
+which can be delivered on a thumb drive—to enable their CAD (Computer
+Aided Design) equipment to operate better or a manufacturer might license
+an algorithm from MathWorks to include in the original design of its product.
+By focusing its business purely on the solution of complex math problems,
+MathWorks mathematicians gain experience and cross-industry insight that
+similarly skilled employees of a less specialized company could not duplicate.
+ These examples illustrate that the key to achieving sustainable proﬁ tabil-
+ity is to manage the business for competitive advantage. Unfortunately, many
+companies in competitive markets still focus on revenue growth, which they
+pursue by trying to be all things to all people, rather than focusing on creating
+value more cost-effectively. Porter calls the failure to achieve either a value
+or a cost advantage “getting stuck in the middle.” When such companies are
+exposed to competitors, some of whom offer higher quality or service while
+others offer lower prices, the ﬁ rm’s proﬁ tability gets squeezed, despite its size.  6
+Chapter 7 • Price Competition
+158
+ In the absence of a relative cost advantage, it is ultimately suicidal to
+drive growth with price. During the internet technology bubble of the late
+1990s, hundreds of internet retailers and willing investors were hoping to
+prove this statement wrong. They accepted lower, even negative, margins
+simply to build share in the belief that ultimately the high value-add from
+the online shopping experience would make them proﬁ table. They ignored
+a simple economic principle: Competition drives out proﬁ tability except for
+those with a source of advantage that prevents competitors from fully match-
+ing their costs or their value proposition. As a result, most of the early online
+visionaries went bankrupt, at huge cost to their investors despite the growth
+of the internet as a platform for doing business.
+ There were a few exceptions, namely, those internet newcomers who
+could create online advantages that later competitors could not duplicate.
+eBay, for example, enjoys margins and proﬁ tability that exceed those of both
+online and bricks-and-mortar competitors, not just because of the high value
+of trading online but because of the greater difﬁ culty any lower-priced com-
+petitor would face in trying to duplicate its online offerings. Once eBay gained
+a large user-base advantage, it became nearly impossible for any competitor
+to duplicate the value it offers traders. PayPal is a similar story. It attracted
+customers quickly because it satisﬁ ed a strong unmet need for greater secu-
+rity when making purchases from previously unknown online retailers with
+no known address. But no consumer or retailer needs a second service like
+that one, so its ﬁ rst-mover advantage was huge. A new competitor would
+likely have to pay for incentives to induce people to sign and use it rather than
+remain with PayPal, creating a large barrier to entry.
+ The measure of a ﬁ rm’s competitive advantage is its relative gross margin
+per sale, not its market share. We focus on gross margin, not operating margin,
+because gross margin is a measure of the value of an incremental sale. A large
+ﬁ rm with relatively low gross margin can be expected to shrink, even when com-
+peting with a much smaller ﬁ rm that is nonetheless more efﬁ cient in creating
+value. The latter ﬁ rm’s greater margin per incremental sale can fund more mar-
+keting activities that will ultimately undermine the market share of the larger
+ﬁ rm. That is exactly what happened to the “big three” U.S. auto companies
+when smaller Japanese and Korean rivals entered the North American market
+with lower costs and higher gross margins per car. Despite starting with a much
+higher market share, the big three could not afford to match what these new
+entrants could proﬁ tably invest in marketing, dealer incentives, and customer
+service to acquire more customers at the expense of the larger competitors.
+ The airline industry tells a similar story. The low-cost structure of some
+discount airlines makes them advantaged competitors in many markets, even
+when competing against larger airlines, because their low cost-per-seat-mile
+generates higher gross margins even after accounting for its lower prices. Con-
+sequently, this cost advantage allowed some of the so-called “low-cost carri-
+ers” (LCCs) to grow at the expense of their larger competitors. In the long run,
+however, a ﬁ rm’s ability to acquire market share is limited to those market
+segments it can acquire and hold with a higher gross margin than competitors
+can. As these LCCs expanded into serving major airports, with their high gate
+costs and ground delays, the size of advantage diminished for many of these
+airlines. In fact, as their cost advantages narrowed, many LCCs have instead
+invested in new offers such as in-air Wi-Fi, premium boarding and seating,
+and expansion of their networks to compete on value, not just price.
+Chapter 7 • Price Competition
+159
+ REACTING TO COMPETITION: THINK BEFORE YOU ACT
+ Many managers are so fully aware of the risks of price wars and the impor-
+tance of competing from a position of strength that they think coolly and logi-
+cally before initiating price competition. It is much harder for most of us to
+think logically about whether or how to respond when we are already under
+attack. Consequently, we will discuss in step-by-step detail how to analyze a
+competitive situation and formulate responses in price-competitive markets
+that are not of your making.
+ When is it ﬁ nancially more prudent to accommodate a competitive threat,
+at least in the near term, until you can improve your capabilities, than to retali-
+ate? Thinking through this question does much more than prepare you, intel-
+lectually and psychologically, to make the best competitive response. It also
+reveals weakness in your competitive position. If you do not like how often
+you must accommodate a competitor because your company cannot ﬁ ght the
+threat successfully, you will begin searching for a competitive strategy that
+either increases your advantage or moves you further from harm’s way.
+ Exhibit 7-1 illustrates the complex ﬂ ow of thinking required to make
+thoughtful decisions about reacting to price competition. The exhibit begins
+with the assumption that one or more competitors have cut their prices or have
+introduced new products that offer at least some of your customers more value
+for their money. How should you respond? Marketing theorists usually argue
+that one should never respond, since there are better, positive-sum ways to com-
+pete on product or service attributes. While that is often true, the time to have
+explored and implemented those ideas is usually long before a low-priced com-
+petitor is a threat. By the time the threat is obvious, a ﬁ rm’s strategic capabilities
+are ﬁ xed in the short run. The question at hand is whether to respond with price
+when threatened with a loss of sales by a lower-priced competitor. To determine
+whether a price response is better than no response, one must answer the fol-
+lowing questions and explore the interrelationships illustrated in Exhibit 7-1.
+ 1.  Is there a response that would cost less than
+the preventable sales loss?
+ Although the need to ask this question might seem obvious, many managers
+simply stop thinking rationally when threatened. They match any price cut
+without asking whether the cost is justiﬁ ed by the beneﬁ t, or whether the same
+beneﬁ t could be achieved by structuring a more thoughtful response. In Chapter
+9, we describe how to calculate the amount of sales that would need to be at risk
+(the Reactive Breakeven Sales Change) before the act of matching a competitor’s
+price reduction justiﬁ es the cost. If we conclude that reacting to a price change
+is cheaper than losing the sales, then it may be a good business decision. On the
+other hand, if a competitor threatens only a small portion of your sales, the sales
+loss associated with ignoring the threat may be much less than the cost associ-
+ated with retaliation. Since the threat is small, the cost of cutting the price on all
+of your sales in order to prevent the loss of some sales to a competitor is likely to
+be unwise. Within a market or market segment that can be targeted for pricing
+by a competitor, the larger a ﬁ rm’s total market share the less proﬁ table it will be
+to cut prices to win the business of more price-sensitive customers.
+ It is also important to be realistic about how much of the projected sales
+loss is really preventable. When a new grocery chain opens with lower prices,
+160
+ EXHIBIT 7-1
+ EXHIBIT 7-1  Thoughtfully Reacting to Price Competition
+ Thoughtfully Reacting to Price Competition
+Chapter 7 • Price Competition
+161
+the established competitors can surely reduce the sales loss by matching its
+prices. Still, even if they match, some people will shift to the new store simply
+because it is newer or more convenient to where they live. They will not return
+even if the competitor’s price advantage is eliminated.
+ By constraining an organization’s competitive reactions to only those
+that are cost-effective, managers also force their organizations to think about
+how to make their price reactions more cost-effective. Following are some
+principles that can substantially reduce the cost of reacting to a price threat.
+ Focus your reactive price cut on only those customers likely to be attracted by the
+competitor’s offer. This requires developing a “ﬂ anking” offer that is attractive
+or available only to the more price-sensitive buyer. Often, such an offer can be
+developed in a short period of time, since it involves merely eliminating some
+element of the product or service not highly valued by the price-sensitive seg-
+ments. During the recession in 2009, consumers began migrating to cheaper
+house brand grocery and cleaning products while supermarkets began pro-
+moting them more aggressively. This contributed to an 18 percent decline in
+revenues for Procter & Gamble. In response, the company introduced ﬂ anking
+brands, like Tide Basic detergent at prices 20 percent lower than the original
+brands.  7  Many analysts have questioned the wisdom of this move, but there is
+an obvious beneﬁ t: it prevents some of the defection to house brands and gives
+P&G the ability to eliminate the ﬂ anking brands when consumers again feel
+able to pay for its more value-added brands.
+ Focus your reactive price cut on only the incremental volume at risk. A cheaper
+competitor will often be unable to entirely replace an incumbent’s business,
+but will be able to gain a share of its competitor’s business. For example, if a
+smaller independent television network, such as the CW Network in North
+America, cuts its ad rates, advertisers are not going to abandon the large net-
+works like NBC or Fox. They are, however, going to be more likely to divert
+some dollars to CW from the big networks. A big network could neutralize
+that threat by offering to discount its ad rates to the level of the independent
+network’s rates just for the amount of advertising likely to be diverted. One
+way this could be structured is as a discount for all purchases in excess of, say,
+80 percent of the prior year’s purchases or expected purchases. These types of
+contracts are common not just for advertising, but also for drugs and medi-
+cal supplies sold to health maintenance organizations (HMOs). Retaliatory
+discounts applicable only to the incremental volume at risk are also common
+when pricing to retailers and distributors.
+ Focus your reactive price cut on a particular geographic area or product line where
+the competitor has the most to lose, relative to you, from cutting the price. A domi-
+nant cement manufacturer in an Asian country (disguised as “Country A”)
+began a drive to grow its share in a neighboring country (“Country B”) by
+building its own unloading facility there and acquiring new mixing capacity,
+after which it undercut prices in the newly entered market. What the company
+from Country A failed to think through was the fact that its high prices and
+high share in its home market left it vulnerable to retaliation. The incumbent
+leader in Country B reacted by ﬂ ooding its competitor’s home market, driving
+cement prices down by 26 percent in just one year.
+ Raise the cost to the competitor of its discounting.  If the competitor’s price move
+is limited only to new customers and the competitor has a market of existing cus-
+tomers, it may be possible to retaliate without cutting your own price at all. Con-
+sider retaliating by educating the competitor’s existing customers that they are
+Chapter 7 • Price Competition
+162
+being treated unfairly. A client of ours did this simply by making sales calls to its
+competitor’s most proﬁ table accounts. In the process of the call, the salesperson
+casually suggested, “You are probably paying about $X for this product now.”
+When the customer questioned this, the salesperson confessed that he really did
+not know what they were paying but had surmised the ﬁ gure based on the prices
+that his competitor offered recently to some other accounts, which he named. In
+short order, the customer was on the phone with its incumbent supplier demand-
+ing similar discounts, and the competitor quickly backtracked on its aggressive
+offers. Even in consumer markets, it is sometimes possible to appeal to custom-
+ers’ sense of fairness or civic pride to convince them to reject a discounter. Small,
+local retailers have successfully done this to prevent big-box retailers from open-
+ing stores in Vermont that would no doubt hurt the less efﬁ cient, but traditional,
+local retailers.
+ Retailers frequently use a related tactic of widely promoting a policy that
+promises to match the price of low-priced competitors. If a competitor adver-
+tises a lower price, then the retailer offers to refund the difference to any of its
+customers paying a higher price within a reasonable time period, say 30 days
+following the sale. Only a few very price-sensitive buyers will take the time
+to gather evidence of the lower advertised competitor prices, and then ensure
+that the sales receipt for their purchased model matches precisely the com-
+petitor’s advertised model—all for merely the value of the price differential,
+often relatively small. However, the price-matching policy is not targeted at all
+buyers, or even just price-sensitive buyers; instead, it is a signal to other retail
+competitors of the futility of aggressive price-discounting strategies. After the
+substantial reduction in margins they incur by heavy discounting, their com-
+petitors simply neutralize the advantage by rebating to customers the differ-
+ence. The result is that these deep-discount competitors are better off playing
+by the rules of established non-price competition in the category. In North
+Carolina, the Big Star and Winn-Dixie supermarket chains both announced
+price-matching policies to “meet or beat” the prices of aggressive rival Food
+Lion. Two years later, the number of products with essentially the same prices
+across these three competitors increased signiﬁ cantly, and the prices for these
+products increased as well.  8
+ Leverage any competitive advantages to increase the value of your offer as an
+alternative to matching the price. The key to doing this without simply replac-
+ing a price war with a quality or service war is to make offers that are less
+costly for you to offer than for your competitor to match. If, for example, you
+have much better quality, offer a better warranty. If you have more service
+centers in more locations, offer faster service. Major airlines respond to price
+competition from smaller upstarts by offering increased frequent ﬂ yer miles
+on newly competitive routes. Because of their large route systems, frequent
+ﬂ yers accumulate miles faster and enjoy more choices of destinations than
+anything the small competitors could offer other than price. Moreover, the
+more sophisticated yield management systems of the large airlines mini-
+mized the cost of such programs more effectively than smaller carriers could.
+ If any of these options is less costly than simply allowing the competi-
+tor to take some sales, it is worth continuing to pursue the idea of possibly
+reacting, rather than ignoring, a lower-cost competitor. Otherwise, it is almost
+always better to preserve margins at the expense of market share, spending
+the added cash ﬂ ow from those margins on other ways to improve your cost-
+effectiveness or your ability to add value that justiﬁ es a price premium.
+Chapter 7 • Price Competition
+163
+ 2.  If you respond, is your competitor willing
+and able to cut price again to reestablish
+the price difference?
+ Matching a price cut will do you no good if the competitor will simply reestab-
+lish the advantage. Ask yourself why the competitor chose to compete on price
+in the ﬁ rst place. If that competitor currently has little market share relative to
+the share that could be gained with a price advantage, and has no other way to
+attract customers, then it has little to lose from bringing price down as low as
+necessary to gain sales. This is especially the case where large sunk costs create
+substantial “exit barriers.”
+ At one point, a pharmaceuticals company ask us to recommend a pric-
+ing strategy to defend against a new entrant. Management was initially sur-
+prised when we told them that defending their sales with price was unwise.
+Only after thinking about the problem from the competitor’s standpoint did
+we fully understand the competitive dynamics they faced. Customers had no
+reason to try the competitor’s new drug without a price advantage, since it
+offered no clinical advantages. The new entrant had absolutely nothing to lose
+by taking the price down, since it had no sales anyway. Given that the huge
+investment to develop and test the drug was entirely sunk but that the manu-
+facturing cost was small, winning sales even at a low price would be a gain.
+The conclusion was obvious that the competitor would cut price as often as
+necessary to establish a price advantage. If our client insisted upon preventing
+the new competitor from gaining signiﬁ cant market share, they would have
+risked destroying the value of the market.
+ 3.  Will the multiple responses required to match a
+competitor cost less than the avoidable sales loss?
+ Think about the total cost of a price war, not just the cost of the ﬁ rst shot, before
+concluding that the cost to defend the sales at risk is worth bearing. Unfortu-
+nately, the pharmaceutical client described above did not take our advice,
+instead resolving to do whatever was necessary to prevent the new entrant from
+gaining a signiﬁ cant foothold in any major pharma market. By the end of the
+competitor’s ﬁ rst two years in the market, it had largely succeeded in retaining
+more than 80 percent market share. It did so at the cost, however, of an average
+wholesale price decline of more than two-thirds. The devastating effect on proﬁ t
+contribution led to a complete review of what had happened and recognition
+that they could not afford to repeat such a mistake in the future.
+ Partisans of pricing for market share would no doubt disagree with our
+reluctance to use price defensively, especially when one is already in a stron-
+ger market position. Large market-share companies, they will argue, are some-
+times better capitalized and, thus, better able to ﬁ nance a price war than are
+smaller competitors. Although price cutting might be more costly for the large-
+share ﬁ rm in the short run, it can sometimes bleed the competitor ﬁ nancially
+until it is forced to withdraw. The reason defensive pricing failed in the case of
+our pharma client was, they would argue, that the competitor had many other
+proﬁ table drugs that could subsidize its losses on its new launch. If the com-
+petitor had relied on that one drug’s proﬁ tability for survival, it would have
+succumbed and been a lesson to others not to challenge our client’s market
+leadership in the future.
+Chapter 7 • Price Competition
+164
+ Although such a “predatory” response to competition sounds good in
+theory, there are two reasons why it rarely works in practice. First, predatory
+pricing is a violation of U.S. and European antitrust laws if the predatory price
+is below the predator’s variable cost. Such a pricing tactic may in some cases be
+a violation when the price is below the average of all costs.  9  Consequently, even
+if a large competitor can afford to price low enough to bankrupt its smaller
+competitors, it often cannot do so legally. But, even putting legal issues aside,
+predation is cost-effective only if the predator gains some competitive advan-
+tage as a result of winning the price war. This occurs in only two cases: when
+eliminating a competitor destroys an important differentiating asset (for exam-
+ple, its accumulated goodwill with customers); or when it enables the predator
+to gain or maintain such a cost advantage (such as economies of scale) that it
+can proﬁ tably keep its prices low enough to discourage new entrants.
+ Unless driving a low-cost competitor into bankruptcy somehow destroys
+the assets of that competitor, a newly capitalized entrant can purchase the
+assets of the bankrupt competitor, operate at a lower cost base, and initiate
+price-based competition against the large ﬁ rm now itself ﬁ nancially weak-
+ened by the cost of the ﬁ rst price war. Repeated price wars to defend market
+share eventually weakens market leaders ﬁ nancially to the point where they
+are vulnerable. For decades, the largest airlines in America fought price wars
+with new entrants, most of which bought cheap, older planes and had much
+lower labor costs, often from non-union labor. The market leaders still man-
+aged to drive many of those new entrants from the market by operating at
+a loss where they faced competition. Still, they all eventually succumbed to
+bankruptcy. Eventually however, they learned from the lesson. Rather than
+spending money on money-losing price wars, they reduced capacity in mar-
+kets where competition made operations unproﬁ table, invested in more fuel
+efﬁ cient planes than the old ones ﬂ own by many low-cost competitors, and
+more creatively segmented their markets to reduce the cost to compete for
+price-sensitive customers (by eliminating fees to agents and such amenities as
+free bag check, food, and pillows).
+ The key to surviving a negative-sum pricing game is to avoid confronta-
+tion unless you can structure it in a way that you can win, and calculate that
+the likely beneﬁ t from winning exceeds the likely cost. It simply makes no
+sense to match competitor’s price discounts unless one can do so at a cost that
+is less than what one would lose from ceding some market share.
+ To recognize such situations, however, a manager must think rationally,
+remember that this is a negative-sum game, and suppress the understandable
+emotional reaction to never back down.
+ 4.  Is your position in other (geographic or product)
+markets at risk if a competitor is successful in
+gaining share?
+ Does the value of the markets at risk justify the cost of a response? Some sales
+have a value that far exceeds the contribution directly associated with them.
+Take this example from the competitive PC and peripherals market in 2004.
+Following Dell Computer’s introduction of a new line of computer printers,
+Hewlett-Packard (HP) immediately severed its relationship to supply HP
+printers to Dell, signaling the strategic importance to HP of its printer busi-
+ness. HP strengthened its response by cutting its PC prices to match Dell’s,
+Chapter 7 • Price Competition
+165
+where Dell had much more to lose. Finally, HP realized that Dell’s printer
+strategy had its own limitations. Dell sourced its printers and cartridges from
+a third-party supplier, Lexmark, limiting Dell’s typical cost advantage. So
+HP defended its lucrative printer business, not with price, but with aggres-
+sive product innovations. It introduced new printer models, including digital
+printing with greater savings for corporate customers that led to higher rev-
+enues and overall printer market share gains.  10
+ Retaliatory price cuts are all too often justiﬁ ed by vague “strategic” rea-
+sons unrelated to proﬁ tability. Before approving any retaliatory price cut for
+strategic reasons, two things should be required. The ﬁ rst is a clear statement
+of the long-term strategic beneﬁ t and risks. The beneﬁ t can be additional sales
+in this market in the future. It can be additional immediate sales of comple-
+mentary products, such as sales of software and peripherals if one wins the
+sale of a computer. It can be a lower cost of future sales because of a com-
+petitive cost advantage resulting from the added volume. The risks are that
+a targeted price cut will spread to other customers and other markets, and
+that competitors will react, again creating a downward price spiral that under-
+mines proﬁ ts and any possibility of long-term gain.
+ 5.  Does the value of the markets at risk
+justify the cost of response?
+ The second requirement to justify a strategic price cut is a quantitative esti-
+mate of the value of the strategic beneﬁ t. This need to quantify often encoun-
+ters resistance because managers feel that the task will delay response to an
+imminent threat. Usually, however, rough estimates are all that is necessary
+to achieve enough precision to make a decision. A company told us that they
+always defended price in the institutional segment of their market because sales
+in that segment drove retail sales. While the relationship was no doubt true, the
+magnitude of the effect was important given that pricing to the institutional
+segment had fallen to less than manufacturing cost. A simple survey of retail
+customers about how they began using the product revealed that only about
+16 percent of retail sales were driven by institutional sales. We then estimated
+the cost of maintaining those sales by retaining all of the client’s current insti-
+tutional sales and compared that with the cost of replacing those sales through
+expenditures on alternative forms of promotion. That simple analysis drove a
+complete change in the institutional pricing strategy. Moreover, as institutional
+prices rose, “leakage” of cheap institutional product into the retail chain market
+declined, producing an additional return that had not been anticipated.
+ MANAGING COMPETITIVE INFORMATION
+ All wars, whether shooting wars or price wars, occur because someone made a
+terrible mistake. Since wars are negative-sum games, it is always the case that
+the loser would have been better off not to capitulate, or at least to retreat to
+ﬁ ght another day on better terms. This is the reason that the skills of a diplo-
+mat are as important for managing negative-sum conﬂ ict as are the skills of a
+general. This does not mean that one should be friendly with one’s competitors
+or even fair. Diplomats are not always nice, but they manage information and
+expectations to achieve their goals without unnecessary confrontation. If they
+ﬁ nd it necessary to use force, they seek to limit its use to the amount necessary
+Chapter 7 • Price Competition
+166
+to make their point. In the diplomacy of price competition, the meaning that
+competitors ascribe to a move is often far more important than the move itself.
+ The decision to cut price to gain a customer may have radically different
+long-term effects, depending upon how the competitor interprets the move.
+Without any other information, the competitor would probably interpret the
+move as an opportunistic grab for market share and respond with defensive
+cuts of its own. If, however, the discount is structured to mimic exactly an offer
+that the same competitor made recently to one of your loyal customers, the
+competitor may interpret the cut as reﬂ ecting your resolve to defend that seg-
+ment of the market. As such, the cut may actually reduce future opportunism
+and help stabilize industry prices.
+ Consider how the competitor might interpret one more alternative: your
+price cut is totally unprovoked but is exceptionally large, more than you have
+ever offered before and probably more than is necessary to take the business.
+Moreover, it is preceded by an announcement that your company’s new, pat-
+ented manufacturing process not only added to capacity but also substantially
+reduced incremental manufacturing costs. In this case, an intelligent competi-
+tor might well interpret the price cut as fair warning that resistance against
+your grab for market share will be futile.
+ Managing information requires collecting and evaluating information
+about the competition, as well as communicating information to the market that
+may inﬂ uence competitors’ moves in ways desirable to your own objectives.
+ COLLECT AND EVALUATE COMPETITIVE INFORMATION
+ Many companies operate with little knowledge of their competitors’ prices
+and pricing strategies. Consequently, they cannot respond quickly to changes.
+In highly competitive markets, such ignorance creates conditions that invite
+price warfare. Why would an opportunist ever cut price if it believed that
+other companies were willing to retaliate? The answer is that the opportunist’s
+management believes that, by quietly negotiating or concealing its price cuts,
+it can gain sufﬁ cient sales volume to justify the move before the competitors
+ﬁ nd out. This is especially likely in industries with high ﬁ xed costs (or high-
+percentage contribution margins) and during peak seasons when dispropor-
+tionate amounts of business are at stake.
+ To minimize such opportunistic behavior, competitors must identify and
+react to it as quickly as possible.  11  If competitors can react in one week rather
+than three, the opportunist’s potential beneﬁ t from price cutting is reduced
+by two-thirds. At the extreme, if competitors could somehow react instantly,
+nearly all beneﬁ t from being the ﬁ rst to cut price could be eliminated. In highly
+competitive markets, managers “shop” the competitors’ stores and monitor
+their advertising on a daily basis to adjust their pricing  12  and the large chains
+maintain communication systems enabling them to make price changes
+quickly in response to a competitive threat. As a consequence, by the time
+most customers even learn what the competition is promoting in a given week,
+the major competitors have already matched the price.
+ Knowledge of competitors’ prices also helps minimize a purchasing
+agent’s ability to promulgate misinformation. Frequently in business-to-
+business markets, price wars begin without the intention of any competitor
+involved. They are caused by a purchasing agent’s manipulation of information.
+Chapter 7 • Price Competition
+167
+A purchasing agent, frustrated by the inability to get a better price from a
+favored supplier, may falsely claim that he or she has been offered a better
+deal from a competitor. If the salesperson doesn’t respond, a smart purchasing
+agent may give the threat more credibility by giving the next order to a com-
+petitor even without a price concession. Now the ﬁ rst company believes that
+its competitor is out “buying business” and will, perhaps, match the claimed
+“lower price” on future orders to this customer, rewarding this customer’s
+duplicitous behavior. If the ﬁ rst company is more skilled in price competi-
+tion, it will not match the “lower price,” but rather will retaliate by offering
+the same discount to other good customers of the competitor. The competitor
+will now see this company as a threat and begin its own cuts to defend its
+share. Without either competitor intending to undermine the industry price
+level, each has unwittingly been led to do so. The only way to minimize such
+manipulation is to monitor competitors’ prices closely enough so that you can
+conﬁ dently predict when a customer is lying.  13
+ Even when purchasers do not lie openly, their selective communication
+of information often leaves salespeople with a biased perspective. Most sales-
+people think that their company’s prices are too high for market conditions.
+Think about how a salesperson is informed about price. Whenever the sales-
+person loses a piece of business, the purchaser informs the salesperson that
+the price was “too high.” When he or she wins the business, however, the
+purchaser never tells the salesperson that the price was unnecessarily low. The
+purchaser says the job was won with “the right price.” Salespeople get little or
+no information about how much margin they may have left on the table.
+ There are many potential sources of data about competitors’ prices, but
+collecting those data and converting the data into useful information usually
+requires a formalized process. Many companies require that the sales force
+regularly include information on competitors’ pricing in their call reports.
+Having such current information can substantially reduce the time necessary
+to respond to opportunism since someone collecting information from mul-
+tiple salespeople and regions can spot a trend much more quickly than can
+an individual salesperson or sales manager. Favored customers can also be
+a good source of information. Those that are loyal to the company, perhaps
+because of its quality or good service, do not want their competitors to get
+lower prices from another source. Consequently, they will warn the favored
+supplier when other suppliers issue new price sheets or when they hear that a
+competitive supplier is discounting to someone else. A partnership with such
+a customer is very valuable and should be treated as such by the seller.
+ In highly competitive markets, the information collected should not be
+limited to prices. Understanding plans and intentions is equally important.
+We recently worked with a client frustrated by the low proﬁ tability in its ser-
+vice industry, despite record revenue growth. In the process, we learned that
+the industry had suffered from overcapacity but recently had experienced
+multiple mergers. What was the purpose of those mergers? Was it to gain cost
+efﬁ ciencies in manufacturing or sales that would enable the new company to
+offer low prices more proﬁ tably? Or was it to eliminate some inefﬁ cient capac-
+ity, enabling the merged company to consolidate its most proﬁ table customers
+in fewer plants, eliminating the need to win incremental business? We found
+answers to those questions in the competitor’s brieﬁ ngs to securities analysts,
+causing our client to rethink its own strategy.
+Chapter 7 • Price Competition
+168
+ Trade associations, independent industry monitoring organizations, secu-
+rities analysts, distributors, and technical consultants that advise customers on
+large purchases are all good sources of information about competitors’ current
+pricing moves and future intentions. Sometimes trade associations will collect
+information on prices charged in the prior week and disseminate it to members
+who have submitted their own prices. Monitoring prices quoted at trade shows
+can also be another early tip-off. In retail businesses, one can simply “shop” the
+competitive retailers on a regular basis. In the hotel industry, nearby competi-
+tors regularly check their competitors’ prices and room availability on particular
+nights by calling to make an unguaranteed reservation or checking an online
+hotel booking site. If price competition is important enough as a determinant of
+proﬁ t in an industry, managers can easily justify the cost to monitor it.  14
+ Selectively Communicate Information
+ It is usually much easier for managers to see the value of collecting competi-
+tive information than it is for them to see the value in knowingly revealing
+similar information to the competition. After all, information is power. Why
+should anyone want to reveal a competitive advantage? The answer: So that
+you can avoid having to use your advantage in a negative-sum confrontation.
+ The value of sharing information was obvious, after the fact, to a com-
+pany supplying the construction industry. Unlike most of its competitors as
+well as most economists, the company accurately predicted a recession and
+a construction slowdown looming on the horizon. To prepare, the company
+wisely pared back its inventories and shelved expansion plans just as its com-
+petitors were continuing to expand. The company’s only mistake was to keep
+its insight a secret. Management correctly felt that by retrenching more quickly
+than its competitors, it could weather the hard times more successfully, but
+when competitors desperately cut prices to clear bloated inventories, the entire
+industry suffered. Had the company publicly shared its insight, which would
+have thus discouraged its competitors from overexpansion, its own ﬁ nancial
+performance would have been more proﬁ table even though relatively less out-
+standing. The lesson: It is often better to earn just an average return in a proﬁ t-
+able industry than to earn an exceptional return in an unproﬁ table one.
+ Even company-speciﬁ c information—about intentions, capabilities, and
+future plans—can be useful to reveal unless doing so would preclude achieving
+a ﬁ rst-mover advantage into a new market. Such information, and the informa-
+tion contained in competitors’ responses, enables a company to establish plans
+“on paper” that are consistent with competitors’ intentions, rather than having
+to reach consistency through the costly process of trial and error.
+ •  Pre-announce price increases . One of the most important times to com-
+municate intentions is when planning a price increase. Even when a price
+increase is in the interest of all suppliers, an attempt to raise prices will
+often fail. All may not immediately recognize that an increase is in their
+interest, and some may hope to gain sales at the expense of the price lead-
+ers by lagging in meeting the increase. Other times, an increase may not be
+in the competitor’s interest (perhaps because its costs are lower), meaning
+that any attempt to raise prices will ultimately fail. Consequently, before
+initiating a price increase that it anticipates competitors will follow, a ﬁ rm’s
+management should publicly explain the industry’s need for higher prices
+Chapter 7 • Price Competition
+169
+and, if possible, announce its own increase well in advance of the effective
+date. This “toe in the water” approach enables management to pull back
+from the price increase if competitors do not join in. This approach can be
+repeated multiple times until competitors understand that a price increase
+won’t go through without them or the ﬁ rm learns that it lacks the competi-
+tive strength necessary to lead such a change.
+ •  Show willingness and ability to defend . Some pricing policies that
+may seem to weaken a seller’s position with customers may actually
+reduce competitive pressure by discouraging competitor’s low price
+offers. For example, when a retailer offers to meet or beat any com-
+petitor’s price on the same brand of product, the tactic reduces com-
+petitors’ expectations that advertising low prices to take share will be a
+successful strategy, thus reducing price competition. Similarly, a sup-
+plier who negotiates a “right of ﬁ rst refusal” to match any competitive
+price in order to remain a customer’s exclusive supplier may discour-
+age competitors, if they know about this clause, from wasting time to
+prepare competitive bids that will fail unless they are so low as to make
+the business unproﬁ table.
+ •  Back up opportunism with information . While an opportunistic price
+cut to buy market share is usually short-sighted, it is sometimes an ele-
+ment of a thoughtful strategy. This is most often the case when a com-
+pany uses pricing to leverage or to enhance a durable cost advantage.
+Even companies with competitive advantages, however, often win only
+pyrrhic victories in battles for market share. Although they ultimately can
+force competitors to cede market share by undercutting rivals on price,
+the costs of battle frequently exceed the ultimate value of the reward.
+This is especially true when the war reduces customer price expectations
+and undermines loyal buyer–seller relationships.
+ The key to proﬁ tably using price as a weapon is to convince competitors to
+capitulate. A Japanese company invited the two top operations managers of
+its American competitor to the opening of its new plant. After attending the
+opening ceremony, the company took all guests through the highly automated
+facility. The American managers were surprised to see the process so highly
+automated, all the way to ﬁ nal packing, since quality control usually required
+human intervention at many points in the process. When asked about this, the
+Japanese hosts informed the guests that this plant was the ﬁ rst to use a new, pro-
+prietary process that essentially eliminated the major source of defects. They also
+indicated that development of the process had taken them more than a decade.
+ On the way home, realizing now what could be done, the American
+engineers were eagerly speculating about how this improvement might be
+achieved and how much they should ask for in a budget to pursue research.
+They also wondered why their Japanese counterparts would reveal the exis-
+tence of such an important trade secret. Within a few months they got their
+answer. The Japanese competitor announced a 20 percent price cut for exports
+of this product to the American market. If you were the American competitor
+with a large market share, how would knowledge of this trade secret change
+your likely response? In this case, the American company wisely chose to
+“adapt” rather than “defend.”
+ Although the information disclosures discussed here are the most com-
+mon, they are hardly comprehensive. Almost every public decision a company
+Chapter 7 • Price Competition
+170
+makes will be gleaned for information by astute competitors.  15  Consequently,
+companies in price-competitive industries should take steps to manage how
+their moves are seen by competitors, just as they manage the perceptions of
+stockholders and securities analysts. For example, will competitors in a highly
+price-competitive industry interpret closure of a plant as a sign of ﬁ nancial
+weakness or as a sign that the company is taking steps to end an industry-
+wide overcapacity problem? How they interpret such a move will probably
+affect how they react to it. It is in the company’s interest to supply information
+that leads competitors to reach a more favorable interpretation. Think twice,
+however, before disseminating misleading information that competitors will
+ultimately discover is incorrect. You may gain in the short run, but you will
+undermine your ability to inﬂ uence competitors’ decisions and, therefore, to
+inﬂ uence price competition in the long run.
+ WHEN SHOULD YOU COMPETE ON PRICE?
+ We have been discussing the beneﬁ ts of avoiding negative-sum competitive
+confrontation, but some companies have clearly built successful strategies
+for proﬁ table growth based primarily on winning share by undercutting the
+prices of their competitors. Did not Walmart become the largest, while still
+very proﬁ table retailer, in America, and did not Ryanair become the largest
+and most proﬁ table airline in Europe, primarily based upon the promise of
+lower prices? Yes, and understanding the special circumstances that enabled
+them to grow proﬁ tably despite offering lower prices is necessary for any-
+one trying to replicate such success. Every company that succeeds in growing
+proﬁ tably with a low-price strategy must ﬁ rst create a business model that
+enables it to cut incremental costs below those of its competitors. Walmart
+did so by creating an efﬁ cient distribution network and managing inventory
+more efﬁ ciently than its competitors. Ryanair did so by, among other things,
+building a non-union workforce and ﬂ ying planes to underutilized airports.
+So long as each could attract customers with a price difference smaller than its
+cost advantage, it could win customers without reducing industry proﬁ tabil-
+ity. Or, to put it another way, when Walmart or Ryanair won a customer from
+a competitor, it was not a negative-sum game. In fact, by serving customers
+more cost-effectively, these companies actually earned proﬁ ts from each cus-
+tomer above those earned by their higher-priced competition—making their
+competitive efforts a positive-sum game.
+ However, a competitive cost advantage was not by itself enough to win
+market share proﬁ tably. All of these companies must also orchestrate a cam-
+paign of information to convince their competitors that their cost advantages
+are decisive. Eventually, even companies that grow through price competition
+usually recognize that unless they can continue to grow faster than competi-
+tors, price cutting cannot be a proﬁ table growth strategy indeﬁ nitely. Conse-
+quently, they ultimately shift their strategies toward adding more value in
+ways that enable them to sustain their large market shares without having to
+sustain such a large price advantage indeﬁ nitely.
+ Under what conditions are the rewards from aggressive pricing large
+enough to justify a low price growth strategy? There are only four:
+ 1.  If a company enjoys a substantial incremental cost advantage or can
+achieve one with a low-price strategy, its competitors may be unable to
+Chapter 7 • Price Competition
+171
+match its price cuts. Walmart, Dell, and Ryanair created low-cost busi-
+ness models that enabled them to grow proﬁ tably using price. In some
+markets, there may be an “experience effect” that justiﬁ es aggressive
+pricing based on the promise of lower costs. By pricing low and accu-
+mulating volume faster than competitors, a ﬁ rm reduces its costs below
+those of competitors, thus creating a competitive advantage through low
+pricing. We, however, are skeptical that such effects exist in any but a
+few high-technology markets.
+ 2.  If a company’s product offering is attractive to only a small share of the
+market served by competitors, it may rightly assume that competitors will
+be unwilling to respond to the threat. The key to such a strategy, however,
+is to remain focused. Enterprise Rent-A-Car initially managed to grow
+quite large before any major competitor responded to its growth because
+Enterprise stuck to serving off-airport customers. By the time it challenged
+the market leaders for the more lucrative on-airport business, it had already
+achieved a scale of operations that enabled it to be cost-competitive.
+ 3.  If a company can effectively subsidize losses in one market because of
+the proﬁ ts it can generate selling complementary products, it may be
+able to establish a price differential that competitors will be unable to
+close. For example, after its launch in 1995, Amazon’s rationale for its
+low pricing on books was to build up a body of loyal customers to which
+it could sell a broad range of other products—which now comprise a
+much larger share of revenue than its sales of books. More recently,
+Amazon has offered discounts on its Prime membership fee to build up
+viewership for its new content offerings like “Grand Tour”—as well as
+increase the installed base of consumers interested in purchasing from its
+vast assortment of other products and content.
+ 4.  Sometimes price competition expands a market sufﬁ ciently that, despite
+lower margins and competitors’ refusals to allow another company to
+undercut them, industry proﬁ tability can still increase. Managers who
+take this course are assuming that they have insight that their competi-
+tors lack and are, in effect, leading the industry toward pricing that is, in
+fact, in their best interest.
+ Before embarking on a price-based strategy, ask which of these four points
+describes your rationale and recognize that a growth strategy can rarely be
+built on price alone or sustained indeﬁ nitely.
+ Summary
+ No other weapon in a marketer’s arsenal
+can boost sales more quickly or effec-
+tively than price. Price discounting—
+whether explicit or disguised with
+rebates, coupons, or generous terms—is
+usually a sure way to enhance immedi-
+ate proﬁ tability. However, gaining sales
+with price is consistent with long-term
+proﬁ tability only when managed as part
+of a marketing strategy for achieving,
+exploiting, or sustaining a longer-term
+competitive advantage. No price cut
+should ever be initiated simply to make
+the next sale or to meet some short-term
+sales objective without being balanced
+against the likely reactions of competi-
+tors and customers. The key to proﬁ table
+pricing is building and sustaining com-
+petitive advantage. There are times when
+price cutting is consistent with building
+advantage, but it is never an appropriate
+substitute for it.
+Chapter 7 • Price Competition
+172
+ Notes
+ 1.  Sun Tzu, The Art of War, Chapter IV,
+“Disposition of the Army,” 5th cen-
+tury B.C.
+ 2 .  For more on the practical applica-
+tions of game theory, see Adam
+Brandenburger and Barry Nalebuff,
+ Competition (New York: Doubleday,
+1996); Rita Koselka, “Evolutionary
+Economics: Nice Guys Don’t Fin-
+ish Last,”  Fortune , October 11, 1993,
+pp. 110–114; and Kenichi Ohmae,
+“Getting Back to Strategy,”  Har-
+vard Business Review (November–
+December 1988), pp. 149–156.
+ 3 .  B. H. Liddell Hart,  Strategy (New
+York: Meridian, 1967), p. 322.
+ 4 .  Gordon Kristopher, “Crude Oil’s
+Total Cost of Production Impacts
+Major Oil Producers,”  Market Realist ,
+January 13, 2016.
+ 5 .  Michael E. Porter, “What Is Strat-
+egy?”
+ Harvard
+Business
+Review
+(November–December 1996), pp.
+60–78. See also Michael E. Porter,
+ Competitive Strategy (New York: The
+Free Press, 1980), p. 34.
+ 6 .  Porter, op. cit., pp. 41–43. A ﬁ rm
+can become large without getting
+“stuck in the middle” simply by
+taking on multiple segments. The
+segments must be managed, how-
+ever, as a conglomerate of focused
+businesses rather than as a one-
+size-ﬁ ts-all marketing organization.
+Procter & Gamble is an excellent
+example of a large company that
+nevertheless carefully targets each
+product to meet the needs of a par-
+ticular focused segment.
+ 7 .  Ellen Byron, “Tide Turns ‘Basic’ for
+P&G in Slump,”  Wall Street Journal ,
+August 6, 2009.
+ 8 .  Akshay R. Rao, Mark E. Bergen,
+and Scott Davis, “How to Fight a
+Price War,”  Harvard Business Review
+(March–April 2000), pp. 107–116.
+ 9 .  See the discussion on predatory
+pricing in Chapter 12.
+ 10 .  “As Alliances Fade, Computer Firms
+Toss Out Playbook,”  Wall Street
+Journal , October 15, 2002, p. A1;
+“Dude, You’re Getting a Printer;
+Dell’s Printer Business Is Puny
+Next to HP’s, But It’s Quickly
+Gaining Ground,”  Business Week
+Online , April 19, 2004, p. 12.
+ 11 .  Note that this principle applies
+in the other direction as well. If
+competitors quickly follow price
+increases, the cost of leading such
+increases is vastly reduced. Con-
+sequently, companies that wish to
+encourage responsible leadership
+by other ﬁ rms would do well to fol-
+low their moves quickly, whether
+up or down.
+ 12 .  See Francine Schwadel, “Ferocious
+Competition Tests the Pricing Skills
+of a Retail Manager,”  Wall Street
+Journal , December 11, 1989, p. 1.
+ 13 .  Another useful tactic that can con-
+trol such duplicitous behavior in
+U.S. markets is to require the cus-
+tomer, in order to get the lower
+price, to initial a clause on the order
+form that states the customer under-
+stands this is “a discriminatorily
+low price offered solely to meet the
+price offered by a competitor.” Since
+falsely soliciting a discriminatorily
+low price is a Robinson–Patman
+Act violation, the purchasing agent
+is discouraged from using leverage
+unless he or she actually has it.
+ 14 .  For more guidance on collecting
+competitive information, see “These
+Guys Aren’t Spooks, They’re Com-
+petitive Analysts,”  Business Week ,
+October 14, 1991, p. 97; and Leon-
+ard M. Fuld,  Competitor Intelligence:
+How to Get It—How to Use It (New
+York: Wiley & Sons, 1985).
+ 15 .  For a comprehensive and insightful
+survey of the research on commu-
+nicating competitive information,
+see Oliver P. Heil and Arlen W.
+Langvardt, “The Interface Between
+Competitive Market Signaling and
+Antitrust Law,”  Journal of Marketing
+58(3) (July 1994), pp. 81–96.

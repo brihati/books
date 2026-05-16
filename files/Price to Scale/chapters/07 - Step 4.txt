@@ -1,0 +1,1015 @@
+61
+
+
+STEP 4
+Rate Setting
+
+
+So far all we’ve done is built the foundations for the operations of
+pricing. We haven’t yet determined how much to charge.
+Recall our work in the previous chapter around packaging. Each of
+our packages caters to a specific customer segment. We will now
+cover how to find the right price for a given segment<>package and
+the process can then be repeated across different segments.
+What you end up charging for your product will be a function of the
+following:
+1. Prospect Willingness To Pay (WTP)
+2. Competitive & Category Price Points
+3. Your Cost of Delivery
+4. Discounting For Procurement
+5. Your Pricing Strategy
+Let’s cover each of these starting with the WTP of our customers/
+prospects.
+Prospect Willingness To Pay (WTP)
+Let us first start with trying to understand how to figure what our
+prospects will be willing to pay for our product.
+Note that to understand which tactic to deploy in order to find the
+WTP, it is helpful to understand which one of the following two
+camps you fall into:
+AJIT GHUMAN
+62
+1. You lack market feedback: You are pricing a brand new
+product OR you are selling an existing product to a brand
+new customer segment.
+2. You have some market feedback: You are moving from ad-
+hoc pricing to more scalable, predictable pricing.
+When You Lack Market Feedback
+If you lack market feedback, then essentially you have two tools at
+your disposal to elicit your prospect’s WTP.
+1. You can conduct a survey in which solicit a price range feedback
+based on the package you’ve designed for the target segment.
+2. You can run a conjoint analysis that will help you refine the
+features included in your package and the associated price
+point of the package.
+3. You can do in-person prospect interviews. If you are selling
+a complex, enterprise B2B SaaS product then you may be
+better served to do live customer pitch+feedback sessions.
+Surveys
+You can use surveys to illicit a given customer’s range of acceptable
+prices.
+Let’s see the example of a basic pricing survey and then the more
+well known upgrade to the basic survey called the Van Westendorp
+Analysis. While the latter is more popular, I personally find the basic
+survey to be far easier to understand with clearer tradeoffs. I will
+explain in the following two sections.
+Basic Pricing Survey
+For a basic pricing survey, the two questions used to anchor responses
+are along the following lines:
+1. At what point will the product be so expensive that you would
+not consider buying it?
+PRICE TO SCALE
+63
+2. At what point would you think the product is priced so low
+that you would doubt its quality?
+Note that it usually doesn’t work to ask a customer how much they’d
+pay for a given product because the answers may get actively biased
+too low if the customer feels they can influence the price of the
+product. It is also the case that without reference points, a singular
+price point answer may not be very revelatory as the customer
+essentially is just guessing at that point.
+The survey questionnaire itself should ideally be structured so that
+first you can explain the context or product category you will query
+the customer about and then provide context on the specific product
+itself. By anchoring the customer in the type of solution (say CRM
+software) you are setting the right context of the decision. It would be
+fair to take through an explanation of the product with your product’s
+purported value proposition so that the survey takers can
+appropriately think about the value of the product to them.
+If you were to run a survey just with the two questions above to a
+representative population, you can then collate the results in a set of
+tables which follow:
+Note: For conducting the survey I would simplify the pricing structure
+discussed earlier into a linear $ per unit. The 2-part or 3-part tariff
+would simply get too complex to describe in a survey and can be
+eventually backed into.
+AJIT GHUMAN
+64
+Table 1
+
+Table 2
+
+Table 3
+
+Table 1 contains the frequency distribution by which respondents
+selected different price points being too low for the product to be of
+high quality. The cumulative percentage column is then helpful to
+find out, for how many people is a specific price not too low? In this
+example. 75% of people think $40 per unit is not too low of a price
+for this product. Table 2 does essentially the reverse of this. In the
+example, 50% of people think $70 per unit price is too high.
+These two tables can then be combined into Table 3 to find out the
+% of people for which a given price is neither too low nor too high.
+We observe a maxima at $50 at which point 85% of people think the
+PRICE TO SCALE
+65
+price is neither too low nor too high, i.e. that they would be willing to
+pay this price for the product. This is also called the Optimal Price
+Point (OPP). (Note that the OPP is a singular price point and that this
+analysis doesn’t necessarily help us create a reasonable price point
+range, this is what the Van Westendorp approach will cover. Finally,
+whether or not you price at the OPP will be your personal decision
+taking into account costs, as well as strategic intent, i.e. optimize more
+market share vs optimize for margin).
+Van Westendorp Analysis
+An alternative version of the basic pricing survey is the Van
+Westendorp Price Sensitivity Analysis. The aim is to establish price
+perceptions for a product in a market. Respondents are asked four
+questions to determine what prices are too cheap, where a price is a
+bargain, when a price is high and where a price is too expensive. By
+plotting the cumulative curves for each of the four prices, the crossing
+points are deemed to be optimum points according to different
+criteria. The resultant price "space/range" helps to determine the
+range of acceptable prices - and so pricing tactics - available.
+This can easily be done in a spreadsheet, by first converting survey
+data in cumulative percentages, then inverting two of the question
+datasets and then using the histogram function to plot the curve. This
+is a good article that describes this process in general:
+https://www.dummies.com/software/microsoft-office/excel/excel-
+dashboards-add-a-cumulative-percent-series-to-your-histogram/
+When done you will get a chart that looks like the one in Figure 19.
+It essentially shows a range of acceptable prices. The point of
+intersection where the same number of people think the product is
+Too Cheap and Not A Bargain, indicates a price of marginal
+cheapness (PMC) - i.e. any lesser in price and a greater proportion
+of people will find the product to be too cheap. The point of
+intersection where the same number of people think the product is
+Too Expensive and Not Expensive, indicates a price of marginal
+expensiveness (PME) - i.e. any higher in price and a greater
+AJIT GHUMAN
+66
+proportion of people will find the product to be too expensive.
+Essentially giving us some reasonable bounds to play inside.
+
+Fig. 19: Van Westendorp Analysis15
+But this approach still has some issues. The analysis looks rigorous
+but is more suited for easily explainable (e.g. cpg) products where
+price and quality are strongly linked. This isn’t always the case for
+software, and while the VW method gives us price ranges they have
+nothing to do with competitive prices or even one’s own margin.
+Finally, the dataset is a function of the respondents, and designing a
+survey at the outset to be representative of your eventual market may
+be difficult, in which case it is possible the bounds you see here could
+have more give on the higher side, allowing you to increase the price.
+All this means is that this should definitely be a tool in your toolkit
+but that it provides us with a directional guidance that should be
+combined with your initial hypothesis, qualitative interviews as well
+as strategic intent to arrive at the right price point for your
+company/product.
+
+
+15 Source: https://www.5circles.com/van-westendorp-pricing-the-price-sensitivity-
+meter/
+PRICE TO SCALE
+67
+While the Van Westendorp analysis gives us more clarity than a
+simpler pricing survey, neither approach let’s us estimate the relative
+value of different features or capabilities. To answer this, the conjoint
+approach offers us some more options.
+Conjoint Analysis
+Conjoint analysis is a powerful survey-based research technique that
+helps determine how people value different attributes (feature,
+function, benefits) that make up an individual product or service.
+The objective of conjoint analysis is to determine what combination
+of a limited number of attributes (for example, a tier or bundle) has
+the most influence on respondent choice or decision making.
+A controlled set of potential products or services is shown to survey
+respondents and by analyzing how they make choices among these
+products, the implicit valuation of the individual elements making
+up the product or service can be determined. These implicit
+valuations (“utilities”) can be used to create models that can help us
+understand how survey takers value different features or capabilities.
+In the early years, conjoint analysis was applied to automobile design
+using a deck of conjoint cards and the respondents sorted the
+supplied cards from best to worst. Based on the responses, it was
+possible to make deductions about the importance of “attributes” and
+the preference for “levels”. Conjoint analysis saw good adoption in
+the 80s with Green and Wind publishing a case study16 in 1989 on
+the use of conjoint analysis in the design of Marriott Courtyard
+hotels (which I do prefer over other brands, but I digress).
+Let us look at Figure 20 to understand the basic elements of conjoint
+analysis.
+
+16 https://pubsonline.informs.org/doi/abs/10.1287/inte.19.1.25
+AJIT GHUMAN
+68
+
+Fig. 20: Attributes and their Levels for Conjoint Analysis
+Attributes are ‘dimensions’ of the product (brand, size, performance,
+price, etc.) or pricing plans (we use pricing plans in our example
+adapted from Conjoint.ly17). It is important to use attributes that you
+think drive your customers’ decision making. To arrive at this list of
+attributes, you may do a first survey with a focus group and a few
+experts. You would also include attributes whose importance to the
+buying decision you really want to investigate. While the technique
+itself is elegant, be mindful of the customers’ limitations in being
+able to engage with your analytical approach at a very detailed level
+of granularity. In general, anything more than 6-7 attributes is not
+advisable.
+Levels are the specific values that the attribute under consideration
+may be assigned. These values could be real if we are comparing
+existing products or plans or they may be proposed values if we are
+designing a new product or plan or want to try out newer
+combinations. It is important that the name and value chosen for a
+
+17 https://conjointly.com/guides/what-is-conjoint-analysis/
+PRICE TO SCALE
+69
+Level is understood by the respondents. Any attribute should have at
+least two levels if we want to consider its impact in some combination.
+Once we have done the basic design of attributes and levels, we need
+to choose the actual combinations that we want to test out. These
+combinations are referred to as a Profile. Figure 21 depicts four
+profiles from our chosen attributes and levels. If you look back at
+Figure 20, you may quickly realise that all the levels and attributes
+can be used to generate a very large number of unique Profiles. Since
+such an approach is not practical, we use some heuristics and
+knowledge of the industry to reduce the number of Profiles we offer
+to the respondents. Of course, for a complex product or plan
+analysis, there are more robust analytical methods available but we
+do not usually get involved in that level complexe analysis. If you are
+of an analytical bent, I can refer you to a somewhat dated study18 by
+Kuzmanovic et al where they explain in great detail the design of a
+conjoint analysis to study the preference of students for postpaid
+mobile services. There need to be at least two profiles shown to the
+respondent at any stage.
+
+Fig. 21: Example of a Conjoint Task for Mobile Plan Choice
+
+18
+https://www.researchgate.net/publication/260515194_Understanding_Student_Pref
+erences_for_Postpaid_Mobile_Services_using_Conjoint_Analysis
+AJIT GHUMAN
+70
+Figure 21 shows one “Task” given to the respondent, where they make
+a choice between four profiles. It is possible, and often needed, to
+present more than one task to the respondents if we need that
+amount of analysis. For example, we may have follow up choice tasks
+for Add-Ons or Top-Ups for each of the example plans in Figure 21.
+Once we have the survey results, we can obtain a quantitative
+measure, called a “preference score” or “partworth utility”, for each
+attribute. Figure 22 shows an example of preference scores for
+attributes and levels of the mobile phone plans under consideration.
+
+Fig. 22: Utility Scores for a Mobile Phone Plan19
+Using the preference scores derived from the survey responses, we
+can simulate how the customers will express their choices for new
+products and concepts that do not yet exist and forecast market
+shares for multiple offerings in the market. We can also find out
+which features and pricing provide a balance between value
+perceived by the customer and what it would cost to bring those to
+market. Figure 23 shows how different data amounts in the example
+mobile plan will affect a company’s market share. For a more
+comprehensive discussion of the conjoint simulator, I will refer you
+
+19 Source: https://conjointly.com/guides/what-is-conjoint-analysis/
+PRICE TO SCALE
+71
+to this content20 from Sawtooth Software. You can also try out a
+simulation using a workbook21 from Conjoint.ly.
+While the standard conjoint analysis was based on respondents
+providing ratings for features or choices, the availability of
+automated platforms and more capable respondent devices has led
+to many types22 of conjoint analysis becoming prevalent, each with
+its pros and cons. In practice, you can readily do enough conjoint
+analysis to meet your needs with workbooks you create on your own.
+With online surveys now par for the course, variations like Choice
+Based (or Discrete Choice) Conjoint (CBC), Adaptive Choice Conjoint,
+and Adaptive CBC (ACBC)  are what you could use for bigger groups
+or complex analyses.
+
+Fig. 23: Impact of Data Amount in a Mobile Plan on Market Share23
+Later in this book you will read my interview with Jan Pasternak who
+routinely uses this approach to weigh trade-offs between competing
+packages for SaaS products. In a webinar on the topic of pricing
+research methods, he shared some simplifying insights for the type
+of inputs and outputs we can expect from conjoint analysis, as well
+
+20 https://sawtoothsoftware.com/resources/technical-papers/introduction-to-
+market-simulators-for-conjoint-analysis
+21 https://conjointly.com/guides/conjoint-preference-share-simulator/
+22 https://www.dobney.com/Conjoint/conjoint_flavours.htm
+23 https://conjointly.com/guides/what-is-conjoint-analysis/
+AJIT GHUMAN
+72
+as pros and cons of the approach. I am summarizing these insights
+below.
+SaaS Software Example
+Figure 24 shows different package options for a fictional SaaS prod-
+uct and how conjoint analysis helps to understand the customer
+preferences/”take rate” as well as resulting revenue impact (normal-
+ized) across the packages.
+Here we can see that ‘Better’ and ‘Best’ packages have more takers
+compared to ‘Good’ and ‘Best+’, with ‘Best’ garnering the highest revenue.
+
+Fig. 24: Understanding Customer Preferences for a SaaS Product
+(credit: Jan Pasternak)
+Now we cover both the pros and cons of this approach so that we have
+an understanding of when and when not to deploy this technique.
+PRICE TO SCALE
+73
+Pros
+Cons
+Relatively Inexpensive: The
+conjoint approach is suited for
+scale and is relatively inexpensive
+compared to in-person interviews.
+(Those are covered in the next
+section)
+
+Flexible: One of the beauties of
+the conjoint approach is that a
+dataset can answer many different
+business questions and what-if
+scenarios. Even if your product
+team is unable to deliver on a key
+differentiator, you can simply re-
+run the model with the feature
+removed. This saves a lot of
+heartache of re-doing surveys.
+
+Accurate: Since the output of
+conjoint analysis is often very
+precise, it can help in making
+recommendations to your CFO.
+Large Sample Sizes Needed: This
+approach requires a high volume
+of responses, and this can be a
+challenge because a typical
+conjoint survey will take 2-3x
+more time than the Van
+Westendorp approach to take the
+survey and requires some amount
+of explaining of the product
+features. (Approaches to get
+enough samples can involve using
+survey firms like Qualtrics for
+~$100/survey or using in-house
+demand generation with direct
+offers of low priced Amazon gift
+cards and finally expert networks
+like GLG can be for specialized
+personas such as CXOs.)
+
+Mainly suited for simple products
+and online/web sales motion:
+Generally if the packaging
+structure is too complex and not
+published on the web, then it may
+not be suited to be put in a
+conjoint survey. If you think the
+product needs to be explained in-
+person then conjoint will not
+work. Customers should be able to
+understand the full value in a few
+minutes.
+
+
+
+
+AJIT GHUMAN
+74
+Qualitative Customer Research
+Approach
+In many cases, the above mentioned approaches of surveying
+methodologies may not work well for complex and/or enterprise
+products, as a prospect would require having a robust understanding
+of the product, its features and benefits.
+In such situations, we can revert to qualitative research approaches
+involving directly interviewing customers in one-on-one settings.
+In general we aim to interview a representative sample of our
+customer/market base, which can be as few as 5-10 interviews to upto
+40-50 interviews depending on the size of the pricing change as well
+as size of the overall business and customer base.
+For each interview, we will aim to probe both open-ended feedback
+on product, packaging and pricing, as well as get the customer to
+force rank features, benefits and pricing options. Below I provide a
+suggested template24 that you can design your own customer
+interview slide deck on.
+Purpose
+Slide
+This is the first
+slide of the deck,
+meant to be a
+context setter for
+the discussion.
+Here it is a brief
+snapshot of the
+product in
+question with high
+level benefits and
+features.
+
+
+24 You can download my template from here: http://bit.ly/qualitativetemplate
+PRICE TO SCALE
+75
+This second slide
+will then go into
+the goals of what
+we are looking for
+in the discussion
+and provide a
+brief agenda.
+Depending on how
+you want to
+sequence the
+interview and the
+areas you’d like to
+probe you can now
+start to ask
+questions around
+specific areas of
+interest.
+
+Here we are
+forcing the client
+to force-rank pre-
+created pain point
+statements, such
+that we can
+aggregate
+responses across a
+set of customers to
+validate our
+hypotheses. We
+aren’t yet talking
+about features as
+the client doesn’t
+understand the
+product yet.
+
+AJIT GHUMAN
+76
+The same question
+from the last slide
+can also be asked
+by making
+customers
+distribute $100
+amongst the areas
+of pain. This may
+provide a further
+level of granularity
+if two or three
+choices are
+perceived to be of
+similar weights.
+
+At this point, we
+can proceed to do
+a 15-20 minute
+demo of the
+product and the
+main features we
+want the customer
+to understand.
+Make sure the
+demo clarifies to
+the customer,
+exactly what the
+product and
+features do.
+
+This slide right
+after the demo is
+to capture open-
+ended feedback
+right after the
+demo. Often it can
+bring out areas of
+opportunity or
+peculiar objection
+that you may not
+have anticipated.
+
+PRICE TO SCALE
+77
+Now that the
+customer
+understands the
+product you can
+do a similar
+structured analysis
+on product
+benefits.
+A higher
+granularity
+benefits analysis.
+The same
+approach to
+analysis is now
+extended to
+different options
+of packaging. In
+this slide the
+customer is asked
+to distribute $100
+amongst the
+Essential, Pro and
+Elite package to
+identify what
+seems to be the
+best fit.
+
+AJIT GHUMAN
+78
+Continuing this
+analysis, for the
+package which the
+customer assigns
+the highest value,
+you can isolate the
+most important
+and least
+important feature
+for the customer
+to understand
+which features are
+the most value
+driving.
+
+Now you can move
+into getting
+customer opinions
+on the best pricing
+metrics. Is a per
+seat model more
+favorable or is a
+usage based model
+better? This is very
+helpful as we’ve
+discussed earlier,
+as the proper
+selection of the
+pricing metric can
+be significantly
+impactful.
+
+Having asked
+questions about
+structure, you can
+then go into
+asking pricing
+survey-type
+questions to
+converge on a
+reasonable price
+band based on the
+preferred price
+
+PRICE TO SCALE
+79
+metric.
+Having gone
+through the
+questions around
+positioning,
+packaging and
+pricing, the other
+area you can
+probe is about
+product direction.
+Here we give the
+customers a list of
+features that we
+are considering
+building and force
+them to choose the
+two most
+important out of
+four provided.
+
+We are done with
+our detailed
+questions and now
+is the time to
+check-in and see if
+the customer
+would buy. Here
+we probe a bit
+more on whether
+this seems like a
+fit, urgency of
+purchase,
+perceived
+differentiation and
+budgetary
+decisions. Often
+we can get the
+favorable answers
+on positioning and
+pricing but when
+probed to think
+about actually
+purchasing the
+product, a
+
+AJIT GHUMAN
+80
+customer might
+have 2-3 other
+higher priority
+items. This slide
+will help us
+understand our
+offering is
+compelling for the
+customer.
+The Post-Interview Debrief
+After each customer interview the interviewer or interviewing team
+then does a self assessment to rate (on a 0-to-10 scale) the customer’s
+fit with the product and/or package as well as rate the customer on
+their willingness to buy (0-to-10). In addition to the data collected
+during the interview process, these ratings will help us judge how close
+we are to this being a viable, revenue generating product offering.
+Tabulating the feedback
+After having gone through this process across our sample set of
+customers. We will compile the data in a spreadsheet that can then be
+used for further analysis. It will also be helpful to add other
+firmographic data such as revenue or employee size to the sheet that
+will help put the data in context.
+The screenshot below shows one way to organize this data.
+
+
+Analysis
+Now that we have our data prepped we can analyze the data to answer
+some key questions: What are the most pertinent pain points? Which
+customer segments do we have the best fit with? Does our packaging
+align to our customer segments? What is the most preferred pricing
+metric?
+PRICE TO SCALE
+81
+While a lot of the analysis will be simple, I would like to stress on the
+chart in Figure 25  that provides a strategic assessment of our product-
+market fit (based on our self-assessment). When combined with
+firmographic data, in this case we can observe that larger revenue
+companies in this example tend to have a better fit with our product.
+Based on this we can decide to revise our ICP (Ideal customer profile)
+and even avoid going after smaller companies where the fit may not be
+so good, thereby helping create a stronger sales motion.
+
+Fig. 25: Discovered Product-Market Fit
+When You Have Market Feedback
+If you have had somewhat of a functional, running sales motion, you
+may already have empirical data on how much different customers
+are willing to pay for your product. The first thing to do would be to
+make a list of all existing customers, the price at which their account
+was sold, and the driving unit price metrics (e.g. employees or usage
+volume). Then rank order this list such that you can plot a chart that
+looks something like the one in Figure 26. (This exercise can be done
+for either your entire customer base or just for a given tier/package)
+AJIT GHUMAN
+82
+What we are trying to understand is:
+• How much does the market really bear for this product?
+• How much are we discounting?
+• And, can we identify customer segments by looking at the
+data that might have more price elasticity than others?
+In this hypothetical example we assume our company has sold 10
+customers so far on the product we are trying to price. We can
+further label clients based on their consumed unit volume of our
+product (assuming that was our key pricing metric)
+
+Fig. 26: Understanding Your Customer Using Existing Pricing Data
+What does the data show?
+We can see that Large customers tend to pay 2-10x more than Small
+customers. In this chart we can see that in some cases the company
+is selling at prices higher than the list price, i.e. negative discounting.
+We can also see that list prices are 30% to 50% higher than actual
+per account ARR for Large customers.
+PRICE TO SCALE
+83
+In general, in B2B software, one can expect commercial (i.e. smaller)
+deal discounting to be upto 20% and for enterprise (i.e. your larger
+customers) deal discounting to be upto 80%. Here we can clearly see
+that we likely need to increase list prices to get into a positive
+discounting range for smaller deals and while discounting for larger
+customers seem to be in line.
+Another instructive chart to look at for the same data set is to look at
+unit pricing i.e. ACV divided by unit volume. In the chart in Figure
+27, we can see a reduction in unit price as deal sizes become bigger.
+Larger customers pay around $0.60 per unit but smaller customers
+pay around $2.10 per unit. This is perfectly acceptable in SaaS
+pricing as customers expect to get a ‘volume discount’ if they are
+using more of the service or buying more licenses/seats, etc. What
+this does help us with is give us our current ‘price points' across
+different segments. If our sales motion was largely priced ad-hoc,
+now we have more data around which price points our packages will
+need to be close to, in order to work. However, if you plan to change
+your key pricing variable, pricing structure or introduce new
+customer segments, then don’t make the mistake of extrapolating
+this data since it is derived from a sales motion with certain defining
+pricing assumptions and customer segments.
+
+Fig. 27: Unit Prices Versus Deal Size
+AJIT GHUMAN
+84
+While the charts in Figures 26 and 27 helped more in understanding
+the price point across segments, we can also do analysis to help
+validate our packaging approach. What we can do now is to pick 5-7
+critical features and see how the usage of these features align with
+our customers.
+Can we find a pattern in the data that some customers pay a unit
+price premium when most of the features are used? In the example
+in Figure 28 we can see that while Feature 1 and 2 are used by all
+customers, features 4 and 5 are used more often by larger customers
+with higher ACVs, but not at all my smaller customers. In a packaging
+exercise, we now know to introduce these features only to our higher
+end packages.
+
+Fig. 28: Discovering the Link between Features and Unit Price Premium
+Note that we are not looking to create a pricing model that fits
+historical data, but only use historical data to get enough signals to
+know whether list prices should be increased or decreased, and
+whether new packaging can be created on the basis of features that
+drive more value.
+If in fact you are either changing your unit pricing variable, structure
+and/or changing packages then I would still recommend combining
+empirical data analysis with market/prospect research methods
+described in the prior section.
+PRICE TO SCALE
+85
+At this point we have the bulk of customer feedback based infor-
+mation required to finalize our packaging and pricing approach. The
+next sections cover some other practical areas (such as cost of
+delivery, type of market and discounting) that need to be considered
+before deciding that the price will be.
+About ROI: Justification vs Price setting
+There is an oft repeated ROI-based pricing sentence I’ve heard along
+the years which goes something like “Mr Customer, I will aim to
+deliver you 5x to 10x ROI and in return I only want [1% to 10%] of the
+benefits accrued to you”. In theory this is an attractive approach,
+customers can get the majority of the value delivered and we get a
+small but proportional chunk of change for our value delivered.
+This is theoretically very lucrative if the value proposition was actually
+as strong as many companies suggest. A common mechanism by
+which this is demonstrated is by doing a study with an external
+consultant. Forrester’s Total Economic Index is one such example.
+Let’s take a look at ROI claims across a few of these studies. Here
+is a sampling of what a Google search throws up when I searched
+for a well known report produced by Forrester known as Total
+Economic Impact - TEI:
+1. Snowflake: Forrester reveals a customer ROI of 612% and
+total benefits of over $21 million over three years for
+Snowflake’s cloud data platform.
+2. New Relic: Forrester’s interview with an existing customer
+and subsequent financial analysis found that the
+interviewed organization experienced benefits of
+$13,277,754 over three years versus costs of $6,047,192
+adding up to a net present value (NPV) of $7,230,562 and
+an ROI of 120%.
+3. DataRobot: Forrester Total Economic Impact Study of
+DataRobot: 514% ROI and Payback within 3 Months
+AJIT GHUMAN
+86
+4. Snaplogic: Over a three year period, 498% ROI $3.9
+Million Benefits Present Value $3.3 Million Net Present
+Value ~6 Months Payback
+5. Qualtrics: Forrester Consulting estimates the 3-year
+benefit of Qualtrics experience management software at
+$38.4 million – which is an ROI of 633%.
+6. Twilio: $12.6 million in benefits versus costs of $3.3
+million, resulting in a net present value (NPV) of $9.2
+million and an ROI of 277%.
+When  I look at these numbers, what comes to mind is an interview
+I had with a CEO for a Marketing role, where he kept pushing me
+to explain the difference between correlation and causation.
+He was miffed about a phenomenon around how marketing
+organizations take credit for everything a company did to be
+successful where in reality the software was just one small piece.
+What’s going on with these reports is something similar. One the
+one hand they may not be able to isolate purely the impact of the
+software in question and on the other hand, organizations cherry
+pick their best customers to be used in these case studies.
+This sentiment is echoed by Tomas Tunguz in his own blog, The
+Siren Song of ROI Based Pricing25
+“If we reflect on the most successful software companies, the very
+largest, very few sell based on ROI. What is the return on investment
+of a Salesforce or a Workday deployment? How do you calculate it?
+How does an AE defend it?
+Many times these ROI calculations assert unquestionable numbers.
+But most buyers approach these kinds of arguments with skepticism
+and even cynicism. Sometimes, they have been burned in the past
+making kind of arguments.
+
+25 https://tomtunguz.com/the-siren-song-of-roi-based-sales/
+PRICE TO SCALE
+87
+Other times, buyers recognize that it is almost impossible to measure
+true return on investment. Switching costs are rarely accounted for
+in his calculations. Measuring increasing productivity is very
+difficult. Soft costs “challenge the math.”
+The point being that a well paid consultant can come up with an
+amazing ROI number and when your customer does this analysis
+at the end of the year, the numbers they see will not be this rosy.
+So if you base your pricing to be a percent of ROI, you and your
+organization will then bear the onus of justifying it at year end.
+This is why, while all companies talk about ROI, nearly none use it
+for pricing.
+Don’t get me wrong, ROI is a great tool, but for price justification,
+just not for pricing.
+Competitive & Category Price Points
+So far in the book we’ve covered some critical elements towards set-
+ting the price of our product(s) and we’ve mostly looked at our value
+delivered to customers. Our analysis wouldn’t be complete if we don’t
+look at competition and the larger product segment/ category we
+operate under.
+In order to understand this, it's helpful to think about the nature of
+certain markets. We can broadly segment markets into the following
+subtypes:
+1. Blue ocean: In this type of market, your product is replacing
+a different way of doing things and faces lesser head to head
+competition. Usually this market has seen action before but
+now could be mistaken for a boring place to be. In this type
+of market, you have many more degrees of freedom on how
+to price and how much to price. A high price elasticity cus-
+tomer such as a national bank might end up paying 5-10x
+AJIT GHUMAN
+88
+more than a national retailer. However, the issue in this mar-
+ket is more category and solution evangelization and dispro-
+portionate effort needs to be made to ‘get things going’ in the
+market, until then every sales is on its merits. Thankfully you
+avoid the problem of commoditization and a pressure to keep
+prices low.
+2. Monopolistic: I like to call this market similar to a vacuum
+cleaner where one big company sucks up most of the market
+and sets the benchmark for product functionality and price.
+The customer service landscape is one such with Zendesk
+taking the lion’s share of market spend and attention. The CRM
+market is another, where Salesforce sets the agenda. Smaller
+players exist but only at the margins or as add-ons on top of
+the core functionality these players bring to the table. Head on
+competitors tend to fail, unless they bring a truly 10x ad-
+vantage over the incumbent. Pricing in this market is in
+reference to the big player. If Salesforce charges $150 a seat,
+then your pricing is evaluated in context of it - i.e. it becomes
+an anchor in the mind of prospects and customers. And if a
+company pays $150/seat for its CRM, then a limited capability
+that adds on the CRM would automatically have to be a reason-
+able percentage of this price. This eventually can end up in a
+race to the bottom price struggle if the incumbent fails to
+innovate, as new players crop up and in some cases copy ex-
+isting capabilities and offer it for cheaper.
+3. Renaissance: I didn’t have the right technical term for this
+market, but I call this the Renaissance market where a bunch
+of small players are vying for dominance but there hasn’t
+been a clear leader that exists. The difference between this
+market and the Blue Ocean market is that here key pricing
+variables are converging, i.e. most players will now start
+charging per seat or per usage. Value propositions are simi-
+lar but capabilities have significant room for differentiation.
+There isn’t much to anchor outside of the customer segment,
+and all focus needs to be in correctly serving your ICP. In a
+PRICE TO SCALE
+89
+sense pricing agility within the right pricing structure be-
+comes more important than having the exact right price point.
+Once you understand the type of market you are in, then you should
+have an intuitive grasp of how much you should account for compet-
+itive price points and pre-set anchors in the minds of customers.
+Let’s now look at a few other variables before we actually come down
+to our decision of setting the price point.
+Your Cost of Delivery
+Many pricing experts and articles give some real estate to ‘cost-plus
+pricing’. This approach essentially adds a margin amount to the cost
+of production of a given product. This may make sense in commod-
+itized markets for products which have hard costs of production, but
+for products like software (at least in the application layer) it makes
+very little sense to do cost-plus pricing since there are mostly hard
+setup costs but very little production costs, or cost to serve every
+additional customer after that. This is also why software is generally
+a high margin business. (Some amount of cost-plus pricing may still
+be relevant in SaaS, and that happens the closer the software is to the
+infrastructure layer and tied to hard costs such as compute power,
+storage, etc.)
+On the whole, I am still surprised when time after time, seasoned
+executives push back on pricing by saying “we need to charge more
+for this because it’s costly to deliver”, or, “this x feature is really
+simple so why are we charging so much for it?”
+For the most part in software sales, pricing for software is based on
+perceived value to the customer and not the cost of production. Albeit
+there is always an implementation price charged in addition to
+account for the delivery of the product to the customer, but even that
+cannot seem unreasonable 10-15% of software ACV is standard in
+the industry today.
+AJIT GHUMAN
+90
+All that being said, costs still need to be looked at, because they can
+a) act to sanity check your go to market strategy and b) to ensure you
+actually get the build once distribute-many economic cost advantage
+Average Cost vs. Marginal Cost in Providing SaaS
+Services
+In SaaS companies, a commonly used financial metric for deter-
+mining price points and assessing profitability is the Cost of Goods
+Sold (COGS) per seat This metric is typically calculated by dividing
+the total cost of providing the software across the entire customer
+base by the number of users or seats. While this approach is useful
+for assessing overall profitability, it can be misleading when it comes
+to making pricing-related decisions.
+The key issue lies in the difference between average cost and marginal
+cost. The average cost reflects the total expenditure spread across all
+users, giving a broad view of the cost structure. However, the marginal
+cost: the cost of providing the service to an additional user or seat, is
+usually significantly lower than the average COGS. This discrepancy
+occurs because many of the costs associated with SaaS products, such
+as development, infrastructure, and customer support, are largely
+fixed or do not scale directly with the number of users.
+As a result, companies that rely solely on average COGS per seat for
+pricing decisions may overestimate the cost of adding new users.
+This overestimation can lead to a reluctance to introduce lower-cost
+or freemium packages, which could otherwise be highly effective in
+driving incremental revenue and expanding the customer base. By
+focusing too much on average cost, companies might miss opportu-
+nities to attract a broader audience, particularly in price-sensitive
+segments of the market.
+Therefore, it's crucial for SaaS companies to consider both average
+and marginal costs when making pricing decisions. Understanding
+the marginal cost can reveal opportunities for more aggressive pric-
+ing strategies, including the introduction of freemium models or
+PRICE TO SCALE
+91
+lower-cost tiers, which can significantly boost user acquisition and
+long-term revenue growth. Balancing these two metrics allows for
+more informed and strategic pricing that aligns with the company's
+broader growth objectives.
+Sanity Check Your Strategy
+Let’s assume it takes us $3000 to implement our software on
+average for a mid-sized customer (taking man hours into
+account). However, you find yourself selling into a
+competitive SMB-focussed app store environment where
+competitive pressure pegs down your deal sizes from $1000
+to $10,000 per year. Additionally, the cost of acquisition of
+these customers is also SDR-driven and hence manual and
+could be in the $1000 to $3000 range. Now suddenly, this seg-
+ment doesn’t look that attractive. Not to mention the
+opportunity cost of focussing your reps and SDRs away from
+a more higher ROI customer segment.
+Everything about a SaaS business depends on the economics
+inherent to acquiring and servicing customers.
+Here you come to a decision point on strategy. Do you want
+to take a short term hit in this segment such that you can own
+more market share? This is one of the main reasons why
+looking at costs helps. Costs make you rethink and be sure
+about your strategy.
+Setup vs Ongoing Costs
+As mentioned, in most cases software costs have minimal
+expenditures to deliver once initially built, even taking into
+account cloud hosting, storage and processing costs, as you
+easily build in economies of scale as you onboard your
+customers and keep improving margin.
+However, in some instances it doesn’t quite work this way.
+Let’s say you leverage a third party solution in a consumption
+AJIT GHUMAN
+92
+model yourself, upon which your service depends, and the
+associated costs being really high in relation to your product.
+One such example is sending SMS (specially internationally),
+where the per SMS cost could be as high as 12cents per SMS.
+In this case, unless the volume of SMS sent is very low, you
+will have to account for this part of your capability different
+than your main pricing mechanism. Not doing so would
+mean you end up bleeding money for customers that have a
+high use for this capability.
+If you price per seat, and want to offer this capability to
+customers. Then just for the capability to send SMS, you want
+to charge this on a consumption model with its own mini
+pricing structure. Or you may choose to pass through these
+costs all together to the customers, and separate out the value
+of your own product.
+Your Pricing Strategy/’Intent’
+We are finally here. We’ve thought through positioning, packaging,
+our key pricing metric, pricing structure, customer/prospect WTP,
+and our market.
+The term “strategy” is much bandied about across almost any
+relevant blog if you do a simple pricing related Google search.
+It is not used in such a high brow fashion here. This is simply a
+decision you make.
+You have all the data around your hypothesis at hand, it is still a final
+decision to ‘set’ the price points themselves. How you make this de-
+cision is up to you and there aren’t all that many approaches to this.
+You can price:
+1. At the higher end of the price customers may be willing to
+pay. This optimizes for maximum margin.
+PRICE TO SCALE
+93
+2. To optimize revenue, which balances both the number of
+customers willing to buy with the price that they are willing
+to pay.
+3. For the greatest market-share. In this case you are pricing at
+the lower end of the range that customers are willing to buy
+your product.
+It is a completely unique decision to your company. You have to make
+the call at the end of the day.
+Often companies with an enterprise focussed product may opt for
+maximizing margin, especially if they have a limited market size. A
+margin maximizing approach may even be a thought through
+strategy to generate viable cash flow for growing the business before
+pivoting the product into a mass-seller. Alternatively, a bottom-up
+SaaS company such as Slack or Yammer may want to shoot for
+maximizing market-share because their business success depends
+on a sort of B2B virality.
+As long as you’ve put enough thought into your packages, pricing
+metric and structure, this is a relatively easy to change decision.
+Getting the structure right at the root will always be more important
+than the price point.

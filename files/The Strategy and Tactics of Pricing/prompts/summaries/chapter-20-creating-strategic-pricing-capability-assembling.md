@@ -1,0 +1,1041 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-20-creating-strategic-pricing-capability-assembling
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-001",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 6976,
+      "char_start": 1,
+      "checksum": "bdbdeb950869517b",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "Organizations struggle to implement value-based pricing strategies despite their proven profitability advantage. A Deloitte benchmarking study of 200+ companies identified four pricing archetypes and found that 'Value Masters' employing value-based pricing with strong execution outperform peers by 24% on average. Key organizational challenges include lack of pricing skills, misaligned incentive structures across functions, and insufficient access to information and tools.",
+    "key_points": [
+      "More than 60% of sales and marketing managers were frustrated by their organization's ability to improve pricing performance",
+      "More than 75% of managers were unsure what to do to drive effective execution of pricing strategy",
+      "Value Masters outperform industry average by 24% on operating profitability",
+      "Only 9% of business schools offer standalone pricing courses",
+      "Only 6% of Fortune 500 companies have a dedicated pricing function",
+      "Apparel industry experienced 15-year period of declining labor and cotton costs from 1995, reducing pricing urgency",
+      "Compensation plans rewarding sales revenue alone create resistance to price increases",
+      "Value Masters have incentive structures that reward profitable pricing decisions"
+    ],
+    "arguments": [
+      "Good strategy alone is not sufficient; organizations must invest heavily in structure to support execution",
+      "Internal alignment around value across R&D, marketing, and policy is essential for pricing success",
+      "Misaligned incentives across functional areas (sales, marketing, finance, operations) undermine pricing strategy execution",
+      "Organizations that link pricing strategy to value and execute effectively significantly outperform peers"
+    ],
+    "examples": [
+      "Apparel industry experienced declines in labor and cotton costs from 1995, then faced cost shocks from 2008-2012 that exposed lack of pricing capability",
+      "Sales representatives compensated on revenue alone resist price increases that might lose deals",
+      "Marketers incentivized on market share growth use price promotions that erode brand equity and margins",
+      "Finance executives evaluated on margin percentage argue against low-margin/high-volume opportunities",
+      "Operations executives focus on capacity utilization even when it drives down market prices"
+    ],
+    "stories": [],
+    "definitions": [
+      "Value Masters: firms employing value-based pricing and excelling at execution",
+      "Well Intentioned: firms with value-based pricing but poor execution",
+      "Directionally Challenged: firms without value-based pricing strategy and weak execution",
+      "Runaway Trains: firms with excellent execution but no value-based pricing strategy"
+    ],
+    "names": [
+      "Charles Darwin",
+      "Deloitte"
+    ],
+    "dates": [
+      "1995",
+      "2008-2012",
+      "1990s and early 2000s"
+    ],
+    "numbers": [
+      "200 companies in benchmarking study",
+      "60 percent of sales and marketing managers frustrated",
+      "75 percent unsure of execution approach",
+      "24 percent more profitable than industry average",
+      "9 percent of business schools offer standalone pricing course",
+      "6 percent of Fortune 500 have dedicated pricing function"
+    ],
+    "places": [],
+    "terms": [
+      "value cascade",
+      "value-based pricing",
+      "execution capabilities",
+      "operating profitability",
+      "pricing archetypes",
+      "value proposition",
+      "market share goals",
+      "return on investment",
+      "return on sales",
+      "capacity utilization"
+    ],
+    "quotes": [
+      "Given the attention we pour into pricing our products, why do the outcomes still seem like a random walk?",
+      "The facts which kept me longest scientifically orthodox are those of adaptation."
+    ],
+    "actionable_lessons": [
+      "Organizations must align incentive structures across all functions to reward profitable pricing decisions, not just revenue or market share growth",
+      "Value Masters excel at setting strategic goals across all elements of the value cascade and invest in organizational structure to support execution",
+      "R&D should focus on innovations that create value, not just new features",
+      "Marketing communications must translate product features into customer-perceived benefits",
+      "Clear policies should link discounts to trade-offs of value and price",
+      "Organizations need to build pricing skills and capabilities through dedicated functions and training"
+    ],
+    "open_questions": [
+      "Why do most organizations struggle to implement strategic, value-based pricing despite proven profitability advantages?",
+      "How can organizations overcome the challenge of coordinating pricing decisions across multiple functional areas with conflicting incentives?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-002",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 13975,
+      "char_start": 6276,
+      "checksum": "7ae3acc632bcdc23",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses building strategic pricing capability through three foundational investments: human talent, organizational structure with clear roles, and data/analytical tools. It examines challenges in pricing decisions across departments, presents the airline industry as a cautionary example of imbalanced investment, and provides frameworks for assessing pricing organization maturity. The section emphasizes that high-performing organizations challenge industry norms and experiment with new pricing models.",
+    "key_points": [
+      "Value Masters had incentive structures that rewarded profitable pricing decisions",
+      "Three underlying investments needed: human talent, organizational structure with identified roles, and data/analytical tools",
+      "Imbalanced investment in pricing capability components can lead to catastrophe",
+      "Pricing organization maturity can be assessed by asking top five executives to articulate the firm's pricing strategy",
+      "High-performing organizations challenge industry norms and experiment with new pricing models",
+      "As companies quantify and deliver value consistently, financial performance tends to improve"
+    ],
+    "arguments": [
+      "Finance executives evaluated on margin percentage may argue against low-margin/high-volume opportunities that could increase return on investment",
+      "Operations executives focusing on capacity utilization may drive down market prices and reduce profits for all",
+      "The airline industry over-invested in data and analytics while under-investing in ability to innovate profitable value sources and organizational understanding"
+    ],
+    "examples": [
+      "IT distributor that offered high-quality services including on-demand technical consulting and next-day delivery to all customers; after losing 20 percent of revenue to low-cost competitors, implemented tiered services model allowing customers to choose lower prices with lower service levels or pay premium for high service levels",
+      "Airline industry invested heavily in yield management tools in the 1980s and engaged in extensive price war that in 1991 wiped out cumulative profits earned by airlines up to that point in their history",
+      "Music labels' revenue model upended when Apple launched iTunes in 2001 to allow sale of single songs instead of albums"
+    ],
+    "stories": [
+      "IT distributor case: Company initially resisted tiered services model with executives claiming 'everyone needs the high level of service, it's just that some customers don't know it yet.' Only after losing 20 percent of revenue base to low-cost competitors did they test low-cost offering, which resulted in staggering results—regaining price-sensitive customers profitably through standardized buying process."
+    ],
+    "definitions": [
+      "Value Masters: Companies that had incentive structures rewarding profitable pricing decisions and commercial-grade pricing software with alerts for discount thresholds and historical price-trend data"
+    ],
+    "names": [
+      "Dutta et al.",
+      "Apple",
+      "iTunes"
+    ],
+    "dates": [
+      "1980s - airline industry invested heavily in yield management tools",
+      "1991 - airline price war wiped out cumulative profits",
+      "2001 - Apple launched iTunes",
+      "2011 - reference point for iTunes revenue impact"
+    ],
+    "numbers": [
+      "20 percent - revenue lost by IT distributor to low-cost competitors before implementing tiered services"
+    ],
+    "places": [
+      "Airline industry",
+      "Music industry"
+    ],
+    "terms": [
+      "Value Masters",
+      "Commercial-grade pricing software",
+      "Yield management",
+      "Value Cascade",
+      "Tiered services model",
+      "Return on investment",
+      "Return on sales",
+      "Capacity utilization",
+      "Pricing capability maturity"
+    ],
+    "quotes": [
+      "everyone needs the high level of service, it's just that some customers don't know it yet",
+      "the way we do things around here",
+      "An ability to challenge industry norms governing how products and services are sold to customers",
+      "The capacity to experiment with new pricing models and a willingness to accept the inherent risk of trying something new"
+    ],
+    "actionable_lessons": [
+      "Ask top five executives to articulate firm's pricing strategy; if answers differ significantly, the organization likely has a pricing capability maturity problem",
+      "Evaluate pricing organization maturity by assessing: number of deviations from agreed-upon price schedules, clarity about lines of authority for pricing decisions, ability to implement upcharges for non-standard requests, uncollected charges and write-offs, unearned discounts, pricing errors, and order processing/fulfillment errors",
+      "Balance investment across all three elements of pricing capability (talent, organizational structure, tools) to avoid catastrophic outcomes",
+      "Implement systems with alerts triggered when discounts exceed thresholds to maintain pricing discipline",
+      "Use commercial-grade pricing software to assess profitability at customer and product level and identify costly customer behaviors",
+      "Challenge industry norms about how value is exchanged between seller and buyer",
+      "Be willing to experiment with new pricing models and accept inherent risks"
+    ],
+    "open_questions": [
+      "How can organizations overcome resistance from executives who view pricing function changes as threats to their political power?",
+      "What specific characteristics distinguish the most successful pricing organizations across different industries?",
+      "How should companies balance the three investment components differently based on their industry and competitive position?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-003",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 20987,
+      "char_start": 13275,
+      "checksum": "b2188500cdf67334",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses how disruptive forces are reshaping pricing models across industries, using examples from music, photography, transportation, and hospitality. It emphasizes the importance of challenging business norms and contrasts companies like Amazon that continuously reinvent their models with those focused on optimization. The chunk also illustrates how organizational alignment on pricing objectives is critical for strategy success, using Netflix's contrasting price increase experiences in 2011 and 2014 as a key case study.",
+    "key_points": [
+      "Entire industries have had their pricing models upended multiple times in the past ten years",
+      "Revenue models are typically reinvented by industry newcomers unencumbered by industry norms",
+      "Incumbent companies must take calculated risks to reinvent their business and stay ahead of disruptors",
+      "Organizational culture can hold back innovative ideas",
+      "Good pricing strategies fail when organizational processes and incentives are inconsistent with strategy objectives",
+      "How a price increase is communicated and implemented significantly affects customer response"
+    ],
+    "arguments": [
+      "Disruptive forces such as autonomous driving, urbanization, and low-growth economic environments are changing how value is created, delivered, perceived and captured",
+      "Newcomers can take on more risk because they have less to lose, while incumbents must take calculated risks to survive",
+      "Optimization of existing business models runs the risk of missing opportunities to disrupt the existing business model or being disrupted",
+      "Processes and incentives within an organization must be consistent with pricing strategy objectives for successful implementation"
+    ],
+    "examples": [
+      "Music industry: Apple launched iTunes in 2001 allowing single song sales; by 2011 digital outpaced physical sales; by 2016 streaming became dominant revenue model",
+      "Kodak invented the original digital camera in 1975 but dismissed it, viewing themselves as in the paper and chemicals business",
+      "Uber and Airbnb reimagined transportation and hospitality by not being bound by industry norms like selling high volumes of cars or filling hotel beds",
+      "Amazon continuously tried new business models from online bookstore to e-readers to online department store to food delivery to physical bookstores in 2016"
+    ],
+    "stories": [
+      "Netflix 2011 price increase: raised prices up to 60 percent and split DVD and streaming businesses; resulted in over 10,000 negative blog posts, 1 million cancelled subscriptions, and loss of more than half market value within two months; CEO issued public apology",
+      "Netflix 2014 price increase: implemented 12.5 percent increase on May 12, 2014; gained 1.7 million new subscribers during the quarter; estimated $500 million incremental revenue by 2017; succeeded by segmenting customers and only applying increase to new subscribers while providing price guidance of $1-$2 range"
+    ],
+    "definitions": [],
+    "names": [
+      "Apple",
+      "Spotify",
+      "Kodak",
+      "Uber",
+      "Airbnb",
+      "Amazon",
+      "Netflix"
+    ],
+    "dates": [
+      "2001",
+      "2011",
+      "2016",
+      "1975",
+      "May 12, 2014",
+      "July 2011"
+    ],
+    "numbers": [
+      "60 percent",
+      "10,000",
+      "1 million",
+      "12.5 percent",
+      "1.7 million",
+      "$500 million",
+      "2017"
+    ],
+    "places": [],
+    "terms": [
+      "revenue model",
+      "disruptive technologies",
+      "pricing models",
+      "gross margin",
+      "market value",
+      "customer segmentation",
+      "price increase"
+    ],
+    "quotes": [
+      "that's cute but don't tell anyone",
+      "be in the $1 to $2 range"
+    ],
+    "actionable_lessons": [
+      "Managers should continuously challenge themselves on how their own industry may become disrupted by upstarts with new ways of creating and capturing value",
+      "Organizations should ask whether their organizational culture is holding back innovative ideas",
+      "When implementing price increases, segment customer base and communicate price guidance to manage consumer perception",
+      "Apply price increases selectively (e.g., to new customers only) to avoid perception of loss among existing customers",
+      "Provide advance notice and guidance on price increase range to set expectations"
+    ],
+    "open_questions": [
+      "How can incumbent companies balance optimization of existing assets with the need to reinvent business models?",
+      "What organizational structures and incentives best support continuous innovation in pricing strategy?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-004",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 27962,
+      "char_start": 20287,
+      "checksum": "7e86ff33be9dd33b",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses organizational structures for pricing functions and the importance of decision rights. It presents three archetypal pricing structures (Centralized Pricing, Center of Expertise, and Dedicated Support Unit) and explains how to match centralization levels with organizational needs. It also emphasizes the necessity of formally allocating decision rights to avoid pricing inconsistencies and conflicts.",
+    "key_points": [
+      "Country managers assessed on volume and share targets viewed pricing as a lever for sales goals, with profits secondary",
+      "Uncoordinated pricing by country managers resulted in hundreds of untracked discounts and millions in uninvoiced services",
+      "Weekly contract review meetings with key decision-makers created common understanding of global objectives while allowing local market reflection",
+      "Centralized pricing is effective for single markets or similar business contexts; decentralized is better for significantly varying market conditions",
+      "Three archetypal pricing structures exist: Centralized Pricing, Center of Expertise, and Dedicated Support Unit",
+      "Centralized pricing is common in commoditized industries like energy and airlines where cost and yield management drive success",
+      "Major airlines manage pricing centrally due to complexity of multiple routes and cascading demand effects",
+      "Formal allocation of decision rights prevents inconsistent pricing and managerial conflict",
+      "Lack of coordination between key account teams and traditional sales forces led to competing and inconsistent price quotes"
+    ],
+    "arguments": [
+      "A more centralized pricing function is effective when a company operates within a single market or has business units in similar market contexts",
+      "Benefits of centralized pricing diminish when business units operate in markets with significant variations in competitive pressures, product specifications, or customer buying patterns",
+      "In varied market contexts, it is more productive to push decision-making to business units while maintaining central coordination and support",
+      "Formal structure alone is insufficient for organizing pricing; decision rights must also be specified",
+      "Failure to formally allocate pricing decision rights leads to inconsistent pricing and greater conflict"
+    ],
+    "examples": [
+      "Netflix managed transition from DVD-by-mail to streaming model by challenging business norms and trying new things",
+      "A bank's country managers customized discount programs unsupported by billing systems, creating hundreds of untracked discounts and millions in uninvoiced services",
+      "A major airline offered 18 different prices for flights from New York to Miami across more than 325 routes",
+      "A business services company created a key account team that received competing and inconsistent price quotes due to lack of coordination with traditional sales force"
+    ],
+    "stories": [
+      "A bank experienced pricing chaos when country managers, assessed on volume and share targets, negotiated prices below global leadership expectations and customized unsupported discount programs. The company resolved this by creating weekly contract review meetings with key decision-makers to ensure consistency while allowing local market reflection."
+    ],
+    "definitions": [
+      "Centralized Pricing: pricing decisions made and managed at the corporate level, commonly used in commoditized industries like energy and airlines",
+      "Center of Expertise: business units maintain control of pricing decisions while central group shares best practices and provides specialized skills like advanced analytics",
+      "Dedicated Support Unit: each business unit has a dedicated pricing group loosely aligned with corporate pricing, appropriate for diversified businesses with little market overlap",
+      "Decision Rights: formal specification of what managers can and cannot do with respect to pricing, ensuring each participant understands their role and constraints"
+    ],
+    "names": [
+      "Netflix"
+    ],
+    "dates": [],
+    "numbers": [
+      "18 different prices for flights from New York to Miami",
+      "325 routes served by major airline",
+      "hundreds of discounts",
+      "millions of dollars in uninvoiced services"
+    ],
+    "places": [
+      "New York",
+      "Miami"
+    ],
+    "terms": [
+      "yield management",
+      "commoditized",
+      "price erosion",
+      "functional coordinator",
+      "commercial partner",
+      "decision rights",
+      "pricing function",
+      "centralization"
+    ],
+    "quotes": [
+      "The ability to challenge existing business norms and try new things has enabled Netflix not only to manage the transition from a DVD-by-mail business to a streaming model",
+      "country managers were primarily assessed on achieving volume and share targets",
+      "pricing as a lever for achieving sales goals, with profits as a secondary consideration",
+      "complete chaos with hundreds of discounts that could not be tracked by the bank's operations team, millions of dollars in services that were not invoiced"
+    ],
+    "actionable_lessons": [
+      "Create weekly meetings to review new contracts and ensure consistency while allowing local market conditions to be reflected",
+      "Establish criteria that customers must meet to qualify for price discounts to mitigate price erosion",
+      "Match the degree of pricing centralization to organizational context: centralize for similar markets, decentralize for varied markets with central coordination",
+      "Formally allocate decision rights to specify what each manager can and cannot do regarding pricing",
+      "Ensure coordination between different sales teams (key account teams and traditional sales forces) to prevent competing price quotes",
+      "Use central pricing groups to provide specialized skills like advanced analytics that would not be cost-effective for individual business units"
+    ],
+    "open_questions": [
+      "How should organizations balance global pricing objectives with local market conditions?",
+      "What specific criteria should customers meet to qualify for price discounts?",
+      "How can organizations prevent price wars in hyper-competitive industries?",
+      "What mechanisms ensure compliance with centralized pricing decisions across decentralized business units?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-005",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 34967,
+      "char_start": 27262,
+      "checksum": "ecb73f24062c07ed",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses the importance of formally allocating pricing decision rights and establishing clear pricing processes to ensure consistent pricing outcomes and profitability. It also addresses the challenge of designing effective performance measures and incentive programs that align with pricing strategy.",
+    "key_points": [
+      "Failure to formally allocate pricing decision rights leads to inconsistent pricing and greater conflict",
+      "Decision rights define the scope and role of each person's participation in the decision-making process",
+      "Strategic pricing spans all activities that contribute to profitable commercial outcomes, not just price-setting",
+      "More than 58 percent of managers indicated their incentive plans likely encourage choices that reduce company profits",
+      "Too many performance metrics can become confusing and lead to loss of focus"
+    ],
+    "arguments": [
+      "Clear allocation of decision rights prevents competing and inconsistent price quotes to customers",
+      "Separating 'make' and 'ratify' rights ensures accountability while protecting senior managers from day-to-day operations",
+      "Pricing processes should be defined broadly to include negotiation, contracting, and decisions about ancillary charges",
+      "Limited sets of metrics tied closely to profitability are more effective than overly complicated performance measurement systems"
+    ],
+    "examples": [
+      "A business services company created a key account team without coordinating with the traditional sales force, resulting in large accounts receiving competing and inconsistent price quotes, which led customers to solicit additional quotes and caused average selling prices to decline rapidly despite account growth"
+    ],
+    "stories": [],
+    "definitions": [
+      "Decision rights: define the scope and role of each person's participation in the decision-making process",
+      "Input rights: enable an individual to be an accepted source of specified information necessary for the decision",
+      "Make rights: decision rights that should belong to only one person or committee to ensure clear accountability",
+      "Ratify rights: provide a mechanism for senior managers to overturn pricing decisions when they conflict with broader organizational priorities",
+      "Notify rights: allocated to individuals that will use or be affected by pricing decisions in other decision-making processes",
+      "Profit leaks: losses in profitability caused by unwarranted or unmanaged discounts, incurrence of unnecessary costs, or unmet terms and conditions"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "58 percent of managers indicated their incentive plans likely encourage choices that reduce company profits",
+      "10 percent margin on high-volume deals"
+    ],
+    "places": [],
+    "terms": [
+      "Decision rights",
+      "Input rights",
+      "Make rights",
+      "Ratify rights",
+      "Notify rights",
+      "Profit leaks",
+      "Pricing processes",
+      "Performance measures",
+      "Incentive plans"
+    ],
+    "quotes": [
+      "Decision rights, as the name implies, define the scope and role of each person's participation in the decision-making process",
+      "the 'make' decision rights should belong to only one person or committee. This ensures clear accountability for pricing decisions",
+      "It is essential to separate 'make' and 'ratify' rights to ensure that senior managers can regulate the decision-making process",
+      "strategic pricing spans all of the activities that contribute to more profitable commercial outcomes",
+      "It is essential to think broadly when defining pricing processes"
+    ],
+    "actionable_lessons": [
+      "Formally allocate pricing decision rights to prevent inconsistent pricing and customer confusion",
+      "Assign 'make' rights to only one person or committee to ensure clear accountability",
+      "Grant 'ratify' rights to senior managers to oversee strategic alignment without day-to-day involvement",
+      "Define pricing processes broadly to include negotiation, contracting, and ancillary service charges",
+      "Follow four steps to create effective pricing processes: define major activities, map current processes, identify profit leaks, and redesign processes",
+      "Use a limited set of performance metrics tied closely to profitability rather than overly complicated measurement systems",
+      "Ensure performance measures motivate behaviors that increase company profitability"
+    ],
+    "open_questions": [
+      "How can companies effectively balance the need for senior management oversight with protecting their time from day-to-day pricing operations?",
+      "What specific pricing analytics should be used to identify profit leaks in current pricing processes?",
+      "How should decision rights be revised when implementing new pricing processes?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-006",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 41979,
+      "char_start": 34267,
+      "checksum": "014c32d98f848030",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses how to align sales compensation with company profitability rather than revenue volume, and how to resolve conflicts between different functional departments' performance metrics in pricing decisions.",
+    "key_points": [
+      "Revenue-based commissions create perverse incentives that prioritize volume over profitability",
+      "Sales reps compensated on percentage of sales have little incentive to invest time in value-selling or margin improvement",
+      "Compensation must be linked to profitability without necessarily revealing cost data to sales staff",
+      "Performance metrics across functions must be aligned to prevent undermining pricing strategy",
+      "When incentive alignment is difficult, policies can constrain pricing decisions and be tracked through analytics"
+    ],
+    "arguments": [
+      "Sales representatives on revenue-based commissions will prioritize closing multiple low-margin deals over investing time in high-margin deals, even when both generate equal profit contribution",
+      "Misaligned incentives across functions (sales measured on volume, finance on margins) create organizational conflict and workarounds that undermine pricing discipline",
+      "Tying compensation to profitability aligns sales rep interests with company financial interests and encourages focus on value drivers"
+    ],
+    "examples": [
+      "A sales rep investing twice as much time to increase profit by 10 percent on a deal earns only 10 percent more commission, while a colleague closing two lower-margin deals earns twice the commission",
+      "A high-tech manufacturer's finance group enforced a 64 percent minimum gross margin policy, causing sales organization (measured on volume) to spend hours devising workarounds to get approval for high-volume, lower-margin deals",
+      "Sales reps at one company traded company sedans for vehicles to transport products to customers with urgent needs, because such customers could be convinced to buy without demanding discounts"
+    ],
+    "stories": [],
+    "definitions": [
+      "Profitability factor (or 'kicker'): Used in sales credit calculations to adjust compensation based on the profitability of a sale rather than just volume"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "10 percent margin on high-volume deals",
+      "10 percent increase in profitability from value-selling",
+      "5 percent price cut example",
+      "64 percent gross margin minimum threshold",
+      "20 percent contribution margin example"
+    ],
+    "places": [],
+    "terms": [
+      "revenue-based commission",
+      "perverse incentives",
+      "profit contribution",
+      "value-selling",
+      "gross margin",
+      "contribution margin",
+      "sales credit",
+      "target price",
+      "price exceptions",
+      "market share",
+      "price-management analytics"
+    ],
+    "quotes": [
+      "Until you fix these perverse incentives associated with revenue-based measurement and compensation—driving revenue at the expense of profit—it will be difficult to get sales reps to do the right thing.",
+      "The key to aligning sales incentives with those of the company is to link compensation with profitability.",
+      "The key to inducing the sales force to sell value is to measure their performance and compensate them not just for sales volume, but also for profit contribution."
+    ],
+    "actionable_lessons": [
+      "Replace revenue-based sales commissions with compensation tied to profitability using a 'kicker' formula that adjusts sales credit based on actual price versus target price",
+      "Document current incentives for all decision-makers in the pricing process to identify conflicts",
+      "Align performance metrics across functions (sales, finance, marketing) to prevent undermining of pricing strategy",
+      "When changing incentives is impractical, implement policies that constrain pricing decisions and track compliance through analytics",
+      "Use the formula: Sales Credit = [Target Price – k(Target Price – Actual Price)] × Units Sold, where k equals 1 divided by the product's percentage contribution margin"
+    ],
+    "open_questions": [
+      "How can companies balance the need to drive volume on certain products for strategic reasons while still maintaining profitability-based incentives?",
+      "What are the practical challenges in implementing profitability-based compensation systems across large sales organizations?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-007",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 48937,
+      "char_start": 41279,
+      "checksum": "74de3725a3486187",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses systems and compensation mechanisms to support pricing functions, including a sales credit formula that adjusts compensation based on profitability factors, and the data and analytics needed to inform pricing decisions.",
+    "key_points": [
+      "Sales credit should be adjusted by a profitability factor (kicker) to induce salespeople to maximize contribution to the firm",
+      "Systems capability for pricing requires three components: objective data, analytics protocols, and tools for calculations and presentation",
+      "Win-loss data tracking is probably the most valuable information a company can collect for pricing strategy",
+      "Historical transaction data helps evaluate market responses to price changes and identify revenue leakage",
+      "Competitive pricing information often filters in from customers or field sales representatives"
+    ],
+    "arguments": [
+      "Salespeople are more likely to take a short-term view of profitability and can move to another company, so the most motivating profitability factor is usually higher than the minimum kicker value",
+      "The importance of profitability adjustment is directly related to variable contribution margin; larger margins enable greater alignment between salesperson and company interests",
+      "Measuring performance relative to plan based on past experience is insufficient; companies should track win-loss frequency against competitors"
+    ],
+    "examples": [
+      "When contribution margin is 20 percent, the profitability factor equals 5 (1.0/0.20)",
+      "When a salesperson grants a 15 percent price discount with a profitability factor of 5, the sales credit is reduced by 75 percent rather than 15 percent",
+      "$1,000 worth of product sold for $850 produces only $250 of sales credit",
+      "$500 worth of product sold for $550 (10 percent price premium) earns $750 of sales credit",
+      "Companies in office equipment, market research services, and door-to-door sales have adopted profit-based compensation schemes"
+    ],
+    "stories": [
+      "When salespeople transition to value selling and profit-based compensation, those who previously complained about high prices begin complaining about slow deliveries, quality defects, lack of innovative product features, and need for better sales support"
+    ],
+    "definitions": [
+      "Sales Credit = [Target Price – k (Target Price – Actual Price)] × Units Sold, where k is the profitability factor",
+      "Profitability factor (kicker): 1 divided by the product's percentage contribution margin at the target price",
+      "Revenue leakage: when discounts are being given to customers who do not qualify for them"
+    ],
+    "names": [
+      "Lord Kelvin"
+    ],
+    "dates": [],
+    "numbers": [
+      "20 percent contribution margin",
+      "5 profitability factor",
+      "15 percent price discount",
+      "75 percent reduction in sales credit",
+      "10 percent price premium",
+      "$1,000 product value",
+      "$850 actual price",
+      "$250 sales credit",
+      "$500 product value",
+      "$550 actual price",
+      "$750 sales credit",
+      "$50 premium amount"
+    ],
+    "places": [],
+    "terms": [
+      "sales kicker",
+      "profitability factor",
+      "contribution margin",
+      "revenue leakage",
+      "value cascade",
+      "price match guarantees",
+      "crowd source",
+      "win-loss data",
+      "customer analytics",
+      "process analytics",
+      "value assessment"
+    ],
+    "quotes": [
+      "If you cannot measure it, you cannot improve it.",
+      "Most embrace it with enthusiasm.",
+      "This is a good thing."
+    ],
+    "actionable_lessons": [
+      "Implement sales credit formulas that adjust compensation by profitability factors to align salesperson incentives with company profitability",
+      "Establish systems with three key components: objective data on pricing opportunities, analytics protocols, and tools for calculations and presentation",
+      "Track win-loss data against competitors rather than just measuring performance relative to plan",
+      "Use historical transaction data to identify revenue leakage and evaluate customer profitability",
+      "Institute price match guarantees to crowd source competitive price information in real time",
+      "Focus on customer analytics including win-loss data and customer profitability analysis"
+    ],
+    "open_questions": [
+      "For companies that sell direct, how frequently do customers that request a proposal or check pricing on a website actually make a subsequent purchase?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-008",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 55908,
+      "char_start": 48237,
+      "checksum": "c97ddc9efc9079ab",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk discusses pricing analytics and customer profitability analysis. It covers win-loss ratio analysis, customer profitability mapping, cost-to-serve measures, and process management analytics including price banding techniques to identify pricing inconsistencies and profit leaks.",
+    "key_points": [
+      "Win-loss ratios should be compared across time periods and similar geographical areas or end-use applications",
+      "The ultimate goal is not to maximize wins but to maximize profit contribution earned",
+      "Customer profitability analysis requires assessing prices paid by specific customers combined with cost-to-serve measures",
+      "Most accounting systems do not allocate costs at the customer level or do so arbitrarily",
+      "Customer profitability mapping charts customers based on average selling price and cost to serve",
+      "Process management analytics measure unsatisfactory pricing outcomes and trace them back to the pricing process",
+      "Price banding identifies customers paying significantly more or less than peer prices for given transaction types"
+    ],
+    "arguments": [
+      "Ill-advised price cuts during market demand declines can lead to price wars that compound economic downturn impacts on profitability",
+      "Raising prices on unprofitable customers is low-risk because it increases average profitability regardless of whether customers pay or defect",
+      "Customer profitability analysis provides actionable guidance to improve profitability of a customer portfolio"
+    ],
+    "examples": [
+      "A financial services firm used customer profitability analysis charting each customer based on average selling price and cost to serve",
+      "Individual customer profitability analysis helped management implement increased automation and bulking of claims, reducing direct labor and processing costs and driving 37 percent improvement in profitability"
+    ],
+    "stories": [],
+    "definitions": [
+      "Customer profitability: measures created by assessing prices paid by specific customers and combining them with cost-to-serve measures that allocate costs based on customer demands and requirements",
+      "Price banding: a statistical technique for identifying which customers are paying significantly more or significantly less than the band of peer prices for a given type of transaction",
+      "Process management analytics: measure unsatisfactory pricing outcomes such as profit leaks and trace them back to the pricing process where they can be sealed"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "37 percent improvement in profitability"
+    ],
+    "places": [],
+    "terms": [
+      "Win-loss ratios",
+      "Customer profitability",
+      "Cost to serve",
+      "Platinum customers",
+      "Lead customers",
+      "Outlaws",
+      "Price bands",
+      "Profit leaks",
+      "Process compliance analytics",
+      "Price waterfalls",
+      "Peer prices"
+    ],
+    "quotes": [
+      "the ultimate goal is not to maximize the share of \"wins,\" but to maximize proﬁ t contribution earned",
+      "Raising prices on the unproﬁ table customers in this quadrant can result in two outcomes; the customer pays the higher price because of the value delivered, or they defect and move to a competitor. This is a low-risk move for the company because it will increase average proﬁ tability"
+    ],
+    "actionable_lessons": [
+      "Compare win-loss ratios across time periods and similar geographical areas to evaluate price sensitivity differences",
+      "Create customer profitability measures by allocating costs to customers based on actual demands and requirements they drive",
+      "Protect Platinum customers (high price, low cost-to-serve) by understanding why they pay premium prices and ensuring good value",
+      "Address Lead/outlaw customers (low price, high cost-to-serve) by reducing cost-to-serve or raising prices",
+      "Use price banding analysis to identify customers earning unmerited discounts or paying more than average",
+      "Implement process management analytics to identify and seal profit leaks caused by unwarranted discounts or misaligned policies"
+    ],
+    "open_questions": [
+      "For companies that sell direct, how frequently do customers that request a proposal or check pricing on a website actually make a subsequent purchase?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-009",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 62853,
+      "char_start": 55208,
+      "checksum": "3eb4735d13111926",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "The chunk explains price band analysis and price waterfall analysis as statistical techniques for identifying pricing inconsistencies and profit leakage. It also discusses pricing systems needed to support data analytics and execute pricing strategy.",
+    "key_points": [
+      "Price banding identifies customers paying significantly more or less than peer prices for similar transactions",
+      "Price band analysis reveals whether pricing variation is justified by legitimate factors or is random and damaging",
+      "Price waterfall analysis tracks multiple sources of profit leakage beyond invoice price discounts",
+      "Pocket price (actual revenue after all discounts) is often much less than invoice price",
+      "Unmanaged concessions and giveaways tend to grow and create wider variance in pocket prices",
+      "Pricing systems should support data analytics and enable systematic execution of pricing strategy"
+    ],
+    "arguments": [
+      "Random pricing variation damages firm profit and price integrity and should be eliminated through policies",
+      "Hidden logic in apparently random pricing patterns should be made transparent to pricing managers and steering committees",
+      "Unmanaged discounts and concessions should be controlled through rigid policies rather than eliminated entirely, as they can provide valuable incentives while maintaining price integrity appearance"
+    ],
+    "examples": [
+      "A company discovered sales to some customers resulted in more leakages than the gross margin at list price, with multiple layers of discounts: salesperson commission, volume incentive for retailer, commission for buying group, co-op advertising incentive, inventory holding incentive, early payment discount, end customer coupon, and coupon processing fees",
+      "A large distributor imposed documentation requirements for waived shipping charges, resulting in tens of millions of dollars added to the bottom line",
+      "Price-band analysis revealed a pattern traced to one sales rep in a corrupt market who was taking bribes for price concessions"
+    ],
+    "stories": [
+      "An author chaperoned his son's class outing to McDonald's and asked the restaurant manager for a 10 percent quantity discount for the class"
+    ],
+    "definitions": [
+      "Price banding: a statistical technique for identifying which customers are paying significantly more or significantly less than the band of peer prices for a given type of transaction",
+      "Peer prices: the average price for transactions or customers with the same characteristics",
+      "Pocket price: revenue that is actually earned after all the discounts are netted out"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "Five steps to price band analysis",
+      "R² between 0.8 and 1.0 indicates legitimate price variation",
+      "R² below 0.4 indicates random discounting",
+      "One standard deviation above and below peer price line reveals outliers",
+      "Tens of millions of dollars improvement from shipping charge policy change"
+    ],
+    "places": [],
+    "terms": [
+      "Price bands",
+      "Price banding",
+      "Regression analysis",
+      "Fitted value",
+      "Coefficient of determination (R²)",
+      "Price waterfalls",
+      "Pocket price",
+      "Price integrity",
+      "Pricing systems",
+      "Transaction data"
+    ],
+    "quotes": [
+      "the pricing manager's job is to make that logic transparent to herself and the pricing steering committee",
+      "the pricing committee's job is to create policies to eliminate it",
+      "the pocket price, revenue that is actually earned after all the discounts are netted out, is often much less",
+      "This does not mean that such discounts should be stopped; they often provide valuable incentives and can be effective in hiding discounts while still maintaining the important appearance of price integrity"
+    ],
+    "actionable_lessons": [
+      "Conduct price band analysis to identify whether pricing variation is justified by legitimate factors or is random",
+      "Use regression analysis to estimate peer prices based on legitimate discount factors",
+      "Plot actual prices against peer prices with standard deviation bands to reveal outliers",
+      "Brainstorm and test hypotheses for random price variation, such as differences between sales rep performance or customer buying processes",
+      "Perform price waterfall analysis to track all sources of profit leakage beyond invoice prices",
+      "Monitor and manage concessions and giveaways through rigid policies to prevent uncontrolled growth",
+      "Implement documentation requirements for discretionary discounts like waived shipping charges",
+      "Use common software tools like Excel and Tableau to analyze transaction data and assess pricing performance",
+      "Consider specialized commercial pricing software as pricing practices scale and standardize"
+    ],
+    "open_questions": [
+      "To what extent is pricing variation caused by legitimate factors versus random discounting?",
+      "Do minority groups of sales reps account for most negative or positive price variation?",
+      "Is negative variation correlated with newer sales reps while positive variation correlates with experienced reps?",
+      "Does the customer's buying process (centralized vs. decentralized) explain pricing variation?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-010",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 69840,
+      "char_start": 62153,
+      "checksum": "38985d115e2a69de",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "Pricing systems must be designed to support chosen pricing strategies rather than dictate them. The chunk discusses how system limitations can hinder strategy execution, provides examples of McDonald's and airlines, and outlines four key pricing system functionalities: pricing analytics, price optimization, price management, and deal management. It also addresses organizational change management requirements for implementing new pricing systems.",
+    "key_points": [
+      "Pricing strategy should dictate systems requirements, not the other way around",
+      "System design choices can enhance or hinder a company's ability to execute pricing strategy",
+      "Too many companies adopt pricing technology that is seldom used or eventually abandoned",
+      "Organizational culture change is necessary to support systems investment",
+      "Four distinct functionalities exist in commercial pricing systems: analytics, optimization, management, and deal management",
+      "Transforming an organization to execute strategic pricing requires managers to act counter to past experience and training"
+    ],
+    "arguments": [
+      "Companies without clearly articulated pricing strategy should not invest in industrial-grade pricing software systems",
+      "System limitations can be purposeful to prevent unauthorized pricing strategy invention",
+      "Pricing technology adoption requires organizational culture change, not just user manuals",
+      "Readiness assessment questions should guide selection of appropriate pricing solution complexity"
+    ],
+    "examples": [
+      "McDonald's manager unable to apply percentage discounts because cash registers had pre-programmed prices for specific menu items",
+      "Airlines capturing over $38 billion in non-ticket revenues in 2014 through systems enabling new pricing strategies for checked bags, window seats, in-flight meals, and Wi-Fi access",
+      "Retail grocery products, airline seats, and hotel rooms as examples where price optimization is valuable due to large transaction volumes and available market data"
+    ],
+    "stories": [
+      "Author chaperoning son's class outing to McDonald's, attempting to negotiate 10 percent quantity discount but discovering register system limitations, then successfully reframing request as 24 Happy Meals for price of 22"
+    ],
+    "definitions": [
+      "Pricing analytics: ability to create price waterfalls, price bands, segmentation analytics, and dashboards to monitor pricing trends",
+      "Price optimization: execution of statistical models to calculate price points optimizing against objectives such as profit, unit volume or market share",
+      "Price management: tools allowing users to set rules and conditions that automatically change prices in dynamic fashion, managing price lists by market, customer, and product category",
+      "Deal management: functionality that pulls together data to enable salespeople to negotiate more profitable quotes and contracts while ensuring deals remain within pricing and discount policy bounds"
+    ],
+    "names": [
+      "Julie Meehan"
+    ],
+    "dates": [
+      "2014"
+    ],
+    "numbers": [
+      "$38 billion",
+      "10 percent",
+      "24",
+      "22",
+      "four"
+    ],
+    "places": [
+      "McDonald's"
+    ],
+    "terms": [
+      "pricing analytics",
+      "price optimization",
+      "price management",
+      "deal management",
+      "price waterfalls",
+      "price bands",
+      "segmentation analytics",
+      "dashboards",
+      "alerts",
+      "price elasticity",
+      "ERP system",
+      "order entry system"
+    ],
+    "quotes": [
+      "pricing strategy dictates the systems requirements, and not the other way around",
+      "too many companies adopt pricing technology that is seldom used or eventually abandoned",
+      "Preparing for change is not about writing a user manual and telling the organization to \"go do.\"",
+      "Transforming an organization into one that commits to and executes on the principles of strategic pricing requires that managers act in ways that may run counter to their past experience and training"
+    ],
+    "actionable_lessons": [
+      "Assess organizational readiness for new pricing systems by asking: What would the organization like to achieve? What are key benefits and are they aligned with corporate strategy? Has senior leadership bought in? Who will be affected and is there a plan for stakeholder success? What is the appetite to absorb change?",
+      "Match pricing solution complexity to organizational maturity level - less developed answers to readiness questions suggest simpler solutions are appropriate",
+      "Ensure pricing strategy is clearly articulated before investing in industrial-grade pricing software",
+      "Support systems investment with organizational culture change focused on doing things in new ways",
+      "Use integrated and consistent change levers including clear senior management leadership and trial projects demonstrating successes",
+      "Address both legitimate concerns about effectiveness and compensation concerns when managing resistance to new pricing approaches"
+    ],
+    "open_questions": [
+      "How can organizations overcome resistance from individuals whose compensation would be adversely affected under new pricing approaches?",
+      "What specific change levers are most effective for facilitating adoption of new pricing strategies?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-011",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 76855,
+      "char_start": 69140,
+      "checksum": "c0fd9fbbf7da6dd7",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "This section discusses how senior management leadership and demonstration projects are critical levers for driving organizational adoption of new strategic pricing approaches. It emphasizes that leaders must actively support new pricing strategies through consistent actions and high-profile examples, and that demonstration projects with clear baselines and control groups can build credibility and internal champions for change.",
+    "key_points": [
+      "Senior managers must demonstrate commitment to new pricing strategies through consistent actions, not just verbal support",
+      "Ad hoc discounting by senior leaders undermines new pricing strategies and reverts organizations to old practices",
+      "Demonstration projects with control groups provide objective evidence of strategy effectiveness",
+      "Internal champions from demonstration projects are more credible advocates than senior leaders alone",
+      "Clear baseline measurement and control samples address skepticism about pricing strategy outcomes",
+      "Progressive companies are making pricing a core strategic capability rather than a tactical function"
+    ],
+    "arguments": [
+      "Senior management must 'talk the talk and walk the walk' to encourage adoption of strategic pricing",
+      "Demonstration projects should be focused, limited in duration, and given maximum organizational exposure",
+      "Using control groups in demonstration projects provides objective measurement of strategy effectiveness",
+      "Junior managers' support for new pricing approaches has strong credibility because they face similar challenges to their peers",
+      "Building pricing into competitive advantage requires structural changes, tool investment, and organizational knowledge building"
+    ],
+    "examples": [
+      "A telecommunications company invested in strategic pricing for consumer markets but the COO undermined the strategy by offering 'one-time' discounts to meet sales targets, causing regional sales managers to demand similar discounts and the strategy to be abandoned",
+      "An entertainment company tested a new pricing strategy during a specific post-holiday period with one focused metric to track gross profit growth, using a control sample of similar products to establish a baseline"
+    ],
+    "stories": [
+      "The telecommunications company case where a COO's reversion to ad hoc discounting despite being a tireless advocate for the new strategy caused the entire pricing strategy to be abandoned as 'exceptions' became the norm"
+    ],
+    "definitions": [
+      "Demonstration projects: focused, limited-duration tests of new pricing approaches that provide examples of 'what good looks like' and build momentum for organizational adoption"
+    ],
+    "names": [
+      "General Electric",
+      "Procter & Gamble"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "strategic pricing",
+      "value-based pricing",
+      "organizational inertia",
+      "change levers",
+      "price experiment",
+      "control sample",
+      "internal champions"
+    ],
+    "quotes": [
+      "talk the talk and walk the walk",
+      "what good looks like",
+      "How do I know if it was the pricing strategy that drove the outcomes when there are so many moving parts in the market and with our own commercial activities?"
+    ],
+    "actionable_lessons": [
+      "Senior managers should mandate comprehensive training programs that introduce strategic pricing concepts and demonstrate company-specific examples of recent wins",
+      "Build regular progress review sessions with business leaders to discuss challenges and hold individuals accountable",
+      "Seize opportunities to communicate support through internal blogs, newsletters, and speeches",
+      "Ensure other senior leaders are actively involved in decision-making to understand challenges and model desirable behaviors",
+      "Design demonstration projects as price experiments with control groups to provide objective measurement of strategy effectiveness",
+      "Focus demonstration projects on discrete periods with clearly defined success metrics",
+      "Distribute positive test results widely through webcasts and sales meetings to build organizational acceptance",
+      "Leverage project leaders as internal champions who can credibly advocate for the new pricing approach"
+    ],
+    "open_questions": [
+      "How can organizations overcome the challenge of defining appropriate baselines for measuring demonstration project success?",
+      "What specific mechanisms ensure that senior leaders maintain commitment to new pricing strategies when facing pressure from boards or customers?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-20-creating-strategic-pricing-capability-assembling-chunk-012",
+    "source": {
+      "chapter_title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "char_end": 81582,
+      "char_start": 76155,
+      "checksum": "b9da81ba6f882598",
+      "source_pages": "283-313",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt"
+    },
+    "summary": "Building pricing into a source of competitive advantage requires structural changes, investment in tools and data, and organizational knowledge building around value-based pricing. While the transformation process can take years, firms that successfully complete it become significantly more profitable than industry peers.",
+    "key_points": [
+      "Building pricing into competitive advantage is one of the most challenging activities facing commercial leaders",
+      "Success requires structural changes including organizational alignment on pricing's role",
+      "Investment in tools and data is necessary to inform decisions and monitor implementation",
+      "Organizations must build knowledge base to understand objectives of value-based pricing",
+      "The degree of change required is substantial",
+      "Firms that successfully transform to value-based pricing are significantly more profitable than industry peers"
+    ],
+    "arguments": [
+      "Building pricing capability requires a combination of structural changes, tool/data investment, and organizational knowledge building",
+      "Financial results justify the effort required for pricing transformation"
+    ],
+    "examples": [],
+    "stories": [],
+    "definitions": [],
+    "names": [
+      "Charles Darwin",
+      "Asa Grey",
+      "John Hogan",
+      "P. H. McCaskey",
+      "D. L. Brady",
+      "Kevin Mitchell",
+      "Georg Müller",
+      "Tom Nagle",
+      "Lisa Thompson",
+      "Shantanu Dutta",
+      "Mark Bergen",
+      "Daniel Levy",
+      "Mark Ritson",
+      "Mark Zbaracki",
+      "Dirk Beveridge",
+      "Andreas Hinterhuber",
+      "Peter Kafka",
+      "Vincent Barabba",
+      "Leena Rao",
+      "James G. March",
+      "Jason O. Gilbert",
+      "Michael Marn",
+      "Robert Rosiello",
+      "Martha C. White",
+      "Julie M. Meehan",
+      "Michael G. Simonetto",
+      "Larry Montan Jr.",
+      "Christopher A. Goodin",
+      "Rachel Abrams",
+      "Stefan Michel"
+    ],
+    "dates": [
+      "September 5, 1857",
+      "April 24, 2017",
+      "2014",
+      "2007",
+      "May 30, 2011",
+      "May 28, 2015",
+      "Spring 2002",
+      "January 6, 1992",
+      "July 2017",
+      "December 7, 2016",
+      "2011",
+      "June 15, 2016",
+      "1991",
+      "September 15, 2011",
+      "May 15, 2014",
+      "January 21, 2014",
+      "3 May 1883",
+      "September–October 1992",
+      "July 27, 2015",
+      "2016",
+      "April 10, 2015",
+      "July 9, 2015",
+      "October 2014"
+    ],
+    "numbers": [
+      "$7 billion",
+      "135 times",
+      "$90 billion",
+      "43 beauty brands",
+      "2018"
+    ],
+    "places": [
+      "Portland",
+      "Singapore",
+      "Devon"
+    ],
+    "terms": [
+      "value-based pricing",
+      "competitive advantage",
+      "organizational alignment",
+      "pricing capability",
+      "profitability"
+    ],
+    "quotes": [
+      "Building pricing into a source of competitive advantage is one of the most challenging activities facing commercial leaders today",
+      "firms that successfully complete the transformation to value-based pricing and build the supporting capabilities are significantly more profitable than their industry peers"
+    ],
+    "actionable_lessons": [
+      "Organizations must build organizational alignment on the role of pricing",
+      "Invest in tools and data to inform pricing decisions and monitor their implementation",
+      "Build organizational knowledge base to understand the objectives of value-based pricing",
+      "Recognize that the change process can take years to complete but financial results justify the effort"
+    ],
+    "open_questions": []
+  }
+]
+```

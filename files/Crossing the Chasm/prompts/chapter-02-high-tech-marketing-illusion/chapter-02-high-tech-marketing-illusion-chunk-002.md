@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-002",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 6293,
+    "char_end": 14078,
+    "checksum": "c527a8734b41a191"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+umers it attracts throughout its useful life: High-Tech Marketing Illusion 15 TECHNOLOGY ADOPTION LIFE CYCLE As you can see, we have a bell curve. The divisions in the curve are roughly equivalent to where standard deviations would fall. That is, the early majority and the late majority fall within one standard deviation of the mean, the early adopters and the laggards within two, and way out there, at the very onset of a new technology, about three standard deviations from the norm, are the innovators. The groups are distinguished from each other by their char­ acteristic response to a discontinuous innovation based on a new technology. Each group represents a unique psychographic profile—a
+
+combination of psychology and demographics that makes its mar­ keting responses different from those of the other groups. Under­ standing each profile and its relationship to its neighbors provides a critical foundation for high-tech marketing overall. Innovators pursue new technology products aggressively. They sometimes seek them out even before a formal market­ ing program has been launched. This is because technology is 16 Crossing the Chasm a central interest in their life, regardless of what function it is performing. At root they are intrigued with any fundamental advance and often make a technology purchase simply for the pleasure of exploring the new device’s properties. There are not very many innovators m any given market segment, but win­ ning them over at the outset of a marketing campaign is import­ ant nonetheless, because their endorsement reassures the other players in the marketplace that the product could in fact work. Early adopters, like innovators, buy into new product concepts very early in their life cycle, but unlike innovators, they are not technologists. Rather they are people who find it easy to imagine, understand, and appreciate the benefits of a new technology, and to relate these potential benefits to their other concerns. When­ ever they find a strong match, early adopters are willing to base their buying decisions upon it. Because early adopters do not rely on well-established references in making these buying decisions, preferring instead to rely on their own intuition and vision, they are core to opening up any high-tech market segment. The early majority share some of the early adopter’s ability to relate to technology, but ultimately they are driven by a strong sense of practicality. They know that many of these newfangled inventions end up as passing fads, so they are content to wait and see how other people are making out before they buy in themselves. They want to see well-established references before investing sub­ stantially. Because there are so many people in this segment— roughly one-third of the whole adoption life cycle—winning their business is fundamental to any substantial profits and growth. The late majority shares all the concerns of the early majority, plus one major additional one: Whereas people in the early ma­ jority are comfortable with their ability to handle a technology product, should they finally decide to purchase it, members of High-Tech Marketing Illusion 17 the late majority are not. As a result, they wait until something has become an established standard, and even then they want to see lots of support and tend to buy, therefore, from large, well- established companies. Like the early majority, this group com­ prises about one-third of the total buying population in any given segment. Courting its favor is highly profitable indeed, for while profit margins decrease as the products mature, so do the selling costs, and virtually all the R&D costs have been amortized. Finally there are the laggards. These people simply don’t want anything to do with new technology, for any of a variety of reasons, some personal and some economic. The only time they ever buy a technological product is when it is buried deep inside another product—the way, say, that a microprocessor is designed into the braking system of a new car—such that they don’t even know it is there. From a market development per­ spective laggards are generally regarded as not worth pursuing on any other basis. To recap the logic of the Technology Adoption Life Cycle, its underlying thesis is that technology is absorbed into any given community in stages corresponding to the psychological and social profiles of various segments within that community. This process can be thought of as a continuum with definable stages, each associated with a definable group, and each group making up a predictable portion of the whole. The High-Tech Marketing Model This profile is in turn the very foundation of the High-Tech Marketing Model. That model says that the way to develop a high-tech market is to work the curve left to right, focusing first 18 Crossing the Chasm on the innovators, growing that market segment, then moving on to the early adopters, growing that segment, and so on, to the early majority, late majority, and even to the laggards. In this effort, companies must use each “captured” group as a ref­ erence base for launching their marketing into the next group. Thus the endorsement of innovators becomes an important tool for developing a credible pitch to the early adopters, that of the early adopters to the early majority, and so on. The idea is to keep this process moving smoothly, progress­ ing something like the passing of a baton in a relay race or like Tarzan making his way across the jungle swinging from vine to well-placed vine. It is important to maintain momentum in order to create a bandwagon effect that makes it natural for the next group to want to buy in. Too much of a delay and the effect would be something like hanging from a motionless vine—nowhere to go but down. (Actually, going down is the graceful alternative. What happens more often is a desperate attempt to re-create momentum, typically through some highly visible form of promotion, which ends up making the company look like Tarzan frantically jerking back and forth, trying to get a vine moving with no leverage. This typically leads the other animals in the jungle just to sit and wait for him to fall.) There is an additional motive for maintaining momentum: to keep ahead of the next emerging technology. In the past decade desktop personal computers have largely been displaced by laptops, a substantial number of which are likely to be dis­ placed in this decade by tablets. You need to take advantage of your day in the sun before the next day renders you obso­ lete. From this notion comes the idea of a window of opportunity. If momentum is lost, then we can be overtaken by a compet­ itor, thereby losing the advantages exclusive to a technology High-Tech Marketing Illusion 19 leadership position—specifically, the profit-margin advantage during the middle to late stages, which is the primary source from which high-tech fortunes are made. This, in essence, is the High-Tech Marketing Model—a vision of a smooth unfolding through all the stages of the Tech­ nology Adoption Life Cycle. What is dazzling about this concept, particularly to those who own equity in a high-tech venture, is its promise of a virtual monopoly over a major new market de­ velopment. If you can get there first, “catch the curve,” and ride it up through the early majority segment, thereby establishing the de facto standard, you can get rich very quickly and “own” a highly profitable market for a very long time to come. Testimonials The Apple iPad is a prime example of leveraging the High-Tech Marketing Model end to end. Launched in 2009 after being demoed at MacWorld by Steve Jobs, its touch-interface dynam­
+>>>

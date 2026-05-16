@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-04-target-the-point-of-attack",
+  "chunk_id": "chapter-04-target-the-point-of-attack-chunk-002",
+  "source": {
+    "chapter_title": "Target the Point of Attack",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt",
+    "source_pages": "111-134",
+    "char_start": 6277,
+    "char_end": 13985,
+    "checksum": "578fdbc5018ddd86"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+-data situation quickly. And given that you must act quickly, you need to approach the decision from a different vantage point. You need to understand that informed intuition, rather than analytical reason, is the most trustworthy decision-making tool-to use. Target the Point of Attack 109 Informed Intuition Despite our culture’s anxiety about relying on nonverbal pro­ cesses, there are situations in which it is simply more effective to substitute right-brain tactics for left-brain ones. Ask any great athlete, or artist, or charismatic leader—ask any great decision maker. All of them describe a similar process, in which analyt­ ical and rational means are used extensively both in preparation
+
+for and in review of a central moment of performance. But in the moment itself, the actual decisions are made intuitively. The question is, How can we use this testimony to our advantage in crossing the chasm in a reasonable and predictable way? The key is to understand how intuition—specifically, in­ formed intuition—actually works. Unlike numerical analysis, it does not rely on processing a statistically significant sample of data in order to achieve a given level of confidence. Rather, it involves conclusions based on isolating a few high-quality images—really, data fragments—that it takes to be archetypes of a broader and more complex reality. These images simply stand out from the swarm of mental material that rattles around in our heads. They are the ones that are memorable. So the first rule of working with an image is: If you can’t remember it, don’t try, because it’s not worth it. Or, to put this in the positive form: Only work with memorable images. Now, just as in literature, where memorable characters like Hamlet or Heathcliff or Dumbledore or Voldemort stand out and become symbols for a larger segment of humanity, so in marketing can whole target populations become imagined as Gen X, Gen Y, Goths, geeks, Beibers, Dinks (Double Income, No Kids), or Henrys (High Earners, Not Rich Yet). These are 110 Crossing the Chasm all just images—stand-ins for a greater reality—picked out from a much larger set of candidate images on the grounds that they really “click” with the sum total of an informed person’s expe­ rience. Each is in effect a “poster child.” Let us call these poster children characterizations because they represent characteristic market behaviors. “Beibers,” for example, can be expected to shop at a mall, emulate a rock star, seek peer approval, and resist parental restrictions—all of which imply that certain marketing tactics will be more suc­ cessful than others in winning their dollars. Now, visionaries, pragmatists, and conservatives represent a set of images analo­ gous to Goth or geek—albeit at a higher level of abstraction. For each of these labels also represents characteristic market behaviors—specifically, in relation to adopting a discontinuous innovation—from which we can predict the success or failure of marketing tactics. The problem is, they are too abstract. They need to become more concrete, more target market specific. That is the function of target customer characterization. Target Customer Characterization: The Use of Scenarios First, please note that we are not focusing here on target market characterization. The place where most crossing-the-chasm marketing segmentation efforts get into trouble is at the be­ ginning, when they focus on a target market or target segment instead of on a target customer. Markets as categories are impersonal, abstract things: the smartphone market, the gigabit router market, the office auto­ mation market, and so on. Neither the names nor the descriptions Target the Point of Attack 111 of markets evoke any memorable images—they do not elicit the cooperation of one’s intuitive faculties. In fact, these are not “markets” at all in our sense of the term—they do not refer to populations of customers, but rather sets of competitors. We need to work with something that gives more clues about how to proceed in the presence of real people with complex mo­ tives. However, since we do not have real live customers as yet—or at least, not very many of them—we are just going to have to make them up. Then, once we have their images in mind, we can let them guide us to developing a truly responsive approach to their needs. Target customer characterization is a formal process for making up these images, getting them out of individual heads and in front of a market development decision-making group. The idea is to create as many characterizations as possible, one for each different type of customer and application for the product. (It turns out that, as these start to accumulate, they begin to re­ semble one another so that, somewhere between twenty and fifty, you realize you are just repeating the same formulas with minor tweaks, and that in fact you have outlined eight to ten distinct alternatives.) Once we have built a basic library of possible target customer profiles, we can then apply a set of techniques to reduce these “data” into a prioritized list of desirable target market seg­ ment opportunities. The quotation marks around data are key, of course, because we are still operating in a low-data situation. We just have a better set of material to work with. 3-D Printing: An Illustrative Example For the purposes of illustration, let us consider how we might market a 3-D printer. At the time of this writing, they are 112 Crossing the Chasm getting a ton of attention in the press, so there is certainly an early market for them. Basically, you input a 3-D CAD file of the object you want, and the machine builds one up by manip­ ulating a stream of polymer or laying down successive layers of a substrate. All sorts of artifacts have been prototyped, every­ thing from toys, jewelry, and artworks to medical prostheses and industrial molds, and the variety and delicacy of the resul­ tant shapes are pretty amazing. Now, let us suppose that in the next few years 3-D printers continue to win over an early market of technology enthusi­ asts (“Hey, wanna see this cool pair of flip-flops I made yes­ terday?”) and visionaries (“With 3-D printing, we can change the way eyeglass frame manufacturing is conducted—instead of make and then distribute, we can distribute and then make! Just think of the reductions in inventory and the opportunities to mass customize!”). Invisalign, the leader in next-generation orthodontia, has standardized on these methods to create their appliances, and they are revolutionizing the industry. Indus­ trial manufacturers serving the major OEMs are using them for rapid prototyping, just to make sure they get the tooling right before they kick off mass production. And Tom Cruise puts a 3-D printer in his next movie, manufacturing a plastic gun that cannot be detected by conventional screening. Now it is time to go after the mainstream market, taking market share away from traditionally manufactured products. Where would you begin? This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for. A representative format for any given scenario is il­ lustrated in the following section. A finished scenario should be limited to a single page. As you will see from the example, this is a highly tactical exercise in microcosm, but it has major Target the Point of Attack 113 implications for how marketing strategy is set overall. So as we work through the example, we will also keep an eye out for the broader implications. Sample Scenario l. HEADER INFORMATION. At the top of the page you need
+>>>

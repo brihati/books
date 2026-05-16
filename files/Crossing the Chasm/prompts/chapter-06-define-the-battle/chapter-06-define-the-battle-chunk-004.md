@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-06-define-the-battle",
+  "chunk_id": "chapter-06-define-the-battle-chunk-004",
+  "source": {
+    "chapter_title": "Define the Battle",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/06 - Define the Battle.txt",
+    "source_pages": "169-201",
+    "char_start": 18163,
+    "char_end": 25914,
+    "checksum": "62a0e8d5701cd352"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ng their value proposition. Let’s close this section by looking at two companies that have not been so fortunate. Failing to Create the Competition: The Examples of Segway and Better Place Segway at its launch was something of the Google Glass of its era—an extraordinary technology that looked, well, pretty dorky. In case you have never seen one, a Segway looks like an upright lawn mower that you stand on, and simply by leaning in the direction you want to go, it motors you there. This is all made Define the Battle 175 possible by truly superior gyroscopic technology that keeps you balanced, or rather just off balance, to move you along. The company was backed by Kleiner Perkins, at the time
+
+arguably the leading venture capital firm m the world, and was launched with great fanfare as the new people mover. Anybody who walked for a living was going to now ride—mail carriers, cops on the beat, meter readers, door-to-door salespeople, you name it. And then, well, they ran into the problem of stairs. And that definitely restricted the field of application. Still, there are plenty of flat places around, and more every day with all the investment in access, so why hasn’t the product been able to make any headway? One explanation is that it was unable to find a pair of reference competitors that made its posi­ tion make sense. There really is no market alternative out there. That is to say, there is no people mover budget to target. The closest you could get would be motorbikes or motorized wheel­ chairs or maybe golf carts, but none of these was close enough. And on the product side, there were no other companies lever­ aging this kind of disruptive technology in other market seg­ ments, so again, no way to cross-reference to success elsewhere. Segway was all by itself, and that is not a good place to be when you are trying to cross the chasm. The same held true for what looked like a much more reasonable proposition in the electric vehicle space, Shai Agassi’s Better Place. Better Place was founded on a terrific value proposition. Electric vehicles were clearly the coming thing, but charging them took so long, you could only drive them under restricted use cases. But what if the battery packs were swappable? Then you could go into a recharging station, drop off the old pack, insert a new one, and be on your way. Of course, you might risk 176 Crossing the Chasm getting stuck with a dud pack, so the way to solve for that was to have the infrastructure run, end to end, as a public utility, with the consumer simply “buying miles” the way a cell phone customer buys minutes. The idea was compelling enough to raise $850 million. But it never could get off the ground. Here the company did have a clear product alternative—the other electric vehicles on the market, the most successful of which to date has been the Tesla. But it had no market alternative. Public transportation, Zipcars, cell phones— they were all analogies. There was no budget to repurpose any­ where. Moreover, on the product side, where Renault took the lead with the first car, the end result was not sufficiently compel­ ling to attract enough consumers to utilize the infrastructure at anything like an economic capacity. The whole effort ended up twisting slowly in the wind and was wound down in 2013. In Closing In light of these cautionary tales, let me just close this section with a word of warning. If you try out this exercise of choosing the competition, and have trouble finding either a single, clear market alternative, or a credible second vendor leveraging your type of disruptive technology, this is a clue. It means that you are probably not ready to cross the chasm. Chasm crossing requires a single target beachhead segment, and in that segment, there needs to exist already the budget dollars to buy your offer. To be sure, the budget will be “mis­ named,” because it will be allocated to some brain-dead, ineffec­ tive Band-Aid approach to solving what has become a broken, mission-critical process. But it must exist, or else you will lose a full year just m educating the market to put aside money that might be used to buy your product in the following year. Define the Battle 177 Choosing your market alternative wisely is the solution to this problem. But it has to be credible. And understand that, as soon as you call out your choice, you are in for a fight. That market alternative, whoever it may be, had plans for the money you are targeting. Indeed, it considers that budget as its budget, and it will not take kindly to your actions. That’s where the product alternative comes in. You need to make clear to everyone involved that a technology shift is under way here and that old solutions simply cannot hope to keep up. Trade magazines on their best day cannot be interactive. Direct mail programs on their best day cannot catch me at the golf course. General agents on their best day cannot provide round-the-clock answers to consumer questions—at least not cost-effectively. It is not your intent to deride the performance of the established Old Guard. Indeed, you should honor it, as your target customer has long-standing relationships with these vendors. Rather, it is to suggest that a new wave is coming, and that you intend to domesticate that technology to the same ends as these tried-and-true solution providers. So, market alternatives call out the budget and thus the market category, and product alternatives call out the differentiation. It sounds a lot like positioning, the topic to which we will now turn. Positioning Creating the competition, more than anything else, represents a watershed moment in positioning. Positioning is the most dis­ cussed and least understood component of high-tech marketing. You can keep yourself from making most positioning gaffes if you will simply remember the following principles: 178 Crossing the Chasm 1. Positioning, first and foremost, is a noun, not a verb. That is, it is best understood as an attribute associated with a company or a product, and not as the marketing contortions that people go through to set up that association. 2. Positioning is the single largest influence on the buying decision. It serves as a kind of buyers’ shorthand, shaping not only their final choice but even the way they evaluate alternatives leading up to that choice. In other words, evaluations are often simply rationalizations of preestablished positioning. 3. Positioning exists in people’s heads, not in your words. If you want to talk intelligently about positioning, you must frame a position in words that are likely to actually exist in other people’s heads, and not in words that come straight out of hot advertising copy. 4. People are highly conservative about entertaining changes in positioning. This is just another way of saying that people do not like you messing with the stuff that is inside their heads. In general, the most effective positioning strategies are the ones that demand the least amount of change. Given all of the above, it is then possible to talk about posi­ tioning as a verb—a set of activities designed to bring about posi­ tioning as a noun. Here there is one fundamental key to success: When most people think of positioning in this way, they are thinking about how to make their products easier to sell. But the correct goal is to make them easier to buy. Companies focus on making products easier to sell because that is what they are worried about—selling. They load their marketing communications with every possible selling argu­ ment, following the age-old axiom that if you throw a lot Define the Battle 179 of mud at a wall, some of it is bound to. stick.
+>>>

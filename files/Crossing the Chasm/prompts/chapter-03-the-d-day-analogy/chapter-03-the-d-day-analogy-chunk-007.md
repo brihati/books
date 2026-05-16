@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-03-the-d-day-analogy",
+  "chunk_id": "chapter-03-the-d-day-analogy-chunk-007",
+  "source": {
+    "chapter_title": "The D-Day Analogy",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/03 - The D-Day Analogy.txt",
+    "source_pages": "82-110",
+    "char_start": 41541,
+    "char_end": 49284,
+    "checksum": "784e480968dbc34b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+t a beach­ head segment that is: • Big enough to matter • Small enough to win, and a • Good fit with your crown jewels. That’s what Salesforce did. By confining itself to the activities and the budgets of a single department, it was able to win more territory faster than if it had gone after a suite of applications crossing sales, service, and marketing. That would have required many more approvals and given the incumbents lots of chances to derail or at least slow down their growth. And because all their industries were U.S.-centered and “tech savvy,” and because salespeople tend to job hop more than other professions, there was plenty of cross-pollination to help spread the demand virally.
+
+There really wasn’t much the incumbents could do to block them. All they could try really was to keep them out of the enterprise, which worked fine for a while, until Merrill Lynch caved and bought ten thousand seats, and then other finan­ cial services enterprises joined in the fray, and then the attack bloomed to full force. By that time, of course, the chasm was well in the rearview mirror. VMware: Disruptive Infrastructure Crosses the Chasm VMware makes software that “virtualizes” computers. What does that mean? Basically their software takes over a computer so that two different programs can run at the same time with The D-Day Analogy 99 each one in complete control of its own environment. It can also flip this idea by taking over two or more computers at the same time and making them look like a single great big one. Either way, applications do not see the actual computer but in­ stead see a “virtual” computer, designed specifically for the pur­ pose at hand. Okay, but so what? Of course, that is precisely the question the world always asks of a disruptive innovation, and the se­ quence of unfolding answers follows the Technology Adoption Life Cycle. Here’s how it played out in VMware’s case. The first use case adopted for VMware came from techies who wanted to be able to run both the Windows and the Linux operating systems on the same PC. This is something like want­ ing to run an automobile both on gasoline and compressed nat­ ural gas—-unless you are a technology specialist, it is not likely you would be interested at all. But if you do write code, and at the same time are part of a larger organization, then you are quite likely to need your PC both for standard business appli­ cations (which typically run under Windows) and the techni­ cal applications you are developing (which typically run under some variant of Linux). In that case, being able to do all your work on one machine is a boon. So when VMware launched its first product for ninety-nine dollars, downloadable over the Internet, targeted at the PC aftermarket, it captured a strong position among technology enthusiasts. The next two applications were more or less extensions of this same idea, creating a broader footprint for the same soft­ ware, appealing still primarily to technologists. The first was to run two Windows applications on the same PC server. While in theory you did not need VMware to do this—Microsoft Windows itself supported the capability—in practice there were 100 Crossing the Chasm enough problems doing so that people just didn’t. As a result, there were a whole lot of PC servers dedicated to running just one application, which can get expensive, especially when the second or third application is one you don’t use all that often. VMware was designed to run two operating systems at the same time—so it did not care that both were actually the same. And it was robust enough that running two applications in tandem, the thing that created glitches for Windows, worked just fine. Score another small victory for the technologically astute. And that led to another variation of this theme: running one application on two or more servers. Here the problem was that the application was getting so much use it was running out of room on a single server. The conventional answer was to buy a bigger server. The VMware answer was to use spare capacity from a second server—effectively for free. When budgets are flush, you might not worry about this. But in the years fol­ lowing the dot-com bust, IT departments were under increas­ ing pressure to do more with less. Score another victory for VMware. All these successes were pre-chasm, based on individuals ap­ plying technical know-how to solve corner-case problems. To cross the chasm you need a use case that poses equally challeng­ ing problems for the status quo solutions on a recurring basis. In the case of VMware its chasm-crossing use case showed up in the testing phase of the software development life cycle. Think about it. You develop code semi-privately, and you can test for bugs on your own machine. But at some point you are going to want to run this thing in production, and before you do that, you will want to te.st it with a production load. You can’t literally put it in production, so you have to spin up The D-Day Analogy 101 a shadow set of computers in parallel—and that’s a lot of com­ pute power. Moreover, you only want it for a relatively short period, after which you will put your program in production and will no longer need the test bench anymore. But this “spin up, spin down” approach is expensive—both in terms of getting the hardware and getting the system precisely configured to simulate your production environment accurately. VMware came to the rescue. Not only could you reuse hardware you already had; you also could “save” your special­ ized testing environment so that you could load it back up in a jiffy. This meant a single hardware farm could simulate any number of production use cases, and it was available more or less upon demand. This was a huge win for systems administrators everywhere, and it was that use case that allowed VMware to cross the chasm. Once it was across, additional use cases cascaded from this first one, subsequently allowing VMware to grow to the $5 bil­ lion company it is at the time of this writing. Once the systems administrator’s needs had been handled, focus shifted to the IT operations manager. The word had gone out—we have to do more with less—how can we save money on hardware? Answer, “virtualize” the PCs we have. It turned out the unutilized ca­ pacity was staggering—as much as 90 percent! It was like some­ one backed up a truck and started unloading free PCs. Any wonder VMware grew like a weed during this period? Later use cases got into reliability (“The email server never seems to go down anymore!”), making the VP of operations a much happier person, and agility (“This cloud thing is really cool!”), bringing a smile to the chief information officer’s face. Virtualization, in sum, had become a pervasive computing 102 Crossing the Chasm strategy, a fundamental principle of provisioning servers across all applications. To be sure, this was well after the chasm had been crossed, but understand this was the dream from the very beginning. The key lesson for us here is that, despite the mag­ nitude of this dream and its relevance to VPs of operations and CIOs everywhere, it was the lowly systems administrator with the niche market problem of simulating production environ­ ments for software testing who was the hero of our chasm­ crossing venture. From Idea to Implementation The three previous examples illustrate the idea of crossing the chasm. Now it is time to move on to its actual implementation. In the next four chapters we will break up that challenge into four pieces. First we will look at how to select the point of attack, the place to cross, the beachhead, the head bowling pin.
+>>>

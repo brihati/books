@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-011",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 69804,
+    "char_end": 77596,
+    "checksum": "cc719144cfd8e7b4"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+st entirely on this principle of remarketing other companies’ often cast-off products. Alternatively, if we truly have a breakthrough product but we are stalled in getting the early market moving, then we have to step down from the lofty the­ oretical plateau on which we have established that this High-Tech Marketing Enlightenment 53 product can be part of any number of exciting applica­ tions and get very practical about focusing on one appli­ cation, making sure that it is indeed a compelling one for at least one visionary who is already familiar with us, and then committing to that visionary, in return for his or her support, to removing every obstacle to getting that application adopted.
+
+These are some of the most common ways in which an early market development effort can go off—and be put back on—track. For the most part, the problems are solv­ able because there are always multiple options at the outset of anything. The biggest problem is typically overly ambi­ tious expectations combined with undercapitalization—or, as my grandmother used to put it, when your eyes are bigger than your stomach. Things get a lot more complex when we are dealing with the dynamics of mainstream markets, to which we shall now turn. Mainstream Markets Mainstream markets in high tech look a lot like mainstream markets in any other industry, particularly where enterprises are selling to other enterprises. They are dominated by the early majority, who in high tech are best understood as prag­ matists, who, in turn, tend to be accepted as leaders by the late majority, best thought of as conservatives, and rejected as leaders by the laggards, or skeptics. As in the previous chapter, we are going to look closely at how the psychographics of each of these groups influences the development and dynamics of a high-tech market. 54 Crossing the Chasm Early Majority: The Pragmatists Throughout the history of high tech, the early majority, or pragmatists, have represented the bulk of the market volume for any technology product. You can succeed with the visionaries, and you can thereby get a reputation for being a high flyer with a hot product, but that is not ultimately where the dollars are. Instead, those funds are in the hands of more prudent souls, who do not want to be pioneers (“Pioneers are people with arrows in their backs”), who never volunteer to be an early test site (“Let somebody else debug your product”), and who have learned the hard way that the “leading edge” of technology is all too often the “bleeding edge.” Who are the pragmatists? Actually, important as they are, they are hard to characterize because they do not have the vi­ sionary’s penchant for drawing attention to themselves. They are not the Hamlets but the Horatios, not the Don Quixotes but the Sancho Panzas, in character more like Harry Potter than Dirty Harry—people who do not assert a position in life so much as derive one from what life provides. Never the stand­ out, they are what makes for the continuity, so that after the star either dies (tragedy) or rides off into the sunset (heroic romance, comedy), they are left to clean up and to answer the inevitable final question: Who was that masked man? In the realm of high tech, pragmatist CEOs are not common, and those there are, true to their type, tend to keep a rela­ tively low profile. Dan Warmenhoven at NetApp, Jeff Weiner at Linkedln, John Chen at Sybase, John Donahoe at eBay, even such visible leaders as Meg Whitman at HP and Michael Dell at Dell—low on drama, high on integrity and commitment. They tend to be best known by their closest colleagues, from whom they typically have earned the highest respect, and by High-Tech Marketing Enlightenment 55 their peers within their industry, where they show up near the top of the leaderboard year after year. Of course, to market successfully to pragmatists, one does not have to be one—-just understand their values and work to serve them. To look more closely into these values, if the goal of visionaries is to take a quantum leap forward, the goal of prag­ matists is to make a percentage improvement—incremental, measurable, predictable progress. If they are installing a new product, they want to know how other people have fared with it. The word risk is a negative one in their vocabulary—it does not connote opportunity or excitement but rather the chance to waste money and time. They will undertake risks when re­ quired, but they first will put in place safety nets and manage the risks very closely. The Fortune 2000 IT community, as a group, is led by people who are largely pragmatist m orientation. Business de­ mands for increased productivity push them toward the front of the adoption life cycle, but natural prudence and budget restrictions keep them cautious. As individuals, pragmatists held back from using software-as-a-service applications until Salesforce.com made it safe to enter the water, held back from supporting bring-your-own-device policies until companies like Mobilelron and Air watch offered mobile device manage­ ment solutions, and held back from investing in video until Cisco made telepresence a household word. If pragmatists are hard to win over, they are loyal once won, often enforcing a company standard that requires the purchase of your product, and only your product, for a given requirement. This focus on standardization is, well, pragmatic, in that it sim­ plifies internal service demands. But the secondary effects of this standardization on your growth and profitability—increasing 56 Crossing the Chasm sales volumes and lowering the cost of sales—is dramatic. Hence the importance of pragmatists as a market segment. The most celebrated example and beneficiary of this effect in the last decade of the twentieth century was Microsoft. It cre­ ated dominant market positions in desktop operating systems, office automation, and departmental servers, such that a decade later the enterprise landscape looked very homogeneous. At the same time, however, as each of these markets was developing, enterprise IT as a category also supported a variety of'second- tier vendors, and each of these vendors was also able to carve out its own pragmatist enclave of its own. In the engineering community, customers gravitated to Sun’s Solaris; in the graph­ ics community, to Macintoshes; in the workgroup, to Novell Netware; in the Fortune 500 replicated-site environments of branch banking and retail, to OS/2; in the VAR-dominated professional services systems for doctors and dentists, to SCO Unix; and m consulting and financial services, to Lotus Notes. While Microsoft won out in the end, each one of these compa­ nies was able to ride a pragmatist wave within a specific market to boost its sales a quantum leap upward. It is crucial, therefore, for every long-term strategic marketing plan to understand the pragmatist buyers and to focus on winning their trust. When pragmatists buy, they care about the company they are buying from, the quality of the product they are buying, the infrastructure of supporting products and system interfaces, and the reliability of the service they are going to get. In other words, they are planning on living with this decision personally for a long time to come. (By contrast, the visionaries are more likely to be planning on implementing the great new order and then using that as a springboard to their next great career step upward.) Because pragmatists are m it for the long haul, and High-Tech Marketing Enlightenment 57 because they control the bulk of the dollars in the marketplace, the rewards for building relationships of trust with them are very much worth the effort.
+>>>

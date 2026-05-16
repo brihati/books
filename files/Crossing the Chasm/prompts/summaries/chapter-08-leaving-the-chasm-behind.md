@@ -1,0 +1,565 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-08-leaving-the-chasm-behind
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-001",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 6940,
+      "char_start": 0,
+      "checksum": "95f826a1132d2bb1",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, market development. Conclusion: Leaving the Chasm Behind It has long been fashionable to talk about how high-tech com panies can and should become market-driven organizations. The chasm phenomenon—the rapid acceleration in market development followed by a dramatic lull, occurring whenever a discontinuous innovation is introduced—drives all emerging high-tech enterprises to a point of crisis where they must leave the relative safety of their established early market and go out m search of a new home in the mainstream.",
+    "key_points": [
+      "Conclusion: Leaving the Chasm Behind It has long been fashionable to talk about how high-tech com panies can and should become market-driven organizations",
+      "The chasm phenomenon—the rapid acceleration in market development followed by a dramatic lull, occurring whenever a discontinuous innovation is introduced—drives all emerging high-tech enterprises to a point of crisis where they must leave the relative safety of their established early market and go out m search of a new home in the mainstream",
+      "By looking ahead at the outset, while we are still in the early market phase, to where we must go in order to survive the chasm crisis, we can vaccinate our selves against making the kind ofcrippling decisions that doom so many otherwise promising high-tech enterprises",
+      "Early market revenues are one measure of Leaving the Chasm Behind 217 this demand, but they are typically not—nor are they expected to be—a source of profit"
+    ],
+    "arguments": [
+      "Conclusion: Leaving the Chasm Behind It has long been fashionable to talk about how high-tech com panies can and should become market-driven organizations",
+      "The chasm phenomenon—the rapid acceleration in market development followed by a dramatic lull, occurring whenever a discontinuous innovation is introduced—drives all emerging high-tech enterprises to a point of crisis where they must leave the relative safety of their established early market and go out m search of a new home in the mainstream",
+      "The key question is whether management can become aware of the changes in time to leverage the opportunities such awareness confers"
+    ],
+    "examples": [
+      "The good news is, in either case, there will always be plenty of jobs",
+      "In building an early market, the fundamental return on investment is investor risk re duction, accomplished through converting an amalgam of tech nology, services, and ideas into a replicable deploy able offer ing and proving that there are customer use cases that create a demand for this offer"
+    ],
+    "stories": [
+      "The good news is, in either case, there will always be plenty of jobs",
+      "In building an early market, the fundamental return on investment is investor risk re duction, accomplished through converting an amalgam of tech nology, services, and ideas into a replicable deploy able offer ing and proving that there are customer use cases that create a demand for this offer"
+    ],
+    "definitions": [
+      "The fundamental lesson of this chapter is a simple one: The post-chasm enterprise is bound by the commitments made by the pre chasm enterprise",
+      "This means that one of the first tasks of the post-chasm era may well be to manage one’s way out of the contradictions imposed by pre-chasm agreements",
+      "To leave the chasm behind, there is a molting process that must occur, a change of company self, wherein we grow away from celebrating familial feelings and dashing individual per formances and step toward rewarding predictable, orchestrated group dynamics"
+    ],
+    "names": [
+      "Chasm Behind It",
+      "R&D. Our",
+      "Chasm Behind",
+      "Hockey Stick The"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "market development",
+      "discontinuous innovation",
+      "market-driven"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-002",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 13979,
+      "char_start": 6240,
+      "checksum": "29c1fce0e437f03f",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, whole product. That is, there is an initial period of rapid revenue growth, representing the development of the early market, followed by a period of Leaving the Chasm Behind 219 slow to no growth (the chasm period), followed by a second phase of rapid growth, representing return on one’s initial mainstream market development. By ana lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors,...",
+    "key_points": [
+      "Early market revenues are one measure of Leaving the Chasm Behind 217 this demand, but they are typically not—nor are they expected to be—a source of profit",
+      "That is, there is an initial period of rapid revenue growth, representing the development of the early market, followed by a period of Leaving the Chasm Behind 219 slow to no growth (the chasm period), followed by a second phase of rapid growth, representing return on one’s initial mainstream market development",
+      "The chasm model asserts that no mainstream market can occur until the whole product is in place",
+      "By ana lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind"
+    ],
+    "arguments": [
+      "If ven ture capitalists are the ones with the money, and a hockey stick forecast is one of the rules you follow to get that money, then they will be sure to follow those rules",
+      "As such, it would serve as the “master line” in the spreadsheet, the one to which all others must ac count",
+      "Now, if the current model of high-tech market development were not flawed, this might work, or at least work better or more often"
+    ],
+    "examples": [
+      "In building an early market, the fundamental return on investment is investor risk re duction, accomplished through converting an amalgam of tech nology, services, and ideas into a replicable deploy able offer ing and proving that there are customer use cases that create a demand for this offer",
+      "But in fact, the revenue development that actually occurs looks more like a staircase than a hockey stick",
+      "This staircase can continue indefinitely, with the flat periods representing slower growth due to transitioning into adjacent mainstream segments, and the rapid rises representing the ability to capitalize on those efforts"
+    ],
+    "stories": [
+      "In building an early market, the fundamental return on investment is investor risk re duction, accomplished through converting an amalgam of tech nology, services, and ideas into a replicable deploy able offer ing and proving that there are customer use cases that create a demand for this offer",
+      "But in fact, the revenue development that actually occurs looks more like a staircase than a hockey stick"
+    ],
+    "definitions": [
+      "So early market entrepreneurs are not called to focus on, nor are they oriented toward, making money",
+      "That is, they bring forward a business plan that shows no rev enue development for some period of time—as long as they possibly can defer—after which there is a sharp inflection in the curve, and rapid, continuous, and what any sane person would call miraculous revenue growth from there on",
+      "In fact, however, the revenue line is a slave—and to not just one but two masters"
+    ],
+    "names": [
+      "Chasm Behind",
+      "Wall Street",
+      "Venture-Financing Community All"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "whole product",
+      "target customer",
+      "competition",
+      "market development",
+      "compelling reason to buy",
+      "segment"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-003",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 13979,
+      "char_start": 13279,
+      "checksum": "c7ed7d527e990772",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses chasm, mainstream market, whole product, target customer. The chasm model asserts that no mainstream market can occur until the whole product is in place. By ana lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind",
+    "key_points": [
+      "as long as it takes to create and install a sustainable whole product",
+      "The chasm model asserts that no mainstream market can occur until the whole product is in place",
+      "A reasonable corollary, I believe, is that once the whole product is in place—m other words, has become institutionalized—the market will develop quickly— normally, although not necessarily, around the company that drove and led the whole product effort",
+      "By ana lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind"
+    ],
+    "arguments": [],
+    "examples": [],
+    "stories": [],
+    "definitions": [],
+    "names": [
+      "Chasm Behind"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "chasm",
+      "mainstream market",
+      "whole product",
+      "target customer",
+      "compelling reason to buy"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about chasm"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-004",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 21060,
+      "char_start": 13279,
+      "checksum": "9e717a57e821be58",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, whole product. By ana lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind 221 each of which can be projected ahead in time, with an estimated point of convergence. By contrast, the other market-making factors—alliances, competition, positioning, distribution, and pricing—do not impact the size of market but rather the rate of market penetration.",
+    "key_points": [
+      "The chasm model asserts that no mainstream market can occur until the whole product is in place",
+      "By ana lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind 221 each of which can be projected ahead in time, with an estimated point of convergence",
+      "By contrast, the other market-making factors—alliances, competition, positioning, distribution, and pricing—do not impact the size of market but rather the rate of market penetration",
+      "And as for distribution and pricing, don’t look for “stan dard margins” until the chasm has truly been crossed"
+    ],
+    "arguments": [
+      "Given free market economy incentives, ef ficient solutions in these areas will fall into place sooner or later if the market is truly there",
+      "If all the preceding assertions are true—and that is certainly something that warrants further investigation in any specific case—then all the key factors of the investment decision are reasonably out in the open, and the decision itself can be made without having to consult the entrails of a sacrificial animal",
+      "There will still be plenty of room for disagreement about probability of success and degree of risk, but there should not be any funda mental leap of faith demanded"
+    ],
+    "examples": [
+      "Again, the simple answer is, As big as can be motivated by the target market’s use case—its compelling reason to buy—as served by the whole product",
+      "If all the preceding assertions are true—and that is certainly something that warrants further investigation in any specific case—then all the key factors of the investment decision are reasonably out in the open, and the decision itself can be made without having to consult the entrails of a sacrificial animal",
+      "In fact, in slow-developing markets with low capitalization require ments, there is a very strong case for adopting profitability from day one"
+    ],
+    "stories": [
+      "Again, the simple answer is, As big as can be motivated by the target market’s use case—its compelling reason to buy—as served by the whole product",
+      "If all the preceding assertions are true—and that is certainly something that warrants further investigation in any specific case—then all the key factors of the investment decision are reasonably out in the open, and the decision itself can be made without having to consult the entrails of a sacrificial animal"
+    ],
+    "definitions": [
+      "In fact, in slow-developing markets with low capitalization require ments, there is a very strong case for adopting profitability from day one",
+      "In that kind of game, the race really is to the swiftest, and second prize is a long way back from first, so spending early and big is seen as the key to success",
+      "Beyond this there is a third, more general principle that can help entrepreneurs think through their management of capital for marketing purposes"
+    ],
+    "names": [
+      "Chasm Behind",
+      "Venture-Managing Community Now",
+      "IBM PC Jr"
+    ],
+    "dates": [],
+    "numbers": [
+      "100 percent"
+    ],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "whole product",
+      "target customer",
+      "D-Day",
+      "competition",
+      "positioning",
+      "distribution",
+      "pricing",
+      "market development",
+      "market leadership"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-005",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 28071,
+      "char_start": 20360,
+      "checksum": "ad3cf8416eb27c65",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, pragmatists. You do need to invest in early market public relations—the product launch is Leaving the Chasm Behind 225 crucial to building early market success—but you do not need to advertise, nor do you need to invest in developing partnerships or building channel relationships. The key to leaving the chasm behind is to stop custom developments and institutionalize the whole product, to build to a set of standards that the marketplace as a whole, or at least one segment of it, can support.",
+    "key_points": [
+      "You do need to invest in early market public relations—the product launch is Leaving the Chasm Behind 225 crucial to building early market success—but you do not need to advertise, nor do you need to invest in developing partnerships or building channel relationships",
+      "It is important, therefore, that you not start this process until after you have established early market leadership, and that you not commit to throwing off all kinds of cash during the chasm period",
+      "Organizational Decisions: From Pioneers to Settlers Turning from issues of finance to issues of people, we must recognize that the chasm inherently separates visionaries from pragmatists—not only among the customers for technology based offerings but also among the companies that serve them",
+      "The key to leaving the chasm behind is to stop custom developments and institutionalize the whole product, to build to a set of standards that the marketplace as a whole, or at least one segment of it, can support"
+    ],
+    "arguments": [
+      "the swiftest, and second prize is a long way back from first, so spending early and big is seen as the key to success",
+      "You have to be able to travel to make direct sales calls, and show up looking presentable, and you probably should have an office and a phone that is answered in a professional way",
+      "It is important, therefore, that you not start this process until after you have established early market leadership, and that you not commit to throwing off all kinds of cash during the chasm period"
+    ],
+    "examples": [],
+    "stories": [],
+    "definitions": [
+      "the swiftest, and second prize is a long way back from first, so spending early and big is seen as the key to success",
+      "Beyond this there is a third, more general principle that can help entrepreneurs think through their management of capital for marketing purposes",
+      "To be sure, there is a minimum level of capitalization required"
+    ],
+    "names": [
+      "IBM PC Jr",
+      "Chasm Behind",
+      "From Pioneers",
+      "Settlers Turning"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "pragmatists",
+      "visionaries",
+      "whole product",
+      "distribution",
+      "channel",
+      "market development",
+      "market leadership",
+      "infrastructure",
+      "partners"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-006",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 35072,
+      "char_start": 27372,
+      "checksum": "3c783cbc9ee98e4a",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, pragmatists. These are their “real titles,” the ones under which they are hired, the ones that are most appropriate for their business cards But during the chasm transition they should be assigned unique, one-time-only responsibilities, and while they are in that mode, we will use their “interim” titles: The target market segment manager has one goal in his or her... This includes all the elements on the crossing-the-chasm agenda, from target customer identification through to pricing.",
+    "key_points": [
+      "These are their “real titles,” the ones under which they are hired, the ones that are most appropriate for their business cards But during the chasm transition they should be assigned unique, one-time-only responsibilities, and while they are in that mode, we will use their “interim” titles: The target market segment manager has one goal in his or her",
+      "The process works like this: Once you have closed such an account as part of an early market sales program, assign the target market segment man ager as its account manager with a charter that allows him the kind of extensive customer contact that will let him really learn how their business works. • He must attend the trade shows, read the literature",
+      "The market segment manager should not be expected to generate additional revenue from the account in the short term, because the visionaries believe they have already paid for every possible modification they might need",
+      "This includes all the elements on the crossing-the-chasm agenda, from target customer identification through to pricing"
+    ],
+    "arguments": [
+      "and threatening their livelihood, is immoral—even if businesses and governments routinely do so with abandon",
+      "Leaving the Chasm Behind 229 Two New Job Descriptions The key is to initiate the transition by introducing two new roles during the crossing-the-chasm effort",
+      "These are their “real titles,” the ones under which they are hired, the ones that are most appropriate for their business cards But during the chasm transition they should be assigned unique, one-time-only responsibilities, and while they are in that mode, we will use their “interim” titles: The target market segment manager has one goal in his or her"
+    ],
+    "examples": [],
+    "stories": [],
+    "definitions": [
+      "How we would go forward and under what kind of compensation program is a discussion we need to postpone until we look at how to make the transition to the other side of the equation, to the settlers who are expected to come in and take their place",
+      "The first of these might be called the target market segment manager, and the second the whole product manager",
+      "The Whole Product Manager While the target market segment manager is pursuing these tasks in the customer’s environment, there is a corresponding internal role to be filled"
+    ],
+    "names": [
+      "Old West. All",
+      "Chasm Behind",
+      "Two New Job Descriptions The"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "pragmatists",
+      "visionaries",
+      "whole product",
+      "target customer",
+      "market segment",
+      "beachhead",
+      "distribution",
+      "pricing",
+      "channel"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-007",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 42096,
+      "char_start": 34373,
+      "checksum": "c57a7160e36b7c68",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, whole product. manager is always a member of the mar keting organization, never of the development group, and is responsible for bringing the product to the marketplace and making it accessible to the distribution channel. This includes all the elements on the crossing-the-chasm agenda, from target customer identification through to pricing.",
+    "key_points": [
+      "manager is always a member of the mar keting organization, never of the development group, and is responsible for bringing the product to the marketplace and making it accessible to the distribution channel",
+      "This includes all the elements on the crossing-the-chasm agenda, from target customer identification through to pricing",
+      "The tactic, which at once secures proper management of Leaving the Chasm Behind 233 the list and initiates a transition process from pioneer to settler culture in the development side of the house, is to take this list away from the product manager and give it to the whole prod uct manager",
+      "Even when there has been a major Leaving the Chasm Behind 235 up-front payment, the rational way to book this business is to defer recognizing the larger order until it has been confirmed"
+    ],
+    "arguments": [
+      "If this list is not managed properly, it will bring the entire development organization to its knees",
+      "To be sure, they must eventually be fulfilled—unless they are to be negotiated away—but in either case, they should not be given automatic priority over other issues",
+      "What should increasingly become the prioritizing factor for on going product development work is contribution to mainstream, pragmatist customer satisfaction—in other words, contribution to the whole product—hence, the need to transfer authority"
+    ],
+    "examples": [
+      "To be sure, they must eventually be fulfilled—unless they are to be negotiated away—but in either case, they should not be given automatic priority over other issues",
+      "Because the pioneer salesperson will be moving on, we do not want an extended compensation program, and thus equity, for example, is an inappropriate vehicle Taking all this together, the situation argues for a bonus-based program more than a straight commission approach—something lucrative for the salesperson, event-driven and over and done with"
+    ],
+    "stories": [
+      "To be sure, they must eventually be fulfilled—unless they are to be negotiated away—but in either case, they should not be given automatic priority over other issues",
+      "Because the pioneer salesperson will be moving on, we do not want an extended compensation program, and thus equity, for example, is an inappropriate vehicle Taking all this together, the situation argues for a bonus-based program more than a straight commission approach—something lucrative for the salesperson, event-driven and over and done with"
+    ],
+    "definitions": [
+      "It is a highly exter nally focused job",
+      "Now, the whole product manager is a product-marketing- manager-to-be",
+      "Until there is a successful crossing of the chasm, there are no meaningful market relationships or un derstandings to drive the future of product development"
+    ],
+    "names": [
+      "Chasm Behind",
+      "Compensation This"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "whole product",
+      "target customer",
+      "market segment",
+      "distribution",
+      "pricing",
+      "channel",
+      "market development",
+      "market-driven",
+      "segment"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-008",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 49145,
+      "char_start": 41396,
+      "checksum": "8a281aea43c03e2d",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, whole product. Mainstream success, as Leaving the Chasm Behind 237 we have argued at length, is a function of the whole product, not the core product, and that is a very large team effort indeed. R&D Decisions: From Products to Whole Products At the outset of this book, we set crossing the chasm as the fundamental marketing priority in high tech.",
+    "key_points": [
+      "Mainstream success, as Leaving the Chasm Behind 237 we have argued at length, is a function of the whole product, not the core product, and that is a very large team effort indeed",
+      "R&D Decisions: From Products to Whole Products At the outset of this book, we set crossing the chasm as the fundamental marketing priority in high tech",
+      "Leaving the Chasm Behind 239 Instead, the top guns rush out to create more discontinu ous innovations, flooding the market with far more technology than it can possibly absorb, and complaining all the while about how product life cycles are becoming shorter and shorter",
+      "They play the game, in other words, almost entirely to the left of the chasm, cycling through endless repetitions of early markets that never cross over to the mainstream"
+    ],
+    "arguments": [
+      "So, although we would like the compensation to be front-loaded, there must also be a reality check built into the process",
+      "Because the pioneer salesperson will be moving on, we do not want an extended compensation program, and thus equity, for example, is an inappropriate vehicle Taking all this together, the situation argues for a bonus-based program more than a straight commission approach—something lucrative for the salesperson, event-driven and over and done with",
+      "Thus, should that product become a mainstream market hit, they feel they should get a major share of the gains"
+    ],
+    "examples": [
+      "Because the pioneer salesperson will be moving on, we do not want an extended compensation program, and thus equity, for example, is an inappropriate vehicle Taking all this together, the situation argues for a bonus-based program more than a straight commission approach—something lucrative for the salesperson, event-driven and over and done with",
+      "Let’s look at two examples: focus groups and packag ing studies",
+      "Until this is the case, con sumers get in way over their heads trying to anticipate the value and usage of a new high-tech product"
+    ],
+    "stories": [
+      "Because the pioneer salesperson will be moving on, we do not want an extended compensation program, and thus equity, for example, is an inappropriate vehicle Taking all this together, the situation argues for a bonus-based program more than a straight commission approach—something lucrative for the salesperson, event-driven and over and done with",
+      "Let’s look at two examples: focus groups and packag ing studies"
+    ],
+    "definitions": [
+      "Mainstream success, as Leaving the Chasm Behind 237 we have argued at length, is a function of the whole product, not the core product, and that is a very large team effort indeed",
+      "What pioneer technologists do have a right to is a larger share of the early market returns, because here it truly is the core prod uct that drives success",
+      "This is a compromise, to say the least, as equity should be reserved for people who cross the chasm and stay—not the pioneers’ ideal role, but still a more frequent occurrence than them leaving the company"
+    ],
+    "names": [
+      "Compensating Developers Moving",
+      "Chasm Behind",
+      "From Products",
+      "Whole Products At",
+      "Dreams. That",
+      "R&D. Whole",
+      "George Washington",
+      "Ask Adobe",
+      "Mac. An Emerging Discipline Whole"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "whole product",
+      "market segment",
+      "distribution",
+      "high-tech marketing",
+      "segment"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-009",
+    "source": {
+      "chapter_title": "Leaving the Chasm Behind",
+      "char_end": 51874,
+      "char_start": 48446,
+      "checksum": "0909656594df568b",
+      "source_pages": "218-246",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, pragmatists. We began by isolating a fundamental flaw in the prevailing High-Tech Marketing Model—the notion that rapid mainstream market growth Leaving the Chasm Behind 241 could follow continuously on the heels of early market success. Finally, we had to launch the invasion, selecting our intended distribution channel and setting our pricing to give us motivational leverage over that channel.",
+    "key_points": [
+      "We began by isolating a fundamental flaw in the prevailing High-Tech Marketing Model—the notion that rapid mainstream market growth Leaving the Chasm Behind 241 could follow continuously on the heels of early market success",
+      "By analyzing the characteristics of visionaries and pragmatists, we were able to see that a far more normal development would be a chasm period of little to no growth",
+      "The fundamental strategic principle was to launch a D-Day type of invasion, one focused on a highly specific target seg ment within a mainstream marketplace",
+      "Finally, we had to launch the invasion, selecting our intended distribution channel and setting our pricing to give us motivational leverage over that channel"
+    ],
+    "arguments": [
+      "The information they give back, therefore, is valuable",
+      "Think how many dollars could be diverted into better ends that today go to expensive support services, all because our products are packaged in confusing or obtuse ways",
+      "In either case, engineering must be a direct partner in the effort, or it is wasted"
+    ],
+    "examples": [
+      "Consider another discipline that today is far more advanced in consumer marketing than in high tech—packaging",
+      "In either case, engineering must be a direct partner in the effort, or it is wasted"
+    ],
+    "stories": [
+      "Consider another discipline that today is far more advanced in consumer marketing than in high tech—packaging",
+      "In either case, engineering must be a direct partner in the effort, or it is wasted"
+    ],
+    "definitions": [],
+    "names": [
+      "Leaving This Book Behind By",
+      "High-Tech Marketing",
+      "Chasm Behind"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "pragmatists",
+      "visionaries",
+      "whole product",
+      "target customer",
+      "D-Day",
+      "invasion",
+      "competition",
+      "positioning",
+      "distribution"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Use the beachhead as a base for adjacent segments rather than diffusing effort too early",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  }
+]
+```

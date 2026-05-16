@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-009",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 55120,
+    "char_end": 62769,
+    "checksum": "eb3548a54019ce1f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e them more. For example, some people may be willing to pay a premium to arrive in convenience. These riders are a natural ﬁt to the SUVs and limousines that make up UberBlack. Other riders simply want the no-frills privacy of UberX. Uber has been reaching new segments organically by creating customer experiences around different values and the segment’s willing- ness to pay. Not All Dollars Are Created Equal In addition to understanding what each of its customer segments wants and values, Uber understands what they want to avoid. That’s why one of the best parts of Uber is that you do not have to tip. In fact, there’s no way to do so. As with most of Uber’s pricing model, this is by design.
+
+“Travis could have very easily built a tip tool,” Gurley notes. “One of the most keen insights in the history of the company is that the tipping moment causes anxiety. He wanted people to think it was their car and just get in and get out.” In Chapter 11, we discussed behavioral pricing tactics. You might think a dollar spent on a fare is the same as a dollar spent on a tip. Uber saw that from a behavioral standpoint, this was simply not true. Learning from the Best 187 “I think a lot of these pricing and product decisions are about taking the consumer out of the uncomfortable or anxious place they might be at,” says Gurley. “You need to remove the burden of decision making as to whether you need to give 5 percent or 10 percent when you are in a hurry; in exchange your customers would love you for it.” Summary: New Roads Uber plans to eventually reach everyone. This means creating products to appeal to the elderly and differently abled (UberASSIST) with high- access vehicles manned by drivers capable of performing CPR. It even means UberChopper for those who can afford to pay to arrive ASAP. It also means UberEATS for people who want their food delivered on time. Uber has and plans to continue to leverage clever segmentation to stretch its net as broadly as possible. Ultimately Uber wants to—and is set on a trajectory to—be an alternative to car ownership itself. As Travis Kalanick puts it, “If something is moving from one place to another in a city— that’s our jam.”9 Swarovski—The Payoff from Crystal-Clear Ideas on What Consumers Will Pay Divining what customers want from a new product—and how much they’ll pay for it—long before the product is developed has been a winning formula for innovation success in companies new and old. Even companies that have done R&D for decades (like Porsche) can adopt radical new approaches. Of course, newer companies have the advantage of adopting newer approaches, as our case studies on LinkedIn, Uber, and Optimizely (later in this chapter) illustrate. Yet companies much older than Porsche have also adopted the lessons of this book. One of them is Swarovski, which was founded in 1895 in the town of Wattens in the Austrian Alps. As the manufacturer of small crystals, product developers have learned in the last decade the importance of establishing what both business customers and consumers value in a new offering way before the engineering work begins. The company was launched on the back of a process innovation. Jeweler Daniel Swarovski’s business began after he patented a machine that ground crystals faster and more precisely than could be done by hand. The 188 Monetizing Innovation ﬁrm soon became known for its sparklers, which famously were worn by Hollywood stars like Marlene Dietrich and Marilyn Monroe. (In fact, two Monroe dresses glittering with Swarovski crystals became famous: the one she wore when she sang “Diamonds Are a Girl’s Best Friend” in 1953’s Gentlemen Prefer Blondes 10 and the one she wore to sing “Happy Birthday” to President John F. Kennedy at New York’s Madison Square Garden in 1962.11) Today, 60 years after he died, Daniel Swarovski might not recognize the company he founded, which continues to be run successfully by his family. The Swarovski group is a $3.4 billion company with 30,000 employees and diverse businesses in 170 countries. By far the largest part of the group is the crystal business, with three-quarters of its revenue coming from jewelry, watches, fashion accessories, and other consumer products sold in 2,480 Swarovski stores around the world.12 Another big part of Swarovski’s crystal business is the professional business unit, a B2B2C business. One important offering is loose crystals, sold mainly to wholesale, fashion, and jewelry makers. Another part is custom offerings that appear on such products as cellphones and furniture. Because its products ultimately end up with consumers, Swarovski must keep its eye on consumers even as it develops and prices new products for its business customers. Knowing what consumers are willing to pay for clothes, jewelry, and other items adorned with Swarovski crystals has been crucial to fully monetizing its innovations with manu- facturers, explains Christoph Kargruber, executive vice president of innovation and product management. Let’s see how they’ve done this for each of those offerings. Loose Crystals for the Fashion and Jewelry Sectors Swarovski’s loose crystals business customers largely are fashion and jewelry companies, ranging from midpriced brands like Victoria’s Secret to luxury brands like Jean-Paul Gaultier. With more than 100,000 products in its active catalog, Swarovski can provide crystals of pretty much any type, color, size, cut, and form imaginable. Swarovski launches new collections of stones twice a year. With 100,000 products and new ones added every year, it is impossible for Swarovski to research exhaustively what customers would pay for the Learning from the Best 189 new offerings on its drawing boards. So what can Swarovski do to know whether its products will appeal to consumers, its ultimate customers, in the ﬁckle world of fashion? The company needed an effective and systematic way to get cus- tomer feedback on the value of its products early in its product development process. But rather than doing customer research product by product, in 2013 it began conducting extensive research and analysis to identify the product criteria or features that increased customer WTP. In other words, the company was hunting for the drivers of customer value. Swarovski’s goal was to come up with a systematic monetization and price-setting process, one that would capture both business customer and consumer WTP, taking into account the complexity of the com- pany’s huge product portfolio. Swarovski surveyed customers in more than 20 countries around the world. According to Kargruber, the company’s product managers retrieved two huge insights after analyzing the data. One was that certain customer segments were willing to pay ﬁve to six times more for crystal products with sophisticated cuts rather than traditional ones. Stated our way, cut complexity was a major driver of customer WTP. The second revelation was that WTP increased with a crystal’s brilliance. And as a crystal’s brilliance increases with cut complexity, making a crystal brilliant through a sophisticated cut was potentially a very proﬁtable endeavor. To put its WTP data and drivers of customer interest into a pricing system that product developers could use, the company came up with ﬁve price tiers. Each one varied by the degree to which a crystal delivered the core customer beneﬁts of brilliance and sophistication achieved by a complex cut. Products in each tier had the same prices, even though they were different in such aspects as form and color, as consumer WTP did not vary very much for those factors. To make the price-tier approach
+>>>

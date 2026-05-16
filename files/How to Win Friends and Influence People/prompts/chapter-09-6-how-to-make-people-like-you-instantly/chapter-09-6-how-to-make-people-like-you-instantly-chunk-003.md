@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "how-to-win-friends-and-influence-people",
+  "chapter_id": "chapter-09-6-how-to-make-people-like-you-instantly",
+  "chunk_id": "chapter-09-6-how-to-make-people-like-you-instantly-chunk-003",
+  "source": {
+    "chapter_title": "6. How to Make People Like You Instantly",
+    "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/09 - 6. How to Make People Like You Instantly.txt",
+    "source_pages": "109-120",
+    "char_start": 13281,
+    "char_end": 20938,
+    "checksum": "fb70271aad75f88a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+her gratitude couldn’t adequately express itself with anything less than the gift of her cherished Packard. Let’s take another case: Donald M. McMahon, who was superintendent of Lewis and Valentine, nurserymen and landscape architects in Rye, New York, related this incident. “Shortly after I attended the talk on ‘How to Win Friends and Influence People,’ I was landscaping the estate of a famous attorney. The owner came out to give me a few instructions about where he wished to plant a mass of rhododendrons and azaleas. “I said, ‘Judge, you have a lovely hobby. I’ve been admiring your beautiful dogs. I understand you win a lot of blue ribbons every year at the show in Madison Square Garden.’
+
+“The effect of this little expression of appreciation was striking. “‘Yes,’ the judge replied, ‘I do have a lot of fun with my dogs. Would you like to see my kennel?’ “He spent almost an hour showing me his dogs and the prizes they had won. He even brought out their pedigrees and explained about the bloodlines responsible for such beauty and intelligence. “Finally, turning to me, he asked: ‘Do you have any small children?’ “‘Yes, I do,’ I replied, ‘I have a son.’ “‘Well, wouldn’t he like a puppy?’ the judge inquired. “‘Oh, yes, he’d be tickled pink.’ “‘All right, I’m going to give him one,’ the judge announced. “He started to tell me how to feed the puppy. Then he paused. ‘You’ll forget it if I tell you. I’ll write it out.’ So the judge went in the house, typed out the pedigree and feeding instructions, and gave me a puppy worth several hundred dollars and one hour and fifteen minutes of his valuable time largely because I had expressed my honest admiration for his hobby and achievements.” George Eastman, of Kodak fame, invented the transparent film that made motion pictures possible, amassed a fortune of a hundred million dollars, and made himself one of the most famous businessmen on earth. Yet in spite of all these tremendous accomplishments, he craved little recognitions even as you and I. To illustrate: When Eastman was building the Eastman School of Music and also Kilbourn Hall in Rochester, James Adamson, then president of the Superior Seating Company of New York, wanted to get the order to supply the theater chairs for these buildings. Phoning the architect, Mr. Adamson made an appointment to see Mr. Eastman in Rochester. When Adamson arrived, the architect said: “I know you want to get this order, but I can tell you right now that you won’t stand a ghost of a show if you take more than five minutes of George Eastman’s time. He is a strict disciplinarian. He is very busy. So tell your story quickly and get out.” Adamson was prepared to do just that. When he was ushered into the room he saw Mr. Eastman bending over a pile of papers at his desk. Presently, Mr. Eastman looked up, removed his glasses, and walked toward the architect and Mr. Adamson, saying: “Good morning, gentlemen, what can I do for you?” The architect introduced them, and then Mr. Adamson said: “While we’ve been waiting for you, Mr. Eastman, I’ve been admiring your office. I wouldn’t mind working in a room like this myself. I’m in the interior-woodworking business, and I never saw a more beautiful office in all my life.” George Eastman replied: “You remind me of something I had almost forgotten. It is beautiful, isn’t it? I enjoyed it a great deal when it was first built. But I come down here now with a lot of other things on my mind and sometimes don’t even see the room for weeks at a time.” Adamson walked over and rubbed his hand across a panel. “This is English oak, isn’t it? A little different texture from Italian oak.” “Yes,” Eastman replied. “Imported English oak. It was selected for me by a friend who specializes in fine woods.” Then Eastman showed him about the room, commenting on the proportions, the coloring, the hand carving and other effects he had helped to plan and execute. While drifting about the room, admiring the woodwork, they paused before a window, and George Eastman, in his modest, soft-spoken way, pointed out some of the institutions through which he was trying to help humanity: the University of Rochester, the General Hospital, the Homeopathic Hospital, the Friendly Home, the Children’s Hospital. Mr. Adamson congratulated him warmly on the idealistic way he was using his wealth to alleviate the sufferings of humanity. Presently, George Eastman unlocked a glass case and pulled out the first camera he had ever owned—an invention he had bought from an Englishman. Adamson questioned him at length about his early struggles to get started in business, and Mr. Eastman spoke with real feeling about the poverty of his childhood, telling how his widowed mother had kept a boardinghouse while he clerked in an insurance office. The terror of poverty haunted him day and night, and he resolved to make enough money so that his mother wouldn’t have to work. Mr. Adamson drew him out with further questions and listened, absorbed, while he related the story of his experiments with dry photographic plates. He told how he had worked in an office all day, and sometimes experimented all night, taking only brief naps while the chemicals were working, sometimes working and sleeping in his clothes for seventy-two hours at a stretch. James Adamson had been ushered into Eastman’s office at ten- fifteen and had been warned that he must not take more than five minutes; but an hour had passed, then two hours passed. And they were still talking. Finally, George Eastman turned to Adamson and said, “The last time I was in Japan I bought some chairs, brought them home, and put them in my sun porch. But the sun peeled the paint, so I went downtown the other day and bought some paint and painted the chairs myself. Would you like to see what sort of a job I can do painting chairs? All right. Come up to my home and have lunch with me and I’ll show you.” After lunch, Mr. Eastman showed Adamson the chairs he had brought from Japan. They weren’t worth more than a few dollars, but George Eastman, now a multimillionaire, was proud of them because he himself had painted them. The order for the seats amounted to $90,000. Who do you suppose got the order—James Adamson or one of his competitors? From the time of this story until Mr. Eastman’s death, he and James Adamson were close friends. Claude Marais, a restaurant owner in Rouen, France, used this principle and saved his restaurant the loss of a key employee. This woman had been in his employ for five years and was a vital link between M. Marais and his staff of twenty-one people. He was shocked to receive a registered letter from her advising him of her resignation. M. Marais reported: “I was very surprised and, even more, disappointed, because I was under the impression that I had been fair to her and receptive to her needs. Inasmuch as she was a friend as well as an employee, I probably had taken her too much for granted and maybe was even more demanding of her than of other employees. “I could not, of course, accept this resignation without some explanation. I took her aside and said, ‘Paulette, you must understand that I cannot accept your resignation. You mean a great deal to me and to this company, and you are as important to the success of this restaurant as I am.’ I repeated this in front of the entire staff, and I invited her to my home and reiterated my confidence in her with my family present. “Paulette withdrew her resignation, and today I can rely on her as never before. I frequently reinforce this by expressing my appreciation for what she does and showing her how important she is to me and to the restaurant.”
+>>>

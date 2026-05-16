@@ -1,0 +1,1022 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-11-economic-value-the-guiding-force-of-pricing-stra
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-001",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 6997,
+      "char_start": 1,
+      "checksum": "a68ed3648734aa83",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "This chapter establishes economic value as the foundation of pricing strategy. It explains that customers will not pay more than the true value of a product, and that understanding value drivers is essential for creating profitable value propositions. The chapter distinguishes between use value (utility) and economic value (exchange value), using the example of cold beverages at a beach to illustrate how customers consider alternatives and consumer surplus when determining willingness to pay.",
+    "key_points": [
+      "An estimate of value is to pricing what an estimate of location is to navigation",
+      "Understanding value drivers for different customer segments is essential for profitable growth",
+      "Value is determined by customer circumstances, not unchanging physical product aspects",
+      "Strategic pricing is largely about managing the relationship between value and price",
+      "More and better features will not lead to greater profitability unless they translate into more value for customers",
+      "The value key to pricing strategy is economic value (exchange value), not use value (utility)"
+    ],
+    "arguments": [
+      "Customers' perceptions of value can change with new information or different purchase contexts",
+      "Marketing can influence brand choices by changing actual value offered relative to price or by changing the context from which customers perceive value",
+      "Many firms fail to capture fair share of value because they don't understand how products create benefits for customers",
+      "Merely adding features or improving performance will not lead to profitable gains unless those features translate into more value for customers"
+    ],
+    "examples": [
+      "Apple's success is driven by sophisticated management of perception and realization of value through advertising, customer support in Apple Stores, avoiding short-term promotional discounts, and offering different models for different customer segments",
+      "Cold beverages at the beach: use value might be $10 on a hot day, but customers know competing vendors offer better deals, snack shops charge $2, and convenience stores sell six-packs for $6, so they reject $10 prices as outrageous"
+    ],
+    "stories": [],
+    "definitions": [
+      "Use value (utility): the total savings or satisfaction that the customer receives from the product",
+      "Consumer surplus: extra money left in customers' pockets after paying less than the maximum they would be willing to pay",
+      "Economic value (exchange value): the value key to developing effective pricing strategy, as opposed to use value"
+    ],
+    "names": [
+      "Ron Johnson",
+      "Apple"
+    ],
+    "dates": [],
+    "numbers": [
+      "$10 - use value of cold beverage on hot beach day",
+      "$2 - price of beverages at snack shop half mile up beach",
+      "$6 - price of six-pack at convenience store"
+    ],
+    "places": [
+      "beach",
+      "snack shop",
+      "convenience store",
+      "Apple Stores"
+    ],
+    "terms": [
+      "Value Cascade",
+      "use value",
+      "utility",
+      "consumer surplus",
+      "exchange value",
+      "economic value",
+      "value-based pricing",
+      "willingness-to-pay",
+      "value proposition",
+      "strategic pricing",
+      "strategic value management"
+    ],
+    "quotes": [
+      "Customers will not pay literally a penny more than the true value of the product.",
+      "An estimate of value is to pricing what an estimate of location is to navigation.",
+      "strategic pricing could as accurately be labeled strategic value management"
+    ],
+    "actionable_lessons": [
+      "Understand which sources of value can be delivered cost effectively for different customer segments",
+      "Recognize that value is not determined by unchanging physical aspects but by customer circumstances",
+      "Create differentiated offers that represent good value to customers",
+      "Raise willingness-to-pay through value communication",
+      "Create price structures that reflect differences in value to different users",
+      "Adopt pricing policies that lead customers to make purchase choices based on value",
+      "Manage both perception and delivery of value, not just optimize prices",
+      "Avoid short-term promotional discounts that train customers to wait for deals",
+      "Learn techniques for understanding and estimating value before setting prices"
+    ],
+    "open_questions": [
+      "How can companies effectively communicate value to different customer segments?",
+      "What techniques can managers use to determine the value of their products and services?",
+      "How do customers' perceptions of value align or misalign with reality?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-002",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 14009,
+      "char_start": 6297,
+      "checksum": "7f8c6aa515514f74",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk explains that effective pricing strategy should be based on economic value rather than use value. Economic value is determined by customers' alternatives and comes in two forms: monetary value (cost savings or income enhancements) and psychological value (innate satisfaction). The Economic Value Estimation (EVE) Model calculates total economic value as the price of the best alternative plus the differentiation value of the offering.",
+    "key_points": [
+      "Economic value is determined first and foremost by what customers' alternatives are",
+      "Economic value has two forms: monetary and psychological",
+      "Total economic value = reference value (best alternative price) + differentiation value",
+      "Perceived value may fall short of economic value if the buyer is uninformed",
+      "Next-best competitive alternatives (NBCA) are central to economic value estimation",
+      "Differentiation value is the net benefits delivered over and above the competitive reference product"
+    ],
+    "arguments": [
+      "Few people will pay $5 for a cola, even when they value it at $10, if they think the market offers alternatives at substantially lower prices",
+      "A beach vendor can price a differentiated product offering worth more than available alternatives to some market segments based on convenience value",
+      "Monetary value is most important for business-to-business purchases; psychological value is often more important for consumer products",
+      "Companies must communicate value through sales presentations and marketing communications so buyers recognize the actual economic value"
+    ],
+    "examples": [
+      "Cola at the beach priced at $5 versus $2 at a snack shop or $6 for a six-pack at a convenience store",
+      "ABB's high-speed switching equipment providing superior reliability and minimizing power disruptions for manufacturers",
+      "Rolex watch creating psychological value through prestige and beauty rather than tangible monetary benefits",
+      "Hybrid cars creating both monetary value (fuel savings) and psychological value (environmental concern, status)",
+      "Hotel room reference value based on the price of the next-best hotel choice in town",
+      "iPhone reference value compared to comparable Android or other 4G phones",
+      "Intuit's QuickBooks automating simpler cash-based accounting solutions rather than double-entry bookkeeping methods"
+    ],
+    "stories": [
+      "Intuit learned that small-business bookkeepers (two-thirds of their market) used simpler cash-based accounting solutions rather than double-entry methods. By working closely with customers to understand their need for simplicity, Intuit created QuickBooks, which outsold competitors in the small-business market."
+    ],
+    "definitions": [
+      "Exchange value (economic value): the value determined by customers' alternatives, key to developing effective pricing strategy",
+      "Monetary value: the total cost savings or income enhancements that a customer accrues as a result of purchasing a product",
+      "Psychological value: the many ways that a product creates innate satisfaction for the customer",
+      "Economic Value Estimation (EVE) Model: a model where total economic value is calculated as the price of the customer's best alternative (reference value) plus the worth of whatever differentiates the offering from the alternative (differentiation value)",
+      "Next-best competitive alternatives (NBCA): from the marketer's perspective, the products that represent the next-best competitive alternatives",
+      "Reference value: the price the competitor charges for the next-best alternative",
+      "Differentiation value: the net benefits that a product or service delivers to customers over and above those provided by the competitive reference product"
+    ],
+    "names": [
+      "ABB (global electrical equipment manufacturer)",
+      "Rolex",
+      "Toyota",
+      "Prius",
+      "iPhone",
+      "Android",
+      "Intuit",
+      "QuickBooks"
+    ],
+    "dates": [],
+    "numbers": [
+      "$5 (cola price at beach)",
+      "$2 (cola price at snack shop)",
+      "$6 (six-pack price at convenience store)",
+      "$10 (customer valuation of cola)",
+      "half a mile (distance to snack shop)",
+      "two-thirds (proportion of small-business bookkeepers using cash-based accounting)"
+    ],
+    "places": [
+      "beach",
+      "snack shop",
+      "convenience store",
+      "production line",
+      "small-business market"
+    ],
+    "terms": [
+      "use value",
+      "exchange value",
+      "economic value",
+      "willingness-to-pay",
+      "differentiated product offering",
+      "reference value",
+      "differentiation value",
+      "smart shopper",
+      "perceived value",
+      "next-best competitive alternatives (NBCA)"
+    ],
+    "quotes": [
+      "The value that is key to developing effective pricing strategy is not use value, but is what economists call exchange value and we call economic value.",
+      "Total economic value is the maximum price that a smart shopper, fully informed about the market and seeking the best value, would pay.",
+      "It's critical that a company's sales presentations and marketing communications ensure that features likely to be important to the buyer—particularly competitively superior features—come to the buyer's attention."
+    ],
+    "actionable_lessons": [
+      "Base pricing strategy on economic value determined by customer alternatives, not on use value",
+      "Identify and communicate both monetary and psychological value sources to customers",
+      "Use the EVE Model to calculate total economic value: reference value plus differentiation value",
+      "Ensure sales presentations and marketing communications highlight competitively superior features to help buyers recognize actual economic value",
+      "Understand the reference product or service customers are comparing against—it may be a competitor's offering or a self-designed solution",
+      "Focus value estimation on differentiation sources with the most 'bang for the buck' for target customer segments",
+      "Recognize that perceived value may fall short of economic value if buyers are uninformed"
+    ],
+    "open_questions": [
+      "How can companies effectively measure and communicate psychological value to customers?",
+      "What methods are most effective for identifying the reference products or services customers actually use for comparison?",
+      "How should companies prioritize between monetary and psychological value sources in their pricing strategy?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-003",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 21017,
+      "char_start": 13309,
+      "checksum": "3b596530d6f789b1",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "This section explains how to estimate economic value through competitive reference pricing and quantification techniques. It addresses challenges in identifying competitive alternatives and gathering accurate reference prices, with emphasis on normalizing secondary price data for practical use in value estimation.",
+    "key_points": [
+      "Differentiation value is the net benefits a product delivers over competitive reference products",
+      "General value propositions are insufficient for pricing decisions without quantification and detail",
+      "Identifying the next-best competitive alternative requires answering: 'If I did not exist, what would my customer do?'",
+      "Competitive reference prices must be measured in terms familiar to customers and stated in comparable units",
+      "Secondary price data can be normalized and made useful despite inherent bias and unreliability",
+      "Raw competitive price data often appears incoherent until normalized for volume and service level differences"
+    ],
+    "arguments": [
+      "Marketers often have myopic views of their markets and fail to identify all competitive alternatives",
+      "Customers may construct a basket of products and services as a viable alternative rather than comparing single products",
+      "Customer apathy or doing nothing can be the biggest source of competition",
+      "Imperfect competitive price data can be treated to become useful for value estimation exercises"
+    ],
+    "examples": [
+      "Soft drink vendor at beach providing convenience compared to distant refreshment stand",
+      "Hotel offering free breakfast and cocktail hour as differentiation value",
+      "Uniform manufacturer with 85% perceived market share that actually had only 35% when including department stores and discounters",
+      "Communications companies offering 'triple play' bundles of phone, internet, and cable television",
+      "Concrete additive manufacturer where biggest competition is customer apathy rather than competing additives",
+      "Technology manufacturer in North America collecting competitive pricing data that appeared irrational until normalized"
+    ],
+    "stories": [
+      "One author's consulting project with a uniform manufacturer who discovered their 85% market share was actually 35% when considering all clothing retailers as competitors"
+    ],
+    "definitions": [
+      "Differentiation value: the net benefits that a product or service delivers to customers over and above those provided by the competitive reference product",
+      "Competitive reference price: the price of the next-best competitive alternative identified for value estimation purposes"
+    ],
+    "names": [
+      "Comcast",
+      "Verizon",
+      "IRI",
+      "Urban Science",
+      "Nielsen",
+      "Google Shopping",
+      "Nextag",
+      "Price Grabber"
+    ],
+    "dates": [],
+    "numbers": [
+      "85 percent market share (perceived)",
+      "35 percent market share (actual)"
+    ],
+    "places": [
+      "North America"
+    ],
+    "terms": [
+      "Differentiation value",
+      "Competitive reference product",
+      "Competitive reference price",
+      "Value proposition",
+      "Triple play",
+      "Secondary price data",
+      "Primary data",
+      "Normalized pricing data"
+    ],
+    "quotes": [
+      "If I, the seller, did not exist, what would my customer do?",
+      "Competitors were completely irrational in their pricing!"
+    ],
+    "actionable_lessons": [
+      "Identify the next-best competitive alternative by considering all possible customer options, not just direct competitors",
+      "Measure competitive prices in units and terms familiar to customers in the target segment",
+      "Use customer service inquiries about price matching as a source of competitive price data",
+      "Leverage loyal customers as sources of competitive intelligence about new price sheets and discounts",
+      "Normalize secondary price data by accounting for differences in volume and service levels to reveal consistent pricing patterns",
+      "Collect competitive price data from multiple sources including sales organization polling and customer interviews when published prices are unavailable"
+    ],
+    "open_questions": [
+      "How should marketers identify all relevant competitive alternatives in their market?",
+      "What techniques are most effective for normalizing imperfect secondary price data?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-004",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 28030,
+      "char_start": 20317,
+      "checksum": "125e7fd72b131ec8",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk explains how to estimate monetary value by understanding customer business models and developing value driver algorithms. It contrasts monetary value drivers (quantifiable cost reductions or revenue increases) with psychological value drivers (intangible benefits like satisfaction or brand value). The example of Distributor Co. illustrates how different customer segments value the same service differently based on their business models.",
+    "key_points": [
+      "Reference price data must be normalized for volume and service level differences to reveal consistent pricing behaviors",
+      "Monetary value drivers are tied to customer financial outcomes and can be estimated through qualitative research",
+      "Psychological value drivers are intangible and require quantitative techniques like conjoint analysis",
+      "Understanding the customer's business model is essential to quantifying monetary value in business markets",
+      "Different customer segments may value the same product features differently based on their business models",
+      "In-depth customer interviews are the best source for developing value driver algorithms",
+      "Value driver algorithms should be approximations rather than overly precise calculations",
+      "Negative differentiation (competitor advantages) should be subtracted from total value delivered"
+    ],
+    "arguments": [
+      "Competitors' pricing that appears irrational often reflects differences in volume and service levels rather than actual irrationality",
+      "Monetary and psychological value drivers require different quantification approaches",
+      "Business market value estimation is more complex than consumer market estimation due to operational complexity",
+      "Customers with different business models derive different monetary value from the same product features",
+      "Approximate value calculations are preferable to ignoring important value drivers that are difficult to quantify precisely"
+    ],
+    "examples": [
+      "Hybrid cars provide monetary benefits (lower fuel and maintenance costs) and psychological benefits (environmental concern)",
+      "Distributor Co. sold to two customer segments: systems integrators (valued technical support) and box-pushers (valued low prices and quick turnaround)",
+      "Box-pushers consumed significant technical support for free but usage dropped dramatically when Distributor Co. started charging for it"
+    ],
+    "stories": [
+      "A product manager suspected competitors were pricing irrationally, but analysis revealed pricing differences were due to volume and service level variations, not irrationality",
+      "Distributor Co. discovered that technical support was essential for systems integrators but not for box-pushers, despite both segments using the service when free"
+    ],
+    "definitions": [
+      "Monetary value drivers: tied to customer's financial outcomes via tangible cost reductions or revenue increases",
+      "Psychological value drivers: intangible benefits such as satisfaction, security, or brand value",
+      "Value driver algorithms: formulas and calculations that estimate the differentiated monetary worth of each unit of product performance",
+      "Systems integrator business model: sourcing components and installing and maintaining them as integrated systems",
+      "Box-pusher business model: buying components, boxing them up, and reselling as packaged solutions for customer installation"
+    ],
+    "names": [
+      "Distributor Co.",
+      "Toyota"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "reference prices",
+      "normalized reference data",
+      "monetary value drivers",
+      "psychological value drivers",
+      "conjoint analysis",
+      "value driver algorithms",
+      "two-tier distribution system",
+      "value-added resellers",
+      "in-depth interviews",
+      "negative differentiation"
+    ],
+    "quotes": [
+      "accept being approximately right lest you be precisely wrong in disregarding an important driver of value that seems too difficult to quantify",
+      "Competitors were completely irrational in their pricing!"
+    ],
+    "actionable_lessons": [
+      "Normalize reference price data for volume and service level differences before using it in value estimation",
+      "Conduct in-depth customer interviews to understand how your product affects customer profitability and business models",
+      "Develop value driver algorithms as simple formulas that approximate how value is created",
+      "Segment customers by business model to understand differential value perception of the same features",
+      "Consider charging separately for features that not all customer segments value equally",
+      "Account for negative differentiation by subtracting competitor advantages from total value delivered",
+      "Prioritize approximate correctness over false precision when quantifying complex value drivers"
+    ],
+    "open_questions": [
+      "How can companies identify which customer segments have different business models that affect value perception?",
+      "What specific techniques should be used to collect data points for value driver algorithms?",
+      "How should companies balance the cost of in-depth interviews against the value of understanding customer business models?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-005",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 35038,
+      "char_start": 27330,
+      "checksum": "f893a496cabbf403",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "Guidelines for estimating monetary value by calculating reference value and differentiation value. Illustrated through GenetiCorp's Dyna-Test product, which serves multiple market segments with different value drivers including yield opportunity costs, labor savings, and quality control improvements.",
+    "key_points": [
+      "Consider only the value difference between your product and the next-best competitive alternative (NBCA)",
+      "Measure differentiation value as either costs saved or extra benefits achieved, not both",
+      "Do not assume percentage increase in value is proportional to percentage increase in product effectiveness",
+      "Different customer types have different reference alternatives and receive different use value from distinguishing features",
+      "Subtract the worth of negative differentiation from total value delivered"
+    ],
+    "arguments": [
+      "Benefits identical to NBCA are already determined by competition and incorporated into reference value; you cannot charge more for them regardless of use value",
+      "A product earns a price premium only for extra performance—the differentiated value—it alone delivers",
+      "When multiple competitors offer the same benefits, those benefits are table stakes and customers need not pay close to a product's worth"
+    ],
+    "examples": [
+      "An essential part costing $10 that saves tens or hundreds of thousands of dollars by reducing production line shutdowns should not be priced at only $15 (50 percent premium)",
+      "Criminal investigators use DNA to match hair, blood, or other human samples; test failures requiring retests are problematic due to limited tissue sample sizes",
+      "Pharmaceutical manufacturers use DNA analyses to target genes susceptible to new drug treatments; fuzzy pictures may cause researchers to miss their true target"
+    ],
+    "stories": [
+      "GenetiCorp initially set Dyna-Test prices based on high markup over costs and discounted under pressure from large-volume purchasers, not understanding the product's true monetary value to customers"
+    ],
+    "definitions": [
+      "Reference value: the price of what the customer considers the best alternative product",
+      "Differentiated value: the customer use value of the attributes that distinguish your product from the next best alternative",
+      "Monetary value estimate: the sum total of reference and differentiated values",
+      "Next-best competitive alternative (NBCA): the competitor's product that customers consider as their best alternative"
+    ],
+    "names": [
+      "GenetiCorp",
+      "Dyna-Test",
+      "EnSyn"
+    ],
+    "dates": [
+      "17-year patent life",
+      "260-day work-year"
+    ],
+    "numbers": [
+      "$30 per test kit (EnSyn reference price)",
+      "$250 million to $1 billion (annual revenue from successful commercial drug)",
+      "75 percent contribution margin",
+      "$300 million in annual profit contribution",
+      "$590 million (cost of developing typical drug)",
+      "$41 million a year profit for successful drug",
+      "500 target tests on average to identify gene sequence",
+      "$82,000 (value per target test)",
+      "2,100 hours (260-day work-year)",
+      "$39 per hour (value of target test)",
+      "40 hours (additional week saved)",
+      "$1,560 (value of additional 40 hours)",
+      "16 hours (processing labor saved)",
+      "$24 per hour (laboratory personnel average wage)",
+      "$384 (labor savings from Dyna-Test)",
+      "2 hours (quality control checks eliminated)"
+    ],
+    "places": [],
+    "terms": [
+      "full-length cDNA",
+      "complementary DNA strand",
+      "DNA molecule degradation",
+      "test yields",
+      "reference value",
+      "differentiation value",
+      "monetary value driver",
+      "table stakes",
+      "price premium",
+      "contribution margin"
+    ],
+    "quotes": [
+      "Consider only the value of the difference between your product and the next-best competitive alternative (NBCA) product",
+      "Measure the differentiation value either as costs saved to achieve a particular level of benefit or as extra benefits achieved for an identical cost. Don't add both; that's double counting",
+      "Do not assume that the percentage increase in value is simply proportional to the percentage increase in the effectiveness of your product",
+      "A product earns a price premium over the reference value only for the extra performance—the differentiated value—it alone delivers"
+    ],
+    "actionable_lessons": [
+      "Identify all points of differentiation, both positive and negative, and calculate their monetary value",
+      "Subtract the worth of negative differentiation when netting out total value delivered",
+      "Study customer business models and use value to determine monetary value drivers",
+      "Avoid cost-plus pricing and volume discounting; instead base pricing on customer value",
+      "Segment markets by customer type since different segments have different reference alternatives and value perceptions"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-006",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 42047,
+      "char_start": 34338,
+      "checksum": "d410863c43c58531",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk details economic value estimation for Dyna-Test, a DNA testing kit, across different market segments (industrial, academic, and government buyers). It demonstrates how monetary value is calculated by combining reference value with differentiated value drivers, and explains the distinction between economic value and perceived value in pricing strategy.",
+    "key_points": [
+      "Economic value is calculated by adding reference value to differentiated value drivers",
+      "Dyna-Test's total economic value for industrial buyers is $2,528 versus EnSyn reference price of $30",
+      "Academic and government laboratories estimate lower economic value ($1,685) due to different business models and lower labor costs",
+      "Economic value does not necessarily equal perceived value or appropriate market price",
+      "GenetiCorp raised prices 2-5 fold while launching aggressive marketing education, resulting in continued sales growth and increased profits"
+    ],
+    "arguments": [
+      "Economic value estimation is a weakness because it does not indicate the appropriate price to charge, only the maximum price a segment would pay if they fully recognized the product's value",
+      "Economic value estimation is a strength because it indicates whether a poorly selling product is overpriced or under-promoted",
+      "The solution to overpricing is to cut price; the solution to perception problems is often to maintain or increase price while educating the market"
+    ],
+    "examples": [
+      "Dyna-Test saved 16 hours of processing labor compared to EnSyn, worth $384 at $24 per hour",
+      "Dyna-Test eliminated 2 hours of quality control checks, saving $48 per test",
+      "Sample size opportunity cost avoided by Dyna-Test: $4,680 per project (3 weeks × $1,560), but averages $468 accounting for 10% frequency",
+      "GenetiCorp raised Dyna-Test prices 2-5 fold while launching aggressive marketing campaign, resulting in continued sales growth"
+    ],
+    "stories": [
+      "GenetiCorp initially cut prices to meet price-sensitive buyers, then raised prices 2-5 fold with aggressive marketing education. Customer purchasing agents expressed dismay, but sales continued growing because new prices represented only a small fraction of delivered value. Profits increased significantly as purchasers learned about superior economic value."
+    ],
+    "definitions": [
+      "Reference value: the price of the competing product (EnSyn kit at $30)",
+      "Differentiated value: cost reductions and new product profit gains from superior attributes",
+      "Economic value: the maximum price a segment of buyers would pay if they fully recognized the product's value and were motivated to purchase"
+    ],
+    "names": [
+      "Dyna-Test",
+      "EnSyn",
+      "GenetiCorp",
+      "Rolex"
+    ],
+    "dates": [],
+    "numbers": [
+      "16 hours of processing labor savings",
+      "$24 per hour (laboratory personnel cost)",
+      "$384 (labor savings value)",
+      "2 hours of quality control checks eliminated",
+      "$48 (quality control savings)",
+      "3 weeks of emergency research time",
+      "$1,560 (value per week of Dyna-Test usage)",
+      "$4,680 (opportunity cost of searching for new material)",
+      "10 percent (frequency of emergency searches)",
+      "$468 (average opportunity cost)",
+      "$38 (sample size labor savings value)",
+      "$30 (reference value/EnSyn price)",
+      "$2,528 (total economic value for industrial buyers)",
+      "$1,055 (yield opportunity cost for academic buyers)",
+      "$231 (yield labor savings for academic buyers)",
+      "$29 (quality control savings for academic buyers)",
+      "$317 (sample size opportunity cost for academic buyers)",
+      "$1,685 (total economic value for academic laboratories)",
+      "2-5 fold (price increase by GenetiCorp)"
+    ],
+    "places": [
+      "academic institutions",
+      "government laboratories",
+      "university systems"
+    ],
+    "terms": [
+      "cDNA yield",
+      "quality control checks",
+      "starter sample material",
+      "opportunity costs",
+      "reference value",
+      "differentiated value drivers",
+      "monetary value estimation",
+      "economic value profile",
+      "market segments",
+      "cost-effective medicine"
+    ],
+    "quotes": [
+      "I am confident with Dyna-Test because it is a quality and tested product",
+      "Dyna-Test has been around long enough; you know it works. If someone says they ran the experiment with Dyna-Test it must be right.",
+      "economic value does not indicate the appropriate price to charge. It only estimates the maximum price a segment of buyers would pay if they fully recognized the product's value to them and were motivated to purchase."
+    ],
+    "actionable_lessons": [
+      "Determine economic value delivered to all market segments and the market size of each to develop pricing strategy",
+      "When a product is underperforming, distinguish between overpricing (solution: cut price) and perception problems (solution: maintain/increase price with aggressive market education)",
+      "Use monetary value estimation as a sales tool when buyers face extreme cost pressures and are price sensitive",
+      "Develop an economic value profile of the entire market to determine which segments can be served most profitably at which prices"
+    ],
+    "open_questions": [
+      "How can companies accurately measure all value drivers for their products across different market segments?",
+      "What is the optimal balance between price and marketing education for different customer segments?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-007",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 49011,
+      "char_start": 41347,
+      "checksum": "8166dc0bc7d2f9e1",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk explains how to estimate psychological value using conjoint analysis, a quantitative technique developed in the late 1970s and early 1980s. It illustrates the approach through Sport Co.'s golf club pricing case, demonstrating how different customer segments have different value drivers and willingness-to-pay, leading to segmented pricing strategies.",
+    "key_points": [
+      "Psychological value drivers like satisfaction and security require quantitative research techniques rather than qualitative methods",
+      "Conjoint analysis decomposes products into feature groups and tests customer preferences across various feature sets",
+      "Different market segments have different willingness-to-pay for the same product attributes",
+      "Warranty was found to be a significant value driver across all segments, contrary to initial hypothesis",
+      "Extending warranty from one to two years did not proportionally increase willingness-to-pay",
+      "Two-tier pricing strategies can address value differences across segments"
+    ],
+    "arguments": [
+      "Monetary value estimation is especially effective when buyers face extreme cost pressures and are price sensitive",
+      "Treating brand as an attribute in conjoint analysis allows comparison of different brands with different features",
+      "Quantified value estimates combined with segment buying patterns enable solid business cases for segmented pricing"
+    ],
+    "examples": [
+      "Flat screen TV attributes tested in conjoint: screen size (36, 42, 52 inches), number of pixels, brightness",
+      "Comparing a 36-inch Sony TV relative to a 42-inch Samsung model using conjoint analysis",
+      "Pharmaceutical companies adding cost and performance evidence to drug claims due to hospital cost-effectiveness incentives"
+    ],
+    "stories": [
+      "Sport Co. developed the 'Big Drive' golf club with significant improvements in distance and accuracy for beginning and advanced players. The company faced a pricing dilemma with four distinct segments: Innovators (performance-focused frequent golfers), Value Seekers (casual players willing to pay for performance), Lost Players (occasional players who drifted away), and Budget Shoppers (cost-constrained buyers). A conjoint study of 670 golfers revealed that warranty was a key value driver across all segments, and the optimal price for Innovators was $425 (40,000 units) versus $275 for Budget Shoppers (30% of market). Sport Co. resolved this by implementing a two-tier pricing strategy with minor design and brand modifications."
+    ],
+    "definitions": [
+      "Conjoint analysis: a technique developed in the late 1970s and early 1980s that can discern the hidden values that customers place on product features by decomposing a product into groups of features and providing customers with choices among various feature sets"
+    ],
+    "names": [
+      "Sport Co.",
+      "Sony",
+      "Samsung"
+    ],
+    "dates": [
+      "late 1970s and early 1980s"
+    ],
+    "numbers": [
+      "670 golfers surveyed",
+      "40,000 unit sales at $425 price point",
+      "30 percent of market (Budget Shoppers)",
+      "$425 optimal price for Innovators",
+      "$275 optimal price for Budget Shoppers",
+      "five to ten times per season (Value Seekers play frequency)"
+    ],
+    "places": [],
+    "terms": [
+      "Conjoint analysis",
+      "Psychological value drivers",
+      "Willingness-to-pay",
+      "Economic value profile",
+      "Market segmentation",
+      "Two-tier pricing strategy",
+      "Feature sets",
+      "Attribute levels"
+    ],
+    "quotes": [
+      "a technique developed in the late 1970s and early 1980s that can discern the hidden values that customers place on product features",
+      "Monetary value estimation is an especially effective sales tool when buyers facing extreme cost pressures are very price sensitive"
+    ],
+    "actionable_lessons": [
+      "Use conjoint analysis to quantify the value customers place on different product features and attributes",
+      "Segment markets based on different value drivers and willingness-to-pay to inform pricing strategy",
+      "Test warranty and other non-performance attributes in conjoint studies as they may be significant value drivers",
+      "Implement segmented or two-tier pricing strategies when value differs significantly across customer segments",
+      "Combine quantified value estimates with understanding of segment buying patterns to make business cases for pricing decisions"
+    ],
+    "open_questions": [
+      "How should companies balance profit maximization for premium segments against market share in price-sensitive segments?",
+      "What design and brand modifications enable successful two-tier pricing strategies?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-008",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 55972,
+      "char_start": 48311,
+      "checksum": "11c4611db215fc47",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk discusses how to estimate economic value for pricing strategy, comparing qualitative and quantitative approaches. It illustrates challenges with pricing across different customer segments, the limitations of conjoint analysis for innovative products, and the importance of understanding true economic value rather than assuming price premiums should match efficiency improvements. It also introduces the EVE model for handling products with negative differentiation and critiques customer value modeling approaches.",
+    "key_points": [
+      "Setting prices when value differs widely across segments requires understanding segment buying patterns and value drivers",
+      "Qualitative approaches for monetary value enable explicit linkage between product features, benefits, and value",
+      "Quantitative approaches like conjoint analysis enable statistical testing of offering designs and competitive scenarios",
+      "Value-based price premiums are often much greater than the percentage increase in technical efficiency",
+      "The EVE model can indicate minimum discounts needed when a product has net negative differentiation",
+      "Customer Value Modeling (CVM) relies on subjective customer judgments about price and product attributes"
+    ],
+    "arguments": [
+      "The value-based price premium one can charge is often much greater than the percentage increase in an offering's technical efficiency",
+      "Total economic value of a differentiated product is proportional to technical efficiency only when a buyer can receive benefits by buying more of the reference product",
+      "Conjoint and survey research techniques fall short when differentiating benefits are innovative because subjects must guess at benefits they haven't experienced"
+    ],
+    "examples": [
+      "Sport Co. golf club case: introduced two-tier pricing strategy with lower-performance model for budget shoppers through discount retailers and premium model for Innovators and Value Buyers in pro shops",
+      "Generic food sweetener manufacturer: product has no positive differentiating attributes relative to branded incumbent, only negative differentiators like longer lead times and less established brand",
+      "Cancer drug example: if a drug is 50% more effective, customers would pay significantly more than 50% higher price",
+      "Paint sprayer example: a tool that halves painting time is worth much more than twice the price of a brush"
+    ],
+    "stories": [
+      "Steve Jobs imagined the benefits of home computers and set prices that sparked growth of the home computer industry, despite a 1977 assertion by the CEO of the world's second-largest computer company that 'There is no reason anyone would ever want a computer in their home.'"
+    ],
+    "definitions": [
+      "EVE model: a tool that works with products having net negative differentiation to indicate the minimum discount needed to entice buyers to consider an alternative, and can highlight deficiencies better addressed through non-price means"
+    ],
+    "names": [
+      "Sport Co.",
+      "GenetiCorp",
+      "Steve Jobs",
+      "Malcolm Baldrige National Quality Award"
+    ],
+    "dates": [
+      "1977"
+    ],
+    "numbers": [
+      "30 percent of the market (budget consumers for Sport Co.)",
+      "50 percent more effective (cancer drug example)",
+      "half the usual time (paint sprayer productivity)",
+      "50 percent higher price (cancer drug pricing example)"
+    ],
+    "places": [],
+    "terms": [
+      "Economic Value Estimation (EVE)",
+      "Conjoint analysis",
+      "Psychological value",
+      "Monetary value",
+      "Net negative differentiation",
+      "Customer Value Modeling (CVM)",
+      "Total quality management",
+      "Value-based pricing",
+      "Feature-benefit-value linkage"
+    ],
+    "quotes": [
+      "There is no reason anyone would ever want a computer in their home.",
+      "the value-based price premium one can charge is often much greater than the percentage increase in an offering's technical efficiency"
+    ],
+    "actionable_lessons": [
+      "Use quantified value estimates combined with detailed understanding of segment buying patterns to make business cases for multi-tier pricing strategies",
+      "Employ EVE models to determine minimum discounts needed rather than discounting excessively to overcome sales hurdles",
+      "Address product deficiencies through non-price means when more efficient than price adjustments",
+      "Avoid assuming price premiums should match percentage increases in technical efficiency",
+      "Understand that value to customers often exceeds the technical efficiency ratio of a product"
+    ],
+    "open_questions": [
+      "How can pricing researchers better estimate psychological value for truly innovative products where customers lack prior experience?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-009",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 62948,
+      "char_start": 55272,
+      "checksum": "995649888e361031",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk critiques customer value modeling (CVM) as a flawed approach to pricing and advocates for value-based market segmentation. It explains how CVM underestimates differentiated products and overestimates commodity products by using a single linear relationship between price and quality. The text introduces the EVE model's components—reference value and differentiation value—and demonstrates why value-based segmentation is superior for pricing decisions, using Google's advertising bidding mechanism as an example.",
+    "key_points": [
+      "CVM underestimates the value of more differentiated products and overestimates the value of less differentiated products",
+      "CVM assumes a single linear relationship between price and perceived quality, which is fundamentally flawed",
+      "Total economic value has two components: reference value and differentiation value, each with different price-to-value ratios",
+      "Value-based segmentation is more useful for pricing than demographic or firmographic segmentation",
+      "Charging a single price to the entire market risks undercharging some segments and overcharging others",
+      "Google's bidding mechanism successfully aligns prices with customer value perception"
+    ],
+    "arguments": [
+      "CVM relies on customers' subjective judgments about price and product attributes, avoiding translation into hard-dollar estimates, making it analytically simpler but less accurate than economic value estimation",
+      "Customers mentally convert benefits into monetary terms to judge how much more they should pay for extra value, not based on average differential benefit estimates",
+      "The reference value (price of next-best alternative) usually is much less than the use value of benefits delivered by the reference product",
+      "Differentiation value is the extra use value a product delivers compared to the reference product, with a one-to-one price premium-to-differentiation value ratio",
+      "Most segmentation criteria correlate poorly with different buyers' motivations to pay higher or lower prices"
+    ],
+    "examples": [
+      "Price of a second paintbrush as reference value",
+      "Price of the EnSyn DNA test kit as reference value",
+      "Price of a soda at a refreshment stand as reference value",
+      "Plumbers and personal-injury lawyers both consider online advertising important but can afford to pay different amounts based on client value",
+      "Google's advertising bidding mechanism allows customers to pay prices reflecting their value perception"
+    ],
+    "stories": [],
+    "definitions": [
+      "Customer Value Modeling (CVM): A method that emerged from the total quality management movement where marketers measure and deliver superior quality at competitive price by rating each competitive supplier's relative strength on product attributes weighted by customer importance estimates",
+      "Reference value: The price a customer pays for the next-best alternative offering",
+      "Differentiation value: The extra use value a product delivers compared to the reference product, expressed in monetary terms as the price premium a differentiated supplier could charge",
+      "Value-based segmentation: Market segmentation models that facilitate pricing commensurate with actual value perceived and delivered to customers"
+    ],
+    "names": [
+      "Malcolm Baldrige National Quality Award",
+      "Google",
+      "EVE model"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "fair-value line",
+      "value equivalence line",
+      "indifference line",
+      "commodity benefits",
+      "differentiated offering",
+      "total economic value",
+      "use value",
+      "price-to-use value ratio",
+      "price-to-quality ratios",
+      "firmographics",
+      "standard industrial classification"
+    ],
+    "quotes": [
+      "Pricing your highly differentiated product at the supposed \"fair-value line\" level will be hazardous to your bottom line!",
+      "customers don't pay for average differential benefit estimates; they pay for the worth of the benefits they receive",
+      "The relationship between price and economic value is a function of two different price-to-quality ratios, not the single average ratio hypothesized in a CVM model"
+    ],
+    "actionable_lessons": [
+      "Implement value-based segmentation models rather than demographic or firmographic segmentation for pricing decisions",
+      "Recognize that reference value and differentiation value have different price-to-value ratios and should not be treated as a single linear relationship",
+      "Avoid pricing highly differentiated products at the CVM-hypothesized fair-value line, as this underprices the differentiation value",
+      "Enable customers to make price and value trade-offs through mechanisms like bidding to align prices with perceived value",
+      "Ensure each customer subgroup pays the most profitable price by understanding their specific value perception"
+    ],
+    "open_questions": [
+      "How can companies effectively identify and measure differentiation value versus reference value for their products?",
+      "What are the practical challenges in implementing value-based segmentation across different industries?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-010",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 69908,
+      "char_start": 62248,
+      "checksum": "feb5a2b7c75ea0fa",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk discusses value-based market segmentation as a superior approach to needs-based segmentation. It uses the International Harvester Company case study to illustrate how in-depth customer interviews reveal true value drivers. The text outlines a six-step process for value-based segmentation, beginning with determining basic segmentation criteria and identifying discriminating value drivers.",
+    "key_points": [
+      "Needs-based segmentations miss customer needs that have the greatest operational impact on seller's costs",
+      "In-depth customer interviews uncover why customers find certain product benefits appealing and reveal opportunities for new products",
+      "Value-based segmentation requires understanding both customer value perception and seller's operational constraints",
+      "Preliminary segmentations based on obvious criteria may not yield effective discrimination on value criteria",
+      "Value drivers should vary most among segments but be homogenous within segments"
+    ],
+    "arguments": [
+      "Google's bidding mechanism aligns prices with customer value by allowing customers to pay what reflects value to them, with the trade-off that lower bids result in less prominent ad placement",
+      "Seller's costs and constraints are important to pricing decisions because the goal is profitability, not just sales and market share",
+      "Customer in-depth interviews for value-based segmentations uncover opportunities to develop new products and reveal flawed strategies based on less comprehensive research"
+    ],
+    "examples": [
+      "Google's advertising bidding mechanism allows customers to make price and value trade-offs",
+      "Industrial grinding machine marketer could segment customers by industry, application, or total value received",
+      "Laboratory glassware example: commercial and non-industrial medical laboratories probably have similar needs and derive similar value from undifferentiated products"
+    ],
+    "stories": [
+      "International Harvester Company (IH) case: IH classified farmers by benefit perceptions and invested heavily in equipment reliability to match John Deere. However, in-depth interviews revealed farmers valued rapid service and downtime avoidance more than reliability itself. Deere's extensive dealer network with spare parts and loaner tractors provided greater value than IH's more reliable equipment."
+    ],
+    "definitions": [
+      "Value drivers: the purchase motivators that vary the most among segments but which have more or less homogenous levels within segments",
+      "Market segmentation: dividing a market into subgroups whose members have common criteria that differentiate their buying behaviors"
+    ],
+    "names": [
+      "Google",
+      "International Harvester Company (IH)",
+      "John Deere",
+      "GenetiCorp"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "value-based segmentation",
+      "needs-based segmentation",
+      "firmographics",
+      "value drivers",
+      "discriminating value drivers",
+      "operational constraints",
+      "benefit segmentation"
+    ],
+    "quotes": [
+      "our goal is not just sales and market share, but profitability",
+      "what was important to farmers was the downtime caused by breakdowns"
+    ],
+    "actionable_lessons": [
+      "Conduct in-depth customer interviews to uncover true value drivers rather than relying on surveys of benefit perceptions",
+      "Use a six-step process for value-based segmentation starting with basic segmentation criteria",
+      "Identify value drivers that discriminate among segments while being homogenous within segments",
+      "Check preliminary segmentation maps with salespeople and sales managers for sensibility",
+      "Examine operational advantages and constraints to determine which value drivers you can deliver efficiently"
+    ],
+    "open_questions": [
+      "Which value drivers can be delivered more efficiently and at lower cost than others?",
+      "Which drivers are constrained by your resources and operations?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-011",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 76919,
+      "char_start": 69208,
+      "checksum": "e87e978d2e41c0f0",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "A six-step framework for value-based market segmentation, using a commercial printing company case study to demonstrate how to identify customer segments based on value drivers, operational constraints, and strategic overlap between customer needs and seller capabilities.",
+    "key_points": [
+      "Primary segmentation should be based on the most important criterion differentiating customers, accounting for both customer needs and company capabilities",
+      "Strategic overlap occurs when customer needs align with seller's operational constraints and profitability considerations",
+      "Successive segmentations become unmanageable if too deep; only segment on drivers with critical discriminating power",
+      "Secondary segmentation divides primary segments based on the second most important value driver",
+      "Segment metrics and fences are necessary to make segmentation actionable for pricing strategy"
+    ],
+    "arguments": [
+      "Market segmentation should recognize strategic overlap between customer needs and seller operational constraints",
+      "Minor differences among sub-segments with low discriminating power have little impact on pricing policies and should not be segmented",
+      "Value-based segmentation requires understanding both customer value drivers and seller cost-to-serve implications"
+    ],
+    "examples": [
+      "Commercial printing company serving catalog marketers with primary segmentation based on print timing needs (firm dates vs. flexible scheduling)",
+      "Catalog printing secondary segments: 'brand focus' (custom services), 'consistency' (high quality, standard services), 'unique equipment' (special needs)",
+      "Flexible scheduling segments: 'cost-conscious' (fixed time window delivery) and 'low-touch, low-price' (bare-bones service with internet-to-press transactions)",
+      "Car rental companies used distance-based value metric, charging for mileage traveled in addition to time used"
+    ],
+    "stories": [],
+    "definitions": [
+      "Strategic overlap: the cost-to-serve implication resulting from finite operational resources that limits ability to serve all customer needs equally",
+      "Primary segmentation: segmentation based on the most important criterion differentiating customers",
+      "Secondary segmentation: division of primary segments into distinct subgroups according to the second most important criterion",
+      "Segment metrics: the basis for tracking the value customers receive and how they pay for it"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "value drivers",
+      "activity-based costing",
+      "customer behavior spectrum",
+      "multivariate statistical analyses",
+      "signatures (groups of printed pages)",
+      "segment fences",
+      "firmographics"
+    ],
+    "quotes": [
+      "It doesn't make sense to split hairs by segmenting according to drivers with less than critical discriminating power.",
+      "Minor differences among such sub-segments will have little impact on pricing policies."
+    ],
+    "actionable_lessons": [
+      "Use statistical cluster analysis to rank value drivers by their ability to discriminate among customers",
+      "Apply activity-based costing to understand true costs of serving different customer segments",
+      "Cross-reference customer needs, seller advantages/limitations, and competitor abilities to identify sustainable competitive advantages",
+      "Develop segment descriptions in everyday business terms so salespeople and marketing planners understand customer types",
+      "Create segment metrics and fences to make segmentation actionable and encourage customers to accept appropriate price policies"
+    ],
+    "open_questions": [
+      "Which value drivers can be delivered more efficiently and at lower cost than others?",
+      "Which drivers are constrained by company resources and operations?",
+      "Where do you have sustainable competitive advantages versus competitors?",
+      "Which customers can you better serve than competitors?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-11-economic-value-the-guiding-force-of-pricing-stra-chunk-012",
+    "source": {
+      "chapter_title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "char_end": 81759,
+      "char_start": 76219,
+      "checksum": "912a1239580ae3cb",
+      "source_pages": "47-76",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt"
+    },
+    "summary": "The chunk explains Step 6 of pricing strategy: developing segment metrics and fences. Metrics track value delivery to customers, while fences are policies that qualify customers for discounts or rewards. The foundation of profitable pricing is understanding economic value, which determines willingness-to-pay and enables effective segmentation, communication, and price-setting.",
+    "key_points": [
+      "Segmentation requires developing metrics of value delivery and fences to encourage price policy acceptance",
+      "Metrics track how customers receive value and how they pay for it",
+      "Fences are policies, rules, programs, and structures that qualify customers for discounts or rewards",
+      "Value-based segmentation informs both pricing and offering design",
+      "Understanding value enables effective communication campaigns to increase willingness-to-pay",
+      "Value should be a key input to price-setting decisions rather than market share or costs"
+    ],
+    "arguments": [
+      "Building pricing strategy on value metrics leads to more profitable results than building on market share or costs",
+      "Aligning prices, service bundles, and capacity utilization with different value levels creates a win-win balance for sellers and buyers"
+    ],
+    "examples": [
+      "Car rental companies once used distance-based value metrics and charged for mileage plus time; competition forced them to drop mileage charges and use time alone as the market-recognized metric",
+      "Airlines used Saturday night stay requirements as a fence to separate business travelers from price-sensitive pleasure travelers until competition forced them to drop the requirement",
+      "Minimum volume requirements, time-based membership requirements, and bundled purchase requirements serve as fences"
+    ],
+    "stories": [],
+    "definitions": [
+      "Metrics: the basis for tracking the value customers receive and how they pay for it",
+      "Fences: policies, rules, programs, and structures that customers must follow to qualify for price discounts or rewards"
+    ],
+    "names": [
+      "Ron Johnson",
+      "Ken Olson",
+      "Gerald E. Smith",
+      "Thomas T. Nagle",
+      "Peter H. Lewis",
+      "Thomas Nagle",
+      "Tracy Staton"
+    ],
+    "dates": [
+      "May 3, 1992",
+      "April 2008",
+      "February 10, 2016",
+      "1977",
+      "May/June 2005",
+      "July/August 2005"
+    ],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "value metric",
+      "fences",
+      "segmentation",
+      "willingness-to-pay",
+      "value-based segmentation",
+      "feature repackaging",
+      "unbundling",
+      "capacity utilization",
+      "differential value"
+    ],
+    "quotes": [
+      "value is the primary determinant of a buyer's willingness-to-pay",
+      "a menu of prices, products, services, and bundles that reflect different value received for different prices paid",
+      "That's a win–win balance for sellers and buyers; everyone gets something"
+    ],
+    "actionable_lessons": [
+      "Choose metrics and fences that establish premium prices for high-value segments",
+      "Allow feature repackaging and unbundling to appeal to low-value and low-cost-to-serve segments",
+      "Develop effective communications campaigns to increase customer willingness-to-pay by conveying value messages",
+      "Use value as a key input to price-setting decisions rather than market share or cost metrics"
+    ],
+    "open_questions": []
+  }
+]
+```

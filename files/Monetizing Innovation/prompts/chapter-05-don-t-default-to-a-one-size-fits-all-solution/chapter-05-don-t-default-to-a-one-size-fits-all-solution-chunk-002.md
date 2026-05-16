@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-05-don-t-default-to-a-one-size-fits-all-solution",
+  "chunk_id": "chapter-05-don-t-default-to-a-one-size-fits-all-solution-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 5: Don’t Default to a One-Size-Fits-All Solution",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/05 - CHAPTER 5 Dont Default to a One-Size-Fits-All Solution.txt",
+    "source_pages": "69-78",
+    "char_start": 6285,
+    "char_end": 13950,
+    "checksum": "6ca110f57da8e3e9"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+use their customers demanded high quality themselves. What’s more, reliability and just-in-time delivery were more important than price. This shows how useless and misleading averages are in segmenting customers. The sales team was right: Dividing customers simply by their size didn’t shed light on what they really needed from the paper company and how much they would pay to ﬁll those needs. Before segmenting its market this way, the company didn’t understand what customers really needed and what they’d pay to ﬁll those needs. The research upended earlier assumptions. In fact, each of the four new segments had a mix of customer sizes. The sales team was right: Dividing customers simply by 56
+
+Monetizing Innovation how big they are didn’t shed real light on what they really needed from the paper company. With this new way of segmenting its customer base, the product development team went to town. They saw new possibilities—with both product and services—to meet the needs of the four new segments. They developed solutions—products plus services—for each segment. And in constructing the portfolio of products and services for each segment, the product developers had a good idea of how much they could charge for them. They knew what customers were willing to pay. We’ll say more about that in Chapter 6. Typical Pitfalls of Segmentation The paper company used segmentation to drive the way it designed new products based on the needs, value, and willingness to pay data. Is that what you’re doing? Probably not. Most businesses do segmentation, but many are ineffective because of these three pitfalls: 1. Segmenting too late. Many companies start out with a one-size-ﬁts-all approach to product development and use segmentation only to determine their marketing and sales messages. But if they don’t design offerings to suit the needs of each segment, they run the risk of creating products no segment gets excited about. For example, if you have two customer segments and you design offerings for the “average” customer across both segments, you end up building a product neither group is fully happy about. You can try to repair the damage through sales and marketing segmentation ﬁxes—essentially, tailoring messages that appeal to each segment. But it’s too late by that point. You still have only one product to suit a range of diverse and sometimes incompatible customer needs. 2. Segmenting only by observable characteristics. Remember Prince Charles and Ozzy? The simple rule for product design is to base segmentation on your customers’ needs, value, and WTP for features you are developing. Period. Revenue size (for business-to-business), age (for consumer segments), ethnic background, and other observable characteristics are often purely uncorrelated to what matters the most in product design. Don’t Default to a One-Size-Fits-All Solution 57 3. Having too many segmentation schemes. Letting your managers create different segmentation methodol- ogies for marketing, promoting, and selling the same product in addition to your product design will lead to confusion. Ideally, your company will settle on one segmentation scheme used by all your ﬁrm’s functions so you have a uniﬁed approach to servicing your customers. Worst case, you must reduce your number of segmentation schemes. If you have more than three, you are headed for organizational confusion. What Best-in-Class Companies Do To do segmentation right in designing new products, remember this golden rule: You can act differently. (See Figure 5.2.) Successful innovators build the right product for the right segment at the right price. They use segmentation as a guiding inﬂuence, starting with the R&D stages of an innovation. They constantly explore how customer needs, value, and WTP differ in the market, and how they can act differently to shape products and versions differently for different segments. If there’s capacity to build only one product (for example, in a startup), the company prioritizes and builds that product for the segment with the biggest opportunity (either in terms of size or revenue potential), Figure 5.2 The Golden Rule of Segmentation 58 Monetizing Innovation while creating a plan to introduce future products for other segments. In all these ways, successful companies avoid building a one-size-ﬁts-none new product. An excellent example of this is Garmin, the maker of global position- ing system (GPS) devices that direct you on your journey, whether you’re a driver, golfer, runner, hiker, or biker. Hikers want to be safe, so they need a device to navigate the wilderness. Runners want to improve their performance, so they need to track distance, time, and speed. People driving cars want a GPS device that tells them where the trafﬁc is. Golfers need to navigate a course in as few strokes as possible and choose the right golf club (to avoid sand and water). They need a device that tells them how far they are from the pin (so they can use the right club) and where the sand and water are. It’s hard to imagine one device (no matter how brilliantly engi- neered) that would please all Garmin customer segments. As a result, Garmin makes a variety of navigation devices. It could have easily created a feature shock product by designing a one-size-ﬁts-all handheld or wearable GPS product. Instead, the company used sensible segmentation to develop multiple products. That approach makes total sense. Consider the case of Mettler Toledo, a $2.5 billion global manu- facturer of weighing instruments. The company’s industrial customers need scales that can withstand high impact, large temperature ﬂuctua- tions, and hazardous environments. Laboratories must have scales that are 100 percent accurate. Retailers need scales that are low-cost, capable of printing, and user-friendly. The underlying technology for weighing things is the same. But Mettler Toledo created different scales based on customer segment needs and WTP. Had it manufactured only one scale, it would have built a one-size-ﬁts-none failure. Segmentation gives you the power to serve customers better by catering to their speciﬁc needs. Segmenting in the early stages of your innovation process will help you build products thatresonate with customers. Plus,your sales and customer support teams will know how to service them better. Fundamentally, you’ll increase revenue, growth, and proﬁts by serving multiple customer groups, and achieve broader adoption by offering products at multiple price points. Imagine the money Apple would leave on the table if it didn’t offer so many models of iPhones. In only one ﬂavor, the iconic phone would appeal to far fewer people. Don’t Default to a One-Size-Fits-All Solution 59 Smart segmentation creates a win-win situation for your company and customers. Like the paper manufacturer we mentioned earlier in this chapter, you make it easier for your customers to ﬁnd the right product, make the purchase, and get the right level of services from your company. Insights, Tips, and Tricks Most companies are familiar with the methodologies for segmenting customers (clustering analysis, for example). But to do segmentation along the lines we’re talking about, keep in mind these ﬁve principles: 1. Begin with customer WTP data. In Chapter 4, we explored how to determine the WTP based on customer needs and value. By clustering individuals according to their WTP, value, and needs data, you will discover your segments—groups of people whose needs, value, and willingness to pay differ. 2. Let common sense be your guide in using statistics. Methods such as cluster analysis will give you many different options on how
+>>>

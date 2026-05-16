@@ -1,0 +1,1644 @@
+ CHAPTER 9
+ Financial Analysis
+ Analyzing Costs and
+Proﬁ ts for Pricing
+ It was only a sunny smile and little it cost in the giving but like morning light it
+scattered the night and made the day worth living.
+ F. Scott Fitzgerald  1
+ Internal ﬁ nancial considerations and external market considerations are, at
+many companies, antagonistic forces in pricing decisions. Financial managers
+allocate costs to determine how high prices must be to achieve proﬁ t objec-
+tives. Marketing and sales staff analyze buyers to determine how low prices
+must be to achieve sales objectives. Neither approach will lead to optimiz-
+ing the ﬁ rm’s proﬁ tability and growth. An effective pricing strategy requires
+taking account of, and making trade-offs between, both internal ﬁ nancial and
+external market constraints.
+ This chapter describes how managers can make that integration. It
+describes a simple, logically intuitive procedure for quantitatively evaluat-
+ing the potential impact of a price level change on proﬁ tability, even if their
+knowledge of price elasticity is imprecise and qualitative. Although the accu-
+racy of the resulting decision will be only as good as the accuracy of the infor-
+mation used to reach it, the process we propose helps ensure that a decision
+about what price level to set for any targeted segment is the best possible given
+the available information and previously chosen price metric.
+ EVALUATING THE FINANCIAL IMPLICATIONS
+OF PRICE ALTERNATIVES
+ A company’s margin goals, return on capital goals, and operating proﬁ t goals
+are, or at least should be, entirely irrelevant to pricing decisions. They are quite
+relevant for determining whether a company should invest to enter a mar-
+ket or to offer a line of products or services. Thus, a company should antici-
+pate the prices it expects will be possible before making such investments,
+and reject those investments where it seems that viable price scenarios will be
+Chapter 9 • Financial Analysis
+208
+inadequate to generate an adequate return on investment. Having made
+that investment, however, the best choice between two or more alternative
+price points is determined entirely by which one will generate the most proﬁ t
+contribution—revenue minus incremental, avoidable costs.
+ This makes evaluating price levels much easier than most people imag-
+ine as they go through various means to allocate costs under different sce-
+narios. There are only two things that need to be considered when comparing
+alternative price level proposals: What is the difference in revenue expected
+and what is the difference in costs that will be incurred to generate that rev-
+enue. In most cases, the difference in costs is the easier of the two to estimate,
+but even there it is possible to make mistakes that can lead to poor decisions.
+Consequently, we will begin with guidance on how to select the appropriate
+costs for price analysis.
+ Not all costs are relevant for every pricing decision. A ﬁ rst step in pric-
+ing is to identify the relevant costs: Those that actually determine the proﬁ t
+impact of the pricing decision. In principle, identifying the relevant costs for
+pricing decisions is actually fairly straightforward. They are the costs that are
+incremental (not average) and avoidable (not sunk). In practice, identifying
+costs that meet these criteria can be difﬁ cult unless a company has a good
+managerial accounting system in place. If one must rely on ﬁ nancial accounts,
+which describe past averages and include costs that are no longer avoidable,
+a pricing manager will need to create a “roughly right” approximation of the
+incremental, avoidable costs in order to create a pricing capability. We will
+now explain each of these distinctions in detail and illustrate it in the context
+of a practical pricing problem.
+ WHY INCREMENTAL COSTS?
+ Pricing decisions affect whether a company will sell less of the product at a
+higher price or more of the product at a lower price. In either scenario, some
+costs remain the same (in total). Consequently, those costs do not affect the
+relative proﬁ tability of one price versus another. Only costs that rise or fall
+(in total) when prices change affect the relative proﬁ tability of different pricing
+strategies. We call the costs that change with the change in a pricing decision
+“incremental” to that decision.
+ Incremental costs are the costs associated with changes in pricing and
+sales. The distinction between incremental and non-incremental costs paral-
+lels closely, but not exactly, the more familiar distinction between variable and
+ﬁ xed costs. Variable costs, such as the costs of raw materials in a manufactur-
+ing process, are costs of doing business. Because pricing decisions affect the
+amount of business that a company does, variable costs are always incremen-
+tal for pricing. In contrast, ﬁ xed costs, such as those for product design, adver-
+tising, and overheads, are costs of being in business.  2  They may be incremental
+when deciding whether to be in the business of selling a particular type of
+product or, in some cases, to serve a particular segment of customers. But ﬁ xed
+costs that are not affected by how much a company actually sells (such as R&D
+and corporate overhead) are not incremental and therefore not relevant when
+management must decide what price level to set to maximize proﬁ t.
+ Some ﬁ xed costs, however, are incremental for pricing decisions, and
+they must be appropriately identiﬁ ed. Incremental ﬁ xed costs are those that
+Chapter 9 • Financial Analysis
+209
+directly result from implementing a price change or from offering a version of
+the product at a different price level. For example, the ﬁ xed cost for a restau-
+rant to print menus with new prices or for a public utility to gain regulatory
+approval for a rate increase would be incremental when deciding whether to
+make those changes. The ﬁ xed cost for an airline to advertise a new discount
+service or to upgrade its planes’ interiors to offer a premium-priced service
+would be incremental when deciding whether to offer products at those price
+levels.
+ To further complicate matters, many costs are neither purely ﬁ xed nor
+purely variable. They are ﬁ xed over a range of sales but vary when sales go
+outside that range. The determination of whether such semiﬁ xed costs are
+incremental for a particular pricing decision is necessary to make that deci-
+sion correctly. Consider, for example, the role of capital equipment costs
+when deciding whether to expand output. A manufacturer may be able to
+ﬁ ll orders for up to 100 additional units each month without purchasing any
+new equipment, simply by using the available equipment more extensively.
+Consequently, equipment costs are non-incremental when ﬁ guring the cost
+of producing up to 100 additional units. If the quantity of additional orders
+increased by 150 units each month, though, the factory would have to pur-
+chase additional equipment. The added cost of new equipment would then
+become incremental and relevant in deciding whether the company can proﬁ t-
+ably price its units low enough to attract that additional business.
+ To illustrate the importance of properly identifying incremental costs
+when making pricing decisions, consider the problem faced by the business
+manager of an annual one-day music festival produced by a small town near
+a major metro area. The summertime festival is a source of pride for the town
+but the event must turn a proﬁ t, ideally one sufﬁ cient to subsidize other cul-
+tural events throughout the year. The festival incurs the following costs.
+ Planning and management overhead
+$15,000
+Performer compensation
+$40,000
+Venue (rentals and security)
+$20,000 per day
+Variable costs (e.g., programs, ticketing)
+$10 per patron
+ When the town’s new business manager came on board a few years ago, she
+began to increase prices with the festival continuing to sell out capacity at
+1,000 tickets. Last year, however, ticket sales fell to only 914 after she increased
+prices once again, from $90 to $100 per ticket. That price covered all the costs
+and the town eked out a small proﬁ t of $7,260. But the failure of the festival to
+sell out hurt civic pride, as well as local merchants who rely on the festival for
+a boost in summer sales.
+ The town manager is reluctant to roll back prices, believing that the fes-
+tival should make more of a ﬁ nancial contribution to the town. However, she
+is under pressure to revive festival attendance. Two proposals were put for-
+ward, although both involved selling seats at lower prices.
+ PROPOSAL A: ADDITIONAL PERFORMANCE Offer the same program of per-
+formers on Friday as well as Saturday. The manager expects that making Fri-
+day tickets available for $85 would deﬁ nitely revive interest from patrons who
+were deterred by the $100 price. Based upon the demand turned away in prior
+Chapter 9 • Financial Analysis
+210
+years, she estimates that a Friday program could sell 700 tickets, but as many
+as 200 of those could be sold to people who would otherwise have attended
+the higher-priced Saturday performance. The net increase in ticket sales, after
+accounting for the cannibalization of Saturday sales, would still be 500 tickets,
+generating a 50% increase in total festival attendance and incremental revenue
+of $39,500. Performers indicated that they would give a second performance
+of the same program at half the one-day fee. The cost to set up staging and
+seating for the venue ($8,000) would not need to be borne again to offer the
+program two days in a row, reducing the venue cost to $12,000 for the added
+performance.
+ PROPOSAL B: STUDENT RUSH DISCOUNT A less ambitious, but not neces-
+sarily exclusive, proposal would involve offering half-price tickets to bona
+ﬁ de full-time students for any seat still unsold 24 hours before the festival
+performance. The manager estimates she could easily sell 100 such tickets,
+but as many as 20 might be to students who otherwise would have bought
+a full price ticket rather than waiting for the chance to get one at half price.
+The net increase in ticket sales from this option, after accounting for canni-
+balization of full price tickets, is 80 tickets generating incremental revenue
+of $3,000.
+ Which, if either, of these proposals should the town manager adopt if
+the goal is to maximize net income to the town? An analysis of the alterna-
+tives is shown in Exhibit 9-1 and there are a few points that are noteworthy.
+First, the ticket prices proposed for either proposal do not cover the fully allo-
+cated average cost per ticket, a little over $85. At companies that still use the
+antiquated and ﬂ awed practice of “absorption cost” accounting for manage-
+rial decisions, both options would be rejected outright as unproﬁ table unless
+ticket prices covered that cost. But the advantage of both proposals is that
+much of the cost of the festival, although necessary for those options, is not
+incremental to making the additional sales that they would generate. At the
+proposed ticket prices, the incremental revenue expected to be generated by
+either proposal more than covers the incremental cost. Also noteworthy is that
+the Student Rush proposal is expected to be almost as proﬁ t-enhancing as the
+additional Friday performance, even though it generates less than one-tenth
+of the revenue.
+ Second, an important cost that is often overlooked in such an analysis is
+the “opportunity cost” of revenues forgone from other sales: In this case, the
+forgone sales of some $100 tickets when cheaper tickets are offered under the
+new proposals. Although the “student rush” option involves selling tickets
+at the lowest price, that price is easily “fenced” to minimize cannibalization
+of higher-priced ticket sales by limiting it to bona ﬁ de students. Offering dis-
+counted student rush tickets enables the potential to sell out the full venue
+while maintaining the $100 price that most patrons ﬁ nd acceptable, adding
+over $2,000 to the town’s expected $7,260 income from offering the festival at
+$100 per ticket to everyone else. The Friday option, however, relies on custom-
+ers self-segmenting. Considering the greater uncertainty involved in offering
+the extra Friday performance, with a greater potential for loss if the expected
+incremental sales are not achieved or if more patrons shift from the Saturday
+to the cheaper Friday performance, the student rush might well be a better
+choice.
+Chapter 9 • Financial Analysis
+211
+ Although the music festival example is hypothetical, the analytical chal-
+lenges it illustrates are not. Scores of companies add to proﬁ t from sales that
+are priced below average cost, which they can do when that average includes
+costs that are not incremental to the additional sales:
+ •  Packaged goods manufacturers often supply generic versions of their
+branded products at prices below average cost. They can do so proﬁ t-
+ably because they can produce them with little or no incremental costs of
+capital, shipping, and selling beyond those already incurred to produce
+their branded versions.
+ •  A leading manufacturer of industrial cranes also does milling work for
+other companies whenever the ﬁ rm’s vertical turret lathes would not
+otherwise be used. The price for such work does not cover a proportion-
+ate share of the equipment cost. It is, however, proﬁ table work since the
+equipment must be available to produce the ﬁ rm’s primary product. The
+equipment cost is, therefore, not incremental to the additional milling
+work.
+ •  Airlines ﬂ y weekend ﬂ ights that do not cover a proportionate share of
+capital costs for the plane and ground facilities. Those costs must be
+incurred to provide weekday service and so are irrelevant when judging
+whether weekend fares are adequate to justify this service. In fact, week-
+end fares often add incrementally more to proﬁ ts than higher weekday
+fares precisely because they require no additional capital.
+ In each of these cases, the key to getting the business is having a low price.
+Yet one should never be deceived into thinking that low-price sales are nec-
+essarily low-proﬁ t sales. In some cases, they make a disproportionately
+large contribution to proﬁ t because they make a small incremental addition
+EXHIBIT 9-1
+EXHIBIT 9-1 Analysis of Music Festival Revenue Options
+Analysis of Music Festival Revenue Options
+Chapter 9 • Financial Analysis
+212
+to costs. The goal of pricing is not to make higher priced sales; it is to make
+higher proﬁ t sales.
+ WHY FOCUS ON AVOIDABLE COSTS?
+ The hardest principle for many business decision-makers to accept is that
+the costs which are relevant for pricing are the ones that are still avoidable,
+not the historical ones already incurred. Avoidable costs are those that either
+have not yet been incurred or can be reversed. The costs of selling a product,
+delivering it to the customer, and replacing the sold item in inventory are
+avoidable, as is the rental cost of buildings and equipment that are not cov-
+ered by a long-term lease. The opposite of avoidable costs are sunk costs—
+those costs that a company is irreversibly committed to bear. For example,
+a company’s past expenditures on research and development are sunk costs
+since they cannot be changed regardless of any decisions made in the pres-
+ent. The rent on buildings and equipment within the term of a current lease
+is sunk, except to the extent that the ﬁ rm can avoid the expense by subletting
+the property.  3
+ The cost of assets that a ﬁ rm owns may or may not be sunk. If an asset
+can be sold for an amount equal to its purchase price times the percentage
+of its remaining useful life, then none of its cost is sunk, since the cost of the
+unused life can be entirely recovered through resale. Popular models of air-
+planes often retain their value in this way, making avoidable the entire cost
+of their depreciation from continued use. If an asset has no resale value, then
+its cost is entirely sunk even though it may have much useful life remaining.
+A neon sign depicting a company’s corporate logo may still function for a long
+time, but its cost is entirely sunk since no other company would care to buy
+it. Frequently, the cost of assets is partially avoidable and partially sunk. For
+example, a new truck could be resold for a substantial portion of its purchase
+price but would lose some market value immediately after purchase. The por-
+tion of the new price that could not be recaptured is sunk and should not be
+considered in pricing decisions. Only the decline in the resale value of the
+truck is an avoidable cost of using it.
+ From a practical standpoint, the easiest way to identify the avoidable
+cost is to recognize that the cost of making a sale is always the current cost
+resulting from the sale, not costs that occurred in the past. What, for example,
+is the cost for an oil company to sell a gallon of gasoline at one of its company-
+owned stations? One might be inclined to say that it is the cost of the oil used
+to make the gasoline plus the cost of reﬁ ning and distribution. Unfortunately,
+that view could lead reﬁ ners to make some costly pricing mistakes. Most oil
+company managers realize that the relevant cost for pricing gasoline is not the
+historical cost of buying oil and producing a gallon of gasoline, but rather the
+future cost of replacing the inventory when sales are made. Even LIFO (last-in,
+ﬁ rst-out) accounting can be misleading for companies that are drawing down
+large inventories. To account accurately for the effect of a sale on proﬁ tability,
+managers should adopt NIFO (next-in, ﬁ rst-out) accounting for managerial
+decision-making.  4
+ The distinction between the historical cost of acquisition and the future
+cost of replacement is merely academic when supply costs are stable. It
+becomes very practical when costs rise or fall.  5  When the price of crude oil
+Chapter 9 • Financial Analysis
+213
+rises, companies quickly raise prices, long before any gasoline made from the
+more expensive crude reaches the pump. Politicians and consumer advocates
+label this practice “price gouging,” since companies with large inventories of
+gasoline increase their reported proﬁ ts by selling their gasoline at much higher
+prices than they paid to produce it. So what is the real incremental cost to the
+company of selling a gallon of gasoline?
+ Each gallon of gasoline sold requires the purchase of crude oil at the
+new, higher price for the company to maintain its gasoline inventory. If that
+price is not covered by revenue from sales of gasoline, the company suffers
+reduced cash ﬂ ow from every sale. Even though the sales appear proﬁ table
+from a historical cost standpoint, the company must add to its working capital
+(by borrowing money or by retaining a larger portion of earnings) to pay the
+new, higher cost of crude oil. Consequently the real “cash” cost of making a
+sale rises immediately by an amount equal to the increase in the replacement
+cost of crude oil.
+ What happens when crude oil prices decline? If a company with large
+inventories held its prices high until all inventories were sold, it would be
+undercut by any company with smaller inventories that could proﬁ tably take
+advantage of the lower cost of crude oil to gain market share. The company
+would see its sales, proﬁ ts, and cash ﬂ ow decline. Again, the intelligent com-
+pany bases its prices on the replacement cost, not the historical cost, of its
+inventory. In historical terms, it reports a loss. However, that loss corresponds
+to an equal reduction in the cost of replacing its inventories with cheaper crude
+oil. Since the company simply reduces its operating capital by the amount of
+the reported loss, its cash ﬂ ow remains unaffected by that “loss.”
+ The impact of sales on cash is usually a much better gauge of the incre-
+mental, avoidable proﬁ tability of a sale than the cost of any historical decisions
+enabling those sales.
+ UNDERSTANDING THE FINANCIAL IMPLICATIONS
+OF ALTERNATIVE PRICE LEVELS
+ Far too often, price changes get made with little or no analysis of their likely
+ﬁ nancial impact on proﬁ tability. Instead, decisions are made to lower prices
+to protect sales or meet sales goals, and decisions are made to raise prices
+to recover costs. As a result, price reductions occur without consideration of
+whether the sales goal is appropriate. And opportunities to raise prices are
+missed because decision-makers are never confronted with the potential prof-
+its that could have been earned if they had acted.
+ The primary excuse for the failure to estimate and manage pricing for
+proﬁ tability is that it requires estimates of relevant internal costs and of the
+effect of price on external demand. We have described earlier in this chapter
+how it is possible to make roughly accurate estimates of relevant costs. We
+are also sympathetic to the challenge of estimating “demand price elasticities”
+precisely and cost-effectively, although the cost of doing so for frequently pur-
+chased consumer goods has declined immensely due to declines in the cost of
+technology and the willingness of retailers to sell detailed sales data by brand
+and package size.
+ For infrequently purchased products, for products new to the market,
+and for products where prices are negotiated with large buyers, information
+Chapter 9 • Financial Analysis
+214
+about demand price elasticity is rarely precise enough to “optimize” the price.
+But however difﬁ cult it is to know price elasticity with any certainty, it will
+determine the difference in proﬁ tability that could be generated at different
+price levels. Even if one cannot possibly estimate demand elasticity with a
+high level of accuracy, it may still be possible to estimate the likelihood that it
+will be at least whatever it needs to be to prevent a price change from damag-
+ing proﬁ tability.
+ With an estimate of the minimum change in sales necessary to make a
+price change proﬁ tably—what we call the breakeven sales change—it is pos-
+sible to bring qualitative judgment to bear by, for example, asking a sales or
+product manager whether she would prefer to retain the current sales goal
+and target price level, a lower price level with a higher sales goal, or a higher
+price level with a lower sales goal. It is also possible to track the effect of a
+price change on sales levels to determine quickly whether the change is meet-
+ing the minimum effects necessary for it to be proﬁ table. While the resulting
+level of uncertainty may be uncomfortable, it is preferable to making decisions
+blindly or failing to make them out of fear. Over time, as managers learn to
+think in terms of managing pricing to achieve proﬁ t goals, rather than sales or
+cost-recovery goals, they either become increasingly comfortable incorporat-
+ing qualitative judgments or they invest to gain more quantitative insight.
+ Evaluating the Potential Proﬁ tability of a Price Change
+ The remainder of this chapter describes a simple, logically intuitive procedure
+to quantitatively evaluate the potential proﬁ tability of a price change. First,
+marketing or pricing managers must deﬁ ne a baseline against which any pric-
+ing alternative is to be compared. For example, they might compare the effects
+of a pending price change with the product’s current level of proﬁ tability, or
+perhaps with a hypothetical scenario that management is particularly inter-
+ested in exploring. Second, they need to calculate an incremental “breakeven”
+point for the price change to determine the minimum, or “breakeven” sales
+response necessary to achieve at least as much proﬁ tability at the new price
+as at the baseline price. Finally, the managers must then decide whether they
+believe that the sales response will reach at least that breakeven level—a deter-
+mination that can incorporate both quantitative and qualitative information.
+ The key to integrating costs and quantitatively assessing the conse-
+quences of a price change is the incremental breakeven formula. Although
+similar in form to the common breakeven points that managers use to evaluate
+investments, an incremental breakeven for pricing is quite different in prac-
+tice. Rather than evaluating the sales required for a product to achieve over-
+all proﬁ tability, which depends on many factors other than price, incremental
+breakeven analysis focuses on the incremental effect on proﬁ tability of a price
+change. Consequently, managers start from a baseline then ask whether a
+change in price could improve the situation. More precisely, they ask:
+ •  How much would sales volume have to increase to make a price reduc-
+tion profitable?
+Managers advocating for a lower price can then be asked for evidence
+and commitment that the higher volume can be achieved and for a cred-
+ible plan to achieve it.
+Chapter 9 • Financial Analysis
+215
+ •  How much would sales volume have to decline to make a price
+increase unprofitable?
+Managers advocating for a higher price can then be asked for evidence
+and commitment that sufﬁ cient volume can be retained at higher prices
+and for a credible plan to justify those prices to customers.
+ The sample problems in this chapter introduce four alternative formulas which,
+under different circumstances, would be used to answer these questions. To
+introduce and illustrate the application of these formulas, we will describe the
+experience of Westside Manufacturing, a company that makes high-quality
+pillows for sale through specialty bedding and dry-cleaning stores. Although
+the examples are, for simplicity, based on a hypothetical small manufacturing
+business, the equations are equally applicable for analyzing any size or type of
+business that does not negotiate a unique price for each customer.  6  If custom-
+ers are effectively segmented for pricing, the formulas apply to price levels
+within a segment.
+ Following are Westside Manufacturing’s income and costs for a typical
+month:
+ Sales
+4,000 units
+ Wholesale price
+$10.00 per unit
+ Revenue
+$40,000
+ Variable costs
+$5.50 per unit
+ Fixed costs
+$15,000
+ Westside is considering a 5 percent price cut, which it believes would make
+it more competitive with alternative suppliers, enabling it to further increase
+its sales. Management believes that the company would need to incur no
+additional ﬁ xed costs as a result of this pricing decision. How much would
+sales have to increase for this company to proﬁ t from a 5 percent cut?
+ To answer Westside’s question, we calculate the breakeven sales change.
+This, for a price cut, is the minimum increase in sales volume necessary for
+the price cut to produce an increase in contribution relative to the baseline.
+Fortunately, making this calculation is simple, as will be shown shortly.
+First, however, it may be more intuitive to illustrate the analysis graphically
+(see Exhibit 9-2). In this exhibit, it is easy to visualize the ﬁ nancial trade-
+offs involved in the proposed price change. Before the price change, Westside
+receives a price of $10 per unit and sells 4,000 units, resulting in total revenues
+of $40,000 (the total area of boxes (a) and (b)). From this Westside pays vari-
+able costs of $5.50 per unit, for a total of $22,000 (box b). Therefore, before the
+price change, total contribution is $40,000 minus $22,000, or $18,000 (box a). In
+order for the proposed price cut to be proﬁ table, contribution after the price
+cut must exceed $18,000.
+ After the 5 percent price reduction, Westside receives a price of only
+$9.50 per unit, or $0.50 less contribution per unit. Since it normally sells 4,000
+units, Westside would expect to lose $2,000 in total contribution (box c) on
+sales that it could have made at a higher price. This is called the price effect.
+Fortunately, the price cut can be expected to increase sales volume.
+ The contribution earned from that increased volume, the volume effect
+(box e), is unknown. The price reduction will be proﬁ table, however, when
+the volume effect (the area of box e) exceeds the price effect (the area of box c).
+Chapter 9 • Financial Analysis
+216
+That is, in order for the price change to be proﬁ table, the gain in contribution
+resulting from the change in sales volume must be greater than the loss in con-
+tribution resulting from the change in price. The purpose of breakeven analy-
+sis is to calculate the minimum sales volume necessary for the volume effect
+(box e) to balance the price effect (box c). When sales exceed that amount, the
+price cut is proﬁ table.
+ So, how do we determine the breakeven sales change? We know that the
+lost contribution due to the price effect (box c) is $2,000, which means that the
+gain in contribution due to the volume effect (box e) must be at least $2,000
+for the price cut to be proﬁ table. Since each new unit sold following the price
+cut results in $4 in contribution ($9.50 – $5.50 = $4), Westside must sell at least
+an additional 500 units ($2,000 divided by $4 per unit) to make the price cut
+proﬁ table.
+ The minimum percent change in sales volume necessary to maintain at
+least the same contribution following a price change can be directly calculated
+by using the following simple formula (see Appendix 9B for derivation):
+−Δ
++ Δ
+P
+CM
+P
+ In this equation, the price change and contribution margin may be stated in
+dollars, percentages, or decimals (as long as their use is consistent within
+the same formula). The result of this formula is a decimal ratio that, when
+multiplied by 100, is the percent change in unit sales necessary to maintain
+the same level of contribution after the price change. The minus sign in the
+numerator indicates a trade-off between price and volume: Price cuts increase
+the volume and price increases reduce the volume necessary to achieve any
+particular level of proﬁ tability. The larger the price change—or the smaller the
+EXHIBIT 9-2
+EXHIBIT 9-2 Finding the Breakeven Sales Change
+Finding the Breakeven Sales Change
+Chapter 9 • Financial Analysis
+217
+contribution margin—the greater the volume change necessary to generate at
+least as much contribution as before.
+ Assume for the moment that there are no incremental ﬁ xed costs in
+implementing Westside’s proposed 5 percent price cut. For convenience, we
+make our calculations in dollars (rather than in percentages or decimals). The
+contribution margin is:
+ $CM = $10.00 – $5.50 = $4.50
+ Given this, we can easily calculate the breakeven sales change as follows:
+%
+$ .
+ Breakeven sales change
+
+.
+or
+−(
+)
+$ .
+−
+(
+)
+$ .
+.
+5. 0 +( $
+−
+0 125
+12
+1 . %
+5
+ Thus, the price cut is proﬁ table only if sales volume increases by more than
+12.5 percent. Relative to its current level of sales volume, Westside would have
+to sell at least 500 additional units to maintain the same level of proﬁ tability it
+had prior to the price cut, as shown below:
+ Unit breakeven sales change = 0.125 x 4,000 = 500 units
+ If the actual increase in sales volume exceeds the breakeven sales change, the
+price cut will be proﬁ table. If the actual increase in sales volume falls short
+of the breakeven sales change, the price change will be unproﬁ table. If West-
+side’s sales increase as a result of the price change by more than the break-
+even amount—say, by an additional 550 units—Westside will realize a gain in
+proﬁ t contribution. If, however, Westside sells only an additional 450 units as
+a result of the price cut, it will suffer a loss in contribution.
+ Once we have the breakeven sales change and the proﬁ t contribution,
+calculating the precise change in contribution associated with any change in
+volume is straightforward: It is simply the difference between the actual sales
+volume and the breakeven sales volume, times the new contribution margin
+(calculated after the price change). For Westside’s 550-unit and 450-unit vol-
+ume changes, the change in contribution equals the following:
+ (550 – 500)  × $4 = $200
+ (450 – 500)  × $4 = –$200
+ The $4 in these formulas is the new contribution margin ($9.50 – $5.50). You
+might have noticed that the denominator of the percent breakeven formula is
+also the new contribution margin.
+ We have illustrated breakeven analysis using Westside’s proposed
+5 percent price cut. The logic is exactly the same for a price increase. Since
+a price increase results in a gain in unit contribution, Westside can tolerate
+some reduction in sales volume and still increase its proﬁ tability. How much
+of a reduction in sales volume can Westside tolerate before the price increase
+becomes unproﬁ table? The answer is this: Until the loss in contribution due to
+reduced sales volume is exactly offset by the gain in contribution due to the
+price increase. As an exercise, calculate how much sales Westside could afford
+to lose before a 5 percent price increase becomes unproﬁ table.
+ It is important to note that the calculation resulting from the break-
+even sales change formula is expressed as the percent change in unit volume
+required to break even, not the percent change in monetary sales (for example,
+Chapter 9 • Financial Analysis
+218
+the percent change in dollar sales) required to break even. In the case of a price
+cut, the percent breakeven sales change in units necessary to justify the price
+cut is larger than the percent breakeven sales change in sales dollars because
+the price is now lower.
+ To convert from the percent breakeven sales change in units to the per-
+cent breakeven sales change in dollars, you can apply the following simple
+conversion formula:
+ % BE($) = % BE(units)  + % Price change [1  + % BE(units)]
+ For example, for Westside’s proposed 5 percent price cut above, the percent
+breakeven sales change in unit volume terms was 12.5 percent. What is the cor-
+responding percent breakeven sales change in dollar sales terms? The answer
+is calculated as follows:
+ % BE($) = 0.125  + (–0.05)(1  + 0.125)
+ = 6.88%
+ Thus, to break even on the proposed 5 percent price cut, Westside would have
+to increase its total dollar sales by 6.88 percent, which is exactly equivalent to
+a 12.5 percent increase in unit volume.
+ BREAKEVEN SALES INCORPORATING
+A CHANGE IN VARIABLE COSTS
+ Thus far, we have dealt only with price changes that involve no changes in
+unit variable costs or in ﬁ xed costs. Often, however, price changes are made
+as part of a marketing plan involving cost changes as well. A price increase
+may be made along with product improvements that increase variable costs,
+or a price cut might be made to push the product with lower variable selling
+costs. Expenditures that represent ﬁ xed costs might also change along with a
+price change. We need to consider these two types of incremental costs when
+calculating the price–volume trade-off necessary for making pricing decisions
+proﬁ table. We begin this section by integrating changes in variable cost into
+the ﬁ nancial analysis. In the next section, we do the same with changes in
+ﬁ xed costs.
+ Fortunately, dealing with a change in variable cost involves only a sim-
+ple generalization of the breakeven sales change formula already introduced.
+To illustrate, we return to Westside Manufacturing’s proposed 5 percent price
+cut. Suppose that Westside’s price cut is accompanied by a reduction in vari-
+able cost of $0.22 per pillow, resulting from Westside’s decision to use a new
+synthetic ﬁ ller to replace the goose feathers it currently uses. Variable costs are
+$5.50 before the price change and $5.28 after the price change. By how much
+would sales volume have to increase to ensure that the proposed price cut is
+proﬁ table?
+ When variable costs change along with the price change, managers
+simply need to subtract the cost change from the price change before doing
+the breakeven sales change calculation. Unlike the case of a simple price
+change, managers must state the terms on the right-hand side of the equation
+in currency units (dollars, euros, yen, and so forth) rather than in percentage
+changes:
+Chapter 9 • Financial Analysis
+219
+%
+$
+ Breakeven sales change =
+−(
+)
+$
+$ C
+$
+−
+(
+)
+$
+$
+P
+C
+$
+Δ
+$
+$
+
+ In this equation Δ indicates “change in,” P = price, and C = cost. Note that
+when the change in variable cost ($ΔC) is zero, this equation is identi-
+cal to the breakeven formula previously presented. Note also that the term
+($ΔP – $ΔC) is the change in the contribution margin and that the denomina-
+tor (the original contribution margin plus the change) is the new contribution
+margin. Thus, the general form of the breakeven pricing equation is simply
+written as follows:
+ %
+$
+$
+Breakeven sales change
+CM
+New CM
+=
+−Δ
+$
+ For Westside, the next step in using this equation to evaluate the proposed
+price change is to calculate the change in contribution margin. Recall that the
+change in price is $9.50 – $10 (or –$0.50). The change in variable costs is –$0.22.
+Thus, the change in contribution can be calculated as follows:
+ $ΔCM = ($ΔP – $ΔC) = –$0.50 – (–$0.22) = –$0.28
+ Previous calculations illustrated that the contribution margin before the price
+change is $4.50. We can, therefore, calculate the breakeven sales change as
+follows:
+ %
+$ .
+,
+Breakeven sales change
+.
+, or
+−(
+)
+$ .
+−
+(
+)
+$.
+=
++
+.
+, or
+.
+5. 0 +( $.
+−
+0 066
+6 6
+6. %
+6
+ In units, the breakeven sales change is 0.066  × 4,000 units, or 265 units. Given
+management’s projection of a $0.22 reduction in variable costs, the price cut
+can be proﬁ table only if management believes that sales volume will increase
+by more than 6.6 percent, or 265 units. Note that this increase is substantially
+less than the required sales increase (12.5 percent) calculated before assuming
+a reduction in variable cost. Why does a variable cost reduction lower the nec-
+essary breakeven sales change? Because it increases the contribution margin
+earned on each sale, making it possible to recover the contribution lost due
+to the price effect with less additional volume. This relationship is illustrated
+graphically for Westside Manufacturing in Exhibit 9-2. Westside can realize a
+gain in contribution due to the change in variable costs (box f), in addition to a
+gain in contribution due to any increase in sales volume.
+ BREAKEVEN SALES ANALYSIS FOR REACTIVE PRICING
+ So far we have restricted our discussion to proactive price changes, where
+the ﬁ rm contemplates initiating a price change ahead of its competitors. The
+goal of such a change is to enhance proﬁ tability. Often, however, a company
+initiates reactive price changes when it is confronted with a competitor’s price
+change that will impact the former’s sales unless it responds. The key uncer-
+tainty involved in analyzing a reactive price change is the sales loss the com-
+pany will suffer if it fails to meet a competitor’s price cut, or the sales gain the
+company will achieve if it fails to follow a competitor’s price increase. Is the
+Chapter 9 • Financial Analysis
+220
+potential sales loss sufﬁ cient to justify cutting price to protect sales volume?
+Or is the potential sales gain enough to justify forgoing the opportunity for
+a cooperative price increase? A slightly different form of the breakeven sales
+formula is used to analyze such situations.
+ To calculate the breakeven sales changes for a reactive price change, we
+need to address the following key questions: (i) What is the minimum poten-
+tial sales loss that justiﬁ es meeting a lower competitive price? (ii) What is the
+minimum potential sales gain that justiﬁ es not following a competitive price
+increase? The basic formula for these calculations is this:
+ Reactive
+breakeven sales change
+Change in price
+Contribut
+%
+=
+ion margin
+i
+ To illustrate, suppose that Westside’s principal competitor, Eastside, has just
+reduced its prices by 15 percent. If Westside’s customers are highly loyal, it
+probably would not pay for Westside to match this cut. If, on the other hand,
+customers are quite price sensitive, Westside may have to match this price cut
+to minimize the damage. What is the minimum potential loss in sales volume
+that justiﬁ es meeting Eastside’s price cut? The answer (calculated in percent-
+age terms) is as follows:  7
+ Reactive
+breakeven sales change
+or
+%
+%
+%
+.
+%,
+.
+or
+= −
+= −
+−
+15
+45
+0
+33 3%
+ Thus, if Westside expects sales volume to fall by more than 33 percent as a
+result of Eastside’s new price, it would be less damaging to Westside’s proﬁ t-
+ability to match the price cut than to lose sales. On the other hand, if Westside
+expects that sales volume will fall by less than 33 percent, it would be less
+damaging to Westside’s proﬁ tability to let Eastside take the sales than it would
+be to cut price to meet this challenge.
+ This analysis has focused on minimizing losses in the face of a competi-
+tor’s proactive price reduction. However, the procedure for analysis is the
+same when a competitor suddenly raises its prices. Suppose, for example, that
+Eastside raises its price by 15 percent. Westside might be tempted to match
+Eastside’s price increase. If, however, Westside does not respond to Eastside’s
+new price, Westside will likely gain additional sales volume as Eastside’s cus-
+tomers switch to Westside. How much of a gain in sales volume must be real-
+ized in order for no price reaction to be more proﬁ table than a reactive price
+increase? The answer is similarly found using the breakeven sales change for-
+mula with a reactive price change. If Westside is conﬁ dent that sales volume
+will increase by more than 33.3 percent if it does not react, a non-reactive price
+policy would be more proﬁ table. If Westside’s management does not expect
+sales volume to increase by 33.3 percent, a reactive price increase would be
+more proﬁ table.
+ Of course, the competitive analysis we have done is, by itself, overly
+simplistic. Eastside might be tempted to attack Westside’s other markets
+if Westside does not respond to Eastside’s price cut. And Westside’s not
+matching Eastside’s price increase might force Eastside to roll back its
+prices. These long-run strategic concerns might outweigh the short-term
+proﬁ t implications of a decision to react. In order to make such a judg-
+ment, however, the company must ﬁ rst determine the short-term proﬁ t
+Chapter 9 • Financial Analysis
+221
+implications. Sometimes long-term competitive strategies are not worth the
+short-term cost.
+ MAPPING A RANGE OF POTENTIAL FINANCIAL OUTCOMES
+ To grasp fully the potential impact of a price change, especially when the deci-
+sion involves incremental changes in ﬁ xed costs, it is useful to calculate the
+proﬁ t impact for a range of potential sales changes and to summarize them
+with a breakeven table and chart. Doing so is relatively simple after having
+calculated the basic breakeven sales change. Using this calculation, one can
+then simulate “what if” scenarios that include different levels of actual sales
+volume following the price change.
+ The top half of Exhibit 9-3 is a summary of the basic breakeven sales
+change analysis for Westside’s 5 percent price cut, with one column summa-
+rizing the level of contribution before the price change (the column labeled
+EXHIBIT 9-3
+EXHIBIT 9-3  Breakeven Sales Analysis and Simulated Scenarios: Westside
+Breakeven Sales Analysis and Simulated Scenarios: Westside
+Manufacturing’s Proposed 5 Percent Price Reduction
+Manufacturing’s Proposed 5 Percent Price Reduction
+Chapter 9 • Financial Analysis
+222
+“Baseline”) and one column summarizing the contribution after the price
+change (the column labeled “Proposed Price Change”). The bottom half of
+Exhibit 9-3 summarizes nine “what if” scenarios, showing the proﬁ tability
+associated with changes in sales volume ranging from 0 to 40 percent given
+incremental semiﬁ xed costs of $800 per 1,000 units. Columns 1 and 2 show the
+actual change in volume for each scenario. Columns 3 through 5 calculate the
+change in proﬁ t that results from each change in sales.
+ To illustrate how these breakeven sales-change scenarios are calculated,
+let us focus for a moment on scenario 6, where actual sales volume is projected
+to increase 20 percent. A 20 percent change in actual sales volume is equivalent
+to an 800-unit change in actual sales volume, since 800 units is 20 percent of the
+baseline sales volume of 4,000 units. How does this increase in sales translate
+into changes in proﬁ tability? Column 3 shows that a 20 percent (or an 800-
+unit) increase in sales volume results in a change in contribution after the price
+change of $1,200. This is calculated by taking the difference between the actual
+unit sales change (800 units) and the breakeven sales change shown in the top
+half of Exhibit 9-3 (500 units) and multiplying by the new contribution margin
+after the price change ($4). However, the calculations made in column 3 do not
+take into account the incremental ﬁ xed costs required to implement the price
+change (shown in column 4). Column 5 shows the change in proﬁ t after sub-
+tracting the change in ﬁ xed costs from the incremental contribution generated.
+EXHIBIT 9-4
+EXHIBIT 9-4 Breakeven Analysis of a Price Change
+Breakeven Analysis of a Price Change
+Chapter 9 • Financial Analysis
+223
+Where there is inadequate incremental contribution to cover the incremental
+ﬁ xed costs, as in scenarios 1 through 4, the change in proﬁ t is negative. Sce-
+nario 5 illustrates the breakeven sales change. Scenarios 6 through 9 are all
+proﬁ table scenarios, since they result in greater proﬁ t after the price change
+than before.
+ The interrelationships among contribution, incremental ﬁ xed costs, and
+the sales change that results from a price change are often easier to compre-
+hend with a graph. Exhibit 9-4 illustrates the relationships among the data in
+Exhibit 9-3.
+ BREAKEVEN SALES CURVES
+ So far we have discussed breakeven sales analysis in terms of a single change
+in price and its resultant breakeven sales change. In the example above, West-
+side Manufacturing considered a 5 percent price reduction, which we calcu-
+lated would require a 17.5 percent increase in sales volume to achieve enough
+incremental contribution to cover the incremental ﬁ xed cost. (As shown in
+Exhibit 9-3, scenario 5.) However, what if the company wants to consider a
+range of potential price changes? How can we use breakeven sales analysis to
+consider alternative price changes simultaneously? The answer is by charting
+a breakeven sales curve, which summarizes the results of a series of breakeven
+sales analyses for different price changes.
+ Constructing breakeven sales curves requires doing a series of “what
+if” analyses, similar to the simulated scenarios discussed in the last sec-
+tion. Exhibits 9-5 and 9-6 show numerically and graphically a breakeven
+sales curve for Westside Manufacturing, with simulated scenarios of price
+changes ranging from +25 percent to –20 percent. Note in Exhibit 9-6 that the
+vertical axis shows different price levels for the product, and the horizontal
+axis shows a volume level associated with each price level. Each point on
+the curve represents the sales volume necessary to achieve as much proﬁ t
+after the price change as would be earned at the baseline price. For example,
+Westside’s baseline price is $10 per unit, and baseline sales volume is 4,000
+units. If, however, Westside cuts the price by 15 percent to $8.50, its sales
+volume would have to increase 70 percent to 6,800 units to achieve the same
+proﬁ tability, to cover both the decrease in contribution as well as the incre-
+mental ﬁ xed costs. Conversely, if Westside increases its price by 15 percent
+to $11.50, its sales volume could decrease 25 percent to 3,000 units and still
+allow equal proﬁ tability.
+ The breakeven sales curve is a simple, yet powerful tool for synthesiz-
+ing and evaluating the dynamics behind the proﬁ tability of potential price
+changes. It presents succinctly and visually the dividing line that separates
+proﬁ table price decisions from unproﬁ table ones. Proﬁ table price decisions are
+those that result in sales volumes in the area to the right of the curve. Unprof-
+itable price decisions are those that result in sales volumes in the area to the
+left of the curve. What is the logic behind this? Recall the previous discussion
+of what happens before and after a price change. The breakeven sales curve
+represents those sales volume levels associated with their respective levels
+of price, where the company will make just as much net contribution after
+the price change as it made before the price change. If the company’s sales
+EXHIBIT 9-5
+EXHIBIT 9-5 Breakeven Sales Curve Calculations (with Incremental Fixed Costs)
+Breakeven Sales Curve Calculations (with Incremental Fixed Costs)
+224
+Chapter 9 • Financial Analysis
+225
+volume after the price change is greater than the breakeven sales volume (that
+is, actual sales volume is to the right of the curve), the price change will add to
+proﬁ tability. If the company’s sales volume after the price change is less than
+the breakeven sales volume (that is, the area to the left of the curve), the price
+change will be unproﬁ table. For example, for Westside a price of $8.50 requires
+a sales volume of at least 6,800 units to achieve a net gain in proﬁ tability. If,
+after reducing its price to $8.50, management believes it will sell more than
+6,800 units (a point to the right of the curve), then a decision to implement a
+price of $8.50 per unit would be proﬁ table.
+ The breakeven sales curve also clearly illustrates the relationship
+between the breakeven approach to pricing and the economic concept of
+price elasticity. Note that the breakeven sales curve looks suspiciously like
+the traditional downward-sloping demand curve in economic theory, in
+which different levels of price (on the vertical axis) are associated with dif-
+ferent levels of quantity demanded (on the horizontal axis). On a traditional
+demand curve, the slope between any two points on the curve determines
+the elasticity of demand, a measure of price sensitivity expressed as the per-
+cent change in quantity demanded for a given percent change in price. An
+economist who knew the shape of such a curve could calculate the proﬁ t-
+maximizing price.
+ Unfortunately, few ﬁ rms use economic theory to set price because of the
+unrealistic expectation that they ﬁ rst have to know their demand curve, or at
+least the demand elasticity around the current price level. To overcome this
+shortcoming, we have addressed the problem in reverse order. Rather than
+EXHIBIT 9-6
+EXHIBIT 9-6  Breakeven Sales Curve: Trade-Off Between Price and Sales Volume
+Breakeven Sales Curve: Trade-Off Between Price and Sales Volume
+Required for Constant Proﬁ tability
+Required for Constant Proﬁ tability
+Chapter 9 • Financial Analysis
+226
+asking, “What is the ﬁ rm’s demand elasticity?” we ask, instead, “What is the
+minimum demand elasticity required?” to justify a particular pricing decision.
+Breakeven sales analysis calculates the minimum or maximum demand elas-
+ticity required to proﬁ t from a particular pricing decision. The breakeven sales
+curve illustrates a set of minimum elasticities necessary to make a price cut
+proﬁ table, or the maximum elasticity tolerable to make a price increase proﬁ t-
+able. One is then led to ask whether the level of price sensitivity in the market
+is greater or less than the level of price sensitivity required by the ﬁ rm’s cost
+and margin structure.
+ This relationship between the breakeven sales curve and the demand
+curve is illustrated in Exhibits 9-7 and 9-8, where hypothetical demand curves
+are shown with Westside’s breakeven sales curve. If demand is more elastic,
+as in Exhibit 9-7, price reductions relative to the baseline price result in gains
+in proﬁ tability, and price increases result in losses in proﬁ tability. If demand is
+less elastic, as in Exhibit 9-8, price increases relative to the baseline price result
+in gains in proﬁ tability, and price reductions result in losses in proﬁ tability.
+Although few, if any, managers actually know the demand curve for their
+product, we have encountered many who can comfortably make judgments
+about whether it is more or less elastic than is required by the breakeven sales
+curve. Moreover, although we have not found any market research technique
+that can estimate a demand curve with great precision, we have seen many
+(described in Chapter 8 on measuring price sensitivity) that could enable man-
+agement to conﬁ dently accept or reject a particular breakeven sales level as
+achievable.
+EXHIBIT 9-7
+EXHIBIT 9-7  Breakeven Sales Curve: Relationship Between Price Elasticity of
+Breakeven Sales Curve: Relationship Between Price Elasticity of
+Demand and Proﬁ tability
+Demand and Proﬁ tability
+Chapter 9 • Financial Analysis
+227
+ WATCHING YOUR BASELINE
+ In the preceding examples, the level of baseline sales from which we calcu-
+lated breakeven sales changes was assumed to be the current level. For sim-
+plicity, we assumed a static market. In many cases, however, sales grow or
+decline even if price remains constant. As a result, the baseline for calculating
+breakeven sales changes is not necessarily the current level of sales. Rather,
+it is the level that would be expected to occur if no price change were made.
+ Consider, for example, a company in a high-growth industry with cur-
+rent sales of 2,000 units on which it earns a contribution margin of 55 percent.
+If the company does not change its price, management expects that sales will
+increase by 20 percent (the projected growth of total industry sales) to 2,400
+units. However, management is considering a 5 percent price cut in an attempt
+to increase the company’s market share. The price cut would be accompanied
+by an advertising campaign intended to heighten consumer awareness of the
+change. The campaign would take time to design, delaying implementation of
+the price change until next year. The initial sales level for the constant contribu-
+tion analysis, therefore, would be the projected sales in the future, or 2,400 units.
+Consequently, the breakeven sales change would be calculated as follows:
+%
+%
+.
+%,
+%
+ Breakeven sales change
+−(
+)
+%
+−
+(
+)
+%
+55
+0.
+%,
+%,
+ Or:
+ 0.10  × 2,400 = 240 units
+EXHIBIT 9-8
+EXHIBIT 9-8  Breakeven Sales Curve: Relationship Between Price Elasticity of
+Breakeven Sales Curve: Relationship Between Price Elasticity of
+Demand and Proﬁ tability: Changes in Proﬁ t with More Inelastic
+Demand and Proﬁ tability: Changes in Proﬁ t with More Inelastic
+Demand
+Demand
+Chapter 9 • Financial Analysis
+228
+ If the current sales level is used in the calculation, the unit breakeven sales
+change is calculated as 200 units, understating the change required by 40 units.
+ COVERING NON-INCREMENTAL FIXED AND SUNK COSTS
+ By this point, one might be wondering about the non-incremental ﬁ xed
+and sunk costs that have been ignored when analyzing pricing decisions.
+A company’s goal must surely be to cover all of its costs, including all ﬁ xed
+and sunk costs, or it will soon go bankrupt. This concern is justiﬁ ed and
+is central to pricing for proﬁ t, but it is misguided when applied to justify
+higher prices.
+Note that the goal in price setting is to determine the price level that
+maximizes a product’s proﬁ t contribution. Proﬁ t contribution, you will recall,
+is the income remaining after all incremental, avoidable costs have been cov-
+ered. It is money available to cover non-incremental ﬁ xed and sunk costs with,
+ideally, a lot left over for proﬁ t. When managers consider only the incremen-
+tal, avoidable costs in making pricing decisions, they are not saying that other
+costs are unimportant. They simply realize that the level of those costs is irrel-
+evant to decisions about which price will generate the most money to cover
+them. Since non-incremental ﬁ xed and sunk costs do not change with a pric-
+ing decision, they do not affect the relative proﬁ tability of one price versus an
+alternative. Consequently, consideration of them simply clouds the issue of
+which price level will generate the most proﬁ t.
+ All costs are important to proﬁ tability since they all, regardless of how
+they are classiﬁ ed, have to be covered before proﬁ ts are earned. At some point,
+all costs must be considered. What distinguishes value-based pricing from cost-
+driven pricing is when they are considered. A major reason that this approach
+to pricing is more proﬁ table than cost-driven pricing is that it encourages man-
+agers to think about costs when they can still do something about them. Every
+cost is incremental and avoidable at some time. For example, even the cost of
+product development and design, although it is ﬁ xed and sunk by the time the
+ﬁ rst unit is sold, is incremental and avoidable before the design process begins.
+The same is true for other costs. The key to proﬁ table pricing is to recognize
+that customers in the marketplace, not costs, determine what a product can sell
+for. Consequently, before incurring any costs, managers need to estimate how
+much customers can be convinced to pay for an intended product, given their
+alternatives. Management must then decide, while all costs are still avoidable,
+what costs they can proﬁ tably incur given the expected revenue.
+ Of course, no one has perfect foresight. Managers must make decisions
+to incur costs without knowing for certain how the market will respond and
+what alternatives competitors will offer. When their expectations are accurate,
+the market rewards them with sales at the prices they expected, enabling them
+to cover all costs and to earn a proﬁ t. When they overestimate a product’s
+value, proﬁ t contribution may prove inadequate to cover all the costs incurred.
+In that case, a good manager seeks to minimize the loss. This can be done
+only by maximizing proﬁ t contribution (revenue minus incremental, avoid-
+able costs). Short-sighted efforts to build non-incremental ﬁ xed and sunk costs
+into a price to justify regretted investments made in the past will only reduce
+volume further, making the losses worse.
+Chapter 9 • Financial Analysis
+229
+ Summary
+ The proﬁ tability of pricing decisions
+depends largely on the product’s incre-
+mental cost structure and the market’s
+response to the change in price. We dis-
+cuss the importance of identifying the
+costs that are most relevant to the prof-
+itability of a pricing decision, namely,
+incremental and avoidable costs. Having
+identiﬁ ed the right costs, one must also
+understand how to use them. The most
+important reason to identify costs cor-
+rectly is to be able to calculate an accurate
+contribution margin. An accurate contri-
+bution margin enables management to
+determine the amount by which sales
+must increase following a price cut, or
+by how little they may decline follow-
+ing a price increase for any price change
+to at least maintain the proﬁ t level that
+would have been achieved without the
+change. Understanding how changes in
+sales will affect a product’s proﬁ tability
+is the ﬁ rst step in pricing the product
+effectively.
+Notes
+1.  Elizabeth Drake, “F. Scott Fitzger-
+ald: 10 Quotes on His Birthday,” The
+Christian Science Monitor, September
+23, 2012. Accessed April 21, 2017 at
+www.csmonitor.com/Books/2012/
+0923/F.-Scott-Fitzgerald-10-quotes-
+on-his-birthday/A-smile.
+2.  Beware of costs classiﬁ ed as “over-
+head.” Often costs end up in that
+classiﬁ cation, even though they are
+clearly variable, simply because
+“overhead” is a convenient dump-
+ing ground for costs that one has
+not associated with the products
+that caused them to be incurred. A
+clue to the existence of such a mis-
+classiﬁ cation is the incongruous
+term “variable overhead.”
+3.  Most economics and accounting
+texts equate avoidable costs with
+variable costs, and sunk costs with
+ﬁ xed costs, for theoretical conve-
+nience. Unfortunately, those texts
+usually fail to explain adequately
+that this is an assumption rather
+than a necessarily true statement.
+Consequently, many students come
+away from related courses with
+the idea that a ﬁ rm should always
+continue producing if price at least
+covers variable costs. That rule is
+correct only when the variable costs
+are entirely sunk. In many indus-
+tries (for example, airlines) the ﬁ xed
+costs are often avoidable, since the
+assets can be readily sold. When-
+ever the ﬁ xed costs are avoidable if
+a decision is not made to produce a
+product, or to produce it in as large
+a quantity, they should be consid-
+ered when deciding whether a price
+is adequate to serve a market.
+4.  LIFO and NIFO costs are the same
+in any accounting period when
+a ﬁ rm makes a net addition to its
+inventory. In periods during which
+a ﬁ rm draws down its inventory,
+LIFO will understate costs after
+the ﬁ rm uses up the portion of its
+inventory values at current prices
+and begins “dipping into old lay-
+ers” of inventory valued at unreal-
+istic past prices.
+5.  Sam Peltzman, “Prices Rise Faster
+Than They Fall,” Journal of Politi-
+cal Economy 108(3) (June 2000),
+pp. 466–502.
+6.  The rule for analyzing the proﬁ t-
+ability of independently negotiated
+prices is simple: A price is proﬁ t-
+able as long as it covers incremental
+costs. Unfortunately, many manag-
+ers make the mistake of applying
+that rule when prices are not inde-
+pendent across customers. They
+assume, mistakenly, that because
+they negotiate prices individually,
+they are negotiating them indepen-
+dently. In fact, because customers
+talk to one another and learn the
+Chapter 9 • Financial Analysis
+230
+prices that others pay, prices are
+rarely independent. The low price
+you charge to one customer will
+eventually depress the prices that
+you can charge to others.
+7.  This equation can also accommo-
+date a change in variable cost by
+simply replacing the “change in
+price” with the “change in price
+minus the change in variable cost.”
+One can also add to it the breakeven
+necessary to cover a change in ﬁ xed
+costs.
+Chapter 9 • Financial Analysis
+231
+ Appendix 9A
+CASE STUDY: RITTER & SONS
+CONSIDERATION OF PRICE
+CHANGES FOR PROFIT
+IMPROVEMENT
+ Ritter & Sons, an illustrative company, is
+a wholesale producer of potted plants and
+cut ﬂ owers. Ritter’s most popular prod-
+uct is potted chrysanthemums (mums),
+which are particularly in demand around
+certain holidays, especially Mother’s
+Day, Easter, and Memorial Day, but they
+maintain a high level of sales through-
+out the year. Exhibit 9A-1 shows Ritter’s
+revenues, costs, and sales from mums
+for a recent ﬁ scal year. After attending a
+seminar on pricing, the company’s chief
+ﬁ nancial ofﬁ cer, Don Ritter, wondered
+whether this product might somehow be
+priced more proﬁ tably. He then began a
+serious examination of the effect of rais-
+ing and lowering the wholesale price
+of mums from the current price of $3.85
+per unit.
+ Ritter’s ﬁ rst step was to identify the
+relevant cost and contribution margin for
+mums. Looking only at the data in Exhibit
+9A-1, Don was somewhat uncertain how
+to proceed. He reasoned that the costs of
+the cuttings, shipping, packaging, and
+pottery were clearly incremental and
+avoidable and that the cost of administra-
+tive overhead was ﬁ xed. He was far less
+certain about labor and the capital cost of
+the greenhouses. Some of Ritter’s work
+EXHIBIT 9A-1
+EXHIBIT 9A-1 Cost Projection for Proposed Crop of Mums
+Cost Projection for Proposed Crop of Mums
+Chapter 9 • Financial Analysis
+232
+force consisted of long-time employees,
+whose knowledge of planting techniques
+was highly valuable. It would not be
+practical to lay them off, even if they were
+not needed during certain seasons. Most
+production employees, however, were
+seasonal laborers who were hired during
+peak seasons and who found work else-
+where in the off-season.
+ After consulting with the produc-
+tion manager for potted plants, Don
+concluded that about $7,000 of the labor
+cost of mums was ﬁ xed. The remaining
+$44,850 (or $0.52 per unit) was variable
+and thus relevant to the pricing decision.
+ Don also wondered how he should
+treat the capital cost of the greenhouses.
+He was sure that the company policy of
+allocating capital cost (interest and depre-
+ciation) equally to every plant sold was
+not correct. However, when Don sug-
+gested to his brother Paul, the company’s
+president, that since these costs were
+sunk, they should be entirely ignored in
+pricing, Paul found the suggestion unset-
+tling. He pointed out that Ritter used all
+of its greenhouse capacity in the peak sea-
+son, that it had expanded its capacity in
+recent years, and that it planned further
+expansions in the coming year. Unless the
+price of mums reﬂ ected the capital cost
+of building additional greenhouses, how
+could Ritter justify such investments?
+ That argument made sense to Don.
+Surely the cost of greenhouses is incre-
+mental when they are all in use, since
+additional capacity would have to be
+built if Ritter were to sell more mums.
+But the greenhouses are used to the
+45,000-unit capacity in only one of the
+three growing seasons. In the other two
+seasons combined, Ritter grew and sold
+only 41,250 units. During those non-peak
+seasons, Ritter could grow many more
+mums. Ritter’s policy of making all mums
+grown in a year bear a $0.77 capital cost
+was simply misleading, since additional
+mums could be grown without bearing
+any additional capital cost during sea-
+sons with excess capacity. Mums grown
+in peak seasons, however, actually cost
+much more than Ritter had been assum-
+ing, since those mums require capital
+additions. Thus, if the annual cost of an
+additional
+greenhouse
+(depreciation,
+interest, maintenance, heating) is $9,000,
+and if the greenhouse will hold 5,000
+mums for three crops each year, the capi-
+tal cost per mum would be $0.60 ($9,000/
+(3 x 5,000)) only if all greenhouses are
+fully utilized throughout the year. Since
+the greenhouses are ﬁ lled to capacity for
+only one crop per year, the relevant capi-
+tal cost for pricing that crop is $1.80 per
+mum ($9,000/5,000), while it is zero for
+pricing crops at other times.  1
+ As a result of his discussions, Don
+calculated two costs for mums: One to
+apply when there is excess capacity in
+the greenhouses and one to apply when
+greenhouse capacity is fully utilized. His
+calculations are shown in Exhibit 9A-2.
+These two alternatives do not exhaust
+the possibilities. For any product, differ-
+ent combinations of costs can be ﬁ xed
+or incremental in different situations.
+For example, if Ritter found itself with
+excess mums after they were grown, pot-
+ted, and ready to sell, the only incremen-
+tal cost would be the cost of shipping. If
+EXHIBIT 9A-2
+EXHIBIT 9A-2 Relevant Cost of Mums
+Relevant Cost of Mums
+Chapter 9 • Financial Analysis
+233
+Ritter found itself with too little capac-
+ity and too little time to make additions
+before the next peak season, the only way
+to grow more mums would be to grow
+fewer types of other ﬂ owers. In that case,
+the cost of greenhouse space for mums
+would be the opportunity cost (mea-
+sured by the lost contribution) from not
+growing and selling those other ﬂ owers.
+The relevant cost for a pricing decision
+depends on the circumstances. Therefore,
+one must begin each pricing problem by
+ﬁ rst determining the relevant cost for that
+particular decision.
+ For Ritter, the decision at hand
+involved planning production quanti-
+ties and prices for the forthcoming year.
+There would be three crops of mums
+during the year, two during seasons
+when Ritter would have excess growing
+capacity and one during the peak season,
+when capacity would be a constraint. The
+relevant gross margin would be $2.25, or
+58.5 percent ($2.25/3.85), for all plants. In
+the peak season, however, the net proﬁ t
+contribution would be considerably less
+because of the incremental capital cost of
+the greenhouses.
+ Don recognized immediately that
+there was a problem with Ritter’s pricing
+of mums. Since the company had tradi-
+tionally used cost-plus pricing based on
+fully allocated average cost, ﬁ xed costs
+were allocated equally to all plants. Con-
+sequently, Ritter charged the same price
+($3.85) for mums throughout the year.
+Although mums grown in the off-peak
+season used the same amount of green-
+house space as those grown during the
+peak season, the relevant incremental
+cost of that space was not always the
+same. Consequently, the proﬁ t contribu-
+tion for mums sold in an off-peak season
+was much greater than for those sold in
+the peak season. This difference was not
+reﬂ ected in Ritter’s pricing. Don sus-
+pected that Ritter should be charging
+lower prices during seasons when the
+contribution margin was large and higher
+prices when it was small. Using his new
+understanding of the relevant cost, Don
+calculated the breakeven sales quantities
+for a 5 percent price cut during the off-
+peak season, when excess capacity makes
+capital costs irrelevant, and for a 10 per-
+cent increase during the peak season,
+when capital costs are incremental to the
+pricing decision. These calculations are
+shown in Exhibit 9A-3.
+ Don ﬁ rst calculated the percent
+breakeven quantity for the off-peak sea-
+son, indicating that Ritter would need at
+least a 9.3 percent sales increase to justify
+a 5 percent price cut in the off-peak sea-
+son. Then he calculated the basic break-
+even percentage for a 10 percent price
+increase during the peak season. If sales
+declined by less than 14.6 percent as a
+result of the price increase (equal to 6,570
+units, given Ritter’s expected peak season
+EXHIBIT 9A-3
+EXHIBIT 9A-3 Breakeven Sales Changes for Proposed Price Changes
+Breakeven Sales Changes for Proposed Price Changes
+Chapter 9 • Financial Analysis
+234
+sales of 45,000 mums), the price increase
+would be proﬁ table. Don also recog-
+nized, however, that if sales declined
+that much, Ritter could avoid construct-
+ing at least one new greenhouse. That
+capital cost saving could make the price
+increase proﬁ table even if sales declined
+by more than the basic breakeven quan-
+tity. Assuming that one greenhouse
+involving a cost of $9,000 per year could
+be avoided, the breakeven decline rises
+to 22.2 percent (equal to 9,990 units). If
+a 10 percent price increase caused Ritter
+to lose less than 22.2 percent of its pro-
+jected sales for the next peak season, the
+increase would be proﬁ table.
+ Judging
+whether
+actual
+sales
+changes were likely to be greater or
+smaller than those quantities was beyond
+Don’s expertise. He calculated a series
+of “what if” scenarios, called breakeven
+sales change simulated scenarios, and
+then presented his ﬁ ndings to Sue James,
+Ritter’s sales manager (see Exhibit 9A-4).
+EXHIBIT 9A-4
+EXHIBIT 9A-4  Breakeven Sales Change Simulated Scenarios (Vertical
+ Breakeven Sales Change Simulated Scenarios (Vertical
+Orientation)
+Orientation)
+Chapter 9 • Financial Analysis
+235
+ Sue felt certain that sales dur-
+ing the peak season would not decline
+by 22.2 percent following a 10 percent
+price increase. She pointed out that the
+ultimate purchasers in the peak season
+usually bought mums as gifts. Conse-
+quently, they were much more sensi-
+tive to quality than to price. Fortunately,
+most of Ritter’s major competitors could
+not match Ritter’s quality since they had
+to ship their plants from more distant
+greenhouses. Ritter’s local competition,
+like Ritter, would not have the capac-
+ity to serve more customers during the
+peak season. The high-quality ﬂ orists
+who comprised most of Ritter’s custom-
+ers were, therefore, unlikely to switch
+suppliers in response to a 10 percent
+peak-period price increase. If peak sea-
+son sales remained steady, proﬁ t con-
+tribution would increase signiﬁ cantly,
+by about $50,000. If peak season sales
+declined modestly, the change in proﬁ t
+contribution would still be positive.
+ Sue also felt that retailers who cur-
+rently bought mums from Ritter in the
+off-peak season could probably not sell
+in excess of 9.3 percent more, even if they
+cut their retail prices by the same 5 per-
+cent that Ritter contemplated cutting the
+wholesale price. Thus, the price cut would
+be proﬁ table only if some retailers who
+normally bought mums from competitors
+were to switch and buy from Ritter. This
+possibility would depend on whether
+competitors chose to defend their mar-
+ket shares by matching Ritter’s price cut.
+If they did, Ritter would probably gain
+no more retail accounts. If they did not,
+Ritter might capture sales to one or more
+grocery chains whose price-sensitive cus-
+tomers and whose large expenditures on
+ﬂ owers make them diligent in their search
+for the best price.
+ Don and Sue needed to identify
+their competitors and ask, “How does
+their pricing inﬂ uence our sales, and
+how are they likely to respond to any
+price changes we initiate?” They spent
+the next two weeks talking with custom-
+ers and with Ritter employees who had
+worked for competitors, trying to for-
+mulate answers. They learned that they
+faced two essentially different types of
+competition. First, they competed with
+one other large local grower, Mathews
+Nursery, whose costs are similar to Rit-
+ter’s. Because Mathews’s sales area gener-
+ally overlapped Ritter’s, Mathews would
+probably be forced to meet any Ritter price
+cuts. Most of the competition for the larg-
+est accounts, however, came from high-
+volume suppliers that shipped plants
+into Ritter’s sales area as well as into
+other areas. It would be difﬁ cult for them
+to cut their prices only where they com-
+peted with Ritter. Moreover, they already
+operated on smaller margins because
+of their higher shipping costs. Conse-
+quently, they probably would not match a
+5 percent price cut.
+ Still, Sue thought that even the
+business of one or two large buyers
+might not be enough to increase Ritter’s
+total sales in the off-peak season by more
+than the breakeven quantity. Don recog-
+nized that the greater price sensitivity of
+large buyers might represent an opportu-
+nity for segmented pricing. If Ritter could
+cut prices to the large buyers only, the
+price cut would be proﬁ table if the per-
+centage increase in sales to that market
+segment alone exceeded the breakeven
+increase. Perhaps Ritter could offer a
+5 percent quantity discount, for which
+only the large, price-sensitive buyers
+could qualify.  2  Alternatively, Ritter might
+sort its mums into “ﬂ orist quality” and
+“standard quality,” if it could assume that
+its ﬂ orists would generally be willing to
+pay a 5 percent premium to offer the best
+product to their clientele.
+ Don decided to make a presenta-
+tion to the other members of Ritter’s
+management committee, setting out the
+case for reducing price to large buyers
+by 5 percent for the two off-peak sea-
+sons and for increasing price by 10 per-
+cent for the peak season as illustrated in
+Exhibit 9A-5. After Don’s presentation,
+Sue James explained why she believed
+that sales would decline by less than the
+breakeven quantity if price were raised
+in the peak season. She also felt sales
+might increase more than the breakeven
+percent if price were lowered in the off-
+peak seasons, especially if the cut could
+be limited to large buyers.
+Chapter 9 • Financial Analysis
+236
+ Since Ritter has traditionally set
+prices based on a full allocation of costs,
+some managers were initially skeptical of
+this new approach. They asked probing
+questions, which Don and Sue’s analysis
+of the market enabled them to answer.
+The management committee recognized
+that the decision was not clear-cut. It
+would ultimately rest on uncertain judg-
+ments about sales changes that the pro-
+posed price changes would precipitate.
+If Ritter’s regular customers proved to be
+more price sensitive than Don and Sue
+now believed, the proposed 10 percent
+price increase for the peak season could
+cause sales to decline by more than the
+breakeven quantity. If competitors all
+matched Ritter’s 5 percent price cut for
+large buyers in the off-peak season, sales
+might not increase by as much as the
+breakeven quantity.
+ The committee accepted the pro-
+posed price changes. In related decisions,
+they postponed construction of one new
+greenhouse and established a two-tier
+approach to pricing mums based on
+selecting the best for “ﬂ orist quality” and
+selling the lower-priced “standard qual-
+ity” mums only in lots of 1,000.
+ Finally, they agreed that Don should
+give a speech at an industry trade show on
+how this pricing approach could improve
+capital utilization and efﬁ ciency. In the
+speech, he would reveal Ritter’s decision to
+raise its price in the peak season. (Perhaps
+Mathews’s management might decide
+to take such information into account in
+independently formulating its own pric-
+ing decisions.) He would also let it be
+known that if Ritter were unable to sell
+more mums to large local buyers in the off-
+peak season, it would consider offering the
+mums at discount prices to ﬂ orists outside
+of its local market. This plan, it was hoped,
+would discourage non-local competitors
+from ﬁ ghting for local market share, lest
+the price-cutting spread to markets they
+found more lucrative.
+ At this point, there was no way to
+know whether these decisions would
+prove proﬁ table. Management could
+have requested more formal research
+EXHIBIT 9A-5
+EXHIBIT 9A-5 Proﬁ t Impact of a 10 Percent Increase
+Proﬁ t Impact of a 10 Percent Increase
+Chapter 9 • Financial Analysis
+237
+into customer motivations or a more
+detailed analysis of non-local competi-
+tors’ past responses to price-cutting. Since
+past behavior is never a perfect guide to
+the future, the decision would still have
+required weighing the risks involved
+with the beneﬁ ts promised. Still, Don’s
+analysis ensured that management identi-
+ﬁ ed the relevant information for this deci-
+sion and weighed it appropriately.
+Notes
+1.  We are assuming that a greenhouse
+depreciates no more rapidly when
+in use than when idle. If it did depre-
+ciate faster when used, the extra
+depreciation would be an incremen-
+tal cost even for crops grown during
+seasons with excess capacity.
+2.  This option could expose Ritter to
+the risk of a legal challenge if Rit-
+ter’s large buyers compete directly
+with its small buyers in the retail-
+ing of mums. Ritter could rebut
+the challenge if it could justify the
+5 percent discount as a cost saving
+in preparing and shipping larger
+orders. If not, then Ritter may want
+to try more complicated methods to
+segment the market, such as offer-
+ing somewhat different products to
+the two segments.
+Chapter 9 • Financial Analysis
+238
+ Appendix 9B
+DERIVATION OF THE
+BREAKEVEN FORMULA
+ A price change can either increase or
+reduce a company’s proﬁ ts, depending
+on how it affects sales. The breakeven for-
+mula is a simple way to discover at what
+point the change in sales becomes large
+enough to make a price reduction proﬁ t-
+able, or a price increase unproﬁ table.
+ Exhibit 9B-1 illustrates the break-
+even problem. At the initial price P, a
+company can sell the quantity Q. Its total
+revenue is P times Q, which graphically
+is the area of the rectangle bordered by
+the lines 0P and 0Q. If C is the product’s
+variable cost, then the total proﬁ t contri-
+bution earned at price P is (P – C)Q. Total
+proﬁ t contribution is shown graphically
+as the rectangle left after subtracting the
+variable cost rectangle (0C, 0Q) from the
+revenue rectangle (0P, 0Q).
+ If this company reduces its price
+from P to P’, its proﬁ ts will change. First,
+it will lose an amount equal to the change
+in price, ΔP, times the amount that it could
+sell without the price change, Q. Graphi-
+cally, that loss is the rectangle labeled A.
+Somewhat offsetting that loss, however,
+the company will enjoy a gain from the
+additional sales it can make because of
+the lower price. The amount of the gain
+is the proﬁ t that the company will earn
+EXHIBIT 9B-1
+EXHIBIT 9B-1 Breakeven Sales Change Relationships
+Breakeven Sales Change Relationships
+Chapter 9 • Financial Analysis
+239
+from each additional sale, P’ – C, times the
+change in sales, ΔQ. Graphically, that gain
+is the rectangle labeled B. Whether or not
+the price reduction is proﬁ table depends
+on whether or not rectangle B is greater
+than rectangle A, and that depends on the
+size of ΔQ.
+ The logic of a price increase is simi-
+lar. If P’ were the initial price and Q’ the
+initial quantity, then the proﬁ tability of a
+price increase to P would again depend
+on the size of ΔQ. If ΔQ were small, rect-
+angle A, the gain on sales made at the
+higher price, would exceed rectangle B,
+the loss on sales that would not be made
+because of the higher price. However, ΔQ
+might be large enough to make B larger
+than A, in which case the price increase
+would be unproﬁ table.
+ To calculate the formula for the
+breakeven ΔQ (at which the gain from a
+price reduction just outweighs the loss
+or the loss from a price increase just out-
+weighs the gain), we need to state the
+problem algebraically. Before the price
+change, the proﬁ t earned was (P – C)Q.
+After the change, the proﬁ t was (P’ – C)
+Q’. Noting, however, that P’ P + ΔP (we
+write, “+ΔP” since ΔP is a negative num-
+ber) and that Q’ Q + ΔQ, we can write the
+proﬁ t after the price change as (P + ΔP – C)
+(Q + ΔQ). Since our goal is to ﬁ nd the
+ΔQ at which proﬁ ts would be just equal
+before and after the price change, we
+can begin by setting those proﬁ ts equal
+algebraically:
+ (P – C)Q = (P +ΔP – C)(Q +ΔQ)
+ Multiplying this equation through yields:
+ PQ – CQ = PQ +ΔPQ – CQ + PΔQ +
+ΔPΔQ – CΔQ
+ We can simplify this equation by sub-
+tracting PQ and adding CQ to both sides
+to obtain:
+ 0 = ΔPQ + PΔQ + ΔPΔQ – CΔQ
+ Note that all the remaining terms in the
+equation contain the “change sign” Δ.
+This is because only the changes are rel-
+evant for evaluating a price change. If we
+solve this equation for ΔQ, we obtain the
+new equation:
+
+Δ
+=
+−Δ
+−
+Q
+Q
+P
+P
+P
++ Δ
+C
+ which, in words, is:
+
+% Breakeven sales change
+Price Change
+Contribution Margin
+=
+−
++ Pric
+P
+e Change

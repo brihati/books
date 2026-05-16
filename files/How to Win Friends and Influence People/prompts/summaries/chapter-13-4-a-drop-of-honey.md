@@ -1,0 +1,238 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-13-4-a-drop-of-honey
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-13-4-a-drop-of-honey-chunk-001",
+    "source": {
+      "chapter_title": "4. A Drop of Honey",
+      "char_end": 6991,
+      "char_start": 0,
+      "checksum": "e19b6281519d88ce",
+      "source_pages": "147-154",
+      "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/13 - 4. A Drop of Honey.txt"
+    },
+    "summary": "This chunk supports the chapter lesson: Begin in a friendly way. Hostility closes minds; friendliness opens them. Carnegie frames warmth as the diplomatic starting point for persuasion. It focuses on Rockefeller, remember, was talking to men who, a few days previously, had wanted to hang him by the neck to a sour apple tree; yet he couldn’t have been more gracious, more friendly if he had addressed a group of medical missionaries.",
+    "key_points": [
+      "Rockefeller, remember, was talking to men who, a few days previously, had wanted to hang him by the neck to a sour apple tree; yet he couldn’t have been more gracious, more friendly if he had addressed a group of medical missionaries.",
+      "Scolding parents and domineering bosses and husbands and nagging wives ought to realize that people don’t want to change their minds.",
+      "At a time like that, with the air seething with hatred, Rockefeller wanted to win the strikers to his way of thinking.",
+      "It presented facts in such a friendly manner that the strikers went back to work without saying another word about the increase in wages for which they had fought so violently.",
+      "Suppose he had told them by his tones and insinuations that they were wrong."
+    ],
+    "arguments": [
+      "Rockefeller, remember, was talking to men who, a few days previously, had wanted to hang him by the neck to a sour apple tree; yet he couldn’t have been more gracious, more friendly if he had addressed a group of medical missionaries."
+    ],
+    "examples": [
+      "One of the bloodiest strikes in the history of American industry had been shocking the state for two terrible years.",
+      "After weeks spent in making friends, Rockefeller addressed the representatives of the strikers.",
+      "It presented facts in such a friendly manner that the strikers went back to work without saying another word about the increase in wages for which they had fought so violently.",
+      "Rockefeller, remember, was talking to men who, a few days previously, had wanted to hang him by the neck to a sour apple tree; yet he couldn’t have been more gracious, more friendly if he had addressed a group of medical missionaries."
+    ],
+    "stories": [
+      "One of the bloodiest strikes in the history of American industry had been shocking the state for two terrible years.",
+      "After weeks spent in making friends, Rockefeller addressed the representatives of the strikers.",
+      "It presented facts in such a friendly manner that the strikers went back to work without saying another word about the increase in wages for which they had fought so violently."
+    ],
+    "definitions": [
+      "Principle: Begin in a friendly way."
+    ],
+    "names": [
+      "Drop of Honey If",
+      "But",
+      "Will",
+      "Woodrow Wilson",
+      "Let",
+      "Nobody",
+      "John D. Rockefeller",
+      "Back",
+      "Rockefeller",
+      "Colorado",
+      "One of the",
+      "American"
+    ],
+    "dates": [
+      "1915"
+    ],
+    "numbers": [
+      "4",
+      "1915",
+      "2,500"
+    ],
+    "places": [],
+    "terms": [
+      "4. A Drop of Honey",
+      "Begin in a friendly way."
+    ],
+    "quotes": [
+      "If you come at me with your fists doubled,",
+      "This is a red-letter day in my life,",
+      "a drop of honey catches more flies than a gallon of gall.",
+      "the peaceful way in which they laid down their tools.",
+      "It will be for the jury to consider,"
+    ],
+    "actionable_lessons": [
+      "Begin in a friendly way.",
+      "Hostility closes minds; friendliness opens them. Carnegie frames warmth as the diplomatic starting point for persuasion."
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-13-4-a-drop-of-honey-chunk-002",
+    "source": {
+      "chapter_title": "4. A Drop of Honey",
+      "char_end": 13948,
+      "char_start": 6292,
+      "checksum": "2db4e1f9c852047b",
+      "source_pages": "147-154",
+      "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/13 - 4. A Drop of Honey.txt"
+    },
+    "summary": "This chunk supports the chapter lesson: Begin in a friendly way. Hostility closes minds; friendliness opens them. Carnegie frames warmth as the diplomatic starting point for persuasion. It focuses on I wanted more, so I named the figure I could afford to pay, and he accepted without a word.",
+    "key_points": [
+      "I wanted more, so I named the figure I could afford to pay, and he accepted without a word.",
+      "It was the friendly, sympathetic, appreciative approach that won.” Dean Woodcock of Pittsburgh, Pennsylvania, is the superintendent of a department of the local electric company.",
+      "Utility people are extremely conscious of public relations, and suddenly Woodcock realized what this setup looked like to the man with the camera - overkill, dozens of people being called out to do a two-person job.",
+      "Webster used the soft-spoken, quiet, friendly approach, and it helped to make him famous.",
+      "You may never be called upon to settle a strike or address a jury, but you may want to get your rent reduced."
+    ],
+    "arguments": [],
+    "examples": [
+      "Webster used the soft-spoken, quiet, friendly approach, and it helped to make him famous.",
+      "But I said to myself, ‘I am studying a course in how to deal with people, so I’ll try it on him - and see how it works.’ “He and his secretary came to see me as soon as he got my letter.",
+      "I met him at the door with a friendly greeting.",
+      "One had written him fourteen letters, some of them positively insulting."
+    ],
+    "stories": [
+      "Webster used the soft-spoken, quiet, friendly approach, and it helped to make him famous.",
+      "But I said to myself, ‘I am studying a course in how to deal with people, so I’ll try it on him - and see how it works.’ “He and his secretary came to see me as soon as he got my letter.",
+      "I met him at the door with a friendly greeting."
+    ],
+    "definitions": [
+      "Principle: Begin in a friendly way."
+    ],
+    "names": [
+      "Daniel Webster",
+      "Jehovah",
+      "This",
+      "Here",
+      "You",
+      "Webster",
+      "Will the",
+      "Let",
+      "Straub",
+      "And",
+      "The",
+      "But the"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "4. A Drop of Honey",
+      "Begin in a friendly way."
+    ],
+    "quotes": [
+      "It will be for the jury to consider,",
+      "This may, perhaps, be worth thinking of,",
+      "Here are some facts that I trust you will not lose sight of,",
+      "You, with your knowledge of human nature, will easily see the significance of these facts.",
+      "I wrote him,"
+    ],
+    "actionable_lessons": [
+      "Begin in a friendly way.",
+      "Hostility closes minds; friendliness opens them. Carnegie frames warmth as the diplomatic starting point for persuasion."
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-13-4-a-drop-of-honey-chunk-003",
+    "source": {
+      "chapter_title": "4. A Drop of Honey",
+      "char_end": 15795,
+      "char_start": 13248,
+      "checksum": "0ecb0c8ddd70fb82",
+      "source_pages": "147-154",
+      "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/13 - 4. A Drop of Honey.txt"
+    },
+    "summary": "This chunk supports the chapter lesson: Begin in a friendly way. Hostility closes minds; friendliness opens them. Carnegie frames warmth as the diplomatic starting point for persuasion. It focuses on The sun can make you take off your coat more quickly than the wind; and kindliness, the friendly approach and appreciation can make people change their minds more readily than all the bluster and storming in the world.",
+    "key_points": [
+      "The sun can make you take off your coat more quickly than the wind; and kindliness, the friendly approach and appreciation can make people change their minds more readily than all the bluster and storming in the world.",
+      "He smiled with satisfaction as he listened to me.",
+      "Remember what Lincoln said: “A drop of honey catches more flies than a gallon of gall.” PRINCIPLE 4 Begin in a friendly way.",
+      "Finally, the wind calmed down and gave up, and then the sun came out from behind the clouds and smiled kindly on the old man.",
+      "The use of gentleness and friendliness is demonstrated day after day by people who have learned that a drop of honey catches more flies than a gallon of gall."
+    ],
+    "arguments": [],
+    "examples": [
+      "The sun then told the wind that gentleness and friendliness were always stronger than fury and force.",
+      "The use of gentleness and friendliness is demonstrated day after day by people who have learned that a drop of honey catches more flies than a gallon of gall.",
+      "I introduced myself and explained to him that I had bought my car from his dealership because of the recommendations of friends who had had previous dealings with him.",
+      "The sun can make you take off your coat more quickly than the wind; and kindliness, the friendly approach and appreciation can make people change their minds more readily than all the bluster and storming in the world."
+    ],
+    "stories": [
+      "The sun then told the wind that gentleness and friendliness were always stronger than fury and force.",
+      "The use of gentleness and friendliness is demonstrated day after day by people who have learned that a drop of honey catches more flies than a gallon of gall.",
+      "I introduced myself and explained to him that I had bought my car from his dealership because of the recommendations of friends who had had previous dealings with him."
+    ],
+    "definitions": [
+      "Principle: Begin in a friendly way."
+    ],
+    "names": [
+      "They",
+      "See the",
+      "So the",
+      "Finally",
+      "Presently",
+      "The",
+      "Gale Connor of Lutherville",
+      "Maryland",
+      "White",
+      "After",
+      "Not",
+      "Aesop"
+    ],
+    "dates": [],
+    "numbers": [
+      "4"
+    ],
+    "places": [],
+    "terms": [
+      "4. A Drop of Honey",
+      "Begin in a friendly way."
+    ],
+    "quotes": [
+      "I’ll prove I am. See the old man down there with a coat? I bet I can get his coat off him quicker than you can.",
+      "A drop of honey catches more flies than a gallon of gall.",
+      "He smiled with satisfaction as he listened to me."
+    ],
+    "actionable_lessons": [
+      "Begin in a friendly way.",
+      "Hostility closes minds; friendliness opens them. Carnegie frames warmth as the diplomatic starting point for persuasion."
+    ],
+    "open_questions": []
+  }
+]
+```

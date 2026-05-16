@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-014",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 90910,
+    "char_end": 98681,
+    "checksum": "7c5cf11a4d672f52"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+lication server middleware from BEA, and product life cycle management soft­ ware from Agile, and eventually led even to annexing Sun Mi­ crosystems for a complete hardware solution as well. Such consolidations are designed to conserve rather than to innovate. It is not that innovation has ceased but rather that it has relocated. Technologies from a prior era, once the focal point of innovation, now become the scaffolding upon which next-generation innovation will build. In that context, stability and predictability become much more highly valued, and eco­ systems are willing to pay a premium to a core set of vendors to maintain them. The key to making a smooth transition from the pragmatist
+
+to the conservative market segments is to maintain a strong re­ lationship with the former, always giving them an open door to go to the new paradigm, while still keeping the latter happy by adding value to the old infrastructure. It is a balancing act to say the least, but properly managed, the earnings potential in loyal mature market segments is very high indeed. In this regard, if we now look back over the first four profiles in the Technology Adoption Life Cycle, we see an interesting trend. The importance of the product itself, its unique function­ ality, when compared to the importance of the ancillary services to the customer, is at its highest with the technology enthusiast, and at its lowest with the conservative. This is no surprise, since one’s level of involvement and competence with a high-tech prod­ uct is a prime indicator of when one will enter the Technology High-Tech Marketing Enlightenment 65 Adoption Life Cycle. The key lesson is that the longer your prod­ uct is in the market, the more mature it becomes, and the more important the service element is to the customer. Conservatives, m particular, are extremely service oriented. In the last decade, high tech has truly come to grips with this phenomenon by actively reconfiguring its product offers as services. Software as a service (SaaS), data center infrastruc­ ture as a service (IaaS), development and deployment platform software as a service (PaaS)—all are creating a new stack in the cloud, that virtualized space to which more and more comput­ ing is migrating. To get to this place, two things have to happen in coordi­ nation with one another. The first is that vendors must design out as much as possible the service demands that derive from installing and implementing their products successfully This is service-as-a-tax, adding no value, being simply the price you have to pay to get the stuff to work. This is still extraordinarily high for enterprise IT software, and while it has created a lot of income for systems integrators, it has left a bad taste in every­ one’s mouth, so the less of it, the better. By contrast, when vendors address the second goal of making the service yield an improved user experience, then there are smiles all around. The Apple iPad is a wonderful example here, for it appeals not only to technology enthusiasts and visionaries (“It is just so cool!”), but equally so to pragmatists (“No training costs!”) and to conservatives (“No training, period!”). When you watch a toddler playing with one, you realize just how far we have come from control-alt-delete. That said, there will always be people who still feel disenfran­ chised by high tech, and it is to their issues that we will now turn. 66 Crossing the Chasm Laggards: The Skeptics Skeptics—the group that makes up the last one-sixth of the Tech­ nology Adoption Life Cycle—do not participate in the high- tech marketplace, except to block purchases. Thus, the primary function of high-tech marketing in relation to skeptics is to neu­ tralize their influence. In a sense, this is a pity because skeptics can teach us a lot about what we are doing wrong—hence this postscript. One of the favorite arguments of skeptics is that disruptive innovations of any kind rarely fulfill their promises and almost always come with unintended consequences. This combination of elusive reward with omnipresent risk just looks to them like a bad bet. Of course, visionaries and pragmatists are quite adept at overcoming these objections; otherwise there would be no high- tech industry for us to discuss. But what if, instead of rushing to rebuttal, we were to explore the merits of the skeptic’s argument? The point is, as any experienced seller of high-tech prod­ ucts can tell you, cost justification of high-tech purchases is a shaky venture at best. There is always the potential to return significant dollars, but it always depends on factors beyond the system itself. Put another way, this simply means that the claims that salespeople make for high-tech products are really claims made for ‘‘whole product solutions” that incorporate elements well beyond whatever high-tech manufacturers ship inside their boxes. If high-tech marketers do not take responsibility for seeing that the whole product solution is being delivered, then they are giving the skeptic an opening to block the sale. (For all the reasons just cited, the significance of whole product solu­ tions is discussed at length later as the key component of suc­ cessfully crossing the chasm and entering into the mainstream.) High-Tech Marketing Enlightenment 67 What skeptics are struggling to point out is that new systems, for the most part, don’t deliver on the promises that were made at the time of their purchase. This is not to say they do not end up delivering value, but rather that the value they actually deliver is not often anticipated at the time of purchase. If this is true—and to some degree I believe it is—it means that committing to a new system is a much greater act of faith than normally imagined. It means that the primary value in the act derives more from such notions as supporting a bias toward action than from any quantifi­ able packet of cost-justified benefits. The idea that the value of the system will be discovered rather than known at the time of instal­ lation implies, in turn, that product flexibility and adaptability, as well as ongoing account service, should be critical components of any buyer’s evaluation checklist. Ultimately the service that skeptics provide to high-tech marketers is to point continually to the discrepancies between the sales claims and the delivered product. These discrepancies, in turn, create opportunities for the customer to fail, and such failures, through word of mouth, will ultimately come back to haunt us as lost market share. Steamrolling over the skeptics, in other words, may be a great sales tactic, but it is a poor market­ ing one. From a marketing point of view, we are all subject to the “Emperor’s New Clothes” syndrome, but particularly so in high tech, where every player in the market has a vested interest in boosting the overall perception of the industry. Skeptics don’t buy our act. We ought to take advantage of that fact. Back to the Chasm As the preceding pages indicate, there is clearly a lot of value in the Technology Adoption Life Cycle as a marketing model. By 68 Crossing the Chasm isolating the psychographics of customers based on when they tend to enter the market, it gives clear guidance on how to de­ velop a marketing program for an innovative product. The basic flaw in the model, as we have said, is that it implies a smooth and continuous progression across segments over the life of a product, whereas experience teaches just the opposite. Indeed, making the marketing and communications transition between any two adoption segments is normally excruciatingly awkward because you must adopt new strategies just at the time
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-004",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 20427,
+    "char_end": 28154,
+    "checksum": "5034983417b3fd70"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+r before possible, which has an intrinsic value and appeal to the nontech­ nologist. This benefit is typically symbolized by a single, com­ pelling flagship application, something that showcases the power and value of the new product. If the marketing effort is unable to find that compelling application, then market development stalls with the innovators, and the future of the product falls through this first crack in the bell curve. The Other Crack There is another crack in the bell curve, of approximately equal magnitude, that falls between the early majority and the late majority. By this point in the Technology Adoption Life Cycle, the market is already well developed, and the technology
+
+product has been absorbed into the mainstream. The key issue now—transitioning from the early to the late majority—has to 24 Crossing the Chasm do with lingering residual demands on the end user to be tech­ nologically competent. Simply put, the early majority is willing and able to become technologically competent where necessary; the late majority is not. When a product reaches this point in the market develop­ ment, it must be made increasingly easier to adopt in order to continue being successful. If this does not occur, the transition to the late majority will stall. Home automation, programmable appliances, and high-end cameras are all currently in this situation, as are a whole slew of telephones that offer call forwarding, three-way conferencing, or even just call transferring. How many times have you been on the phone and heard—or said—“Now I may lose you when I hit the transfer button, so be sure to call back if I do.” The prob­ lem is that for people who are not frequent users of the system the protocols are simply too hard to remember. As a result, users do not use the features, and so companies in mature markets find it harder and harder to get paid for the R&D they have done because the end user cannot capture the benefit. Instead, they bemoan that the product has become a commodity when in fact it is the experience of the product that has been com­ moditized. This truly is marketing’s fault, particularly when companies have ceded marketing the right to redesign the user interface and thus control the user experience. Other examples of products in danger of falling through the crack between the early and late majority are scanning and project management software. The market leaders in these two areas, Hewlett-Packard and Microsoft respectively, have been quite successful in capturing the early majority, but their prod­ ucts still give conservatives in the late majority pause. And so High-Tech Marketing Illusion 25 these categories are in danger of stagnating although neither market has ever in fact been saturated. Discovering the Chasm The real news, however, is not the two cracks in the bell curve, the one between the innovators and the early adopters, the other between the early and late majority. No, the real news is the deep and dividing chasm that separates the early adopt­ ers from the early majority. This is by far the most formidable and unforgiving transition in the Technology Adoption Life Cycle, and it is all the more dangerous because it typically goes unrecognized. The reason the transition can go unnoticed is that with both groups the customer list and the size of the order can look the same. Typically, in either segment, you would see a list of For­ tune 500 to Fortune 2000 customers making relatively large orders—five figures for sure, more often six figures or even higher. But in fact the basis for the sale—what has been prom­ ised, implicitly or explicitly, and what must be delivered—is radically different. What the early adopter is buying, as we shall see in greater detail in Chapter 2, is some kind of change agent. By being the first to implement this change in their industry, the early adopt­ ers expect to get a jump on the competition, whether from lower product costs, faster time to market, more complete cus­ tomer service, or some other comparable business advantage. They expect a radical discontinuity between the old ways and the new, and they are prepared to champion this cause against 26 Crossing the Chasm entrenched resistance. Being the first, they also are prepared to bear with the inevitable bugs and glitches that accompany any innovation just coming to market. By contrast, the early majority want to buy a productivity im­ provement for existing operations. They are looking to minimize the discontinuity with the old ways. They want evolution, not revolution. They want technology to enhance, not overthrow, the established ways of doing business. And above all, they do not want to debug somebody else’s product. By the time they adopt it, they want it to work properly and to integrate appro­ priately with their existing technology base. This contrast just scratches the surface relative to the differ­ ences and incompatibilities among early adopters and the early majority. Let me just make two key points for now: Because of these incompatibilities, early adopters do not make good refer­ ences for the early majority. And because of the early majority’s concern not to disrupt their organizations, good references are critical to their buying decisions. So what we have here is a catch-22. The only suitable reference for an early majority cus­ tomer, it turns out, is another member of the early majority, but no upstanding member of the early majority will buy without first having consulted with several suitable references. Bodies in the Chasm What happens in this catch-22 situation? First, because the product has caught on with the early adopters, it has garnered a lot of publicity: Holograms, pen-based tablets, fuel cells, QR codes, Massive Open Online Courses—we have all read a lot about these types of offerings, yet not one has achieved to date High-Tech Marketing Illusion 27 mainstream market status, despite the fact that the current offers actually do work reasonably well. In large part this is because of the high degree of discontinuity implicit in their adoption by organizations, and the inability of the marketing effort, to date, to lower this barrier to the early majority. So the products languish, continuing to feed off the early adopter segment of the market, but unable to really take off and break through to the high-volume opportunities. Segways are a classic example of this phenomenon. You’ve seen them on occasion in malls or in airports, looking some­ thing like an old-fashioned lawn mower gone vertical, ridden around by someone in a security professional’s uniform. Kind of dorky looking, but don’t kid yourself. The gyroscopic balance control is fabulous, and the control movements once mastered are graceful. The hope was these devices would become a uni­ versal transport mechanism. Why didn’t that happen? In a word: stairs. Stairs are pesky little devils that crop up everywhere, and Segways do not handle them well at all. That’s what we call a showstopper. So while Steve Wozniak can still field a brace of Segways for a rousing match of polo, no one has yet come up with a breakthrough application for the rest of us. Hence its fate for any foreseeable future is to dwell in the chasm forever. As expensive a lesson as the Segway was for its investors, it pales by comparison with the reputed $6 billion bath Motorola took on its satellite mobile phone venture Iridium. Again, from a technology enthusiast’s point of view, what a great idea! In­ stead of building out tens of thousands of cellular base stations everywhere—and still failing to adequately cover sparsely pop­
+>>>

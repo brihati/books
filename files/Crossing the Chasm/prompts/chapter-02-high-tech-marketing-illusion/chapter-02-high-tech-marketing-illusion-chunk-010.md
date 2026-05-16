@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-010",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 62739,
+    "char_end": 70504,
+    "checksum": "0fe0e50a399c8f96"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+f-magnitude improvement from implementing the new application. When the market is unfolding as it should, the entrepreneurial company seeds the technology enthusiast community with early copies of its product while at the same time sharing its vision with the visionary executives. It then invites the visionary executives to check with the technology enthusiast of their choice to verify that the vision is indeed achievable. Out of these conversations comes a series of nego­ tiations in which, for what seems like a very large amount of money at the time, but which will later be recognized as just the tip of the iceberg, the technology enthusiasts get to buy High-Tech Marketing Enlightenment 49
+
+more toys than they have ever dreamed of, the entrepreneurial company commits itself to product modifications and system integration services it never intended to, and the visionary has what on paper looks to be an achievable project, but which is in fact a highly improbable dream. That’s when the market unfolds as it should. That is the good scenario—good because, although it is rife with problems, they are ones that will get solved one way or another, and some level of value will be achieved all around. There are numerous other scenarios where the early market does not even get a proper start. Here are some of them: • First problem: The company simply has no expertise in bringing a product to market. It raises insufficient capital for the effort, hires inexperienced sales and marketing people, tries to sell the product through an inappropriate channel of distribution, promotes in the wrong places and in the wrong ways, and in general fouls things up. Remedying this kind of situation is not as hard as it may seem, provided the participants in the company are still communicating and cooperating with each other, and everyone is willing to scale back their expectations several notches. The basis for reform is the principle that winning at marketing more often than not means being the biggest fish in the pond. If we are very small, then we must search out a very small pond, a target market segment that fits our size. To qualify as a “real pond,” as we also noted before, its members must be aware of themselves as a group, that is, it must constitute a self^referencing 50 Crossing the Chasm market segment, so that when we establish a leadership position with some of its members, they will get the word out—quickly and economically—to the rest. Of course, no single pond of a size we can dominate in the short term is large enough to provide a sustain­ ing market for the long term. Sooner or later, we have to expand into adjacent ponds. Or, to shift the meta­ phor, we need to reframe our tactics in the context of a “bowling pin” strategy, where one targets a given segment not just because one can “knock it over” but because, in so doing, it will help knock over the next target segment, and thus lead to market expansion. With the right kind of angle of attack, it is amazing how large and fast the chain reaction can be. So one is never necessarily out of the game, even when things are pretty bleak. • A second problem: The company sells the visionary before it has the product. This is a version of the famous vaporware problem, based on preannouncing and pre­ marketing a product that still has significant develop­ ment hurdles to overcome. At best, the entrepreneurial company secures a few pilot projects, but as schedules continue to slip, the visionary’s position in the organi­ zation weakens, and support for the project is eventually withdrawn, despite a lot of customized work, with no usable customer reference gained. Caught in this situation, the entrepreneurial com­ pany has only one adequate response, a truly unhappy one: shut down its marketing efforts, admit its mistakes to its investors, and focus all its energies into turning its pilot projects into something useful, first m terms of a High-Tech Marketing Enlightenment 51 deliverable to the customer, and ultimately in terms of a marketable product. A company in the Mohr Davidow portfolio that did this brilliantly is Brickstream. Founded with artificial intelligence technology to extract information from video, it promised to give brick-and-mortar retailers the same kind of visibility into in-store traffic that e-tailers were getting from their clickstreams on the Web. Its first-generation systems were sold with great success, but implementation proved to be a bear, costs remained stubbornly and unacceptably high, and performance fell embarrassingly short. All those great sales turned into unreferenceable accounts, and it was dark days indeed. Under a new management team the company has turned itself around dramatically. Its first act was to refocus on a much simpler problem—-just counting the people that come into a store every day—and do that better, faster, and cheaper than the current technology. This had nothing like the dramatic impact they had been promising before, but it was a real business, and it was profitable. From there they eventually developed camera technology that could actually support their “brickstream” vision, and migrated into queue manage­ ment at checkout counters, tying back into the work­ force management needed to make sure staff was on hand at the right times of day. And most recently, they have incorporated additional camera technology and analytics to branch out further into security and inven­ tory protection applications as well—all on the back of a prudently managed business that is cash-flow posi­ tive. To be sure, the company did lose its initial market 52 Crossing the Chasm window, but the good news is, the latest developments in retail and e-commerce are creating a second window to exploit. • Problem number three: Marketing falls prey to the crack between the technology enthusiast and the vision­ ary by failing to discover, or at least failing to articulate, the compelling application that provides the order-of- magnitude leap in benefits. A number of companies buy the product to test it out, but it never gets incorporated into a major system rollout, because the rewards never quite measure up to the risks. The resulting lack of revenue leads to folding the effort, either by shutting it down entirely or selling it for the technology assets to another enterprise. The corrective response here begins with reevalu­ ating what we have. If it is not, in fact, a breakthrough product, then it is never going to create an early market. But perhaps it could serve as a supplementary product in an existing mainstream market. If that is indeed the case, then the right response is to swallow our pride, reduce our financial expectations, and subordinate ourselves to an existing mainstream-market company, which can put our product in play through its existing channels. Computer Associates, today called CA Tech­ nologies and one of the largest software companies in the world, was built up almost entirely on this principle of remarketing other companies’ often cast-off products. Alternatively, if we truly have a breakthrough product but we are stalled in getting the early market moving, then we have to step down from the lofty the­ oretical plateau on which we have established that this High-Tech Marketing Enlightenment 53 product can be part of any number of exciting applica­ tions and get very practical about focusing on one appli­ cation, making sure that it is indeed a compelling one for at least one visionary who is already familiar with us, and then committing to that visionary, in return for his or her support, to removing every obstacle to getting that application adopted.
+>>>

@@ -1,0 +1,1092 @@
+5
+Assemble the Invasion Force
+“I have always found you get a lot more in this 
+world with a kind word and a gun than you do 
+with just a kind word.”
+—-Willie Sutton
+Willie is only restating what any military leader will confirm: If 
+you are committing an act of aggression, you’d better have the 
+force to back it up. Or, to put this in terms closer to our imme­
+diate topic, marketing is warfare—not wordfare.
+Which of us, about to launch an invasion, would prefer 
+a good set of slogans to a good set of offensive and defensive 
+weapons? Who would rather buy advertising time on television 
+than missiles and munitions? Who would rather publish a mani­
+festo than have guaranteed treaties with neighboring countries? 
+Most high-tech executives—that’s who.
+There is a widespread perception among high-tech execu­
+tives that marketing consists primarily of some long-range stra­
+tegic thinking (when you can afford to take the time for it) and 
+then a lot of tactical sales support—with nothing in between. In 
+fact, marketing’s most powerful contribution happens right in 
+130
+Crossing the Chasm
+between. It is called whole product marketing, a term introduced 
+earlier, and it is the fundamental basis for assembling the inva­
+sion force.
+Consider the following scenario. When I was a salesman, I 
+had a dream. The dream was simple. There was a monster bid 
+coming up—with a $5 million minimum—and I had wired the 
+request for proposal (RFP). I had, in the words of gamblers 
+everywhere, a mortal lock on. the thing. The client had met with 
+me for long hours of consultation during which he had bought 
+into every selling argument in favor of my product. He had then 
+constructed the RFP so that only my product could get a 100 
+percent evaluation. The deal was mine. Then I woke up.
+Okay—so that’s a fantasy. But a version of that fantasy can 
+be executed in the real world. We might call it wiring the mar­
+ketplace. Again, the concept is simple. For a given target cus­
+tomer and a given application, create a marketplace in which 
+your product is the only reasonable buying proposition. That 
+starts, as we saw in the last chapter, with targeting markets 
+that have a compelling reason to buy your product. The next 
+step is to ensure that you have a monopoly over fulfilling that 
+reason to buy.
+To secure that monopoly, you need to understand 1) what 
+a whole product consists of and 2) how to organize a market­
+place to provide a whole product incorporating your company’s 
+offering.
+The Whole Product Concept
+One of the most useful marketing constructs in all of high-tech 
+marketing is the concept of a whole product, an idea described 
+Assemble the Invasion Force
+131
+in detail more than four decades ago in Theodore Levitt’s The 
+Marketing Imagination, and one that played a significant role a 
+decade later in Bill Davidow’s seminal Marketing High Technol­
+ogy. The concept is very straightforward: There is a gap between 
+the marketing promise made to the customer—the compelling 
+value proposition—and the ability of the shipped product to 
+fulfill that promise. For that gap to be overcome, the product 
+must be augmented by a variety of services and ancillary prod­
+ucts to become the whole product.
+The formal model, as diagrammed by Levitt, identifies four 
+different levels of whole product completeness:
+THE WHOLE PRODUCT MODEL
+132
+Crossing the Chasm
+1. Generic product: This is what is shipped in the box and 
+what is covered by the purchasing contract.
+2. Expected product: This is the product that the consumer 
+thought she was buying when she bought the generic 
+product. It is the minimum configuration of products and 
+services necessary to have any chance of achieving the 
+buying objective. For example, when you buy a tablet, you 
+need to have either a Wi-Fi network at home or a cellular 
+connection for it to work, but either one is likely to have to 
+be purchased separately.
+3. Augmented product: This is the product fleshed out to pro­
+vide the maximum chance of achieving the buying objec­
+tive. In the case of a tablet, this would include email, a 
+browser, a calendar, a personal directory, a search engine, 
+and an app store, for example.
+4. Potential product: This represents the product’s room 
+for growth as more and more ancillary products come 
+on the market and as customer-specific enhancements 
+to the system are made. The fact that for the Apple 
+iPad there are, at the time of this writing, some 374,090 
+apps on its App Store that I can buy to extend its reach 
+and value is one of its key selling points.
+To cite another example, the generic product for the Internet 
+browser category would be the set of functions first made pop­
+ular by Mosaic, then by Netscape Navigator, then by Internet 
+Explorer, and most recently by Firefox and Chrome. The ex­
+pected product would include portability to each of the popular 
+client platforms, including IOS, Android, and Windows. The 
+augmented product would include plug-ins from third parties to 
+provide additional features. And the potential product would be 
+Assemble the Invasion Force
+133
+the redefinition of the client, potentially to the exclusion of 
+ever seeing the operating system—a world in which there are 
+no device-specific apps, only HTML5 applets running ubiqui­
+tously. On the services side, for the generic product, there has 
+to be at minimum an Internet service provider; for the expected 
+product, a home page with a default search engine; for the aug­
+mented product, a variety of prearranged experiences presented 
+as buttons or the like; and for the potential product, perhaps a 
+complete reconstruction of consumer purchasing.
+Now, at the introduction of any disruptive innovation, the 
+marketing battle initially takes place at the level of the generic 
+product—the thing in the center, the product itself This is the 
+hero in the battle for the early market. But as marketplaces de­
+velop, as we enter the mainstream market, products in the center 
+become more and more alike, and the battle shifts increasingly 
+to the outer circles. To understand how to dominate a main­
+stream marketplace we need to take a closer look at the signifi­
+cance of what Paul Harvey might once have called the rest of the 
+whole product.
+The Whole Product and the 
+Technology Adoption Life Cycle
+First, let’s look at how the whole product concept relates to 
+crossing the chasm. If we look at the Technology Adoption Life 
+Cycle as a whole, we can generalize that the outer circles of the 
+whole product increase in importance as one moves from left 
+to right. That is, the customers least in need of whole prod­
+uct support are the technology enthusiasts. They are perfectly 
+used to cobbling together bits and pieces of systems and figuring 
+134
+Crossing the Chasm
+out their own way to a whole product that pleases them. In 
+fact, this is in large part the pleasure they take from technology 
+products—puzzling through ways to integrate an interesting 
+new capability into something they could actually use. Their 
+motto: Real techies don’t need whole products.
+Visionaries, by contrast, take no pleasure in pulling together 
+a whole product on their own, but they accept that, if they 
+are going to be the first in their industry to implement the 
+new system—and thereby gain a strategic advantage over their 
+competitors—then they are going to have to take responsibility 
+for creating the whole product under their own steam. The rise 
+in interest in systems integration services is a direct response to 
+increasing visionary interest in information systems as a source 
+of strategic advantage. Systems integrators could just as easily 
+be called whole product providers—that is their commitment 
+to the customer.
+So much for the market to the left of the chasm, the early 
+market. To get to the right of the chasm—to cross into the 
+mainstream market—you have to first meet the demands of the 
+pragmatist customers. These customers want the whole product 
+to be readily available from the outset. They like a product such 
+as Microsoft Office because virtually every desktop and laptop 
+supports it, files are exchangeable without fuss, there are books 
+in every bookstore about how to use it, not to mention seminars 
+for training, hotline support, and a whole cadre of temporary 
+office workers already trained on its core products of Word, 
+Excel, and PowerPoint. If instead the pragmatists are offered a 
+“great deal” on an alternative suite of products—say, Google 
+Apps, for example—they are reluctant to switch because they 
+fear some part of the whole product will be missing, and they 
+will be left holding the bag.
+Assemble the Invasion Force
+135
+The same logic holds for why pragmatists prefer ARM’s 
+smartphone microprocessors to Intel’s Atom, Google Search 
+to Microsoft’s Bing, Apple’s iPhone to RIM’s BlackBerry, HP 
+printers to Epson’s, Cisco routers to Huawei’s. In every case, 
+there is a risk that they are preferring an inferior product—if 
+you look only at the generic product. But in every case, they are 
+preferring the superior product if you look at the whole product.
+To net this out: Pragmatists evaluate and buy whole products. 
+The generic product, the product you ship, is a key part of the 
+whole product, make no mistake. But once there are more than 
+one or two comparable products in the marketplace, then in­
+vesting in additional R&D at the generic level has a decreasing 
+return, whereas there is an increasing return from marketing 
+investments at the levels of the expected, the augmented, or 
+the potential product. How to determine where to target these 
+investments is the role of whole product planning.
+Whole Product Planning
+As we have just seen, the whole product model provides a key 
+insight into the chasm phenomenon. The single most impor­
+tant difference between early markets and mainstream markets 
+is that the former are willing to take responsibility for piecing 
+together the whole product (in return for getting a jump on 
+their competition), whereas the latter are not. Failure to recog­
+nize this principle has been the downfall of many a high-tech 
+enterprise. Too often companies throw their products into the 
+market as if they were tossing bales of hay off the back of a 
+truck. There is no planning for the whole product—just the 
+hope that their product will be so wonderful that customers 
+136
+Crossing the Chasm
+will rise up in legions to demand that third parties rally about
+it. Well, God did divide the Red Sea for Moses.
+For those who wish to take a more prudent course, how­
+ever, whole product planning is the centerpiece for developing
+a market domination strategy. Pragmatists will hold off com­
+mitting their support until they see a strong candidate for lead­
+ership emerge. Then they will back that candidate forcefully in
+an effort to squeeze out the other alternatives, thereby bringing
+about the necessary standardization to ensure good whole prod­
+uct development in their marketplace.
+A good generic product is a great asset in this battle, but it is
+neither a necessary nor a sufficient cause of victory. Oracle did
+not have the best product when the market standardized on it.
+What Oracle offered instead was the best case for a viable whole
+product—a query language (SQL) based on an IBM standard
+plus all the major portability across hardware platforms plus an
+aggressive sales force to drive product into the market quickly.
+That is what the pragmatists in the IT department got behind.
+In short, winning the whole product batde means winning
+the war. And because perception contributes to that reality,
+looking like you are winning the whole product battle is a key
+weapon to winning the war. On the other hand, pretending you
+are winning the whole product battle is a losing tactic—people
+check up on each other too much in the high-tech marketplace.
+These distinctions will become critically important in our next
+chapter, where we deal with positioning.
+For now, our focus should be on the minimum commitment
+to whole product needed to cross the chasm. That is defined by the
+whole product that assures that the target customers can fulfill their
+compelling reason to buy. To work out how much whole product
+this is, you only need a simplified version of the whole model:
+Assemble the Invasion Force
+137
+The Simplified Whole Product Model
+In the simplified model there are only two categories: 1) what
+we ship and 2) whatever else the customers need in order to
+achieve their compelling reason to buy. The latter is the market­
+ing promise made to win the sale. The contract does not require
+the company  to  deliver
+ 
+on
+ 
+this
+ 
+promise,
+ 
+but the
+ 
+customer
+ 
+relation­ ship
+ 
+does.
+ 
+Failure
+ 
+to
+ 
+meet
+ 
+this
+ 
+promise
+ 
+in
+ 
+a
+ 
+business-to-business market has
+extremely
+ 
+serious
+ 
+consequences.
+ 
+As
+ 
+the
+ 
+bulk
+ 
+of purchases in this
+marketplace
+ 
+are
+ 
+highly
+ 
+reference
+ 
+oriented, such failure can only create
+negative
+ 
+word
+ 
+of
+ 
+mouth,
+ 
+causing
+sales productivity
+to drop
+dramatically.
+Classically, high tech has delivered 80 to 90 percent of a
+whole product to any number of possible target customers,
+but 100 percent to few, if any. Anything less than 100 percent,
+unfortunately, means that the customers either supply the re­
+mainder themselves or feel cheated. Significantly less than 100
+138
+Crossing the Chasm
+percent means that the target market simply does not develop 
+as forecast—even if the generic product, the product in the box 
+being shipped, is superior to anything else in its class.
+In short, if you wanted to trace disillusionment with high 
+tech’s inability to deliver on its promise to its investors and its 
+customers, lack of attention to whole product marketing is the 
+closest thing to a wellspring. This is actually great news—it 
+means that the converse applies as well. By solving the whole 
+product equation for any given set of target customers, high tech 
+has overcome its single greatest obstacle to market development.
+Let’s look at an example to see how this works out.
+The 3-D Printer, Revisited
+Let’s revisit our “after” scenario for the 3-D printer, the one 
+where we are manufacturing designer lighting fixtures on 
+demand. Here it is again:
+New approach: David and his client have been reviewing cat­
+alogs and images over the Web for the better part of a week, 
+and they have finally settled on a design. This is a variation 
+on a couple of actual products that David has sketched out 
+with input from the client. They take this design to a fixture 
+wholesaler who supports 3-D printing. The wholesaler works 
+with a freelance designer who is able to scan David’s drawing 
+and convert it into a CAD file. At the same time, the whole­
+saler works with David to select an appropriate material and 
+finish for the fabricated fixture. Then both the CAD file and 
+the material are fed into the printer, and out comes a finished 
+fixture. If the client still wants to tweak it some more, this 
+can be readily done by updating the file and printing it out 
+Assemble the Invasion Force
+139
+again. Further, by adjusting the parameters in the file, fix­
+tures of different scales can be produced, all sharing the same 
+design.
+Now, let’s analyze this scenario in light of its implied whole 
+product commitments. There are several:
+• 
+The wholesaler works with a freelance designer who is able to 
+scan David’s drawing and convert it into a CAD file. The 
+implication is that there is an industry-standard file 
+format for such designs, perhaps one coming from Au­
+toCAD, sufficiently ubiquitous that its presence can be 
+taken for granted.
+• 
+The wholesaler works with David to select an appropriate ma­
+terial and finish for the fabricated fixture. Here the assump­
+tion is that there preexists a fabrication material that can 
+meet the demanding standards of David and his client. 
+At the time of this writing, this is one of the weaker 
+elements in the scenario.
+• 
+If the client still wants to tweak it some more, this can be read­
+ily done by updating the file and printing it out again. This 
+assumes that the materials can be recycled or are cheap 
+enough to discard. It also assumes that the printing can 
+be done quickly enough that there is not a perennial 
+backlog of print orders to get in the way.
+• 
+By adjusting the parameters in the file, fixtures of different 
+scales can be produced, all sharing the same design. This 
+assumes that the printer has few limitations on the size 
+of the objects it can produce. Again, at the time of this 
+writing, this is also a weak point in the scenario.
+140
+Crossing the Chasm
+And so it goes. The point is, even a single target customer 
+scenario implies a chain of commitments that any product man­
+ager serious about delivering a whole product to an emerging 
+market opportunity must pursue to a satisfactory conclusion.
+Now, in the case of a 3-D printer, one can readily imagine a 
+fairly lengthy list of potential target customers and target appli­
+cations. In addition to interior designers like David, one could 
+imagine:
+• 
+Industrial designers prototyping parts for a piece of 
+machinery. They would likely need a variety of dura­
+ble materials in order to create and test the part under 
+realistic conditions.
+• 
+Toy manufacturers creating custom toys. They would 
+likely want vibrant primary colors to be part of the mix, 
+not to mention assurances of zero toxicity.
+• 
+Museum curators making models of decaying artifacts. 
+This would require a holographic scanner to create the
+3-D file that the machine would replicate.
+• 
+Footwear manufacturers making shoes on demand. This 
+would require material that was both fashionable and 
+comfortable to wear, not to mention long lasting.
+• 
+Antique car enthusiasts making replacement parts that 
+are no longer commercially available. Now we have to 
+accept precision CAD files and extrude work in metal 
+that can stand up to the stress of an operating engine.
+As even this cursory listing indicates, every additional new 
+target customer will put additional new demands on the whole product. 
+That is, the total sum of products and services needed in order 
+to get the desired benefit changes any time you change the value
+Assemble the Invasion Force
+141
+proposition. It soon becomes clear to even the most optimis­
+tic product marketing managers that they cannot go after all 
+markets at once, that at minimum they have to sequence and 
+prioritize opportunities, and that each opportunity has very real 
+support costs.
+Now, given the need for a whole product in order to fulfill 
+the customer’s reason to buy, what is the responsibility of the 3-D 
+printer hardware vendor—and specifically of the product man­
+ager who has the 3-D printer as his responsibility—for seeing 
+that this whole product is in fact delivered? The answer is, it has 
+nothing to do with responsibility, it has to do with marketing 
+success. If you leave your customer’s success to chance, you are 
+giving up control over your own destiny. Conversely, by think­
+ing through your customer’s problems—and solutions—in their 
+entirety, you can define—and work to ensure that the customer 
+gets—the whole product.
+At no time is this marketing proposition more true than when 
+crossing the chasm. Prior to the chasm there is some hope that 
+the visionaries will backfill the whole product through their own 
+systems integration efforts. Once the product is established in the 
+mainstream, there is some hope that some third party will see 
+an opportunity for itself to make money fleshing out the whole 
+product. But while you are crossing the chasm, there is no hope of any 
+external support that is not specifically recruited by you for this purpose.
+Some Real-World Examples
+To see how this works out in actual practice, let’s turn now to 
+some specific industry examples. Basically, there are two types of 
+scenarios we want to work through—one where there is installed 
+142
+Crossing the Chasm
+competition, and the otherwhere there is not. In the former case,
+it is as if one were trying to invade Normandy from England,
+and the installed market leader were playing the role of the Nazi
+forces. In the latter, it is as if one had crossed the Pacific in 1492,
+landed on a new continent, and decided to set up shop selling
+wares to the natives. Neither task is for the faint of heart.
+Aruba and Wireless Networks for Enterprises
+To begin with the competitive example, imagine yourself back
+m 2006, leading a wireless networking company focused on
+bringing Wi-Fi to the enterprise. The name of the company is
+Aruba, which you may or may not have heard of. But you will
+have heard of the competitor they were targeting: Cisco]
+Aruba at this point was growing very fast, but off a very
+small base, from $12 million in 2005 to $72 million in 2006—
+pretty amazing, to be sure, but enough to take on a competitor
+four hundred times its size? Welcome to the world of Silicon
+Valley start-ups. This is what you do. The only question to
+answer is, how?
+The first rule is you have to leverage a point of disruption,
+one that puts the incumbent a bit back on its heels. In this case,
+wireless networks taken to their extreme threatened to canni­
+balize wireline networks, which were and still are the heart and
+soul of Cisco’s franchise. Moreover, a new standard had just been
+released for Wi-Fi (802.11n, to be precise), which for the 
+first time promised wireline performance delivered over the 
+air. 
+So there was a l0x value proposition potentially in 
+play—arguably the single most pragmatic definition of a disruptive 
+innovation.
+The second rule is, remember the fish-to-pond ratio princi­
+ple from the prior chapter, and target a market segment that is
+big enough to matter, small enough to lead, and a good fit with
+Assemble the Invasion Force
+143
+your crown jewels. Here small enough to lead means, in part, 
+too small for the much bigger incumbent to spend a lot of time 
+focusing on. Big fish have trouble competing in small niches.
+For Aruba, applying this rule led them to the U.S. college 
+and university market. At the time more and more students 
+were coming to college with laptops. Arguably this was the first 
+BYOD (bring-your-own-device) market segment, and as such 
+it wanted networking services available everywhere, not just 
+through a cable into a dorm room. Moreover, these students 
+were not just doing searches and email anymore—they were 
+also streaming music and video, which created an added push 
+to adopt next-generation wireless standards early. And finally, 
+colleges and universities like to support next-generation tech­
+nology efforts from plucky start-ups, so they were more collab­
+orative than a lot of other target markets would have been. All 
+in all, targeting this market was a great call.
+Now we come to the third rule, the one this chapter is 
+about: Surround your disruptive core product, the thing that 
+got you to the dance, with a whole product that solves for the 
+target customer’s problem end to end. That will keep you on 
+the dance floor for a long time to come.
+The way you design a whole product is to work backward 
+from the target customer’s use case, filling in the blanks as you 
+go along, either with new R&D, an acquisition, a partnership, 
+or an alliance. In the case of the college IT department deploy­
+ing networking services across their campuses, the core product 
+consisted of the following:
+• A very large number of access points, as many as several 
+thousand, to cover every point of access from the dorm 
+to the library to the classroom to the student union, to
+144
+Crossing the Chasm
+sports facilities, and ultimately even to off-campus pubs
+(where a lot of professors keep their office hours).
+• 
+One or more mobility controllers, to manage all this
+traffic from a central point of control. This level of
+control had not been necessary in prior deployments
+where Wi-Fi networks were minor extensions to the
+wireline network, say covering guest services in a
+few conference rooms. But once the wireless network
+becomes the primary carrier of traffic, they are manda­
+tory. For example, at the end of any exam, the entire
+class of students uploads their answers all at the same
+time, which can create a spike of demand—you don’t
+want that to bring down your network, or to lose any
+test traffic, either.
+• 
+A network management system to support the network
+administrators, giving them the ability to dial service
+levels up or down, authenticate users, authorize access,
+as well as troubleshoot network outages and the like.
+That covers the core product. What then would go into
+making up the whole product? Consider the following:
+• 
+The campuses still had wireline networks as well, even
+though they were not building them out as aggressively
+as they originally had planned. As a result, the network
+management system had to work both with the new
+and the old equipment. This led Aruba to partner with,
+and eventually acquire, AirWave, a network manage­
+ment system that grew up managing Cisco routers and
+switches.
+Assemble the Invasion Force
+145
+• 
+Additionally, most campuses had a student and faculty 
+directory already in place, frequently Active Direc­
+tory from Microsoft, so partnering here also became a 
+priority.
+• 
+Then there were the students themselves, who were, 
+well, let’s say creative. As one network administrator 
+said to Aruba, “Our security system is less focused 
+on protecting our students from the world than it is 
+on protecting the world from our students!” The era 
+of Napster had come and gone by this point, but the 
+era of BitTorrent file sharing, with or without autho­
+rization, was in full swing. Network administrators 
+needed to shape this traffic at a minimum, if not shut it 
+down upon demonstrable violations. This led Aruba to 
+partner with and eventually to directly purchase from 
+Bradford a network operations control center of the sort 
+more often seen in telecommunications companies.
+• 
+In the continuing quest to compete for new students, 
+colleges and universities had begun streaming content 
+directly to digital devices, specifically video, both for 
+education and for entertainment. This requires special 
+video codecs to supply, which Aruba turned to a com­
+pany called Video Furnace.
+• 
+As the market continued to develop, Aruba created an 
+advisory board from its leading university customers, 
+one member of which had the novel idea that, instead of 
+using wireless to extend wireline, how about the other 
+way around? Specifically, he asked for a remote access 
+port that could be hooked into a wireline VPN (vir­
+tual private network) so that people at home or at other
+146
+Crossing the Chasm
+remote locations could be part of the same network 
+management system as well (no new log-ons, passwords, 
+etc.). This Aruba had to invent, and it has subsequently 
+become a key differentiator in its product line.
+As you can see, nothing in the whole product is a showstop­
+per from the point of a competitor seeking to neutralize Aruba’s 
+differentiation, but taken as a whole, for a large competitor who 
+has much bigger fish to fry, it takes more focus to accomplish 
+this outcome than it is worth. And from the customer’s point of 
+view, the fact that companies like Aruba are willing to go the 
+extra mile just for them builds a level of loyalty that is long-lived 
+indeed. This is the core dynamic that enables start-ups to cross 
+the chasm despite direct opposition from installed incumbents.
+Lithium and Customer-Enabled Tech Support
+Now let’s turn to the other scenario for crossing the chasm, the 
+one where (good news) there is no enemy fortifying the shore 
+against invasion because (bad news) people have yet to discover 
+there is anything there to defend. Here the vendor must create 
+a market out of whole cloth. Under these conditions, the prag­
+matist buyers who are the key to the mainstream market do not 
+reject the new product so much as simply watch for signs of its 
+adoption. They don’t say no, in other words; they just don’t say 
+yes. Talk about extended sales cycles!
+In this situation, entrepreneurs are fighting a race against 
+time. Like the intrepid explorers and colonists of the sixteenth 
+and seventeenth centuries, they have landed in terra incognita 
+and have a fixed amount of supplies (working capital) to see 
+them through to selfisufficiency. The question is not whether 
+someday someone will make a successful colony; the question 
+Assemble the Invasion Force
+147
+is whether it will be them, or whether they will die in the at­
+tempt. Have we landed at Plymouth Rock or Jamestown?
+Let’s look at a specific example. Lithium is a SaaS (software - 
+as-a-service) company that creates online communities of con­
+sumers and customers, to co-create and share digitally delivered 
+marketing, sales, and customer support content. When they were 
+founded just after the dot-com bust at the beginning of the cen­
+tury, this was a novel idea, and Lithium’s claim to fame was that 
+its founders were online game developers who had learned a ton 
+about how to motivate voluntary behavior through virtual re­
+wards. The idea caught on with early adopters, but as you might 
+expect, the pragmatists adopted a wait-and-see attitude. To cross 
+the chasm, Lithium had to target a pragmatist enclave disaffected 
+with the status quo. They found that enclave in tech support.
+Tech support organizations are, as a rule, overworked and 
+underappreciated. The problem is that most tech products in­
+teroperate with so many other tech products, it is a real chal­
+lenge to figure out what or who is at fault when something 
+goes wrong. The people who might know these answers get 
+paid way too much to staff a customer support hotline, and the 
+people on the hotline—who often as not are in a call center 
+somewhere across the Pacific Ocean—have to work with scripts 
+as best they can. Anyone who has been on one of these calls can 
+testify how frustrating a customer experience it can be.
+So what if we could end all that? What if you could go online 
+and get expert advice from the very best minds in the industry, 
+and better still, get it all for free? Wouldn’t that be cool? Dell 
+thinks so. So does HP, and Lenovo, and Autodesk, and Micro­
+soft. Welcome to the world of customer-enabled tech support.
+The key idea here is to create an online community where 
+customers can answer other customers’ questions before they 
+148
+Crossing the Chasm
+even get to a customer support hotline. Why would people with
+such expertise spend their time doing this? Technology enthusi­
+asts (remember them from the very beginning of the Technology
+Adoption Life Cycle model?) like to help other people. It is their
+passion. If you add some game-oriented rewards and social rec­
+ognition (what people now call gamification, although that word
+still grates on an ex-English-professor’s ears), it works even better.
+The core product here is a branded website that lets cus­
+tomers both ask and answer questions, lets them rate the qual­
+ity of the answers, which over time allows the best answerers
+to emerge, garnering these providers the highest status awards.
+That is the core product, and it is highly disruptive wherever
+the, status quo consists of out-of-date knowledge bases being
+consulted by inexpert call center employees, backed up by har­
+ried engineers who have neither time nor patience to answer the
+same questions over and over again.
+But the truth is, creating a wiki-like site to perform these
+kinds of functions is not that hard. So what could Lithium do to
+build a whole product that would win over the skeptical prag­
+matists? To be fair, they did have one thing going for them right
+out of the chute. The cost reduction of deflecting a call from a
+call center to a website is substantial—as much as ten times. And
+since call centers are cost centers in most tech enterprises, re­
+ducing costs is always top of mind. But here’s what Lithium did
+over and above that allowed them to cross the chasm and win
+the market leading position in this niche. (Full disclosure: In
+case I sound a bit enthusiastic here, I should reveal that I joined
+the company’s board of directors in 2012.)
+• Helped customers create their tribal knowledge bases.
+Lithium provided consulting support to help customers
+Assemble the Invasion Force
+149
+curate the ever-growing body of user-contributed 
+content, turning community conversations into 
+knowledge articles, making this content easier to 
+find and easier to consume. This approach to crowd­
+sourcing increases customer satisfaction, reduces mean 
+time to getting the right answer, increases call deflec­
+tion, and increases customer loyalty, especially among 
+the committed few who contribute much of the most 
+valuable content.
+• 
+Extended the support to mobile devices. Most Web con­
+tent is challenging to consume on a mobile device, but 
+increasingly that is what the consumer or customer has 
+ready to hand when they need an answer. This not only 
+makes fife more convenient for the end user; it dramat­
+ically increases call deflection because the consumer 
+can switch from one to the other while using the same 
+device.
+• 
+Integrated their service with the enterprise’s CRM 
+(Customer Relationship Management) system. This 
+connects the customers using Lithium with enterprise 
+employees, allowing the latter to address unanswered 
+questions, capture feedback and insights to feed back 
+to developers, and further improve the knowledge base 
+that drives the overall system.
+• 
+Extended support to the social web (Facebook, Twit­
+ter, Google+, etc.). This is part of an “omni-channel” 
+movement throughout tech to engage the consumer and 
+customer on the device and in the environment that 
+best suits them. It allows for the knowledge base and the 
+community population to extend themselves seamlessly 
+by adding links to other sites and individuals.
+150
+Crossing the Chasm
+By extending their core product to create a whole product, 
+Lithium was meeting the needs both of their immediate target 
+customers—consumer 
+tech 
+companies—and 
+their 
+customers’ 
+customers, the consumers themselves needing help and the 
+technology enthusiasts looking to share their expertise.
+Partners and Allies
+“Strategic alliances” with partners and allies have always been 
+trendy items in high-tech marketing. One expects to see ads on 
+Facebook reading:
+Large, well-heeled company with established distribu­
+tion channels and aging product line seeks small, en­
+trepreneurial, cash-starved technology leader with hot 
+new product. Photos available upon request. . . .
+As a rule, however, these types of alliances do better in Pow­
+erPoint presentations than on the street. To start with, the com­
+pany cultures' are normally too antithetical to cooperate with 
+each other. Decision cycles are wildly out of sync, leading to 
+enormous frustration among the entrepreneurs and patroniz­
+ing responses from the established management. To make mat­
+ters worse, each side has probably misrepresented itself one way 
+or another during partnership negotiations, such that there is 
+plenty of ammunition for each group to fire at the other once 
+tempers get hot. This is particularly likely to be the case when 
+the entrepreneurs have been angling for acquisition as an exit 
+strategy. So, for the most part, despite the impeccable logic of 
+these mergers, they are very tough to bring off.
+Assemble the Invasion Force
+151
+Of course, some strategic alliances have been extremely suc­
+cessful. Consider the relationship that developed among SAP, 
+Hewlett-Packard, and Andersen Consulting to displace IBM as 
+the premier enterprise vendor by bringing client-server Enter­
+prise Resource Planning (ERP) systems to market. Or con­
+sider the alliance between Intel and Microsoft, what some have 
+called the Wintel duopoly, which to this day orchestrates the 
+PC industry. And more recently, Cisco, EMC, and VMware 
+have teamed up to create a Unified Computing Environment 
+for cloud computing that is having substantial success.
+All these alliances have been hugely powerful and moved 
+mountains of market cap. Note, however, that they are among 
+relatively equally matched peers. And even with that proviso, 
+the complexities of developing and maintaining such strategic 
+alliances in the field, where sales actually happen, are sufficient 
+to make even the most experienced organizations struggle. 
+They are certainly not the province of mere product manag­
+ers seeking to ensure that their niche-segment target customers 
+achieve their compelling reasons to buy
+What does work for product managers, on the other hand, 
+are tactical “whole product” alliances. These alliances have one 
+and only one purpose: Accelerate the formation of whole product 
+infrastructure within a specific target market segment in support of a 
+segment-specific compelling reason to buy. The basic commitment 
+is to codeliver a whole product and market it cooperatively. 
+This benefits the whole product manager by ensuring customer 
+satisfaction. It also benefits the whole product partners by ex­
+panding their marketplace without them having to do any of 
+the marketing. As long as each side lives up to its part of the 
+bargain, there is good reason to expect success.
+Whole product alliances are readily initiated and managed 
+152
+Crossing the Chasm
+at the product marketing manager level. Typically, the initial op­
+portunity is first brought to the company’s attention either by 
+the salespeople or by customer support staff, one of whom has 
+bumped into the potential ally at a particular customer’s site. 
+But they can also be anticipated through the exercise of think­
+ing through the whole product solution to the customer’s buying 
+objective. The main point, again, is that these are tactical alli­
+ances growing out of whole product needs, not strategic alliances 
+growing out of. . . well, whatever strategic alliances grow out 
+of (my personal feeling is that the number-one cause of strategic 
+alliances is too many staff people with not enough to do).
+Partners and Allies: The Example of Rocket Fuel
+To see how this might work out in a few specific instances, let’s 
+first consider the example of Rocket Fuel, a Mohr Davidow in­
+vestment that has achieved meteoric growth in the digital ad­
+vertising sector. Like most things in the new digital economy, it 
+“takes a village” to create, launch, monitor, and monetize a digital 
+ad campaign. Rocket Fuel’s role in this ecosystem is to increase 
+the yield of digital advertising by placing the right ad in front of 
+the right person at the right time—all done by artificial intelli­
+gence algorithms made increasingly effective through machine 
+learning. Needless to say, this is a highly specialized capability.
+Specialized offerings must focus intensely on what is core to 
+their differentiation, which means that spending anything on 
+context dilutes their ability to scale their value and size. As a 
+result, companies taking this path must look to leverage existing 
+systems and players wherever they can. This requires a whole 
+host of “silent” partners and allies, totally necessary to the whole 
+Assemble the Invasion Force
+153
+product, economically aligned with, in this case, Rocket Fuel’s 
+value proposition, but not able or willing to actively engage in 
+a lot of partnering activities.
+The key tactic here is to build very clean interfaces for ac­
+cessing other systems and letting them access you—whether 
+they be computer systems like digital ad exchanges, where pub­
+lishers can put their inventory and advertisers can bid on it in 
+real time, or whether they be industry participants like ad agen­
+cies and media buyers, who have big budgets they need to put to 
+work effectively and efficiently. In the case of Rocket Fuel their 
+goal is to look like “any other” media partner, just one that deliv­
+ers much more bang for the same buck.
+In addition to the principals directly involved, there are pe­
+ripheral partnering relationships that can grease the skids to ac­
+celerate adoption in your target market. In the case of Rocket 
+Fuel the Interactive Advertising Board played a key role in stan­
+dardizing contracts such that a small company could play across 
+a broad footprint without having to have a legal department the 
+size of Chicago. And the reporting capabilities of the ad servers, 
+like DART and Atlas, helped make transparent the performance 
+metrics upon which Rocket Fuel was basing its entire value 
+proposition—no more “I know I waste half of my ad budget, 
+but I just don’t know which half” Now Rocket Fuel’s custom­
+ers did, with no-investment required from the company itself
+The net of all this is that the advertising industry as a whole, 
+realizing that consumer attention has migrated online in a big 
+way, has collectively rallied around companies like Rocket Fuel 
+and AudienceScience and Visible Measures (to name three of 
+MDV’s investments in the area) because everyone in the ecosys­
+tem has a vested interest in engaging consumers across this new 
+medium. The lesson for everyone else is clear: If you want to go 
+154
+Crossing the Chasm
+fast, go alone; if you want to go far, go with others. In the age 
+of the Internet you need to do both at the same time, and that’s 
+where whole product partners can make all the difference.
+That said, Rocket Fuel is something of a special case—not 
+all fast-growing businesses in digital commerce depend so in­
+tensely on big data and analytics. Some actually depend primar­
+ily on people! Take Infusionsoft, for example.
+Partners and Allies: The Example of Infusionsoft
+Infusionsoft 
+is 
+another 
+MDV-mvested 
+software-as-a-service 
+company, one that provides sales and marketing services (what 
+the tech industry calls CRM—Customer Relationship Man­
+agement) to small businesses (typically fewer than twenty-five 
+employees, many no more than one or two). It was founded to 
+help truly small business owners make the transition to online 
+marketing, a capability that can be transformative if used prop­
+erly, but highly daunting to adopt, especially for those new to 
+either digital or marketing or both.
+This created an initial conundrum for Infusionsoft—how do 
+you attract typically late-adopting target customers to a tech­
+nology they are not themselves engaging with? Online market­
+ing only works, after all, if your target customer is online. The 
+company solved this problem by partnering with a cadre of small 
+business marketing experts who made their living selling seminars 
+to small business owners advocating the new online approach. 
+These gurus were able to attract prospects in droves, and what 
+better way to stay in touch with them than to help them in­
+stall an online marketing capability? The software reinforced 
+the teachings, and the teachings reinforced the software. To be 
+Assemble the Invasion Force
+155
+sure, this was still a congregation of early adopters, but it helped
+Infusionsoft meet its first growth milestones.
+To cross the chasm, however, the company needed to
+expand beyond the early market for marketing innovation and
+access the pragmatist majority. It experimented with a number
+of possible beachhead markets, and had particular success with
+professional speakers (a more generalized version of the market­
+ing guru segment), fitness studios, and dentists (these last two
+both having a “retention marketing” objective that particularly
+lent itself to online reminders).
+In conjunction with these forays it also tried an experiment
+that failed. Instead of charging customers what had been a hefty
+up-front fee to get them up and running, it waived the fee en­
+tirely, thereby vastly increasing the number of prospects willing
+to sign up. Unfortunately, a large number of those same cus­
+tomers churned out after a short period. Painful as that was, it
+taught an important lesson about the whole product: Onboard­
+ing, both for technical and for business process reengineering
+reasons, had to be carefully supervised.
+By adding back a lower-cost version of their onboarding ser­
+vice, Infusionsoft was able to drive down its churn and achieve its
+targeted retention rate goals. But this raised a second challenge:
+How could you scale the company to meet the escalating demand
+without creating a low-margin call center environment? This
+challenge was made even more acute when the company ex­
+panded from a pure marketing service to an end-to-end CRM
+offer.
+The good news here is that nature abhors a vacuum. The
+fact that Infusionsoft customers were willing to pay several thou­
+sand dollars to be guided through their onboarding and coached
+through their first several marketing campaigns was not lost on
+156
+Crossing the Chasm
+the service providers in their ecosystem. A number of them began 
+to throw their hats in the ring to provide the same service.
+This led the company to host an Implementation Accelerator 
+workshop, in which they brought twenty-five customers together 
+with a complete suite of experts for a two-day “marketing hack- 
+athon.” Included in the effort were Infusionsoft success coaches to 
+help with inventing marketing strategy and tactics, copywriters, 
+script writers and videographers, software object designers, and webmas­
+ters, not to mention Infusions oft’s own tech support staff. What 
+some customers were able to accomplish in two days exceeded 
+what many had done in an entire year. Clearly smoothing the 
+pathway to a whole product was a critical success factor.
+This led the company to create a training and certification 
+program that in the past two years has graduated more than two 
+hundred Infusionsoft Certified Consultants, not one of whom is on 
+the company’s payroll. Moreover, because each hand washes the 
+other, these same consultants are a strong source of referrals, 
+driving more than half of the company’s new customer enroll­
+ments in the most recent fiscal year.
+The lesson here is clear: While strategic partnerships often 
+struggle mightily to sustain their engagement and maintain 
+their relevance, whole product partnerships built around whole 
+products for specific target markets with compelling reasons to 
+buy do not. That said, let’s see how these same principles can be 
+applied in a strategic partnering scenario.
+Partners and Allies: The Example of Mozilla
+While I clearly favor the tactical path, there are cases in high 
+tech when you simply have to take a top-down, orchestrate- 
+Assemble the Invasion Force
+157
+the-industry approach. Such was the challenge facing the team
+at Mozilla in 2011 when they made the commitment to expand
+their world-renowned Firefox browser franchise from the desk­
+top to the mobile device.
+Firefox is an open-source Web browser that came into exis­
+tence largely to remediate the flaws in Microsoft’s Internet Ex­
+plorer 7.0. That particular piece of technology put the end user’s
+computer at the mercy of spammers in unacceptable ways, and
+the team at Mozilla led an effort to create a “people’s choice”
+alternative. It worked, with 100 million downloads in the first
+year, leading it to becoming the third most popular browser in
+the world behind Internet Explorer and Google Chrome. It also
+worked in another way, spurring both Microsoft and Google
+to adopt “Do Not Track” optionality into their latest releases,
+thereby helping to fulfill Mozilla’s populist mission.
+Mission accomplished? Well, not so fast. How about the
+next two billion people who are expected to come on to the
+Internet in the next few years for the first time, people from
+developing economies who have never had Web access before?
+They will be using mobile devices for sure—what browser will
+be their standard?
+To continue its mission of populist values, Mozilla needed to
+orchestrate the mobile industry to create a mobile browser that
+could perform at a smartphone level, competing directly with
+Apple and Google Android devices, and to organize the entire
+ecosystem to support this open-source platform as a de facto
+standard. Mobile is an amazingly diverse sector, ranging from
+very conservative national telephony franchises to over-the-top
+technology disrupters coming from all sides. How could a siriall
+not-for-profit company in Mountain View, California, hope to
+paint anything coherent on such a large canvas?
+158
+Crossing the Chasm
+Here’s what they did do:
+1. Targeted the “next two billion” Web users, embracing the 
+constraint that they would not be able to afford anything 
+more than free open-source software, but who would be 
+willing to accept a product optimized for price/perfor- 
+mance as opposed to the latest features, and who would 
+require a hyper-low-cost platform, which they had the 
+technology to deliver.
+2. Recruited two key mobile operators—-Telefonica and Deut­
+sche Telekom—to anchor this effort because, as their CEO 
+at the time, Gary Kovacs, put it, “They write the checks.”
+3. Leveraged their support to recruit two key device 
+manufacturers—-ZTE and TCL (formerly Alcatel) to supply 
+Firefox-enabled devices.
+4. Held summits, councils, and multi-party planning days 
+over the course of more than a year to get the ecosystem 
+aligned both at the executive and the operating levels.
+5. Fought to maintain a common core set of standards for the 
+platform, despite pressure from every side to support “spe­
+cials,” so that the end result was truly scalable at a global 
+level.
+6. Led a launch at the 2013 Mobile World Congress where 
+Kovacs was joined onstage by twenty-three other 
+CEOs, each of whom had signed a commitment to 
+launch a Firefox-enabled device in at least one country.
+Not bad for an organization whose mission in life is to 
+champion individual rights in an age of superpowers.
+A key takeaway here is that the steps of market development 
+outlined in this book structured their entire effort:
+Assemble the Invasion Force
+159
+• 
+They began with a target customer (disenfranchised cit­
+izens in developing economies who would be making 
+their very first purchase of an Internet-enabled ser­
+vice) with a compelling reason to buy (access to all the 
+content on the Web for free, plus communications for 
+personal, family, and business purposes).
+• 
+They figured out the whole product and determined 
+for that product that the operators and the OEM device 
+manufacturers were the critical anchor partners.
+• 
+They then went after partners who shared, their interest 
+in the next two billion, with franchise interests in de­
+veloping economies, and used their focused requests to 
+create a big enough sales opportunity to get the atten­
+tion of two world-class OEMs.
+• 
+When it came time to “create the competition” (some­
+thing we will get to in the next chapter), the whole 
+ecosystem knew it was Apple and Google, two ex­
+tremely powerful ecosystems who in flexing their mus­
+cles were making both operators and OEMs increas­
+ingly nervous such that they were ready to support the 
+entry of a balancing force.
+Finally, at no point did they try to make the story or the 
+value proposition about themselves. It was always an effort in 
+service to the world and to the industry, so people could buy in 
+based on their own self-interest, not just in order to get a “good 
+deal.” That is a true key to whole product management success.
+The net result of the partnering activities we have been review­
+ing in the cases of Rocket Fuel, Infusionsoft, and Mozilla is the 
+creation of a market. For markets represent more than just a buyer and 
+a seller. They are an ecology of interrelated interests interoperating 
+160
+Crossing the Chasm
+to create what business schools call value chains. For any company 
+crossing the chasm, fostering the initial partnerships to create the 
+whole product is the equivalent of seeding the value chain, getting 
+it started. Once value starts being generated, a free-market system 
+becomes self-reinforcing, and the whole product manager’s job 
+then is simply to let go and get out of the way.
+To sum up, whole product definition followed by a strong 
+program of tactical alliances to speed the development of the 
+whole product infrastructure is the essence of assembling an 
+invasion force for crossing the chasm. The force itself is a func­
+tion of actually delivering on the customer’s compelling reason 
+to buy in its entirety. That force is still rare in the high-tech 
+marketplace, so rare that, despite the overall high-risk nature of 
+the chasm period, any company that executes a whole product strategy 
+competently has a high probability of mainstream market success.
+Recap: Tips on Whole Product Management
+1. Use the doughnut diagram to define—and then to 
+communicate—the whole product. Shade in all the 
+areas for which you intend your company to take pri­
+mary responsibility. The remaining areas must be filled 
+either by the customer or by partners or allies.
+2. Review the whole product to ensure it has been reduced 
+to its minimal set. This is the KISS philosophy (Keep
+It Simple, Stupid). It is hard enough to manage a whole 
+product without burdening it with unnecessary bells and 
+whistles.
+Assemble the Invasion Force
+161
+3. Review the whole product from each participant’s point 
+of view. Make sure each vendor wins, and that no vendor 
+gets an unfair share of the pie. Inequities here, particularly 
+when they favor you, will instantly defeat the whole prod­
+uct effort—companies are naturally suspicious of each other 
+anyway, and given any encouragement, will interpret your 
+entire scheme as a rip-off.
+4. Develop the whole product relationships slowly, work­
+ing from existing instances of cooperation toward a more 
+formalized program. Do not try to institutionalize co­
+operation in advance of credible examples that everyone 
+can benefit from it—not the least of whom should be the 
+customers. Also, do not recruit directly competing partners 
+to serve the same need in the same segment—this will only 
+discourage them from making a full commitment to your 
+program.
+5. With large partners, try to work from the bottom up; with 
+small ones, from the top down. The goal in either case is to 
+work as close as possible to where decisions that affect the 
+customer actually get made.
+6. Once formalized relationships are in place, use them as 
+openings for communication only. Do not count on them 
+to drive cooperation. Partnerships ultimately work only 
+when specific individuals from the different companies 
+involved choose to trust each other.
+7. If you are working with very large partners, focus your 
+energy on establishing relationships at the district sales 
+office level and watch out for wasting time and effort with 
+large corporate staffs. Conversely, if you are working with 
+small partners, be sensitive to their limited resources and
+162
+Crossing the Chasm
+do everything you can to leverage your company to work 
+to their advantage.
+8. Finally, do not be surprised to discover that the most 
+difficult partner to manage is your own company. If the 
+partnership really is equitable, you can count on some­
+one inside your company insisting on taking a bigger 
+share of the benefit pie In fighting back, look to your 
+customers to be your truest and most powerful allies.

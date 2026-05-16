@@ -1,0 +1,425 @@
+CHAPTER 11
+Use Behavioral Pricing
+Tactics to Persuade
+and Sell
+Sometimes Your Customers Will
+Behave Irrationally
+P
+eople make decisions based on both rational and emotional factors.
+For example, imagine you are on a beach on a hot day and you crave
+a cold beer. A friend offers to bring you one from the only place nearby
+that sells beer—a fancy resort hotel.
+How much will you pay for the beer?
+Now imagine you are on a beach on a hot day, craving a cold beer,
+and a friend offers to bring you one from the only place nearby that sells
+beer—a small, run-down corner store.
+How much would you be willing to pay for the same beer now?
+Remember: The beer is the same, the weather is the same, and, best of
+all, you don’t have to move. Your friend is willing to make the beer run.
+When asked, people typically are willing to pay twice as much for the
+beer from the resort as from the run-down store. From an economic
+perspective, this makes no sense; it is, in a word, irrational. Behavioral
+economics springs from this recognition that buyers are not always
+rational actors. Their willingness to pay (WTP) for your product is
+135
+not solely based on the value they get from it. Psychological factors also
+can play a big role. We refer to the pricing tactics that play to this
+irrational side of customers as behavioral pricing.
+The topic of behavioral economics is of growing interest in
+academic and business circles. It was ﬁrst popularized by researchers
+Daniel Kahneman, Amos Tversky, and Richard Thaler in the 1970s
+and ’80s. Dan Ariely’s amazing book, Predictably Irrational, expanded the
+ﬁeld’s followers. But while a number of books have explored behav-
+ioral economics, the literature on behavioral pricing is sparse, especially
+as it relates to monetizing new products. This chapter attempts to
+address that gap.
+In discussing the concept of value pricing and its components
+(especially WTP and value messaging) in Chapters 4 and 10, we
+explained how to appeal to the customer’s rational side. We explored
+how to match the price of your offering with the value customers
+perceive that offering gives them. That’s the rational side of pricing.
+Behavioral pricing is a separate matter. It calls for reﬁning your
+product offers and the messages you create about them to make it easier
+for customers to compare, decide, and purchase. And making it easier
+doesn’t necessarily mean providing information for logical, rational
+analysis. Sometimes, that data only makes deciding harder. Behavioral
+pricing is the magic that happens when value pricing meets irrational
+customer psychology.
+All of us are subject to behavioral pricing every day. Consider what
+happens when you walk into a movie theater. When you belly up to the
+concession stand, do you wonder why the price of the large soda ($5.99 at
+a theater near one of us) is just a buck more than the $4.99 small soda?
+The reason is the price of the small serving makes the large one seem less
+expensive, and thus more attractive, even if you’re not that thirsty and the
+small soda is all you really want. Such offers, promoted to make another
+product look better, are called anchors. The small soda makes the more
+expensive option look like a bargain, and who can resist a bargain? That’s
+the only reason for a $4.99 small soda at all.
+Price anchors are one of several pricing tactics that play to the
+irrational side of customers. How you communicate your pricing to
+customers, and how you frame a conversation to deal with customer
+irrationality, can substantially impact how well your new product sells
+and the price you get for it.
+136
+Monetizing Innovation
+This is an important step you should take at the very same time you
+factor your product’s value to customers into your pricing. Pricing that
+doesn’t consider the irrational aspects of customers is likely to be
+suboptimal.
+If you think behavioral pricing applies only to consumer products and
+services, think again. It does not. In fact, behavioral pricing is just as
+crucial in business-to-business (B2B) settings. In both cases, you are
+selling to people, and understanding their psychology and how they buy
+is important whether you are pricing candy bars or bulldozers.
+The Behavioral Pricing Dilemma of an Internet Start-
+Up Company
+Back in 2012, we worked with an Internet start-up that wanted to increase
+revenue from service providers. The company already had a “good, better,
+best” product lineup. But close to 60 percent of its customers selected
+the good or entry-level offering. The ﬁrm launched a large study to
+determine whether it was possible to steer more customers to the more
+proﬁtable premium offerings.
+The study uncovered a number of insights, two of which were the
+most consequential:
+1. The ﬁrm’s customers had key psychological price thresholds—limits
+to what most of them would spend, depending on the product
+conﬁguration. Those price thresholds were $49, $99, and $199. Our
+client had three offerings priced at $49 (Basic), $79 (Standard), and
+$149 (Advanced). The fact that the ﬁrm’s pricing was below cus-
+tomers’ psychological thresholds suggested it could raise prices
+without hurting demand.
+2. Our client was giving away too much value in its low-end offering.
+No wonder almost 60 percent of the service providers had chosen it!
+More important, by providing too much value in the entry-level
+offering, the ﬁrm had unintentionally made its higher-priced offering
+less attractive. Even though the Standard offering had more value
+than the Basic offering, customers failed to appreciate that additional
+value (for the additional price). The Basic offering was too good, and
+the Standard offering looked expensive given the incremental value it
+offered.
+Use Behavioral Pricing Tactics to Persuade and Sell
+137
+The ﬁndings pointed to two recommendations that could raise
+average revenue per subscriber: increase prices of the Standard and
+Advanced offering to customers’ psychological price thresholds, and
+make those offerings more attractive. The company’s CEO reduced the
+functionality of the Basic offering but kept the same price. The price of
+the Standard and Advanced offering were increased to $99 and $199
+respectively. The CEO also redistributed the existing features among
+the Standard and the Advanced offerings to make each of them more
+compelling. Last but not least, a fourth offering, an ultrapremium
+offering with new functionality (aptly named Premium), was created
+and priced at $299.
+The impact was immediate and substantial. The number of Standard
+and Advanced premium products sold rose signiﬁcantly, even though
+their prices went up. The ﬁnancial impact was substantial: an average
+revenue per user (ARPU) increase of 36 percent and a 29 percent increase
+in monthly recurring revenue (MRR) from new customers. The com-
+pany’s annual proﬁt jumped many times because the new products came
+with little additional cost to the ﬁrm.
+Of the 29 percent total increase in MRR, the ﬁrm attributed roughly
+14 percentage points to behavioral pricing and 15 percentage points to
+changes in the core product conﬁgurations. This is behavioral pricing at
+its best.
+If you work at a multibillion-dollar company, you aren’t likely to get
+a 14 percent revenue increase using behavioral pricing; a 1 percent to
+3 percent sales boost is more likely. But remember, the pricing tactics
+we’re talking about here don’t necessarily require rejiggering the func-
+tionality of your product offerings. You won’t need to increase your costs
+very much to get that revenue increase. In other words, all of that extra
+revenue goes directly to your bottom line.
+Why is that kind of revenue and proﬁt boost possible? Why did the
+Internet start-up company’s customers ﬂock to its higher-priced options?
+Three reasons stand out.
+One, reducing the functionality of the entry-level Basic offering
+made the offering immediately above it much more attractive to buyers
+who previously would have been misclassiﬁed as price-sensitive.
+Two, the Premium offering came with a premium price: $299. That
+made the Standard and Advanced products look more attractive. The
+138
+Monetizing Innovation
+Premium offering was the anchor, the Internet start-up company’s version
+of the movie theater’s small soda. The offering’s sole purpose was to make
+the other products look like bargains. It drove a higher percentage of
+customers who wanted a high-quality solution—but still loved getting a
+deal—to choose the Standard and Advanced product.
+Three, a few customers were willing to pay the premium price for the
+premium offering with the most functionality. We have seen this time
+and again: Certain customers will always go for the most expensive
+product in a lineup, the one they perceive to have the highest quality.
+They believe you get what you pay for and that they deserve the best.
+As pricing experts, we have come to accept this as a fact of life.
+In the end, behavioral pricing helped turn a good vanilla cake into a
+four-tier torte with gourmet toppings (see Figure 11.1).
+Figure 11.1
+Redesigning an Internet Marketplace’s Product Lineup
+Use Behavioral Pricing Tactics to Persuade and Sell
+139
+While such stories make behavioral pricing exciting, we need to
+temper expectations. You can’t base your price-setting strategy only on
+behavioral techniques. Rational tactics, those that discern what customers
+value and what they are willing to pay, are prerequisites. Combining
+rational and behavioral pricing approaches is the most effective strategy.
+With that caveat, let’s explore six behavioral pricing tactics that work
+really well for new products. They work even better than you might
+imagine.
+Six Behavioral Pricing Tactics That Make the
+Difference
+These tactics can markedly increase the success of a new product launch.
+Based on behavioral economic theories we’ve tested in many different
+customer settings, these six tactics become more powerful when you
+combine them. Here they are, along with examples that illustrate them:
+1. Compromise effect: Make decisions easier for people who can’t
+choose.
+When given a set of choices, people will avoid extremes. For
+example,imagineyouare inawine storeandwanttobuya bottle.You
+ﬁnd three options: a $10 bottle, a $25 bottle, and a $40 bottle. Which
+one would you pick? When asked this question, most people would
+pick the $25 bottle to avoid the extremes ($10 seems cheap; $40 is
+costly).Of course,some price-sensitive people will pick the $10bottle,
+and some quality-conscious people will pick the $40 bottle. But by
+introducing the $25 wine, you just made the decision process much
+easier for everyone, including those who can’t decide whether to go
+with price orquality.They’ll choose the middle option. Thisstrategyis
+very common in both B2B and business-to-consumer (B2C) compa-
+nies. Imagine you work in sales at a B2B company and you’re
+negotiating a deal with a potential customer. You can steer the
+conversation based on whether the customer is price- or quality-
+conscious and force a compromise. Recommendation: If you are
+launching a new product, plan on having a compromise option.
+2. Anchoring tactics: Set the context for value.
+We illustrated two examples of anchoring—the movie theater
+concessions and the Internet start-up company. Anchors make the
+140
+Monetizing Innovation
+other options look attractive. Another illustration of anchoring is
+The Economist magazine’s A/B pricing experiment, which Dan
+Ariely described in his book. The experiment divided people
+into two groups, A and B. The A group was given two choices:
+$59 for an online-only subscription and $125 for a print-and-online
+combination. The B group was offered three choices: $59 for
+online only, $125 for print only, and $125 for the print/online
+bundle. The $125 print-only option was an anchor. It made
+The Economist’s print/online bundle for group B look like a great
+deal; the online edition seemed like a freebie, a throw-in. Some
+84 percent chose the print/online bundle in group B versus only
+32 percent who chose that bundle in group A.
+We have helped companies in a variety of industries—Internet,
+media, and ﬁnancial services, to name just a few—institute such
+successful anchoring strategies.
+Anchoring is a crucial behavioral pricing tactic in B2B sales
+negotiations. If you start with a high price, inevitably you will end up
+at a higher net price when the negotiation concludes. Anchoring lets
+you establish a reference point that will inﬂuence subsequent offers
+and shift the range in your favor.
+An anchor works because it shapes the customer’s perception of
+the possible price outcomes. It also creates room for price concessions.
+To prepare for such concessions, one of our clients always opens a
+negotiationwithastatementsuchas:“Thisnewproprietarypartispriced
+at a 40 percent premium over standard versions because of signiﬁcant
+developmentcostsandsuperiortechnicaladvantages.Butsinceyouhave
+been a great customer, we can bake in some price concessions.”
+This lets our client frame all subsequent conversations with
+customers who ask for discounts because it set the 40 percent
+premium as the starting point, the anchor. The ﬁrm always nets a
+higher price than if it had not used an anchor. Recommendation:
+Make sure you have an anchor product in your new product offering
+portfolio, and start every B2B sales negotiation for new products
+with a high anchor price.
+3. Using price to signal quality: If it costs more, it reinforces the
+customer’s perception of quality.
+A product’s price sends a powerful signal about its quality. Low
+price equals low quality; high price equals high quality. The
+Use Behavioral Pricing Tactics to Persuade and Sell
+141
+premium pricing for the iPhone when it ﬁrst launched in 2007 was
+essential to positioning it as a quality product. If Apple’s Steve Jobs
+had debuted the iPhone at $49, it would have been a terrible mistake.
+The price would have won market share by undercutting competi-
+tors, but it also would have depressed prices for all future smart-
+phones, and Apple would not have become the most proﬁtable
+company in the world today. Instead, the $599 price for the most
+popular iPhone signaled that the Apple smartphone was a quality
+product and always would be.
+Pricing also has a psychological effect on how consumers view a
+product’s effectiveness. In a 2008 study, Ariely and his colleagues
+gave two sets of participants the same pill, telling them it was a
+painkiller. Informed that the price was $2.50 a pill, 85% of the
+participants in the ﬁrst group said the pill reduced their pain. Told the
+painkiller’s price was discounted to 10 cents, only 61% of the second
+group believed the pill reduced their pain. Interestingly, not only
+were both groups given the same pill, but the pill was a placebo. The
+price—not the pill—relieved the pain.1
+Let’s be clear: We’re not advocating deception; we’re not saying
+you should sell people something that isn’t worth the price. Rather,
+we’re highlighting how a price can powerfully signal quality.
+Recommendation: Pricing your product too low is worse than
+pricing it too high. If you start high you can still go down; if you
+start low you can hardly go up. Therefore, when launching your new
+product, beware of a too-low price. It can ruin the perception of
+product quality in the mind of the buyer.
+4. Razor/razor blades: Get a foot in the door.
+Customers are inﬂuenced by costs that are immediately in front
+of them. Even if they calculate their total cost of ownership of a
+product over time, they will be swayed by the initial costs. Let’s say
+you are a manufacturer of a coffee machine, and you also make the
+specially formulated coffee that must be used with it. You plan to
+launch a new machine and new coffee bags. Let’s also assume you are
+targeting a customer base that consumes an average of one pound of
+coffee a month per customer. You are considering two pricing
+schemes: Option A, which prices the machine at $480 and the coffee
+at $10 per pound per month, or Option B, which prices the machine
+at $120 and the coffee at $40 per pound per month. Even though
+142
+Monetizing Innovation
+a rational person would be indifferent to these options—over a
+12-month period, the price for the machine and the coffee is the
+same—we have consistently found across industries that companies
+are better off with a scheme like Option B.
+Why? The customer’s upfront cost has a much bigger psycho-
+logical impact than the total cost of ownership. Your pricing strategy
+should be to land a customer by showcasing the lower upfront costs
+and then expanding on a higher variable amount. Many companies
+now use this tactic. Computer hardware manufacturers sell cheaper
+and cheaper products but try to make more money on services.
+Consumer goods companies do as well—for example, a low upfront
+investment for a razor but, over time, investment in costlier razor
+blades; a low upfront investment in a computer printer but expensive
+ink cartridges.
+To maximize your customers’ lifetime value, you can use the
+same strategy to sell versions of your new product. First, sell a basic
+version of a product (land) and then upsell customers to an advanced
+version (expand) in due course. Software companies are famous for
+doing this. Retailers also offer certain categories of products at low
+prices (doorbusters) to pull more people into their shops and expand
+the number of products in each shopping cart.2, 3
+Recommendation: Use this tactic only if you are 100 percent
+sure you can sell your downstream products to customers—your
+razor blades, printer ink, and so on.
+5. Pennies-a-day pricing: Reduce sticker shock and build loyalty.
+Amazon.com, the largest U.S. Internet retailer, now owns
+another title: the largest provider of cloud computing services,
+also known as infrastructure as a service (IaaS). The technologies
+involved—the servers and cloud environments—are well-known
+and widely available. Amazon’s innovation centers on its business and
+pricing models for Amazon Web Services and Elastic Compute
+Cloud (EC2).
+For small companies, investing in computing power and servers
+can be prohibitively expensive. And renting physical servers does not
+necessarily solve the problem because setting them up and stafﬁng
+them pose ﬁnancial and resource challenges. Amazon’s EC2 solves
+this problem by allowing customers to rent computing capacity, not
+servers, and for ﬁnite amounts of time. In other words, customers use
+Use Behavioral Pricing Tactics to Persuade and Sell
+143
+and pay for servers only when they need them, not all the time. That
+lowers the customer’s total cost. But just as important, it lowers the
+customer’s formerly high barrier to entry for tapping into a powerful
+computing infrastructure.
+Amazon’s EC2, a great technology innovation case, demon-
+strates the potential of behavioral pricing and the psychological
+impact of price levels. The company quotes low prices to reduce
+the chance of sticker shock and customer resistance. Instead of
+displaying prices in the hundreds or thousands of dollars per server,
+EC2 shows prices in dollars or even fractions of a penny for hourly
+prices.
+Aside from fundamentally changing your business model to be
+like Amazon’s, are there easier ways to use pennies-a-day pricing?
+Absolutely. And the simplest is breaking up time.
+Companies often look to establishing annual contracts to ensure
+predictable revenue. But yearlong contract prices can look prohibi-
+tively expensive. Breaking that cost down into monthly installments
+makes the cost appear more reasonable. Instead of charging an annual
+price of $120, payments of $9.99 per month can have a very different
+effect on customer signups. Recommendation: Put the proper
+thought into framing your price to make it look attractive—not
+just in coming up with the price.
+6. Psychological price thresholds: Avoid falling off the price cliffs.
+You might wonder why you rarely see prices like $101 in retail;
+you almost always see $99 or $99.99. The reason is that customers
+typically have price thresholds in mind. The perceived difference
+between $99.99 and $101 is more than a dollar and a penny. More
+often than not, people will feel $101 is much more expensive than
+$99. From a study we did for an online subscription company, we
+demonstrate this phenomenon in Figure 11.2. You can see clear
+price thresholds at $40, $70, and $100. This company was much
+better off pricing its product at $69.99 than at $71. More than
+20 percent of its customers wouldn’t accept a $71 price. That was the
+price cliff. The $69.99 price helped the company avoid losing a
+sizable share of its audience.
+Recommendation: Identify the price thresholds for your prod-
+ucts and stay on the cliff.
+144
+Monetizing Innovation
+Don’t Guess: Put Behavioral Tactics to the Test
+As this chapter shows, there are very good reasons to use each tactic. Since
+the options are many, you need to do careful tests, track results, and
+choose the best tactics for your innovation. If you use too many tactics,
+you will confuse customers. If you use too few of them, you won’t fully
+monetize your new product.
+You have several ways to test behavioral pricing tactics. Here are
+three:
+1. Focus groups provide customer feedback on potential behavioral
+tactics. They serve as small, controlled tests for understanding the
+thought processes driving product selection. You can watch how
+customers react as price anchors, deals, and other factors change.
+The results can steer you toward or away from some behavioral
+pricing tactics. In one focus group test we conducted, we gauged the
+impact of premium product anchors on a four-product lineup.
+Customers told us they would get very confused and leave a store
+display with the four products. This tactic just didn’t work in the
+tests. The number of choices made the decision too complicated.
+Figure 11.2
+The Price Thresholds of an Online Subscription Firm
+Use Behavioral Pricing Tactics to Persuade and Sell
+145
+Had we blindly assumed the tactic would work as well as it did with
+the Internet start-up company mentioned earlier in this chapter, we
+would have led this company down the wrong path.
+2. For online offers, controlled A/B tests let you assess click-through
+and conversion rates on different behavioral pricing tactics. They give
+you statistically signiﬁcant data on the options with the best out-
+comes. But you must set up these tests correctly, which includes
+clearly deﬁning your control and test cases. You must also divide the
+sample in each group so the customer populations are similar.
+3. Run large-scale experiments when you need more information
+about customers than you can get from a controlled test. Studies can
+simulate a controlled test in survey mode; that saves you from having
+to launch a live test. This is particularly important in companies that
+must maintain price transparency at all times, and thus where
+launching a price test is not possible. An Internet company we
+worked with tested every behavioral tactic using off-line surveys
+before implementing them on its website. Such testing also allows
+you to try many ideas, even with the same people, because you can
+put them through many hypothetical situations.
+As you can see, it’s important to sweat these tests. They will help you
+set the right prices—and then stick to them.
+Summary
+Both rational and irrational factors drive customer purchases, and this
+applies to business customers and consumers alike. Behavioral factors
+inﬂuence whether customers purchase your product and which
+conﬁguration they choose.
+These six behavioral pricing tactics are among the most powerful
+for new product launches: the compromise effect, anchoring, price to
+signal quality, razor/razor blades, pennies-a-day pricing, and psy-
+chological price thresholds.
+Before putting behavioral pricing tactics into play, you should try
+them out ﬁrst through focus groups, controlled A/B tests, and large-
+scale experiments.
+146
+Monetizing Innovation
+CEO Questions
+1. Did we consider behavioral pricing tactics when developing the
+monetization strategy for our new product? If not, why not?
+2. Of the six new-product behavioral pricing tactics (compromise
+effect, anchoring, price to signal quality, razor/razor blades,
+pennies-a-day pricing, and psychological price thresholds), which
+ones work for our new products? Why?
+3. To be more speciﬁc: Do we have an anchor product for launch?
+Do we know the psychological price thresholds for our product?
+Have we spent time framing our pricing and not just coming up
+with a price point? How so?
+4. How did we test the effectiveness of our behavioral pricing
+strategy? What were the results?
+Use Behavioral Pricing Tactics to Persuade and Sell
+147

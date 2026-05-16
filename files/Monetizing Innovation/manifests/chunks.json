@@ -1,0 +1,78 @@
+{
+  "book_id": "monetizing-innovation",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 67,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-how-innovators-leave-billions-on-the-table",
+      "title": "CHAPTER 1: How Innovators Leave Billions on the Table",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-02-feature-shocks-minivations-hidden-gems-and-undea",
+      "title": "CHAPTER 2: Feature Shocks, Minivations, Hidden Gems, and Undeads",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-03-why-good-people-get-it-wrong",
+      "title": "CHAPTER 3: Why Good People Get It Wrong",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-04-have-the-willingness-to-pay-talk-early",
+      "title": "CHAPTER 4: Have the “Willingness-to-Pay” Talk Early",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-05-don-t-default-to-a-one-size-fits-all-solution",
+      "title": "CHAPTER 5: Don’t Default to a One-Size-Fits-All Solution",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-06-when-designing-products-configuration-and-bundli",
+      "title": "CHAPTER 6: When Designing Products, Configuration and Bundling is More Science Than Art",
+      "chunk_count": 5
+    },
+    {
+      "chapter_id": "chapter-07-go-beyond-the-price-point",
+      "title": "CHAPTER 7: Go beyond the Price Point",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-08-price-low-for-market-share-or-high-for-premium-b",
+      "title": "CHAPTER 8: Price Low for Market Share or High for Premium Branding?",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-09-from-hoping-to-knowing",
+      "title": "CHAPTER 9: From Hoping to Knowing",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-10-the-innovation-won-t-speak-for-itself",
+      "title": "CHAPTER 10: The Innovation Won’t Speak for Itself",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-11-use-behavioral-pricing-tactics-to-persuadeand-se",
+      "title": "CHAPTER 11: Use Behavioral Pricing Tactics to Persuadeand Sell",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-12-maintain-your-priceintegrity",
+      "title": "CHAPTER 12 Maintain Your PriceIntegrity",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-13-learning-from-the-best",
+      "title": "CHAPTER 13: Learning from the Best",
+      "chunk_count": 15
+    },
+    {
+      "chapter_id": "chapter-14-implementing-the-designing-the-productaround-the",
+      "title": "CHAPTER 14: Implementing the “Designing the Productaround the Price ”Innovation Process",
+      "chunk_count": 4
+    }
+  ]
+}

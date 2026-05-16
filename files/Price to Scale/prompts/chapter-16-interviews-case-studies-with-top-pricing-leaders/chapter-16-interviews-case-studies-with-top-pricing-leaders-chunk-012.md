@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "price-to-scale",
+  "chapter_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders",
+  "chunk_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-012",
+  "source": {
+    "chapter_title": "Interviews & Case Studies With Top Pricing Leaders",
+    "source_path": "/Users/sachin/books/files/Price to Scale/chapters/16 - Interviews Case Studies With Top Pricing Leaders.txt",
+    "source_pages": "185-308",
+    "char_start": 52066,
+    "char_end": 59727,
+    "checksum": "5595db67c052df22"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s. I got to hear “no” so much. But a business will never grow the way we want to, unless we can do these pricing changes — you need that agility and flexibility. You have to make sure you have the right platform and then you tack on your CPQ. PRICE TO SCALE 213 Now, when we have a go-to-market meeting, I work on pricing strategy with product managers and come in with it, even at Zuora. Thereafter, we could talk about operations. And then in one meeting with our entire go-to-market team, because we use our own product, we have solved it all — from quote all the way down to rev rec. This is because we are all on one tool now, with all those cross-functional partners. And then, my work is done.
+
+AJIT GHUMAN 214 The Move to Subscription Pricing with Rajeev Venkatraman of Verint From a successful stint as Senior Director of Solutions Marketing, to now being Vice President of Pricing and Licensing, Rajeev Venkat is a Verint veteran. Rajeev sheds light on the holistic switch from the perpetual license model to the subscription model across business units and product lines, and how he is leading the charge for Verint. The Challenge at Verint Verint has been around for a couple of decades now, so we’re a legacy software company. Primarily, we do operating units, internally called the ‘spook division’ — but, we are about to spin this off, just months away from it becoming a separate company. The Verint that remains is the business unit I represent: The Customer Engagement Solutions Group. We are basically focused on enhancing customer engagement or experience, such as capturing interactions across channels or modalities, analyzing them, understanding the root cause, and more recently getting into the self-service component — like interactive virtual assistants and chat bots, and more. That’s Verint in a nutshell. Given our history, we’ve been a traditional software company — in that we still have thousands of customers who have bought perpetual licenses in the past, and pay maintenance for it. But the last three or four years have progressed in fits and starts. As part of that change, we’ve moved towards embracing the subscription economy, or getting people to move to the cloud. I took over this role as the leadership realized that with all the acquisitions and the switch from the perpetual model to the new subscription one, they needed someone to be looking at it holistically PRICE TO SCALE 215 across business units and product lines. That’s how this new position was created, and I got that responsibility across the portfolio. We’ve had our transition pains. Essentially, we had to do this (the switch) quickly and aggressively, but at the same time, fit into customer cycles and their perceptions of us that have formed over the last two decades — because that’s still the bread and butter for the company. It is also not like we were a brand new cloud-based startup that could just take off without the ‘baggage’ we had. How do we manage the new businesses, and manage this with our 5,000 legacy customers? That was the challenge. I believe we’re still on the path to work through that, but we’ve done reasonably well over the last 18-24 months. How Verint made the Shift At a high level, there’s the textbook approach that looks at what are the structures that we had to put in place within our systems and processes to make the shift. This is a very theoretical understanding of things. Then there’s also something I call the playbook, which comes out when you get into actual sales deals! In terms of monetizing or equating the subscription value, based on research (which we undertook about three years ago) we said three years of perpetual value would be the license that a customer would pay for upfront, and then we add to it different maintenance levels - 18 percent or 20 percent for upto three years with some uplift built into the maintenance fee (every year, the maintenance goes up 3 to 5 percent for most customers). All of this (the subscription + maintenance + uplift) is the value that would become the new ‘list price’ for our subscription or our SaaS products. AJIT GHUMAN 216 To be technically correct, we have what we call ‘term software’, which is the subscription model, but the customer may still want to keep this software on their premises, or have it on their own cloud. For example, a large customer like UPS may have their own agreement with Azure or AWS for e.g., in that they want a subscription model, but on their own cloud. Obviously, if it’s on the Verint cloud, we are providing a lot more value addition, and offloading all the hardware and IT costs that the customer would have incurred. Since we are now going to be delivering in our cloud, this became another uplift to that aforementioned three-year value. The second thing we had to go through, which a lot of companies probably don’t do, is some rather vague licensing language and policies in the old world. In the cloud world, measurement, tracking and reporting are of paramount importance. This is because you’re stressing on them, in terms of your positioning. Customers need to understand exactly how we are measuring what they see in terms of usage. Even the licensing language and our legal documents have to be a lot more transparent and simpler. We had something called a seat-based licensing model in the past. But then, we moved to a more traditional named user — named employee-based model. This was a transition that we also had to make as part of being more transparent, easy to understand, easy to track, report and bill customers. Then, we realized that for the SaaS train to really take off, we had to aggressively convert our installed base of customers. We looked at various models and a few customer scenarios. PRICE TO SCALE 217 We found (and we have sales tools to prove this) that we can go to an existing customer, who for instance paid us $100,000 in maintenance, that we can get upto 2x this amount as the rough average for SaaS ACV (annual contract value). This translates to $200,000 in SaaS revenue for the company moving forward, if that customer moved to the cloud. So, that’s how we have tools to show customers — that we can show that value, or actually to show them savings over a three or five-year timeframe, due to the offloaded hardware and IT costs. The shift has definitely helped us by opening up markets, especially here in California, where we were not doing that well. Now, we see a complete 180-degree shift, particularly going after Web 2.0 or 3.0 type companies, like the DoorDashes and the Ubers. They’re all customers now! Without this model, we would not have had them on board. It opened up what was traditionally not a market segment for us, but has now become a big, fast-growing one. I’ll now go a bit into how we did our research, formulated our packaging and worked on pricing operations. How Verint Surveyed and Analyzed the Customer Base We looked at the customer base and customer advisory boards. We had representative samples of 20-40 customers across different regions. In talking to them, I also reached out to my network in the new role. We were all trying to learn as we took off. I reached out to people who I knew in the space, and those who had worked at Salesforce, SAP, Oracle, and legacy software companies — who were either in the same boat or had just started making their transition around the same time. This was how we came up with some for our internal benchmarks. In coming up with the price, we took the high-level approach or formula; but we also had to look at what our discount culture was — as we sold through a lot of partners. AJIT GHUMAN 218
+>>>

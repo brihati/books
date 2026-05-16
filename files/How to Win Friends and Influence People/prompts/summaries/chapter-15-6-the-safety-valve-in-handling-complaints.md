@@ -1,0 +1,171 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-15-6-the-safety-valve-in-handling-complaints
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-15-6-the-safety-valve-in-handling-complaints-chunk-001",
+    "source": {
+      "chapter_title": "6. The Safety Valve in Handling Complaints",
+      "char_end": 6986,
+      "char_start": 0,
+      "checksum": "773dfd1a4ac3a24b",
+      "source_pages": "161-165",
+      "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/15 - 6. The Safety Valve in Handling Complaints.txt"
+    },
+    "summary": "This chunk supports the chapter lesson: Let the other person do a great deal of the talking. People cool down and reveal useful information when allowed to speak. Listening can handle complaints better than rebuttal. It focuses on 6 The Safety Valve in Handling Complaints Most people trying to win others to their way of thinking do too much talking themselves.",
+    "key_points": [
+      "6 The Safety Valve in Handling Complaints Most people trying to win others to their way of thinking do too much talking themselves.",
+      "“I know I would have lost the contract if I hadn’t lost my voice, because I had the wrong idea about the whole proposition.",
+      "I discovered, quite by accident, how richly it sometimes pays to let the other person do the talking.” Letting the other person do the talking helps in family situations as well as in business.",
+      "“From that time on I let her do all the talking she wanted.",
+      "He showed an interest in the other person and his problems."
+    ],
+    "arguments": [
+      "“I know I would have lost the contract if I hadn’t lost my voice, because I had the wrong idea about the whole proposition."
+    ],
+    "examples": [
+      "Here is the story of a sales representative who was forced to try it.",
+      "R - - said as he related the story before one of my classes, “I had lost my voice.",
+      "I was ushered into a room and found myself face to face with the textile engineer, the purchasing agent, the director of sales and the president of the company.",
+      "I am speechless.’ “‘I’ll do the talking for you,’ the president said."
+    ],
+    "stories": [
+      "Here is the story of a sales representative who was forced to try it.",
+      "R - - said as he related the story before one of my classes, “I had lost my voice.",
+      "I was ushered into a room and found myself face to face with the textile engineer, the purchasing agent, the director of sales and the president of the company."
+    ],
+    "definitions": [
+      "Principle: Let the other person do a great deal of the talking."
+    ],
+    "names": [
+      "The Safety Valve",
+      "Handling Complaints Most",
+      "Let the",
+      "They",
+      "Let",
+      "But",
+      "Encourage",
+      "Does",
+      "Here",
+      "One of the",
+      "United States",
+      "Three"
+    ],
+    "dates": [],
+    "numbers": [
+      "6",
+      "1,600,000",
+      "450"
+    ],
+    "places": [
+      "United States"
+    ],
+    "terms": [
+      "6. The Safety Valve in Handling Complaints",
+      "Let the other person do a great deal of the talking."
+    ],
+    "quotes": [
+      "When it came my turn to meet the executives in conference,",
+      "I think this is the person we are looking for.",
+      "6 The Safety Valve in Handling Complaints Most people trying to win others to their way of thinking do too much talking themselves."
+    ],
+    "actionable_lessons": [
+      "Let the other person do a great deal of the talking.",
+      "People cool down and reveal useful information when allowed to speak. Listening can handle complaints better than rebuttal."
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-15-6-the-safety-valve-in-handling-complaints-chunk-002",
+    "source": {
+      "chapter_title": "6. The Safety Valve in Handling Complaints",
+      "char_end": 8730,
+      "char_start": 6286,
+      "checksum": "df3f7c18d399d210",
+      "source_pages": "161-165",
+      "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/15 - 6. The Safety Valve in Handling Complaints.txt"
+    },
+    "summary": "This chunk supports the chapter lesson: Let the other person do a great deal of the talking. People cool down and reveal useful information when allowed to speak. Listening can handle complaints better than rebuttal. It focuses on “Because I had been a good listener and let Dick do most of the talking, he was able to weigh both sides fairly in his mind, and he came to the positive conclusion, which was a challenge he created for himself.",
+    "key_points": [
+      "“Because I had been a good listener and let Dick do most of the talking, he was able to weigh both sides fairly in his mind, and he came to the positive conclusion, which was a challenge he created for himself.",
+      "Now, when we have some time to chat, I ask them to share their joys with me, and I only mention my achievements when they ask.” PRINCIPLE 6 Let the other person do a great deal of the talking.",
+      "We hired him and he has been an outstanding representative for our firm.” Even our friends would much rather talk to us about their achievements than listen to us boast about ours.",
+      "After listening to some of the suggestions made in this course, I started to talk about myself less and listen more to my associates.",
+      "“As he talked about these advantages to me, he talked himself out of each negative thought he had when he came in for the interview."
+    ],
+    "arguments": [
+      "“Because I had been a good listener and let Dick do most of the talking, he was able to weigh both sides fairly in his mind, and he came to the positive conclusion, which was a challenge he created for himself."
+    ],
+    "examples": [
+      "We hired him and he has been an outstanding representative for our firm.” Even our friends would much rather talk to us about their achievements than listen to us boast about ours.",
+      "La Rochefoucauld, the French philosopher, said: “If you want enemies, excel your friends; but if you want friends, let your friends excel you.” Why is that true?",
+      "Because when our friends excel us, they feel important; but when we excel them, they - or at least some of them - will feel inferior and envious.",
+      "During the first few months of her association with the agency, Henrietta didn’t have a single friend among her colleagues."
+    ],
+    "stories": [
+      "We hired him and he has been an outstanding representative for our firm.” Even our friends would much rather talk to us about their achievements than listen to us boast about ours.",
+      "La Rochefoucauld, the French philosopher, said: “If you want enemies, excel your friends; but if you want friends, let your friends excel you.” Why is that true?",
+      "Because when our friends excel us, they feel important; but when we excel them, they - or at least some of them - will feel inferior and envious."
+    ],
+    "definitions": [
+      "Principle: Let the other person do a great deal of the talking."
+    ],
+    "names": [
+      "Several",
+      "Because",
+      "Dick",
+      "Even",
+      "La Rochefoucauld",
+      "French",
+      "Why",
+      "Midtown Personnel Agency",
+      "New York City",
+      "Henrietta",
+      "During the",
+      "But"
+    ],
+    "dates": [],
+    "numbers": [
+      "6"
+    ],
+    "places": [],
+    "terms": [
+      "6. The Safety Valve in Handling Complaints",
+      "Let the other person do a great deal of the talking."
+    ],
+    "quotes": [
+      "If you want enemies, excel your friends; but if you want friends, let your friends excel you.",
+      "I was good at my work and proud of it,",
+      "After listening to some of the suggestions made in this course, I started to talk about myself less and listen more to my associates."
+    ],
+    "actionable_lessons": [
+      "Let the other person do a great deal of the talking.",
+      "People cool down and reveal useful information when allowed to speak. Listening can handle complaints better than rebuttal."
+    ],
+    "open_questions": []
+  }
+]
+```

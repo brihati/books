@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "price-to-scale",
+  "chapter_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders",
+  "chunk_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-005",
+  "source": {
+    "chapter_title": "Interviews & Case Studies With Top Pricing Leaders",
+    "source_path": "/Users/sachin/books/files/Price to Scale/chapters/16 - Interviews Case Studies With Top Pricing Leaders.txt",
+    "source_pages": "185-308",
+    "char_start": 15659,
+    "char_end": 23316,
+    "checksum": "bc5ed8d65ac71e18"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+at it requires a fine balance, and not listing out a hundred things. What you do want is to group the modules to a point where the salespeople can understand it. Then, they can sell the value of each individual one, and it can carry a discrete price. Setting The Value Metric The main benefit of a solution selling model is that you can have zero to two value metrics per module, if you really wanted to go with that level of granularity. Our primary value metric at Gainsight was users; our secondary was number of customers. If you think of the individual modules, they were either based on: a) Users, or b) Customers, or c) Users and customers, or d) None (which is a flat fee). PRICE TO SCALE 193
+
+With that kind of flexibility in a model, you could start to hone in on where you really capture value. Certain things just do not make sense, aligned to users. For example, if we had this capability that basically communicates out to customers, like marketing automation for CS. In this, you cannot just pass on the number of users — the value of this module has nothing to do with users. It has everything to do with customers, though. If I have 5,000 customers, I’m going to reach out to them and charge you based on those customers. So, certain things are measured on different levers, and what’s nice is that you can tweak this on multiple axes. That was a really big change, because Gainsight, as with a lot of SaaS companies, relied too heavily on users. A lot of SaaS companies just go ahead with users as the metric, not caring if it doesn’t align, because they don’t know how to price. A lot of pricing professionals aren’t willing to change the value metric or explore other options, because they’re afraid it will mess up ASP or sales cycles. But it is one of the few things you just have to get right, even if it means tweaking it. I learnt this from my time at Marketo, when I first started there, the overall industry metric everybody used was sent email volume. If you think of how that lever aligns to value — it doesn’t! You can send a bunch of emails out, but it doesn’t mean that you're going to capture more value from them or get more contacts. It’s also extremely hard to predict how many emails you’re going to send in the following year. So, we were one of the first to pioneer the concept of pricing per contacts, which actually aligns very closely to value – “If you use my product to get more leads and pay us more money, you’re still more successful in return.” Finding this lever is almost like a silver bullet; which a lot of companies fail to do. AJIT GHUMAN 194 Selecting the Value Metric for ‘Marketo for Mobile’ An instance of where we had the wrong lever was when we introduced Marketo for mobile — our pricing lever was the number of app downloads. We thought that since we’re mobile marketing, it makes sense because the more apps your customer downloads, the better your marketing is doing, the more you pay us money. Within a month of launching pricing packaging and going out to market, we realized we had completely messed up. If you asked any mobile first company what metric they value, it’s always monthly active users (MAUs). That’s the number they put to the board and they tell investors. They don’t care that they got a million people to download their apps — they want engagement. How many of those million people actually went in and touched the app? That’s their MAU. We quickly pivoted as well, because when our earlier lever didn’t resonate with value, we changed it up immediately. Results of The Pricing Revamp Impact on the Sales Process The change was very well-received in the mid-market segment, as they now had guidance. They could do value selling, there were price curves, they understood the discount ranges, what other customers bought for, and more. As for the Enterprise segment — they were fine with getting some structure and the discount was still up to their discretion. So there was still a lot of value selling and proven ROI. In certain Enterprise cases, where something wasn’t priced according to expectations, we would create sub-packages. These Enterprise-grade packages made it modular enough to cater to both segments. PRICE TO SCALE 195 Ultimately, where we struggled is in the small to midsize business (SMB) space. Here, you tend to develop a crutch — “I only sell this one package and that’s all I sell. I don’t care if the customer needs 20 percent of it, or more, I am just going to sell this.” This way, we also didn’t sell under value. But eventually, the company had to actually learn how to do value selling - about modules and how to position modules for customers. That was difficult, but it was a step in the right direction, in terms of behavior. Changes in Performance Metrics A few things were really apparent: a) Firstly, ASP obviously shot up, right off the bat. b) Annual Recurring Revenue (ARR) also went up. c) The really good thing is we sold less for more money, which is like the Holy Grail. I sold less modules for more money because it felt more custom and it was selling under value. d) In return, our expansion dollars went up as well. Overall, it was just a very positive and huge change in how we were monetizing our capabilities. This change was almost expected from me at the three companies where I headed pricing — if you make these changes and train the reps on how to use this model, the ASP will go up and the expenses can, too. Data Sources to Tap for Analysis & Research The only three things I do are: 1. Talk to customers or prospects. 2. Look at historical data. 3. Look at competitive data. I’ve seen a lot of McKinsey-like studies where they do a lot more, but at the end of the day, as a pricing professional, you just have to be really flexible and organic with your pricing. You can’t get stuck at a figure. You have to be able to look into analysis and optimize. A lot AJIT GHUMAN 196 of pricing professionals don’t like the optimization part. It’s all about just tuning, tuning and tuning. I’m a strong believer in optimization and change my price curves especially for newly launched products once a month. It then becomes once a quarter, then maybe once a year, and finally maybe never. But you have to keep tweaking. Johnny’s Take on Pricing Operations: The Ups and Downs of CPQ I have a very strong point of view on Configure, Price and Quote (CPQ) systems. If you’re just doing feature package selling, you don’t really need a lot of sales tools or CPQ. It’s easy enough to do especially because it’s so transparent to your customer. But once you start moving up and begin value selling, you have to start creating tools for sales. It is a must. My fundamental belief is that in order to do value selling, you need a ton of flexibility. And there is a level of complexity when you introduce it. This can be the deal killer, as it slows things down, makes it so that reps can’t defend the deal or price points. It’s very hard for them. In order to address that complexity and keep the flexibility, you have to introduce tools. In every company I’ve been at, I’d give them both the pricing calculator and a CPQ. I’m a strong believer that the pricing calculator is used very early in a sales cycle to do budgeting, rough numbers and packaging. CPQ is basically a guidance selling process. Whenever I mention CPQ, a lot of people feel it is one of the worst tools to implement in the history of software. But I’m a huge fan of CPQ because it gives all that guidance and all those instruments. It also means less reliance on the Deal Desk and allows your company to scale. This is while giving you a lot of data on the backend.
+>>>

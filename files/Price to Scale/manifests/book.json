@@ -1,0 +1,152 @@
+{
+  "book_id": "price-to-scale",
+  "title": "Price to Scale",
+  "book_dir": "/Users/sachin/books/files/Price to Scale",
+  "chapter_count": 16,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-contents",
+      "index": 1,
+      "title": "contents",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/01 - contents.txt",
+      "start_page": 4,
+      "end_page": 4,
+      "char_count": 1808
+    },
+    {
+      "chapter_id": "chapter-02-preface",
+      "index": 2,
+      "title": "Preface",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/02 - Preface.txt",
+      "start_page": 5,
+      "end_page": 12,
+      "char_count": 10070
+    },
+    {
+      "chapter_id": "chapter-03-the-5-step-pricing-transformation-framework",
+      "index": 3,
+      "title": "The 5-Step Pricing Transformation Framework",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/03 - The 5-Step Pricing Transformation Framework.txt",
+      "start_page": 13,
+      "end_page": 18,
+      "char_count": 7162
+    },
+    {
+      "chapter_id": "chapter-04-step-1",
+      "index": 4,
+      "title": "Step 1",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/04 - Step 1.txt",
+      "start_page": 19,
+      "end_page": 22,
+      "char_count": 4082
+    },
+    {
+      "chapter_id": "chapter-05-step-2",
+      "index": 5,
+      "title": "Step 2",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/05 - Step 2.txt",
+      "start_page": 23,
+      "end_page": 46,
+      "char_count": 30924
+    },
+    {
+      "chapter_id": "chapter-06-step-3",
+      "index": 6,
+      "title": "Step 3",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/06 - Step 3.txt",
+      "start_page": 47,
+      "end_page": 64,
+      "char_count": 25213
+    },
+    {
+      "chapter_id": "chapter-07-step-4",
+      "index": 7,
+      "title": "Step 4",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/07 - Step 4.txt",
+      "start_page": 65,
+      "end_page": 98,
+      "char_count": 42998
+    },
+    {
+      "chapter_id": "chapter-08-step-5a",
+      "index": 8,
+      "title": "Step 5a",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/08 - Step 5a.txt",
+      "start_page": 99,
+      "end_page": 124,
+      "char_count": 37694
+    },
+    {
+      "chapter_id": "chapter-09-step-5b",
+      "index": 9,
+      "title": "Step 5b",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/09 - Step 5b.txt",
+      "start_page": 125,
+      "end_page": 132,
+      "char_count": 10627
+    },
+    {
+      "chapter_id": "chapter-10-step-5c",
+      "index": 10,
+      "title": "Step 5c",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/10 - Step 5c.txt",
+      "start_page": 133,
+      "end_page": 142,
+      "char_count": 13475
+    },
+    {
+      "chapter_id": "chapter-11-pricing-example",
+      "index": 11,
+      "title": "Pricing Example",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/11 - Pricing Example.txt",
+      "start_page": 143,
+      "end_page": 158,
+      "char_count": 23437
+    },
+    {
+      "chapter_id": "chapter-12-usage-based-pricing",
+      "index": 12,
+      "title": "Usage Based Pricing",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/12 - Usage Based Pricing.txt",
+      "start_page": 159,
+      "end_page": 164,
+      "char_count": 9736
+    },
+    {
+      "chapter_id": "chapter-13-how-to-optimize-your-pricing-in-the-face-of-chur",
+      "index": 13,
+      "title": "How To Optimize Your Pricing in the Face of Churn & Inflation in SaaS",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/13 - How To Optimize Your Pricing in the Face of Churn Inflation in SaaS.txt",
+      "start_page": 165,
+      "end_page": 174,
+      "char_count": 10318
+    },
+    {
+      "chapter_id": "chapter-14-economics-pricing-of-genai-development",
+      "index": 14,
+      "title": "Economics & Pricing of GenAI Development",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/14 - Economics Pricing of GenAI Development.txt",
+      "start_page": 175,
+      "end_page": 176,
+      "char_count": 1289
+    },
+    {
+      "chapter_id": "chapter-15-don-t-miss-this",
+      "index": 15,
+      "title": "Don’t Miss This",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/15 - Dont Miss This.txt",
+      "start_page": 177,
+      "end_page": 184,
+      "char_count": 11401
+    },
+    {
+      "chapter_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders",
+      "index": 16,
+      "title": "Interviews & Case Studies With Top Pricing Leaders",
+      "path": "/Users/sachin/books/files/Price to Scale/chapters/16 - Interviews Case Studies With Top Pricing Leaders.txt",
+      "start_page": 185,
+      "end_page": 308,
+      "char_count": 200168
+    }
+  ]
+}

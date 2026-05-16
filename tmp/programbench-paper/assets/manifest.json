@@ -1,0 +1,128 @@
+[
+  {
+    "filename": "page-001-img-01.jpeg",
+    "page": 1,
+    "width": 512,
+    "height": 512,
+    "extension": "jpeg",
+    "method": "embedded-image",
+    "caption": "Figure 1 ProgramBench evaluates models on their ability to write software projects from scratch. Given a software"
+  },
+  {
+    "filename": "page-001-img-02.jpeg",
+    "page": 1,
+    "width": 822,
+    "height": 716,
+    "extension": "jpeg",
+    "method": "embedded-image",
+    "caption": "Figure 1 ProgramBench evaluates models on their ability to write software projects from scratch. Given a software"
+  },
+  {
+    "filename": "page-001-img-03.jpeg",
+    "page": 1,
+    "width": 1016,
+    "height": 716,
+    "extension": "jpeg",
+    "method": "embedded-image",
+    "caption": "Figure 1 ProgramBench evaluates models on their ability to write software projects from scratch. Given a software"
+  },
+  {
+    "filename": "page-001-img-04.jpeg",
+    "page": 1,
+    "width": 1016,
+    "height": 716,
+    "extension": "jpeg",
+    "method": "embedded-image",
+    "caption": "Figure 1 ProgramBench evaluates models on their ability to write software projects from scratch. Given a software"
+  },
+  {
+    "filename": "page-001-render.png",
+    "page": 1,
+    "width": 1224,
+    "height": 1584,
+    "extension": "png",
+    "method": "page-render",
+    "caption": null
+  },
+  {
+    "filename": "page-006-img-01.png",
+    "page": 6,
+    "width": 1909,
+    "height": 484,
+    "extension": "png",
+    "method": "embedded-image",
+    "caption": "Table 2 Main results on ProgramBench. % Resolved is the primary"
+  },
+  {
+    "filename": "page-006-img-02.png",
+    "page": 6,
+    "width": 23,
+    "height": 474,
+    "extension": "png",
+    "method": "embedded-image",
+    "caption": "Figure 4 Cumulative distribution of test pass"
+  },
+  {
+    "filename": "page-006-render.png",
+    "page": 6,
+    "width": 1224,
+    "height": 1584,
+    "extension": "png",
+    "method": "page-render",
+    "caption": null
+  },
+  {
+    "filename": "page-008-img-01.png",
+    "page": 8,
+    "width": 407,
+    "height": 222,
+    "extension": "png",
+    "method": "embedded-image",
+    "caption": "Figure 8 Confusion matrix of reference vs. model language."
+  },
+  {
+    "filename": "page-008-render.png",
+    "page": 8,
+    "width": 1224,
+    "height": 1584,
+    "extension": "png",
+    "method": "page-render",
+    "caption": null
+  },
+  {
+    "filename": "page-016-img-01.png",
+    "page": 16,
+    "width": 1504,
+    "height": 466,
+    "extension": "png",
+    "method": "embedded-image",
+    "caption": null
+  },
+  {
+    "filename": "page-016-render.png",
+    "page": 16,
+    "width": 1224,
+    "height": 1584,
+    "extension": "png",
+    "method": "page-render",
+    "caption": null
+  },
+  {
+    "filename": "page-034-img-01.png",
+    "page": 34,
+    "width": 406,
+    "height": 220,
+    "extension": "png",
+    "method": "embedded-image",
+    "caption": "Figure 26 Cumulative distribution of trajectory lengths"
+  },
+  {
+    "filename": "page-034-render.png",
+    "page": 34,
+    "width": 1224,
+    "height": 1584,
+    "extension": "png",
+    "method": "page-render",
+    "caption": null
+  }
+]

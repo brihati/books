@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-08-leaving-the-chasm-behind",
+  "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-004",
+  "source": {
+    "chapter_title": "Leaving the Chasm Behind",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt",
+    "source_pages": "218-246",
+    "char_start": 13279,
+    "char_end": 21060,
+    "checksum": "9e717a57e821be58"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+as long as it takes to create and install a sustainable whole product. The chasm model asserts that no mainstream market can occur until the whole product is in place. A reasonable corollary, I believe, is that once the whole product is in place—m other words, has become institutionalized—the market will develop quickly— normally, although not necessarily, around the company that drove and led the whole product effort. Can we predict how long this will take? I think so. By ana­ lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind
+
+221 each of which can be projected ahead in time, with an estimated point of convergence. It’s not a science, but it’s not a black art, either: It is, m essence, just another kind of business plan. Supposing this plan has some credibility, a raft of other questions immediately follow. How big will this market be? Again, the simple answer is, As big as can be motivated by the target market’s use case—its compelling reason to buy—as served by the whole product. Market boundaries occur, in other words, at the point of failure of either the value proposition or the whole product. By contrast, the other market-making factors—alliances, competition, positioning, distribution, and pricing—do not impact the size of market but rather the rate of market penetration. Given free market economy incentives, ef­ ficient solutions in these areas will fall into place sooner or later if the market is truly there. If all the preceding assertions are true—and that is certainly something that warrants further investigation in any specific case—then all the key factors of the investment decision are reasonably out in the open, and the decision itself can be made without having to consult the entrails of a sacrificial animal. Estimates of market size, rate of penetration, cost to achieve market leadership, and anticipated market share can all be made in the light of day, without smoke and without mirrors. There will still be plenty of room for disagreement about probability of success and degree of risk, but there should not be any funda­ mental leap of faith demanded. So the call to action to the investment community is, Make your client companies incorporate crossing the chasm into their business plans. Demand to see not only broad, long-term market characterizations but also specific target customers for 222 Crossing the Chasm the D-Day attack. Drive them to refine their value propositions until they are truly compelling, and then use these to test how many target customers there truly are. Force them to define the whole product, and then help them to build relationships with the right partners and allies. Again, use the results to test hypotheses about market size. As for competitive sets and posi­ tioning, beware of pushing your small fishes too soon into big ponds. And as for distribution and pricing, don’t look for “stan­ dard margins” until the chasm has truly been crossed. To sum up, use the crossing-the-chasm matrix of ideas to ensure proper management of financial assets. The Role of the Venture-Managing Community Now let’s turn to the entrepreneur’s key concern: How long should I live off of venture capital, and when should I adopt the discipline of break-even cash flow? The bounds of this decision work as follows. Until break-even cash flow is achieved, noth­ ing is secure, and your destiny is not under your own control. This argues for early adoption of the profitability path. In fact, in slow-developing markets with low capitalization require­ ments, there is a very strong case for adopting profitability from day one. Early visionary customers will pay consulting fees and prepay royalties to help fund low-capitalization start-ups. From an accounting view, these prepaid royalties cannot be booked immediately as revenue, but they can make you cash-flow pos­ itive from day one, and thus keep 100 percent of the equity reserved for a later date. The great benefit of adopting the discipline of profitability at the outset is that you do not have to learn it later on. All too Leaving the Chasm Behind 223 frequently, even when they are led by experienced managers, enterprises that are venture funded for long periods of time fall into a “welfare state mentality,” losing their sense of urgency, and looking for their next paycheck to come from yet another round of financing instead of from the marketplace. Moreover, the discipline of profitability teaches you to “just say no” early and often. For most ideas there simply isn’t any money to fund them. The enterprise is forced to focus drastically just because of resource constraints. This radically reduces time to market because people are not focused on doing something else and because they understand it is the market that is paying their paychecks. And finally, when one does go seeking external cap­ ital, there is no stronger evidence for a high company valuation than it having already demonstrated not only real market demand but also its own ability to process that demand profitably. Indeed, the case for seeking profitability from the begin­ ning is so strong, you begin to wonder why you would ever not choose this route. Essentially, there are two reasons. First, the price of category development and market entry is often simply too great to fund with sweat equity or consulting con­ tracts. This is clearly the case in any manufacturing-intensive operation. Today, however, with the move to outsourced man­ ufacturing, when companies like Cisco ship as much as 45 per­ cent of their products without ever touching them, when fabless semiconductor companies use foundries for all their goods, and when there is even such a thing as a chipless semiconductor company, Rambus, which simply licenses a patented memory interface architecture, it is more a matter of getting the team on board and the engineering in place than it is putting in place a line or ramping up inventory. Still, there are always real costs associated with a physical goods business model, and 224 Crossing the Chasm they will inevitably exceed a pay-as-you-go budget, so a lot of venture funding goes to supporting just this sort of enterprise. The other reason to forgo initial profitability is when the category is expected to develop so rapidly that you cannot afford to grow organically as a bit player. The explosion of the Inter­ net has created a land-grab mentality heretofore unknown, and everyone is racing to beat out competitors in capturing market share. Google’s capturing the number-one position in search, Amazon’s achievement in retail and more recently m Web ser­ vices, and Facebook’s success in social networking all have translated into dramatic surges in market capitalization that have left their competitors seemingly permanently behind. In that kind of game, the race really is to the swiftest, and second prize is a long way back from first, so spending early and big is seen as the key to success. Beyond this there is a third, more general principle that can help entrepreneurs think through their management of capital for marketing purposes. In this realm, it is typically more capital intensive to cross the chasm than it is to build the early market. Early market development efforts typically do not respond well to massive infusions of capital—in the 1980s we saw this with the IBM PC Jr. and Prodigy; m the 1990s with pen-based com­ puters and video-to-the-home, in the last decade with RFID chips for inventory management and smart grids for electric power distribution.
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-014",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 89904,
+    "char_end": 97575,
+    "checksum": "140dcd64f9f10a9a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+rket Access and Price Potential The drug development division at headquarters started listening to its teams in the country markets and engaged them in the product devel- opment process. No one at a pharmaceutical company is closer to patients, physicians, and payers than the local teams consisting of medical, marketing, and market access specialists. Drug developers needed their input to assess a new compound’s viability. In the best case, the local teams serve as surrogates for customer input when primary research is prohibitively expensive. This has another beneﬁt: It enables the country teams to assess early in product develop- ment which unmet customer needs a new product may be able to
+
+address—pending conﬁrmation by clinical trials—rather than hearing about it from headquarters close to product launch. When local teams provide customer insights, they feel committed to embracing the candidate product and prepare future customers wherever they are allowed to (note: Talking with customers about forthcoming new treatments is strictly regulated). In effect, the company created a tight and transparent information loop between its local market teams and the central decision makers. The ﬁnal step was the creation of an internal information system for tracking and repeat utilization of earlier gathered information. 202 Monetizing Innovation Change #2: Determine a Product’s Clinical and Economic Value Much Earlier in the Process The testing of a medical compound goes through several phases before it gains regulatory approval and listing on the reimbursement schemes of insurance companies or governments. The most critical and costly clinical trials take place in Phase III. The supporters of the company’s new value optimization process argued that if they better understood a drug’s clinical, humanistic, and economic value to patients, payers, and physi- cians by the end of Phase II, they could send fewer compounds into Phase III and provide them with more resources. For this reason, the company focused most of its process changes on the early stages of product development. Its task forces created new process steps that gathered input from customer surveys. But the task forces were realistic about the magnitude of short-term process changes that could be adopted. They decided not to try to foist major all-or-nothing change on the drug development process. That risked spawning heated arguments and alienating key team members. Instead, the task forces urged noticeable changes in drug develop- ment but with minimal friction. Rather than trying to get product developers to strictly adhere to a new process, it was more important to communicate the ideas behind the process. What if few teams followed every new step? Not a problem. The way the task forces explained the new process conveyed what the teams needed to do differently, and why: Broader market insights gathered by the end of Phase II greatly increased the chances that the products with the highest customer value potential made it to Phase III trials. Change #3: Increase Cooperation between Clinical Development, Marketing, and Market Access to Encourage Constructive Challenges The company’s clinical development and marketing groups once oper- ated separately, while market access barely existed. Clinical development tested and shaped a product, and then marketing launched it. The new organizational alignment still called for several groups, but their tasks had to be closely intertwined. Marketing focused on the prescriber customer, medical on the patient and physician specialists, and market access on the Learning from the Best 203 payer customer needs. In that context, health-outcomes could develop the evidence for the economic value of the product, while the clinical research teams developed the clinical value of the product. Cooperation between clinical development and market access pro- fessionals became much more extensive under the new model, each group keeping of course their own tasks and responsibilities. Clinical researchers had to improve their understanding of payer data requirements—the proof payers require to evaluate the drug and decide on price, reimbursement coverage, and market access. The market access staff had to get better at articulating, in a way that researchers could understand, what payers were looking for to optimize the likelihood of successful negotiations in the countries between the company and payers. Such enhanced mutual understanding would allow the researchers to adjust their clinical trials and other product development activities in a focused and timely manner. The new process linked the teams looking at the economic value of new drugs with the teams looking at their clinical value versus competing therapies (in other words, value differentiation). This is essential to shifting product development to the model we are embracing. Senior management approval and ongoing support helped the pharma giant reap the beneﬁts of its new innovation monetization process. They gave the green light to the ﬁrst change: moving value analyses to the front end of the product development process. That gave the task forces the license to prepare a global rollout, which the top management then approved. Impact: Lower Risk, Higher Upside What was the result of these changes? The pharmaceutical company actually lowered its risks by placing bigger bets. It did so by killing more products in early development than it previously had the courage—or evidence—to stop. Over time, the pharma company placed fewer but much larger bets rather than continuing to support all compounds appearing to have some clinical beneﬁt. This goes against conventional wisdom, which says that a company mitigates its risk by launching more products and counting on the gains from a few winners to over- compensate for the larger number of less successful products. The company’s “customer value–driven new product” approach supports the opposing argument: Concentrating more dollars in fewer 204 Monetizing Innovation products is actually less of a commercial risk than spreading the risk across a large number of products or compounds. Why is this the case? Having a much more incisive understanding of the market and a drug’s commercial prospects reduces risk signiﬁcantly. With better tailored data about the clinical and economic value of a new drug, the company was able to develop a better view of whom to target with the treatment, how much to charge, and how to quickly get to market. This allowed the company to make much better decisions about how much money to allocate for Product A versus Products B and C. Having a deeper understanding of a few high-potential products is far better than a superﬁcial understanding of many products. The broader lesson is that in innovation, less is more. Having a deeper and more speciﬁc knowledge about fewer products is superior to knowing only general information about a multitude of new offerings. The trials the pharma company needed to conduct to gather additional information can indeed be more expensive, risky, and time consuming. This is contrary to how R&D people are normally measured. When a pharmaceutical R&D team ﬁghts internally for R&D dollars, it doesn’t want longer and more expensive trials. R&D people prefer their standard key performance indicators (KPIs), which are based on how fast they complete a trial and the number of positive outcomes (that is, the number of products that hit the minimum bar to get regulatory approval). In the company’s new system, new products must meet ﬁnancial minimums, not just clinical or regulatory ones. By changing incentives
+>>>

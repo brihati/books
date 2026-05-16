@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-08-leaving-the-chasm-behind",
+  "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-008",
+  "source": {
+    "chapter_title": "Leaving the Chasm Behind",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt",
+    "source_pages": "218-246",
+    "char_start": 41396,
+    "char_end": 49145,
+    "checksum": "8a281aea43c03e2d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+iver, perhaps even more than anyone really knew, then that is not behavior we want to reward. So, although we would like the compensation to be front-loaded, there must also be a reality check built into the process. Because the pioneer salesperson will be moving on, we do not want an extended compensation program, and thus equity, for example, is an inappropriate vehicle Taking all this together, the situation argues for a bonus-based program more than a straight commission approach—something lucrative for the salesperson, event-driven and over and done with relatively quickly, and not so closely tied to revenue recognition that either the pioneer has to overstay his or her welcome in order
+
+to reap the rewards or earns an extraordinary cash reward at a time when the company simply cannot afford that sort of outlay. Compensating Developers Moving over to the development side, there is one remaining compensation challenge—the pioneer technologists. These divide into two camps—true company founders and very early employees. The former have bet their lives on the equity gamble, and there is nothing further to discuss, except to hope that in reading this book they learn to conserve a large portion of that equity to fund crossing the chasm. The latter pose a real problem. They can point with accuracy to the notion that they cre­ ated a large part of the core product. Thus, should that product become a mainstream market hit, they feel they should get a major share of the gains. The fact is, they don’t, and the truth is, bluntly, they don’t deserve it, either. Mainstream success, as Leaving the Chasm Behind 237 we have argued at length, is a function of the whole product, not the core product, and that is a very large team effort indeed. What pioneer technologists do have a right to is a larger share of the early market returns, because here it truly is the core prod­ uct that drives success. The problem is that cash is typically so tight during this period, there is none to throw oif in the form of a reward. So equity is the usual fallback. This is a compromise, to say the least, as equity should be reserved for people who cross the chasm and stay—not the pioneers’ ideal role, but still a more frequent occurrence than them leaving the company. To sum up, improper compensation wastes dollars and de­ motivates people. To be appropriate to high tech, compensation programs must take into account the differences between desired performance in the early market and in the mainstream market, as well as the types of people that can be called on to achieve these performances, and the likelihood that some of these people will need to leave the company long before it achieves significant profitability. If we can sort through these issues and come up with an appropriate distribution of rewards, we can forgo much of the agony and loss of momentum that accompany most cross­ ings of the chasm. If we continue to operate the way we do today, we will persist in constructing self-conflicting organizations and wonder why they are not more productive. R&D Decisions: From Products to Whole Products At the outset of this book, we set crossing the chasm as the fundamental marketing priority in high tech. In the middle we established that institutionalizing the whole product was the fundamental strategy for succeeding in this endeavor. It is 238 Crossing the Chasm fitting, therefore, to finish up with a look at the impact of whole product marketing on long-term R&D. R&D is high tech. Everything else is secondary. As an in­ dustrial sector, before anything else, we are technology-driven. Eventually we learn to create products, and then markets, and then enterprises to dominate those markets. But it starts with technology. “Build a product and they will come,” to para­ phrase Field of Dreams. That is our fundamental dream, the dy­ namic that drives all else. The problem is, we grow past the dream. The products and markets and companies we create all grow up to make persistent and legitimate demands on us, and we have no choice but to serve them. And once this scenario begins, R&D doesn’t get to focus on the generic product anymore. It must become whole product R&D. Whole product R&D is driven not by the laboratory but by the marketplace. It begins not with creative technology but with creative market segmentation. It penetrates not into pro­ tons and processes but rather into habits and behaviors. It does not, like the captain of the starship Enterprise, “go where no man has gone before,” but rather, like T. S. Eliot, finds the end of all its exploring is “to arrive where we started / And know the place for the first time.” It prefers to assemble its creations from existing technologies and products rather than to invent new ones from scratch. Its heroes are less like Albert Einstein, who developed a whole universe out of his own head, and more like George Washington Carver, who discovered more than three hundred different uses for the peanut. Not very heady stuff. No wonder it is so often ignored. Indeed, the word that high tech uses for whole product R&D is maintenance. And the people they assign to it are . . . well, the janitorial types. No top guns want to go near this stuff. Leaving the Chasm Behind 239 Instead, the top guns rush out to create more discontinu­ ous innovations, flooding the market with far more technology than it can possibly absorb, and complaining all the while about how product life cycles are becoming shorter and shorter. They play the game, in other words, almost entirely to the left of the chasm, cycling through endless repetitions of early markets that never cross over to the mainstream. Product life cycles truly are getting shorter—but whole product life cycles are as long as they ever were. Ask Adobe about Photoshop or Apple about the Mac. An Emerging Discipline Whole product R&D is an emergent discipline. It represents a kind of convergence between high-tech marketing and con­ sumer marketing, where, for the first time, the tools of the latter can be of significant use in solving the problems of the former. Let’s look at two examples: focus groups and packag­ ing studies. As innovation becomes increasingly continuous, focus groups, which are virtually useless in guiding the development of an early market, become effective tools. The reason they are now effective is that the fundamental product proposition is al­ ready in the market and absorbed. Until this is the case, con­ sumers get in way over their heads trying to anticipate the value and usage of a new high-tech product. But once that proposi­ tion is in place, the tool becomes effective. Specifically, it can be used to direct the extension and modification of an existing product line to meet the special needs of a target market seg­ ment. In this context, all consumers are asked to do is address relatively minor derivatives from a known entity—something 240 Crossing the Chasm well within their expertise. The information they give back, therefore, is valuable. Consider another discipline that today is far more advanced in consumer marketing than in high tech—packaging. As an indus­ try, we have considered this to be nothing more than the paint of the box, the logo, the cover. But packaging happens not just on the outside but on the inside, and the goal of good packaging is to ensure a successful experience right out of the box—an area that cries out for more research attention in high tech. Think how many dollars could be diverted into better ends that today go to expensive support services, all because our products are packaged in confusing or obtuse ways.
+>>>

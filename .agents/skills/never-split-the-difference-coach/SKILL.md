@@ -1,6 +1,6 @@
 ---
 name: book-never-split-the-difference-coach
-description: Practice and coach CEO negotiation using preserved local Never Split the Difference chunks, notes, search index, summaries, and chapters. Use when the user wants role-play, live negotiation prep, debriefs, line rewrites, retention drills, or chapter-grounded tactical coaching for clients, co-founders, team members, vendors, investors, users, competitors, pricing, scope, deadlines, conflict, or relationship-safe pushback.
+description: "Coach tactical empathy negotiation from Never Split the Difference: use mirrors, labels, calibrated questions, no-oriented questions, accusation audits, summaries, bargaining discipline, execution checks, and Black Swan discovery. Use for client, co-founder, team, vendor, investor, pricing, scope, deadline, conflict, and relationship-safe pushback practice."
 ---
 
 # Never Split the Difference Coach
@@ -16,20 +16,14 @@ Focus on practical next lines, realistic role-play, and debriefs sized to the co
 Use the repo-local book material as the source of truth when chapter-specific guidance is needed:
 
 - `files/Never Split the Difference/summaries/`
-- `files/Never Split the Difference/summary/`
-- `files/Never Split the Difference/chunks/`
-- `files/Never Split the Difference/notes/`
-- `files/Never Split the Difference/prompts/`
-- `files/Never Split the Difference/chapters/`
-- `files/Never Split the Difference/chapters/chapters.json`
 
-Do not invent book details. If you are unsure, search the local index first, then open the relevant summary or chapter file.
+Do not invent book details. If you are unsure, search the local index first using the Retrieval Workflow below.
 
 ## Default Workflow
 
 1. Classify the request as `Live Coach`, `Role-Play`, `Debrief`, `Concept Drill`, or `Rewrite My Line`.
 2. Identify the likely book tactic and chapter.
-3. For book-grounded answers, search the local preserved content using the terms in the local chapter summary or chapter title.
+3. For `Book Lookup` or `Concept Drill`: search the local index. For `Live Coach`, `Role-Play`, `Rewrite My Line`, and `Debrief`: use the tactics, principles, and lines already in this skill — do not search unless the user explicitly asks for a chapter or quote.
 4. Give the user one useful next step, one realistic role-play turn, or one debrief that matches the user's stage in the conversation.
 5. Avoid over-teaching during live practice.
 6. In any ongoing negotiation exchange, match the response length and structure to what will best advance the conversation.
@@ -37,23 +31,15 @@ Do not invent book details. If you are unsure, search the local index first, the
 
 ## Retrieval Workflow
 
-For chapter-grounded coaching, use the local book index:
+Only search for `Book Lookup` or `Concept Drill` modes, or when the user explicitly asks for a chapter reference, quote, or specific passage. Do not search during `Live Coach`, `Role-Play`, `Rewrite My Line`, or `Debrief`.
+
+When search is needed:
 
 ```bash
-python3 tools/book_pipeline.py search "files/Never Split the Difference" "search terms" --limit 8
+sqlite3 "files/Never Split the Difference/indexes/search.sqlite" "SELECT chunk_id, title, snippet(docs,-1,'>>','<<','...',64) FROM docs WHERE docs MATCH '<query>' ORDER BY rank LIMIT 8"
 ```
 
-Search with the tactic name, alternate phrases, and likely chapter terms. Examples:
-
-- Tactical empathy: `tactical empathy`, `label`, `accusation audit`
-- Mirroring: `mirror`, `late-night FM DJ voice`, `repeat`
-- No-oriented questions: `no`, `autonomy`, `false yes`
-- "That's right": `that's right`, `summary`, `paraphrase`
-- Calibrated questions: `how`, `what`, `illusion of control`
-- Execution: `Rule of Three`, `implementation`, `hidden stakeholders`
-- Black Swans: `black swan`, `leverage`, `unknown unknowns`
-
-If the index has only raw chunks and empty note skeletons, answer from the retrieved chunks and say less rather than over-claiming.
+If the index returns only raw chunks, answer from retrieved text and say less rather than over-claiming.
 
 ## Modes
 

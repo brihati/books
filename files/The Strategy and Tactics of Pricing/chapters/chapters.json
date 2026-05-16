@@ -1,0 +1,206 @@
+{
+  "pdf": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/The Strategy and Tactics of Pricing.pdf",
+  "page_count": 352,
+  "mode": "toc",
+  "toc_level": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Cover",
+      "level": 1,
+      "start_page_1based": 1,
+      "end_page_1based": 3,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/01 - Cover.txt",
+      "char_count": 3494
+    },
+    {
+      "index": 2,
+      "title": "Title",
+      "level": 1,
+      "start_page_1based": 4,
+      "end_page_1based": 4,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/02 - Title.txt",
+      "char_count": 130
+    },
+    {
+      "index": 3,
+      "title": "Copyright",
+      "level": 1,
+      "start_page_1based": 5,
+      "end_page_1based": 5,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/03 - Copyright.txt",
+      "char_count": 1336
+    },
+    {
+      "index": 4,
+      "title": "Contents",
+      "level": 1,
+      "start_page_1based": 6,
+      "end_page_1based": 7,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/04 - Contents.txt",
+      "char_count": 1132
+    },
+    {
+      "index": 5,
+      "title": "Detailed Table of Contents",
+      "level": 1,
+      "start_page_1based": 8,
+      "end_page_1based": 13,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/05 - Detailed Table of Contents.txt",
+      "char_count": 8240
+    },
+    {
+      "index": 6,
+      "title": "Preface",
+      "level": 1,
+      "start_page_1based": 14,
+      "end_page_1based": 15,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/06 - Preface.txt",
+      "char_count": 5148
+    },
+    {
+      "index": 7,
+      "title": "Acknowledgments",
+      "level": 1,
+      "start_page_1based": 16,
+      "end_page_1based": 17,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/07 - Acknowledgments.txt",
+      "char_count": 2845
+    },
+    {
+      "index": 8,
+      "title": "List of In-Line Boxes",
+      "level": 1,
+      "start_page_1based": 18,
+      "end_page_1based": 19,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/08 - List of In-Line Boxes.txt",
+      "char_count": 928
+    },
+    {
+      "index": 9,
+      "title": "List of Exhibits",
+      "level": 1,
+      "start_page_1based": 20,
+      "end_page_1based": 21,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/09 - List of Exhibits.txt",
+      "char_count": 4372
+    },
+    {
+      "index": 10,
+      "title": "Chapter 1 Strategic Pricing Coordinating the Drivers of Profitability",
+      "level": 1,
+      "start_page_1based": 22,
+      "end_page_1based": 46,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/10 - Chapter 1 Strategic Pricing Coordinating the Drivers of Profitability.txt",
+      "char_count": 78904
+    },
+    {
+      "index": 11,
+      "title": "Chapter 2 Economic Value The Guiding Force of Pricing Strategy",
+      "level": 1,
+      "start_page_1based": 47,
+      "end_page_1based": 76,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/11 - Chapter 2 Economic Value The Guiding Force of Pricing Strategy.txt",
+      "char_count": 81760
+    },
+    {
+      "index": 12,
+      "title": "Chapter 3 Price and Value Communication Strategies to Influence Willingness-to-Pay",
+      "level": 1,
+      "start_page_1based": 77,
+      "end_page_1based": 96,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/12 - Chapter 3 Price and Value Communication Strategies to Influence Willingness-to-Pay.txt",
+      "char_count": 61526
+    },
+    {
+      "index": 13,
+      "title": "Chapter 4 Price Structure Tactics for Pricing Differently Across Customer Segment",
+      "level": 1,
+      "start_page_1based": 97,
+      "end_page_1based": 126,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/13 - Chapter 4 Price Structure Tactics for Pricing Differently Across Customer Segment.txt",
+      "char_count": 94263
+    },
+    {
+      "index": 14,
+      "title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "level": 1,
+      "start_page_1based": 127,
+      "end_page_1based": 153,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt",
+      "char_count": 86876
+    },
+    {
+      "index": 15,
+      "title": "Chapter 6 Price Level Setting Prices that Capture a Share of the Value Created",
+      "level": 1,
+      "start_page_1based": 154,
+      "end_page_1based": 172,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/15 - Chapter 6 Price Level Setting Prices that Capture a Share of the Value Created.txt",
+      "char_count": 58454
+    },
+    {
+      "index": 16,
+      "title": "Chapter 7 Price Competition Managing Conflict Thoughtfully",
+      "level": 1,
+      "start_page_1based": 173,
+      "end_page_1based": 193,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/16 - Chapter 7 Price Competition Managing Conflict Thoughtfully.txt",
+      "char_count": 70695
+    },
+    {
+      "index": 17,
+      "title": "Chapter 8 Measurement of Price Sensitivity Research Techniques to Supplement Judgment",
+      "level": 1,
+      "start_page_1based": 194,
+      "end_page_1based": 227,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/17 - Chapter 8 Measurement of Price Sensitivity Research Techniques to Supplement Judgment.txt",
+      "char_count": 104983
+    },
+    {
+      "index": 18,
+      "title": "Chapter 9 Financial Analysis Analyzing Costs and Profits for Pricing",
+      "level": 1,
+      "start_page_1based": 228,
+      "end_page_1based": 260,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/18 - Chapter 9 Financial Analysis Analyzing Costs and Profits for Pricing.txt",
+      "char_count": 81391
+    },
+    {
+      "index": 19,
+      "title": "Chapter 10 Specialized Strategies Adapting Pricing to Accommodate Common Challenges",
+      "level": 1,
+      "start_page_1based": 261,
+      "end_page_1based": 282,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/19 - Chapter 10 Specialized Strategies Adapting Pricing to Accommodate Common Challenges.txt",
+      "char_count": 68398
+    },
+    {
+      "index": 20,
+      "title": "Chapter 11 Creating Strategic Pricing Capability Assembling Talent, Processes, and Data to Build Competitive Advantage",
+      "level": 1,
+      "start_page_1based": 283,
+      "end_page_1based": 313,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/20 - Chapter 11 Creating Strategic Pricing Capability Assembling Talent Processes and Data to Build Competitive Advantage.txt",
+      "char_count": 81636
+    },
+    {
+      "index": 21,
+      "title": "Chapter 12 Ethics and the Law Understanding the Constraints on Pricing",
+      "level": 1,
+      "start_page_1based": 314,
+      "end_page_1based": 337,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/21 - Chapter 12 Ethics and the Law Understanding the Constraints on Pricing.txt",
+      "char_count": 82686
+    },
+    {
+      "index": 22,
+      "title": "Index",
+      "level": 1,
+      "start_page_1based": 338,
+      "end_page_1based": 352,
+      "out_file": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/22 - Index.txt",
+      "char_count": 59111
+    }
+  ]
+}

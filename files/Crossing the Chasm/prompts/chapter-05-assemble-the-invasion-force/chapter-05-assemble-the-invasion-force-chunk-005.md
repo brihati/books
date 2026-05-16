@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-05-assemble-the-invasion-force",
+  "chunk_id": "chapter-05-assemble-the-invasion-force-chunk-005",
+  "source": {
+    "chapter_title": "Assemble the Invasion Force",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/05 - Assemble the Invasion Force.txt",
+    "source_pages": "135-168",
+    "char_start": 26294,
+    "char_end": 34052,
+    "checksum": "22d1441e8721307b"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+one member of which had the novel idea that, instead of using wireless to extend wireline, how about the other way around? Specifically, he asked for a remote access port that could be hooked into a wireline VPN (vir­ tual private network) so that people at home or at other 146 Crossing the Chasm remote locations could be part of the same network management system as well (no new log-ons, passwords, etc.). This Aruba had to invent, and it has subsequently become a key differentiator in its product line. As you can see, nothing in the whole product is a showstop­ per from the point of a competitor seeking to neutralize Aruba’s differentiation, but taken as a whole, for a large competitor who
+
+has much bigger fish to fry, it takes more focus to accomplish this outcome than it is worth. And from the customer’s point of view, the fact that companies like Aruba are willing to go the extra mile just for them builds a level of loyalty that is long-lived indeed. This is the core dynamic that enables start-ups to cross the chasm despite direct opposition from installed incumbents. Lithium and Customer-Enabled Tech Support Now let’s turn to the other scenario for crossing the chasm, the one where (good news) there is no enemy fortifying the shore against invasion because (bad news) people have yet to discover there is anything there to defend. Here the vendor must create a market out of whole cloth. Under these conditions, the prag­ matist buyers who are the key to the mainstream market do not reject the new product so much as simply watch for signs of its adoption. They don’t say no, in other words; they just don’t say yes. Talk about extended sales cycles! In this situation, entrepreneurs are fighting a race against time. Like the intrepid explorers and colonists of the sixteenth and seventeenth centuries, they have landed in terra incognita and have a fixed amount of supplies (working capital) to see them through to selfisufficiency. The question is not whether someday someone will make a successful colony; the question Assemble the Invasion Force 147 is whether it will be them, or whether they will die in the at­ tempt. Have we landed at Plymouth Rock or Jamestown? Let’s look at a specific example. Lithium is a SaaS (software - as-a-service) company that creates online communities of con­ sumers and customers, to co-create and share digitally delivered marketing, sales, and customer support content. When they were founded just after the dot-com bust at the beginning of the cen­ tury, this was a novel idea, and Lithium’s claim to fame was that its founders were online game developers who had learned a ton about how to motivate voluntary behavior through virtual re­ wards. The idea caught on with early adopters, but as you might expect, the pragmatists adopted a wait-and-see attitude. To cross the chasm, Lithium had to target a pragmatist enclave disaffected with the status quo. They found that enclave in tech support. Tech support organizations are, as a rule, overworked and underappreciated. The problem is that most tech products in­ teroperate with so many other tech products, it is a real chal­ lenge to figure out what or who is at fault when something goes wrong. The people who might know these answers get paid way too much to staff a customer support hotline, and the people on the hotline—who often as not are in a call center somewhere across the Pacific Ocean—have to work with scripts as best they can. Anyone who has been on one of these calls can testify how frustrating a customer experience it can be. So what if we could end all that? What if you could go online and get expert advice from the very best minds in the industry, and better still, get it all for free? Wouldn’t that be cool? Dell thinks so. So does HP, and Lenovo, and Autodesk, and Micro­ soft. Welcome to the world of customer-enabled tech support. The key idea here is to create an online community where customers can answer other customers’ questions before they 148 Crossing the Chasm even get to a customer support hotline. Why would people with such expertise spend their time doing this? Technology enthusi­ asts (remember them from the very beginning of the Technology Adoption Life Cycle model?) like to help other people. It is their passion. If you add some game-oriented rewards and social rec­ ognition (what people now call gamification, although that word still grates on an ex-English-professor’s ears), it works even better. The core product here is a branded website that lets cus­ tomers both ask and answer questions, lets them rate the qual­ ity of the answers, which over time allows the best answerers to emerge, garnering these providers the highest status awards. That is the core product, and it is highly disruptive wherever the, status quo consists of out-of-date knowledge bases being consulted by inexpert call center employees, backed up by har­ ried engineers who have neither time nor patience to answer the same questions over and over again. But the truth is, creating a wiki-like site to perform these kinds of functions is not that hard. So what could Lithium do to build a whole product that would win over the skeptical prag­ matists? To be fair, they did have one thing going for them right out of the chute. The cost reduction of deflecting a call from a call center to a website is substantial—as much as ten times. And since call centers are cost centers in most tech enterprises, re­ ducing costs is always top of mind. But here’s what Lithium did over and above that allowed them to cross the chasm and win the market leading position in this niche. (Full disclosure: In case I sound a bit enthusiastic here, I should reveal that I joined the company’s board of directors in 2012.) • Helped customers create their tribal knowledge bases. Lithium provided consulting support to help customers Assemble the Invasion Force 149 curate the ever-growing body of user-contributed content, turning community conversations into knowledge articles, making this content easier to find and easier to consume. This approach to crowd­ sourcing increases customer satisfaction, reduces mean time to getting the right answer, increases call deflec­ tion, and increases customer loyalty, especially among the committed few who contribute much of the most valuable content. • Extended the support to mobile devices. Most Web con­ tent is challenging to consume on a mobile device, but increasingly that is what the consumer or customer has ready to hand when they need an answer. This not only makes fife more convenient for the end user; it dramat­ ically increases call deflection because the consumer can switch from one to the other while using the same device. • Integrated their service with the enterprise’s CRM (Customer Relationship Management) system. This connects the customers using Lithium with enterprise employees, allowing the latter to address unanswered questions, capture feedback and insights to feed back to developers, and further improve the knowledge base that drives the overall system. • Extended support to the social web (Facebook, Twit­ ter, Google+, etc.). This is part of an “omni-channel” movement throughout tech to engage the consumer and customer on the device and in the environment that best suits them. It allows for the knowledge base and the community population to extend themselves seamlessly by adding links to other sites and individuals. 150 Crossing the Chasm By extending their core product to create a whole product, Lithium was meeting the needs both of their immediate target customers—consumer tech companies—and their customers’ customers, the consumers themselves needing help and the
+>>>

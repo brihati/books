@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "how-to-win-friends-and-influence-people",
+  "chapter_id": "chapter-02-2-the-big-secret-of-dealing-with-people",
+  "chunk_id": "chapter-02-2-the-big-secret-of-dealing-with-people-chunk-003",
+  "source": {
+    "chapter_title": "2. The Big Secret of Dealing with People",
+    "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/02 - 2. The Big Secret of Dealing with People.txt",
+    "source_pages": "38-50",
+    "char_start": 13215,
+    "char_end": 20881,
+    "checksum": "3bd768b1f937ac70"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+, John D. might have criticized; but he knew Bedford had done his best—and the incident was closed. So Rockefeller found something to praise; he congratulated Bedford because he had been able to save 60 percent of the money he had invested. “That’s splendid,” said Rockefeller. “We don’t always do as well as that upstairs.” I have among my clippings a story that I know never happened, but it illustrates a truth, so I’ll repeat it: According to this silly story, a farm woman, at the end of a heavy day’s work, set before her menfolks a heaping pile of hay. And when they indignantly demanded whether she had gone crazy, she replied: “Why, how did I know you’d notice? I’ve been cooking for you men
+
+for the last twenty years and in all that time I ain’t heard no word to let me know you wasn’t just eating hay.” When a study was made a few years ago on runaway wives, what do you think was discovered to be the main reason wives ran away? It was “lack of appreciation.” And I’d bet that a similar study made of runaway husbands would come out the same way. We often take our spouses so much for granted that we never let them know we appreciate them. A member of one of our classes told of a request made by his wife. She and a group of other women in her church were involved in a self-improvement program. She asked her husband to help her by listing six things he believed she could do to help her become a better wife. He reported to the class: “I was surprised by such a request. Frankly, it would have been easy for me to list six things I would like to change about her—my heavens, she could have listed a thousand things she would like to change about me—but I didn’t. I said to her, ‘Let me think about it and give you an answer in the morning.’ “The next morning I got up very early and called the florist and had them send six red roses to my wife with a note saying: ‘I can’t think of six things I would like to change about you. I love you the way you are.’ “When I arrived at home that evening, who do you think greeted me at the door? That’s right. My wife! She was almost in tears. Needless to say, I was extremely glad I had not criticized her as she had requested. “The following Sunday at church, after she had reported the results of her assignment, several women with whom she had been studying came up to me and said, ‘That was the most considerate thing I have ever heard.’ It was then I realized the power of appreciation.” Florenz Ziegfeld, the most spectacular producer who ever dazzled Broadway, gained his reputation by his subtle ability to “glorify the American girl.” Time after time, he took drab little creatures that no one ever looked at twice and transformed them on the stage into glamorous visions of mystery and seduction. Knowing the value of appreciation and confidence, he made women feel beautiful by the sheer power of his gallantry and consideration. He was practical: he raised the salary of chorus girls from thirty dollars a week to as high as one hundred and seventy-five. And he was also chivalrous; on opening night at the Follies, he sent telegrams to the stars in the cast, and he deluged every chorus girl in the show with American Beauty roses. I once succumbed to the fad of fasting and went for six days and nights without eating. It wasn’t difficult. I was less hungry at the end of the sixth day than I was at the end of the second. Yet I know, as you know, people who would think they had committed a crime if they let their families or employees go for six days without food; but they will let them go for six days, and six weeks, and sometimes sixty years without giving them the hearty appreciation that they crave almost as much as they crave food. When Alfred Lunt, one of the great actors of his time, played the leading role in Reunion in Vienna, he said, “There is nothing I need so much as nourishment for my self-esteem.” We nourish the bodies of our children and friends and employees, but how seldom do we nourish their self-esteem? We provide them with roast beef and potatoes to build energy, but we neglect to give them kind words of appreciation that would sing in their memories for years like the music of the morning stars. Paul Harvey, in one of his radio broadcasts, “The Rest of the Story,” told how showing sincere appreciation can change a person’s life. He reported that years ago a teacher in Detroit asked Stevie Morris to help her find a mouse that was lost in the classroom. You see, she appreciated the fact that nature had given Stevie something no one else in the room had. Nature had given Stevie a remarkable pair of ears to compensate for his blind eyes. But this was really the first time Stevie had been shown appreciation for those talented ears. Now, years later, he says that this act of appreciation was the beginning of a new life. You see, from that time on he developed his gift of hearing and went on to become, under the stage name of Stevie Wonder, one of the great pop singers and songwriters of the seventies.* Some readers are saying right now as they read these lines: “Oh, phooey! Flattery! Bear oil! I’ve tried that stuff. It doesn’t work—not with intelligent people.” Of course flattery seldom works with discerning people. It is shallow, selfish and insincere. It ought to fail and it usually does. True, some people are so hungry, so thirsty, for appreciation that they will swallow anything, just as a starving man will eat grass and fishworms. Even Queen Victoria was susceptible to flattery. Prime Minister Benjamin Disraeli confessed that he put it on thick in dealing with the Queen. To use his exact words, he said he “spread it on with a trowel.” But Disraeli was one of the most polished, deft and adroit men who ever ruled the far-flung British Empire. He was a genius in his line. What would work for him wouldn’t necessarily work for you and me. In the long run, flattery will do you more harm than good. Flattery is counterfeit, and like counterfeit money, it will eventually get you into trouble if you pass it to someone else. The difference between appreciation and flattery? That is simple. One is sincere and the other insincere. One comes from the heart out; the other from the teeth out. One is unselfish; the other selfish. One is universally admired; the other universally condemned. I recently saw a bust of Mexican hero General Alvaro Obregon in the Chapultepec palace in Mexico City. Below the bust are carved these wise words from General Obregon’s philosophy: “Don’t be afraid of enemies who attack you. Be afraid of the friends who flatter you.” No! No! No! I am not suggesting flattery! Far from it. I’m talking about a new way of life. Let me repeat. I am talking about a new way of life. King George V had a set of six maxims displayed on the walls of his study at Buckingham Palace. One of these maxims said: “Teach me neither to proffer nor receive cheap praise.” That’s all flattery is— cheap praise. I once read a definition of flattery that may be worth repeating: “Flattery is telling the other person precisely what he thinks about himself.” “Use what language you will,” said Ralph Waldo Emerson, “you can never say anything but what you are.” If all we had to do was flatter, everybody would catch on and we should all be experts in human relations. When we are not engaged in thinking about some definite problem, we usually spend about 95 percent of our time thinking about ourselves. Now, if we stop thinking about ourselves for a while and begin to think of the other person’s good points, we won’t have to resort to flattery so cheap and false that it can be spotted almost before it is out of the mouth.
+>>>

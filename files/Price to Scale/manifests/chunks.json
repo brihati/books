@@ -1,0 +1,88 @@
+{
+  "book_id": "price-to-scale",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 87,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-contents",
+      "title": "contents",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-preface",
+      "title": "Preface",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-03-the-5-step-pricing-transformation-framework",
+      "title": "The 5-Step Pricing Transformation Framework",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-04-step-1",
+      "title": "Step 1",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-05-step-2",
+      "title": "Step 2",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-06-step-3",
+      "title": "Step 3",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-07-step-4",
+      "title": "Step 4",
+      "chunk_count": 8
+    },
+    {
+      "chapter_id": "chapter-08-step-5a",
+      "title": "Step 5a",
+      "chunk_count": 7
+    },
+    {
+      "chapter_id": "chapter-09-step-5b",
+      "title": "Step 5b",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-10-step-5c",
+      "title": "Step 5c",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-11-pricing-example",
+      "title": "Pricing Example",
+      "chunk_count": 5
+    },
+    {
+      "chapter_id": "chapter-12-usage-based-pricing",
+      "title": "Usage Based Pricing",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-13-how-to-optimize-your-pricing-in-the-face-of-chur",
+      "title": "How To Optimize Your Pricing in the Face of Churn & Inflation in SaaS",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-14-economics-pricing-of-genai-development",
+      "title": "Economics & Pricing of GenAI Development",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-15-don-t-miss-this",
+      "title": "Don’t Miss This",
+      "chunk_count": 3
+    },
+    {
+      "chapter_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders",
+      "title": "Interviews & Case Studies With Top Pricing Leaders",
+      "chunk_count": 38
+    }
+  ]
+}

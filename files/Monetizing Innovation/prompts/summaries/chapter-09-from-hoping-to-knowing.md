@@ -1,0 +1,285 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-09-from-hoping-to-knowing
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-09-from-hoping-to-knowing-chunk-001",
+    "source": {
+      "chapter_title": "CHAPTER 9: From Hoping to Knowing",
+      "char_end": 6970,
+      "char_start": 0,
+      "checksum": "5cb3ab2e3bbe3e68",
+      "source_pages": "127-136",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/09 - CHAPTER 9 From Hoping to Knowing.txt"
+    },
+    "summary": "The chapter illustrates how to build an outside-in business case for new products by gathering external customer data on willingness to pay. Using Manheim's DealShield Purchase Guarantee as a case study, the text demonstrates how customer research and WTP analysis informed pricing strategy and business case development, moving from internal assumptions to data-driven decision making.",
+    "key_points": [
+      "Business cases must incorporate external input, specifically target customers' willingness to pay (WTP)",
+      "Business case documents should be living documents that evolve as product definition progresses through customer segments, configurations, bundles, monetization models, and pricing strategy",
+      "Data-driven business cases based on customer feedback are more reliable than those based on internal assumptions and opinions",
+      "WTP varies by customer segment and situation, requiring segmented pricing strategies",
+      "Business case recommendations should tie together price (WTP), value to customers, volume (demand at different price points), and costs including risks"
+    ],
+    "arguments": [
+      "Even for internal business cases, external customer input on WTP is essential and cannot be found within the company",
+      "Testing ideas in the market and conducting customer research before full commitment reduces risk of product failure",
+      "Statistically significant survey data enables simulation of demand across different price points and scenarios",
+      "Concrete decisions require data on whether customers will buy and at what price, rather than executive gut feelings"
+    ],
+    "examples": [
+      "Manheim's DealShield Purchase Guarantee: a 21-day, 500-mile return option for vehicle purchases at auctions",
+      "Price-sensitive dealers willing to pay only for short-term guarantees versus risk-averse dealers willing to pay higher prices for longer return periods",
+      "Varying WTP based on car type and condition, as defect rates differ substantially by brand, model, and vehicle condition"
+    ],
+    "stories": [
+      "Manheim's development of DealShield: In 2011, Manheim leadership debated whether to launch a no-questions-asked vehicle return service. Some executives believed in the idea based on gut feeling and wanted to move quickly. Others suggested testing first or questioned viability due to risk concerns. Rather than experiencing decision paralysis, Manheim commissioned a value research study in 2012, conducted WTP talks with customers, and developed a robust business case before full productization. The service debuted in 2012 and by 2015 had protected billions of dollars in vehicle purchases and generated significant revenue and profit."
+    ],
+    "definitions": [
+      "Willingness to pay (WTP): customers' maximum price they are willing to pay for a product or service",
+      "Price elasticity curve: how demand changes at different price points",
+      "DealShield Purchase Guarantee: a service allowing dealers to return vehicles purchased at Manheim auctions for any reason within 21 days and 500 miles"
+    ],
+    "names": [
+      "Manheim",
+      "Vishaal Jayaswal",
+      "Cox Enterprises"
+    ],
+    "dates": [
+      "1945 - Manheim's launch as an auctioneer of used automobiles",
+      "2011 - Manheim leadership considered launching the return service",
+      "2012 - Value research study commissioned and DealShield debuted",
+      "2015 - DealShield had protected billions of dollars in vehicle purchases"
+    ],
+    "numbers": [
+      "7 million - used vehicles Manheim remarkets per year",
+      "$17.5 billion - Cox Enterprises revenue",
+      "21 days - return period for DealShield",
+      "500 miles - mileage limit for DealShield returns"
+    ],
+    "places": [
+      "Atlanta - Manheim's current headquarters"
+    ],
+    "terms": [
+      "Outside-in business case",
+      "Willingness to pay (WTP)",
+      "Customer segments",
+      "Product configurations and bundles",
+      "Monetization model",
+      "Pricing strategy",
+      "Living, breathing document",
+      "Value research study",
+      "Price elasticity curve",
+      "Penetration strategy",
+      "DealShield Purchase Guarantee"
+    ],
+    "quotes": [
+      "That doesn't exist anywhere within the four walls of your company. You have to go out and get it.",
+      "It will be a living, breathing document—one that you continually update with your latest knowledge about the market opportunity at hand.",
+      "In the interest of time, we should get moving.",
+      "What if dealers return too many cars? What if it costs us too much to provide such a guarantee? What if we need to pull back after launch?",
+      "Will customers buy it, and if so, at what price?"
+    ],
+    "actionable_lessons": [
+      "Create your first business case version immediately after determining high-level WTP for your product",
+      "Continuously evolve the business case as you progress through defining customer segments, product configurations, monetization models, and pricing strategies",
+      "Commission value research studies and conduct early WTP talks with customers to understand what factors impact their willingness to pay",
+      "Assess how WTP varies by customer type, product characteristics, and conditions to inform segmented pricing strategies",
+      "Base pricing strategy recommendations on four critical elements: business risks, customer value, customer WTP, and price elasticity",
+      "Use statistically significant survey data to simulate demand across different price points and scenarios",
+      "Develop business cases on undeniable facts from customer feedback rather than internal assumptions and opinions",
+      "Test new offerings in the market with customer research before committing significant funds to full productization"
+    ],
+    "open_questions": [
+      "What factors would impact WTP for the return service?",
+      "What would the demand for money-back guarantees look like at different prices?",
+      "How much would demand change at different price points?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-09-from-hoping-to-knowing-chunk-002",
+    "source": {
+      "chapter_title": "CHAPTER 9: From Hoping to Knowing",
+      "char_end": 13935,
+      "char_start": 6271,
+      "checksum": "fda7133d54576a6a",
+      "source_pages": "127-136",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/09 - CHAPTER 9 From Hoping to Knowing.txt"
+    },
+    "summary": "The chapter emphasizes the critical importance of understanding customer willingness to pay (WTP) in business cases for new products. It presents the DealShield example and a software-as-a-service freemium model case study, then outlines nine steps to build a living business case that incorporates price, value, volume, and cost linkages.",
+    "key_points": [
+      "Only about 5 percent of companies have essential WTP information in their business cases",
+      "Business cases must be living documents updated throughout the product lifecycle, not static documents created only for funding approval",
+      "The four elements of price, value, volume, and cost must be modeled with their linkages intact",
+      "Price elasticity is a critical element often avoided by companies but essential for accurate business cases",
+      "Data-verified facts are necessary to avoid overstating market size and creating unrealistic adoption assumptions"
+    ],
+    "arguments": [
+      "Without knowing customer WTP, you cannot trust your business case",
+      "Finding out early if there is minimal WTP prevents sinking resources into doomed products",
+      "Isolated adjustments to one of the four elements without considering interdependencies leads to poor decisions",
+      "A robust business case helps avoid monetizing innovation failure types including undead products, minivations, feature shock, and hidden gems"
+    ],
+    "examples": [
+      "DealShield Purchase Guarantee at Manheim auctions",
+      "Software-as-a-service provider's freemium model that would have cannibalized low-priced products"
+    ],
+    "stories": [
+      "A software-as-a-service provider planned a freemium model with zero base service price to drive sign-ups, hoping customers would upgrade to premium. Analysis revealed it would cannibalize their existing low-priced entry products, resulting in net revenue loss. Executives abandoned the concept after seeing the detailed business case."
+    ],
+    "definitions": [
+      "WTP (Willingness to Pay): The amount customers are willing to pay for a product, essential information for business cases",
+      "Living document: A business case that is updated before and after launch with new data on pricing, costs, volume, and value",
+      "Price elasticity: The dynamic relationship where sales volume tends to go down when product price goes up"
+    ],
+    "names": [
+      "Manheim"
+    ],
+    "dates": [
+      "2012",
+      "2015"
+    ],
+    "numbers": [
+      "5 percent",
+      "21 days",
+      "500 miles",
+      "20 percent",
+      "30-plus years"
+    ],
+    "places": [
+      "Manheim auction location"
+    ],
+    "terms": [
+      "DealShield Purchase Guarantee",
+      "freemium model",
+      "business case",
+      "monetizing innovation",
+      "undead",
+      "minivation",
+      "feature shock",
+      "hidden gem",
+      "price elasticity",
+      "cannibalization",
+      "reconditioning expenses"
+    ],
+    "quotes": [
+      "Will customers buy it, and if so, at what price?",
+      "If you don't know how much customers might pay for your proposed product, how much they value it, how demand (that is, volume) will likely change based on its price, then how can you trust your business case?",
+      "Better now than later.",
+      "Without it, you're just guessing about your innovation's monetization potential.",
+      "By static, we mean it's created once to get funding approval, and then it's put on a shelf where it collects dust."
+    ],
+    "actionable_lessons": [
+      "Determine customer WTP before finalizing your business case using methods from Chapter 4",
+      "Create a living business case document that is updated throughout the product lifecycle with new data",
+      "Model the linkages among price, value, volume, and cost to create more precise monetary forecasts",
+      "Include price elasticity analysis to understand how volume changes with price adjustments",
+      "Use data-verified facts for market size, ramp-up times, churn, and cannibalization assumptions",
+      "Attach risk assumptions to input parameters that are inherently uncertain",
+      "Prioritize features based on customer willingness to pay for them to prevent feature shock"
+    ],
+    "open_questions": [
+      "How did you arrive at your prices in your last business case?",
+      "Did you actually ask customers what they'd pay for it?",
+      "Did you know in advance what would happen if you increased your price by 20 percent?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-09-from-hoping-to-knowing-chunk-003",
+    "source": {
+      "chapter_title": "CHAPTER 9: From Hoping to Knowing",
+      "char_end": 18835,
+      "char_start": 13235,
+      "checksum": "8a27565841006249",
+      "source_pages": "127-136",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/09 - CHAPTER 9 From Hoping to Knowing.txt"
+    },
+    "summary": "The chapter outlines nine critical steps for building a robust business case for new products, emphasizing the integration of four pillars (value, price, cost, volume) and the importance of customer willingness-to-pay data. It contrasts inside-out versus outside-in business case development and addresses why 95% of business cases fail to account for critical market information.",
+    "key_points": [
+      "95 percent of business cases are built from the inside out, not the outside in, failing to account for critical market information",
+      "Without customer WTP and price elasticity data, a business case will only tell you what you want to hear",
+      "Business cases should be living, breathing documents used throughout product development, not static documents for budget approval",
+      "The four pillars (value, price, cost, volume) must be integrated because they all affect one another",
+      "A strong business case helps defy the 72 percent new-product failure rate"
+    ],
+    "arguments": [
+      "Business cases must include data-verified facts to avoid overstating target market size and creating unrealistic adoption assumptions",
+      "Risk assumptions should be attached to inherently uncertain input parameters, with best- and worst-case outcomes calculated",
+      "It is nearly impossible to maximize profit, revenue, volume, and margin simultaneously; goals must be prioritized",
+      "Business cases must model competitive reactions and quantify their impact",
+      "New product business cases must assess overall company impact, including cannibalization of existing products"
+    ],
+    "examples": [
+      "Manufacturing cost per unit will increase if a key supplier goes belly up and you must source from higher-priced suppliers",
+      "Raising prices almost always lowers volume and thus revenue; lower prices typically increase volume"
+    ],
+    "stories": [],
+    "definitions": [],
+    "names": [
+      "Oracle's Crystal Ball"
+    ],
+    "dates": [],
+    "numbers": [
+      "116",
+      "95 percent",
+      "72 percent",
+      "4",
+      "9"
+    ],
+    "places": [],
+    "terms": [
+      "WTP (Willingness to Pay)",
+      "price elasticity",
+      "churn",
+      "cannibalization",
+      "Monte Carlo simulations",
+      "four pillars"
+    ],
+    "quotes": [
+      "Without data, many are tempted to overstate the size of their target market",
+      "Such guesses will come back to haunt you later, when you have to explain why sales are grossly under target",
+      "If you don't know what your customers will pay for your new product and how demand changes when you change the price, you simply don't have a business case",
+      "A strong business case will help you turn your hopes of launching a successful new product into informed confidence that you actually will succeed"
+    ],
+    "actionable_lessons": [
+      "Apply data-verified facts based on real figures to avoid overstating market size and adoption assumptions",
+      "Add risk assumptions to input parameters that are inherently uncertain and calculate best- and worst-case outcomes",
+      "Use Monte Carlo simulations (such as Oracle's Crystal Ball) to model uncertainty using probabilistic distributions",
+      "Prioritize goals through 'what if' scenarios to understand and make trade-offs between profit, revenue, volume, and margin",
+      "Model competitive reactions and quantify their impact in your business case",
+      "Assess the new product's overall impact on the company, including cannibalization of existing products",
+      "Keep checking the business case at each decision point to ensure the four pillars remain integrated, consistent, and aligned with company strategy",
+      "Gather data on customer WTP and price elasticity as foundational elements of the business case"
+    ],
+    "open_questions": [
+      "Does our new product business case include customer WTP data and what price elasticity is assumed?",
+      "Are we modeling the four critical pillars (price, value, volume, and cost) and preserving linkages when changes are made?",
+      "Are our business cases living documents that we check and update at project milestones?",
+      "Does the business case help us simulate different scenarios that may occur after product launch?",
+      "Does the business case anticipate potential competitive responses and suggest how to react to them?"
+    ]
+  }
+]
+```

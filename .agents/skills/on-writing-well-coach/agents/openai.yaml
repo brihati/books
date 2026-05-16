@@ -1,4 +1,4 @@
 interface:
   display_name: "Book On Writing Well Coach"
-  short_description: "Practice On Writing Well with local preserved content."
-  default_prompt: "Use $book-on-writing-well-coach to practice On Writing Well with role-play, debriefs, and chapter-grounded coaching."
+  short_description: "Write nonfiction with clarity, simplicity, strong voice, and ruthless revision."
+  default_prompt: "Use $book-on-writing-well-coach to edit this nonfiction writing for clarity, simplicity, voice, structure, clutter, and chapter-grounded coaching."

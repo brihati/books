@@ -1,0 +1,600 @@
+19
+
+
+STEP 2
+Positioning & Packaging
+
+
+Positioning
+Positioning is how you carve a place of influence in your buyer’s mind.
+l “Positioning is not what you do to the product; it’s what you do
+to the mind of the prospect. It’s how you differentiate your brand
+in the mind. Positioning compensates for our over-communicated
+society by using an oversimplified message to cut through the
+clutter and get into the mind. Positioning focuses on the
+perceptions of the prospect not on the reality of the brand.“
+- Al Ries, Author of ‘Positioning: The Battle for Your Mind.
+Warner Books. 1981
+There is a scene in the TV series Man Men that has one of the most
+striking examples of positioning that I’ve ever seen depicted on
+screen. If you haven’t seen Mad Men, I suggest watching the first
+episode of the first season, or simply search for “it’s toasted mad
+men” on Youtube so you can follow along.
+As the Creative Head of an advertising firm, the show's protagonist,
+Don Draper is charged with repositioning cigarettes for a major
+client, Lucky Strike during a time when Big Tobacco companies were
+under considerable fire. There was growing medical evidence that
+cigarettes were injurious and fatal, in many cases. To comply with
+FDA regulations, tobacco companies had to work on messaging that
+AJIT GHUMAN
+20
+did not indicate that cigarettes had any health benefits. While Lucky
+Strike did not have any differentiating element when compared to
+any of their competitors, what Don Draper did for them was that he
+focused on Lucky Strike’s buyer. He honed in on one part of their
+manufacturing process, which was the toasting of tobacco leaves to
+dry and cure them. He then came up with a simple tagline that said,
+“It’s Toasted.”
+Here’s why this was a stroke of genius by Don Draper:
+1. He understood that the cigarette buyer prioritized personal
+freedom and guilt-free “happiness”. He found a position in
+the buyer’s mind that was similar to the smell of sitting in a
+new car.
+2. By saying that it was ‘toasted’ (which all cigarettes were, but it
+wasn’t a well-known fact), Draper created the impression of a
+differentiator, a perception that sidestepped the health
+hazards.
+3. By using the “it’s toasted” call-out, Draper also gave Lucky
+Strike the first-mover advantage. Any competitor who’d come
+out and say that their cigarette was toasted too, would only
+appear as someone who was emulating, and not the pioneer.
+4. The ‘toasting’ done by Lucky Strike became an attribute that
+was now part of the cigarette buyer’s bias and the individual
+would choose their cigarette over another competitor’s owing
+to the heuristics involved.
+Once this position was firmly established in the cigarette buyer’s
+mind. Could Lucky Strike not have charged a premium for their
+products? No other brand could elicit a feeling of freedom like Lucky
+Strike could.
+PRICE TO SCALE
+21
+
+Fig 2: Lucky Strike’s Advertisement2
+What I’m trying to point out is that pricing is intimately connected
+to positioning. Pricing cannot be set without the positioning being
+clearly thought through.
+Now let’s take an example that’s closer to home.
+Let's assume for a moment that you are responsible for positioning
+a new AI-based Sales Productivity software targeting a VP of Sales as
+your buyer persona.
+How do we get inside the head of this VP of Sales? How do we
+‘position’ ourselves?
+
+2 Source: https://bit.ly/3dEpKvz
+AJIT GHUMAN
+22
+We leverage heuristic thinking.
+In his seminal work, Thinking Fast and Slow,3 Nobel Laureate Daniel
+Kahneman highlights two systems - System 1 which is heuristic, and
+System 2 which is analytical. A heuristic mindset is like muscle
+memory for the brain. It enables us to develop micro-second
+preferences and biases. It’s what tells us that an Apple iPhone is a
+premium product, while an Android phone isn’t. It’s what makes us
+hold a BMW in higher esteem in comparison to a Honda, which isn’t
+viewed as a premium product. As the buyer in these cases, we are
+pegging these products and brands a certain way before taking into
+consideration the horsepower in a car or the storage capacity of an
+iPhone.
+Coming back to our example, if you approached the VP with a pitch
+for your product, she is going to run a few heuristics to get a handle
+on how to think about your product.
+There could be three possible heuristics:
+1. Vendors she can relate to
+2. What do people like her at companies similar to her think?
+3. Thought leaders she follows
+While Sales and Marketing Tech will indicate that there are
+thousands of companies in this space, these three companies are
+seen as the most prominent ones for AI. The comparison for your
+offering will be against these popular companies and their offerings.
+The VP is going to compare your company to Gong, People.ai, and
+Chorus (see Figure 3).
+Apart from the prominent competitors, the VP would also consider
+what the counterparts in her space, and the people in her network
+with similar needs, are looking at.
+
+3 Thinking Fast and Slow, Daniel Kahneman, 2011
+PRICE TO SCALE
+23
+
+Fig. 3: Understanding the mind space of the prospective customer
+She would also look to the opinions of thought leaders in this space,
+and insights from popular podcast platforms such as Sales Hacker
+or Inside Sales to help guide her decision.
+Once we understand the buyer and their mind space, we can then
+think about how to find our own niche in that mind space.
+There are many questions that arise.
+Is your product a ‘tool/widget’ or is it a ‘platform’?
+Is it a vitamin or a pain-killer?
+How is it uniquely different compared to available alternatives?
+What you want is for your buyer to recognize you as a product that
+solves a particular problem in a differentiated way.
+Maybe you already understand positioning. Why am I bringing it up?
+The thing is, most pricing problems aren’t pricing problems. In fact,
+they are rarely pricing problems.
+AJIT GHUMAN
+24
+They are just the causal impact of poorly understood and/or
+communicated positioning of a product leading to a whole host of
+down-stream issues.
+The three essential questions one must always answer, to be clear
+about positioning are:
+1. Do we know who our target customer is?
+2. What benefit(s) do we bring to her/him?
+3. How do we solve her/his problems uniquely better than other
+alternatives?
+A point of clarification: confirming
+positioning vs operationalizing
+positioning
+One of the important things to keep in mind is that we are discussing
+Positioning in the context of a Pricing exercise. If this were a pure
+Positioning exercise you would have to do a lot more in order to
+operationalize the positioning and that can include things like
+influencing analysts, writing research reports, or organizing key
+domain-relevant events.
+When it comes to a Pricing exercise, the goal is to understand and
+confirm the existing positioning of the company and/or a specific
+product in question (assuming of course that the company has had a
+working GTM and this isn’t the first time it will be selling an offering).
+The confirmation of the positioning could be as simple as making
+sure that your understanding of the key buyer personas and the
+positioning statement roughly matches that of your executive team,
+sales leadership as well as marketing leadership across every main
+market-segment that you are targeting.
+PRICE TO SCALE
+25
+Real-world example & implications
+The criticality of positioning lies in the fact that without clear
+positioning, no pricing model can work. The year is 2018, and I was
+working for a startup that offered a product for chat based customer
+service. At the time, there was a debate on what exactly should be the
+positioning of our customer support software that primarily worked
+through a chat widget and via advanced AI-based chatbots.
+After examining the market landscape, my boss and I wanted to
+call our offering a Conversational-AI based Customer Service
+Platform to highlight the unique differentiator of the product
+within a large segment of Customer Service software. Our
+hypothesis was that ‘Conversational-AI’ would limit our field of
+competition to one we would do well against.
+However, when we brought up this topic with our CEO, who was
+earlier at a much bigger established company, she disagreed with
+our approach. Her direction was that we were supposed to be
+competing with Salesforce and that our eventual destiny was to
+become a CRM solution. For us (my boss and I), this was totally
+discordant with the fact that the product was just not a CRM at that
+point and this direction did not address our target buyer or our
+unique differentiation for that buyer.
+This dilemma persisted with the company for quite a while and not
+only impacted the pricing effort but also slowed down the entire
+sales engine as the sales team was hearing completely mixed
+messages (changing every quarter) on who they were to be pitching
+and what the positioning was in the market.
+The point of the story: Before you embark on a pricing exercise,
+make sure that there is alignment on the positioning within your
+own company, and if any disagreement exists (especially at the
+executive level) that it be resolved before you actually work to
+finalize the pricing.
+AJIT GHUMAN
+26
+Packaging
+Once you’ve determined positioning, the next step is to create ‘offers’
+that will work for your targeted market segments. These offers are
+the right combination of feature-sets, services and price for a market
+segment that will ensure that you can derive the maximum possible
+value from within that segment.
+The set of capabilities in an offer, except the price itself, constitutes
+a package. In most cases, you will want to create a set of packages
+that map 1-1 to the number of clearly defined market segments.
+Let’s use the following chart to understand how packages help.
+
+Fig. 4: Graphical representation of Customers’ Propensity to Buy and
+Feature-based Deals/Packages
+If we were to draw out a curve that represented how prospects valued
+a solution when varying the feature-set, we would obtain a curve that
+looked similar to the one in Figure 4. Intuitively, prospects who need
+more features (or more advanced features), tend to pay more than
+PRICE TO SCALE
+27
+prospects who need fewer features. If no pricing model exists, then a
+time-averaged curve of product ACV (Annual Contract Value) across
+different customers who had a varied usage in features would also
+look similar.
+The goal of establishing a pricing model is to standardize
+‘packages/offerings’ that allow your firm to run a sales engine that
+helps you achieve a curve like the one above. The curve is maximized
+for its return from prospects and one that helps you achieve
+efficiency with your sales engine (via a well defined pricing model).
+Unless you sell to a very homogenous set of prospects (e.g. Fortune
+100 - Pharma companies), you will want to come up with a packaging
+structure that lets you capture a progressive amount of value across
+your customer segments.
+What does packaging look like in everyday life?
+Let’s lead with a very simple example of Popcorn (Figure 5). The most
+basic feature that is being charged for is the popcorn itself, and
+pricing varies based on the quantity offered. This in essence is
+packaging.
+The differentiating feature in the packaging is the quantity - Small,
+Medium, and Large. Customers will pay for the feature they want.
+
+ Fig. 5: Popcorn - Packaging
+AJIT GHUMAN
+28
+Let us look at another example (Figure 6), that of the Ford Mustang.
+
+ Fig. 6: Model Comparison - Ford Mustangs
+A customer may be looking to buy a Ford Mustang. All Mustangs are
+built on a common base but each model is priced based on the
+variations in features offered - horsepower, engine specs, shell,
+interiors, etc.
+The sports car aficionado, who is heuristically inclined to associate
+a Mustang as a status symbol, will be willing to spend more and opt
+for the Mustang Shelby GT500. The base model of the Mustang
+EcoBoost Fastback would not have the level of specs that the GT500
+would offer. There would also be discerning customers who want
+more features than the base model offers, but aren't willing to
+splurge on the most high-end model. The manufacturer assesses this
+segment as well and offers the Mustang BULLITT for them - priced
+between the base and high-end models. This is a good example of
+how the manufacturer is looking to maximize the area beneath the
+curve by offering multiple features of a relatively horizontal product
+through packaging variations.
+This logic applies similarly to software packaging.
+So how do you create packages for software?
+PRICE TO SCALE
+29
+In my experience there are roughly two ways to go about this exercise:
+1. Good-Better-Best: It is becoming common in SaaS to create 2-
+3 step graded packages, nicknamed good-better-best
+packaging, for different customer segments and to map these
+packages to different price points that those segments will be
+able to bear. Different sets of features are grouped into a
+package and targeted at different market segments so as to
+provide a set of capabilities that do the best job of solving the
+segment’s main use cases. This approach works well in
+capturing revenue from a market that has a large set of
+prospects with less variance in their willingness to pay or avg
+deal size, often these are SMB and Mid-Market segments. Here
+deal velocity takes precedence over finely tuned price points.
+2. Modular: This approach involves attributing value to distinct
+groupings of features that unlock specific use cases for your
+prospects. The modularity enables your packaging to vary
+considerably between any two given customers. This works
+better in a market where there is a high variance in
+willingness to pay (WTP) and the average sale price (ASP) and
+a smaller universe of prospects. In these situations, a high
+revenue capture rate is more important than velocity. For
+such cases, flexibility is usually king, and a well designed,
+bespoke-fit type of package can help maximize revenue
+capture in this segment.
+The following figure illustrates roughly how I visualize the decision
+of selecting a specific approach. A Good-Better-Best model is better
+suited for when there is a large ‘n’, i.e. number of customers/
+accounts available in the market to be sold that are somewhat
+homogenous in their needs. For example, direct to consumer, digital-
+first companies in the ecommerce vertical. On the other hand the
+modular approach would be better if the market was more
+heterogeneous. For example when the same product is sold to
+insurance, telco, retail and/or hospitality where all these industries
+have varying needs. The total market ‘n’ is small and the market is
+also  heterogeneous, in that case depending on the circumstance one
+AJIT GHUMAN
+30
+can make an argument of doing away with packaging as such. For
+example, a selection of 20 top financial issuers with varying use cases
+for a data science platform. At the end of the day there are no rules
+to this, but hopefully this helps make your decision process clearer.
+Once you understand these techniques, you can always mix and
+match them for best effect.
+
+Good-Better-Best Packaging
+In order to understand good-better-best packaging let’s start with the
+example of Salesforce’s Service Cloud pricing4 (Figure 7):
+
+Fig. 7: Salesforce Service Cloud Packages
+
+4 https://www.salesforce.com/products/service-cloud/pricing/
+PRICE TO SCALE
+31
+Looking at Salesforce’s Service Cloud packages, you can see that each
+package variant provides a range of sub-features that are common
+and the higher priced packages offer more features. In ‘Essentials’
+they are only going to offer case management, in ‘Professional’ they
+will further offer CRM and case management. CRM is where you can
+store all your account information and with just the ‘Essentials’
+package, you may not be able to.
+In the ‘Unlimited’ edition, they offer 24x7 customer support and may
+offer AI features or some more enterprise features and charge you
+higher for those impressive or lucrative features that are on offer.
+This is rudimentary software packaging and pricing.
+The packages are graded based on features that map to companies
+of different sizes and needs (segments). One point of Salesforce’s
+packaging grid is telling. They’ve clearly outlined on their website
+what the prices for the different packages are. We can infer from this
+that Salesforce is trying to achieve a high degree of price
+standardization and transparency, which tends to be useful when an
+organization has a large sales engine and a target market that it
+seeks to attract.
+The drawback of such an approach is that prospects can easily
+comparison-shop to choose the right capability no-matter which
+industry vertical they are in, making the sales more transactional
+and missing out on pricing elasticity variances between industries
+that generally tend to be able to pay more, e.g. Finance vs industries
+that tend to be very price conscious, say, Retail.
+Another example is that of a company called Amplitude, which offers
+product analytics software. Here we can see that Amplitude has three
+plans5, one of which is a completely free plan and the other two seem
+to be catered to mid-sized growing companies and larger established
+enterprises respectively (Figure 8).
+
+
+5 https://amplitude.com/pricing
+AJIT GHUMAN
+32
+
+Fig. 8: Amplitude Pricing Plans
+It’s interesting to note that they do not expose the pricing for the
+‘Growth’ and ‘Enterprise’ plans. This indicates that they are going
+after a broad market across verticals where comparably sized clients
+might have differing price elasticity. Not publishing a price allows
+them to capture greater value from clients that are able to pay more.
+In the subsequent chapter, we will see how this is accomplished by
+creative discounting buffers and approval rules for your sales team.
+The ‘Free’ tier offered by Amplitude is another indicator that they
+intend to reach a wide market, the reason being that ‘free’ plans have
+a poor conversion rate in general to paid plans and the offer would
+only make sense if a) They were going after a large TAM and/or b)
+They want to undercut a competitor.
+Now, this is not how the pricing page always looked for this company.
+I always find it interesting to do some research using the Wayback
+Machine and seeing how a company’s positioning and pricing have
+evolved. Here are two historical snapshots of their pricing in 2016
+(Figure 9).
+PRICE TO SCALE
+33
+April 2016-
+
+Sept 2016-
+
+Fig. 9: Amplitude Pricing Plan Evolution
+Can we infer anything from the evolution of their pricing page?
+I would suggest that what likely happened is as the company found
+new customers, they realized many of them could pay much more
+than the company initially charged. Now, this is all well and good,
+since the company in 2016 probably was a new entrant to the market
+with fewer feature differentiators and less of a brand cache. In 2020,
+AJIT GHUMAN
+34
+as they innovated with their product and became a more trusted
+brand, they probably charged more and hence removed the specific
+pricing from their product page as they didn’t want to peg their
+prices low.
+OK, so now that we understand how this type of packaging looks like
+in real life, how do we create this for our own product?
+Well for one we know the output of our effort needs to fall into
+roughly three (or four) packages or tiers. The goal is to bucket
+features together such that there is:
+1. Gradation: There is a gradual upward gradation of capability.
+2. Package <> Segment Fit: Each package’s capabilities map to
+a significant representative market segment that is likely to
+auto-select a specific package for its needs (i.e. a certain
+segment always chooses the middle tier, another segment
+always chooses the bottom-most tier).
+3. No Shelf-ware: If at the end we find that a certain package is
+rarely picked by its intended target segment, then that
+package needs to be removed. Similarly, if we find a package
+is often selected but a key underlying feature is unused, then
+that feature shouldn’t be part of the package. (Read the
+Gainsight example in the case study section of the book to see
+how poorly fit packages impact a company’s sales motion)
+Start by thinking of broad segments of your customers based on your
+sales motion. One way to do this is by company size and simply use
+a standard grouping like SMB, Mid-Market, Enterprise. Now create a
+set of feature groupings such that there is a 1-1 mapping between
+the feature groupings and the prior defined customer segments.
+Here is a fictional example of this exercise for a marketing
+automation product (Figure 10). We have grouped features to map to
+our assumed needs for each market segment. The groupings are
+graded and more complex at the top end.
+PRICE TO SCALE
+35
+
+Fig. 10: Packaging our Automation Product
+At this point, we have our initial hypothesis of packaging, but this
+needs to be tested against our selected customer segments to see
+whether there truly is package <> segment fit. In the next chapter, we
+will cover research methods to answer this very question.
+But before that let’s now take a look at modular packaging.
+This discussion brings up an important point on pricing
+transparency. According to a recent report by Chartmogul6
+roughly 75% of SaaS companies publish pricing on their websites
+and 25% do not. In my opinion, this is interesting data but by no
+means a reason to follow the herd per se.
+I’d like to propose a simple 2x2 matrix (Figure 11) to decide when
+it would make sense to publish the prices along with the packages
+on your website.
+
+6 https://blog.chartmogul.com/saas-pricing-report/#pricingMatters
+AJIT GHUMAN
+36
+
+Fig. 11: Deciding on Price Transparency
+When you have a large market with a high degree of homogeneity,
+then it is feasible to emulate other SaaS companies and publish
+the complete pricing structure online (replete with packages and
+prices) as it can help you scale your sales engine and maximum
+value from the market. On the other hand, if your market size is
+limited (say Fortune 100 Retailers), or heterogeneous (say, across
+Retail, Pharma, Airlines, etc.) then the call is more subjective. I’ve
+worked in enterprise SaaS companies that have opted to not
+publish any pricing publicly so as to give their Sales teams more
+ability to sell a targeted offer to their prospects. In those cases, the
+packages were defined internally but there was lower price
+transparency which dissuaded package comparisons and enabled
+them to extract requisite value from prospects that had varying
+amounts of willingness to pay or price elasticity. In this specific
+context, sales reps appreciated their ability to offer their prospects
+the right package without necessarily getting into the ‘shop-a-
+package’ discussion.
+
+
+PRICE TO SCALE
+37
+Modular Packaging
+Now let’s take a look at a more flexible approach to packaging that
+can enable us to tailor a bespoke offering to prospects.
+This type of packaging can help us capture greater revenue than
+standardized packages that either offer more capabilities for some
+prospects than they need (leading to shelfware) or don’t offer all
+capabilities needed for some prospects (leading to essentially not
+delivering all the value that is possible and thereby leaving money
+on the table).
+In this case, we are not forced to come up with a universe of just
+three packages. In principle, this approach can lead to a high degree
+of permutations and combinations of features and capabilities.
+Here is how to approach it:
+• List down all notable features of your product and then map
+them to ‘use cases’ they enable for customers. This obviously
+requires a clear understanding of all the reasons for which
+your product is used, and thereby the product’s help to solve
+the ‘use cases’ is how its value will ultimately be attributed.
+• Take care to ensure the features don’t overlap between use
+cases and that these are MECE (Mutually Exclusive
+Completely Exhaustive). This is important because these
+feature groupings that solve specific ‘use cases’ will become
+the modules at the end of the exercise, and you can’t have a
+specific feature in two different modules.
+• Once you have identified use cases and grouped features
+together that solve for them, the next step is to estimate the
+value/importance placed on these use cases across different
+customer segments. For e.g. enterprise customers may place
+a high value on a security or encryption related feature but
+an SMB may not. This step then provides insights on which
+modules should be bundled together in a base package and
+which features may be added-on as ala-carte modules.
+AJIT GHUMAN
+38
+To illustrate the concept let’s look at Figure 12. In this example, we’ve
+taken a fictional CRM product that has features A through T along
+with a core platform infrastructure base. These features are then
+mapped to use cases such as ‘Lead and Opportunity Management’,
+‘Team Collaboration’, ‘Marketing database’, and so on. Finally, we’ve
+estimated the value derived to different customer segments using a
+t-shirt sizing (M, L, XL) approach. What does this reveal to us? Both
+the SMB and Enterprise segment will be well suited to have a base
+package bundle that includes ‘Team Collaboration’ and ‘Lead and
+Opportunity Management’ related features. Further, it seems like
+‘Sales Forecasting’, ‘Sales Rep Performance Management’ and
+‘Account Health Reporting’ related features can be specific add-ons
+for Enterprise customers, and need not be offered as options to the
+SMB segment.  This leaves the ‘Marketing Database’ feature set which
+can be an add-on offered to SMB customers. Now, technically we
+don’t need to include this for Enterprise customers. But the concept
+of gradation still applies and we will include it in the base package
+for Enterprise customers.
+
+Fig. 12: Deciding on Modular Packaging Example for a SaaS CRM
+PRICE TO SCALE
+39
+The final output will look something like in Figure 13. Do note that
+the use case names need not be final module names. Now that we
+have our packaging hypothesis, we can now test this against our
+customer segments and see whether there is package <> segment fit
+and how to actually arrive at the pricing for the packages and the
+add-ons. That is what we cover in our next chapter.
+
+Fig. 13:  Finalized Modular Packaging Example for a SaaS CRM
+
+AJIT GHUMAN
+40
+Modularity Case in Point: Hidden Differentiators at
+Medallia
+Price justification by packaging hidden differentiators in a
+monolithic enterprise software product
+I’ve included this case study to illustrate a facet of packaging that
+can be useful for companies selling an enterprise product either
+facing a competitive challenge or a need to justify higher product
+ASPs. In many cases, products such as these have hidden
+capabilities that can creatively be brought to the fore to create a
+more favorable customer perception.
+This story dates back to 2013 and 2014. Medallia had recently gone
+through a series of funding rounds and had been gaining
+considerable traction in the market. Medallia had always been the
+leader in the Customer Experience Management SaaS category and
+had been charging a premium price at the same time we had
+onboarded a brand new sales team that was chartered with rapidly
+scaling Medallia’s growth, which included goals around achieving
+higher product ASPs (Average Selling Prices). At the same time, our
+value proposition and benefit statements started to look
+surprisingly similar to that of the competition, largely because the
+competition had started to adapt a lot of their value proposition to
+match ours. This left us with a conundrum. Prospects would ask us
+why we were priced so high when other vendors were making
+similar promises to them. While we could definitely show them our
+superior client roster and success stories, we were missing a crucial
+‘why’ behind our superior product. The reason largely lay not just in
+the visible features of our product, but a superior product
+architecture that allowed us (and uniquely us) to serve the needs of
+giant Fortune 500 organizations in a way competitors could not.
+At this point, we commenced an exercise to create a marketecture
+(a marketing-architecture). This exercise results in a hierarchical,
+market-oriented representation of the software which breaks a
+PRICE TO SCALE
+41
+monolithic product into specific modules. These modules can be
+given names that allude to their differentiation and value,
+something that wasn’t apparent beforehand. Once every module
+within a marketecture is defined, a new sales deck is created
+around this functionality capturing why it is important, what it
+does, how it works, and associated customer success stories.
+At Medallia one of the modules that we packaged and named
+distinctly was ‘OrgSync’.
+OrgSync was named to denote Medallia’s capability in mapping
+highly-complex and fluid organizational hierarchies into its
+software which could then aid user management and analytics. At
+some organizations, we could support as many as 70,000 users.
+Something that the competition could not. The act of crisply
+defining this module, along with differentiators and customer
+success stories, provided a shot in the arm of our sales team. They
+were better able to handle price related objections and even put
+the competition on the defensive.
+This example illustrates that packaging is not just an exercise of
+outlining which features to charge money for, but about clearly
+communicating the value of the product such that its value
+proposition becomes clear and the price is perceived to be fairly
+justified.
+
+Add-Ons
+When deciding whether to introduce a new feature as an add-on or
+incorporate it into the main package, several factors should be
+considered. From a revenue maximization standpoint, features with
+broad appeal that are likely to attract a wide range of prospects
+should be integrated into the main lineup, as this can drive overall
+package value and increase conversion rates. On the other hand,
+specialized features that cater to specific needs or niche segments
+AJIT GHUMAN
+42
+are better suited as add-ons, as they allow for targeted monetization
+without diluting the core product offering. Adding them to the
+packages in the line-up may deter buyers, as the package may appear
+too specialized, therefore not the right fit.
+In terms of ease of launch and time-to-market, adding a feature as
+an add-on is typically faster and less disruptive, as it avoids the need
+for redesigning the existing lineup or migrating the customer base
+to new SKUs. However, it's important to balance this approach, as too
+many add-ons can lead to customer confusion, lower conversion
+rates, and the perception of "nickel and diming." Broadly incorporat-
+ing a new feature into all packages can drive widespread adoption and
+benefit long-term strategy, but it may not always maximize short-term
+revenue. Ultimately, the decision should weigh the feature’s popularity,
+and the complexity it introduces to the customer experience.
+
+Fig. 14 : Price Point

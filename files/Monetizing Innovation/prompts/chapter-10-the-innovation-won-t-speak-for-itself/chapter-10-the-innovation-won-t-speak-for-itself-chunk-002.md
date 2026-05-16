@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-10-the-innovation-won-t-speak-for-itself",
+  "chunk_id": "chapter-10-the-innovation-won-t-speak-for-itself-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 10: The Innovation Won’t Speak for Itself",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/10 - CHAPTER 10 The Innovation Wont Speak for Itself.txt",
+    "source_pages": "137-150",
+    "char_start": 6248,
+    "char_end": 13931,
+    "checksum": "39f0ae8bad48205c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ot features. They also moved the feature comparison to an optional section for those who still wanted to compare. They managed to condense the beneﬁt state- ments from more than 100 to fewer than 10. (See Figure 10.3.) The beneﬁt statements, such as “beautiful design” and “unlimited storage,” were music to many ears. The average customer could now quickly understand what they would get with each product offering. If you wanted only photo storage, you would choose basic. Want personalization? Choose power. Did you want to sell online? Choose portfolio. How about marketing what you sell online? Then you would choose business. The messaging was simple with clear value statements. That was a big
+
+change from the way beneﬁts had been articulated before. With these changes, Chris and Don MacAskill nailed it. By excelling at value communications, SmugMug saw a double-digit percentage increase in revenue and conversion. Sounds easy? It isn’t. Most companies have great sales and marketing teams and spend oodles of time trying to craft the right value messages. Yet, we have seen far too many companies struggle to communicate the values their products deliver. The next section underscores the root cause for this. 124 Monetizing Innovation Figure 10.2 SmugMug’s Pricing Plans before the Change (100+ Features for Consumers to Sort Out) Source: Smugmug.com The Innovation Won’t Speak for Itself 125 So Why Is Value Messaging Difﬁcult? The problem usually begins with a disconnect between the frontline sales and marketing teams responsible for communicating the messages and the innovation team driving new product development. The sales and marketing teams often are far removed from the innovation teams and are brought in toward the very end to pinch hit, to market and sell a product. By the time they join the process, though, it is typically too late. They were not part of the value-to-customer story that drove the product design process and pricing. Nonetheless, they are told to craft the value story and sell it. Strange, but true. Without real information, they sit around a table to brainstorm ideas and develop a value story, which might not match the discussions the innovation team had when it designed the product. Sometimes the marketing and sales groups don’t seek input from the innovation teams and they try to run with what they have, since they feel they already know their customers. This gets complicated quickly. But even if marketing, sales, and product development managers convene to hash out the sales and marketing messages, the right communications often don’t emerge from their meetings. As the teams try to reconcile divergent views of the product’s value, the loudest or most senior voices in the room win the message-framing battle. And in too many cases, the winning message is different from the value Figure 10.3 SmugMug’s Revamped Plans with Clear Beneﬁt Statements Source: Smugmug.com 126 Monetizing Innovation proposition deﬁned during product development, the one that excited potential customers. Most companies do not pay enough attention to this gap, believing the handoff from R&D to sales and marketing is a standard business process. But in practice, it’s not. It requires special effort. Great new products, even when they are priced right, don’t sell themselves. Market- ing needs to promote them, and sales needs to sell them. Telling a compelling value story is well within every company’s ability and means. It’s not about getting a top Madison Avenue ad agency. Instead, it requires adding key marketing and sales people to your innovation teams from the very start. This helps them fully comprehend the value messages that resonated most with customers from the get-go and lets them give valuable input to the new product design process. This also enables salespeople to focus their conversations on value, rather than price. More on this in Chapter 14. Now that you have understood how value messages can get scram- bled, let’s shift gears and learn about how to ﬁx it. In the next section we provide three steps to get this right from the start. The Three Steps to Create Great Value Communications Step 1: Develop Crystal-Clear Beneﬁt Statements— Not Feature Descriptions A company that excels at value communications articulates its products’ beneﬁts in meaningful terms to customers. This is not about describing product features. A feature belongs to the product; a beneﬁt belongs to the customer. Value is a measure of the beneﬁt to the customer. Communicate beneﬁts, not features. Take each feature and ask yourself this: What does the customer achieve because of this feature? If you are still unsure about how to phrase your product’s beneﬁts, probe your customers about their pain points and how your product would solve them. Ideally, you should understand how customers measure their performance—and how your offering would affect those measures. Once you know that, you can tailor your messages to the customers’ priorities. You should also quantify the relative value of your product: the The Innovation Won’t Speak for Itself 127 value it would deliver compared to the value your customer gets today from other offerings. To be more speciﬁc, when you create a value message, you should determine the customer purchasing criteria and how your product or service might perform on those criteria compared to existing alternatives. Such information can be captured in a 2 × 2 matrix that we call the matrix of competitive advantages, or MOCA for short. (See Figure 10.4 for an example.) To create this matrix, you list the relative importance of your innovation’s beneﬁts to customers on the y-axis. On the x-axis, you rate your innovation’s performance against the competition—not as you see it, but as your customers see it. The beneﬁts your product delivers that are most important to customers and that competitors can’t match (top right quadrant) are the ones to emphasize in your sales and marketing messages. But those aren’t the only beneﬁts to communicate. For the ones in the lower right quadrant—beneﬁts you are better at delivering than competitors but which are less important to customers—you are trying to convince customers these beneﬁts are more important than they might realize. However, if you can’t prove it, don’t emphasize them in your value communication. Figure 10.4 Matrix of Competitive Advantages (MOCA) 128 Monetizing Innovation The factors in the top left quadrant represent your competitive disadvantages, and you should prepare arguments to defend them. Using this matrix, creating value communications will become more structured. It will also become easier to get all the innovation team members (R&D, product, sales, and marketing) on the same page. A few more tips when creating beneﬁt statements: • When communicating the beneﬁt statements, it’s easy to fall into the trap of thinking your features are the same thing as the beneﬁts to your customers. They aren’t. Take the case of Carbonite, the online data storage and backup company. The ﬁrm used to describe the storage amount for data backup services to consumers as “20 gigabytes.” While an IT professional would understand how much storage that ﬁgure represents, the average consumer would not, and therefore they couldn’t assess the beneﬁt in a meaningful way. The offer of 20 giga- bytes was most likely much more than what a majority of consumers would ever need. But the words “20 gigabytes” certainly did not identify a problem or a solution. Carbonite changed its description to “unlimited storage,” and the message truly resonated. Consumers could say, “With this service, I don’t have to worry about running
+>>>

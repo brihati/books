@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-003",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 13378,
+    "char_end": 21127,
+    "checksum": "fd2585c5bb6d7744"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+a vision of a smooth unfolding through all the stages of the Tech­ nology Adoption Life Cycle. What is dazzling about this concept, particularly to those who own equity in a high-tech venture, is its promise of a virtual monopoly over a major new market de­ velopment. If you can get there first, “catch the curve,” and ride it up through the early majority segment, thereby establishing the de facto standard, you can get rich very quickly and “own” a highly profitable market for a very long time to come. Testimonials The Apple iPad is a prime example of leveraging the High-Tech Marketing Model end to end. Launched in 2009 after being demoed at MacWorld by Steve Jobs, its touch-interface dynam­
+
+ics and gorgeous display of images made it an instant hit with Mac enthusiasts, selling three hundred thousand units its first day. Then visionary executives began using it as their personal digital assistant, especially for email and presentations, forcing their CIOs to find a way to accommodate them. Then sales exec­ utives, the ultimate pragmatists, found that iPads were great for one-on-one presentations to economic buyers, and now whole sales forces were getting outfitted. Meanwhile, in boardrooms across America the iPad had become a socially acceptable way to be always online, in part because one could distribute board materials to it electronically to be accessed during the meeting. Then the kids got their hands on them, and there was a massive 20 Crossing the Chasm explosion in use cases, primarily Facebook and other forms of social computing, but also including leveraging the World Wide Web for broader educational impact. And with Facebook along came the grandparents, historically a conservative if not a laggard constituency when it came to anything computer related. And finally it got to toddlers and babies, and God help us, kittens interacting directly with the screens and experiencing frustration with any image that fails to respond like an iPad. In sum, in less than five years, iPads have become pervasively integrated into the information fabric that makes up our digital lives—not bad for something not old enough to be in the first grade. Astounding as this accomplishment is, many other compa­ nies have achieved a comparable status. This is what Microsoft, Intel, and Dell achieved in desktop PCs, Qualcomm and ARM in smartphones, Cisco in routers and switches, Google in search advertising, SAP in enterprise-class business applications, Oracle in relational databases, and HP in laser and inkjet printers. Each of these companies has held market share in excess of 50 percent in its prime market. All of them have been able to es­ tablish strongholds in the early majority segment, if not beyond, and to this day look forward to continued growth, strong profit margins, and preferred relationships with suppliers and custom­ ers. To be sure, some like Dell and, more dramatically, HP have fallen on hard times, but even then customers often bend over backward to give market share leaders second and third chances, bringing cries of anguish from their competitors who would never be granted such grace. It should come as no surprise that the history of these flag­ ship products conforms to the High-Tech Marketing Model. In truth, the model was essentially derived from an abstraction of these histories. And so high-tech marketing, well into the High-Tech Marketing Illusion 21 second decade of the twenty-first century, keeps before it the example of these companies and the abstraction of the High- Tech Marketing Model, and marches confidently forward. Of course, if that were a sufficient formula for success, you would need to read no further. Illusion and Disillusion: Cracks in the Bell Curve It is now time to advise you that there are any number of us in Silicon Valley who are willing to testify that there is something wrong with the High-Tech Marketing Model. We believe this to be true because we all own what once were meaningful equity stakes in corporations that either no longer exist or whose current valuation is so diluted that our stock—were there a market for it, which there is not—has lost all monetary significance. Although we all experienced our fates uniquely, much of our shared experience can be summarized by recasting the Technology Adoption Life Cycle in the following way: THE REVISED TECHNOLOGY ADOPTION LIFE CYCLE 22 Crossing the Chasm As you can see, the components of the life cycle are un­ changed, but between any two psychographic groups has been introduced a gap. This symbolizes the dissociation between the two groups—that is, the difficulty any group will have in accepting a new product if it is presented in the same way as it was to the group to its immediate left. Each of these gaps rep­ resents an opportunity for marketing to lose momentum, to miss the transition to the next segment, thereby never to gain the promised land of profit-margin leadership in the middle of the bell curve. The First Crack Two of the gaps in the High-Tech Marketing Model are rela­ tively minor—what one might call “cracks in the bell curve”— yet even here unwary ventures have slipped and fallen. The first is between the innovators and the early adopters. It is a gap that occurs when a hot technology product cannot be readily trans­ lated into a major new benefit—something like Esperanto. The enthusiast loves it for its architecture, but nobody else can even figure out how to start using it. Take virtual reality, for example. It is very cool technology and was able to generate its own mark-up language, VRML, but aside from one early success with Second Life, it basi­ cally has been characterized by a series of interesting exper­ iments which have yet to be followed up on. The challenge here is primarily technological, meaning that the gap is simply too great between the Google-class processing power needed to create a truly seamless experience (our neurons are very fussy consumers indeed) and the personal budgets that would fund any of these applications at scale. One can envision the High-Tech Marketing Illusion 23 technology getting there someday, but for now that day is so far in the future, it leaves virtual reality stuck with the enthu­ siasts waiting for a visionary. The same could be said for 3-D printing. This has inspired a generation of technology enthusiasts to form a “Maker’s Move­ ment,” an extension of the do-it-yourself culture that special­ izes in fabricating objects of all sorts. At the time of this writing 3-D printing is getting a lot of press, but the actual market is still much like the original home computing market in the days of Heathkits before the Apple II—a DIY technology enthusi­ ast’s paradise. This is a market development problem. As we shall see in the next chapter, the key to getting beyond the enthusiasts and winning over a visionary is to show that the new technology enables some strategic leap forward, something never before possible, which has an intrinsic value and appeal to the nontech­ nologist. This benefit is typically symbolized by a single, com­ pelling flagship application, something that showcases the power and value of the new product. If the marketing effort is unable to find that compelling application, then market development stalls with the innovators, and the future of the product falls through this first crack in the bell curve. The Other Crack There is another crack in the bell curve, of approximately equal magnitude, that falls between the early majority and the late majority. By this point in the Technology Adoption Life Cycle, the market is already well developed, and the technology
+>>>

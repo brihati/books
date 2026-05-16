@@ -1,0 +1,92 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-strategy-and-tactics-of-pricing",
+  "chapter_id": "chapter-01-cover",
+  "chunk_id": "chapter-01-cover-chunk-001",
+  "source": {
+    "chapter_title": "Cover",
+    "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/01 - Cover.txt",
+    "source_pages": "1-3",
+    "char_start": 1,
+    "char_end": 3493,
+    "checksum": "6ac3f6f27dd314e7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+THE STRATEGY AND
+TACTICS OF PRICING
+ The Strategy and Tactics of Pricing explains how to manage markets strategically and
+how to grow more proﬁ tably. Rather than calculating prices to cover costs or achieve
+sales goals, students will learn to make strategic pricing decisions that proactively man-
+age customer perceptions of value, motivate purchasing decisions, and shift demand
+curves.
+ This edition features a new discussion on harnessing concepts from behavioral
+economics as well as a more streamlined “value cascade” structure to the topics. Read-
+ers will also beneﬁ t from:
+ •  Major revisions to almost half of the chapters, including an expanded discussion
+of big data analytics and a revised chapter on “Specialized Strategies”, which
+addresses timely technical issues like foreign exchange risks, reactions to market
+slumps, and managing transfer prices between independent proﬁ t centers.
+ •  A completely rewritten chapter on “Creating a Strategic Pricing Capability”,
+which shows readers how to implement the principles of value-based, strategic
+pricing successfully in their organizations.
+ •  In-chapter textboxes, updated to provide walk-through examples of current pric-
+ing challenges, revenue models enabled by an increasingly digital economy, and
+advances in buyer decision-making, explained through classic principles that
+still apply today.
+ •  Chapter summaries and visual aids, which help readers grasp the theoretical
+frameworks and actionable principles of pricing analysis.
+ This comprehensive, managerially-focused text is a must-read for students and pro-
+fessionals with an interest in strategic marketing and pricing. A companion website
+features PowerPoint slides with instructor notes, discussion questions, and exercises,
+as well as suggested readings and cases with separate teaching notes for instructors.
+ Thomas T. Nagle , Ph.D., is a Senior Advisor in the Pricing and Proﬁ tability Manage-
+ment practice at Deloitte Consulting, USA. For over 30 years, he has developed many
+of the most popular analytical tools and conceptual frameworks for strategic pricing
+and proﬁ t improvement.
+ Georg Müller, Ph.D., is a Managing Director in the Pricing and Proﬁ tability Manage-
+ment practice at Deloitte Consulting, USA. He focuses on driving top-line margin
+improvement through strategic pricing for companies representing multiple sectors.
+He also leads executive development on strategic pricing at the University of Chicago,
+Booth School of Business, USA.
+“The principles of business proﬁ tability stressed in The Strategy and Tactics of
+Pricing make it an absolute must-read for all business professionals who care
+about creating value and proﬁ tability for their organization. I have person-
+ally practiced the knowledge gained from The Strategy and Tactics of Pricing,
+operating in hyper-competitive business environments, with great success.”
+—Lynn Guinn, Global Strategic Pricing Leader at Cargill, USA
+“For over three decades, this book has been the most inﬂ uential and highly
+regarded reference for pricing professionals. New sections on today’s most
+pressing business topics make it an indispensable tool to improve your com-
+pany’s performance.”
+—Kevin Mitchell, President of The Professional Pricing Society, Inc., USA
+“The best pricing book on the planet! The go-to resource for pricing
+success—powerful, practical, and proﬁ table!”
+—Mark Bergen, James D. Watkins Chair in Marketing, Carlson
+School of Management, University of Minnesota, USA
+>>>

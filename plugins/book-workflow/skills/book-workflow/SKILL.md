@@ -58,8 +58,8 @@ Default to `full` when the user asks to set up a book for querying, coaching, or
    - ingest source if needed
    - chunk chapters
    - prepare note prompts
-   - materialize filled notes
-   - generate canonical chapter summaries
+   - materialize filled notes using a configured generic runner or by filling local artifacts directly as the current Codex agent
+   - generate canonical chapter summaries using a configured generic runner or by writing them directly as the current Codex agent
    - rebuild the search index
    - validate completeness
    - generate or refresh the coach skill
@@ -67,6 +67,6 @@ Default to `full` when the user asks to set up a book for querying, coaching, or
 
 ## Runner Requirement
 
-The extraction and summary stages require a configured runner. The skill should rely on the local workflow configuration and should not ask the user to type raw CLI flags in the UI.
+The extraction and summary stages require either a configured generic runner or direct Codex-assisted completion of the generated local prompt artifacts. The skill should rely on local workflow configuration and repo artifacts rather than asking the user to type raw CLI flags in the UI.
 
-If the runner is missing, explain that the workflow cannot finish the extraction and summary stages yet, and do not claim success.
+If the runner is missing and direct Codex-assisted completion is not being performed, explain that the workflow cannot finish the extraction and summary stages yet, and do not claim success.

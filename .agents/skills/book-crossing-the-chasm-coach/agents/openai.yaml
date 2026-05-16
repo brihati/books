@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crossing the Chasm Coach"
+  short_description: "Plan focused mainstream-market entry."
+  default_prompt: "Use $book-crossing-the-chasm-coach to diagnose chasm risk, choose a beachhead, and cite the relevant chapter, summary, or chunk IDs."

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-009",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 55656,
+    "char_end": 63439,
+    "checksum": "4d5f809f1dfde192"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ey can usually provide up-front money to seed additional development that supports their project—hence their importance as a source of high-tech development capital. Finally, beyond fueling the industry with dollars, visionaries are also effective at alerting the business community to perti­ nent technology advances. Outgoing and ambitious as a group, they are usually more than willing to serve as highly visible High-Tech Marketing Enlightenment 45 references, thereby drawing the attention of the business press and additional customers to small fledgling enterprises. As a buying group, visionaries are easy to sell but very hard to please. This is because they are buying a dream that, to some
+
+degree, will always be a dream. The “incarnation” of this dream will require the melding of numerous technologies, many of which will be immature or even nonexistent at the beginning of the project. The odds against everything falling into place without a hitch are astronomical. Nonetheless, both the buyer and the seller can build successfully on two key principles. First, visionaries like a project orientation. They want to start out with a pilot project, which makes sense because they are “going where no man has gone before,” and you are going there with them. This is followed by more project work, con­ ducted in phases, with milestones, and the like. The visionaries’ idea is to be able to stay very close to the development train to make sure it is going in the right direction and to be able to get off if they discover it is not going where they thought. While reasonable from the customer’s point of view, this project orientation is usually at odds with the intentions of entrepreneurial vendors who are trying to create a more uni­ versally applicable product around which they can build a multi-customer business. This is potentially a lose-lose situation threatening both the quality of the vendor’s work and the fabric of the relationship, and it requires careful account management including frequent contact at the executive level. The winning strategy is built around the entrepreneur being able to “productize” the deliverables from each phase of the visionary project. That is, whereas for the visionary the deliver­ ables of phase one are only of marginal interest—proof of con­ cept with some productivity improvement gained, but not “the 46 Crossing the Chasm vision”—these same deliverables, repackaged, can be a whole product to someone with less ambitious goals. For example, a company might be developing a comprehensive object-oriented software toolkit, capable of building systems that could model the entire workings of a manufacturing plant, thereby creating an order-of-magnitude improvement in scheduling and pro­ cessing efficiency. The first deliverable of the toolkit might be a model of just one milling machine’s operations and its environ­ ment. The visionary looks at that model as a milestone. But the vendor of that milling machine might look at the same model as a very desirable product extension and want to license it with only modest alterations. It is important, therefore, in creating the phases of the visionary’s project to build in milestones that lend themselves to this sort of product spin-off. The other key quality of visionaries is that they are in a hurry. They see the future in terms of windows of opportunity, and they see those windows closing. As a result, they tend to exert deadline pressures—the carrot of a big payment or the stick of a penalty clause—to drive the project faster. This plays into the classic weaknesses of entrepreneurs—lust after the big score and overconfidence in their ability to execute within any given time frame. Here again, account management and executive restraint are crucial. The goal should be to package each of the phases such that each phase: 1. is accomplishable by mere mortals working in earth time 2. provides the vendor with a marketable product 3. provides the customer with a concrete return on invest­ ment that can be celebrated as a major step forward. High-Tech Marketing Enlightenment 47 The last point is crucial. Getting closure with visionaries is next to impossible. Expectations derived from dreams simply cannot be met. This is not to devalue the dream, for without it there would be no directing force to drive progress of any sort. What is important is to celebrate continually the tangible and partial both as useful things in their own right and as heralds of the new order to come. The most important principle stemming from all this is the emphasis on management of expectations. Because controlling expectations is so crucial, the only practical way to do business with visionaries is through a small, top-level direct sales force. At the front end of the sales cycle, you need such a group to understand the visionaries’ goals and give them confidence that your company can step up to them. In the middle of the sales cycle, you need to be extremely flexible about commitments as you begin to adapt to the visionaries’ agenda. At the end, you need to be very careful in negotiations, keeping the spark of the vision alive without committing to tasks that are unachievable within the time frame allotted. All this implies a mature and sophisticated representative working on your behalf. In terms of prospecting for visionaries, they are not likely to have a particular job title, except that, to be truly useful, they must have achieved at least a senior vice presidential level in order to have the clout to fund their visions. In fact, in terms of communications, typically you don’t find them, they find you. The way they find you, interestingly enough, is by maintaining relationships with technology enthusiasts. That is one of the reasons why it is so important to capture the technology enthu­ siast segment. In sum, visionaries represent an opportunity early in a prod­ uct’s life cycle to generate a burst of revenue and gain exceptional 48 Crossing the Chasm visibility. The opportunity comes with a price tag—a highly demanding customer who will seek to influence your compa­ ny’s priorities directly and a high-risk project that could end in disappointment for all. But without this boost many high-tech products cannot make it to market, unable to gain the visibility they need within their window of opportunity, or unable to sustain their financial obligations while waiting for their mar­ ketplace to develop more slowly. Visionaries are the ones who give high-tech companies their first big break. It is hard to plan for them in marketing programs, but it is even harder to plan without them. The Dynamics of Early Markets To get an early market started requires an entrepreneurial com­ pany with a breakthrough technology product that enables a new and compelling application, a technology enthusiast who can evaluate and appreciate the superiority of the product over current alternatives, and a well-heeled visionary who can fore­ see an order-of-magnitude improvement from implementing the new application. When the market is unfolding as it should, the entrepreneurial company seeds the technology enthusiast community with early copies of its product while at the same time sharing its vision with the visionary executives. It then invites the visionary executives to check with the technology enthusiast of their choice to verify that the vision is indeed achievable. Out of these conversations comes a series of nego­ tiations in which, for what seems like a very large amount of money at the time, but which will later be recognized as just the tip of the iceberg, the technology enthusiasts get to buy High-Tech Marketing Enlightenment 49
+>>>

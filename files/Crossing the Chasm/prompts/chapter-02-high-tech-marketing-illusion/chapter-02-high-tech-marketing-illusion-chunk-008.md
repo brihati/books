@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-008",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 48579,
+    "char_end": 56356,
+    "checksum": "5cd89d3242919128"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ct response advertising works well with this group, as they are the segment most likely to send for literature, or a free demo, a webinar, or whatever else of substance you offer. Just don’t waste your money on a lot of fancy image advertising— they read all that as marketing hype. Direct email will reach them—and provided it is factual and new information, they read cover to cover. In sum, technology enthusiasts are easy to do business with, provided you 1) have the latest and greatest technology, and 2) don’t need to make much money. For any innovation, there will always be a small class of these enthusiasts who will want to try it out just to see if it works. That said, for the most part,
+
+these people are not powerful enough to dictate the buying decisions of others, nor do they represent a significant market in themselves. What they represent instead is a sounding board for initial product or service features and a test bed for introducing modifications to the product or service until it is thoroughly “debugged.” To give a prosaic example, in In Search of Excellence Tom Peters and Robert Waterman tell the story of the fellow at 3M who invented Post-it notes. He just put them on the desk of secretaries, and some of those secretaries just tried them to see if or how they would work. Those secretaries became Post-it note enthusiasts and were an early key in the campaign to keep the product idea alive. Enthusiasts are like kindling: They help start the fire. They need to be cherished for that. The way to cherish them is to let them in on the secret, to let them play with the product and give you their feedback, and wherever appropriate, to implement the improvements they suggest and to let them know that you im­ plemented them. 42 Crossing the Chasm The other key to working with enthusiasts toward a success­ ful marketing campaign is to find the ones who have access to the big boss. Big bosses are people who can dictate purchases and who do represent a significant marketing opportunity in and of themselves. To get more specific about the kind of big boss we are looking for, let us now turn to the next group in the Technology Adoption Life Cycle, the early adopters, or as they are often called in the high-tech industry, the visionaries. Early Adopters: The Visionaries Visionaries are that rare breed of people who have the insight to match up an emerging technology to a strategic opportunity, the temperament to translate that insight into a high-visibility, high-risk project, and the charisma to get the rest of their orga­ nization to buy into that project. They are the early adopters of high-tech products. Often working with budgets in the multi­ ple millions of dollars, they represent a hidden source of venture capital that funds high-technology business. When John F. Kennedy launched the U.S. space program, he showed himself to be something we in America had not known for some time—a visionary president. When Henry Ford im­ plemented factory-line mass production of automobiles so that every family m America could afford a car, he became one of our best-known business visionaries. When Steve Jobs took the Xerox PARC user interface out of the laboratory and put it into a Macintosh personal computer “for the rest of us,” then drove the rest of the industry to accept this new approach in spite of itself, he showed himself to be a visionary to be reckoned with. As a class, visionaries tend to be recent entrants to the ex­ ecutive ranks, highly motivated, and driven by a “dream.” The core of the dream is a business goal, not a technology goal, and it High-Tech Marketing Enlightenment 43 involves taking a quantum leap forward in how business is con­ ducted in their industry or by their customers. It also involves a high degree of personal recognition and reward. Understand their dream, and you will understand how to market to them. To give additional examples specific to high tech, when Harry McMahon at Merrill Lynch committed to put ten thou­ sand people on Salesforce.com’s cloud-based sales force auto­ mation system at a time when that vendor had no other large enterprise customer, he was acting as a visionary. When Linda Dillman at Wal-Mart committed to install Symbol RFID sys­ tems to create real-time visibility into all the inventory in every Wal-Mart store, she was acting as a visionary. When Reed Hast­ ings, CEO of Netflix, committed to outsource the computing for his entire business to Amazon.com’s Elastic Compute Cloud, he was acting as a visionary. And when Ted McConnell at Procter & Gamble committed to direct all digital advertising worldwide via AudienceScience’s ad spend management system, he was acting as a visionary. In every case, these people took significant business risks with what at the time was unproven technology and/or an unproven company in order to achieve breakthrough improvements in productivity and customer service. And that is the key point. Visionaries are not looking for an improvement; they are looking for a fundamental break­ through. Technology is important only insomuch as it prom­ ises to deliver on this dream. If the dream is credit-card-free consumer purchasing, then it is likely to include e~wallets on a mobile device with near-field communication. If the goal is to provide elite education worldwide at no charge, then the technology will likely include MOOCs from institutions like Stanford University perhaps supplemented by material from an organization like the Khan Academy. If the goal is to provide 44 Crossing the Chasm virtually limitless mobile computing with highly infrequent refreshes of battery power, then it is likely to include a tech­ nology like Google Glass. If the goal is to provide personalized medicine where the drug is matched to your personal metab­ olism so that success rates are dramatically improved, then it will likely leverage molecular diagnostics from companies like CardioDx or Crescendo. The key point is that, in contrast with the technology enthusiast, a visionary focuses on value not from a system’s technology per se but rather from the strategic leap forward such technology can enable. Visionaries drive the high-tech industry because they see the potential for an “order-of-magnitu de” return on investment and willingly take high risks to pursue that goal. They will work with vendors who have little or no funding, with products that start life as little more than a diagram on a whiteboard, and with technology gurus who bear a disconcerting resemblance to Rasputin. They know they are going outside the mainstream, and they accept that as part of the price you pay when trying to leapfrog the competition. Because they see such vast potential for the technology they have in mind, they are the least price-sensitive of any segment of the technology adoption profile. They typically have bud­ gets that let them allocate generous amounts toward the imple­ mentation of a strategic initiative. This means they can usually provide up-front money to seed additional development that supports their project—hence their importance as a source of high-tech development capital. Finally, beyond fueling the industry with dollars, visionaries are also effective at alerting the business community to perti­ nent technology advances. Outgoing and ambitious as a group, they are usually more than willing to serve as highly visible High-Tech Marketing Enlightenment 45 references, thereby drawing the attention of the business press and additional customers to small fledgling enterprises. As a buying group, visionaries are easy to sell but very hard to please. This is because they are buying a dream that, to some
+>>>

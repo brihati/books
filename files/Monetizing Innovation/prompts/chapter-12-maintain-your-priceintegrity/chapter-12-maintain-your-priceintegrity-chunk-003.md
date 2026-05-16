@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-12-maintain-your-priceintegrity",
+  "chunk_id": "chapter-12-maintain-your-priceintegrity-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 12 Maintain Your PriceIntegrity",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/12 - CHAPTER 12 Maintain Your PriceIntegrity.txt",
+    "source_pages": "165-178",
+    "char_start": 13267,
+    "char_end": 20943,
+    "checksum": "c4f3739cd290ce7c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+. Lowering prices seems ideal: You can do it right away, without any investments, and see quick results. But, as we have stated in this and other chapters, this is extremely shortsighted. You run the risk of a signiﬁcant downside. Pricing patience is an important capability of every organization. But as simple as it sounds, it is the most difﬁcult thing to get across to executive leadership. To maintain and institutionalize price patience, here’s an approach that typically works: Before getting approval for a pricing reduction, make your team come up with three nonpricing alternatives. If the action must be a price cut, the team must explain why it is superior to the nonpricing alternatives.
+
+Nonprice actions can include increasing advertising or adding to the value of the product. You could give customers a higher-end product at the same price. That will help you preserve your price. Even if you lower your price, you should ask customers for something in return. That Maintain Your Price Integrity 155 something could be a longer-term commitment, greater volume, intro- ductions to departments you have not sold to, endorsements and references, or joint press releases. Or it could be something else—as long as you’re getting value for giving value. A telecommunications ﬁrm in Latin America instituted the rule of forcing managers to come up with three nonprice actions before making price cuts. A board member of the company stated afterward: “This simple rule had the highest impact we have ever seen and instilled the right discipline we were seeking. It was simple and everybody understood it.” 5. Before reacting on price, war-game your competition’s counterreactions. This is another simple way of avoiding a knee-jerk price reduction. Write down how you expect your major competitors to react. Then simulate your position after that reaction: projected sales volumes, market share, proﬁt, and so on. If you built your business case on the principles we presented in Chapter 9, you will be able to anticipate your competitors’ reactions. If your war-gaming shows you will be worse off if you reduce your price after the competition attacks, then don’t. Look for other strategies. Why make things worse for yourself? This may sound like simple common sense, but you’d be surprised how many companies just don’t budget for competitive reactions. If you took this approach to playing chess, you’d lose in a few moves. 6. Unusually high sales could be a high-class problem. This is the hardest problem to acknowledge, and it requires the same disciplined solutions as unexpectedly low sales. You launch your new product and a wonderful thing happens: Sales volumes are way beyond expectations. Time to celebrate? Not so fast. You actually might have a problem—pricing lower than you needed to and leaving money on the table. That, of course, means you have a minivation. Did you simply misjudge your market size, as PlayMobil did when demand outstripped its supply? Or does your main competitor have manufacturing problems? Of course, higher-than-expected sales is a good problem to have. That’s why most companies do not view it as a problem or, if they do, they do not examine it. But too-high sales should be examined as rigorously as disappointing sales. So, once again, use a cross-functional team to ﬁnd out the key reasons for the bigger-than-expected success. Then develop a plan that solves this “problem.” If your product delivered 156 Monetizing Innovation more value than you thought customers were expecting, raise your price. But do it carefully, and in several steps. We’ve seen this happen many times. In the 1970s, Mercedes intro- duced a new SL car. The model sold out in a few months, and would-be customers were put on a waiting list of two years! Mercedes learned its mistake quickly: Its price for the new SL automobile was about 20 percent too low. However, it could raise the price only 3 to 5 percent a year. So the automaker had to wait a few years until it reached the optimal price level. In doing so, Mercedes left hundreds of millions of dollars in revenue on the table. The Mercedes example shows the importance of getting the right price at the beginning. When you don’t—when you severely and needlessly underprice your new product—you should accompany price increases with small product improvements that justify the price hike. You can also try to convince customers to accept longer delivery terms. But you’ll need to manage that process with, for instance, frequent updates on the status of their orders. The idea is to lock in your customers as strongly as possible to avoid giving your competi- tors the sales just because you’re having trouble keeping up with demand. Alternatively, you could make greater supplies of the pre- mium versions of your product and reduce supplies of the entry-level version. But in general, be careful about overly increasing the price if you ﬁnd yourself in similar situations. Customers will despise you, and competitors will see an opportunity to undercut you. Alternatively you could accelerate the development of the next generation of products and offset prices in the future releases. Price Wars: The Only Winning Move Is Not to Play Price wars are about seeing who can lower prices the most. You don’t want to start one, and you don’t want to be the ﬁrst one to move. Ultimately, a price war has only one winner: the supplier with the lowest cost. Most likely, that’s not you. Price wars have deadly consequences for new products, yet as our research shows, managers are not only strongly tempted to use them, but also in denial about how they start. In our ﬁrm’s 2014 Global Pricing Maintain Your Price Integrity 157 Study, 83 percent of companies had felt increasing price pressures over the past two years. The biggest reason: low-price competition, either from new attackers or from incumbents. That pressure fuels price wars. Everyone hates price wars, but no one wants to admit starting one. Fifty-eight percent of the survey participants said they were currently in a price war. (About 19 percent observed a price war in their industry but said it hadn’t affected them.) An overwhelming 90 percent of those ﬁghting a price war said that the competitors started it. A mere 5 percent said they started the price war intentionally, and 5 percent said they started it accidentally. It’s logically impossible that almost 90 percent of the time the price war is the other person’s fault. That’s denial. The truth is it takes two to tango. With that in mind, CEOs and other business leaders can coach teams to treat price wars with extreme caution and not act on fear. At the root of such fear is misunderstanding: Competitor A wants to hit back at Competitor B because B stole a customer. Competitor C perceives that as a frontal attack, which provokes A and B to counterattack. You need clear communications to avoid such misunderstandings. You must understand the reasons behind competitors’ pricing moves. Leaders must ensure their teams know the unfavorable outcomes of price wars. To avoid surprises that encourage price reduction thinking, put in place processes for updating models and forecasts regularly with new market information, then make people accountable for delivering on those forecasts. Make sure your models and forecasts include price elasticity assumptions. Summary Losing price integrity with a new product means you’re cutting prices unnecessarily or too soon when sales are slower than expected. That erodes proﬁt, customer lifetime value, and your brand. To maintain price integrity, you need to take a cross-functional approach to diagnosing the problem.
+>>>

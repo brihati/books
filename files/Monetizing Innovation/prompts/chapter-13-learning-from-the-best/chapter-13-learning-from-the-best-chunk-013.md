@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-013",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 82943,
+    "char_end": 90604,
+    "checksum": "a9f43aa14eca3db4"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+to sell the two products together since this was the easiest thing to do from a product standpoint. At best, that would have created a minivation. We have seen many SaaS companies go down this path and then try to take a step back after the bundle’s sales fall short of expectations. Optimizely’s laser focus on having the customer conversations early in the product development process steered it to the (shall we say it?) optimal outcome. Deciding How to Charge for the Personalization Product With its Personalization product strategy in hand, the next step for Optimizely was deciding how to charge for it. Should it use the same metric it used for the Testing product, MUV? Using the same metric
+
+would keep things simple for both Optimizely and its customers because both products would have the same monetization model. However, Optimizely learned from its validation with customers and prospects that the usage of Personalization is likely very different than Testing. While Testing would be used periodically and for a speciﬁc experiment, Personalization would be used at all times for all site visitors; it was always on. Personalization only works when it’s constant and universal. Learning from the Best 199 Jill would not like it if the site were personalized on one visit and not on another, and why personalize for Jane and not Jack? Given that dynamic, customers would resist tying the price of Personalization to how much they used it. After hearing this feedback, Optimizely chose a different pricing metric for Personalization: total site trafﬁc. This metric was in line with how customers planned to use Personalization and get value from it. By measuring the value of each product differently, Optimizely could better defend the value of each. This, again, was a win-win for Optimizely and its customers. The moral of the Optimizely story is that there is no one right answer for monetizing a suite of products. Had Optimizely kept its monetization model the same for the two products, it might have created a suboptimal outcome. By designing each product separately around the value and the price, Optimizely and its products have been a huge market success. With 400 employees, the ﬁrm has continued to grow rapidly. It expanded its headquarters in San Francisco and opened ﬁve others in the United States, Europe, and Asia-Paciﬁc. Looking ahead, Optimizely has positioned its products as a website customer experience optimization platform, on which the company will add future Optimizely products. But before it launches those new products, the ﬁrm won’t have to guess how many customers will want them and how much they’ll pay. You can bet it will know. Innovative Pharma—How a Customer Value Driven R&D Approach Boosts Success The world’s biggest pharmaceutical companies spend much more on new products than automobile companies and Silicon Valley ﬁrms do. In fact, large drug companies today spend on average of $2.6 billion to get a single new prescription drug off the ground.18 It leads to severe pressure on their R&D, marketing, and market access organizations to avoid spending huge sums on new drugs that fall ﬂat in the marketplace, even if they meet regulatory approval. This was what drove a long-successful pharmaceutical company (whose name is being withheld at the company’s request) to adopt the approach to monetizing innovation mentioned in this book. Despite its industry standing, the company faces strong competition, in part due 200 Monetizing Innovation to the biotech revolution of the past 20 years that has brought whole new approaches to ﬁnding cures to the world’s illnesses. Top management of the company’s life sciences division had the intent of improving its product development process to both reduce the risk that a new drug fails late in the development pipeline and to increase chances that the new treatment realizes its full clinical and market potential. That’s a bench- mark for success in this $4 trillion global industry. Mastering the approaches laid down in this book has had two big and beneﬁcial impacts on the company. First, the company can now deter- mine very early in the development process which products to weed out of the pipeline for commercial reasons. It has a clear idea of which therapy their paying customers will value and which they will not. The beneﬁt has been huge: freeing up money and people to work on the products with the best chances of clinical and commercial success. That kind of conﬁdence is crucial to executives, shareholders, and scientists in an industry relying so much on new products. The second big beneﬁt is getting the market to embrace its new drugs faster. With better insights on what customers needed most and how to demonstrate that value, the company’s product messages have been much more effective. This is critically important when thinking about the diverse groups of customers—including patients, prescribers, hospitals and integrated healthcare networks, and governments and insurance companies paying for the drugs. Each of them has different needs that often also vary by country. This illuminating upfront market analysis was a clear departure from the industry’s longstanding approach to drug development. Tradition- ally, life sciences companies had focused R&D on making sure their products were winners in the clinical sense. Developing a drug that alleviated symptoms or improved the quality of life without severe side effects was the path to regulatory approval, and that was most often the gateway to market access and commercial success. This company was no exception. But that changed substantially for this and many other pharmaceuti- cal companies over the past decade. Top management decided that in order to gain funding for a new drug in development, the pharma division had to prove that the new drug would be worth its costs in order to become a big winner with all their customers (especially payers) and not only with regulatory authorities. Learning from the Best 201 Adopting a New Approach to Sizing up Opportunities Top management at the ﬁrm realized they had to get better at picking winners, so they welcomed the “customer value–driven new product” approach. In this industry, customers include the physicians who pre- scribe drugs, the entities that typically pay for them (government and healthcare insurers), and, of course, patients themselves. All those inﬂu- encers and decision makers on the drug-purchasing decision had to be considered in advance of the ﬁrm committing big dollars to developing a therapy. Shifting to this approach would require cultural and organiza- tional changes that would ultimately take company management more than ﬁve years to complete. First the executives had to sell the approach internally. One of the earliest internal presentations on the journey laid out three critical changes for the company to make. Change #1: Listen to the Country Teams to Get the Insights on Market Access and Price Potential The drug development division at headquarters started listening to its teams in the country markets and engaged them in the product devel- opment process. No one at a pharmaceutical company is closer to patients, physicians, and payers than the local teams consisting of medical, marketing, and market access specialists. Drug developers needed their input to assess a new compound’s viability. In the best case, the local teams serve as surrogates for customer input when primary research is prohibitively expensive. This has another beneﬁt: It enables the country teams to assess early in product develop- ment which unmet customer needs a new product may be able to
+>>>

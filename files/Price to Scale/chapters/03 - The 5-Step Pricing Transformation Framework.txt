@@ -1,0 +1,127 @@
+9
+THE 5-STEP PRICING
+TRANSFORMATION
+FRAMEWORK
+Your Roadmap to Success
+It’s important to recognize  that pricing isn’t just about placing a
+price point on a product. It’s a strategic exercise that touches every
+part of your business. We’ve designed this 5-step framework that when
+sequentially applied across these steps will help take you through the
+process of a pricing strategy exercise. (Note that diagnosing a pricing
+issue, is then conversely looking at all these steps from the bottom-up.)
+Fig.1 : 5-step Pricing Transformation Framework
+AJIT GHUMAN
+10
+Step 1: Goals & Segments - Setting the Foundation
+The first step in any pricing transformation is to clarify your goals
+and identify your customer segments. Without a clear understanding
+of what your company aims to achieve—whether it’s boosting
+margins, capturing market share, or reducing costs—your pricing
+efforts may fall short. Additionally, there needs to be complete clarity
+of “who” your customers are, i.e. what segments are you selling into
+and what are their Ideal Customer Profiles (ICP).
+In many cases, pricing problems stem from a lack of alignment
+within the executive team. Different leaders may be advocating for
+different pricing strategies, each with their own assumptive goal and
+understanding of customers segments.
+This happens because there’s often no clear consensus on the
+company’s go-to-market strategy or an updated ICP. Misalignment at
+this stage can lead to significant downstream issues, where there is
+often a lot of confusion, arguing and friction. All the while packaging
+and pricing that is created as a result of misalignment will likely not
+resonate with your target customers. There are many epic cases of
+failure with this being the root cause. In fact, most pricing problems
+are truly problems of misalignment at this stage.
+Here’s the bottom line: alignment is key. When everyone is on the
+same page about your strategy and segments, everything else flows
+more smoothly.
+In fact, later in the book we dedicate a small chapter to a case study
+on organizational alignment at Citrix and usage of the ADKAR model
+by Prosci for change management.
+PRICE TO SCALE
+11
+Step 2: Positioning & Packaging - Designing Offers That
+Resonate
+With your goals and segments clear, the next step is to focus on
+packaging (and the corresponding positioning). Packaging isn’t just
+about bundling features; it’s about creating offers that make sense
+for your specific customer segments.
+For example, it’s common to see companies start by creating a “good-
+better-best” pricing structure and slotting features into three plans.
+But when done without a deep understanding of what each segment
+truly values, this approach can backfire.
+Imagine throwing all your enterprise features into a high-end pack-
+age without really understanding what your enterprise customers
+need. You might end up with customers choosing a package that
+doesn’t fit them or, worse, discounting heavily just to make a sale.
+This can lead to what’s known as “shelfware,” where customers pay
+for features they don’t use, which ultimately harms your long-term
+financial results.
+Or when your packaging is too granular it slows down sales cycles
+and can actually work well for bespoke enterprise type deals, but this
+will completely not work for a mid-market customer segment as
+these move quickly and the adage of “time kills all deals" applies.
+Step 3: Price Metric - Aligning Pricing with Value
+The next decision around pricing metric selection is to be made
+independent of package design. It is most often a step considered
+after package design.
+The price metric is how you capture value from your customers. This
+is where you decide whether to charge based on usage, subscription,
+or another model. The right price metric aligns with your customer’s
+perception of value and your business’s revenue model.
+AJIT GHUMAN
+12
+For instance, in the early stages of a company, a usage-based pricing
+model might be appropriate as it encourages adoption by reducing
+upfront costs. But as this company grows, it may seek more
+predictable revenue, and might shift to a user-based pricing metric.
+Or consider a case of launching a new AI-based SaaS product, you
+may encounter many considerations around pricing this product.
+The existing product category may still be entrenched with a user-
+based pricing model, however your product will drastically reduce
+user count as it automates a lot of work humans were doing.
+Additionally, with an AI-based product the ongoing cost implications
+are non-trivial, which increases the need to select a usage-based
+pricing metric. Even here the specific metric within the realm of
+usage-based pricing (execution, resolution, by unit tokens, or by
+output tokens, etc.) needs to be a carefully considered decision that
+helps both you and your customers win.
+The point needs to be made here that many companies will combine
+Step 2 & 3 and introduce pricing metric as the primary way by which
+packages are differentiated – this is not a smart decision because you
+signal to your customers that the quantity of the product is how you
+will tier the offers and not by differing customers needs. We recom-
+mend treating it as a separate decision where packaging is first about
+the capabilities offered in the product and not the quantity of usage.
+Step 4: Rate-setting - Finding the Right Price Points
+Once the two most important decisions/levers have been made
+around Packaging and Pricing Metric, it’s now finally time to focus
+on rate-setting—choosing the actual price points. This is where the
+rubber meets the road in terms of pricing.
+Rate-setting should reflect your overall strategy, market conditions, and
+the Customers’ willingness to pay . It’s a complex step that involves
+understanding pricing psychology, market competition, and customer
+expectations. For example, while a conjoint analysis might suggest a
+specific price point, you’ll need to consider how this aligns with your
+customer’s perceived value and your competitive landscape.
+PRICE TO SCALE
+13
+Also, as much as qualitative and quantitative research may provide
+detailed answers, it is always important to test them before launching
+broadly as the main offering or line-up.
+Step 5: Operationalization
+The final step is about the structure that helps your pricing strategy
+actually succeed on a day-to-day basis.
+Operationalizing pricing is crucial to ensuring that a company’s
+pricing strategy is effectively implemented and drives the desired
+business outcomes. This phase involves integrating the new pricing
+model into every aspect of the business, requiring the alignment of
+systems, processes, and teams to ensure smooth adoption.
+Essential tasks include instrumenting the pricing metric, imple-
+menting either a basic calculator or CPQ system and integrating with
+an ERP and/or Billing system. Depending on complexity these imple-
+mentations can take months or even years and can make or break
+the pricing strategy.
+Additionally, it requires effective sales enablement, deal manage-
+ment (Deal Desk), discounting policy setup and enforcement.
+The next chapters will take you through all the five steps one by one.

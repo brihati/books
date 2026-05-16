@@ -1,0 +1,353 @@
+CHAPTER 10
+The Innovation Won’t
+Speak for Itself
+You Must Communicate the Value
+Y
+ou’ve designed a great product. It answers a market need. You did
+extensive work to determine the right monetization model, and you
+developed a winning pricing strategy. Now it’s time to let your customers
+know about your product. For a successful launch, your marketing and
+sales teams must be strong in communicating and selling the value of your
+product to customers. As management guru Peter Drucker once said:
+“Customers don’t buy products. They buy the beneﬁts that these
+products and their suppliers offer to them.”
+It sounds easy, but consider this: You have thought about your
+innovation for months or even years. You know the product inside
+and out. However, a salesperson may only have 10 minutes with the
+customer. Yourcustomer mightstay onyourwebsiteonly forﬁveminutes.
+An advertisement may only run for 15 seconds. That marketing message,
+thatsalespitch, andthatadmustclearlyarticulatethevaluetocustomersina
+very short period of time. If they don’t, the would-be customer tunes out.
+How can you maximize your acquisition success? You need to start
+by articulating beneﬁts—not features—and focus on the most important
+ones. You need to speak the customer’s language, not your language.
+Finally, you need to get your marketing and sales teams involved early in
+the product development process.
+121
+We examine each of these practices in this chapter, and more. We
+also explain why most companies struggle with value communications
+when it comes to new products. We’ll explore the most frequent root
+cause of the problem: People in functions charged with communication
+are typically detached from the innovation process and thus come in
+too late.
+A Few Shining Examples of Value Communications
+When marketing and salespeople use compelling value communications,
+great things happen, as the following two examples demonstrate.
+The ﬁrst is a SaaS (software-as-a-service) company whose products
+streamlined and optimized warehouse and other supply chain operations
+for its customers. The software forecasted the customer’s demand and
+helped it stock the right amount of inventory in its warehouses (thereby
+reducing the cost of carrying excess inventory). That helped customers
+get the right products to the right places at the right times. The software
+also automated the picking and shipping workﬂows in the warehouse and
+eliminated manual errors that had been par for the course. Lastly, the
+software provided a real-time view to coordinate the workforce. It also
+eliminated the need to pass paper documents around the warehouse.
+It was evident to the SaaS company that its new product would
+generate great value for customers, and it wanted the product’s price to
+reﬂect that value. Many of the ﬁrms the company thought of as peers
+priced on a per-user basis (for instance, $50 per month per user).
+But the SaaS company knew this would be suboptimal (that is, a
+minivation!). It wanted to position its product, and its price, on the
+value it delivered. So the ﬁrm started by creating a spreadsheet sales-
+people could use with customers to quantify the payback on the
+product after asking a few basic questions about their operations.
+(See Figure 10.1.) The salesperson could enter such data as the number
+of hours the customer spent having warehouse workers manually pick
+orders from shelves (a task the software automated), the amount of
+inventory carried (the software would reduce costs of carrying excess
+inventory due to better forecasting), the number of shipping errors that
+occurred (the software would eliminate those), and the savings from
+eliminating paper documentation (by ending the paper shufﬂing, real-
+time coordination in the warehouse would greatly increase efﬁciency).
+122
+Monetizing Innovation
+The spreadsheet then calculated the customer’s total return on its
+software investment.
+Voila! The value that the software brought to the table, in dollars and
+cents, became crystal clear to the software company’s customers. The
+SaaS ﬁrm was able to easily justify the price the customer needed to pay
+for the software.
+Along with communicating the dollars and cents, the salespeople also
+delivered a crystal clear beneﬁt statement, one that captured the custom-
+er’s attention because it was fully in line with the value they were looking
+for: a reduction in inventory carrying cost, greater warehouse efﬁciency
+due to automated workﬂows, and more. The result: Sales of its new
+product took off like a rocket.
+The SaaS ﬁrm’s approach was remarkably different from competitors,
+whose sales negotiations were still explaining features but not beneﬁts.
+The SaaS ﬁrm’s sales were many times higher than they would have been
+if it had opted for per-user pricing.
+The second example is SmugMug, an Internet startup that lets people
+safely store, share, and sell photos online. SmugMug offered four
+customer plans. SmugMug loved the features of those plans, and so
+Figure 10.1
+Conceptual Example of a Value-Selling Spreadsheet
+The Innovation Won’t Speak for Itself
+123
+did its customers. But it offered simply too many features (100+) for the
+average customer to fully comprehend. (See Figure 10.2.)
+Many customers simply chose not to purchase the product; they
+didn’t know which way to go and which plan to select. As SmugMug
+continued to innovate and add more features to the plans, customers
+became even more confused. Sales were not picking up at the pace the
+ﬁrm expected. SmugMug cofounders Chris and Don MacAskill knew
+their innovation was a winner, and it was. The Wall Street Journal called
+SmugMug the “strikingly handsome photography site.” Forbes called it
+“one of the top company brands in its ﬁeld and one of the most-liked and
+most-respected personal brands.” Nonetheless, the MacAskills had to
+solve their value communication and sales problems.
+So the SmugMug founders revisited how they positioned their
+products. After scrutinizing their marketing messages, they realized
+they were spending a lot of time talking features and not beneﬁts.
+SmugMug was trying too hard, and the value message was not reaching
+the average customer. The ﬁrm then revamped the messages for its
+packages (i.e. product conﬁgurations), using beneﬁts—not features. They
+also moved the feature comparison to an optional section for those who
+still wanted to compare. They managed to condense the beneﬁt state-
+ments from more than 100 to fewer than 10. (See Figure 10.3.)
+The beneﬁt statements, such as “beautiful design” and “unlimited
+storage,” were music to many ears. The average customer could now
+quickly understand what they would get with each product offering.
+If you wanted only photo storage, you would choose basic. Want
+personalization? Choose power. Did you want to sell online? Choose
+portfolio. How about marketing what you sell online? Then you would
+choose business.
+The messaging was simple with clear value statements. That was a big
+change from the way beneﬁts had been articulated before.
+With these changes, Chris and Don MacAskill nailed it. By excelling
+at value communications, SmugMug saw a double-digit percentage
+increase in revenue and conversion.
+Sounds easy? It isn’t. Most companies have great sales and marketing
+teams and spend oodles of time trying to craft the right value messages.
+Yet, we have seen far too many companies struggle to communicate the
+values their products deliver. The next section underscores the root cause
+for this.
+124
+Monetizing Innovation
+Figure 10.2
+SmugMug’s Pricing Plans before the Change (100+ Features
+for Consumers to Sort Out)
+Source: Smugmug.com
+The Innovation Won’t Speak for Itself
+125
+So Why Is Value Messaging Difﬁcult?
+The problem usually begins with a disconnect between the frontline
+sales and marketing teams responsible for communicating the messages
+and the innovation team driving new product development. The sales
+and marketing teams often are far removed from the innovation teams
+and are brought in toward the very end to pinch hit, to market and sell a
+product. By the time they join the process, though, it is typically too late.
+They were not part of the value-to-customer story that drove the
+product design process and pricing. Nonetheless, they are told to craft
+the value story and sell it. Strange, but true.
+Without real information, they sit around a table to brainstorm ideas
+and develop a value story, which might not match the discussions the
+innovation team had when it designed the product. Sometimes the
+marketing and sales groups don’t seek input from the innovation teams
+and they try to run with what they have, since they feel they already
+know their customers. This gets complicated quickly.
+But even if marketing, sales, and product development managers
+convene to hash out the sales and marketing messages, the right
+communications often don’t emerge from their meetings. As the teams
+try to reconcile divergent views of the product’s value, the loudest or
+most senior voices in the room win the message-framing battle. And in
+too many cases, the winning message is different from the value
+Figure 10.3
+SmugMug’s Revamped Plans with Clear Beneﬁt Statements
+Source: Smugmug.com
+126
+Monetizing Innovation
+proposition deﬁned during product development, the one that excited
+potential customers.
+Most companies do not pay enough attention to this gap, believing
+the handoff from R&D to sales and marketing is a standard business
+process. But in practice, it’s not. It requires special effort. Great new
+products, even when they are priced right, don’t sell themselves. Market-
+ing needs to promote them, and sales needs to sell them.
+Telling a compelling value story is well within every company’s
+ability and means. It’s not about getting a top Madison Avenue ad
+agency. Instead, it requires adding key marketing and sales people to your
+innovation teams from the very start. This helps them fully comprehend
+the value messages that resonated most with customers from the get-go
+and lets them give valuable input to the new product design process. This
+also enables salespeople to focus their conversations on value, rather than
+price. More on this in Chapter 14.
+Now that you have understood how value messages can get scram-
+bled, let’s shift gears and learn about how to ﬁx it. In the next section we
+provide three steps to get this right from the start.
+The Three Steps to Create Great Value
+Communications
+Step 1: Develop Crystal-Clear Beneﬁt Statements—
+Not Feature Descriptions
+A company that excels at value communications articulates its products’
+beneﬁts in meaningful terms to customers. This is not about describing
+product features. A feature belongs to the product; a beneﬁt belongs to
+the customer. Value is a measure of the beneﬁt to the customer.
+Communicate beneﬁts, not features. Take each feature and ask yourself
+this: What does the customer achieve because of this feature? If you are
+still unsure about how to phrase your product’s beneﬁts, probe your
+customers about their pain points and how your product would solve
+them. Ideally, you should understand how customers measure their
+performance—and how your offering would affect those measures.
+Once you know that, you can tailor your messages to the customers’
+priorities. You should also quantify the relative value of your product: the
+The Innovation Won’t Speak for Itself
+127
+value it would deliver compared to the value your customer gets today
+from other offerings.
+To be more speciﬁc, when you create a value message, you should
+determine the customer purchasing criteria and how your product or
+service might perform on those criteria compared to existing alternatives.
+Such information can be captured in a 2 × 2 matrix that we call the
+matrix of competitive advantages, or MOCA for short. (See Figure 10.4 for
+an example.)
+To create this matrix, you list the relative importance of your
+innovation’s beneﬁts to customers on the y-axis. On the x-axis, you
+rate your innovation’s performance against the competition—not as
+you see it, but as your customers see it. The beneﬁts your product
+delivers that are most important to customers and that competitors can’t
+match (top right quadrant) are the ones to emphasize in your sales and
+marketing messages.
+But those aren’t the only beneﬁts to communicate. For the ones in
+the lower right quadrant—beneﬁts you are better at delivering than
+competitors but which are less important to customers—you are trying to
+convince customers these beneﬁts are more important than they might
+realize. However, if you can’t prove it, don’t emphasize them in your
+value communication.
+Figure 10.4
+Matrix of Competitive Advantages (MOCA)
+128
+Monetizing Innovation
+The factors in the top left quadrant represent your competitive
+disadvantages, and you should prepare arguments to defend them.
+Using this matrix, creating value communications will become more
+structured. It will also become easier to get all the innovation team
+members (R&D, product, sales, and marketing) on the same page.
+A few more tips when creating beneﬁt statements:
+• When communicating the beneﬁt statements, it’s easy to fall into the
+trap of thinking your features are the same thing as the beneﬁts to your
+customers. They aren’t. Take the case of Carbonite, the online data
+storage and backup company. The ﬁrm used to describe the storage
+amount for data backup services to consumers as “20 gigabytes.” While
+an IT professional would understand how much storage that ﬁgure
+represents, the average consumer would not, and therefore they
+couldn’t assess the beneﬁt in a meaningful way. The offer of 20 giga-
+bytes was most likely much more than what a majority of consumers
+would ever need. But the words “20 gigabytes” certainly did not
+identify a problem or a solution. Carbonite changed its description to
+“unlimited storage,” and the message truly resonated. Consumers
+could say, “With this service, I don’t have to worry about running
+out of online storage space.” In reality, most consumers might still use
+less than 20 gigabytes, but the positioning strongly helped increase
+customer conversion.
+• Customers are hardly interested in how you created your innovation or
+how much you spent on it. What’s fascinating for you is not necessarily
+fascinating to your customers. Americans didn’t buy Thomas Edison’s
+incandescent bulb upon learning that he tested over a thousand
+ﬁlaments before settling on tungsten. It was a heroic feat of innovation,
+but most Americans never knew about it, nor would they have cared.
+They bought Edison’s bulb so they didn’t trip over their kids’ toys in
+the dark. And a message along the lines of “the product is good because
+it has seven patents” is pretty meaningless as well. Your customers
+couldn’t care less.
+• You should also communicate those beneﬁts with extreme brevity.
+Come up with a handful of words for a headline or sales pitch—not a
+line the length of Lincoln’s Gettysburg Address (which by public
+speaking standards was a very short speech indeed, at only 272 words).
+The top-level messages about the core beneﬁts to customers matter
+The Innovation Won’t Speak for Itself
+129
+greatly. They must be short but sweet. You should test the messages
+with customers before ﬁnalizing them. Take the example of LinkedIn.
+In reformulating its Talent Solutions offering, the company found
+customers were clearly willing to pay for the opportunity to recruit
+“passive” job candidates—people not actually looking for jobs because
+they already were employed. LinkedIn’s communications centered on
+recruiters’ newfound ability to approach millions of these passive job
+candidates. The company led its messages with the very simple but very
+successful value message: “Find and engage the best passive talent.”
+• Last, remember that passion can get in the way of communicating value.
+This happens when product and marketing professionals try to jam
+every feature and beneﬁt statement into marketing and sales communi-
+cations. Encourage the innovation cross-functional team to practice
+restraint and communicate only what matters most to customers.
+Step 2: Make Your Beneﬁt Statements Segment-Speciﬁc
+As described in Chapter 5, homogeneity is one of the biggest wrong
+assumptions you can make in your new product design. Your customers
+are different. The same value messages are not likely to work for all of
+your customer segments. You should tailor your value messages to the
+needs of each segment. Marketing software maker Adobe, for example,
+does a great job of describing the right plan for the right segment using
+the right value message. (See Figure 10.5.)
+Figure 10.5
+Adobe Creative Cloud’s Messaging for Each Customer Segment
+Source: www.adobe.com/creativecloud.html
+130
+Monetizing Innovation
+For Adobe’s Individuals segment, the messaging includes “getting all
+the creative apps” and “being able to search 45 million stock images and
+videos.” For the Enterprise segment, Adobe’s messaging is “customized
+provisioning deployment,” “enterprise level support,” and “streamlined
+license management and deployment.” The messages are quite distinct
+from segment to segment.1
+Another company that creates great segment-speciﬁc message is Mini.
+While the car company has eight models (from the Hardtop two-door to
+the Roadster), each one has a very speciﬁc value message attached to it and
+a beneﬁts statement that is exciting to read. For example, the value message
+for the Countryman is highlighted in Figure 10.6.2
+Step 3: Measure the Impact and Reﬁne Your
+Value Messages
+Just as we urged you to craft a business case (described in Chapter 9) to be
+a continually updated document, you should check and recheck the
+viability of your marketing and sales messages. Speciﬁcally, you need to
+measure customer perceptions of the value you are communicating.
+Figure 10.6
+Value Message for the Mini Countryman
+Source: miniusa.com
+The Innovation Won’t Speak for Itself
+131
+You should be prepared to reﬁne your messaging if customers don’t
+believe the value is clear and compelling.
+A way to do this is to run a MOCA analysis as described in step 2 on a
+regular basis. If the messages you are communicating are too far aﬁeld
+from the messages that matter most to customers, you need a new
+strategy.
+Summary
+Mastering the art of value communications is just as important as
+mastering the process of designing products that customers will pay
+for. If you can’t clearly communicate that value, how can you expect
+customers to understand why they need your new offering and why
+they should pay for it?
+While it sounds simple in theory, we routinely see companies
+struggle with crafting their value communication when it comes to
+new products. The most frequent root cause of the problem: People
+in functions charged with value communication are typically detached
+from the innovation process and thus come in too late.
+To ﬁx this, integrate marketing and sales into the innovation
+team. Follow the three steps mentioned in this chapter to create
+compelling messages—those that communicate beneﬁts (not fea-
+tures), are segment-speciﬁc, and are monitored and continually
+improved.
+CEO Questions
+1. What beneﬁts do our customers derive from our new products?
+Have we quantiﬁed these beneﬁts? How did we go about it?
+2. Are the marketing and sales teams involved with the innovation
+team from the get-go, or are they plugged in toward the end of
+product development to create the value messages? If the latter,
+how do we ﬁx the situation?
+3. To what extent are our value communications in tune with the
+beneﬁts customers perceive? Have we tested our messages? If so,
+how? If not, why not? How do the messages change by customer
+segment?
+132
+Monetizing Innovation
+4. Did the entire innovation team (R&D, product, marketing, sales)
+check and approve the value communication materials we devel-
+oped? How closely? Did anyone object? If so, why?
+5. What processes do we have to measure the effectiveness of our
+value messages? Have we used the matrix of competitive advan-
+tages as a framework to create our value messaging? How regularly
+are we planning to measure the effectiveness of our value messages?
+The Innovation Won’t Speak for Itself
+133

@@ -1,0 +1,4 @@
+interface:
+  display_name: "How to Win Friends Coach"
+  short_description: "Handle people, persuade tactfully, lead without resentment, and practice Carnegie principles."
+  default_prompt: "Use $book-how-to-win-friends-and-influence-people-coach to handle a real conversation, rewrite a line, or practice a Carnegie principle from How to Win Friends and Influence People."

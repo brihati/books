@@ -1,0 +1,405 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-04-target-the-point-of-attack
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-04-target-the-point-of-attack-chunk-001",
+    "source": {
+      "chapter_title": "Target the Point of Attack",
+      "char_end": 6977,
+      "char_start": 0,
+      "checksum": "836f245cdb4881bc",
+      "source_pages": "111-134",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt"
+    },
+    "summary": "This chunk discusses chasm, pragmatists, visionaries, target customer. 4 Target the Point of Attack When it com.es to crossing the chasm, Yogi Berra got it right: “If you don’t know where you are going, you will wind up somewhere else.” The fundamental principle for crossing the chasm is to target a specific niche market as your point of attack and focus all your resources on achieving the dominant leadership position in... And the people who have experienced our product before, the visionaries, are so different in psychographic Target the Point of Attack 107 profile from our new...",
+    "key_points": [
+      "4 Target the Point of Attack When it com.es to crossing the chasm, Yogi Berra got it right: “If you don’t know where you are going, you will wind up somewhere else.” The fundamental principle for crossing the chasm is to target a specific niche market as your point of attack and focus all your resources on achieving the dominant leadership position in",
+      "After the targets get narrowed down to a very small number, the “finalists,” then you develop estimates of such factors as the market niches’ size, their accessibility to distribution, and the degree to which they are well defended by competitors",
+      "That is, it is extremely rare that people come to the Chasm Group with a market segmentation strategy already in hand, and when they do have one, it is usually not one they are very confident about",
+      "And the people who have experienced our product before, the visionaries, are so different in psychographic Target the Point of Attack 107 profile from our new target customers—the pragmatists—that we must be very careful about extrapolating our results to date"
+    ],
+    "arguments": [
+      "4 Target the Point of Attack When it com.es to crossing the chasm, Yogi Berra got it right: “If you don’t know where you are going, you will wind up somewhere else.” The fundamental principle for crossing the chasm is to target a specific niche market as your point of attack and focus all your resources on achieving the dominant leadership position in",
+      "And the people who have experienced our product before, the visionaries, are so different in psychographic Target the Point of Attack 107 profile from our new target customers—the pragmatists—that we must be very careful about extrapolating our results to date",
+      "If you now turn to the established case studies in market segmentation, like as not you will discover they will be based on work done on market share problems in existing markets—in other words, work done in situations where there is already a considerable amount of data to work with"
+    ],
+    "examples": [
+      "If you now turn to the established case studies in market segmentation, like as not you will discover they will be based on work done on market share problems in existing markets—in other words, work done in situations where there is already a considerable amount of data to work with"
+    ],
+    "stories": [
+      "If you now turn to the established case studies in market segmentation, like as not you will discover they will be based on work done on market share problems in existing markets—in other words, work done in situations where there is already a considerable amount of data to work with"
+    ],
+    "definitions": [
+      "In one sense, this is a straight forward market-entry problem, to which the correct approach is well-known",
+      "We already know that crossing the chasm is a high-risk endeavor, the effort of an unknown and unproven invasion force marching into the camp of some fierce and es tablished competitor",
+      "As you can see, this whole thing is a house of cards"
+    ],
+    "names": [
+      "Attack When",
+      "Yogi Berra",
+      "Chasm Group",
+      "Low-Data Decision Think",
+      "San Fran",
+      "Ferry Plaza. And",
+      "Informed Intuition Despite"
+    ],
+    "dates": [
+      "2016"
+    ],
+    "numbers": [
+      "2016"
+    ],
+    "places": [],
+    "terms": [
+      "chasm",
+      "pragmatists",
+      "visionaries",
+      "target customer",
+      "market segment",
+      "invasion",
+      "distribution",
+      "segment",
+      "niche"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Choose a narrow beachhead segment before scaling broader demand",
+      "Ground decisions in this chunk's evidence about chasm"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-04-target-the-point-of-attack-chunk-002",
+    "source": {
+      "chapter_title": "Target the Point of Attack",
+      "char_end": 13985,
+      "char_start": 6277,
+      "checksum": "578fdbc5018ddd86",
+      "source_pages": "111-134",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt"
+    },
+    "summary": "This chunk discusses early market, chasm, mainstream market, pragmatists. The place where most crossing-the-chasm marketing segmentation efforts get into trouble is at the be ginning, when they focus on a target market or target segment instead of on a target customer. Target customer characterization is a formal process for making up these images, getting them out of individual heads and in front of a market development decision-making group.",
+    "key_points": [
+      "The place where most crossing-the-chasm marketing segmentation efforts get into trouble is at the be ginning, when they focus on a target market or target segment instead of on a target customer",
+      "Target customer characterization is a formal process for making up these images, getting them out of individual heads and in front of a market development decision-making group",
+      "Now, let us suppose that in the next few years 3-D printers continue to win over an early market of technology enthusi asts (“Hey, wanna see this cool pair of flip-flops I made yes terday?”) and visionaries (“With 3-D printing, we can change the way eyeglass frame manufacturing is conducted—instead of make and then distribute, we can distribute and then",
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for"
+    ],
+    "arguments": [
+      "And given that you must act quickly, you need to approach the decision from a different vantage point",
+      "The key is to understand how intuition—specifically, in formed intuition—actually works",
+      "So the first rule of working with an image is: If you can’t remember it, don’t try, because it’s not worth it"
+    ],
+    "examples": [
+      "“Beibers,” for example, can be expected to shop at a mall, emulate a rock star, seek peer approval, and resist parental restrictions—all of which imply that certain marketing tactics will be more suc cessful than others in winning their dollars",
+      "3-D Printing: An Illustrative Example For the purposes of illustration, let us consider how we might market a 3-D printer",
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for"
+    ],
+    "stories": [
+      "“Beibers,” for example, can be expected to shop at a mall, emulate a rock star, seek peer approval, and resist parental restrictions—all of which imply that certain marketing tactics will be more suc cessful than others in winning their dollars",
+      "3-D Printing: An Illustrative Example For the purposes of illustration, let us consider how we might market a 3-D printer"
+    ],
+    "definitions": [
+      "All of them describe a similar process, in which analyt ical and rational means are used extensively both in preparation for and in review of a central moment of performance",
+      "Target customer characterization is a formal process for making up these images, getting them out of individual heads and in front of a market development decision-making group",
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for"
+    ],
+    "names": [
+      "Informed Intuition Despite",
+      "Not Rich",
+      "Target Customer",
+      "Sample Scenario",
+      "HEADER INFORMATION. At"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "early market",
+      "chasm",
+      "mainstream market",
+      "pragmatists",
+      "visionaries",
+      "target customer",
+      "market development",
+      "discontinuous innovation",
+      "segment"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Choose a narrow beachhead segment before scaling broader demand",
+      "Ground decisions in this chunk's evidence about early market"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-04-target-the-point-of-attack-chunk-003",
+    "source": {
+      "chapter_title": "Target the Point of Attack",
+      "char_end": 21031,
+      "char_start": 13285,
+      "checksum": "744c03794b7620de",
+      "source_pages": "111-134",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt"
+    },
+    "summary": "This chunk discusses chasm, target customer, market development, economic buyer. This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for. At the top of the page you need thumbnail information about the end user, the technical buyer, and the economic buyer of the offer.",
+    "key_points": [
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for",
+      "As you will see from the example, this is a highly tactical exercise in microcosm, but it has major Target the Point of Attack 113 implications for how marketing strategy is set overall",
+      "At the top of the page you need thumbnail information about the end user, the technical buyer, and the economic buyer of the offer",
+      "Alternatively, consumer markets can spin up with no chasms at all if the technology is already adopted and the disruption is coming from a new business model. (For an alternative market development model that describes these dynamics, see “The Four Gears” discussion in Appendix 2.) Getting back to our scenario process, which is a B-to- B-to-C value"
+    ],
+    "arguments": [
+      "A finished scenario should be limited to a single page",
+      "For business markets, the key data are: industry, geography, department, and job title",
+      "If the user is a child, the economic buyer is the parent, and the technical buyer is a toss-up (in our house, the child for sure)"
+    ],
+    "examples": [
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for",
+      "As you will see from the example, this is a highly tactical exercise in microcosm, but it has major Target the Point of Attack 113 implications for how marketing strategy is set overall",
+      "So as we work through the example, we will also keep an eye out for the broader implications"
+    ],
+    "stories": [
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for",
+      "As you will see from the example, this is a highly tactical exercise in microcosm, but it has major Target the Point of Attack 113 implications for how marketing strategy is set overall"
+    ],
+    "definitions": [
+      "This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for",
+      "As you will see from the example, this is a highly tactical exercise in microcosm, but it has major Target the Point of Attack 113 implications for how marketing strategy is set overall",
+      "If the user is a child, the economic buyer is the parent, and the technical buyer is a toss-up (in our house, the child for sure)"
+    ],
+    "names": [
+      "Sample Scenario",
+      "HEADER INFORMATION. At",
+      "B-to- B-to-C",
+      "Design Dis"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "chasm",
+      "target customer",
+      "market development",
+      "economic buyer",
+      "end user",
+      "technical buyer",
+      "segment"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Choose a narrow beachhead segment before scaling broader demand",
+      "Ground decisions in this chunk's evidence about chasm"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-04-target-the-point-of-attack-chunk-004",
+    "source": {
+      "chapter_title": "Target the Point of Attack",
+      "char_end": 28085,
+      "char_start": 20332,
+      "checksum": "969e9f715a8b7cb3",
+      "source_pages": "111-134",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt"
+    },
+    "summary": "This chunk discusses chasm, pragmatists, whole product, target customer. Processing the Scenario: The Market Development Strategy Checklist Target customer characterization is at the core of applying market segmentation strategy to the problem of crossing the chasm. This list consists of a set of issues around which go-to-market plans are built, each of which incorporates a chasm-crossing factor, as follows: • Target customer • Compelling reason to buy • Whole product • Partners and allies • Distribution • Pricing • Competition • Positioning • Next target customer Processing the...",
+    "key_points": [
+      "Processing the Scenario: The Market Development Strategy Checklist Target customer characterization is at the core of applying market segmentation strategy to the problem of crossing the chasm",
+      "This list consists of a set of issues around which go-to-market plans are built, each of which incorporates a chasm-crossing factor, as follows: • Target customer • Compelling reason to buy • Whole product • Partners and allies • Distribution • Pricing • Competition • Positioning • Next target customer Processing the scenarios consists of rating each",
+      "Turning back to the checklist, the four factors that raise showstopper issues for crossing the chasm are as follows: target customer: Is there a single, identifiable economic buyer for this offer, readily accessible to the sales channel we intend to use, and sufficiently well funded to pay the price for the whole product?",
+      "Instead, they will report that the customer said, “Great presentation!” What the customer was really saying was “I learned some more and I didn’t have to buy anything.” whole product: Can our company with the help of partners and allies field a complete solution to the target customer’s com pelling reason to buy in the next three months such that we can"
+    ],
+    "arguments": [
+      "If the client still wants to tweak it some more, this can be readily done by updating the file and printing it out again",
+      "They have exceptional flexibility because their two key inputs—CAD files and printing material—are both readily modifiable to meet a wide variety of design require ments",
+      "And because the designs are just software, it is much easier to display them virtually over the Web, cutting out the need to man booths at expensive trade shows"
+    ],
+    "examples": [
+      "The wholesaler is delighted to have produced a showcase result, not to mention relieved not to have to carry a large inventory of product to support a relatively small stream of actual sales",
+      "In this library we have captured actual use cases from every current customer, every interesting prospect whether won, lost, or in waiting, as well as other interesting prospects that we might know about from past lives",
+      "Compared to SIC codes, for example, they are paragons of ac curacy and integrity"
+    ],
+    "stories": [
+      "The wholesaler is delighted to have produced a showcase result, not to mention relieved not to have to carry a large inventory of product to support a relatively small stream of actual sales",
+      "In this library we have captured actual use cases from every current customer, every interesting prospect whether won, lost, or in waiting, as well as other interesting prospects that we might know about from past lives"
+    ],
+    "definitions": [
+      "Instead, it is a tapping into Target the Point of Attack 119 the fund of anecdotes that actually carries business knowledge in our culture",
+      "Sales cycles drag on forever, and the project can be shut down at any time. compelling reason to BUY: Are the economic consequences sufficient to make any reasonable economic buyer anxious to fix the problem called out in the scenario?",
+      "We need to cross now, which means we need a problem we can solve now"
+    ],
+    "names": [
+      "Market Development Strategy Checklist. This",
+      "Dick Hack-"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "chasm",
+      "pragmatists",
+      "whole product",
+      "target customer",
+      "market segment",
+      "beachhead",
+      "competition",
+      "positioning",
+      "distribution",
+      "pricing",
+      "channel",
+      "market development"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Choose a narrow beachhead segment before scaling broader demand",
+      "Ground decisions in this chunk's evidence about chasm"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-04-target-the-point-of-attack-chunk-005",
+    "source": {
+      "chapter_title": "Target the Point of Attack",
+      "char_end": 35125,
+      "char_start": 27386,
+      "checksum": "655700c0adff9803",
+      "source_pages": "111-134",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt"
+    },
+    "summary": "This chunk discusses chasm, mainstream market, visionaries, whole product. Pulling together this partner ship is a major challenge for the whole product manager. distribution: Do we have a sales channel m place that can call on the target customer and fulfill the whole product re quirements put on distribution? At the outset, the answer is typically, Not very One of the delights of niche marketing, however, is the speed at which this resistance can be overcome if only one truly commits to a whole product that fixes the broken process. next target customer: If we are successful in...",
+    "key_points": [
+      "Pulling together this partner ship is a major challenge for the whole product manager. distribution: Do we have a sales channel m place that can call on the target customer and fulfill the whole product re quirements put on distribution?",
+      "Note here that it is the whole product price, not the price of Target the Point of Attack 123 the product per se, that matters",
+      "At the outset, the answer is typically, Not very One of the delights of niche marketing, however, is the speed at which this resistance can be overcome if only one truly commits to a whole product that fixes the broken process. next target customer: If we are successful in dominating this niche, does it have good “bowling pin” potential?",
+      "Committing to the Point of Attack Making the commitment to a niche market can be challenging, especially for entrepreneurs who are technology enthusiasts or visionaries, because they personally don’t have the pragmatist response and thus have trouble trusting in the market dynamics outlined in this book"
+    ],
+    "arguments": [
+      "If some other company got there before you, all the market dynamics that you are seeking to make work in your favor are already working in its favor",
+      "If they have already attracted a competitor, see if you can’t end-run them",
+      "Expect that the best scenarios will be “whole product challenged”—if it were easy, someone else would have done it"
+    ],
+    "examples": [
+      "But in fact, this is almost never the case"
+    ],
+    "stories": [
+      "But in fact, this is almost never the case"
+    ],
+    "definitions": [
+      "A very low score, relative to the others, in any of these factors almost always is a showstopper",
+      "Pulling together this partner ship is a major challenge for the whole product manager. distribution: Do we have a sales channel m place that can call on the target customer and fulfill the whole product re quirements put on distribution?",
+      "This is a defining moment for them"
+    ],
+    "names": [
+      "Attack Making",
+      "Size Matters"
+    ],
+    "dates": [],
+    "numbers": [
+      "$10 million",
+      "$5 million",
+      "10 million",
+      "5 million"
+    ],
+    "places": [],
+    "terms": [
+      "chasm",
+      "mainstream market",
+      "visionaries",
+      "whole product",
+      "target customer",
+      "market segment",
+      "beachhead",
+      "competition",
+      "positioning",
+      "distribution",
+      "pricing",
+      "channel"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Choose a narrow beachhead segment before scaling broader demand",
+      "Ground decisions in this chunk's evidence about chasm"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-04-target-the-point-of-attack-chunk-006",
+    "source": {
+      "chapter_title": "Target the Point of Attack",
+      "char_end": 38487,
+      "char_start": 34425,
+      "checksum": "df59704328b24329",
+      "source_pages": "111-134",
+      "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt"
+    },
+    "summary": "This chunk discusses chasm, mainstream market, target customer, market segment. For selecting the target market segment that will serve as the point of entry for crossing the chasm into the mainstream market, the checklist is as follows: 1. Depending on outcome, proceed as follows: • Group agrees on beachhead segment.",
+    "key_points": [
+      "If the target segment is too small to generate half of next year’s sales for the new product, then you have to augment it",
+      "If there is no appropriate super-segment, then you probably should go back and pick another target",
+      "For selecting the target market segment that will serve as the point of entry for crossing the chasm into the mainstream market, the checklist is as follows: 1",
+      "Depending on outcome, proceed as follows: • Group agrees on beachhead segment"
+    ],
+    "arguments": [
+      "the same time, it should be large enough to generate your $5 million",
+      "If you find the target segment is too big, sub-segment it",
+      "You must respect word-of-mouth boundaries"
+    ],
+    "examples": [
+      "In that case, do not attempt to cross the chasm"
+    ],
+    "stories": [
+      "In that case, do not attempt to cross the chasm"
+    ],
+    "definitions": [
+      "As a way of recapping this material, at the end of each chapter there will be a checklist of activities, suitable as a means either for managing a group through this process or testing the final output of a group’s marketing decision making"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "$5 million",
+      "5 million"
+    ],
+    "places": [],
+    "terms": [
+      "chasm",
+      "mainstream market",
+      "target customer",
+      "market segment",
+      "beachhead",
+      "market development",
+      "segment"
+    ],
+    "quotes": [],
+    "actionable_lessons": [
+      "Choose a narrow beachhead segment before scaling broader demand",
+      "Ground decisions in this chunk's evidence about chasm"
+    ],
+    "open_questions": []
+  }
+]
+```

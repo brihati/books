@@ -1,4 +1,4 @@
 interface:
   display_name: "Book Never Split the Difference Coach"
-  short_description: "Practice CEO negotiations with local Never Split the Difference material"
-  default_prompt: "Use $book-never-split-the-difference-coach to coach this from the repo-local Never Split the Difference material."
+  short_description: "Negotiate with tactical empathy, labels, mirrors, calibrated questions, and Black Swans."
+  default_prompt: "Use $book-never-split-the-difference-coach to practice this negotiation with tactical empathy, labels, mirrors, calibrated questions, bargaining discipline, and chapter-grounded coaching."

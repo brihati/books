@@ -1,0 +1,321 @@
+CHAPTER 9
+From Hoping to Knowing
+Build an Outside-In Business Case
+A
+critical step in your new product development process will be
+making the business case for it inside your organization. Even
+though this will be for internal purposes, you must get external input—
+speciﬁcally, your target customers’ willingness to pay (WTP) for your
+product (Chapter 4). That doesn’t exist anywhere within the four walls of
+your company. You have to go out and get it.
+Your very ﬁrst version of the business case should be created right after
+you determine the high-level WTP for your product. You need to keep
+evolving it as you deﬁne your customer segments (discussed in Chapter 5),
+determine product conﬁgurations and bundles (Chapter 6), select a
+monetization model (Chapter 7), and set your pricing strategy (Chapter 8).
+In this way, your business case document will be an up-to-the-
+moment reﬂection of your product’s evolution and the most accurate
+representation of its monetization potential. It will be a living, breathing
+document—one that you continually update with your latest knowledge
+about the market opportunity at hand.
+The business case that global car auctioneer Manheim put together
+for a new service is a great example.
+How Auto Auctioneer Manheim Tested a New Offering
+Since its launch in 1945 as an auctioneer of used automobiles between car
+dealers, Manheim has grown into a multibillion-dollar global enterprise.
+111
+Now based in Atlanta and a subsidiary of $17.5 billion Cox Enterprises,
+Manheim remarkets about 7 million used vehicles a year. The company
+provides not only the auction services, but also a host of ancillary services
+to help dealers buy and sell vehicles from each other: ﬁnancing, title
+work, transportation, and repair.
+In 2011, Manheim leaders considered launching a service that would
+give dealers the option to return the vehicles they purchased within a
+certain time period, no questions asked. The additional peace of mind for
+the dealers could accelerate conversion and sales—or so the thinking
+went.
+The concept generated great excitement in the top management team
+at Manheim when they ﬁrst met to discuss this idea. Some executives were
+convinced of the new service’s appeal. They believed the new return
+policy offering was a sureﬁre winner. Their gut feeling was that they didn’t
+need a business case. They told themselves, “In the interest of time, we
+should get moving.” There were some who wanted to take a more
+conservative approach to the new offering. They suggested testing it in a
+small way—say, a limited offering with a few dealers or region of dealers—
+before committing a lot of funds to it. A few others doubted the viability of
+the concept from a risk and returns standpoint. “What if dealers return too
+many cars?” they asked. “What if it costs us too much to provide such a
+guarantee? What if we need to pull back after launch?”
+This situation would be familiar to most of you. A new idea always
+has proponents and people who question its efﬁcacy. When met with
+such a situation, many companies end up in decision paralysis, and the
+new product idea sits on the shelf rotting. This was deﬁnitely not the case
+with Manheim, which has a great culture oriented toward taking action.
+The product strategy and leadership team agreed to test the idea in the
+market, conduct customer research, and develop a robust business case
+before embarking on a long journey of productizing.
+Vishaal Jayaswal, Manheim’s head of pricing and value management,
+was asked to help ﬁgure out whether customers would value the service
+in the ﬁrst place and, if so, how much they would be willing to pay for it
+under various conditions.
+Jayaswal began to assess what factors would impact WTP, such as a
+time limit on returns, the make and model of a car, or a car’s mileage.
+What would the demand for such money-back guarantees look like at
+different prices?
+112
+Monetizing Innovation
+To get that, Jayaswal commissioned a value research study in 2012
+and began having early WTP talks with customers (talks of the type we
+discussed in Chapter 4). The company discovered dealers loved the idea
+and were willing to pay for it. More important, Jayaswal found WTP
+varied by dealer and situation. For example, dealers that were more price-
+sensitive and willing to assume more risk were only willing to pay for a
+short-term guarantee.
+Other dealers were more risk-averse. They were willing to pay a
+higher price for a 21-day return option, which gave them more time to
+spot deal-ending defects. Their WTP also varied by the type of car (defect
+rates on used cars can vary substantially from brand to brand and model to
+model) and its condition.
+Ultimately, Jayaswal’s pricing strategy recommendations were based
+on several elements: a) the business risks Manheim was assuming; b) the
+value to customers of different guarantee services; c) customers’ WTP for
+them; and d) how much demand changed at different price points (the
+price elasticity curve, explained in Chapter 8). In other words, the
+recommendation tied the four critical elements together—price
+(WTP), value (to customers), volume (the expected demand at those
+price points), and costs in delivering the service (including the risks based
+on probability of car failure within the warranty period). That helped the
+product strategy and leadership team develop an airtight business case. It
+was a business case built on a foundation of real customer feedback rather
+than on internal assumptions and opinions.
+With statistically signiﬁcant survey data, the product team could
+simulate how demand would vary across different price points. They
+could point to the type of inventory on which Manheim would offer
+guarantees, as well as the revenue potential those guarantees generated.
+They could simulate what would happen if Manheim lowered its price
+signiﬁcantly, and how much more market share the company was likely
+to gain if it chose a penetration strategy.
+And most important, the business case demonstrated what these and
+other scenarios would mean to Manheim’s revenue and proﬁts—its
+bottom line.
+The executive management had the data they needed to make a
+concrete decision. Manheim had based its business case for this new
+service on undeniable facts, especially the two most important ones for
+any new offering: Will customers buy it, and if so, at what price?
+From Hoping to Knowing
+113
+Branded as the DealShield Purchase Guarantee,1 the new service
+debuted in 2012. Today, it lets dealers who purchase a vehicle at a
+Manheim auction return it for any reason for up to 21 days and 500 miles
+from the time of purchase at any Manheim auction location. The price
+for the service depends on the risk of the transaction, including the
+condition of the vehicle, reconditioning expenses to get the auto ready
+for retail sale, and market conditions.2 By 2015, DealShield had protected
+billions of dollars in vehicle purchases and generated signiﬁcant revenue
+and proﬁt for Manheim.
+Why WTP Is Essential For Your Business Case
+Think back to the last business case you or your colleagues were asked to
+write for a new product. How did you arrive at your prices? Did you
+compare your product to other products in the marketplace, or did you
+actually ask customers what they’d pay for it? Did you know in advance
+what would happen if you increased your price by, say, 20 percent—how
+it would affect demand and thus volume?
+If you are like thousands of companies we’ve seen over the years, you
+probably didn’t. These ﬁrms did have business cases. But only about
+5 percent had the essential information, on customers’ WTP.
+When you think about it, that’s amazing.
+If you don’t know how much customers might pay for your
+proposed product, how much they value it, how demand (that is, volume)
+will likely change based on its price, then how can you trust your business
+case? The answer is, you can’t. Put another way, if there is minimal WTP,
+you would rather ﬁnd that out as early as possible (before sinking in too
+many resources).
+Much in the same (sane) way we helped Manheim create a solid
+business case for DealShield, we convinced the top executives at a
+software-as-a-service provider to dump plans for a new low-priced entry
+product. (It was a “freemium” model of the type we discussed in
+Chapter 8.) The price for the base service was to be zero so customers
+would sign up en masse. The hope was many or most would move to the
+premium service at some point. Several of the ﬁrm’s top executives were
+emotionally attached to their freemium model. This company had
+enjoyed rapid revenue growth, and they had good reason to believe
+in their pricing instincts.
+114
+Monetizing Innovation
+However, when we helped the company create a detailed business
+case, we became the bearer of bad news to this faction of the top team.
+Our model revealed a freemium service would greatly cannibalize the
+ﬁrm’s low-priced products, which had gainfully served as the entry-level
+offerings. In no way would the additional number of freemium custom-
+ers offset the sizable revenue lost from customers switching from the low-
+priced to the freemium version. After hearing that, the executive
+management walked away from the concept, thanking us heartily for
+bringing them the bad news. Better now than later.
+Your business case must model the linkages among the four elements
+of price, value, volume, and cost. When you do that, your monetary
+forecast will be far more precise.
+Building a robust business case with these linkages will help you avoid
+the monetizing innovation failure types. How so? Making this kind of
+business case will alert you to a product that will be dead on market
+arrival—the dreaded undead. In some cases, customers will be willing to
+pay much more than you anticipated. If you don’t know this, you’ll
+underprice your innovation and leave money on the table (i.e., produce a
+minivation). To prevent a feature shock, a business case that prioritizes
+features based on how much customers are willing to pay for them will
+show which features you should focus on and which you should discard.
+You will be able to discover whether a market does exist for some
+newfangled offering and is willing to pay a sizable price for it (thereby
+uncovering a hidden gem).
+A business case should be a living document that keeps you
+grounded on the true monetization potential of your innovation.
+As time goes by, the problems of business cases lacking information on
+value, price, cost, and volume only get compounded. Companies make
+isolated adjustments to one of the four elements without taking into
+account their interdependencies. For instance, the R&D team increases
+its cost estimates, leading ﬁnance to raise prices to hit target proﬁt
+margins, all without addressing volume or value. Finance raises the price,
+but the company has no idea whether customers will actually pay it and
+what demand will look like after the price adjustment.
+That’s why you need a strong business case with WTP information
+and the linkages intact. That’s why you can’t succeed without one.
+Without it, you’re just guessing about your innovation’s monetization
+potential.
+From Hoping to Knowing
+115
+You can get the customer WTP in many ways. We listed them in
+Chapter 4. The essential point here is to do it and include it in your
+business case.
+Nine Steps to Build a Living Business Case
+We hope we have convinced you of the need to craft what may be a
+much different business case than the type your company has required to
+date for new products. So how do you create such an airtight business
+case, one that will help you monetize your new offering?
+Here are nine steps to build a business case that will maximize the
+value of your new products or services over time. The ﬁrst is the most
+important:
+1. Forget the way you do business cases today. Nearly every
+business case we’ve reviewed in our ﬁrm’s 30-plus years of business
+is a static document whose purpose is securing funding for a new
+product. By static, we mean it’s created once to get funding
+approval, and then it’s put on a shelf where it collects dust. Instead,
+a business case must be a living document, one you update before
+and after launch with new data on pricing, costs, volume, and
+value. You can use it to test assumptions about these four elements
+and how they interact with one another throughout the product
+life cycle, not just at the funding stage. It will help you respond
+effectively to competitors’ moves before and after your new
+offering hits the market.
+2. Assemble the basic ingredients. Incorporate market size, vol-
+ume, customer segments, offer structure (conﬁgurations and bun-
+dles), value, WTP, a monetization model, costs, and competing
+products and their pricing.
+3. Include price elasticity. Most companies avoid exploring price
+elasticity at this point, but we ﬁnd it to be the critical element in
+business cases. When the price of a product goes up, sales volume
+tends to go down. If you’ve included that dynamic in your business
+case, you can make more accurate and better decisions if you add
+features that affect pricing. For example, you’ll know how much
+volume will go down if you raise your price. Now the tough
+discussions can begin: Do we really need a certain feature that’s
+116
+Monetizing Innovation
+costing us a lot and driving up our price? Do customers value it? What
+is the demand?
+4. Apply data-veriﬁed facts. You need to use ﬁgures based on real
+facts. Without data, many are tempted to overstate the size of their
+target market, for example, or to create unrealistic adoption assump-
+tions. Such guesses will come back to haunt you later, when you have
+to explain why sales are grossly under target. Topics that typically
+require data-validity checks include market size, ramp-up times,
+churn, and cannibalization assumptions.
+5. Add risk assumptions. You need to attach risk assumptions to any
+input parameters that are inherently uncertain. For example, your
+manufacturing cost per unit will increase if a key supplier goes belly
+up and you must source from higher-priced suppliers. If that’s
+possible, you must mention that in your business case. To pressure-
+test your business case, you should add these risks and calculate
+best- and worst-case outcomes of input parameters. A more sophisti-
+cated tactic would be using Monte Carlo simulations. They will enable
+you to gauge the probabilities of your projected outcomes and
+model uncertainty using probabilistic distributions. Software such
+as Oracle’s Crystal Ball (a popular plug-in to Microsoft’s Excel spread-
+sheet software) allows you to model such assumptions easily.3
+6. Be realistic about goal tradeoffs. It’s nearly impossible to maxi-
+mize a new product’s proﬁt, revenue, volume, and margin all at
+once. You have to prioritize your goals. Raising prices almost
+always lowers volume and thus revenue. Lower prices typically
+increase volume. Understanding and making these trade-offs
+through “what if” scenarios is a key ingredient for a best-in-class
+business case.
+7. Consider competitive reactions. Make sure your business case
+models your rivals’ possible reactions. Will they reduce prices? Will
+they increase service levels? Then, plan for how you’ll respond to
+those reactions. An effective business case is dead serious about these
+competitive scenarios, and it quantiﬁes their impact. We’ll discuss this
+in Chapter 12.
+8. Don’t focus the business case on just the new product. As
+much as your business case must ﬁnancially justify your new product,
+make sure you assess its overall impact on your company. If the new
+product will cannibalize sales of existing products, you must factor
+From Hoping to Knowing
+117
+that in. And, of course, if it cannibalizes too much, you won’t have a
+strong business case.
+9. Keep checking in. A strong business case will help you make
+decisions throughout the product development process and beyond.
+At each decision point, make sure the four pillars remain integrated,
+consistent, and in line with your company’s strategy. Your model for
+pricing, volume, cost, and value needs to hold up at each stage of the
+development process.
+Shaping a business case that gathers reliable information on customer
+WTP, value, volume, and cost is not simple. It takes time, effort, and
+money. However, the return will far outweigh the investment.
+Most of all, a strong business case will help you turn your hopes of
+launching a successful new product—defying the 72 percent new-
+product failure rate—into informed conﬁdence that you actually will
+succeed. By helping you create the right ambition for your new offering,
+a strong business case will let you extract your new product’s full market
+potential.
+Summary
+Products are almost never launched without some sort of business
+case. But 95 percent of the business cases we’ve seen are built from
+the inside out, not the outside in. Consequently, they fail to account
+for critical market information, particularly customer WTP and price
+elasticity.
+If you don’t know what your customers will pay for your new
+product and how demand changes when you change the price, you
+simply don’t have a business case. Without this information, your
+business case will only tell you what you want to hear.
+Moreover, most business cases are static documents, employed to
+gain budget approval. Once the money has been allocated, they are
+quickly forgotten. That’s a very limited use of a powerful tool. A
+business case that’s a living, breathing document will help you ﬁgure
+out how to react effectively once your product hits the market and
+theory becomes practice.
+118
+Monetizing Innovation
+To create this kind of business plan, you need to gather data on
+the four pillars: value, price, cost, and volume. Then you must
+integrate them because they all affect one another. This starts with
+including the WTP data discussed in Chapter 4.
+The nine steps in this chapter will help you create an airtight
+business case.
+CEO Questions
+1. Does our new product business case include customer WTP data?
+What price elasticity is assumed in the business case? How did we
+come up with it?
+2. Are we modeling the four critical pillars in our new product
+business cases: price, value, volume, and cost? How are we making
+sure the linkages are preserved when we make changes to one of
+the elements?
+3. Are our business cases living documents that we check and update
+at project milestones? When was the last change, and why did we
+make it?
+4. Does the business case help us simulate different scenarios that may
+occur after product launch so we can make better decisions
+throughout the product’s life? What is a good example?
+5. Does the business case anticipate potential competitive responses
+to our launch and suggest how to react to them? How did we get
+to these competitive responses? What assumptions were made?
+From Hoping to Knowing
+119

@@ -1,0 +1,309 @@
+Appendix 1
+The High-Tech Market 
+Development Model
+Crossing the Chasm was first published in 1990. It was followed 
+five years later by Inside the Tornado. That book completed the 
+survey of how high-tech markets develop end to end, from the 
+Early Market across the Chasm through the Bowling Alley into 
+the Tornado and on to Mam Street. This short appendix gives 
+an overview of this material to help readers of this book put 
+crossing the chasm in a broader context.
+HIGH-TECH MARKET DEVELOPMENT MODEL
+TORNADO
+BOWLING
+ALLEY
+TOTAL
+ASSIMILATION
+244
+Appendix 1
+The High-Tech Marketing Model says there are five “states” 
+of technology adoption that a market goes through from its in­
+ception to total assimilation. Here’s how each one plays out:
+• 
+The Early Market. The customer base is made up of 
+technology enthusiasts and visionaries who are looking 
+to get out ahead of either an opportunity or a looming 
+problem. The whole product is nowhere near complete, 
+so early sales are structured as projects where,the product 
+vendor commits to do whatever it takes to make their 
+offer work in the visionary customer’s use case. Partners 
+in this context are typically large systems vendors or 
+systems integrators who have an established relationship 
+with the customer company and who are putting their 
+weight behind this effort in order to maintain that rela­
+tionship. The projects are sold via direct sales, with the 
+disruptive vendor leading the parade because it is the one 
+that has captured the imagination—and the budget—of 
+the visionary. Typically these deals are not price sensitive 
+because the visionary anticipates getting an order-of- 
+magnitude return on the investment and is willing to 
+pay up to get there with the highest quality at the fastest 
+speed. Competition does not yet exist, so resistance 
+instead comes from the status quo and all the pragmatists 
+and conservatives who believe betting this early on a dis­
+ruptive innovation is just plain crazy. The disrupter and 
+the visionary, on the other hand, are betting that they 
+can make a tenfold difference in a critical performance 
+metric, and that so doing will be a game changer.
+• 
+The Chasm. No comment. As the song says, “If you 
+don’t know me by now ...”
+Appendix 1
+245
+• 
+The Bowling Alley. This is an extension from the 
+crossing-the-chasm beachhead into adjacent market 
+segments where there is overlap with either the target 
+customer’s word-of-mouth community or the partner 
+ecosystem delivering the whole product. The tactics 
+for winning the next niche are the same as for crossing 
+the chasm, but the time and effort required diminish 
+as you are able to leverage past accomplishments. As 
+new segments mature they may develop as independent 
+niche markets or they may coalesce during the next 
+phase of market development inside the tornado. As 
+long as they are in the Bowling Alley phase, however, 
+the distribution channel will be more focused on value 
+than volume, the pricing will still maintain a premium 
+above the commodity price point, and the competitive 
+positioning can still be framed in terms of an intersec­
+tion between the domain expertise delivered by the in­
+cumbent market alternative and the performance value 
+delivered by a next-generation product alternative.
+• 
+The Tornado. This represents a dramatic “state 
+change” in the market, something like going from 
+water to steam. (In retrospect, to complete the anal­
+ogy, you could say successfully crossing the chasm 
+represented a conversion from ice to water.) The target 
+customer becomes much more generic,as whole sec­
+tors of the economy find themselves adopting all at the 
+same time. The compelling reason to buy is that the 
+new technology is now seen as must-have infrastruc­
+ture, as the examples of PCs, cell phones, laser printers, 
+websites, laptops, smartphones, and tablets all illustrate. 
+The whole product can now be assembled at the point
+246
+Appendix 1
+of sale, with partners actively adjusting their offers to 
+ensure ease of integration into each new release of the 
+underlying platform products. Partnerships convert to 
+pecking orders, with some companies getting highly 
+privileged status (Microsoft and Intel in the 1990s, 
+Google and Apple in the past decade). Distribution is 
+through the lowest-cost, furthest-reaching channel that 
+can meet the service levels required to get the offer up 
+and running. Reference pricing is no longer set by the 
+market leader but instead shifts to the low-cost com­
+modity provider—that is, products are priced “up” from 
+the bottom instead of “down” from the top. Compet­
+itive positioning is no longer based on performance 
+against targeted use cases, but instead focuses largely on 
+price-performance of the product along with overall 
+market share status of the company. It is still possible to 
+play a niche game here, but the whole product has to be 
+highly differentiated in. order to withstand the erosion 
+of commodity pricing. Winning number-one market 
+share, especially if it is based on a proprietary technol­
+ogy with high switching costs, creates enormous share­
+holder value, as we discussed at length in The Gorilla 
+Game (1999).
+• Main Street. The tornado is characterized by 
+double-digit—initially even triple-digit—growth 
+rates. These last as long as it takes to deploy the first 
+generation of infrastructure across the bulk of the land­
+scape. Then the market shifts gears to a more sustainable 
+rhythm, characterized by cyclical rather than secular 
+growth, with single-digit growth rates. The commodity 
+offer is still undifferentiated, leveraging an operational
+Appendix 1
+247
+excellence strategy to target the low-cost buyer. By con­ trast, 
+value-added offerings leverage a customer intimacy strategy to 
+target market segments with discretionary income, able to pay a 
+bit more to get a bit more. These “extra bits” fit into the existing 
+whole product without extra effort—we call this resulting 
+structure a “whole product + 1”—and typically priced as a 
+10—15 percent add-on to the base price, usually with a profit 
+margin that is five to ten times higher than the base product.
+Indeed, often the base product is subsidized to secure a follow-on 
+consumption-based revenue stream, smart­ phones being a 
+conspicuous example. The ideal channel for these offers is 
+self-serve because while the margins are great, absolute revenue 
+is smaller, and so overhead of any kind is a profit killer. 
+Competitive positioning is based either on incumbency (for brand 
+leaders or products that have high switching costs) or differentia­
+tion from the commodity offer based on some secondary attribute, 
+not typically the core functionality. This is the era when, for base 
+case functionality, “good enough” is good enough.
+As you can see, each market phase rewards a very different
+kind of approach. The approaches themselves are actually pretty
+familiar. The challenge is to get your company aligned on the
+right approach by reaching consensus about current market
+state. This can be challenging during market state transitions,
+as neither the state nor the best time to convert is obvious. The
+core lesson learned over the past two decades is this: It is better
+to make a coherent bet, everyone rowing in the same direction,
+and be wrong (because then you can change course quickly)
+248
+Appendix 7
+than to delay or waffle (because you learn nothing and get a 
+sub optimal return at every step of the way).
+Needless to say, there is a lot to dig into here. So if your 
+market and strategy need this kind of approach, you probably 
+should spring for a copy of Inside the Tornado. It makes a nice 
+companion for the book you have in hand.
+Appendix 2
+The Four Gears Model for
+Digital Consumer Adoption
+Crossing the chasm is a B2B model—unapologetically. Wher­
+ever there is heavy lifting required to bring a disruptive tech­
+nology to market, institutions must play an active role early
+in the life cycle, hence the widespread applicability of this ap­
+proach. That said, as more and more technology gets deployed,
+it becomes increasingly possible that a new disruptive innova­
+tion could proliferate without direct engagement of any kind of
+institutional support. Welcome to the world of Google, Face­
+book, YouTube, Skype, and their ilk.
+These companies also passed through an adoption process—
+that’s how they left their legions of competitors behind—but
+they did not cross a chasm to do so. Instead their journey looks
+more like a new CPG (consumer packaged goods) offering,
+where trial and test markets are followed by product launches
+and mass-market protnotions. But even here, digital is different.
+Online adoption is best characterized in terms of four fun­
+damental activities:
+250
+Appendix 2
+1. Acquire traffic
+2. Engage users
+3. Monetize their engagement
+4. Enlist the faithful
+We call this model the Four Gears, each of which makes 
+a fundamental contribution to driving a digital enterprise to 
+scale. That said, the process is anything but a linear progression 
+from Gear 1 to Gear 4. Here’s what happens instead:
+Engagement comes first. Can you create a digital (or digitally 
+mediated) experience that is sufficiently compelling and differen­
+tiated that end users will want to repeat it, hopefully many times 
+over? Such repetition establishes a pattern of consumption, the 
+first key underpinning of a mass market. You have found at least 
+a few dogs who will eat the dog food and like it.
+Once the engagement gear begins to spin, then it is time 
+to introduce the acquisition gear. These two interact with 
+each other, each modifying the other, as you seek to answer 
+the second big challenge facing your fledgling enterprise: Can 
+your compelling experience scale? This means grow both on 
+the demand side (onboarding new users, eventually those who 
+want something more or different from your initial users) and 
+on the supply side (onboarding new content or product fea­
+tures to broaden the offering from its initial footprint). Scaling 
+always requires modifying the offer, and modifying the offer 
+always has an impact on scaling (though not always a happy 
+one). This is not for the faint of heart.
+That said, there is a light at the end of the tunnel, or rather, 
+a tipping point. Tipping points are as key to consumer adoption 
+as they are to B2B. Prior to reaching one, all efforts to scale re­
+quire pumping in additional fuel—if you cut off the fuel supply, 
+Appendix 2
+251
+the system will revert to its initial state. But after you pass the 
+tipping point, the system restabilizes around a new status quo, 
+and actually pulls you forward to get you to your new “right” 
+position. You can still screw this up (just ask the investors at 
+Myspace or Groupon), but it takes some real effort to do so.
+Given this context, the goal of the acquire-engage phase of 
+the consumer life cycle is to get past this tipping point as quickly 
+as possible. On the Web, depending on the size of the target 
+market, this could call for you engaging hundreds of thousands 
+to millions of users, on your way to even more ambitious goals. 
+Where the tipping point actually comes is not predictable in 
+advance—it only shows up in the rearview mirror—but when 
+it does, when you feel the world pulling you forward rather than 
+pushing back, then, if you have not done so already, you want 
+to activate your enlistment gear.
+Enlisting 
+the 
+faithful 
+involves 
+“hyper-engaging” 
+with 
+a small but vocal minority of consumers who have already 
+demonstrated a propensity to evangelize and proselytize on 
+your behalf. They do this because they believe in you and what 
+you are doing so much they have made it part of their own iden­
+tity. You don’t pay them—indeed, to do so would be insulting; 
+they are doing this because it has become part of who they are. 
+It just changes the whole dynamic of the situation. This is why 
+Simon Sinek says in his much-viewed TED talk on innovation 
+that the goal of an innovative company is not to do business 
+with customers who need what you have (which is indeed the 
+goal of most established enterprises, and should be) but rather to 
+do business with customers who believe what you believe.
+A consumer’s degree of enlistment manifests itself in three 
+states. At its highest level, it’s the kind of evangelical behavior 
+we are talking about here. This is the key to viral marketing, 
+252
+Appendix 2
+where your cost of customer acquisition plummets because your 
+existing customers act, as your best marketing campaign. Think 
+of this as the equivalent to an NPS (Net Promoter Score) of 9 or 
+10 (“I would definitely recommend this to a friend”).
+A lesser state of enlistment, one more akin to an NPS of 
+7 or 8 (“I would probably recommend this to a friend”), does 
+not fuel viral marketing, but it does ensure consumer retention. 
+This is equivalent to an entrenched brand preference—when I 
+buy beer it is Heineken or Beck’s Non-Alcoholic. I don’t evan­
+gelize either brand, but they always get my business. This is the 
+level of enlistment needed to forestall churn.
+When enlistment falls below this level, one now more akin 
+to an NPS score of 1 through 6 (“I would have reservations 
+about recommending this to a friend”), that can signal anything 
+from openness to switching to outright defection. Indeed, at 
+the bottom of the range, it likely indicates counterevangelism, 
+which is about as bad as it gets in consumer marketing, as in the 
+2004 film about McDonald’s, Super Size Me.
+In a consumer model, the goal of the enlistment gear is, 
+at minimum, to keep churn below, say, 2 percent per month 
+(giving you a lifetime customer value of about four years), and 
+more positively, during the growth phase of the category, to 
+catapult you into hypergrowth. You begin to work the enlist­
+ment gear, therefore, once you are confident that your engage­
+ment and acquisition gears are humming, seeking to use its 
+acceleration to get you past your anticipated tipping point.
+All this leads us to the fourth and final gear, monetization. 
+Whereas crossing the chasm is definitely a pay-as-you-go model, 
+the four gears represent a “URL” approach (not uniform resource 
+locator, but rather “Ubiquity now, Revenue Later”). Most of the 
+Appendix 2
+253
+great consumer Internet successes in the first decade of this cen­
+tury followed this approach, introducing the monetization gear 
+very late in the game, in some cases not until after they had 
+sold themselves to a monetization engine (YouTube to Google, 
+Instagram to Facebook, Tumblr to Yahoo!).
+The key idea here is that monetization, regardless of when 
+it is introduced, will slow down the other three gears. If you 
+invoke too early or too swiftly, it is like popping the clutch 
+on a manual transmission—you stall the engine. The art in­
+stead is to feather in the monetization gear in such a way as to 
+minimize and absorb its retarding effects, ramping the engine 
+back up to full speed over the least amount of time possible. In 
+that context, the underlying goal is to determine the optimal 
+pricing for both present and future returns, a never-ending set 
+of experiments that must continually adapt as competition and 
+innovation restructure the landscape.
+So those are the four gears. While they evolved initially in­
+dependently from, and in some sense in contradistinction to, 
+the crossing-the-chasm model, going forward I believe the two 
+will increasingly be invoked in a kind of pincer movement, in 
+which grassroots movements will generate waves of mass adop­
+tion, and institutional marketing will find ways to invest and 
+capitalize upon them. This will call on management teams to 
+pursue two courses in parallel, with the B2C course in the lead, 
+since until there is proven traction with the four gears, there 
+is no material to feed the monetization engine. This pattern 
+seems most likely to emerge in areas where public and private 
+interests and funding intersect, such as health care, education, 
+and public services, where both user and institutional behavior 
+play seminal roles.

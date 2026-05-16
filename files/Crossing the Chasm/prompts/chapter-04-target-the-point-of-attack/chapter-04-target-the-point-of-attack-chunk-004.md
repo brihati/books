@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-04-target-the-point-of-attack",
+  "chunk_id": "chapter-04-target-the-point-of-attack-chunk-004",
+  "source": {
+    "chapter_title": "Target the Point of Attack",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt",
+    "source_pages": "111-134",
+    "char_start": 20332,
+    "char_end": 28085,
+    "checksum": "969e9f715a8b7cb3"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+to a fixture wholesaler who supports 3-D printing. The whole­ saler works with a freelance designer who is able to scan Da­ vid’s drawing and convert it into a CAD file. At the same time, the wholesaler works with David to select an appropri­ ate material and finish for the fabricated fixture. Then both the CAD file and the material are fed into the printer, and out comes a finished fixture. If the client still wants to tweak it some more, this can be readily done by updating the file and printing it out again. Further, by adjusting the parameters in the file, fixtures of different scales can be produced, all shar­ ing the same design. Enabling factors: Three-D printers are able to manufac­
+
+ture upon demand. This eliminates both the expense and the compromise of having to select from premanufactured inventory. They have exceptional flexibility because their two key inputs—CAD files and printing material—are both readily modifiable to meet a wide variety of design require­ ments. CAD software systems running on ordinary PCs are now sufficiently powerful that they can adapt designs readily, and the 3-D printers, priced in the same range as PCs, are sufficiently fast to produce the artifacts in a matter of a few hours. 118 Crossing the Chasm Economic rewards: David’s client is thrilled with the result. Not only does she gladly pay the mark-up on the fixtures; she is also happy to pay his consulting designer fee. In fact, she is thinking about redoing the fixtures in the rest of the home. The wholesaler is delighted to have produced a showcase result, not to mention relieved not to have to carry a large inventory of product to support a relatively small stream of actual sales. The lighting fixture manufacturers meanwhile are seeing the writing on the wall and are beginning to publish designs suit­ able for 3-D printing. These will have lower prices, to be sure, but much higher margins, so they hope at the end of the day to make more money on less capital than in the past. And because the designs are just software, it is much easier to display them virtually over the Web, cutting out the need to man booths at expensive trade shows. Processing the Scenario: The Market Development Strategy Checklist Target customer characterization is at the core of applying market segmentation strategy to the problem of crossing the chasm. It supplies the “data.” Assume that we have spent a day with a group often or so field-sawy members of the 3-D print­ ing company compiling a library of, say, twenty to forty of these scenarios. In this library we have captured actual use cases from every current customer, every interesting prospect whether won, lost, or in waiting, as well as other interesting prospects that we might know about from past lives. This is not a formal segmentation survey—they take too long, and their output is too dry. Instead, it is a tapping into Target the Point of Attack 119 the fund of anecdotes that actually carries business knowledge in our culture. Like much that is anecdotal, these scenarios will incorporate fictions, falsehoods, prejudices, and the like. None­ theless, they are by far the most useful and most accurate form of data to work with at this stage in the segmentation process. Compared to SIC codes, for example, they are paragons of ac­ curacy and integrity. Nonetheless, they are still crude at best, and now it is time to submit them to a refinery—the Market Development Strategy Checklist. This list consists of a set of issues around which go-to-market plans are built, each of which incorporates a chasm-crossing factor, as follows: • Target customer • Compelling reason to buy • Whole product • Partners and allies • Distribution • Pricing • Competition • Positioning • Next target customer Processing the scenarios consists of rating each scenario against each of these factors. The process actually takes place in two stages. In Stage 1, all scenarios are rated against four “showstop­ per” issues. Low scores in any one of these typically eliminates the scenario from future consideration as the beachhead segment. That is, the niche may be a good one to pursue after the chasm has been crossed, but it is not a good target for the crossing itself Scenarios that pass the first cut are rated against the remaining 120 Crossing the Chasm five factors. At both stages scores are awarded for each factor, and the scenarios are rank ordered by score. At the end of the process, top-ranked scenarios are taken to be the top chasm­ crossing targets. They are further discussed until the team com­ mits to one—and only one—beachhead target. The italics immediately above are meant to answer the single most asked question of the Chasm Group: Can’t we go after more than one target? The simple answer is no. (The more complex answer is also no, but it takes longer to explain.) Just as you cannot hit two balls with one bat swing hit two birds with one stone, or brush your teeth and your hair at the same time, so you cannot cross the chasm in two places. We’ve already discussed this, of course, but trust me, one cannot make this point too often. Turning back to the checklist, the four factors that raise showstopper issues for crossing the chasm are as follows: target customer: Is there a single, identifiable economic buyer for this offer, readily accessible to the sales channel we intend to use, and sufficiently well funded to pay the price for the whole product? In the absence of such a buyer, sales forces waste valuable time evangelizing groups of people trying to generate a sponsor. Sales cycles drag on forever, and the project can be shut down at any time. compelling reason to BUY: Are the economic consequences sufficient to make any reasonable economic buyer anxious to fix the problem called out in the scenario? If pragmatists can live with the problem for another year, they will. But they will con­ tinue to be interested in learning more. So your salespeople will be invited back again and again—they just won’t return with Target the Point of Attack 121 any purchase orders. Instead, they will report that the customer said, “Great presentation!” What the customer was really saying was “I learned some more and I didn’t have to buy anything.” whole product: Can our company with the help of partners and allies field a complete solution to the target customer’s com­ pelling reason to buy in the next three months such that we can be in the market by the end of next quarter and be dominating the market within twelve months thereafter? The clock is ticking. We need to cross now, which means we need a problem we can solve now. Any thread left hanging could be the one that trips us up. competition: Has this problem already been addressed by an­ other company such that they have crossed the chasm ahead of us and occupied the space we would be targeting? Dick Hack- born, the HP executive who led the move into laser printers, had a favorite saying: “Never attack a fortified hill.” Same with beachheads. If some other company got there before you, all the market dynamics that you are seeking to make work in your favor are already working in its favor. Don’t go there. When scenarios are scored against these four factors, 1 to 5, the worst aggregate score they can get is 4, the best 20, with higher-rated scenarios preferred. But there is an additional caveat. A very low score, relative to the others, in any of these factors almost always is a showstopper. So it is not just total score alone that matters. When in doubt, favor scenarios that have a high-rated compelling reason to buy. If they have already attracted a competitor, see if you can’t end-run them. Expect
+>>>

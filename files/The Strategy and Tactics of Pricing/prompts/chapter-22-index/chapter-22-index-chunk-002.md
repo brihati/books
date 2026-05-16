@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-strategy-and-tactics-of-pricing",
+  "chapter_id": "chapter-22-index",
+  "chunk_id": "chapter-22-index-chunk-002",
+  "source": {
+    "chapter_title": "Index",
+    "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/22 - Index.txt",
+    "source_pages": "338-352",
+    "char_start": 6299,
+    "char_end": 14154,
+    "checksum": "dd3f1b882f51f86c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+h 301 discounting: ‘early bird’ discounts 148; as compensation for failure to perform 113–14; order discounts 100; pricing power and 108; raising costs to competitors of 161–2; step discounts 100–101; student rush discount 210–11; volume, discounting for 99–100, 113 discrimination, ethics and 303 Disney 142; Theme Parks 21 Index 319 Disposable Contact Lens Antitrust Litigation (2015) 312n31 Distimo 92 distribution channel reevaluation 247–8 DNA analysis 36, 37–9 Dolan, Robert J. 105n22 Douglas, Justice William O. 293 Dow Corning 140 Drake, Elizabeth 229n1 Drucker, Peter F. 24n15 Dun & Bradstreet 206n38 DuPont 309 Dutta, S., Bergen, M., Levy, D., Ritson, M. and Zbaracki, M. 265, 291n6 E E. I.
+
+Du Pont de Nemours & Co. v. FTC (1984) 309, 316n60 E & L Consulting, Ltd. v. Doman Indus. Ltd. (2006) 315–16n55–6 eBay 158 e-books, price sensitivity of 184–5 economic downturn, policies for pricing in 128–9 economic value 26–55; Apple Stores ®, proﬁ tability and growth of 27; “box- pusher” business model 34; competitive reference prices 30, 31–2, 33; competitive reference prices, estimation of 31–3; conjoint (tradeoff) analysis 33–4, 41–3, 44–5; cost drivers 35; customer apathy 31; customer value modeling (CVM) 46–7; customer value modeling (CVM), difference from EVE model 47; customers as information resource 32, 35; data availability, difﬁ culties of 31; detailed segment descriptions, creation of 53; differential value algorithms 34–6; differentiated product offerings 28; differentiation value 30; differentiation value drivers 37–9; discriminating value drivers, identiﬁ cation of 50; economic value 28; Economic Value Estimation (EVE ® ) Model 29, 45, 47; estimation of 30–47; estimation of, price communication and 64; estimation of monetary value illustration 36–41; estimation of psychological value illustration 42–5; exchange value 28; in-depth customer interviews 35; labor savings 37, 38–9; market segmentation, value-based 47–54; messages about (low-involvement goods) 61; monetary value 28–9, 33–6; monetary value, estimation of 33–6; monetary value, estimation of, illustration of 36–41; monetary value, quantitative research techniques 33–4; NBCA (Next Best Competitive Alternative) 30, 36; non-normalized reference price data 32; normalized reference data 33; operational constraints and advantages, determination of 50; opportunity costs 37, 38, 39; price structure and 76; pricing, role of value in 27–30; primary and secondary segments, creation of 50–52; psychological value 28–9, 33–4; psychological value, estimation of 41–2; psychological value, estimation of, illustration of 42–5; psychological value, quantitative research techniques 41; quality control labor savings 38–9; quantitative data, cluster analysis of 50; reference price data 31–3; reference product 30, 40, 46, 47; reference value (and price) 29–30, 31–2; revenue drivers 35; secondary price data 31; segment metrics and fences, development of 53–4; segmentation criteria, determination of 49; segmentation-modeling methodologies 48–9; shortcuts, high cost of 45–6; strategic overlap in value-based market segmentation 51; summary 54; “systems integrator” business model 34; utility, value and 27; value, role in pricing 27–30; value-based market segmentation 47–54; Value Cascade 27; value driver algorithms 34–6; value drivers 37–9; value estimation 26, 30, 32–3, 36–42, 42–5, 46–7; willingness-to-pay 41–2, 43–4 Economic Value Estimation (EVE ® ) Model see EVE Einstein, Albert 26, 54n1, 173, 204n1 Eli Lilly 86 Elrod, Terry 204n3 end-beneﬁ t effect 67–8 end-beneﬁ t importance 147 Enron 297 Enterprise Holdings 21 Enterprise Rent-A-Car 171 Eppen, G.D., Hanson, W.A. and Martin, R.K. 104n4 ethics, law and 293–316; absolute conﬁ nement 307; allowances, provision of 305;  American Tobacco Co. v. United States (1946) 311n21; antitrust law 294, 296, 297, 298, 299, 302, 309, 312n30; Antitrust Modernization Commission Report (2007) 313n35; area- of-primary responsibility 315n52;  Baby Food Antitrust Litigation (1999) 311n22; Brand Name Prescription Drugs Litigation (1999) 313n37;  Brooke Group v. Brown & Williamson Corp. (1993) 314n42, 316n59; Business Electronics Corp. v. Sharp Electronics Corp. (1988) 312n29; changing conditions 305;  Chicago Board of Trade v. United States (1918) 311n24; competitive injury 303–4, 306; Comprehensive Crime Control Act (1984) 310n9;  Continental T.V., Inc. v. GTE Sylvania Inc. (1977) 315n51; cost justiﬁ cation 304; Criminal Fine Improvements Act (1987) 310n9; customer restrictions 307;  Darush MD APC v. Revision LP (2013) 311–12n26; direct dealing programs 301; direct dealing programs, resellers choice approach 301; discrimination 303;  Disposable Contact Lens Antitrust Litigation (2015) 312n31; Index 320 E. I. Du Pont de Nemours & Co. v. FTC (1984) 309, 316n60;  E & L Consulting, Ltd. v. Doman Indus. Ltd. (2006) 315–16n55–6; ethical constraints on pricing 293–6; ethical opinions on pricing, divergence in 293; ethics in pricing, lack of information on 293; exclusive dealing 308, 315n55; exclusive distributorship 307; facilities, provision of 305;  FTC v. Borden Co (1966) 314n41; full-line forcing 308; goods 303; goods, services and, distinction between 314n40; horizontal price ﬁ xing 299; indirect purchasers 306; Interstate Circuit, Inc. v. United States (1939) 311n21;  Johnson & Johnson Vision Care, Inc. v. Reyes (2016) 312n31; Justice Department (US), enforcement powers of 297, 302, 309, 316n61;  Lake Hill Motors, Inc. v. Jim Bennett Yacht Sales, Inc. (2001) 312n33; Leegin Creative Leather Prods., Inc. v. PSKS (2007) 299–300, 311–12n25–8, 312–13n32; legal framework for pricing 296–8; like grade and quality 303; meeting competition 304–5; Minimum Advertised Price (MAP) programs 301–2, 313n34; monopolization 316n58; National Association of Attorneys General (NAAG) 310n11;  National Collegiate Athletic Association v. Board of Regents (US Supreme Court) 299;  New York v. Herman Miller, Inc. (2008) 311–12n26; non-price incentives 308; non-price variables, use in support of pricing goals 306–8;  Paciﬁ c Bell Tel. Co. v. linkLine Communications, Inc. (2009) 316n59; point-of-sale (POS) reporting 302; predatory pricing 308–9; predatory pricing, burden of proof on 309; price and promotional discrimination 302–6; price competition 313n34; price discrimination 303–4, 313n35; price discrimination, defenses against 304–5; price discrimination, elements of unlawful practice 303–4; price discrimination, Robinson-Patman Act (1936) and 302, 303, 304, 305, 313–14n35–8; price ﬁ xing, horizontal 299; price ﬁ xing, or encouragement in 298–9; price ﬁ xing, vertical 299–301, 311n17; price signaling 309, 311n20, 316n61; pricing, ethical constraints on 293–6; pricing, legal framework for 296–8; pricing practices, effect of Sarbanes- Oxley on 297–8; product restrictions 308; promotional discrimination 305–6; promotional discrimination, defenses against 306; promotional discrimination standards, ﬂ exibility available under 306; reasonable probability of competitive injury 303–4; resale of supplier’s goods, promotional discrimination in 305–6; resale price ﬁ xing or encouragement 299–302; resale price maintenance (and encouragement) 301–2; Robinson-Patman Act (1936) 302, 303, 304, 305, 306, 308, 313–14n35–8, 314–15n44–6, 314n40; safe harbors 297, 310n8; sales to two or more purchasers 303; Sarbanes-Oxley Act (2002) 310n12; Sarbanes-Oxley Act (2002), effect on pricing practices 297–8; Securities Exchange Act (1934) 311n13; services, provision of 305; Sherman Act (1890) 298, 299, 300, 309, 310n9–10, 311n19, 313n33, 315n54–5, 316n58;  Spectrum Sports, Inc. v. McQuillan (1993) 316n58;  State Oil Co. v. Khan (1997)
+>>>

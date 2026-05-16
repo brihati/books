@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-015",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 97981,
+    "char_end": 105733,
+    "checksum": "3bb543ef903fc130"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s the preceding pages indicate, there is clearly a lot of value in the Technology Adoption Life Cycle as a marketing model. By 68 Crossing the Chasm isolating the psychographics of customers based on when they tend to enter the market, it gives clear guidance on how to de­ velop a marketing program for an innovative product. The basic flaw in the model, as we have said, is that it implies a smooth and continuous progression across segments over the life of a product, whereas experience teaches just the opposite. Indeed, making the marketing and communications transition between any two adoption segments is normally excruciatingly awkward because you must adopt new strategies just at the time
+
+you have become most comfortable with the old ones. The biggest problem during this transition period is the lack of a customer base that can be referenced at the time of making the transition into a new segment. As we saw when we redrew the Technology Adoption Life Cycle, the spaces between seg­ ments indicate the credibility gap that arises from seeking to use the group on the left as a reference base to penetrate the segment on the right. In some cases, the basic affinities of the market keep groups relatively close together. Early-adopting visionaries, for exam­ ple, tend to keep in touch with and respect the views of tech­ nology enthusiasts; this is because they need the latter to serve as a reality check on the technical feasibility of their vision and to help evaluate specific products. As a result, enthusiasts can speak to at least some of the visionaries’ concerns. In a comparable way, conservatives look to pragmatists to help lead them in their technology purchases. Both groups like to see themselves as members of a particular industry first, businesspeople second, and purchasers of technology third. Pragmatists, however, have more confidence in technology as a potential benefit and in their ability to make sound technology purchases. Conservatives are considerably more nervous about High-Tech Marketing Enlightenment 69 both. They are willing to go along, up to a point, with pragma­ tists they respect, but they are still slightly unnerved by pragma­ tists’ overall self-confidence. So, once again, the reference base has partial value in transitioning between adoption segments. The significance of this weakening in the reference base traces back to the fundamental point made about markets in the introduction: Namely, that markets—particularly high-tech markets—are made up of people who reference each other during the buying decision. As we move from segment to segment in the technology adoption life cycle, we may have any number of ref­ erences built up, but they may not be of the right sort. Nowhere is this better seen than in the transition between visionaries and pragmatists. If there are to some extent minor gaps between the other adoption groups, between visionaries and pragmatists there is a great—and to a large extent, greatly ignored—chasm. If we look deep into that chasm, we see four fundamental characteristics of visionaries that alienate pragmatists. Visionaries lack respect for the value of colleagues’ experi­ ences. Visionaries are the first people in their industry segment to see the potential of the new technology. Fundamentally, they see themselves as smarter than their opposite numbers in com­ petitive companies—and quite often they are. Indeed, it is their ability to see things first that they want to leverage into a com­ petitive advantage. That advantage can only come about if no one else has discovered it. They do not expect, therefore, to be buying a well-tested product with an extensive list of industry references. Indeed, if such a reference base exists, it will almost certainly turn them off, indicating that for this technology, at any rate, they are already too late. Pragmatists, on the other hand, deeply value the experience 70 Crossing the Chasm of their colleagues in other companies. When they buy, they expect extensive references, and they want a good number to come from companies in their own industry segment. This, as we have already noted, creates a catch-22 situation; since there are usually only one or two visionaries per industry segment, how can you accumulate the number of references a pragma­ tist requires, when virtually everyone left to call on is also a pragmatist? Visionaries take a greater interest in technology than in their industry. Visionaries are defining the future. You meet them at technology conferences and other futurist forums where people gather to forecast trends and seek out new market opportunities. They are easy to strike up a conversation with, and they under­ stand and appreciate what high-tech companies and high-tech products are trying to do. They want to talk ideas with bright people. They are bored with the mundane details of their own industries. They like to talk and think high tech. Pragmatists, on the other hand, don’t put a lot of stake in fu­ turistic things. They see themselves more in present-day terms, as the people devoted to making the wheels of their industry turn. Therefore, they tend to invest their convention time in industry-specific forums discussing industry-specific issues. Where pragmatists are concerned, sweeping changes and global advantages may make for fine speeches, but not much else. Visionaries fail to acknowledge the importance of existing product infrastructure. Visionaries are building systems from the ground up. They are incarnating their vision. They do not expect to find components for these systems lying around. They do not expect standards to have been established— indeed, they are planning to set new standards. They do not expect support groups to be in place, procedures to have been High-Tech Marketing Enlightenment 71 established, or third parties to be available to share in the workload and the responsibility. Pragmatists expect all these things. When they see visionaries forging their own paths with little or no thought of connecting with the mainstream practices in their industry, they shudder. Pragmatists have based their careers on such connections. Once again, it is painfully obvious that visionaries, as a group, make a very poor reference base for pragmatists. Visionaries have little self-awareness about the impact of their disruptiveness. From a pragmatist’s point of view, vision­ aries are the people who come in and soak up all the budget for their pet projects. If the project is a success, they take all the credit, while the pragmatists get stuck trying to maintain a system that is so “state-of-the-art” no one is quite sure how to keep it working. If the project fails, visionaries always seem to be a step ahead of the disaster, getting out of town while they can, and leaving the pragmatists to clean up the mess. Vision­ aries, successful or not, don’t plan to stick around long. They see themselves on a fast track that has them leapfrogging up the corporate ladder and across corporations. Pragmatists, on the other hand, tend to be committed long term to their profession and the company at which they work. They are very cautious about grandiose schemes because they know they will have to live with the results. All in all, it is easy to see why pragmatists are not anxious to reference visionaries in their buying decisions. Hence the chasm. This situation can be further complicated if the high- tech company, fresh from its marketing successes with vision­ aries, neglects to change its sales pitch. Thus, the company may be trumpeting its recent success at early test sites when what the pragmatist really wants to hear about are up-and-running 72
+>>>

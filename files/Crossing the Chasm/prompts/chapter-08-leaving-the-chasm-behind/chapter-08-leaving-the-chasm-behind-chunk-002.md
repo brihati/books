@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-08-leaving-the-chasm-behind",
+  "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-002",
+  "source": {
+    "chapter_title": "Leaving the Chasm Behind",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt",
+    "source_pages": "218-246",
+    "char_start": 6240,
+    "char_end": 13979,
+    "checksum": "29c1fce0e437f03f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ation. In building an early market, the fundamental return on investment is investor risk re­ duction, accomplished through converting an amalgam of tech­ nology, services, and ideas into a replicable deploy able offer­ ing and proving that there are customer use cases that create a demand for this offer. Early market revenues are one measure of Leaving the Chasm Behind 217 this demand, but they are typically not—nor are they expected to be—a source of profit. As a result, the early market organiza­ tion is not required to adopt the discipline of profitability. Nor does the pre-chasm organization motivate itself by profit­ ability, or typically any other financial goal. Oh, to be sure, there
+
+are the get-rich dreams that float in and out of idle conversation. But there are much headier rewards closer at hand—the freedom to be your own boss and chart your own course, the chance to explore the leading edge of some new technology, the career­ opening opportunity to take on far more responsibility than any established organization would ever grant. These are what really drive early market organizations to work such long hours for such modest rewards—the dream of getting rich on equity is only an excuse, something to hold out to your family and friends as a rationale for all this otherwise crazy behavior. So early market entrepreneurs are not called to focus on, nor are they oriented toward, making money. This has enor­ mous significance, as most management theory assumes a profit motive present, serving as a corrective check against otherwise alluring tactics. When that motive is not present, people make financial commitments that have consequences they either do not, or do not care to, foresee. Although this comes in many and varied forms, perhaps its most prevalent one is the hockey stick forecast of revenue growth. Entrepreneurs may be many things when it comes to finan­ cial issues, but they are typically not slow on the uptake. If ven­ ture capitalists are the ones with the money, and a hockey stick forecast is one of the rules you follow to get that money, then they will be sure to follow those rules. And so entrepreneurs raise capital using “hockey stick” graphs of revenue attainment. 218 Crossing the Chasm That is, they bring forward a business plan that shows no rev­ enue development for some period of time—as long as they possibly can defer—after which there is a sharp inflection in the curve, and rapid, continuous, and what any sane person would call miraculous revenue growth from there on. As a form, it is as precise and conventional as a love sonnet—and just as likely to get one into trouble. Hockey stick curves are created by spreadsheets, a software tool that many have argued has driven some of the worst invest­ ment decisions in our sector’s history. It is so easy to increment a revenue number by a percentage and just let the software take it from there. Now in theory, this revenue line approximates a real profile of how the company could capitalize on a develop­ ing market opportunity. As such, it would serve as the “master line” in the spreadsheet, the one to which all others must ac­ count. That is how profitable operations work. In fact, however, the revenue line is a slave—and to not just one but two masters. At the front end, it is slave to the entre­ preneur’s cost curve, and at the back, to the venture capitalist’s hockey stick expectations. Revenue numbers, under this meth­ odology, are . . . well, whatever they have to be. Once that sum is identified, then market analyst reports are scoured for some appropriate citations, and any other source of evidence or credi­ bility is enlisted, to justify what is a fundamentally arbitrary and unjustifiable projection of revenue growth. Now, if the current model of high-tech market development were not flawed, this might work, or at least work better or more often. But in fact, the revenue development that actually occurs looks more like a staircase than a hockey stick. That is, there is an initial period of rapid revenue growth, representing the development of the early market, followed by a period of Leaving the Chasm Behind 219 slow to no growth (the chasm period), followed by a second phase of rapid growth, representing return on one’s initial mainstream market development. This staircase can continue indefinitely, with the flat periods representing slower growth due to transitioning into adjacent mainstream segments, and the rapid rises representing the ability to capitalize on those efforts. As more and more segments are served, sooner or later the ups and downs begin to cancel each other out, and one can achieve the less bumpy results that Wall Street greatly prefers. (In fact, only the most successful high-tech companies have achieved such a state; most continue to fluctuate more dramatically than the financial community can understand, with the result that their stocks routinely take a vicious beating at the slightest indi­ cation of bad news.) All this is well and good. The staircase model is perfectly viable—unless you have mortgaged your stake in the company on making the hockey stick scenario come true. That, unfortunately, is precisely what most high-tech funding plans commit to. And when the hockey stick scenario does not come true, and the mort­ gage comes due, the founder’s equity gets radically diluted, things fall apart, and the company dies in the chasm. That is the course sketched out in the high-tech parable in chapter 1 of this book. Now, the venture community has long been aware of this problem. Cynics in high tech believe they count on it—that’s how the “vulture capitalists” take over the company from the unwitting entrepreneur. But the truth is, such a strategy is a lose-lose proposition, and most investors know it. They may call it “the valley of death” instead of the chasm, but they know it is there. All they have to do is look at their own portfolios. The question now becomes, if we have the chasm model to work with, what can we do differently? This question really 220 Crossing the Chasm breaks into two parts—one directed to the financial commu­ nities that provide the sources of capital, and the other to the high-tech executives who provide the sources of management. For the former, the key issue is how to reformulate its concepts of valuation and expected rate of return, and for the latter, it is when to spend capital and when to adopt the discipline of prof­ itability. Let’s look at both of these more closely. The Role of the Venture-Financing Community All investment is a bet on performance against competition within time. What the chasm model surfaces is a need to re­ think these variables. From the investment point of view, the most pressing question initially is, How wide is the chasm? Or, to put this in investment terms, How long will it take before I can achieve a reasonably predictable ROI from an acceptably large mainstream market? The simple answer to this question is, as long as it takes to create and install a sustainable whole product. The chasm model asserts that no mainstream market can occur until the whole product is in place. A reasonable corollary, I believe, is that once the whole product is in place—m other words, has become institutionalized—the market will develop quickly— normally, although not necessarily, around the company that drove and led the whole product effort. Can we predict how long this will take? I think so. By ana­ lyzing the target customer and the compelling reason to buy, and then dissecting all the components of the whole product, we can reduce this process to a manageable set of performance factors, Leaving the Chasm Behind
+>>>

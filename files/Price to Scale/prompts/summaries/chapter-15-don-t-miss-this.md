@@ -1,0 +1,265 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-15-don-t-miss-this
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-15-don-t-miss-this-chunk-001",
+    "source": {
+      "chapter_title": "Don't Miss This",
+      "char_end": 1574,
+      "char_start": 0,
+      "checksum": "c80aeb8612c076a3",
+      "source_pages": "173-174",
+      "source_path": "/Users/sachin/books/files/Price to Scale/chapters/15 - Dont Miss This.txt"
+    },
+    "summary": "Expansions and renewals are an underutilized growth lever in software GTM strategies. Data shows that upsells and renewals have substantially lower CAC compared to new customer acquisition, and research demonstrates that a 1% increase in monetization drives the most significant increase in profits.",
+    "key_points": [
+      "Expansions and renewals has been historically ignored in software GTM motions",
+      "For companies with strong customer bases, expansions and renewals is a growth lever worth its weight in gold",
+      "Upsells and renewals have substantially lower CAC compared to new customer acquisition",
+      "A 1% increase in monetization caused the most significant increase in profits",
+      "GTM teams have historically not been well structured to prospect into existing customers",
+      "Customer Success teams typically gatekeep relationships with existing customers"
+    ],
+    "arguments": [
+      "Expansions and renewals should be a priority growth lever for established companies",
+      "Monetization improvements have greater profit impact than customer acquisition volume"
+    ],
+    "examples": [],
+    "stories": [],
+    "definitions": [
+      "Expansions and renewals: growth lever focused on upselling and renewing existing customer relationships"
+    ],
+    "names": [
+      "Patrick Campbell",
+      "Price Intelligently",
+      "Pacific Crest Securities"
+    ],
+    "dates": [],
+    "numbers": [
+      "4th: the fraction by which upsells and renewals have lower CAC compared to new customer acquisition",
+      "1%: increase in monetization that caused the most significant increase in profits"
+    ],
+    "places": [],
+    "terms": [
+      "CAC (Customer Acquisition Costs)",
+      "GTM (Go-To-Market)",
+      "SaaS",
+      "upsells",
+      "renewals",
+      "monetization",
+      "Customer Success (CS)",
+      "multi-product companies"
+    ],
+    "quotes": [
+      "for companies that have a strong customer base, it is a growth lever that is worth its weight in gold",
+      "a 1% increase in monetization caused the most significant increase in profits"
+    ],
+    "actionable_lessons": [
+      "Establish GTM structures that can prospect seamlessly into existing customers",
+      "Prioritize monetization improvements alongside new customer acquisition",
+      "Align Marketing, Sales, and Customer Success teams to enable expansion revenue"
+    ],
+    "open_questions": [
+      "How can GTM teams be better structured to prospect into existing customers?",
+      "What strategies can bridge the Customer Success gatekeeping challenge?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-15-don-t-miss-this-chunk-002",
+    "source": {
+      "chapter_title": "Don't Miss This",
+      "char_end": 8524,
+      "char_start": 963,
+      "checksum": "9a60ae9e1b2d939c",
+      "source_pages": "177-184",
+      "source_path": "/Users/sachin/books/files/Price to Scale/chapters/15 - Dont Miss This.txt"
+    },
+    "summary": "Guidance on structuring pricing models to support upsells, renewals, and customer expansion through careful package design, price point strategy, and contract language for volume usage.",
+    "key_points": [
+      "GTM teams (Marketing and Sales) have historically not been well-structured to prospect seamlessly into existing customers",
+      "Upsells happen naturally as a consequence of increased customer needs rather than multi-channel marketing pushes",
+      "Pricing model redesigns must be tackled with seriousness and different lens given potential impact on revenue and profit growth",
+      "Package design affects downstream upsell opportunities",
+      "Existing customers may need special treatment distinct from new customer pricing",
+      "Volume upsells are often missed in early GTM stages",
+      "Product instrumentation is critical to meter usage for overage pricing"
+    ],
+    "arguments": [
+      "Being too rigid with good-better-best packaging can block downstream upsell opportunities by bundling features that were traditionally upsold",
+      "Applying same rules to existing and new customers can result in difficult expansion and renewal conversations",
+      "Creating all-or-nothing propositions for upgrades + add-ons may preclude upsells when combined costs are prohibitive",
+      "Pricing changes that introduce commoditization responses or downmarket entry create cannibalization risk",
+      "Existing customers comparing new packages may churn from higher margin plans if perceiving better deals elsewhere",
+      "List price increases of 2-3x for existing customers requiring premium plan upgrades can cause customer resistance"
+    ],
+    "examples": [
+      "Account Managers ('farmers') as counterparts to New Business 'hunters' in larger organizations",
+      "Companies >100M ARR can map customer sizes to new graded plans with incentives to migrate",
+      "Creating special upsell bundles or granular feature menus only for current customers to ease natural transitions",
+      "Responses to commoditization reducing prices for existing plans while creating premium differentiated offerings",
+      "Selling same product via channel partners at heavily discounted 'wholesale' prices causing cannibalization"
+    ],
+    "stories": [],
+    "definitions": [
+      "Account Manager: 'farmer' role in larger organizations, counterpart to New Business 'hunters'",
+      "Shelfware: unused features bundled into a package after deal is sold",
+      "Overage pricing: charging for usage exceeding contracted amounts to incentivize moves to higher value tiers",
+      "Cannibalization: existing customers churning from higher margin plans for lower margin alternatives"
+    ],
+    "names": [
+      "Johnny Cheng",
+      "Jan Pasternak",
+      "Gainsight",
+      "Citrix",
+      "Salesforce",
+      "Zendesk"
+    ],
+    "dates": [],
+    "numbers": [
+      "2-3x",
+      "100M ARR"
+    ],
+    "places": [],
+    "terms": [
+      "GTM teams",
+      "Customer Success (CS) team",
+      "good-better-best packaging",
+      "deal velocity",
+      "upsell",
+      "renewal",
+      "expansion",
+      "ASP (Average Selling Prices)",
+      "market share",
+      "list price",
+      "volume upsells",
+      "overage pricing",
+      "churn",
+      "cross-sells",
+      "pricing model",
+      "package design",
+      "customer gatekeeping"
+    ],
+    "quotes": [
+      "Caution on being too rigid",
+      "If you bundle in features that have been traditionally upsold or that lie unused as shelfware once a deal is sold, you've potentially blocked downstream upsell opportunities",
+      "Treat existing customers as special",
+      "Beware of cannibalization",
+      "Customers will be less likely to want to downgrade if they think the new plan is different from what they have",
+      "product isn't instrumented properly to meter usage",
+      "Not having this language is bound to cause pain where every renewal opportunity becomes a challenging negotiation"
+    ],
+    "actionable_lessons": [
+      "Design packages to avoid bundling traditionally upsold features into base tiers",
+      "Create special upsell bundles or granular feature menus only for current customers to ease transitions",
+      "Consider mapping customer sizes to new graded plans with migration incentives for large customer bases",
+      "Use different nomenclature and service offerings to make new plans feel distinct and prevent downgrades",
+      "Implement overage pricing language in all new client and renewal contracts with agreed-upon rates",
+      "Instrument products properly to meter usage and flag upsell motions when accounts exceed usage expectations",
+      "Provide explicit no-downgrade policies where existing customers are not shown lower list prices than currently paying",
+      "Treat customer migration to new pricing as its own project separate from initial pricing rollout for major changes"
+    ],
+    "open_questions": [
+      "How should companies balance creating downmarket offerings while protecting existing customer pricing tiers?",
+      "When is the right time to instrument a product for usage metering before implementing overage pricing?",
+      "How can companies convince finance teams to accept different list prices for different customer segments?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-15-don-t-miss-this-chunk-003",
+    "source": {
+      "chapter_title": "Don't Miss This",
+      "char_end": 11400,
+      "char_start": 7825,
+      "checksum": "a1c89f5c2d4beaac",
+      "source_pages": "177-184",
+      "source_path": "/Users/sachin/books/files/Price to Scale/chapters/15 - Dont Miss This.txt"
+    },
+    "summary": "The chunk discusses strategies for maximizing revenue through upsells, cross-sells, and bundling. It emphasizes the importance of clear usage clauses in contracts, offering special discounts on cross-sells to drive customer loyalty and lock customers in, and highlights the VP of Customer Success as a critical stakeholder. It also explores bundling as a revenue driver while noting potential drawbacks like customer overwhelm and reduced pricing flexibility.",
+    "key_points": [
+      "Usage clauses must be explicit in contracts with agreed-upon overage rates to avoid renewal negotiation pain and churn risk",
+      "Cross-sells should receive special discounting and payment terms to make competitive RFPs unnecessary",
+      "A distinct discounting and approval process for cross-sells should be separate from new business processes",
+      "VP of Customer Success is a key stakeholder for cross-sell and renewal strategies, equal to VP of Sales",
+      "Bundling can increase perceived value and ARPU but risks customer overwhelm and reduced flexibility",
+      "Bundling can complicate product offerings and limit future upsell/cross-sell opportunities"
+    ],
+    "arguments": [
+      "Not having explicit usage language in contracts causes pain during renewals and increases churn risk while forgoing revenue",
+      "Larger companies like Salesforce and Zendesk lock in customers through multi-product deals with steep discounts; smaller companies must employ the same strategy",
+      "Bundling is a 'silver bullet' for driving revenue and decreasing churn through multi-product purchasing",
+      "Bundling must be carefully designed to align with customer needs and not create unnecessary complexity"
+    ],
+    "examples": [
+      "Salesforce and Zendesk use multi-product deals with steep discounts to lock clients into their ecosystems"
+    ],
+    "stories": [],
+    "definitions": [
+      "Bundling: offering multiple products or features together at a discounted rate to increase perceived value and promote multi-product purchasing"
+    ],
+    "names": [
+      "Tom Tonguz",
+      "Salesforce",
+      "Zendesk",
+      "Ajit Ghuman"
+    ],
+    "dates": [],
+    "numbers": [
+      "50%"
+    ],
+    "places": [],
+    "terms": [
+      "upsell",
+      "cross-sell",
+      "bundling",
+      "overage rate",
+      "renewal",
+      "churn",
+      "RFP",
+      "ARPU",
+      "multi-product deals",
+      "revenue per user"
+    ],
+    "quotes": [
+      "As a maturing SaaS company approaches 50% of revenue generated from renewals, customer success should rise in strategic importance to the business.",
+      "Bundling is often considered a 'silver bullet' in the SaaS industry"
+    ],
+    "actionable_lessons": [
+      "Put explicit usage clause language in new client and renewal contracts with agreed-upon overage rates",
+      "Create internal mechanisms to flag upsell motions when accounts exceed usage expectations",
+      "Offer special discounts and payment terms on cross-sells to existing clients to prevent competitive RFPs",
+      "Establish a distinct discounting and approval process for cross-sells separate from new business deal closure",
+      "Involve VP of Customer Success as a key stakeholder in cross-sell and renewal pricing policies",
+      "Carefully design bundling strategies to align with customer needs and avoid overwhelming customers",
+      "Consider the long-term impact of bundling on pricing flexibility and future upsell opportunities"
+    ],
+    "open_questions": [
+      "How should companies balance bundling discounts with maintaining individual product value perception?",
+      "What metrics should determine whether a cross-sell discount is sustainable for the business?"
+    ]
+  }
+]
+```

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-05-assemble-the-invasion-force",
+  "chunk_id": "chapter-05-assemble-the-invasion-force-chunk-006",
+  "source": {
+    "chapter_title": "Assemble the Invasion Force",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/05 - Assemble the Invasion Force.txt",
+    "source_pages": "135-168",
+    "char_start": 33352,
+    "char_end": 41105,
+    "checksum": "23957ab56f9dfc17"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+rs, and further improve the knowledge base that drives the overall system. • Extended support to the social web (Facebook, Twit­ ter, Google+, etc.). This is part of an “omni-channel” movement throughout tech to engage the consumer and customer on the device and in the environment that best suits them. It allows for the knowledge base and the community population to extend themselves seamlessly by adding links to other sites and individuals. 150 Crossing the Chasm By extending their core product to create a whole product, Lithium was meeting the needs both of their immediate target customers—consumer tech companies—and their customers’ customers, the consumers themselves needing help and the
+
+technology enthusiasts looking to share their expertise. Partners and Allies “Strategic alliances” with partners and allies have always been trendy items in high-tech marketing. One expects to see ads on Facebook reading: Large, well-heeled company with established distribu­ tion channels and aging product line seeks small, en­ trepreneurial, cash-starved technology leader with hot new product. Photos available upon request. . . . As a rule, however, these types of alliances do better in Pow­ erPoint presentations than on the street. To start with, the com­ pany cultures' are normally too antithetical to cooperate with each other. Decision cycles are wildly out of sync, leading to enormous frustration among the entrepreneurs and patroniz­ ing responses from the established management. To make mat­ ters worse, each side has probably misrepresented itself one way or another during partnership negotiations, such that there is plenty of ammunition for each group to fire at the other once tempers get hot. This is particularly likely to be the case when the entrepreneurs have been angling for acquisition as an exit strategy. So, for the most part, despite the impeccable logic of these mergers, they are very tough to bring off. Assemble the Invasion Force 151 Of course, some strategic alliances have been extremely suc­ cessful. Consider the relationship that developed among SAP, Hewlett-Packard, and Andersen Consulting to displace IBM as the premier enterprise vendor by bringing client-server Enter­ prise Resource Planning (ERP) systems to market. Or con­ sider the alliance between Intel and Microsoft, what some have called the Wintel duopoly, which to this day orchestrates the PC industry. And more recently, Cisco, EMC, and VMware have teamed up to create a Unified Computing Environment for cloud computing that is having substantial success. All these alliances have been hugely powerful and moved mountains of market cap. Note, however, that they are among relatively equally matched peers. And even with that proviso, the complexities of developing and maintaining such strategic alliances in the field, where sales actually happen, are sufficient to make even the most experienced organizations struggle. They are certainly not the province of mere product manag­ ers seeking to ensure that their niche-segment target customers achieve their compelling reasons to buy What does work for product managers, on the other hand, are tactical “whole product” alliances. These alliances have one and only one purpose: Accelerate the formation of whole product infrastructure within a specific target market segment in support of a segment-specific compelling reason to buy. The basic commitment is to codeliver a whole product and market it cooperatively. This benefits the whole product manager by ensuring customer satisfaction. It also benefits the whole product partners by ex­ panding their marketplace without them having to do any of the marketing. As long as each side lives up to its part of the bargain, there is good reason to expect success. Whole product alliances are readily initiated and managed 152 Crossing the Chasm at the product marketing manager level. Typically, the initial op­ portunity is first brought to the company’s attention either by the salespeople or by customer support staff, one of whom has bumped into the potential ally at a particular customer’s site. But they can also be anticipated through the exercise of think­ ing through the whole product solution to the customer’s buying objective. The main point, again, is that these are tactical alli­ ances growing out of whole product needs, not strategic alliances growing out of. . . well, whatever strategic alliances grow out of (my personal feeling is that the number-one cause of strategic alliances is too many staff people with not enough to do). Partners and Allies: The Example of Rocket Fuel To see how this might work out in a few specific instances, let’s first consider the example of Rocket Fuel, a Mohr Davidow in­ vestment that has achieved meteoric growth in the digital ad­ vertising sector. Like most things in the new digital economy, it “takes a village” to create, launch, monitor, and monetize a digital ad campaign. Rocket Fuel’s role in this ecosystem is to increase the yield of digital advertising by placing the right ad in front of the right person at the right time—all done by artificial intelli­ gence algorithms made increasingly effective through machine learning. Needless to say, this is a highly specialized capability. Specialized offerings must focus intensely on what is core to their differentiation, which means that spending anything on context dilutes their ability to scale their value and size. As a result, companies taking this path must look to leverage existing systems and players wherever they can. This requires a whole host of “silent” partners and allies, totally necessary to the whole Assemble the Invasion Force 153 product, economically aligned with, in this case, Rocket Fuel’s value proposition, but not able or willing to actively engage in a lot of partnering activities. The key tactic here is to build very clean interfaces for ac­ cessing other systems and letting them access you—whether they be computer systems like digital ad exchanges, where pub­ lishers can put their inventory and advertisers can bid on it in real time, or whether they be industry participants like ad agen­ cies and media buyers, who have big budgets they need to put to work effectively and efficiently. In the case of Rocket Fuel their goal is to look like “any other” media partner, just one that deliv­ ers much more bang for the same buck. In addition to the principals directly involved, there are pe­ ripheral partnering relationships that can grease the skids to ac­ celerate adoption in your target market. In the case of Rocket Fuel the Interactive Advertising Board played a key role in stan­ dardizing contracts such that a small company could play across a broad footprint without having to have a legal department the size of Chicago. And the reporting capabilities of the ad servers, like DART and Atlas, helped make transparent the performance metrics upon which Rocket Fuel was basing its entire value proposition—no more “I know I waste half of my ad budget, but I just don’t know which half” Now Rocket Fuel’s custom­ ers did, with no-investment required from the company itself The net of all this is that the advertising industry as a whole, realizing that consumer attention has migrated online in a big way, has collectively rallied around companies like Rocket Fuel and AudienceScience and Visible Measures (to name three of MDV’s investments in the area) because everyone in the ecosys­ tem has a vested interest in engaging consumers across this new medium. The lesson for everyone else is clear: If you want to go 154 Crossing the Chasm fast, go alone; if you want to go far, go with others. In the age
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-04-have-the-willingness-to-pay-talk-early",
+  "chunk_id": "chapter-04-have-the-willingness-to-pay-talk-early-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 4: Have the “Willingness-to-Pay” Talk Early",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/04 - CHAPTER 4 Have the Willingness-to-Pay Talk Early.txt",
+    "source_pages": "55-68",
+    "char_start": 13286,
+    "char_end": 20977,
+    "checksum": "605d2a256472f508"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ntally, it provides a fast way to see if customers value your product and if they will pay for it—before you sink a lot of money into it. More sophisticated methods for getting at pricing include simulating purchase scenarios that ask customers to pick an option. For instance, you could show a product lineup with different price points and feature combinations and then ask which ones they would choose (including not choosing any option). Again, ask “why?” Then you change the scenario (for example, the feature and price combination) and ask them to choose again. With this technique, you are tapping into the mental models and rules people use to make choices. This will enable you to understand
+
+what aspects of your product drive the most value and how much people will pay for them. In Figure 4.3, we detail the ﬁve methods we have found most useful that you should use when you have the conversations with your prospective customers. Your conversations will typically take one of three forms: one-on-one conversations, focus groups, or large-scale quantitative surveys. We have conducted thousands of conversations like these for our clients over the last 30 years. Below are the 10 most important insights we have learned from them: 1. Don’t forget to tap into pockets of internal excellence: Before you have customer conversations, form a group of internal cross- functional experts (product, sales, marketing, ﬁnance, and engineer- ing) and conduct an expert judgment workshop. It is important to put this group through the types of questions you would ask customers. This would also serve as a pilot test before you take it to customers. Send out the questions before the meeting and ask participants to show up with answers (to avoid behavior in the room that generates biased answers). Then conduct an objective discussion of why people answered the way they did. 2. Position customer discussions as the “value talk:” Don’t position the talk as “pricing” or “willingness to pay.” Rather, frame the talk as “we want to talk about our latest innovation ideas and how we can continue to add value for you.” This positioning is essential to 46 Monetizing Innovation Figure 4.3 Top Five Methods for Having the Willingness-to-Pay Conversation (from Easiest to Most Advanced) Have the “Willingness-to-Pay” Talk Early 47 get customers in the right mindset. Start by asking customers about their pain points, and pitch your product’s features and the value they would bring. Ask questions like “Do you value these products/ features?” and then ask why. Then switch gears to ask questions like “What would you consider an acceptable price?” Switching from value to price is an easier transition to make in determining customer WTP. If your product is totally new and you cannot articulate its value to customers, they really won’t be able to respond well to your WTP questions. Hence, you need to focus on talking value with customers before you ask them about pricing. 3. Valuable insights already come from the simplest questions: Direct questions often yield important insights. Typically, we ﬁnd customers would pay the acceptable price (see Figure 4.3) and love Figure 4.3 (Continued) 48 Monetizing Innovation the product. They might pay the expensive price, but they wouldn’t be thrilled about it. You will likely leave them in a neutral state— neither hating nor loving your product. 4. Make 25 percent of the questions “why” questions: As simple as it sounds, the “why” question is the most powerful one. If someone says, “I would pay $20,” ask them, “Why do you say that?” If someone says, “I don’t see value in a particular feature and won’t pay for it,” ask them, “Why is that, and what would the product need to make it more valuable?” You may get tips that improve your product signiﬁcantly. Asking why also helps create a culture that’s hungry for information. 5. Mix it up: Don’t always operate from a standard script. Sometimes allowing the conversation to be unstructured, especially for leading- edge innovations, can lead to more insightful ﬁndings. If you always stick to a structured script, you might only learn what you already know (or think you know). 6. Be part of the action: Don’t leave the WTP conversations to your product teams alone. This is important information. Have all your key people (across product, sales, and marketing functions) sit in on focus group meetings and interviews to hear the voices of your customers. The sooner you have a cross-disciplinary team involved, the better your chances of monetizing innovation. (More on this in Chapter 14.) 7. Avoid the “average trap:” When you analyze the answers to your WTP questions, look at the distribution, not just the average response. The average response can be misleading. For instance, for two groups of customers, one willing to pay $20 and another willing to pay $100, if you calculated the average price they would pay, it would be $60. But that would leave money on the high side (the group that would pay $100) and make your product unafford- able to the low side (they’ll only pay $20). You might be better off building the product to a $100 price point or—even better—making two versions, one at $20 (with different features or materials) and the other at $100. Either way, you must look at the distribution to arrive at the right insight, not just the averages. 8. Don’t rely only on quantitative numbers: This is especially important if you are building a truly innovative product. You need to have the qualitative discussions (one-on-one or in focus Have the “Willingness-to-Pay” Talk Early 49 groups) before doing a quantitative study. Talking to your customers qualitatively ﬁrst will enable you to create a more robust quantitative survey and give you a sanity check. 9. Be precise in your language: The questions “Would you buy this?” and “Would you buy this for $20?” are totally different. Make sure customers answer your real, underlying question. 10. Garbage in is garbage out: When you use the advanced methods in Figure 4.3, keep the design of your questions simple. Use your business knowledge and common sense to isolate the most important variables to test. Many companies treat this purely as a market research exercise. But that typically results in asking far too many questions or making them extremely complicated. When customers are overwhelmed, they will give you inconsistent and incoherent responses. With the ﬁve methods for conducting the all-important WTP talk with customers and these 10 tips for using those methods, you are now ready to begin testing your product’s market viability. Summary The most important aspect of moving to a “design the product around the price” innovation process is ﬁnding out as early as you can whether customers value your innovation and would pay for it. You can only determine customers’ WTP by actually asking them—not by imagining what they will say. Two pieces of information are important in this phase: custom- ers’ overall WTP for a product (the price range they have in mind) and their WTP for each feature (so you know which features matter most and which features don’t matter at all). Five types of research questions will help you get these answers: direct, purchase probability, most–least, build-your-own, and pur- chase simulations. Best practices in having these discussions include positioning them as “value talks” (not as pricing discussions), expect- ing key insights to come from the simplest questions, mixing 50 Monetizing Innovation structured with unstructured questions, and not relying solely on quantitative data. CEO Questions 1. Does our product development team have serious pricing discus-
+>>>

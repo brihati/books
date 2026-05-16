@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-03-the-d-day-analogy",
+  "chunk_id": "chapter-03-the-d-day-analogy-chunk-003",
+  "source": {
+    "chapter_title": "The D-Day Analogy",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/03 - The D-Day Analogy.txt",
+    "source_pages": "82-110",
+    "char_start": 13322,
+    "char_end": 21110,
+    "checksum": "721f86753fd8b962"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+en we recruit partners and allies to help fulfill them, they require resource-intensive management. And when the support role falls back on us, it often requires the attention of our most key people, the same people who are critical to every other proj­ ect we have going. Therefore, whole product commitments must be made not only sparingly but also strategically—that is, made with a view toward leveraging them over multiple sales. This can only happen if the sales effort is focused on a single niche market. More than one, and you take on additional use cases, causing you to bum out your key resources, falter on the quality of your whole product commitment, and prolong your stay in the chasm.
+
+To be truly sales-driven is to invite a permanent stay. The D-Day Analogy 83 For reasons of whole product leverage alone, the sales- driven strategy should be avoided. But its siren lure is so strong that additional ammunition against it is warranted. Consider the following: One of the keys in breaking into a new market is to establish a strong word-of-mouth reputation among buyers. Numerous studies have shown that in the high-tech buying process, word of mouth is the number-one source of informa­ tion that buyers reference, both at the beginning of the sales cycle, to establish their “long lists,” and at the end, when they are paring down their short ones. Now, for word of mouth to develop in any particular marketplace, there must be a critical mass of informed individuals who meet from time to time and, in exchanging views, reinforce the product’s or the company’s positioning. That’s how word of mouth spreads. Seeding this communications process is expensive, partic­ ularly once you leave the early market, which in general can be reached through the technical press and related media. By contrast, pragmatist buyers, as we have already noted, commu­ nicate along industry lines or through professional associations. Chemists talk to other chemists, lawyers to other lawyers, insur­ ance executives to other insurance executives, and so on. Win­ ning over one or two customers in each of five or ten different segments—the consequence of taking a sales-driven approach— will create no word-of-mouth effect. Your customers may try to start a conversation about you, but there will be no one there to reinforce it. By contrast, winning four or five customers in one segment will create the desired effect. Thus, the segment­ targeting company can expect word-of-mouth leverage early in its crossing-the-chasm marketing effort, whereas the sales- driven company will get it much later, if at all. This lack of word of mouth, in turn, makes selling the product that much 84 Crossing the Chasm harder, thereby adding to the cost and the unpredictability of sales. Finally, there is a third compelling reason to be niche fo­ cused when crossing the chasm, which has to do with the need to achieve market leadership. Pragmatist customers want to buy from market leaders. Their motive is simple: Whole products grow up around the market-leading products and not around the others. That is, there are many more mobile apps for Apple and Android mobile devices than there are for Windows 8 or BlackBerry. There is a much broader base of talent to support Cisco routers and switches than Juniper’s. The existence of this added-value infrastructure not only enriches the value of the product but also simplifies the task of getting support, at no additional cost to either the vendor or the customer. Pragmatists are very much aware of this effect. As a result, perhaps unconsciously but nonetheless consistently, they con­ spire to install some company or product as the market leader and then do everything in their power to keep them there. One of the main reasons they delay their buying decisions at the beginning of a marketplace—thereby creating the chasm effect—is to help them get a fix on who the leader will be. They don’t want to back the wrong one. Now, by definition, when you are crossing the chasm, you are not a market leader. The question is, How can you acceler­ ate achieving that state? This is a matter of simple mathemat­ ics. To be the leader in any given market, you need the largest market share—typically over 50 percent of the new sales at the beginning of a market, although it may end up to be as little as 30—35 percent later on. So, take the sales you expect to generate over any given time period—say the next two years—double that number, and that’s the size of market you can expect to The D-Day Analogy 85 dominate. Actually, to be precise, that is the maximum size of market, because the calculation assumes that all your sales came from a single market segment. So, if we want market leadership early on—and we do, since we know pragmatists tend to buy from market leaders, and our number-one marketing goal is to achieve a pragmatist installed base that can be referenced—the only right strategy is to take a “big fish, small pond” approach. Segment. Segment. Segment. One of the other benefits of this approach is that it leads directly to you “owning” a market. That is, you get installed by the pragmatists as the leader, and from then on, they conspire to help keep you there. This means that there are significant barriers to entry for any competitors, regardless of their size or the added features they have in their product. Mainstream customers will, to be sure, complain about your lack of features and insist you upgrade to meet the competition. But, in truth, mainstream customers like to be “owned”—it simplifies their buying decisions, improves the quality and lowers the cost of whole product ownership, and provides security that the vendor is here to stay. They demand attention, but they are on your side. As a result, an owned market can take on some of the characteristics of an annuity—a building block in good times, and a place of refuge in bad— with far more predictable revenues and far lower cost of sales than can otherwise be achieved. For all these reasons—for whole product leverage, for word- of-mouth effectiveness, and for perceived market leadership—it is critical that, when crossing the chasm, you focus exclusively on achieving a dominant position in one or two narrowly bounded market segments. If you do not commit fully to this goal, the odds are overwhelmingly against your ever arriving in the mainstream market. 86 Crossing the Chasm What About Microsoft? Let me admit from the outset that, to the best of my knowledge, Microsoft has never followed the niche strategy that I have been so strongly advocating. It has not been a practitioner of the D-Day approach. Instead, it has continually taken what might be called the “Evel Knievel approach”: Ignore the chasm. So how in the world has it been so successful, and why wouldn’t anybody with a grain of sense follow their model, Mr. Moore, instead of yours? Here I think we have an example of the legal profession’s notion that great cases make bad law. Microsoft’s history is so unique it makes it virtually unusable as a precedent for strategy decisions in other companies. Three of its primary technologies—Windows, NT, and Internet Explorer—have been direct extensions of a PC operating system franchise that Microsoft inherited and then stole from IBM. That act of theft was Promethean—the stealing of fire from the gods and giving it to humans. It was not dishonest, it was brilliant. But the key point here is, Microsoft from day one was operating in a context of being a de facto standard. It was born inside a tornado of demand that IBM created, and all its subse­ quent acts of market development have been based on being the rich heir to that estate.
+>>>

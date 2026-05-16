@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "how-to-win-friends-and-influence-people",
+  "chapter_id": "chapter-18-9-what-everybody-wants",
+  "chunk_id": "chapter-18-9-what-everybody-wants-chunk-002",
+  "source": {
+    "chapter_title": "9. What Everybody Wants",
+    "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/18 - 9. What Everybody Wants.txt",
+    "source_pages": "177-183",
+    "char_start": 6279,
+    "char_end": 13959,
+    "checksum": "a33f3686de6ad604"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+een a little impertinent. Then you may compose an answer. Then if you are wise, you will put the letter in a drawer and lock the drawer. Take it out in the course of two days—such communications will always bear two days’ delay in answering—and when you take it out after that interval, you will not send it. That is just the course I took. After that, I sat down and wrote her just as polite a letter as I could, telling her I realized a mother’s disappointment under such circumstances, but that really the appointment was not left to my mere personal preference, that I had to select a man with technical qualifications, and had, therefore, to follow the recommendations of the head of the Bureau.
+
+I expressed the hope that her son would go on to accomplish what she had hoped for him in the position which he then had. That mollified her and she wrote me a note saying she was sorry she had written as she had. “But the appointment I sent in was not confirmed at once, and after an interval I received a letter which purported to come from her husband, though it was in the same handwriting as all the others. I was therein advised that, due to the nervous prostration that had followed her disappointment in this case, she had to take to her bed and had developed a most serious case of cancer of the stomach. Would I not restore her to health by withdrawing the first name and replacing it by her son’s? I had to write another letter, this one to the husband, to say that I hoped the diagnosis would prove to be inaccurate, that I sympathized with him in the sorrow he must have in the serious illness of his wife, but that it was impossible to withdraw the name sent in. The man whom I appointed was confirmed, and within two days after I received that letter, we gave a musicale at the White House. The first two people to greet Mrs. Taft and me were this husband and wife, though the wife had so recently been in articulo mortis.” Jay Mangum represented an elevator-escalator maintenance company in Tulsa, Oklahoma, which had the maintenance contract for the escalators in one of Tulsa’s leading hotels. The hotel manager did not want to shut down the escalator for more than two hours at a time because he did not want to inconvenience the hotel’s guests. The repair that had to be made would take at least eight hours, and his company did not always have a specially qualified mechanic available at the convenience of the hotel. When Mr. Mangum was able to schedule a top-flight mechanic for this job, he telephoned the hotel manager and instead of arguing with him to give him the necessary time, he said: “Rick, I know your hotel is quite busy and you would like to keep the escalator shutdown time to a minimum. I understand your concern about this, and we want to do everything possible to accommodate you. However, our diagnosis of the situation shows that if we do not do a complete job now, your escalator may suffer more serious damage and that would cause a much longer shutdown. I know you would not want to inconvenience your guests for several days.” The manager had to agree that an eight-hour shutdown was more desirable than several days’. By sympathizing with the manager’s desire to keep his patrons happy, Mr. Mangum was able to win the hotel manager to his way of thinking easily and without rancor. Joyce Norris, a piano teacher in St. Louis, Missouri, told of how she had handled a problem piano teachers often have with teenage girls. Babette had exceptionally long fingernails. This is a serious handicap to anyone who wants to develop proper piano-playing habits. Mrs. Norris reported: “I knew her long fingernails would be a barrier for her in her desire to play well. During our discussions prior to her starting her lessons with me, I did not mention anything to her about her nails. I didn’t want to discourage her from taking lessons, and I also knew she would not want to lose that which she took so much pride in and such great care to make attractive. “After her first lesson, when I felt the time was right, I said: ‘Babette, you have attractive hands and beautiful fingernails. If you want to play the piano as well as you are capable of and as well as you would like to, you would be surprised how much quicker and easier it would be for you, if you would trim your nails shorter. Just think about it, okay?’ She made a face which was definitely negative. I also talked to her mother about this situation, again mentioning how lovely her nails were. Another negative reaction. It was obvious that Babette’s beautifully manicured nails were important to her. “The following week Babette returned for her second lesson. Much to my surprise, the fingernails had been trimmed. I complimented her and praised her for making such a sacrifice. I also thanked her mother for influencing Babette to cut her nails. Her reply was ‘Oh, I had nothing to do with it. Babette decided to do it on her own, and this is the first time she has ever trimmed her nails for anyone.’” Did Mrs. Norris threaten Babette? Did she say she would refuse to teach a student with long fingernails? No, she did not. She let Babette know that her fingernails were a thing of beauty and it would be a sacrifice to cut them. She implied, “I sympathize with you—I know it won’t be easy, but it will pay off in your better musical development.” Sol Hurok was probably America’s number one impresario. For almost half a century he handled artists—such world-famous artists as Chaliapin, Isadora Duncan, and Pavlova. Mr. Hurok told me that one of the first lessons he had learned in dealing with his temperamental stars was the necessity for sympathy, sympathy and more sympathy with their idiosyncrasies. For three years, he was impresario for Feodor Chaliapin—one of the greatest bassos who ever thrilled the ritzy boxholders at the Metropolitan. Yet Chaliapin was a constant problem. He carried on like a spoiled child. To put it in Mr. Hurok’s own inimitable phrase: “He was a hell of a fellow in every way.” For example, Chaliapin would call up Mr. Hurok about noon of the day he was going to sing and say, “Sol, I feel terrible. My throat is like raw hamburger. It is impossible for me to sing tonight.” Did Mr. Hurok argue with him? Oh, no. He knew that an entrepreneur couldn’t handle artists that way. So he would rush over to Chaliapin’s hotel, dripping with sympathy. “What a pity,” he would mourn. “What a pity! My poor fellow. Of course, you cannot sing. I will cancel the engagement at once. It will only cost you a couple of thousand dollars, but that is nothing in comparison to your reputation.” Then Chaliapin would sigh and say, “Perhaps you had better come over later in the day. Come at five and see how I feel then.” At five o’clock, Mr. Hurok would again rush to his hotel, dripping with sympathy. Again he would insist on canceling the engagement and again Chaliapin would sigh and say, “Well, maybe you had better come to see me later. I may be better then.” At seven-thirty the great basso would consent to sing, only with the understanding that Mr. Hurok would walk out on the stage of the Metropolitan and announce that Chaliapin had a very bad cold and was not in good voice. Mr. Hurok would lie and say he would do it, for he knew that was the only way to get the basso out on the stage. Dr. Arthur I. Gates said in his splendid book Educational Psychology: “Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy. For the same purpose adults . . . show their bruises, relate their accidents, illness, especially details of surgical operations.
+>>>

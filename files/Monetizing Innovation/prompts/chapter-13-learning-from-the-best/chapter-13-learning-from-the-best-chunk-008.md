@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-008",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 48124,
+    "char_end": 55820,
+    "checksum": "b421789aaf42191e"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+er the name “dynamic pricing,” one of the key monetization models powering many successful businesses. In effect, Uber’s platform has a customer pay the driver more during high-demand periods, so that the driver is willing to brave the elements— or skip their own New Year’s Eve party—to give the customer a ride. If Uber had not implemented the dynamic pricing model, the alternative would have been to leave numerous customers in the lurch, complaining about availability and reliability. Such customer dissatisfaction would have severely hurt adoption. Instead, the dynamic model intentionally reduces demand and at the same time increases supply in order to maximize availability and reliability.
+
+This model creates a platform where supply is controlled not by the company but by the independent contractors. And it works brilliantly. “I still ﬁnd it the most fascinating piece of Uber, because we do no scheduling whatsoever,” says Gurley. “We do millions of drives a day and we never tell a driver when to go to work.” Getting the Language Right In Chapter 10, we described how value communication can sometimes be the most difﬁcult task of all. This was 184 Monetizing Innovation one area where even Uber stumbled, discovering just how hard it was to communicate that dynamic pricing was actually good for the customer. Many companies use dynamic pricing to charge more during peak periods. Think of a resort in the summer months or a stadium-adjacent parking lot on game day. This is usually done to boost proﬁts. But as discussed previously, Uber’s goal was ensuring 24/7 availability of cars, come rain, sleet, or snow. Rather than pocketing the surcharge, Uber passes most of it on to their drivers. Unfortunately, the term surge pricing does not communicate the value Uber brings to the rider, who otherwise might have been stranded: As Gurley points out, Uber’s peak pricing typically occurs when every form of transportation is under stress. “I would have called it availability pricing in hindsight,” Gurley smiles. “Funny thing,” Gurley adds, “Travis wanted to be extremely transparent with the customer and felt the name helped achieve that goal.” Part Two: Penetration Pricing If Uber’s drivers are price sensitive, its riders are doubly so. This meant that despite early positioning that framed Uber as a luxury brand—the company’s original slogan was “Everyone’s Private Driver”—Uber could not charge luxury prices. In some ways, their customers’ low willingness to pay forced the company’s hand. “I would argue that it is tautological that you need to be the low cost provider when you have such high price elasticity,” Gurley said. “Otherwise another person can come under you and take massive share because the consumer is telling you that price matters.” In order to get prices as low as possible, Uber knew it would have to cut down on its drivers’ idle time. “Surge pricing plays a huge factor there,” says Gurley. “It tells people when to be where.” As they get accustomed to the system, a driver’s utilization rate, which is the percentage of time they actually have a customer in the car, picks up. Drivers and riders naturally ﬁnd their ﬁt in the company’s highly-efﬁcient marketplace. As utilization rates increase, Uber can drive the cost down even more, generating what Gurley calls the “Uber virtuous cycle.” The company’s key insight was that this pricing strategy—“pricing low on purpose,” in Gurley’s words—was critical to gain large market Learning from the Best 185 share with customers. “It is a longer-term game, because with lower margins you’ve got to get much bigger. But it was the right play,” says Gurley. As discussed in Chapter 8, penetration pricing is a bigger (and riskier) commitment since with pricing low you operate at razor thin margins and you need to get much bigger fast. Few companies get it right; Uber was one of them. More importantly, the price low strategy opened the door to a much larger consumer base. Having made it “a company mission” to push the price ever lower, Gurley says, “suddenly you can reach a market that is 20 times larger than what you would have had had you not messed with price.” In a famous blog post, Gurley wrote that Uber’s skeptics did not fully “consider the impact of price on demand.” He asked, “What if someone could run a more convenient, safer service at a much lower price and with muchhigheravailability?Youwouldendupwithdramaticallymorerides— and that is exactly what is happening.” He then pointed to the multiple markets criticshad not considered, frompublictransportationtorentalcars. Even walking is not immune: If you open up Google Maps for certain destinations, you will be shown an Uber price as an alternative to taking a stroll—a brilliant way to pose the question, “How much is your time worth?” Gurley told us that this is all part of the overall corporate approach to pricing. “The lower I can get the price point, the more types of scenarios I can get the customer to think of this as an alternative to whatever the substitute was—public transport, renting a car, borrowing a car, owning a car, etc.” My Other Car Is an Uber That last part is one of Uber’s big upcoming moves: The ride service as an alternative to car ownership itself. Uber’s big goal is to be a substitute for the automobile in your garage. Gurley points out that your car sits idle “95 percent of the time.” If Uber can get the price per ride low enough, and ensure high enough availability, it just may make sense to sell your car and use the proceeds to pay your Uber bill, or avoid buying a car altogether. From a ﬁnancial point of view, Uber simply substitutes for ownership. To reach that level of affordability, Uber’s leadership dreams of someday reaching “the Perpetual Ride,” where a driver has a rider at all times in his or her car. That would mean 100 percent utilization. But could the company do even better? 186 Monetizing Innovation UberPool may be the answer. By harnessing Uber’s mighty math department, the company has created a system to bring together like- minded riders in big cities such as San Francisco and New York. Some customers actually prefer the experience, citing the potential to meet new people in a stress-free environment. Tourists and other visitors ﬁnd it an easy way to get tips about the city they are visiting. But the best thing about it may be the price. Since one driver is now carrying multiple riders, UberPool allows the company to exceed prior utilization, making the service proportionally more affordable. This not only makes Uber an increasingly-reasonable substitute to car ownership, but it makes it a remarkable challenger to existing forms of public transportation. The “Everyone” Segmentation Plan Of course, some people will not take UberPool, no matter how reasonably priced it may become. As we discussed in Chapter 6, that is how you deﬁne a segment: a set of people who are willing to pay more for given features than other people, because they value them more. For example, some people may be willing to pay a premium to arrive in convenience. These riders are a natural ﬁt to the SUVs and limousines that make up UberBlack. Other riders simply want the no-frills privacy of UberX. Uber has been reaching new segments organically by creating customer experiences around different values and the segment’s willing- ness to pay. Not All Dollars Are Created Equal In addition to understanding what each of its customer segments wants and values, Uber understands what they want to avoid. That’s why one of the best parts of Uber is that you do not have to tip. In fact, there’s no way to do so. As with most of Uber’s pricing model, this is by design.
+>>>

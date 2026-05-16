@@ -1,0 +1,912 @@
+95
+
+
+STEP 5A
+Pricing Operations
+
+
+Ok, so we’re now. We’ve finally done all the strategic decision making
+and analysis to arrive at the pricing structure.
+Time to celebrate? Not in the least.
+Later in the book, I’ve documented my interview with Natalie Louie
+who is currently the Sr Director of Product Marketing at Zuora. One
+of her quotes really resonates with my own experience of implement-
+ing a new pricing model inside a company, “I would almost argue,
+for me at least, pricing strategy is the easy part. Pricing operations,
+that is where you start pulling out your hair. And that's where all
+you're faced with is ‘no’. ‘No, we can't do that.’ ‘No, we can't do this’”
+Pricing Operations involves all systems, processes and people
+involved in ensuring the new pricing model is fully adopted in your
+company and such that the sales engine works like a smoothly run-
+ning machine.
+Not even the best pricing model can yield any result if it's not
+operationalized to enable a smooth sales process and 100% adoption
+by the sales, professional services, ops and finance teams.
+This is especially true of sales-driven cultures where ad-hoc deal by
+deal pricing has been part of a company’s history.
+So let’s make sure we get this right. What do we need to do?
+AJIT GHUMAN
+96
+1. Packaging Reference Doc: One production-ready place where
+your company’s pricing resides such that it is always referen-
+cible by anyone inside your company and provides complete
+guidance on all available features as well as constraints.
+2. Website: Decide whether to publish your pricing and packag-
+ing on your website.
+3. Team: Understand the different roles required to man pric-
+ing operations and then staff these roles. In fact, we dedicate
+the next chapter solely to the Deal Desk function.
+4. Pricing Calculator: Build an easy way for your sales team to
+run pricing scenario analysis at the early stages of the sales
+team.
+5. Quoting System/CPQ: Build an easy way for your sales team
+to quote pricing to their prospects.
+6. Product Metering: Decide if you need to build a metering sys-
+tem for the key value metric such that you can bill customers
+if they are on a consumption based model.
+7. Discounting: Set and operationalize guardrails and rules
+around discounting across sales reps, sales leadership and
+the CEO/CFO.
+That’s a lot! It really is.
+Compared to the creation of the pricing model, the implementation
+takes 3-5x the amount of effort (depending on which items you check
+off this list above). I say this to caution you before committing a full
+implementation in 4-6 weeks (been there, done that) and that any
+meaningful rollout will take at least a quarter (3 months), often more.
+With that caution out of the way, let’s now discuss each of these items.
+Packaging Grid
+One document that will help truly align your packaging with all GTM
+stakeholders internally (product, sales, sales engineering, finance,
+you name it) is a simple shared (and up to date) product packaging
+PRICE TO SCALE
+97
+grid that lists out the features included in each Tier, as well availa-
+bility across geos, constraints and implementation notes.
+The following table below shows a simplified version of such a grid
+that I’ve used, and one that has been very convenient to rid of any
+confusion during the regular sales motions. The effort taken to keep
+the document current (mostly once-a-quarter updates) is always well
+worth it in having clarity about basic questions, ‘what can we sell?’,
+‘what’s in the elite plan?’, ‘does this work in Europe?’, ‘how complex
+is the integration?’ and so on.
+Once in place you can bet that it will drive projects to improve your
+website product pages, provide answers for RFP questions, serve as a
+source of truth by the company and limit one off questions on a fea-
+ture or package set (of which there will be plenty once a new pricing
+model is released).
+Product
+Customer
+Facing
+Feature
+Name
+Pro
+Elite
+Constraints AMER
+UK / EU
+Need to know
+about
+implementation
+Product A Widget A
+TRUE
+TRUE
+
+Avail
+Avail
+
+
+Widget B
+TRUE
+TRUE
+
+Avail
+NA
+
+
+Widget C
+
+TRUE
+
+Avail
+Avail
+
+
+Widget D
+TRUE
+Does not
+work in EU Avail
+Avail
+
+
+Add-on:
+Feature X TRUE
+TRUE
+
+Avail
+Avail
+Requires
+special
+integration,
+delaying
+implementation
+
+Add-on:
+Feature Y
+TRUE
+
+Avail
+NA
+
+
+Add-on:
+Feature Z
+TRUE
+Does not
+work in EU Avail
+Avail
+
+
+AJIT GHUMAN
+98
+Website Pricing Page
+The decision to publish pricing on your website is not to be taken
+lightly, and it should align with your overall GTM strategy.
+There is today a general consensus within SaaS circles that publish-
+ing your pricing is a de-facto good thing -- on this point I disagree.
+This is a decision that requires thought.
+Publishing pricing on the website makes more sense for high velocity
+sales engines with a more transactional sale and cut and dry
+packages, but less so when the deals are complex, low velocity with
+larger deal sizes. As soon as you publish your pricing on the website
+it forces you to have robust differentiation between tiers as all types
+of customers, channel partners and even competitors will start to use
+this as a reference.
+Publishing pricing will also lead prospects to comparison-shop and
+question their software needs, existing customers may also start to
+want downgrades (this scenario is covered in the Citrix case study
+later in the book).
+Every company’s GTM is different and the decision should align with
+the GTM strategy.
+1. A company selling into only the mid-market could perhaps
+benefit from this approach and improve selling efficiency.
+2. While a company selling mostly to Global 2000 and Fortune
+500 firms is likely to have more involved deals, and
+customers whose price sensitivities vary more. Publishing
+pricing on the website in this case may not be helpful.
+3. Companies who sell both into the mid-market as well as
+enterprise have a tougher decision, but as listed below they
+can choose to publish just the packages online and reserve
+the pricing to sales conversations.
+PRICE TO SCALE
+99
+What you should know is there are many options here:
+1. You can publish your pricing and packaging in full
+2. You can summarize your pricing (e.g. starting from $xx,xxx
+with yyy units included) and packaging but leave complex
+questions to sales calls
+3. You can publish a summary your packages and leave pricing
+discussions to sales
+4. You can choose to make the pricing and packaging more
+about value delivered and use it as a lead source
+There are thousands of examples of pricing pages out there. Let’s
+consider a few pricing pages as mini case studies and try to analyze
+why a company in question may have selected to build their pricing
+page a certain way - a process that will guide your own thinking as
+you build your pricing page. Note that we may not find pricing pages
+for truly enterprise facing GTM companies, so note that this
+discussion of analyzing publicly available pricing pages inherently
+suffers from an inherent self-selection bias.
+Company & Page
+Commentary
+https://ahrefs.com/pricing
+
+
+Ahrefs leaves nothing
+to conjecture. They lay
+out all their plans
+clearly and
+comparatively. All
+their features are
+plainly listed with the
+pricing.
+
+Their highest plan is
+~$12,000 a year, more
+of a SMB/Mid-market
+type offering whereas
+the lowest plans are
+more for
+users/consumers/sma
+ll teams. For their
+GTM segments, this is
+AJIT GHUMAN
+100
+
+exactly the right kind
+of page that will help
+them scale deal
+velocity.
+
+What I also find
+interesting is that they
+charge $7 for their
+trial plans. The most
+likely reason for this
+is that they want to
+increase the trial
+conversion rate. Free
+trial conversion rates
+are historically really
+poor to convert (2-6%)
+and take a significant
+amount of resources
+to sustain. Adding a
+nominal charge to use
+the trial, likely weeds
+out non-serious users
+and lets the company
+likely achieve higher
+conversion rates.
+
+https://www.aftership.com/pricing/
+
+Aftership serves
+mostly up and coming
+D2C ecommerce
+brands, and thus it
+makes sense they keep
+their pricing mostly
+transparent.
+
+What I like about their
+pricing page is that
+they use the 3 Part
+Tariff structure that
+we discussed earlier
+with a very convenient
+slide scale to convert
+the 3 Part Tariff table
+into someone can
+PRICE TO SCALE
+101
+easily understand
+visually. They display
+the overage fee in
+small text as well.
+
+The overage price
+ends up being more
+than the per unit price
+of the tariff structure
+to incent customer to
+move up in plans, a
+feature of most well
+designed plans.
+https://www.intercom.com/pricing
+
+For Most Businesses
+
+
+For Very Small Business
+I find Intercom’s
+pricing page
+interesting and
+reflective of the
+company’s size,
+segments and use
+cases.
+
+The first sub tab, ‘For
+Most Businesses’,
+highlights primarily
+its product packaged
+into three different
+use cases. It is a great
+example of how a
+single product can be
+crafted to look as if it's
+built-to-purpose for a
+specific use case, a
+challenge shared by
+many companies that
+serve multiple use
+cases.
+
+Given the variance in
+use case and
+potentially different
+value/price points,
+they do not show
+pricing in this pane --
+AJIT GHUMAN
+102
+
+
+to not inhibit revenue
+potential.
+
+The second sub tab,
+‘For Very Small
+Businesses’, offers an
+insight into Intercom’s
+down market offerings
+positioned at
+attractive price points
+vs Zendesk.
+
+Intercom does a great
+job at representing its
+capability clearly,
+simply and with high
+relevance.
+https://basecamp.com/pricing
+
+I find Basecamp’s
+pricing to be truly
+unique and somewhat
+of a mold breaker.
+
+No matter how much
+you use their product,
+Basecamp charges a
+flat fee of $99/month
+for a team, whereas
+competitors align
+price to usage.
+
+The question is why?
+
+My hypothesis for
+their decision is to
+stay an SMB/mid-
+market product and
+go to market with a
+purely product led
+growth model.
+
+PRICE TO SCALE
+103
+
+
+
+
+
+The comparable
+organizations cited
+scale from SMB to
+enterprise, whereas
+Basecamp seems to
+have decided where to
+focus from a segment
+perspective.
+
+Another hypothesis
+with this pricing plan
+is that Basecamp truly
+wants deep customer
+retention and I would
+not be surprised to
+see their retention
+rates being far
+superior to their
+competitors.
+
+Finally, if you’ve read
+about their
+philosophy, Basecamp
+has always eschewed
+the high-growth, high-
+burn Silicon Valley
+startup model, opting
+instead for a close to
+lifestyle business
+approach.
+
+Pricing Team
+In general there are a few responsibilities that will need owners for
+a pricing model to be functional:
+1. Pricing Strategy: This role involves everything that we’ve dis-
+cussed so far in this book and includes all the work that goes
+into creating or revamping your company’s pricing model.
+AJIT GHUMAN
+104
+Additionally, this role will also need to report on the perfor-
+mance of the pricing model quarter over quarter to see
+whether its being effective, as well as interface with various
+stakeholders within a company who have feedback to im-
+prove the model. On a day to day basis, this function will also
+be often on the phone with a sales rep acting as a pricing
+consultant and helping her/him close their deals (super
+important). This is often headed by the Marketing team, which
+works in collaboration with multiple departments and with
+sponsorship of the CEO or COO.
+2. Pricing Ops: This is another heavy-duty and distinct function. It
+involves creating the processes and system that take the on-pa-
+per pricing model and operationalize it. It involves implement-
+ing a CPQ system (if relevant), interfacing the finance
+department, understanding how clients will be billed as well as
+interfacing with legal to ensure a smooth sales motion. Outside
+of known problems to work on such as the CPQ system, the
+biggest issue this function needs to define in collaboration with
+the Pricing Strategy function is around processes - does new
+pricing change the expansion/renewal motion? How will
+overages be billed in a consumption model? What system will
+sync customer usage? What process needs to be built around
+pricing new features, experimental features, etc? Who gets to
+discount and by how much? How will internal approval
+processes for discounts or non-standard features work and
+many more such as this. This function is headed by the Sales
+Operations or the Revenue Operations team.
+3. Deal Desk: This in my opinion is the “last mile” function that
+stands between you and a successful pricing model rollout. If
+run properly, this function ensures the latest price book is
+used by sales and there is both a fast turn around to sales’
+requests as well as a check on what sales can get away with.
+Be kind to the people in this role, they are often short staffed
+and need a good amount of enablement as well as sponsor-
+ship to fill the role properly. This function is also often part
+of the Sales Operations org but can also reside in Finance.
+PRICE TO SCALE
+105
+The Role of the Pricing and
+Monetization Team in a SaaS
+Company
+In the competitive landscape of Software as a Service (SaaS)
+businesses, the Pricing and Monetization team is pivotal in driving
+revenue growth and ensuring sustainable profitability. Often misun-
+derstood and undervalued, this team is responsible for more than
+just setting prices. Their responsibilities span across strategy
+development, data analysis, project management, and operational
+execution, all of which are essential to the financial health and com-
+petitive positioning of a SaaS company.
+Understanding the Misconceptions
+Many teams within a SaaS company hold distinct biases about
+pricing, often viewing it from their specific functional perspectives.
+The Product Team, for instance, may overvalue features based on the
+effort invested in their development. The Sales Team might push for
+lower prices to close deals quickly, especially towards the end of a
+quarter. Meanwhile, the FP&A Team could emphasize the cost of
+goods sold (COGS) and advocate for pricing to meet margin goals.
+These varied viewpoints highlight the need for a dedicated Pricing
+and Monetization team to integrate these perspectives into a coher-
+ent strategy that aligns with the company’s objectives.
+The Evolution from "Pricing" to "Monetization"
+The term "Pricing Team" is often reductive, failing to convey the full
+scope of responsibilities. A more accurate designation is
+"Monetization Team," reflecting their broader mandate, which in-
+cludes setting prices and determining the optimal ways to generate
+revenue from the company's offerings. This involves strategic
+decisions about market segmentation, competitive positioning, and
+product bundling, among other considerations.
+AJIT GHUMAN
+106
+Key Responsibilities of the Monetization Team
+1. Data Analytics
+• Role: Analyze market data, customer usage patterns, and
+competitive pricing to inform strategy.
+• Importance: Accurate data analysis is crucial for making
+informed decisions that balance profitability with market
+competitiveness.
+2. Strategy Development
+• Role: Develop comprehensive monetization strategies that
+align with corporate goals.
+• Importance: A well-crafted strategy ensures that all pricing
+decisions contribute to long-term objectives such as market
+share growth, customer acquisition, and revenue maximization.
+3. Project Management
+• Role: Coordinate cross-functional initiatives involving multiple
+teams.
+• Importance: Effective project management ensures that
+strategic initiatives are executed smoothly and on time, with
+all stakeholders aligned on objectives and deliverables.
+4. Pricing Operations
+• Role: Implement pricing strategies at the deal and system
+levels, manage SKU creation, and maintain price lists.
+• Importance: Operational execution is critical for ensuring
+that pricing strategies are consistently applied and that any
+adjustments are promptly reflected in the company’s pricing
+infrastructure.
+PRICE TO SCALE
+107
+Cross-Functional Collaboration
+Successful monetization strategies require seamless collaboration
+across various teams:
+1. FP&A: Provide financial modeling and margin analysis to
+ensure pricing strategies are financially viable.
+2. Sales Operations: Align on go-to-market strategies and ensure
+sales teams are equipped to execute the pricing strategy
+effectively.
+3. Product and Product Marketing: Collaborate on roadmap pri-
+oritization and new feature launches to ensure that moneti-
+zation opportunities are fully realized.
+4. Marketing: Coordinate on demand generation and messag-
+ing to support the pricing strategy and drive customer acqui-
+sition and retention.
+5. Business Systems: Ensure system readiness to support new
+pricing models and operational requirements【4†source】.
+Governance and Performance Tracking
+Ongoing governance is essential to maintain the integrity of the
+pricing strategy. This includes:
+1. Regular Reviews: Conduct periodic reviews of pricing
+strategies and performance against key performance indi-
+cators (KPIs) to identify areas for adjustment.
+2. Performance Metrics: Track the performance of pricing
+initiatives, including revenue impact, customer acquisition,
+and retention rates, to measure success and inform future
+strategies.
+3. Adjustment Mechanisms: Implement mechanisms for
+making data-driven adjustments to pricing strategies in
+response to market changes and performance insights.
+AJIT GHUMAN
+108
+The Centralised Owner of Pricing
+In many companies, the lack of a centralized owner for pricing can
+lead to missed opportunities and strategic misalignments. Without a
+dedicated Pricing and Monetization (P&P) owner, companies may
+struggle to optimize for value and coherence across different func-
+tional areas. Engaging a specialized firm or establishing an internal
+team focused on pricing can yield significant benefits by ensuring a
+unified approach.
+Pricing is inherently cross-functional, impacting every team from
+Sales and Marketing to Customer Success, Accounting, and even
+Legal. One crucial, often overlooked role of Pricing is uncovering un-
+derlying strategic inconsistencies. For example, if the Product team
+focuses on building premium features while the Marketing team
+aims to generate a high number of leads, it indicates a clash: one
+team follows a strategy to maximize revenue per account, while the
+other operates on a high-volume, low-cost model. These inconsisten-
+cies can lead to significant inefficiencies.
+Think of Pricing not only as a function responsible for delivering the
+new line-up design but also as a key player in uncovering opportunities
+for organizational alignment. By identifying and addressing these
+strategic discrepancies, the Pricing team can help ensure that all parts
+of the organization work towards a common goal.
+Conclusion
+The Pricing and Monetization team is a cornerstone of a SaaS compa-
+ny's success, tasked with the complex and critical responsibility of
+maximizing revenue through strategic pricing and effective monetiza-
+tion. By leveraging data analytics, strategic development, project
+management, and operational execution, this team ensures that pricing
+decisions align with corporate goals and market dynamics. Their cross-
+functional collaboration and governance efforts further enhance their
+ability to drive sustainable growth and competitive advantage in the
+ever-evolving SaaS landscape.
+PRICE TO SCALE
+109
+Establishing a centralized owner for pricing can greatly enhance a
+company's ability to align its various functions and optimize for
+value. The Pricing and Monetization team delivers strategic pricing
+and uncovers and resolves strategic inconsistencies, fostering a
+cohesive and efficient organizational strategy.
+Pricing Calculator
+In most organizations, building out a simple pricing calculator in
+Excel or Google Docs can be a very powerful enablement tool, and
+not just for sales but also for folks in your product team, sales
+operations team, finance and more.
+Now let me couch the word ‘simple’. It is only simple in relation to a
+CPQ build out but can be significantly involved. When I revamped
+the calculator based on new packaging and pricing at Narvar, it took
+me well over 2 weeks to make sure it covered all our pricing scenarios
+and was setup in a user friendly way, where sales reps could easily
+duplicate the main tab of the calculator and get cracking at pricing.
+Often you will need to build out both CPQ and a Pricing Calculator,
+with the former being more of a gold standard quoting system, and
+the latter being an agile sales and product tool.
+Figure 30 illustrates a (fairly) simplified representation of a google-
+doc based calculator.
+AJIT GHUMAN
+110
+
+Fig. 30: A Simple Pricing Calculator
+The simple calculator depiction shows that in order to price out a
+certain package, a sales rep needs only to take three simple steps to
+get to the price. Check off the packages and add-ons in question,
+enter the estimated quantity of the main pricing variable and then
+note down the itemized price for their selection.
+In most cases this can be really useful to provide a price range to
+prospects in the initial stages of a deal, followed later by using CPQ
+to formalize the process.
+In reality, the calculator won’t be so simple. You will likely have many
+more SKUs, add-ons and special conditions to abide by. Even so, I
+hope this provides a general idea of what the inputs and outputs
+should look like.
+PRICE TO SCALE
+111
+The internet will probably give you dozens of such examples, but
+what you should note are the following tips:
+1. Make the calculator super simple to use: I’d be thousands of
+dollars richer if I had a buck for every time a sales rep wanted
+me to price out their deal for a specific situation. This is after
+I tried my best to simplify it as much as possible. Spend as
+much time cleaning up the UI of the calculator as you spend
+on the formulae and reference tables themselves.
+2. Realize that it's a piece of software: As soon as you release a
+version of the calculator, you will start to get a lot of usage
+and your pricing or packaging may have small changes or
+errors caught as things proceed. You’ll need to set it up such
+that all your reps can always access the latest version of this
+software. Do not open up a single tab for everyone to use, do
+not commit to fixing every rep’s version either. The best
+process is to keep either a protected google sheet or a tab that
+cannot be modified by the reps, but can be routinely copied
+for pricing work. Then when you release an update, you will
+have to combine that with communication asking the reps to
+make new copies.
+3. Don’t create long chain formulas: This is still related to #2,
+but important enough that I’m calling it out separately. Excel
+will let you create really intricate formulae, with arcane
+functions - don’t do it. Create simple formulae that refer to
+calculations from intermediate tables and sheets. Organize
+everything in a modular fashion because inevitably you will
+change the pricing or someone else will try to modify the
+calculator, and if it is too complex, it will introduce
+unnecessary headaches. Worse still, if an executive tries to
+understand it and can’t, they won’t trust the output -- believe
+me this happens far too often. Keep things modular and
+transparent.
+AJIT GHUMAN
+112
+CPQ
+Configure-Price-Quote (CPQ) refers to a system that allows a sales
+rep to configure a package, generate a pricing quote (including
+internal approvals on discounts, etc.) as well as the contractual
+paperwork for their deal in a seamless automated process, enabling
+fast deal closure with transparency, as well as keeping a record in
+the CRM of what exactly was sold and for how much.
+Another larger benefit is that it enables complete adherence to the
+pricing model. Because a software quoting implementation imposes
+guardrails on use cases and limitations to manually closed deals, it
+forces sales reps to strictly adhere to the pricing model deployed.
+Quoting Johnny Cheng:
+“My fundamental belief is that in order to do value selling, you
+need a lot of flexibility, a ton of flexibility. What ends up happen-
+ing in a model where if you introduce a lot of flexibility, is it comes
+with complexity. But complexity is a deal killer, it slows down
+deals, complexity makes it so that the reps can't defend the deal,
+they can't defend the price points, they can't understand why it's at
+this price point. And so in order to solve for that complexity and
+keep the flexibility, you have to introduce tools such as CPQ“.
+In practice however it is hard to implement well, and is something
+nearly every pricing leader I interviewed considers a headache or a
+challenge.
+In order to implement a CPQ solution, as the pricing leader, you will
+need to interface with your Sales Ops, Finance and Sales teams. In
+most cases such an implementation should be owned by the Ops
+team with heavy input from you on the pricing structure.
+Be warned however that your job here starts to mimic that of a
+software product manager and that requirements will have to be
+defined fairly granularly. You will need to produce documents that
+cover all of the following:
+PRICE TO SCALE
+113
+• How new deals will be priced
+• How upsells will be priced
+• Packages with add-ons and dependencies defined
+• What the discounting structure is
+• Whether older pricing books should be carried over
+• Policy regarding grandfathering older customers
+• Policy regarding overages in usage
+• The product data required for product usage monitoring
+• A process of introducing new products
+• Test cases to ensure correct outputs
+• Any inputs/edits on generating Order Forms or Statements
+of Work
+• Defined approval chains for non-standard deals
+• And more.
+Suffice to say this work somehow always tends to take 2-3x more time
+than you will estimate initially whether or not you have a consultant
+or an internal team building this out for you. This is so mostly
+because the scenarios that have to be built into this piece of software
+go beyond the pricing structure; they have to do with the day-to-day
+process (sometimes informal) of deal closure and in many cases
+highlights undefined policies for certain internal business processes.
+Keep this timeline in mind before committing a rollout timeframe to
+your leadership team.
+Beyond the pricing and process definition it is critical to involve
+some key friendly sales reps in the build phase. These reps can test
+to make sure the software is simple enough to use without unnec-
+essary complexity, confusion or friction. Many implementation
+teams scramble to get an implementation finished without sales in-
+volvement and call it a day with a basic sales training. Inevitably this
+will lead to some unexpected usability or use case issues cropping up
+that may limit sales adoption of the product. The worst thing after
+months of implementation would be for your sales team to rebel,
+AJIT GHUMAN
+114
+eschew the process and revert back to a totally manual way of selling
+— if this happens you will be left cleaning the mess on the other hand.
+There are a ton of resources online that offer best practices on CPQ
+implementation. One that I liked is a book on the topic, CPQ
+Implementation Guide by Marcin Krzych26.
+As a final note of personal opinion, fast growing companies where
+pricing structure may undergo evolution every other quarter, may
+not want to overinvest in this CPQ capability. Primarily because CPQ
+implementations take a long time, and by the time you have put
+something into product use, new requirements come up - sinking a
+lot of time and resources in this never ending process. At some point
+you may still need to do this, I would personally live on a Google
+spreadsheet based calculator until ~15-20M revenue which would
+provide (hopefully) enough time to have a mature internal deal
+closure process.
+Discounting
+One of the tools that always works to your advantage in B2B software
+pricing is discounting, as long as customers can’t just put their credit
+card information in and buy which is the only case where disco-
+unting is bound to be 0.
+In most other cases where customers negotiate the price with sales,
+discounting not only needs to be baked into the price point you come
+with due to industry-default expectations of the sales process, but it
+also lets you survive without very robust statistical models to arrive
+at the price point(s) for your product as the price point can vary
+somewhat even amongst lookalike customers.
+
+26 https://www.amazon.com/CPQ-Implementation-Guide-implementing-
+organisation-ebook/dp/B07H64F4SM
+PRICE TO SCALE
+115
+This is the closest tool that lets us reach a price optimized local
+maxima that can account for variations in price elasticity between
+customers.
+As a very rough rule, you can expect discounting in different
+customer segments to obey the following ranges:
+• Commercial: 10 to 30%
+• Mid-sized: 20 to 50%
+• Enterprise: 30 to 70%
+If you have three customer segments that can be defined by size and
+map to the descriptions above, then you can simply pick a rough
+number from the ones above and essentially pad the price point you
+would have come up with by that amount, e.g. your commercial plans
+will have a buffer padding increasing the price point by 10 to 30%.
+Additionally, but limiting the discounting authority of your reps,
+managers and leadership in sales to steadily increasing approval
+limits, you actually create a sales tool for your reps that helps them
+build trust with their prospects as they end up fighting for a better
+deal for the customer. The best analogy is that you are purposely
+adding some friction to the sales process. Just remember a little
+friction goes a long way, a lot of friction leads to a disgruntled sales
+team and customers who balk at the initial number they see.
+Evaluating the Effectiveness of Discounting Strategies
+Once a discounting structure has been implemented, it’s essential to
+evaluate whether it is functioning as intended. There are two critical
+aspects to assess:
+1. Customer Behavior Impact: The primary goal of any discounting
+strategy is to influence specific customer behaviors. It’s important to
+verify whether the discount is indeed driving the desired outcomes,
+such as a higher close-rate, faster movement through the sales
+pipeline, longer-term commitments, or an increase in multi-product
+purchases. The effectiveness of the discount should be measured by
+AJIT GHUMAN
+116
+its ability to achieve these objectives. If the anticipated behavioral
+changes are not materializing, it may indicate that the discounting
+strategy needs to be re-evaluated or adjusted.
+2. Correlation with Sales Performance: Another key factor to examine
+is whether the level of discounting is more closely correlated with the
+attributes of the customer or with the actions of the sales
+representative. In other words, is the discount being applied based
+on the characteristics and needs of the customer, or is it largely
+dependent on the individual sales rep’s approach? If discounting
+patterns are more reflective of who is selling rather than who is
+buying, this could suggest inconsistencies in how discounts are
+applied across the sales team. Such a scenario might indicate the
+need for retraining the team or it could highlight flaws in the
+discount design itself.
+By regularly monitoring these two aspects, organizations can ensure
+that their discounting strategies are not only effective in achieving
+their intended goals but also that there is no ‘revenue leakage’
+occurring as a result of unnecessary discounting that does not yield
+the results.
+Discounting Matrix
+In order to make this usable, a very standard operational document
+is something called a Discounting Matrix. It lets your Sales team
+know the level of discounting authority different people in the team
+have to offer a discount to the customer. Even if you may have built
+say a 40 to 50% padding in list prices, you should give your AEs lesser
+discounting authority than that -- the idea is to include a little bit of
+friction in the process that lets an AE run a discount up their
+hierarchy and be able to offer something that the customer wants.
+Yes it is artificial, but it works. Higher discounts must appear to
+prospects as being earned or negotiated and not just given away by
+any sales representative - which will dilute the value of the discounts.
+PRICE TO SCALE
+117
+Figure 31 presents one example of such a discounting matrix table. It
+shows a progressively increasing discounting and deal term authority
+structure across sales hierarchy levels.
+
+Fig. 31: A Simple Discounting Matrix
+Pricing Analytics
+A routine performance analysis on your pricing model’s perfor-
+mance is absolutely critical for your pricing initiative to become suc-
+cessful. In most cases, everything from packages, pricing and sales
+operations will have to be tweaked quarter over quarter for your
+pricing model to really work.
+Here is a quick list on the metrics that I recommend measuring in a
+given quarter:
+Average Selling Price: The product ASP is generally a board-level top
+line revenue metric that offers directional information on product-
+line performance. The benefit of such high-level, non granular
+metrics is that even across different pricing models, the ASPs can be
+trended over time providing an apples to apples understanding of
+revenue movement that does not rely on knowledge of market
+movements or pricing model trends. Over time, it is one of the key
+directional indicators that investors are most interested in. Even
+when the underlying packaging structures change, the ASPs at the
+global product family level are very helpful directional indicators.
+AJIT GHUMAN
+118
+Median Selling Price: The Median Selling Price is very similar to the
+ASP. The only reason it would be advisable to calculate the median is
+because if, as is usual in startups, the number of deals closed is
+small, then a number of very small or very large deals can swing the
+ASP. This can provide one indication as to why there is a
+change/swing in the ASP.
+Number of Deals Closed: For the most part, for growing startups, in
+most quarters the number of deals closed should be slightly greater
+or the same than previously. In some cases, such as in the case of
+the COVID-19, a change in the market situation might significantly
+reduce the number of deals closed. In that case an increase in ASP
+would not mean the same thing if the number of deals closed
+decreased sharply. To use ASP as an indicator of how the pricing
+model performed, it helps to look at this metric to ‘normalize’ the
+true impact.
+Unit Price: Just like the ASP, unit price ($ per seat or $ per unit
+consumption, etc.) is one of the most important factors in assessing
+the price power of a product or package. A gradually increasing unit
+price indicates how compelling prospects find your product in the
+market. It does better at indicating pricing power than the ASP
+because the ASP can often vary with a change in the deal mix (many
+smaller deals or many large deals, for e.g.), and the unit price will
+tend to be more stable over time.
+Average volume sold: The average number of seats or estd consump-
+tion volume sold is a metric that roughly correlates to the size of
+opportunities you tend to sell for a given product, segment or
+package. When analyzed at a package level, this will tend to be con-
+sistently different across packages as they generally tend to diverge
+based on the size and hence consumption need of the prospect. Two
+packages that aim to target different customer segments with similar
+average volume may indicate that you just need one package, not two.
+Discounting %: Discounting is a very helpful number to analyze in
+the context of a given pricing model. Combined with benchmarks
+PRICE TO SCALE
+119
+(both internally and for the industry), it can help inform if the price
+point is too low or too high. It can break internal disagreements
+where Sales might push for lower price points where the real
+discounting may not be very high, it can also be helpful to see if Sales
+is inflating list prices (-ve discount rates), indicating the price may
+be too low.
+Important Segmentation Criteria: Additionally, for the above metrics
+to provide actionable information, the closed deal dataset you pre-
+pare would benefit from the following segmentation of data for you
+to truly be able to dive deeper into performance:
+1. Product Family
+2. Package Sold
+3. Add-on Sold (if expansion)
+4. Geo
+5. Sales sub-team
+6. Sales owner
+7. Closed quarter & fiscal year
+8. Other: key technical/prospect attribute
+Be prepared to munge through data in excel and manually calculate
+these variables if the data is not readily available in your CRM (which
+tends to happen a lot). But the effort in analysis and understanding
+business performance will be worth it.
+AJIT GHUMAN
+120
+True Attribution of Pricing Model Changes
+As you start this exercise you will quickly realize that perfect attribution
+of the change in a pricing model is hard to measure. Given the growing
+nature of any business, many other factors change quarter over
+quarter, and say a 20-30% net change in revenue could be attributed to
+many other variables such as new products, better market conditions,
+more sales people or better sales productivity.
+The closest possible way to measure attribution would be to re-price
+deals sold under the new pricing model, with the older model, apply the
+same discounting percentages and then compare the outputs. Even
+then, applying the newer discounting thresholds makes it a less than
+perfect exercise, but it can still be helpful.
+All this to say, that measuring performance in practice often becomes
+more about whether or not the older problems experiences are solved,
+such as reduced ASPs, shelfware or low package adoption. If
+performance under the new model consistently solves these problems
+quarter over quarter, then in most cases that should be proof enough.

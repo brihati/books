@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 13252,
+    "char_end": 20928,
+    "checksum": "8125f301e178789f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+he new cars; they saw real value in them. Therefore, for the Cayenne and later the Panamera, Porsche initially came to market with only the premium eight-cylinder engine models. The company waited a year before rolling out less expensive six-cylinder models. That allowed Porsche to skim the cream of its market segment— the customers who wanted to be the ﬁrst on their block to own a sporty SUV or family sedan from Porsche. Those customers had to buy the higher-priced (and higher-margin) models, even if they didn’t value an eight-cylinder engine. Porsche’s C-Suite Task: Planting New-Product Monetization into the Company’s DNA Porsche’s top managers, right up to the CEO and the board, drove the
+
+“design the product around the price” innovation approach. Through their conversations and their actions, Porsche’s C-suite has infused the principle into the company’s DNA. The company has long referred to its DNA as “The Porsche Principle.” This broader guiding philosophy is to “always get the most out of everything . . . to translate performance into speed—and success—in the most intelligent way possible.” But to make monetizing innovation part of that philosophy, Porsche’s top executives knew they constantly had to lead by example. How did they do that? When the ﬁrm’s product developers started the Cayenne project, the C-suite rented and test drove rivals’ cars to gain ﬁrsthand knowledge about their road performance. In its car clinics, focus groups, and other research activities, Porsche’s top executives eagerly spoke to participants to gather feedback. They also intensively watched focus group videos and returned to the product development teams with speciﬁc questions. These actions sent an inarguable message to the teams: This exercise is important. That kind of top-level interest and support, for customer research on a new car’s value and customers’ WTP for it, is rare among the world’s Learning from the Best 169 automakers—and we know most of them. Top management also made sure that all relevant functions—sales, marketing, product, strategy, after sales, market intelligence, ﬁnance, controlling etc.—were represented in the new product team. With that approach, all monetization aspects were evaluated holistically, if possible in a quantitative way. Decisions which would only support sub-goals of speciﬁc functions but contradict the overall Porsche goal were avoided. Finally, the teams had to present the monetization strategies for the new Cayenne and Panamera to the full board. That, too, created a very clear message to Porsche’s product development teams—the board recognized the importance of the new Cayenne and Panamera and their monetization strategies. Needless to say, it also helped the teams get the time and money necessary to design and price those products right. And right they were: By 2014, Porsche was selling more than twice as many nonsports cars (about 135,000 Cayennes, Panameras, and a newer SUV called the Macan) as the sports cars and roadsters it’s been identiﬁed with for nearly 70 years. Porsche is a study in how a company can transform itself through disciplined innovation. It succeeded by making bigger, bolder new product decisions based on painstaking upfront work on exactly what customers needed, valued, and were willing to pay for. LinkedIn—Monetizing the World’s Largest Professional Network LinkedIn was launched in 2003 out of the Silicon Valley living room of entrepreneur Reid Hoffman. By “connecting talent with opportunity at massive scale,” the site has grown to more than 400 million members worldwide. A driving factor of LinkedIn’s success has been the values and principles driving day-to-day decisions. CEO Jeff Weiner explains, “There are six values . . . and by far the most important one is members ﬁrst. We as a company are only as valuable as the value we create for our members.”4 The Mountain View, California, ﬁrm started with a concrete goal to create economic opportunity for every member of the workforce. LinkedIn has done so by giving its members a platform through which they connect with others, ﬁnd job opportunities, and share knowledge. 170 Monetizing Innovation While the service started off as free, LinkedIn had clear monetization goals. From the start, the team was highly focused on the members-ﬁrst philosophy, adding value to members and monetizing that value. The strategy has paid off handsomely: LinkedIn is now a $3 billion business and operates in more than 200 countries. Designing Products Based on the “Members First Principle” From day one, LinkedIn held an unwavering focus on delivering value to members. The beneﬁts of this focus are evident in the company’s success. Here are but a few examples of products that have fueled LinkedIn’s fortunes, starting with a product that allows members to send private e-mails through the LinkedIn platform. Designing and Pricing a LinkedIn E-mail System Right Building the largest professional network provides LinkedIn with a ﬂurry of competitive advantages. One of these is the ability to let you contact professionals you don’t personally know, but want to network with. This ability was productized as the LinkedIn InMail. Since its inception, InMail has been a premium feature. The price, ﬁrst set at $10 per InMail, seemed expensive. However, LinkedIn strongly believed that messaging someone you didn’t know was a privilege. After conﬁrming with customers that they valued the feature (and were willing to pay for it), LinkedIn was ready to go to market with the InMail product. Incidentally, the higher price also generated positive externalities for members. Setting the price at a premium preserved the quality of the marketplace and gave the service additional legitimacy. Had InMail been free, spam messages may have ﬂooded members’ inboxes and devalued the network. In this case, a higher price actually increased value for customers. Before going to market, the “members-ﬁrst” philosophy drove the LinkedIn team one step further—recognizing the uncertainty members faced whenever they sent an InMail to a stranger, the team created a response guarantee. Members would only be charged for an InMail if they received a response. With powerful value messaging to communi- cate the credibility and guarantee of the InMail, member adoption of InMail rose signiﬁcantly. In the many years since its inception, it has become a “leader” feature for members with paid subscriptions. Learning from the Best 171 But that’s not the end of the story. Fast forward to January 2015. LinkedIn tweaked its InMail policy, again in a way that put members’ needs ﬁrst. The adoption of InMail had grown signiﬁcantly, and LinkedIn needed to reevaluate the overall health of the marketplace. The new policy ﬂipped the original on its head: If a member received a response to an InMail within 90 days after they sent it, it would be credited back to them (and they wouldn’t pay for it). If there was no response, you would pay for the InMail. The policy discouraged recruiters from sending generic InMails that generated few responses and thus created a poor member experience. We must point out that LinkedIn changed its InMail policy 12 years after the site opened for business. Had the company launched its InMail program with this policy, few members would have used the service; the site didn’t have enough members at the time. It made sense only when LinkedIn had become highly popular, with hundreds of millions of members. Creating Products for Recruiters and Members From the begin- ning, LinkedIn was keen on monetizing both sides of the two-sided marketplace it served. On one side would be members, who created
+>>>

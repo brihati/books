@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-011",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 69059,
+    "char_end": 76697,
+    "checksum": "fafcd6473658d63c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ll take the ﬁrm another one to two years to complete the journey. “You can’t underestimate how long it takes to change a ﬁrm’s product development approaches, especially to change the mindsets people bring to the innovation process,” he explains. “It is not just a process change; it’s a very different way of thinking.” Making these difﬁcult changes cannot be ad hoc; the effort must be structured. Swarovski installed a pricing board of three people to guide and push the change process, including the heads of marketing, sales, and the controller. The board’s mandate is to give clear direction, resolve conﬂicts, monitor the monetization progress, and make necessary cor- rections to the process.
+
+It meets six times a year and has proven to be effective in moving Swarovski from a “price the product” to a “design the product around the price” approach. For the more operational monetization support, Kargruber has created a pricing ofﬁce with two full-time employees based in the marketing organization. They report to him and help innovation teams apply the new monetization approaches. With a “design the product around the price” innovation moneti- zation process, executives on a pricing board to steer it, and support from Kargruber’s group, Swarovski crystals are glittering even more brightly in the marketplace. “In hindsight, we should have done this even earlier,” Kargruber says. Nonetheless, the company is quickly making up for lost time. Learning from the Best 193 Optimizely—How to Price Breakthrough Innovation Rapidly advancing technologies make all kinds of newfangled products and services possible, but innovators face a great monetization challenge: determining whether a brand new product can sell, and at what price, before investors pony up their money. Seventy-ﬁve percent of venture capital–based start-ups fail in the United States, according to a 2012 Harvard Business School study.13 But the story of Optimizely shows why this doesn’t have to be. The San Francisco–based ﬁrm used the principles in this book to assess the market potential for its breakthrough offering long before launching it in the market—and knew that it would succeed at monetizing. Launched in 2010, Optimizely has become a Bay Area star, achieving triple-digit annual revenue growth since its start. Thousands of companies have used its products, including Dell, Netﬂix, and Disney.14 Optimizely is now the world’s most popular software for optimizing websites, creating and delivering more than 30 billion optimized visitor experiences.15 Founded by two former Google product managers, Dan Siroker and Pete Koomen, the idea for Optimizely emerged during Siroker’s stint as director of analytics for the 2008 Obama presidential campaign. Siroker’s team compared the effectiveness of web pages, e-mail messages, and other communications in order to boost donations, e-mail signups, and volunteers. For example, they compared how website visitors react to different versions of a web page (to see which one would perform better). They were also able to measure the impact of changing speciﬁc web page elements, such as a picture or a headline. They found, for example, that a button reading “learn more”—rather than “sign up” or “join us now”— was more likely to get a visitor to give his e-mail address. A black and white picture of Obama with his family also boosted engagement with the site. When the image and the “learn more” button were combined, 40 percent more people entered their e-mail addresses.16 Optimizely’s techniques helped the Obama campaign raise more than $100 million in additional donations. From this experience, Siroker saw an opportunity to commercialize A/B and multivariate testing and launch it as a full-ﬂedged software product. The software could help companies improve their website experiences for customers, which is especially important to e-commerce 194 Monetizing Innovation companies. Siroker’s results from the Obama campaign gave him credibility. First Up: Determining Whether Customers Would Pay Siroker sought out his former Google colleague, Koomen, to investigate the commercial viability of the product. But instead of diving headlong into development, as many Silicon Valley companies would, they started having the WTP talk with potential customers. “We had a strong belief many companies would ﬁnd our technology valuable,” said Siroker in a conversation he had with us.17 “But we didn’t really know just how many and whether they would pay for it. We also needed to ﬁnd out exactly what beneﬁts drove customer value and how much each customer segment would be willing to pay for different levels of value.” At the time, A/B testing was in its infancy, and Optimizely had no products to sell. But when Siroker presented his idea to e-commerce companies, they instantly recognized its value. They also expressed a high WTP, which was no surprise. If more customers engaged with their website, they were more likely to spend more time on the site, and therefore they would make more purchases more often. In other words, Optimizely’s customers could generate incremental revenue by using the Optimizely software product. Siroker and Koomen set out to create a world-class but easy-to-use online service on which businesses could run experiments about their websites and make informed decisions about how to change them. They worked with Stanford statisticians to develop a new, powerful, accurate statistical framework for A/B testing that would remove the guesswork from declaring a test successful and statistically signiﬁcant. Siroker and Koomen set up shop in downtown San Francisco, near a swarm of other web companies. Still, with no commercial competitors, how would Optimizely price its platform? To buy the Optimizely testing product, what capabilities would customers need? To answer these questions, Siroker and Koomen created a monetization task force, a team with members from product, marketing, sales, and ﬁnance. Their job was to determine which features were and were not important (the product conﬁguration considerations) and the best monetization model. Should it be fee per transaction? A Learning from the Best 195 subscription service? Freemium? They also looked at pricing strategies and how much they could charge. From their conversations with potential customers, the monetization team identiﬁed clusters, or segments, of the market according to the value they desired from different feature sets.With that information, theycreated packages (i.e. productconﬁgurations) that variedby value (features offered) andprice.These packages, they believed, would satisfy companies across all sizes. They also deﬁned the minimum set of features for the “freemium” product, and they outlined a clear and compelling land-and-expand strategy that would convert free users to paid users over time. But the Optimizely monetization team was still missing a core ingredient: a revenue model that would be a win for both the ﬁrm and its customers. In other words, they needed a winning monetization model. So they set out to create one. Understanding How to Charge To the Optimizely monetization team, the question of how to charge was, in many ways, more important than how much to charge. The more a customer uses the product, the more beneﬁts the customer derives. Consequently, the team wanted to base the monetization model on usage. Use it more, pay more for it. But that model would be a bit unusual in the software industry (at least back in 2010). When the team looked at the software market, it found most SaaS companies priced their offerings on a per-user basis. Per-
+>>>

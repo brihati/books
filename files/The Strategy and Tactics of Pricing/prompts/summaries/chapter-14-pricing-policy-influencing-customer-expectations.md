@@ -1,0 +1,1168 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-14-pricing-policy-influencing-customer-expectations
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-001",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 6949,
+      "char_start": 1,
+      "checksum": "60159b7fad4c4cf6",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "This chapter explains how pricing policies influence customer expectations and purchasing behavior. It distinguishes between price structure (macro-level alignment across customer segments) and pricing policy (rules for discounts/surcharges within segments). The chapter demonstrates how predictable discounting patterns, competitive bidding policies, and reactive pricing create negative customer expectations that undermine pricing power and disconnect price from value.",
+    "key_points": [
+      "Price structure aligns differences in price paid with differences in value received and cost to serve across macro segments",
+      "Pricing policy defines rules and conditions for price discounts or surcharges within a segment",
+      "Customer expectations about pricing behavior drive purchasing decisions more than the actual price itself",
+      "Periodic, predictable discounting trains customers to wait for sales, reducing regular-price sales",
+      "Professional B-to-B buyers delay purchases until late quarter when sales managers discount to meet goals",
+      "Reactive pricing policies that match competitor prices create expectations that competitive bidding will be rewarded",
+      "A pricing policy is a rule or habit consistently applied that defines criteria for changing prices for individual customers or transactions"
+    ],
+    "arguments": [
+      "A customer's willingness-to-pay is not determined solely by whether a price is fair compared to economic value, but by expectations about future price changes based on past behavior",
+      "Sellers often misinterpret declining regular-price sales as increased price sensitivity when customers are actually responding to incentives created by pricing policies",
+      "Transparent pricing policies that influence customer behavior (like rush order upcharges) can be beneficial when they align behavior with value creation",
+      "Sellers undermine pricing power through short-term sales decisions that adversely affect buyer expectations and future behavior"
+    ],
+    "examples": [
+      "Retailer offering 'buy one, get one free' promotion to stimulate store traffic, risking that regular customers will stock up and reduce future visits",
+      "Amazon's Subscribe-and-Save policy applies increasing discounts for ordering more unique items together regularly, but not for ordering more units of the same item",
+      "Purchasing agents splitting purchases among multiple suppliers (60% to best price, 30% to second best, 10% to third best) and regularly switching rankings to induce bidding wars",
+      "Seller requiring buyers to take extra discounts as year-end rebates if annual purchase volume exceeds target percentage, locking in buyer commitment",
+      "Retail consumer delaying purchase of fall fashion expecting a 20-percent-off sale within a month based on store's past behavior",
+      "Professional B-to-B buyers holding purchases until last two weeks of quarter when sales managers discount to achieve quarterly goals"
+    ],
+    "stories": [],
+    "definitions": [
+      "Price Structure: establishing alignment of price differences with value differences and cost to serve across macro segments of customers and applications",
+      "Pricing Policy: rules and conditions for price discounts or surcharges that could be applied to a transaction within a segment",
+      "A pricing policy is a rule or habit, consistently applied, that defines the criteria under which a company will change a price for an individual customer, for a limited period of time or for particular transactions"
+    ],
+    "names": [
+      "Elon Musk",
+      "Amazon"
+    ],
+    "dates": [
+      "September",
+      "quarterly (end of quarter)"
+    ],
+    "numbers": [
+      "60 percent",
+      "30 percent",
+      "10 percent",
+      "20-percent-off"
+    ],
+    "places": [],
+    "terms": [
+      "Price Structure",
+      "Pricing Policy",
+      "Price Discounts",
+      "Surcharges",
+      "Price Promotion",
+      "Subscribe-and-Save",
+      "Rebate",
+      "Value-based pricing",
+      "Willingness-to-pay",
+      "B-to-B sales",
+      "Reverse auction",
+      "Price exceptions"
+    ],
+    "quotes": [
+      "There can never—and I mean never—be a discount on a new car coming out of the factory in pristine condition.",
+      "If customers come to expect that some change in their purchasing behavior will enable them to get the same product or service at an even better price, then the regular price becomes no longer acceptable.",
+      "Expectations drive buyer behavior and nowhere more so than when responding to prices.",
+      "Sellers often misinterpret the declining sales at regular prices and the increasing portion of their sales at discounted prices as a sign that customers have become more price sensitive."
+    ],
+    "actionable_lessons": [
+      "Implement quantity limits on promotional pricing to prevent customers from stocking up and reducing future store visits",
+      "Design discount policies that reward behaviors aligned with value creation (e.g., advance commitments, volume consolidation) rather than behaviors that undermine pricing",
+      "Use year-end rebate structures tied to annual volume targets to lock in customer commitment and prevent constant supplier switching",
+      "Recognize that transparent pricing policies designed to influence customer behavior can be beneficial when they align incentives",
+      "Avoid periodic, predictable discounting patterns that train customers to wait for sales",
+      "Do not adopt reactive pricing policies that match competitor prices, as this creates expectations that competitive bidding will be rewarded",
+      "Anticipate the expectations that pricing policies create for repeat customers",
+      "Understand that declining regular-price sales may reflect customer response to pricing incentives rather than true price sensitivity"
+    ],
+    "open_questions": [
+      "How can companies change customers' expectations once they have been established by past pricing policies?",
+      "What are the most effective pricing policies for different types of customer segments and industries?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-002",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 13905,
+      "char_start": 6249,
+      "checksum": "0a32e99bd84c2ee9",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses how pricing policies shape customer expectations and purchasing behaviors, particularly in B-to-B markets. It contrasts the sophisticated strategic sourcing approaches of large buyers with the often reactive pricing strategies of sellers, and emphasizes the importance of consistent, well-defined pricing policies over ad hoc discounting decisions.",
+    "key_points": [
+      "A pricing policy is a rule or habit consistently applied that defines criteria for changing prices for individual customers, limited periods, or particular transactions",
+      "Companies can change customer expectations through pricing policies designed to influence those expectations positively",
+      "B-to-B companies often create unintended customer expectations through inconsistent discount approval processes",
+      "Strategic sourcing by large buyers has become more sophisticated than most sellers' pricing strategies",
+      "Pricing decisions should be made by policy rather than as one-off events to avoid setting problematic precedents",
+      "Pricing policies must be supported by long-term strategy and applied consistently across the organization"
+    ],
+    "arguments": [
+      "Sellers should disconnect price from value manipulation by adopting purchasing policies that prevent customers from expecting prices to be negotiable",
+      "Discount approval processes function as personnel policies rather than actual pricing policies when no true price-and-discount policy exists",
+      "Strategic sourcing by buyers has moved far ahead of most sellers in adapting behavior to achieve favorable pricing",
+      "Sales reps alone cannot meet the challenge of price negotiation with strategic purchasers; long-term strategy and consistent policies are required",
+      "Pricing by policy forces companies to consider market-wide impact rather than just immediate transaction rewards"
+    ],
+    "examples": [
+      "Some retailers offer '30-day price protection' to enable deal-sensitive shoppers to buy now and receive a credit for the difference between the price paid and a sale price offered within the next 30 days",
+      "Some B-to-B companies have adopted a policy not to participate in buyers' reverse auctions when they can only see competitive price offers but not differences in quality, capabilities, and services",
+      "A B-to-B sales rep may be granted discretion to discount by up to 5 percent, a regional manager can approve discounts up to 15 percent, and the vice president of sales by up to 25 percent"
+    ],
+    "stories": [],
+    "definitions": [
+      "Pricing policy: a rule or habit, consistently applied, that defines the criteria under which a company will change a price for an individual customer, for a limited period of time or for particular transactions",
+      "Strategic sourcing: a sophisticated process and policy used by large purchasing departments to ensure they get the lowest prices possible while establishing conditions that increase future leverage"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "5 percent - discretion level for B-to-B sales rep discounts",
+      "15 percent - discretion level for regional manager discounts",
+      "25 percent - discretion level for vice president of sales discounts",
+      "30 days - price protection period offered by some retailers"
+    ],
+    "places": [],
+    "terms": [
+      "Strategic sourcing",
+      "Price protection",
+      "Reverse auction",
+      "Discount approval process",
+      "Price exception",
+      "Pricing by policy",
+      "Shadow of the future"
+    ],
+    "quotes": [
+      "A pricing policy is a rule or habit, consistently applied, that defines the criteria under which a company will change a price for an individual customer, for a limited period of time or for particular transactions",
+      "Putting a 'no exceptions' stake in the ground is a key to making pricing decisions that are profit-enhancing",
+      "Pricing by policy forces companies to consider the impact on the entire market when making a pricing decision and reflects the 'shadow of the future'"
+    ],
+    "actionable_lessons": [
+      "Treat every proposal or request for a price exception as an opportunity to create or change a policy that would be applied to all similar situations in the future",
+      "Develop clear, consistently applied pricing policies rather than relying on discount approval hierarchies",
+      "Consider whether a proposed pricing option could be offered to all similar customers and still be profitable before granting exceptions",
+      "Ensure pricing policies are created with input from leadership with market perspective and authority to make trade-offs, not just sales management",
+      "Develop pricing policies that cover discounting, cost pass-through patterns, product trial induction, and competitive response strategies",
+      "Recognize that the more often a company makes price exceptions, the more likely its policies are poorly defined or need revision"
+    ],
+    "open_questions": [
+      "How can sales organizations develop long-term pricing strategies that compete with sophisticated strategic sourcing approaches used by large buyers?",
+      "What specific pricing policies should companies establish to handle competitor low-price offers to their customers?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-003",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 20856,
+      "char_start": 13205,
+      "checksum": "70e733fcd66d5741",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "Pricing policies must be transparent, consistent, and proactive to manage customer expectations and prevent manipulation. The chunk addresses how to defend against four common tactics used by professional purchasers to disconnect price from value, focusing on commoditizing offers through specs and reverse auctions, and double discounting of price increases.",
+    "key_points": [
+      "Pricing policies should cover discounting, passing along raw material cost changes, inducing product trials, and responding to competitor low-price offers",
+      "Transparent and consistent policies prevent customers from engaging in threats and misinformation to learn trade-offs",
+      "Consistency communicates that the system cannot be gamed by contacting multiple company points",
+      "Price negotiation is unavoidable for unique products and customers in B-to-B markets",
+      "Professional purchasers use tactics to disconnect price from value that require defensive pricing policies",
+      "Reverse auctions allow bidders to see others' prices and revise bids electronically over hours"
+    ],
+    "arguments": [
+      "Creating pricing policies cannot be the responsibility of sales management alone due to lack of market perspective and authority for trade-offs",
+      "Policies influence which sales reps succeed—those selling at high margins by communicating value versus those driving volume through price exceptions",
+      "Transparent pricing rules are accepted by customers even if disliked, as demonstrated by airline pricing policies",
+      "Double discounting of price increases is a bogus argument that compounds costs over years"
+    ],
+    "examples": [
+      "Airlines have transparent pricing rules: low prices only when purchased in advance, charges for changes, no ticket transfers",
+      "Contractor building a unique research center",
+      "Consulting firm bidding to develop a plan for self-driving car market",
+      "Manufacturer selling drugs to national health authorities in single-payer systems",
+      "Lawn mowers and snow blowers sold to category-leading retailer like Walmart",
+      "Reverse auction where bids are opened electronically and competitors can revise bids based on others' prices"
+    ],
+    "stories": [],
+    "definitions": [
+      "Specs (specifications): exact requirements distributed by customers for competitors to bid against",
+      "Closed bids: bidding process where no one knows what others are bidding until opened",
+      "Reverse auction: electronic bidding where bids are open for everyone to see others' prices but not bidder identities, allowing bid revision",
+      "Unbundled price structure: pricing that affixes monetary cost to levels of quality and service that differentiate offerings"
+    ],
+    "names": [
+      "Walmart"
+    ],
+    "dates": [],
+    "numbers": [
+      "6 percent (example price increase)",
+      "25 percent (example volume discount)",
+      "4.5 percent (example discounted increase calculation)"
+    ],
+    "places": [],
+    "terms": [
+      "Commoditizing the Offers",
+      "Double discounting of price increases",
+      "Reverse auction",
+      "Price exceptions",
+      "Value-based price structure",
+      "Give-Get negotiation",
+      "Rush order charge"
+    ],
+    "quotes": [
+      "Creating policies cannot be the responsibility of sales management alone, since they do not have the perspective on the overall market or the authority to make the trade-offs that may be required",
+      "Any pattern creates expectations for how the company will deal with such issues in the future, and thus can change customers' future buying behavior",
+      "If your policies are transparent, customers need not engage in threats and misinformation to learn the trade-offs you are willing to make",
+      "Consistency communicates that it is impossible to 'game the system' by contacting multiple points in the company to find the best deal",
+      "Communicating policies proactively is much less contentious than telling a customer reactively that a proposal of theirs has, after some delay for review, been rejected"
+    ],
+    "actionable_lessons": [
+      "Develop transparent pricing policies covering discounting, cost pass-through, product trials, and competitive responses",
+      "For commoditized bidding: analyze specs carefully to reduce costs by cutting quality and service levels to meet but not exceed specs",
+      "Calculate the lowest profitable price for spec-based business without unnecessary costs and do not go below that price",
+      "Create a menu of profitably priced product and service upgrades for customers who want better terms after winning spec-based business",
+      "For sham reverse auctions: either refuse to participate or bid list prices to force honest Give-Get negotiation",
+      "Create an unbundled price structure that affixes monetary cost to quality and service levels that differentiate your offering",
+      "Resist double discounting arguments by recognizing that volume discounts should not reduce the percentage impact of price increases"
+    ],
+    "open_questions": [
+      "How should companies balance the need for price negotiation with maintaining consistent pricing policies?",
+      "What are effective ways to identify when a reverse auction is a genuine opportunity versus a sham designed to bring low-cost bidders?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-004",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 27867,
+      "char_start": 20156,
+      "checksum": "7e95bbc110be5edc",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses four pricing policy challenges: across-the-board price increases with volume discount complications, discounting for volume, and discounting to compensate for past failures. It provides policy prescriptions for each scenario to maintain pricing integrity.",
+    "key_points": [
+      "Large buyers who demand discounts on price increases are essentially asking the seller to pay twice for the same volume",
+      "Discounts on price increases compound over time, eroding profitability significantly",
+      "A 2 percent discount on total volume for 10 percent incremental volume equals a 22 percent price cut on the incremental volume",
+      "Price concessions become incorporated into the starting point for future negotiations, creating long-term costs",
+      "Lump-sum compensation for failures preserves pricing integrity better than price concessions"
+    ],
+    "arguments": [
+      "Large buyers argue they should receive only a discounted increase (e.g., 4.5 percent instead of 6 percent) because they already enjoy a volume discount, but this is a bogus argument that compounds costs over time",
+      "Sellers are vulnerable when they have failed to meet commitments, and sophisticated purchasers exploit this by demanding exceptional price concessions",
+      "Price concessions feel less psychologically painful than equal-sized expenditures, making them a powerful weapon for purchasers"
+    ],
+    "examples": [
+      "A large buyer paying $75 for what others pay $100 receives a 6 percent increase of $4.50 versus $6 for everyone else, already getting a discount on the increase",
+      "One client saw its prices for volume buyers drop to less than 50 percent of list price in only seven years due to repeated discount demands",
+      "A buyer offering 10 percent more volume in return for a 2 percent price discount is actually getting a 22 percent price cut on the incremental $1,000 of volume"
+    ],
+    "stories": [
+      "One client experienced progressive loss of medium and small customers after granting repeated discounts to large buyers, becoming increasingly reliant on and vulnerable to intimidation from its largest buyers"
+    ],
+    "definitions": [],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "6 percent (example price increase)",
+      "25 percent (example volume discount)",
+      "4.5 percent (discounted increase calculation)",
+      "$75 and $100 (pricing example)",
+      "$4.50 and $6 (increase amounts)",
+      "7 years (timeframe for discount compounding)",
+      "50 percent (price erosion result)",
+      "10 percent (incremental volume offer)",
+      "2 percent (price discount offer)",
+      "22 percent (actual discount on incremental volume)",
+      "$10,000 (annual spending example)",
+      "$1,000 (incremental volume)",
+      "$11,000 (total volume)",
+      "$220 (savings calculation)",
+      "10 percent (rebate on year-to-year increase)",
+      "5 percent (example penalty for delivery delay)"
+    ],
+    "places": [],
+    "terms": [
+      "across-the-board price increase",
+      "volume discount",
+      "price increase",
+      "incremental volume",
+      "price concession",
+      "pricing policy",
+      "lump-sum payment",
+      "invoice credit",
+      "price point",
+      "competitive advantage"
+    ],
+    "quotes": [
+      "When buyers use this tactic repeatedly and the seller falls for it, their discounts quickly compound.",
+      "By demanding a discount on the increase, a purchasing agent is demanding that the seller pay twice for the same volume.",
+      "When increasing prices, there must be no exceptions.",
+      "If that is not financially possible, then make the compensation a 'credit' that the customer can take for a portion of each future invoice until the agreed-to compensation is exhausted.",
+      "Over time, a company's policies can become a source of competitive advantage—creating expectations that drive better behavior on the part of customers, competitors, and sales reps"
+    ],
+    "actionable_lessons": [
+      "When increasing prices, apply the increase uniformly without exceptions; if concessions are needed for powerful buyers, use alternatives like delayed implementation rather than discounting the increase itself",
+      "For volume discounts, focus the discount on incremental volume only and structure it as an end-of-year rebate rather than an upfront discount to protect against duplicitous buyers",
+      "For compensation due to past failures, negotiate a fair lump-sum payment or time-limited invoice credit rather than reducing the established price point",
+      "Build penalties into contracts (e.g., invoice credits for delivery delays) to make costs explicit and automatic, which maintains pricing integrity while expiring automatically",
+      "Develop pricing policies as an ongoing process with collective responsibility to preserve or improve profitability"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-005",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 27867,
+      "char_start": 27167,
+      "checksum": "6cfe75812a0ad806",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "Pricing policies are an ongoing responsibility of pricing staff and management to preserve or improve profitability. Over time, well-developed policies become a competitive advantage by creating customer expectations that drive better behavior and empower sales representatives to offer creative solutions efficiently.",
+    "key_points": [
+      "Analyzing pricing challenges and developing policies is an ongoing process",
+      "Pricing policy responsibility belongs to a pricing staff overseen by managers with collective responsibility for profitability",
+      "Company pricing policies can become a source of competitive advantage",
+      "Policies create expectations that drive better behavior from customers, competitors, and sales reps",
+      "Policies empower sales reps to offer creative solutions more quickly with less internal selling effort",
+      "Building an effective set of policies takes time"
+    ],
+    "arguments": [
+      "Pricing policies, when developed over time, create competitive advantage through customer expectations and behavioral influence"
+    ],
+    "examples": [],
+    "stories": [],
+    "definitions": [],
+    "names": [],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "pricing staff",
+      "pricing policies",
+      "competitive advantage"
+    ],
+    "quotes": [
+      "a company's policies can become a source of competitive advantage—creating expectations that drive better behavior on the part of customers, competitors, and sales reps"
+    ],
+    "actionable_lessons": [
+      "Develop pricing policies as an ongoing process with clear management oversight",
+      "Use pricing policies to create customer expectations that improve behavior",
+      "Empower sales representatives through clear policies to offer creative solutions efficiently",
+      "Invest time in building comprehensive pricing policies for long-term competitive advantage"
+    ],
+    "open_questions": []
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-006",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 34870,
+      "char_start": 27167,
+      "checksum": "ed66a56c9b69a8ae",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk contrasts reactive, ad hoc price negotiation without clear policies against proactive, policy-based price negotiation. It explains how lack of pricing policies undermines price integrity and creates a downward cycle of discounting, while strong policies maintain pricing discipline and customer expectations.",
+    "key_points": [
+      "Analyzing pricing challenges and developing policies is an ongoing process and responsibility of pricing staff and managers",
+      "Company policies can become a source of competitive advantage by creating expectations that drive better behavior",
+      "Policy-based pricing requires initial positive results to maintain organizational support",
+      "Price objections from customers in negotiation-based selling is the most common domain for policy development",
+      "Lack of consistent policies for responding to price resistance creates expectations that customers can negotiate lower prices",
+      "Ad hoc discounting undermines price integrity—the belief that the quoted price is a fair market price",
+      "When price integrity is lost, purchasing agents are motivated to exploit it through aggressive negotiation tactics",
+      "Buyers shift negotiation from seller managing expectations to buyer managing expectations",
+      "Flexible price negotiation leads customers to solicit bids from competitors and diversify suppliers",
+      "Erosion of price integrity causes sellers to believe products have become commoditized and discount more",
+      "When market leaders have poor pricing policies, competitors underestimate actual market prices and price lower than necessary",
+      "Strong pricing policies that maintain price integrity allow sales reps to hold firm on prices with company backing"
+    ],
+    "arguments": [
+      "A sales rep saying he cannot change pricing without manager approval communicates that the company makes price concessions, requires escalation to get them, and the customer is speaking to the wrong person",
+      "Ad hoc discounting creates incentive for buyers to invest in aggressive price negotiation strategies",
+      "Purchasing agents fear competitors are getting better prices and are motivated to exploit perceived lack of price integrity",
+      "Multiple supplier strategies with competitive bidding reinforce that differentiation has no economic value",
+      "Market leaders with poor pricing policies cause competitors to price lower than necessary due to information asymmetry"
+    ],
+    "examples": [
+      "A company announces a 5 percent price increase to cover increased raw materials costs; sales reps encounter purchasing agent resistance",
+      "Purchasing agents create impression of highly competitive market by minimizing direct contact between sales reps and users",
+      "Buyers diversify purchases among two or three qualified suppliers and give preferred supplier a 'last look' chance to match lower bids",
+      "Sellers cut expenditures for differentiation when they believe products have become commoditized due to price pressure"
+    ],
+    "stories": [],
+    "definitions": [
+      "Price integrity: The belief that the initially quoted price is actually a fair market price that other customers pay for the same thing"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "5 percent price increase",
+      "two or three qualified suppliers"
+    ],
+    "places": [],
+    "terms": [
+      "Reactive, ad hoc price negotiation",
+      "Policy-based pricing",
+      "Price objections",
+      "Price integrity",
+      "Purchasing policies",
+      "Value-based pricing",
+      "Commodity perception",
+      "Proactive, policy-based price negotiation"
+    ],
+    "quotes": [
+      "the belief that the initially quoted price is actually a fair market price that other customers pay for the same thing",
+      "his company makes price concessions to some customers",
+      "to get a concession requires resisting any offer until a sales manager is involved",
+      "the customer is speaking to the wrong person",
+      "the company and the sales rep have lost their price integrity"
+    ],
+    "actionable_lessons": [
+      "Develop clear, consistent pricing policies for responding to price objections before they arise",
+      "Ensure sales reps have authority and guidance on how to respond to customer demands for lower prices",
+      "Maintain price integrity by having company back sales reps in holding firm on prices, even at cost of a sale",
+      "Communicate to customers why price increases are necessary (e.g., rising raw materials costs affect all suppliers)",
+      "Avoid ad hoc discounting that signals exceptions are possible and invites aggressive negotiation",
+      "Prevent purchasing agents from creating impression of highly competitive market by maintaining direct contact between sales reps and users",
+      "Ensure policies produce positive results early to maintain organizational support"
+    ],
+    "open_questions": [
+      "How can companies ensure that initial policy-based pricing applications produce positive results?",
+      "What specific policies are most effective for different types of price objections?",
+      "How should companies communicate pricing policies to sales reps to ensure consistent enforcement?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-007",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 41818,
+      "char_start": 34171,
+      "checksum": "5d0a90ffbe79bc79",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses how companies with strong pricing policies can manage price negotiations through proactive, policy-based approaches. It explains the cycle of building customer expectations around value rather than price concessions, and introduces four buyer types that require different policy responses.",
+    "key_points": [
+      "Strong pricing policies that maintain price integrity can change buyer expectations and behavior",
+      "A 5 percent price increase announced to cover rising raw materials costs requires consistent company backing",
+      "Sales reps empowered with pre-approved value trade-offs can build credibility without giving away margin",
+      "Pricing policies should be driven by seller's market-level objectives, not customer requests for one-off approvals",
+      "Four general buyer types exist that differ in importance of supplier differentiation and cost of search",
+      "Value-driven buyers purchase a disproportionate share of sales volume in most B2B markets"
+    ],
+    "arguments": [
+      "When all suppliers face the same cost increases, buyers will not be put at competitive disadvantage by accepting price increases",
+      "Value-based sales tactics must be backed by consistent pricing processes aligned with those principles",
+      "Sales force should be empowered to sell on value rather than price when policies are aligned with market objectives",
+      "Unbundling services can provide low-cost alternatives to price concessions and call the bluff of purchasing agents"
+    ],
+    "examples": [
+      "Consolidating multiple smaller orders into one monthly order allows the seller to cut buyer's shipping costs",
+      "Buying a wider variety of products under a multi-year contract enables reaching volume threshold for end-of-year rebate",
+      "Allowing seller's technical people to talk with users can suggest process improvements to cut waste and offset price increases",
+      "End-of-year rebate based on customer buying more broadly from product line with at least 20 percent volume increase"
+    ],
+    "stories": [],
+    "definitions": [
+      "Value-driven buyers: sophisticated purchasing departments that consolidate and buy large volumes, can afford cost to search and evaluate alternatives, trying to manage both benefits and push down price"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "5 percent price increase",
+      "20 percent volume increase threshold for rebate"
+    ],
+    "places": [],
+    "terms": [
+      "Proactive, Policy-Based Price Negotiation",
+      "Price integrity",
+      "Value trade-offs",
+      "Discount policies",
+      "Win-win trade-offs",
+      "SPIN selling",
+      "Value-based sales tactics",
+      "Buyer types",
+      "Differentiation among suppliers",
+      "Cost of search"
+    ],
+    "quotes": [
+      "the buyer will not be put at a competitive disadvantage by accepting the increase",
+      "it is the seed of an opportunity to change their behavior by changing their expectations",
+      "the best way to minimize cost is to work with her sales rep and that there is no reward to be had from deceiving him",
+      "pricing should not be driven by a series of requests for one-off price approvals from the sales force",
+      "the sales reps (as well as distributors and channel partners) are empowered and motivated to sell on value rather than on price"
+    ],
+    "actionable_lessons": [
+      "Implement pre-approved value trade-offs and discount policies to empower sales representatives in negotiations",
+      "Design policies that enable customers to change purchasing behavior to focus on understanding what creates value",
+      "Create unbundled service options as low-cost alternatives to price concessions",
+      "Develop end-of-year rebates based on broader product purchases or volume increases rather than simple price cuts",
+      "Align pricing policies with company's market-level objectives rather than responding to individual customer requests",
+      "Understand all ways your product adds value compared to competitors and all ways customer behavior changes could affect value"
+    ],
+    "open_questions": [
+      "What specific policies should be designed for each of the four buyer types?",
+      "How can companies determine if service differentiation is worth the investment if too many buyers choose the low-service option?",
+      "What are the characteristics and policies needed for the other three buyer types beyond value-driven buyers?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-008",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 48833,
+      "char_start": 41118,
+      "checksum": "41dc8ecfd98b9863",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses pricing strategies for value-driven and brand-driven customers. It introduces the 'give-get negotiation' principle where price concessions require something in return from the buyer. For brand-driven customers, price objections signal either disappointment or market awareness, requiring different responses. A printing industry case study illustrates how to address customer disappointment through service improvements rather than price cuts.",
+    "key_points": [
+      "No price concession should be made without getting something from the other side",
+      "Give-get negotiation educates buyers that there is always a cost to price concessions",
+      "Testing trade-offs reveals whether objections stem from lack of value or expectation of concessions",
+      "Price integrity is worth more long-term than extra revenue from slow-to-recognize customers",
+      "Brand-driven buyers value differentiation but find evaluation costs too high",
+      "Price objections from brand-driven buyers signal either disappointment or market price awareness",
+      "Price concessions are never appropriate for addressing service disappointment",
+      "Recompense for failures should address the specific breach, not reduce future prices"
+    ],
+    "arguments": [
+      "If you never test give-get tactics, you never know whether objections are driven by lack of value or expectation of concessions",
+      "By proposing trade-offs, you can learn what value buyers actually value",
+      "Price integrity is worth more in the long run than extra revenue from customers slowest to recognize diminished value",
+      "A price concession for service disappointment signals to customers that disappointment is acceptable in the future"
+    ],
+    "examples": [
+      "End-of-year rebate based on buying more broadly from product line with at least 20 percent volume increase",
+      "Establishing regular steady orders that cannot be changed less than seven days before shipping date",
+      "Partnering on developing a new product as a trade-off proposal"
+    ],
+    "stories": [
+      "Printing industry client failed to print and ship catalog when promised for seasonal merchandise. Sales rep wanted to slash price, but instead the printer's president proposed a premium service where the customer could purchase priority status in the plant with a financial guarantee. The printer offered a large credit in the first year of a three-year contract as apology. After negotiation, the customer accepted a 24 percent premium over their already high rate and expressed appreciation for the respect shown to their relationship."
+    ],
+    "definitions": [
+      "Give-get negotiation: A principle where no price concession is made without getting something from the other side",
+      "Value-driven buyers: Customers who claim not to value service differentiation and seek price concessions",
+      "Brand-driven buyers: Those for whom differentiation is valuable but the cost to evaluate all suppliers is too high"
+    ],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "20 percent volume increase threshold for rebate eligibility",
+      "7 days minimum notice required before changing steady orders",
+      "24 percent premium charged for priority job status in printing plant"
+    ],
+    "places": [],
+    "terms": [
+      "give-get negotiation",
+      "value-driven buyers",
+      "brand-driven buyers",
+      "price objection",
+      "trade-offs",
+      "price integrity",
+      "service differentiation"
+    ],
+    "quotes": [
+      "no price concession should ever be made that does not involve getting something from the other side",
+      "Price integrity is worth more in the long run than the extra revenue you can earn for a while from the customers who are slowest to recognize that you no longer offer a good value",
+      "A price concession is never a good response in the first case and may not be in the latter"
+    ],
+    "actionable_lessons": [
+      "Implement pre-approved trade-offs that sales reps can offer when price objections arise",
+      "Test give-get tactics to determine if customer objections are value-based or expectation-based",
+      "For brand-driven customers showing price concerns, diagnose whether the issue is service disappointment or market price awareness",
+      "Address service failures through recompense and service improvements, not price reductions",
+      "Develop policies that never let price premiums for relationship buyers exceed the value being delivered",
+      "Create trade-off options that incentivize customers to propose new arrangements (like product development partnerships)"
+    ],
+    "open_questions": [
+      "How can companies determine whether their service differentiation is truly valued by customers?",
+      "What specific trade-offs are most effective for different customer segments?",
+      "How should companies balance the risk of losing customers against maintaining price integrity?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-009",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 48833,
+      "char_start": 48133,
+      "checksum": "447a53018c64bb24",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "Discussion of how to handle customer negotiations and price premiums by ensuring pricing reflects actual value delivered and addressing service failures appropriately while maintaining consistent pricing policy.",
+    "key_points": [
+      "Allowing customer negotiation for larger credit is acceptable when based on value lost from past service failure",
+      "Price should reflect value going forward, not just compensate for past failures",
+      "Customer objections may stem from service disappointment or belief of price exploitation",
+      "Different solutions are needed depending on the root cause of customer objection",
+      "Price premium for relationship buyers should never exceed the value being delivered"
+    ],
+    "arguments": [
+      "Understanding the value you are delivering is essential to pricing policy",
+      "A policy should exist to ensure price premium for relationship buyers does not exceed delivered value"
+    ],
+    "examples": [],
+    "stories": [
+      "A customer relationship that was failing due to service issues was given a larger credit negotiation, which the customer felt showed proper respect for the relationship"
+    ],
+    "definitions": [],
+    "names": [],
+    "dates": [],
+    "numbers": [],
+    "places": [],
+    "terms": [
+      "relationship buyer",
+      "price premium",
+      "value going forward"
+    ],
+    "quotes": [
+      "the price the customer would pay reflected the value going forward",
+      "never let the price premium for the relationship buyer exceed that value"
+    ],
+    "actionable_lessons": [
+      "Diagnose whether customer objections are driven by service disappointment or belief of price exploitation before responding",
+      "Base credit negotiations on value lost from past failures while maintaining forward-looking pricing policy",
+      "Establish a clear policy linking price premiums to actual delivered value"
+    ],
+    "open_questions": [
+      "How can companies effectively distinguish between customer objections based on service failure versus those based on perceived price exploitation?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-010",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 55829,
+      "char_start": 48133,
+      "checksum": "9f6bd4511665e7a5",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses strategies for managing different buyer types: relationship/value buyers, price buyers, convenience buyers, and power buyers. It explains how to recognize genuine price buyers versus those masquerading as such, and provides policies for dealing with each segment while protecting profitability and market positioning.",
+    "key_points": [
+      "Price premium for relationship buyers should never exceed the value being delivered",
+      "Value-added services must be tracked and quantified so buyers recognize their worth",
+      "Price buyers use sealed bid or reverse auction processes and specify exact acceptable offers",
+      "Some value and brand-driven buyers masquerade as price-driven to extract concessions",
+      "Offering promotional prices to genuine price buyers backfires and reinforces price-buying behavior",
+      "Power buyers control significant volume and expect better prices than other customers",
+      "Convenience buyers pay premiums for easy access and rarely object to prices"
+    ],
+    "arguments": [
+      "Price premium for relationship buyers should reflect value delivered going forward, not just past failures",
+      "Itemizing value-added services on invoices helps buyers recognize the value covered in all-inclusive pricing",
+      "Price buyers can be useful for unloading excess inventory or filling excess capacity if risks are managed",
+      "Promotional pricing to price buyers teaches them they can get superior quality without paying, eliminating incentive to change behavior",
+      "Strategic pricing should charge highest list or spot price when price buyers need emergency services, then offer retroactive contracts at market rates"
+    ],
+    "examples": [
+      "Big pharma licensing reputable local suppliers to make local versions without brand names in developing markets like India and Southeast Asia",
+      "Itemizing differentiating features and services with prices on invoices and tabulating no-charge customer support calls monthly",
+      "Reverse auctions where buying companies share prices among bidders to extract lower pricing from existing suppliers",
+      "Large auto firms bankrupting suppliers before bankrupting themselves through power buyer tactics",
+      "Walmart and Home Depot as examples of power buyers"
+    ],
+    "stories": [
+      "A customer relationship was restored by allowing negotiation of a larger credit based on value lost from past service failure, while preserving the policy that future prices reflect forward value"
+    ],
+    "definitions": [
+      "Price-driven buyers: those genuinely not looking for features or services exceeding specified levels, using sealed bid or reverse auction processes",
+      "Convenience-driven buyers: those who don't compare prices and buy from the easiest source, willing to pay premiums for convenience on small or infrequent purchases",
+      "Power buyers: a subset of value buyers controlling so much volume they can deliver or deny huge amounts of market share"
+    ],
+    "names": [
+      "Walmart",
+      "Home Depot"
+    ],
+    "dates": [],
+    "numbers": [],
+    "places": [
+      "India",
+      "Southeast Asia",
+      "Western countries"
+    ],
+    "terms": [
+      "sealed bid",
+      "reverse auction",
+      "RFP",
+      "price-driven buyers",
+      "value-driven buyers",
+      "brand-driven buyers",
+      "convenience-driven buyers",
+      "power buyers",
+      "relationship buyer",
+      "all-inclusive price"
+    ],
+    "quotes": [
+      "We expect your price to us to cover your costs. Earn your profits from somebody else.",
+      "Strip out every cost that is not required to meet the minimum specification; design the low-cost offer in a way that makes it unattractive to your existing customer base"
+    ],
+    "actionable_lessons": [
+      "Track and quantify all value-added services and associate them with prices on invoices to help buyers recognize value",
+      "Never let price premium for relationship buyers exceed the value being delivered",
+      "For price buyers, strip out non-essential costs and design low-cost offers to be unattractive to existing customers",
+      "Develop credible justifications for price differences when existing customers inquire about lower prices to others",
+      "Adopt a policy to never respond to bids unless minimum product and service specifications are fully defined",
+      "When price buyers need emergency services, charge highest list or spot price, then offer retroactive contracts at market rates",
+      "Do not use promotional pricing to convert price buyers to value buyers; it reinforces price-buying behavior",
+      "Recognize tip-offs that value or brand buyers are masquerading as price buyers: extensive supplier evaluation, vague RFP specs, lack of commitment to lowest bidder"
+    ],
+    "open_questions": [
+      "How can suppliers effectively distinguish between genuine price buyers and value/brand buyers masquerading as price-driven?",
+      "What is the optimal strategy for managing power buyers who demand prices covering only costs?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-011",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 62786,
+      "char_start": 55129,
+      "checksum": "b2f0d7ac378cc3f0",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "Strategies for dealing with power buyers—large retailers and buying groups that control significant volume and demand lower prices. The chunk outlines proactive approaches to preserve profitability when negotiating with power buyers.",
+    "key_points": [
+      "Power buyers control large market share and expect better prices than other buyers",
+      "Reactive dealing with power buyers almost certainly results in profitability decline",
+      "Brand value can be leveraged to negotiate with power buyers without price concessions",
+      "Power buyers reduce the value of brands when companies treat their volume as purely incremental",
+      "Multiple strategies exist to serve power buyers while maintaining margins"
+    ],
+    "arguments": [
+      "Companies should stay realistic about power buyer effects on brand value",
+      "Brands with strong customer loyalty can command higher prices from retailers competing with big-box stores",
+      "A third way exists to win power buyer business without price concessions: offering exclusive products",
+      "Quantifying differential value to power buyers can justify maintaining prices",
+      "Segmenting product offerings across channels can reduce cannibalization"
+    ],
+    "examples": [
+      "Benjamin Moore paints maintain high value to local hardware stores because they are not available at Home Depot or Lowe's",
+      "Target offers exclusive designs from famous designers in jewelry, women's accessories, and home goods",
+      "Disposable diapers are valuable to Walmart because bulk purchases require frequent visits from high-spending new parents",
+      "Shaw Industries sells massive carpet volume through big-box retailers and large retail carpet buying groups",
+      "Toro sells entry-level mowers to Home Depot while referring buyers to traditional lawn centers for repairs and maintenance"
+    ],
+    "stories": [
+      "A purchasing agent at a large retailer told a supplier: 'We expect your price to us to cover your costs. Earn your profits from somebody else.'",
+      "Large auto firms bankrupted many suppliers before bankrupting or nearly bankrupting themselves",
+      "A large medical products company confronted with divide and conquer tactics returned multiple bid forms with different prices and conditions"
+    ],
+    "definitions": [
+      "Power buyers: buyers who control so much volume that they have the power to deliver or deny huge amounts of market share",
+      "Buying groups: associations of buyers that increase their power to negotiate deals collectively by refusing to buy from suppliers that have not signed a contract with the group"
+    ],
+    "names": [
+      "Walmart",
+      "Home Depot",
+      "Lowe's",
+      "Benjamin Moore",
+      "Target",
+      "Procter & Gamble",
+      "Shaw Industries",
+      "Toro"
+    ],
+    "dates": [],
+    "numbers": [
+      "nine product lines",
+      "nine separate buying decisions"
+    ],
+    "places": [
+      "North America"
+    ],
+    "terms": [
+      "power buyers",
+      "value buyers",
+      "big-box retailers",
+      "buying groups",
+      "divide and conquer tactics",
+      "pull marketing efforts",
+      "vendor management costs",
+      "cannibalization"
+    ],
+    "quotes": [
+      "We expect your price to us to cover your costs. Earn your profits from somebody else.",
+      "If a brand has enough value to consumers that they will go to a store that has it rather than accept whatever is offered at a big-box store or from a buying group, then the brand has value beyond the retailer's margin on that product."
+    ],
+    "actionable_lessons": [
+      "Make power buyers compete by offering exclusive products or services that drive store traffic",
+      "Quantify the differential value your brand brings to power buyers (e.g., store visit frequency, vendor management cost reduction)",
+      "Eliminate unnecessary costs to serve power buyers efficiently without sacrificing margins",
+      "Segment product offerings across channels to reduce cannibalization between power buyers and traditional retailers",
+      "Resist divide and conquer tactics by setting your own pricing policies with conditions tied to full-line approval"
+    ],
+    "open_questions": [
+      "How can brands without broad customer recognition profitably grow with power buyers?",
+      "What is the optimal balance between serving power buyers and maintaining brand value in traditional channels?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-012",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 69732,
+      "char_start": 62086,
+      "checksum": "18ac8e20f0124950",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses strategies for managing price increases with customers, particularly in industry-wide cost increases. It covers tactics for dealing with power buyers who use divide-and-conquer strategies, and provides detailed policies for successfully implementing price increases while maintaining customer relationships and competitive fairness.",
+    "key_points": [
+      "Power buyers use divide-and-conquer tactics to exclude products from distribution channels",
+      "Proactive pricing policies can counter purchasing group intimidation tactics",
+      "Power buyers who get angry are those who need something from the supplier",
+      "Industry-wide price increases should be announced publicly to manage customer expectations",
+      "Customers fear being first to accept price increases and losing competitive advantage",
+      "Transition guarantees can assure customers they won't be disadvantaged relative to competitors",
+      "Backing off increases for resistant customers while loyal customers pay full increase damages trust",
+      "Concessions on timing (not amount) of increases can build loyalty for customers with fixed-price commitments"
+    ],
+    "arguments": [
+      "When confronted with divide-and-conquer tactics from buying groups, suppliers should maintain proactive pricing policies rather than react passively",
+      "Confidence in offered value and willingness to unbundle differentiation can help suppliers resist power buyer intimidation",
+      "Power buyers who become furious are signaling they need something from the supplier, not that they have alternatives",
+      "Public announcement of industry-wide increases creates expectation of across-the-board implementation and insulates sales reps from personal responsibility",
+      "Transition guarantees that match competitor concessions help customers accept increases without fear of competitive disadvantage",
+      "Consistent application of price increases across all customers builds trust, while selective discounting for resistant customers undermines loyalty"
+    ],
+    "examples": [
+      "A large medical products company returned multiple bid forms for each product with different prices, specifying conditions under which each price applied—lowest if all products approved, highest if only subset approved",
+      "A New York metro area client had a customer who threw shoes at sales reps proposing price increases",
+      "Customers would ignore price increases when ordering but adjust invoices downward when paying, returning them marked 'paid in full'",
+      "A company realized less than half the amount of intended increases because customers avoided paying more"
+    ],
+    "stories": [
+      "When a hospital buying group rejected the medical products company's conditional pricing strategy, the seller maintained its policy and explained how the channel value was vastly reduced without complete product line acceptance. Recognizing the cost of losing all the seller's products with large market share, the buying group approved all products."
+    ],
+    "definitions": [],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "less than half the amount of increases realized on average",
+      "X percent of costs (energy example)",
+      "Y percent price increases"
+    ],
+    "places": [
+      "New York metro area"
+    ],
+    "terms": [
+      "divide and conquer tactics",
+      "orphaned products",
+      "buying group",
+      "power buyers",
+      "transition guarantee",
+      "industry-wide increase",
+      "variable cost of production",
+      "industry capacity shortage",
+      "policy-based pricing"
+    ],
+    "quotes": [
+      "the value of the channel to it was vastly reduced without complete acceptance of its product line",
+      "power buyers who do not need you rarely get mad; they can easily get others to supply them",
+      "The power buyers who get mad are those that need something from you as a supplier and are frustrated that they are not going to get the lop-sided deal that they expected",
+      "none wants to be the first to take it",
+      "you will not back off the increase for anyone without doing so for everyone who is a customer in the same industry",
+      "resistance pays and outrages loyal customers whenever they learn that they have been taken advantage of"
+    ],
+    "actionable_lessons": [
+      "Before announcing a price increase, publicly communicate why the increase is necessary for the industry based on costs or capacity demands",
+      "Announce the size, effective date, and specific product lines affected by increases, explaining the cause-and-effect relationship",
+      "Empower important customers with transition guarantees ensuring they won't be disadvantaged relative to competitors",
+      "Never back off full increases for resistant customers while leaving loyal customers to pay full amount",
+      "If a major competitor fails to implement comparable increases, proactively contact customers to explain temporary suspension of the increase",
+      "Make concessions only on timing of increases, not the amount itself, for customers with fixed-price commitments",
+      "Maintain consistent pricing policies across all customers to build trust and reinforce that resistance does not pay"
+    ],
+    "open_questions": [
+      "How can suppliers effectively communicate the inevitability of industry-wide price increases to customers?",
+      "What specific metrics should suppliers use to determine when to delay increases due to competitor inaction?",
+      "How long should transition guarantees remain in effect?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-013",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 76716,
+      "char_start": 69032,
+      "checksum": "b38148b05206f437",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses strategies for transitioning from flexible to policy-based pricing, managing outlaw accounts with unjustifiably low prices, and maintaining pricing discipline during economic downturns. It emphasizes the importance of management intervention, give-get negotiations, and avoiding destructive price wars.",
+    "key_points": [
+      "Transitioning from flexible to policy-based pricing requires time and careful planning rather than rigid implementation",
+      "Price banding technique helps identify illegitimate price variation on aggregate and per-account basis",
+      "Outlaw accounts with unjustifiably low prices should be addressed first as they are least profitable and pull down other customers",
+      "Management above sales rep level should communicate pricing corrections to customers",
+      "Phased price increases can be offered as part of transition agreements (e.g., one-third immediately, one-third in six months, one-third in 12 months)",
+      "During recessions, firms should avoid using price to take market share from close competitors to prevent price wars",
+      "Value of some products is tied to customer market health, making pricing adjustments necessary during downturns"
+    ],
+    "arguments": [
+      "Outlaw accounts pull down other customers over time through information leakage or competitive advantage in purchasing",
+      "Walking away from genuine price buyers signals resolve and commitment to profitable business partnerships",
+      "Unmanaged price-cutting in recession undermines future price levels and can trigger destructive price wars",
+      "Policy-based pricing during downturns minimizes damage in both short and long run"
+    ],
+    "examples": [
+      "A large supermarket chain initiated a price war that increased revenue share but tanked profit share",
+      "Winn-Dixie promoted lower-priced brands during recession to help thrifty shoppers and weathered downturn with less damage to profitability",
+      "In 2009, return from advertising real estate was not what it was in earlier years due to market conditions"
+    ],
+    "stories": [],
+    "definitions": [
+      "Outlaws: customers who enjoy prices much lower than other customers for the same products, service levels, and commitments",
+      "At-risks: customers paying more than can be justified relative to the average",
+      "Price banding: a technique that enables managers to estimate how much of the price variation is illegitimate"
+    ],
+    "names": [
+      "Winn-Dixie"
+    ],
+    "dates": [
+      "2009"
+    ],
+    "numbers": [
+      "18 months",
+      "6 months",
+      "12 months",
+      "one-third"
+    ],
+    "places": [],
+    "terms": [
+      "policy-based pricing",
+      "price banding",
+      "give-get negotiation",
+      "exclusive supply contract",
+      "must take volumes",
+      "price war",
+      "economic downturn",
+      "recession"
+    ],
+    "quotes": [
+      "Outlaws who now enjoy prices much lower than other customers for the same products, service levels, and commitments",
+      "top management is unwilling to continue pricing that is unfair to other customers and unhealthy for the supplier",
+      "a good business decision, signals your resolve externally and internally",
+      "unmanaged price-cutting in a recession not only undermines price levels that you will want to sustain in the later recovery, it can trigger a price war"
+    ],
+    "actionable_lessons": [
+      "Begin transition to policy-based pricing by managing outliers rather than implementing rigid fixed-price policies immediately",
+      "Identify outlaw accounts and understand how they received low pricing before correcting the situation",
+      "Have senior management communicate pricing corrections to customers, not sales representatives",
+      "Offer phased price increases as part of transition agreements to make corrections more palatable",
+      "Consider exclusive contracts or minimum volume commitments as trade-offs to reduce price increase impact",
+      "Be willing to walk away from genuine price buyers to signal commitment to profitable partnerships",
+      "Enforce firm policy against using price to take market share from competitors during downturns",
+      "Promote lower-priced product alternatives during recessions rather than cutting prices across the board"
+    ],
+    "open_questions": [
+      "How can companies effectively communicate pricing corrections to long-standing outlaw accounts without losing the business?",
+      "What specific metrics should be used to identify which accounts are true price buyers versus those willing to negotiate on value?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-014",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 83669,
+      "char_start": 76017,
+      "checksum": "5e5abe17469edc7e",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "Discusses pricing strategies during economic downturns and promotional pricing policies. Covers how companies can maintain profitability through indexed pricing, unbundling, and targeted discounting to new segments. Explains promotional discount strategies for inducing trial while protecting margins, including money-back guarantees, performance-based rebates, and coupon strategies.",
+    "key_points": [
+      "Price wars during recessions can increase revenue share but tank profit share",
+      "Indexed pricing tied to customer market conditions supports customers during difficult times while enabling automatic increases when conditions improve",
+      "Unbundling product elements allows customers to reduce costs while maintaining core offerings",
+      "One-off pricing to fill excess capacity in short-term markets can be profitable if carefully fenced",
+      "Promotional discounts can depress future willingness-to-pay and encourage customer stockpiling",
+      "Coupons and rebates can limit stockpiling by loyal customers and target prospective buyers",
+      "Money-back guarantees and performance-based rebates reduce trial risk without cutting price"
+    ],
+    "arguments": [
+      "Smarter competitors promote lower-priced brands rather than engage in price wars to weather recessions with less damage to profitability",
+      "In business markets with low variable costs, indexed pricing for long-term commitments maintains volume during difficult times",
+      "Excess capacity makes short-term price competition in new segments viable without threatening long-term margin protection",
+      "Liberal returns policies and performance guarantees can induce trial at full price by reducing customer risk",
+      "Promotional discounts must be carefully managed as policy because they can educate customers to wait for discounts and depress willingness-to-pay"
+    ],
+    "examples": [
+      "Winn-Dixie promoted lower-priced brands during recession and weathered it with less damage to profitability than competitors engaged in price wars",
+      "In 2009, the return from advertising real estate was not what it was in earlier years, affecting the value of magazine advertising and trade show space",
+      "A high-end European hotel chain offered deals to tour companies catering to small groups of high-income travelers during downturns, gaining incremental revenue and introducing new customer segments",
+      "A commercial printer offered better quality to direct mail advertisers at prices nearly matching what they were already paying, winning incremental contribution during lean months",
+      "Bowflex does not discount its high-end exercise equipment but combines direct-to-customer value communication with a money-back guarantee within the first six weeks of delivery",
+      "Velcade cancer treatment was rejected by NHS as not cost-effective, but the company offered a performance-based guarantee to refund the entire cost for patients not showing adequate improvement"
+    ],
+    "stories": [
+      "A large supermarket chain initiated a price war during recession that increased revenue share but tanked profit share",
+      "A high-end European hotel chain approached tour companies with deals during downturns, later exiting the tour segment in better times while having introduced their chain to desirable customer segments"
+    ],
+    "definitions": [
+      "Search goods: products where a promotional discount is the incentive for the customer to investigate the supplier's offer",
+      "Experience goods: products where a promotional discount is the incentive to take the risk of a potentially disappointing purchase",
+      "Pulsed promotions: offering a product at a low price for a limited time, such as one week each quarter"
+    ],
+    "names": [
+      "Winn-Dixie",
+      "Bowflex",
+      "Velcade",
+      "British National Health Service (NHS)"
+    ],
+    "dates": [
+      "2009"
+    ],
+    "numbers": [
+      "six weeks"
+    ],
+    "places": [
+      "Europe"
+    ],
+    "terms": [
+      "indexed pricing",
+      "unbundle",
+      "price war",
+      "excess capacity",
+      "one-off pricing",
+      "promotional discount",
+      "money-back guarantee",
+      "performance-based rebate",
+      "willingness-to-pay",
+      "stocking up",
+      "coupons",
+      "rebates"
+    ],
+    "quotes": [
+      "a policy of one-off pricing to fill excess capacity can be worth pursuing if the business can be carefully fenced",
+      "By putting money on the line, the seller raises expectations that the product probably will produce the superior treatment outcomes that the company claims"
+    ],
+    "actionable_lessons": [
+      "During downturns, promote lower-priced brands rather than engage in destructive price wars to protect profitability",
+      "Use indexed pricing tied to customer market conditions to support customers while maintaining automatic price increase mechanisms",
+      "Unbundle product elements to allow cost reduction without cutting base prices",
+      "Target one-off pricing to new, price-sensitive segments in short-term markets while protecting margins in long-term growth markets",
+      "Use money-back guarantees and performance-based rebates to induce trial at full price rather than discounting",
+      "Implement coupon and rebate policies to limit stockpiling by loyal customers and target prospective buyers",
+      "Limit availability of promotional discounts and target them to prospective buyers rather than allowing all customers to benefit",
+      "Use scanner technology to print coupons on receipts for customers who bought competing products or complementary items"
+    ],
+    "open_questions": [
+      "How can companies balance the need to win new customers through promotional pricing with the risk of depressing future willingness-to-pay?",
+      "What are the optimal frequency and depth of promotional discounts for different product categories?",
+      "How can companies effectively fence short-term pricing in new segments to prevent cannibalization of existing business?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-14-pricing-policy-influencing-customer-expectations-chunk-015",
+    "source": {
+      "chapter_title": "Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors",
+      "char_end": 86857,
+      "char_start": 82969,
+      "checksum": "7bce06453cb58803",
+      "source_pages": "127-153",
+      "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/14 - Chapter 5 Pricing Policy Influencing Customer Expectations and Purchase Behaviors.txt"
+    },
+    "summary": "The chunk discusses disciplined pricing policies for inducing trial, particularly for service companies. It argues against using price discounts for trial acquisition because customers perceive price increases after the discount period as a loss. Instead, companies should use non-price incentives like free gifts that maintain price integrity and build customer habits of paying full price.",
+    "key_points": [
+      "Limiting availability of promotional discounts and targeting them to prospective buyers is advisable",
+      "Service companies should not use discounts on service price to induce trial",
+      "Customers perceive returning to higher prices after a discount period as a loss, causing them to switch providers",
+      "Non-price incentives maintain price integrity and prevent loss perception at contract renewal",
+      "Good pricing policies lead customers to view purchases as price-value trade-offs rather than games"
+    ],
+    "arguments": [
+      "Coupons limit loyal customers' ability to stock up on discounted items",
+      "Scanner technology enables targeted coupons to customers who bought competing products",
+      "Service companies face high churn when raising prices after discount periods because customers can find competing incentives",
+      "Behavioral economics explains why customers resist price increases after enjoying lower prices for 6-12 months",
+      "Free gifts as incentives maintain price integrity better than price discounts"
+    ],
+    "examples": [
+      "Cable TV companies offer large discounts to sign up new subscribers for a year",
+      "Newspapers and magazines offer discounted subscription rates for new subscribers",
+      "Mobile telephone services offer discounts to induce trial",
+      "Free gift for magazine signup: choice from list of new best sellers",
+      "Free pay-per-view credits for cable TV signup: $100 in credits for signing up for a year"
+    ],
+    "stories": [],
+    "definitions": [],
+    "names": [],
+    "dates": [],
+    "numbers": [
+      "6 months",
+      "12 months",
+      "$100 in pay-per-view credits"
+    ],
+    "places": [],
+    "terms": [
+      "coupons",
+      "rebates",
+      "promotional discounts",
+      "scanner technology",
+      "loss aversion",
+      "price-value trade-off"
+    ],
+    "quotes": [
+      "Once someone spends six or 12 months enjoying a service at one price, renewing it at a higher price is viewed as a \"loss\" to be resisted.",
+      "Good policies lead customers to think about the purchase of your product as a price–value trade-off rather than as a game to win at your expense.",
+      "No services company should ever use a discount on the service price as its means to induce trial."
+    ],
+    "actionable_lessons": [
+      "Use coupons to limit stockpiling by loyal customers while targeting new prospects",
+      "Implement rebate limits (e.g., one per family) to control costs",
+      "Replace price discounts with non-price incentives like free gifts for service trial",
+      "Ensure trial incentives do not create expectation of lower ongoing prices",
+      "Design policies that build customer habits of paying full price from the start"
+    ],
+    "open_questions": []
+  }
+]
+```

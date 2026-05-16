@@ -1,0 +1,7 @@
+.venv/
+files/*/prompts/
+files/*/chunks/
+files/*/indexes/
+files/*/chapters/
+*.pdf
+*.sqlite

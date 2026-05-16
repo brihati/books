@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-005",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 27454,
+    "char_end": 35200,
+    "checksum": "7315ade58635e696"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e, and Segways do not handle them well at all. That’s what we call a showstopper. So while Steve Wozniak can still field a brace of Segways for a rousing match of polo, no one has yet come up with a breakthrough application for the rest of us. Hence its fate for any foreseeable future is to dwell in the chasm forever. As expensive a lesson as the Segway was for its investors, it pales by comparison with the reputed $6 billion bath Motorola took on its satellite mobile phone venture Iridium. Again, from a technology enthusiast’s point of view, what a great idea! In­ stead of building out tens of thousands of cellular base stations everywhere—and still failing to adequately cover sparsely pop­
+
+ulated areas—how about putting up seventy-seven low-earth­ orbiting satellites and do the job for the entire planet? (FYI, seventy-seven happens to be the atomic number for iridium, 28 Crossing the Chasm which is a technology enthusiast’s idea of a cool inside joke.) So what happened? Well, in this case it was not stairs that were the problem, it was buildingsl Satellite communications do not work very well inside buildings. Add to that the bulkiness of the handsets compared to cellular mobile phones, plus the very high cost of subscribing, and once again you have a showstop­ per. Today the technology is indeed used successfully for niche applications, but to put that in perspective, the network was bought out of bankruptcy for $25 million. Chasms can result in very painful falls indeed. In sum, when promoters of high-tech products try to make the transition from a market base made up of visionary early adopters to penetrate the next adoption segment, the pragmatist early majority, they are effectively operating without a reference base and without a support base within a market that is highly reference oriented and highly support oriented. This is indeed a chasm, and into this chasm many an unwary start-up venture has fallen. Despite repeated instances of the chasm effect, however, high-tech marketing still struggles to get this problem properly in focus. As a final prelude to our going forward, therefore, by way of evoking additional glimmers of recognition and understanding of this plight of the chasm, I offer the following parable as a kind of condensation of the en­ trepreneurial experience gone awry. A High-Tech Parable In the first year of selling a product—most of it alpha and beta release—the emerging high-tech company expands its cus­ tomer list to include some technology enthusiast innovators and High-Tech Marketing Illusion 29 one or two visionary early adopters. Everyone is pleased, and at the first annual Christmas party, held on the company premises, plastic glasses and potluck canapes are held high. In the second year—the first year of true product—the com­ pany wins over several more visionary early adopters, including a handful of truly major deals. Revenue meets plan, and every­ one is convinced it is time to ramp up—especially the venture capitalists who note that next year’s plan calls for a 300 percent increase in revenue. (What could justify such a number? The High Tech Marketing Model, of course! For are we not just at that point in the model where the slope will increase exponen­ tially? We don’t want to lose market share at this critical juncture to some competitor. We must exploit our first-mover advantage and act while we are still within our window of opportunity. Strike while the iron is hot!) This year the company Christmas party is held at a fine hotel, the glasses are crystal, the wine vintage, and the theme, a la Dickens, is “Great Expectations.” At the beginning of the third year, a major sales force ex­ pansion is undertaken, impressive sales collateral and advertis­ ing are underwritten, district offices are opened, and customer support is strengthened. Halfway through the year, however, sales revenues are disappointing. A few more companies have come on board, but only after a prolonged sales struggle and significant compromise on price. The number of sales overall is far fewer than expected, and growth in expenses is vastly out­ distancing growth in income. In the meantime, R&D is badly bogged down with several special projects committed to in the early contracts with the original customers. Meetings are held (for the young organization is nothing if not participative in its management style). The salespeople com­ plain that there are great holes in the product line and that what 30 Crossing the Chasm is available today is overpriced, full of bugs, and not what the customer wants. The engineers claim they have met spec and schedule for every major release, at which point the customer support staff merely groan. Executive managers lament that the sales force doesn’t call high enough in the prospect organiza­ tion, lacks the ability to communicate the vision, and simply isn’t aggressive enough. Nothing is resolved, and, offline, po­ litical enclaves begin to form. Third quarter revenues results are in—and they are absolutely dismal. It is time to whip the slaves. The board of venture cap­ italists starts in on the founders and the president, who in turn put the screws to the vice president of sales, who passes it on to the troops in the trenches. Turnover follows. The vice president of marketing is fired. It’s time to bring in “real management.” More financing is required, with horrendous dilution for the ini­ tial cadre of investors—especially the founders and the key tech­ nical staff. One or more founders object but are shunted aside. Six months pass. Real management doesn’t do any better. Key defections occur. Time to bring in consultants. More turnover. What we really need now, investors decide, is a turnaround artist. Layoffs followed by more turnover. And so it goes. When the screen fades to the credits, yet another venture staggers off to join the twilight companies of Silicon Valley—zombie enterprises, not truly alive and yet, due in part to the vagaries of venture cap­ ital accounting, unable to choose death with dignity. Now, it is possible that this parable overstates the case—I have been accused of such things in the past. But it is no ex­ aggeration to say that year in and year out, hundreds of high- tech start-ups, despite having good technology and exciting products, and despite initial promising returns from the market, falter and then fail. Here’s why: High-Tech Marketing Illusion 31 What the company staff interpreted as a ramp in sales lead­ ing smoothly “up the curve” was in fact an initial blip—what we will be calling the early market—and not the first indications of an emerging mainstream market. The company failed because its managers were unable to recognize that there is something fundamentally different between a sale to an early adopter and a sale to the early majority, even when the company name on the check reads the same. Thus, at a time of greatest peril, when the company was just entering the chasm, its leaders held high expectations rather than modest ones, and spent heavily in ex­ pansion projects rather than husbanding resources. All this is the result of high-tech marketing illusion—the belief induced by the High-Tech Marketing Model that new markets unfold in a continuous and smooth way. In order to avoid the perils of the chasm, we need to achieve a new state— high-tech marketing enlightenment—by going deeper into the dynamics of the Technology Adoption Life Cycle to correct the flaws in the model and provide a secure basis for marketing strategy development. 2 High-Tech Marketing Enlightenment First there is a mountain, Then there is'no mountain, Then there is. —Zen proverb
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 6282,
+    "char_end": 13952,
+    "checksum": "9e8c154d10303459"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+with 100 percent Porsche (sportiness) DNA. The customer surveys also helped Porsche ﬁnd the proper price positioning for the two cars—that is, the price range, not the exact price point. For the Cayenne, the survey told Porsche it could charge a signiﬁcant premium over other SUVs. For the Panamera, Porsche learned it could position the car at the upper luxury segment level (e.g. Mercedes S-Class) and thus signiﬁcantly above the Mercedes CLS level (a four-door Mercedes coupe about the size of the Panamera, but with a 15 percent lower price than the S-Class). This was welcome news. Finally, each survey gave Porsche important initial insights into both cars’ market potentials and key segments.
+
+For example, many people liked the Porsche brand and would love owning a 911 sports car, but they couldn’t afford it as an additional, just-for-fun car. But with the Cayenne or Panamera, a Porsche fan’s everyday family car could be a Porsche. Moreover, Porsche 911 owners would not have to drive another brand’s cars for family errands; they could make every vehicle in their garage a Porsche. But Porsche is also a brand that polarizes consumers. From its surveys, Porsche found it had a customer segment that would never buy an SUV or sedan from Porsche, no matter how great the vehicle. With this information, Porsche had an initial quantitative sense of the market potential for Cayenne and Panamera. The survey data became crucial inputs to each vehicle’s ﬁrst business case. Deciding Which Features Should Be In or Out With initial research showing Porsche had real opportunities with an SUV and a four-door family sedan, the next step was to determine exactly what had to be in those vehicles. The company knows designing a viable vehicle means giving customers the features they want, not what Porsche wants. For Cayenne and Panamera, it conducted extensive value analysis (as discussed in Chapter 4) to determine the features for each car. 166 Monetizing Innovation Porsche did its value analysis in so-called “car clinics” in exhibition halls, where it rented competitors’ cars and presented them alongside the new Porsche models. It then invited potential customers to evaluate the vehicles. Of course, part of what Porsche asked these potential customers about was their willingness to pay (WTP) for the cars. This, too, went above and beyond the industry’s typical customer research. Most auto- makers only gather customer perceptions, asking such questions as, “Do you like the car overall, the front, the interior?” or “How do you like this feature?” and “Would you be interested to buy?” But they typically don’t take the next crucial step and ask the WTP questions (as we explored in Chapter 4). This information was indispensable to Porsche. It gave the ﬁrm speciﬁc price ranges for the Cayenne and Panamera. And by gauging customers’ reactions to each proposed feature, the company had the data to make sure each car’s design and product conﬁguration were on target. No feature is sacrosanct at Porsche; even the smallest features are carefully considered. For example, Porsche initially thought small hidden cup holders in the Panamera dashboard would be sufﬁcient. But the research showed customers wanted much more. Managers decided to not only include the dashboard cup holders, but also to invest in an expensive redesign of the middle console to do full justice to what customers said they valued, wanted, and were willing to pay for. A crucial design and product conﬁguration decision for Porsche was to determine which features should not go into the Cayenne and Panamera. Here again, Porsche breaks from the pack. At many other automakers, arguments abound over why certain features shouldn’t be added to a car. At Porsche, the burden of proof is always on why a feature should be included. Porsche puts every feature on trial. The argument that “everybody else does it in this segment” does not ﬂy. A key step in this process is deciding which features will be standard equipment and which will be options. What matters most is customers’ value and WTP for each and every feature. If nearly all customers have a relatively high WTP for a certain feature, Porsche makes it standard in the vehicle. If only some customers will pay, Porsche makes it an option. Porsche conducts this rigorous analysis on every one of its new car models. Consequently, its cars have some of the longest option lists of any automaker. But Porsche also makes more money from those Learning from the Best 167 options than most rivals do. And by turning so many features into options, the company avoids building an overloaded, overpriced base product. At Porsche, the process of deciding which features are in or out is long and sometimes cumbersome. However, it enables the company to avoid costly feature mistakes that rivals make. Creating a “Living” Business Case with True Price Optimization For the Cayenne and Panamera, Porsche’s business case included a market simulation model of the entire relevant market for the vehicles. Each business case showcased Porsche’s customer WTP data, value analysis of features, and price elasticity. All of this was based on detailed research in the United States, Europe, Asia-Paciﬁc, and all available market data (market size, sales volume of competitors, and so on). Using its market simulation model, Porsche had a ﬁrm idea of consumer demand for the cars at each price point. (That should sound familiar; it’s the price elasticity/demand curve we explored in Chapter 8.) In this exercise, Porsche did not consider the Cayenne’s impact in isolation. It also looked at the product’s effect on the company as a whole: additional revenue, proﬁt, and related factors. Porsche carefully analyzed whether new products would cannibalize sales of other Porsche cars. It only approved new products if they increased Porsche’s total revenue. In the cases of the Cayenne and the Panamera, the company found cannibalization would be relatively low. That holistic approach is rare in the auto industry, a business in which the number of car models has exploded since the 1990s—even though every market but China has shown little growth. The lineups of the major automakers are extensive. As such, Porsche’s competitors are weighted down with car models that cannibalize sales of their other models. But for Porsche, adding new products that don’t boost overall revenue is, as they say in Germany, verboten. Porsche’s business cases for the Cayenne and Panamera are living, continually updated documents. The company even revisits a business case after a vehicle’s launch to check the accuracy of the sales forecast and capture lessons for the next new-product development process. 168 Monetizing Innovation Appealing to the Early Adopters: Porsche’s Skimming Strategy From its customer research, Porsche knew its new SUV and family sedan would stir high interest. Potential customers had told Porsche they had a high WTP for both the new cars; they saw real value in them. Therefore, for the Cayenne and later the Panamera, Porsche initially came to market with only the premium eight-cylinder engine models. The company waited a year before rolling out less expensive six-cylinder models. That allowed Porsche to skim the cream of its market segment— the customers who wanted to be the ﬁrst on their block to own a sporty SUV or family sedan from Porsche. Those customers had to buy the higher-priced (and higher-margin) models, even if they didn’t value an eight-cylinder engine. Porsche’s C-Suite Task: Planting New-Product Monetization into the Company’s DNA Porsche’s top managers, right up to the CEO and the board, drove the
+>>>

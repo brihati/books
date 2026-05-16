@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-12-maintain-your-priceintegrity",
+  "chunk_id": "chapter-12-maintain-your-priceintegrity-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 12 Maintain Your PriceIntegrity",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/12 - CHAPTER 12 Maintain Your PriceIntegrity.txt",
+    "source_pages": "165-178",
+    "char_start": 6279,
+    "char_end": 13967,
+    "checksum": "f99e3c36696cba7a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+sales that he was free to make any pricing cuts he felt were necessary until the end of the year. The ﬁrm’s pricing strategy had wilted away in a single day—mainly because it was unprepared. (See Figure 12.1.) But this is when successful innovators must remain cool, calm, and collected. If you haven’t anticipated the possibility that sales might lag, and you haven’t planned a response, this is no time to overreact. This is a time to stop and think. Either something has changed that you had not anticipated, or your original plan had a mistake. You will be much better off responding after you analyze what just happened rather than thrashing about with a new promotion or price cut. Figure 12.1
+
+How a European Firm’s Pricing Strategy Fell Apart in One Day 152 Monetizing Innovation Showing patience about pricing is more important than fretting over sales numbers in the ﬁrst months after a product launch. Think price last. How to Prepare for Post-Launch The post-launch phase is typically hectic for the product team. Your product is ﬁnally in the market. Everybody is nervous. What are the initial customer reactions? Are they as good as we estimated? Are sales according to plan? What is the competition doing? And so on. This is also a period in which many mistakes are made, because of the hectic pace and because actions are taken too spontaneously. Of course, you cannot plan everything in advance. But you can prepare for the most common reactions to avoid those spontaneous mistakes. Here are some tips and tricks to keep in mind when preparing for post-launch. 1. Be patient addressing post-launch problems. They typically come in only four varieties, and you can prepare for them: (1) the market doesn’t understand your product’s value or you didn’t explain it well; (2) your competition undercuts on price; (3) the competition launches a competing product; and (4) regardless of what the competition does, sales are below plan. Being patient doesn’t mean doing nothing. Rather, your ﬁrm must take all-hands-on-deck action to determine the cause and solution to your post-launch sales problem. Your task force should include all relevant business functions—sales, marketing, ﬁnance, product develop- ment, product management, and so on. The task force’s ﬁrst task is to pinpoint the reasons for the problem. What if a competitor undercuts your price? This recently happened to an industrial products manufacturer. The ﬁrm asked us to determine the causes of disappointing sales of a new product. We examined everything. The culprit turned out to be a competitor’s preemptive price cut. Anticipating our client’s new product, the competitor offered huge temporary discounts that required high minimum purchase orders—all before our client had shipped one new product. By the time the product hit the market, customers had already stocked up on Maintain Your Price Integrity 153 the competitor’s discounted product and had no room for the new one, even though it had better quality. Alternatively, your poor sales could be due to a feature problem, a distribution channel problem, a market awareness problem, or a quality problem. If you’ve done your pricing strategy work properly, you probably don’t have a pricing problem. But you need to search far and wide for the source of the sales problem. BMW did this in 2001. The company traced the reason behind the slow sales of its new 7 Series sedans. It found that European customers thought it was ugly. (Americans did not.) BMW decided to keep the car’s price high. If people do not like the car, they will not buy it, even if it is 10 percent cheaper. Instead, BMW reduced its sales targets—not its price—and started working to design a face-lift right away. 2. Go beyond ﬁnancial KPIs and track monthly outcomes. To measure the progress of new product launches, most companies track only ﬁnancial key performance indicators (KPIs)—typically volume, revenue, and proﬁt. These measures are grossly inadequate. You must also track sales, customer metrics, and operational metrics to keep a pulse on your new product after launch. Sales KPIs such as win-loss ratio, percent deviation of ﬁnal price from target price, average sales quoting time, and price as a reason for win/loss will give you crucial insights on sales team performance. If you are losing a high percentage of deals or your sales greatly and consistently deviate from your target plan, or if the sales force complains that price is the only reason they’re losing deals, you could have a sales training problem. Or you may have to revisit your pricing guidance. KPIs such as number of escalated deals (where someone higher in the organization approves a price), price changes upon deal escalation, and the number of rejected escalated requests will shed light on the health of your sales operations. If the approved prices are the same as requested prices, your sales operation has essentially instituted a rubber-stamping deal escalation process. A healthy escalation should always have reason- able amounts of pushbacks, changing prices on at least 30 to 40 percent of all deals. By the way, be prepared to learn that your price might not be high enough. The number of escalated deals is an important KPI here. Having too few escalated deals could indicate the sales team is ﬁnding it too easy to sell. You need to ask yourself whether you priced your product high enough. 154 Monetizing Innovation As a rule of thumb, at most 20 to 30 percent of your deals (depending on industry) should be escalated. Last, KPIs such as price difference achieved across segments and how often features are used indicate if your customer segmentation strategy is working and if your customers get value from your product. 3. Do deal “deconstructions” regularly. You need to dissect the reasons why you’re winning and losing deals. You should bring together a cross-functional team (including sales, marketing, pricing, ﬁnance, and product) that was involved in the deal. The objective is to fully deconstruct the deal to understand whether product strategy, price strategy, and value communications were applied correctly. Through the deal deconstruction process, you can identify weaknesses and, more important, best practices to be applied to other deals. This step is important; it rallies the sales troops and gets them aligned on successful practices. But you must frame these deal decon- structions as a learning experience, with no repercussions for a particular function or group. You want an open and honest assessment of what happened and what else could have been done, not a ﬁnger-pointing session. 4. Advocate pricing patience: Make your team come up with three nonpricing actions before you approve a price decrease. Spontaneous price reactions—usually price decreases—are a typical problem in the post-launch phase. This is an understandable but wrong response. If sales are below plan or, say, competitors slash their prices, companies look for a quick ﬁx. Lowering prices seems ideal: You can do it right away, without any investments, and see quick results. But, as we have stated in this and other chapters, this is extremely shortsighted. You run the risk of a signiﬁcant downside. Pricing patience is an important capability of every organization. But as simple as it sounds, it is the most difﬁcult thing to get across to executive leadership. To maintain and institutionalize price patience, here’s an approach that typically works: Before getting approval for a pricing reduction, make your team come up with three nonpricing alternatives. If the action must be a price cut, the team must explain why it is superior to the nonpricing alternatives.
+>>>

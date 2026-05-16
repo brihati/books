@@ -1,0 +1,89 @@
+{
+  "book_id": "crossing-the-chasm",
+  "title": "Crossing the Chasm",
+  "book_dir": "/Users/sachin/books/files/Crossing the Chasm",
+  "chapter_count": 9,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-introduction",
+      "index": 1,
+      "title": "Introduction",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/01 - Introduction.txt",
+      "start_page": 14,
+      "end_page": 19,
+      "char_count": 10748
+    },
+    {
+      "chapter_id": "chapter-02-high-tech-marketing-illusion",
+      "index": 2,
+      "title": "High-Tech Marketing Illusion",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+      "start_page": 20,
+      "end_page": 81,
+      "char_count": 106510
+    },
+    {
+      "chapter_id": "chapter-03-the-d-day-analogy",
+      "index": 3,
+      "title": "The D-Day Analogy",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/03 - The D-Day Analogy.txt",
+      "start_page": 82,
+      "end_page": 110,
+      "char_count": 50508
+    },
+    {
+      "chapter_id": "chapter-04-target-the-point-of-attack",
+      "index": 4,
+      "title": "Target the Point of Attack",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt",
+      "start_page": 111,
+      "end_page": 134,
+      "char_count": 38527
+    },
+    {
+      "chapter_id": "chapter-05-assemble-the-invasion-force",
+      "index": 5,
+      "title": "Assemble the Invasion Force",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/05 - Assemble the Invasion Force.txt",
+      "start_page": 135,
+      "end_page": 168,
+      "char_count": 55129
+    },
+    {
+      "chapter_id": "chapter-06-define-the-battle",
+      "index": 6,
+      "title": "Define the Battle",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/06 - Define the Battle.txt",
+      "start_page": 169,
+      "end_page": 201,
+      "char_count": 52537
+    },
+    {
+      "chapter_id": "chapter-07-launch-the-invasion",
+      "index": 7,
+      "title": "Launch the Invasion",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/07 - Launch the Invasion.txt",
+      "start_page": 202,
+      "end_page": 217,
+      "char_count": 26350
+    },
+    {
+      "chapter_id": "chapter-08-leaving-the-chasm-behind",
+      "index": 8,
+      "title": "Leaving the Chasm Behind",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt",
+      "start_page": 218,
+      "end_page": 246,
+      "char_count": 51894
+    },
+    {
+      "chapter_id": "chapter-09-appendix-1",
+      "index": 9,
+      "title": "Appendix 1",
+      "path": "/Users/sachin/books/files/Crossing the Chasm/chapters/09 - Appendix 1.txt",
+      "start_page": 247,
+      "end_page": 257,
+      "char_count": 16075
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-08-leaving-the-chasm-behind",
+  "chunk_id": "chapter-08-leaving-the-chasm-behind-chunk-006",
+  "source": {
+    "chapter_title": "Leaving the Chasm Behind",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/08 - Leaving the Chasm Behind.txt",
+    "source_pages": "218-246",
+    "char_start": 27372,
+    "char_end": 35072,
+    "checksum": "3c783cbc9ee98e4a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+and threatening their livelihood, is immoral—even if businesses and governments routinely do so with abandon. The issues then become ones of foresight, agreement, planning, and preparation. Pioneers do not want to settle down. That is not in their best in­ terest nor in the interest of the companies that employ them. If, at the beginning of the process, everyone can acknowledge this fact, and acknowledge that the very goal of pioneers, the final manifestation of their success, is to create a mainstream market and thereby put themselves out of a job, then we can have a rea­ sonable basis for going forward. How we would go forward and under what kind of compensation program is a discussion we
+
+need to postpone until we look at how to make the transition to the other side of the equation, to the settlers who are expected to come in and take their place. The truth is, of course, that settlers do not take pioneers’ places. They take other places, ones that pioneers have never occupied nor would ever choose to. Nonetheless, settlers do take over the employment roster, including the management positions, the authority, and ultimately the budget. And they build fences and create laws (called procedures) and do all the things that led to range wars between pioneers and settlers back m the Old West. All this bodes well for the post-chasm market­ place, populated with pragmatists, who like reliable, predictable people and abhor surprises But it hardly sits well with the pi­ oneers. How in the world, then, can you make the transition between these two groups in an orderly way? Leaving the Chasm Behind 229 Two New Job Descriptions The key is to initiate the transition by introducing two new roles during the crossing-the-chasm effort. The first of these might be called the target market segment manager, and the second the whole product manager. Both are temporary, transitional po­ sitions, with each being a stepping-stone to a more traditional role. Specifically, the former leads to being an industry mar­ keting manager, and the latter to a product marketing man­ ager. These are their “real titles,” the ones under which they are hired, the ones that are most appropriate for their business cards But during the chasm transition they should be assigned unique, one-time-only responsibilities, and while they are in that mode, we will use their “interim” titles: The target market segment manager has one goal in his or her short job life—Transform a visionary customer relationship into a potential beachhead for entry into the mainstream vertical market that that particular customer participates in. If Citicorp is the client, then it is banking; if Aetna, insurance; if DuPont, chemicals; if Intel, semiconductors. The process works like this: Once you have closed such an account as part of an early market sales program, assign the target market segment man­ ager as its account manager with a charter that allows him the kind of extensive customer contact that will let him really learn how their business works. • He must attend the trade shows, read the literature, study the systems, and meet the people—first, just within the one account, and subsequently, in related companies. • At the same time, he must take over the supervision of 230 Crossing the Chasm the visionary’s project, make sure it gets broken up into achievable phases, supervise the introduction and roll­ out of the early phases, get feedback and buy-in from the end users of the system, and work with the in-house staff to spin off the kind of localized implementations that give these initial deliverables immediate value and impact. • At the same time, he will be working with the whole product manager to identify which parts of the vision­ ary project are suitable for an ongoing role in the whole product and which are not. The goal is to isolate the idiosyncratic elements as account-specific modifications, making sure thereby not to saddle the ongoing product development team with the burden of maintaining them. The market segment manager should not be expected to generate additional revenue from the account in the short term, because the visionaries believe they have already paid for every possible modification they might need. What he can be ex­ pected to do, however, is the following: • Expedite the implementation of the first installation of the system. This not only contributes to the bottom line, as it will expedite the purchase of additional systems; it also secures the beginning of a reference base in the target market segment. Most companies fail miserably in this regard, so much so that even several years later their initial “big name” accounts cannot be referenced. The key here is to remember that pragmatists are not interested in hearing about who you have sold to but rather who has a fully implemented system. Leaving the Chasm Behind 231 • During'the implementation of the first installation, introduce into the account his own replacement, a true account manager, a “settler,” who will serve this client, hopefully, for many years to come. Note that at this point the pioneer salesperson is still in the picture, still has the relationship with the visionary, but the day-to-day operation of the account is entirely in others’ hands. This is typically just fine with the pioneer, for he recognizes this to be the kind of detail-oriented settler work for which he has no liking. • Leverage the ongoing project to create one or more whole prod­ uct extensions that solve some industry-wide problem in an elegant way. The intent is either to absorb these elements into the product line or to distribute them informally as an unsupported product extension through a users’ group. Either way, such add-ons increase the value of the product within the target market segment and create a barrier to entry for any other vendor. The Whole Product Manager While the target market segment manager is pursuing these tasks in the customer’s environment, there is a corresponding internal role to be filled. Here the transition is from product manager to product marketing manager via the short-lived role of whole product manager. These titles are all sufficiently alike as to be confusing, so let’s take a minute to sort out three very different jobs. A product manager is normally a member of the development organization who is responsible for ensuring that a product gets created, tested, and shipped on budget, on schedule, and 232 Crossing the Chasm according to specification. It is a highly internally focused job, bridging the marketing and development organizations, and requiring a high degree of technical competence and project management experience. Occasionally companies try to relo­ cate this job into the marketing organization, in an effort to be more market driven, but this ploy inevitably encounters organi­ zational resistance—if not organ transplant rejection—and thus rarely succeeds. A product marketing manager is always a member of the mar­ keting organization, never of the development group, and is responsible for bringing the product to the marketplace and making it accessible to the distribution channel. This includes all the elements on the crossing-the-chasm agenda, from target customer identification through to pricing. It is a highly exter­ nally focused job. Not all organizations separate product managers from prod­ uct marketing managers, but they should. Combining the jobs almost always results in one or the other simply not getting done. And the type of people who are good at one are rarely good at the other. Now, the whole product manager is a product-marketing- manager-to-be.
+>>>

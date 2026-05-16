@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-06-define-the-battle",
+  "chunk_id": "chapter-06-define-the-battle-chunk-005",
+  "source": {
+    "chapter_title": "Define the Battle",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/06 - Define the Battle.txt",
+    "source_pages": "169-201",
+    "char_start": 25214,
+    "char_end": 32953,
+    "checksum": "3f87b9eaf2bf71c8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+he least amount of change. Given all of the above, it is then possible to talk about posi­ tioning as a verb—a set of activities designed to bring about posi­ tioning as a noun. Here there is one fundamental key to success: When most people think of positioning in this way, they are thinking about how to make their products easier to sell. But the correct goal is to make them easier to buy. Companies focus on making products easier to sell because that is what they are worried about—selling. They load their marketing communications with every possible selling argu­ ment, following the age-old axiom that if you throw a lot Define the Battle 179 of mud at a wall, some of it is bound to. stick.
+
+Prospective customers shrink from this barrage, which in turn causes the salespeople to chase after them that much harder. Even though the words appear to address the customers’ values and needs, the communication is really focused on the seller’s attempt to manipulate them, a fact that is transparently obvious to the potential consumer. It’s a complete turnoff—all because the company was trying to make its product easy to sell instead of easy to buy. Think about it. Most people resist selling but enjoy buying. By focusing on making a product easy to buy, you are focusing on what the customers really want. In turn, they will sense this and reward you with their purchases. Thus easy to buy becomes easy to sell. The goal of positioning, therefore, is to create a space inside the target customer’s head called “best buy for this type of situation” and to attain sole, undisputed occupancy of that space. Only then, when the green light is on, and there is no remaining competing alternative, is a prod­ uct easy to buy. Now, the nature of that best-buy space is a function of who is the target customer. Indeed, this space builds and expands cumulatively as the product passes through the Technology Adoption Life Cycle. There are four fundamental stages in this process, corresponding to the four primary psychographic types, as follows: 1. Name it and frame it. Potential customers cannot buy what they cannot name, nor can they seek out the product unless they know what category to look under. This is the min­ imum amount of positioning needed to make the product easy to buy for a technology enthusiast. 180 Crossing the Chasm The goal here is to create a technically accurate de­ scription of the disruptive innovation that puts it into its ontologically correct category with a descriptive modifier that sets it apart from the other members of that cate­ gory. Think Linnaeus cataloging the world of biological organisms. Here are three such examples of naming and framing: • Verinata is a genetic test that isolates and analyzes fetal cells extracted from a mother’s blood sample to detect Down syndrome. • HANA is a database system that operates in memory in its entirety, eliminating performance bottlenecks associated with writing to disk, reading from disk, or rehosting data into a data warehouse. • Nicira is a software-defined network in which the network configuration and control plane is moved out of the routing and switching equipment to run on a server instead, where it can manage the entire network from a single point of control. If you are not technically informed about these catego­ ries, these positioning statements are not likely to mean a lot to you. But for the experts in the field, they are defini­ tive. That’s what you need to communicate with technol­ ogy enthusiasts. 2. Who for and what for. Customers will not buy something until they know who is going to use it and for what pur­ pose. This is the minimum extension to positioning needed to make the product easy to buy for the visionary. Define the Battle 181 Visionaries do not care about the ontology of the new innovation—they care about its potential impact. What disruptive change can it enable in their environment that they can leverage for dramatic competitive advantage? If we apply this standard to the three examples above, we would generate positioning statements like the following: • For expectant mothers, their doctors, and their health-care insurers, Verinata provides a pregnancy screening test that is less painful, safer, and cheaper than amniocentesis, while delivering the most accu­ rate results in the industry. • For business process owners and the IT organiza­ tions that support them, HANA enables real-time analytics to be applied to transactions as they are unfolding, redirecting them to optimized outcomes that could not otherwise be achieved. • For network administrators operating in a cloud computing environment, Nicira enables rapid re­ configuration of a single network fabric to meet the dramatically different performance needs of multiple mission-critical applications. The key idea here is to focus on the So what? and the Who cares? part of the value proposition. If the who has the clout and the budget, and the what is a big enough reward, then the risk of sponsoring an early market purchase is worth taking. 3. Competition and differentiation. Customers cannot know what 182 Crossing the Chasm to expect or what to pay for a product until they can place it in some sort of comparative context. This is the mini­ mum extension to positioning needed to make a product easy to buy for a pragmatist. This is by definition a post-chasm situation, for the category is now sufficiently viable that there are multiple vendors competing to fill the same budget. In the prior pages we talked about how when crossing the chasm you have to “create” the competition, leveraging the intersection of a market alternative and a product alter­ native. That is a special case. The more general case, and the one more familiar to marketing agencies with whom an entrepreneur might be working, is for more established markets. There the goal is to position offerings relative to their adoption status. Consider the following examples: • In the category of smartphones, Apple iPhones are the design leader, Google Android phones are the price/performance leaders, while RIM BlackBerry phones are a fading star and Microsoft Windows 8 phones a late entry. • In the category of enterprise collaboration software, Jive is strongest in IT-led deployments, Yammer in end-user grassroots deployments, and Salesforce’s Chat­ ter in customer-oriented communication applications. • Among public cloud computing services, Amazon Web Services is far and away the market leader, with Rackspace providing an open-source alternative, and Microsoft specializing in hosting cloud versions of its own enterprise software offerings. Define the Battle 183 These sorts of distinctions help a generalist sign off on technology purchase decisions by creating points of refer­ ence with “adopters like me.” 4. Financials and futures. Customers cannot be completely secure in buying a product until they know it comes from a vendor with staying power who will continue to invest in this product category. This is the final extension of positioning needed to make a product easy to buy for a conservative. Microsoft, IBM, Oracle, Intel, SAP, EMC, and Cisco are all long-standing blue-chip companies with whom conservatives feel comfortable. Dell and HP have both put themselves behind the eight ball here with sustained under­ performance in recent years. Sun got so far behind it had to get acquired by Oracle. These four positioning strategies correspond to the four quad­ rants of the Positioning Compass. The key takeaway from this sec­ tion is that positioning is more about the audience’s state of mind than yours. Most failed positioning statements arise from vendors
+>>>

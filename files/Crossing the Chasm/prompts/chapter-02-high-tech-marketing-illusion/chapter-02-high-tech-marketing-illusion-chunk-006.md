@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-006",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 34500,
+    "char_end": 42253,
+    "checksum": "8c78a500f31bca58"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+hasm, its leaders held high expectations rather than modest ones, and spent heavily in ex­ pansion projects rather than husbanding resources. All this is the result of high-tech marketing illusion—the belief induced by the High-Tech Marketing Model that new markets unfold in a continuous and smooth way. In order to avoid the perils of the chasm, we need to achieve a new state— high-tech marketing enlightenment—by going deeper into the dynamics of the Technology Adoption Life Cycle to correct the flaws in the model and provide a secure basis for marketing strategy development. 2 High-Tech Marketing Enlightenment First there is a mountain, Then there is'no mountain, Then there is. —Zen proverb
+
+What is it about California? How can any state be so successful and yet so weird? I myself am from Oregon, a perfectly normal state, with a pleasantly thriving economy and plenty of fish­ ermen and lumberjacks and such to balance out the high-tech crazies. I never intended to move south and write a book that says—in the very next paragraph, mind you—that you should bet your next million on a Zen proverb. California is a bad influence. However, if you are going to risk time and money in high tech, then you really do need to remember how high-tech mar­ kets develop, and the following proverb is as good a way as any: First there is a market . . . Made up of innovators and early adopters, it is an early market, flush with enthusiasm and vision 34 Crossing the Chasm and, often as not, funded by a potful of customer dollars ear­ marked for accomplishing some grand strategic goal. Then there is no market.. . This is the chasm period, during which the early market is still trying to digest its ambitious proj­ ects, and the mainstream market waits to see if anything good will come of them. Then there is. If all goes well, and the product and your com­ pany pass through the chasm period intact, then a mainstream market does emerge, made up of the early and the late majority. With them comes the real opportunity for wealth and growth. To reap the rewards of the mainstream market, your market­ ing strategy must successfully respond to all three of these stages. In each case, the key to success is to focus in on the dominant “adoption type” in the current phase of the market, learn to appreciate that segment’s psychographics, and then adjust your marketing strategy and tactics accordingly. Illustrating how to do that is the goal of this chapter. First Principles Before we get started, however, we need to establish some ground rules. The first step toward enlightenment is to get a firm grasp on the obvious. In our case, that means getting a useful working definition of the word marketing. Useful in this context means actionable—can we find in the concept of mar­ keting a reasonable basis for taking actions that will predictably and positively affect company revenues? That, after all, is the purpose of this book. Actually, m this context, defining marketing is not partic­ ularly difficult: It simply means taking actions to create, grow, High-Tech Marketing Enlightenment 35 maintain, or defend markets. What a market is we will get to in a moment, but it is, first, a real thing, independent of any one individual’s actions. Marketing’s purpose, therefore, is to de­ velop and shape something that is real, and not, as people some­ times want to believe, to create illusions. In other words, we are dealing with a discipline more akin to gardening or sculpting than, say, to spray painting or hypnotism. Of course, talking this way about marketing merely throws the burden of definition onto market, which we will define, for the purposes of high tech, as: • a set of actual or potential customers • for a given set of products or services • who have a common set of needs or wants, and • who reference each other when making a buying decision. People intuitively understand every part of this definition except the last. Unfortunately, getting the last part—the notion that part of what defines a high-tech market is the tendency of its members to reference each other when making buying decisions—is absolutely key to successful high-tech marketing. So let’s make this as clear as possible. If two people buy the same product for the same reason but have no way they could reference each other, they are not part of the same market. That is, if I sell an oscilloscope for moni­ toring heartbeats to a doctor in Boston and the identical product for the same purpose to a doctor in Zaire, and these two doctors have no reasonable basis for communicating with each other, then I am dealing in two different markets. Similarly, if I sell an oscilloscope to a doctor in Boston and then go next door and 36 Crossing the Chasm sell the same product to an engineer working on a sonar device, I am also dealing in two different markets. In both cases, the reason we have separate markets is that the customers could not have referenced each other. Depending on what day of the week it is, this idea seems to be either blindingly obvious or doubtful at best. Staying with the example at hand, can’t one argue that there is, after all, such a thing as the oscilloscope market? Well, yes and no. If you want to use the word market in this sense (I would prefer you use the word category to convey this idea), it stands for the aggregate sales, both past and projected, for oscilloscopes. If that is how you want to use the word—say, if you are a financial analyst—that’s fine, but you had better realize you are adding apples and oranges (that is, doctor sales + engineer sales) to get your final totals, and in so doing, you are leaving yourself open to misinterpreting the data badly. Most important, market, when it is defined in this sense, ceases to be a single, isolable object of action—it no longer refers to any single entity that can be acted on—and cannot, therefore, be the focus of marketing. The way around this problem for many marketing profes­ sionals is to break up the category into isolable “market seg­ ments.” Market segments, in this vocabulary, meet our definition of markets, including the self-referencing aspect. When mar­ keting consultants sell market segmentation studies, all they are actually doing is breaking out the natural market boundaries within an aggregate of current and potential sales. Marketing professionals insist on market segmentation be­ cause they know that no meaningful marketing program can be implemented across a set of customers who do not reference each other. The reason for this is simply leverage. No com­ pany can afford to pay for every marketing contact made. Every High-Tech Marketing Enlightenment 37 program must rely on some ongoing chain-reaction effects— what is usually called word of mouth. The more self-referencing the market and the more tightly bounded its communications channels, the greater the opportunity for such effects. So much for first principles. There are additional elements to our final definition of market—principally, a concept called “the whole product”—but we will get to that later in the book. For now, let’s apply what we have to the three phases of high- tech marketing. The first of these is the early market. Early Markets The initial customer set for a new technology product is made up primarily of innovators and early adopters. In the high-tech industry, the innovators are better known as technology enthu­ siasts or just techies, whereas the early adopters are the vision­ aries. It is the latter group, the visionaries, who dominate the buying decisions in this market, but it is the technology enthu­ siasts who are first to realize the potential in the new product.
+>>>

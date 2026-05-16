@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-11-use-behavioral-pricing-tactics-to-persuadeand-se",
+  "chunk_id": "chapter-11-use-behavioral-pricing-tactics-to-persuadeand-se-chunk-002",
+  "source": {
+    "chapter_title": "CHAPTER 11: Use Behavioral Pricing Tactics to Persuadeand Sell",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/11 - CHAPTER 11 Use Behavioral Pricing Tactics to Persuadeand Sell.txt",
+    "source_pages": "151-164",
+    "char_start": 6262,
+    "char_end": 13900,
+    "checksum": "d1af5bd9831e58a8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+erings to make each of them more compelling. Last but not least, a fourth offering, an ultrapremium offering with new functionality (aptly named Premium), was created and priced at $299. The impact was immediate and substantial. The number of Standard and Advanced premium products sold rose signiﬁcantly, even though their prices went up. The ﬁnancial impact was substantial: an average revenue per user (ARPU) increase of 36 percent and a 29 percent increase in monthly recurring revenue (MRR) from new customers. The com- pany’s annual proﬁt jumped many times because the new products came with little additional cost to the ﬁrm. Of the 29 percent total increase in MRR, the ﬁrm attributed roughly
+
+14 percentage points to behavioral pricing and 15 percentage points to changes in the core product conﬁgurations. This is behavioral pricing at its best. If you work at a multibillion-dollar company, you aren’t likely to get a 14 percent revenue increase using behavioral pricing; a 1 percent to 3 percent sales boost is more likely. But remember, the pricing tactics we’re talking about here don’t necessarily require rejiggering the func- tionality of your product offerings. You won’t need to increase your costs very much to get that revenue increase. In other words, all of that extra revenue goes directly to your bottom line. Why is that kind of revenue and proﬁt boost possible? Why did the Internet start-up company’s customers ﬂock to its higher-priced options? Three reasons stand out. One, reducing the functionality of the entry-level Basic offering made the offering immediately above it much more attractive to buyers who previously would have been misclassiﬁed as price-sensitive. Two, the Premium offering came with a premium price: $299. That made the Standard and Advanced products look more attractive. The 138 Monetizing Innovation Premium offering was the anchor, the Internet start-up company’s version of the movie theater’s small soda. The offering’s sole purpose was to make the other products look like bargains. It drove a higher percentage of customers who wanted a high-quality solution—but still loved getting a deal—to choose the Standard and Advanced product. Three, a few customers were willing to pay the premium price for the premium offering with the most functionality. We have seen this time and again: Certain customers will always go for the most expensive product in a lineup, the one they perceive to have the highest quality. They believe you get what you pay for and that they deserve the best. As pricing experts, we have come to accept this as a fact of life. In the end, behavioral pricing helped turn a good vanilla cake into a four-tier torte with gourmet toppings (see Figure 11.1). Figure 11.1 Redesigning an Internet Marketplace’s Product Lineup Use Behavioral Pricing Tactics to Persuade and Sell 139 While such stories make behavioral pricing exciting, we need to temper expectations. You can’t base your price-setting strategy only on behavioral techniques. Rational tactics, those that discern what customers value and what they are willing to pay, are prerequisites. Combining rational and behavioral pricing approaches is the most effective strategy. With that caveat, let’s explore six behavioral pricing tactics that work really well for new products. They work even better than you might imagine. Six Behavioral Pricing Tactics That Make the Difference These tactics can markedly increase the success of a new product launch. Based on behavioral economic theories we’ve tested in many different customer settings, these six tactics become more powerful when you combine them. Here they are, along with examples that illustrate them: 1. Compromise effect: Make decisions easier for people who can’t choose. When given a set of choices, people will avoid extremes. For example,imagineyouare inawine storeandwanttobuya bottle.You ﬁnd three options: a $10 bottle, a $25 bottle, and a $40 bottle. Which one would you pick? When asked this question, most people would pick the $25 bottle to avoid the extremes ($10 seems cheap; $40 is costly).Of course,some price-sensitive people will pick the $10bottle, and some quality-conscious people will pick the $40 bottle. But by introducing the $25 wine, you just made the decision process much easier for everyone, including those who can’t decide whether to go with price orquality.They’ll choose the middle option. Thisstrategyis very common in both B2B and business-to-consumer (B2C) compa- nies. Imagine you work in sales at a B2B company and you’re negotiating a deal with a potential customer. You can steer the conversation based on whether the customer is price- or quality- conscious and force a compromise. Recommendation: If you are launching a new product, plan on having a compromise option. 2. Anchoring tactics: Set the context for value. We illustrated two examples of anchoring—the movie theater concessions and the Internet start-up company. Anchors make the 140 Monetizing Innovation other options look attractive. Another illustration of anchoring is The Economist magazine’s A/B pricing experiment, which Dan Ariely described in his book. The experiment divided people into two groups, A and B. The A group was given two choices: $59 for an online-only subscription and $125 for a print-and-online combination. The B group was offered three choices: $59 for online only, $125 for print only, and $125 for the print/online bundle. The $125 print-only option was an anchor. It made The Economist’s print/online bundle for group B look like a great deal; the online edition seemed like a freebie, a throw-in. Some 84 percent chose the print/online bundle in group B versus only 32 percent who chose that bundle in group A. We have helped companies in a variety of industries—Internet, media, and ﬁnancial services, to name just a few—institute such successful anchoring strategies. Anchoring is a crucial behavioral pricing tactic in B2B sales negotiations. If you start with a high price, inevitably you will end up at a higher net price when the negotiation concludes. Anchoring lets you establish a reference point that will inﬂuence subsequent offers and shift the range in your favor. An anchor works because it shapes the customer’s perception of the possible price outcomes. It also creates room for price concessions. To prepare for such concessions, one of our clients always opens a negotiationwithastatementsuchas:“Thisnewproprietarypartispriced at a 40 percent premium over standard versions because of signiﬁcant developmentcostsandsuperiortechnicaladvantages.Butsinceyouhave been a great customer, we can bake in some price concessions.” This lets our client frame all subsequent conversations with customers who ask for discounts because it set the 40 percent premium as the starting point, the anchor. The ﬁrm always nets a higher price than if it had not used an anchor. Recommendation: Make sure you have an anchor product in your new product offering portfolio, and start every B2B sales negotiation for new products with a high anchor price. 3. Using price to signal quality: If it costs more, it reinforces the customer’s perception of quality. A product’s price sends a powerful signal about its quality. Low price equals low quality; high price equals high quality. The Use Behavioral Pricing Tactics to Persuade and Sell 141 premium pricing for the iPhone when it ﬁrst launched in 2007 was essential to positioning it as a quality product. If Apple’s Steve Jobs had debuted the iPhone at $49, it would have been a terrible mistake. The price would have won market share by undercutting competi-
+>>>

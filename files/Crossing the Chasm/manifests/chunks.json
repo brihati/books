@@ -1,0 +1,53 @@
+{
+  "book_id": "crossing-the-chasm",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 64,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-introduction",
+      "title": "Introduction",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-02-high-tech-marketing-illusion",
+      "title": "High-Tech Marketing Illusion",
+      "chunk_count": 16
+    },
+    {
+      "chapter_id": "chapter-03-the-d-day-analogy",
+      "title": "The D-Day Analogy",
+      "chunk_count": 8
+    },
+    {
+      "chapter_id": "chapter-04-target-the-point-of-attack",
+      "title": "Target the Point of Attack",
+      "chunk_count": 6
+    },
+    {
+      "chapter_id": "chapter-05-assemble-the-invasion-force",
+      "title": "Assemble the Invasion Force",
+      "chunk_count": 8
+    },
+    {
+      "chapter_id": "chapter-06-define-the-battle",
+      "title": "Define the Battle",
+      "chunk_count": 8
+    },
+    {
+      "chapter_id": "chapter-07-launch-the-invasion",
+      "title": "Launch the Invasion",
+      "chunk_count": 4
+    },
+    {
+      "chapter_id": "chapter-08-leaving-the-chasm-behind",
+      "title": "Leaving the Chasm Behind",
+      "chunk_count": 9
+    },
+    {
+      "chapter_id": "chapter-09-appendix-1",
+      "title": "Appendix 1",
+      "chunk_count": 3
+    }
+  ]
+}

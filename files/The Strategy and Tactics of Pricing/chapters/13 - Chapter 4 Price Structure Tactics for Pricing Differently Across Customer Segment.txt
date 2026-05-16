@@ -1,0 +1,1459 @@
+ CHAPTER 4
+ Price Structure
+ Tactics for Pricing Differently
+Across Customer Segments
+ Discovering in every man that which distinguishes him from others is to know him.
+ Hermann Hesse  1
+ After developing products or services that create value and making customers
+aware of it, a marketer must determine how most proﬁ tably to capture a share
+of that value in both volume and margin. The challenge is that individual cus-
+tomers will value the differentiating features of products and services very
+differently due to differences in their abilities to pay, their subjective prefer-
+ences, their end-use applications, and their prior experience with the product
+category. Moreover, the timing of customers’ needs, the speed of their pay-
+ments, and the level of service and support they require can drive signiﬁ cant
+differences in the cost to serve them. When a company tries to serve all cus-
+tomers with one price, or even with a standard markup over cost, it is invari-
+ably forced to make large trade-offs between volume and margin, with gains
+in volume requiring either lower prices or higher costs. Fortunately, a well-
+designed price structure can substantially mitigate that trade-off.
+ Except for highly competitive commodities, charging the same price per
+unit is rarely the best way to generate revenues. A far more proﬁ table strat-
+egy requires creating a structure of prices that aligns with the differences in
+economic value and cost to serve across customer segments. The goal is to
+capture more revenue from sales where value or cost to serve is higher, while
+accepting lower revenue to earn additional proﬁ ts from incremental volume
+to customers for whom value is less or the cost to serve them is low.
+ To illustrate the huge beneﬁ ts of a well-deﬁ ned segmented price
+structure, suppose that a supplier faced ﬁ ve different segments, all willing
+to pay a different price to get the beneﬁ ts they sought from a product (see
+Exhibit 4-1). Segment A with sales potential of 50,000 units is willing to pay
+$20 for the ﬁ rm’s product. Segment B with sales potential of 150,000 units is
+willing to pay $15, and so on. What price should the ﬁ rm set? The right answer
+in principle is whatever price maximizes proﬁ t contribution. If you calculate
+77
+EXHIBIT 4-1
+EXHIBIT 4-1 The Incremental Contribution from Segmented Price Structure
+The Incremental Contribution from Segmented Price Structure
+Chapter 4 • Price Structure
+78
+the proﬁ t contribution at each of the ﬁ ve prices assuming a variable cost of
+$5 per unit, the single price that produces the maximum contribution ($2,750)
+is $10.
+ However, a single-price strategy clearly leaves excess money on the
+table for buyers who are willing to pay more: Those willing to pay $20 and
+$15. At the price of $10, those high-end buyers are enjoying a lot of what
+economists call “consumer surplus.” The ﬁ rm would be better off if it could
+capture some of this surplus by charging them higher prices. The second
+problem is that the supplier leaves nearly half of the market unsatisﬁ ed, even
+though it could serve those customers proﬁ tably at prices above the $5 per
+unit variable cost.
+ For industries with high ﬁ xed costs, serving those additional customers
+is often very proﬁ table and, when they constitute large amounts of volume,
+can be essential for a company’s survival. Railroads could not maintain, let
+alone expand, their costly infrastructures without a segmented price struc-
+ture. Railroad tariffs are designed to reﬂ ect the differences in the value of the
+goods hauled. Coal and unprocessed grains are carried at a much lower cost
+per carload than are manufactured goods, resulting in a much lower contribu-
+tion margin per carload. Still, the large volumes of coal and grain transported
+enables that low-priced business to make a substantial contribution to a rail-
+road’s high ﬁ xed-cost structure. If railroads were required to charge all ship-
+pers the tariff for manufactured goods, they would likely lose shippers whose
+commodities would no longer be competitive on a delivered-cost basis and
+so would lose that proﬁ t contribution. On the other hand, if railroads had to
+charge all shippers the tariff currently charged for a carload of unprocessed
+grain, their systems would reach capacity before they generated enough con-
+tribution to cover their ﬁ xed costs and become proﬁ table. Freight railroads
+survive and prosper by leveraging their capacity to serve multiple market
+segments at value-based prices for each segment.
+ Companies that have a large market share but refuse to serve the lower-
+value segments of a market take a risk in doing so. In his book,  The Innova-
+tor’s Dilemma , Clayton Christensen cites numerous examples of companies
+that failed to meet demand from a potentially large, but lower-value segment
+in a market that they otherwise dominated. Invariably, someone eventually
+addressed that need and used it as a base to partially support the ﬁ xed cost
+investments necessary to compete for business in higher margin segments.  2
+For example, Xerox owned the high end of the copier market. It lost that
+dominant position only after companies that had entered at the bottom of the
+market developed service networks of sufﬁ cient size to support sales of large,
+higher-priced copiers, such as those bought by copy centers that required
+quick service to minimize downtime.
+ How many segments with different price points should a supplier
+serve? To return to our illustration, Exhibit 4-1 shows that if the ﬁ rm were
+able to set two price points serving two general price segments—high-end
+buyers willing to pay $15 or more, and mid-level buyers willing to pay $8 or
+more—it could increase proﬁ t contribution by 40 percent. But if the supplier
+could charge separate prices to each of the ﬁ ve market segments, it could
+increase proﬁ t contribution by 80 percent relative to the single price strat-
+egy! In principle, more segmentation is always better. In practice, the extent
+of price segmentation is limited by the ability of the seller to manage the
+Chapter 4 • Price Structure
+79
+complexity of managing across multiple segments and to enforce the segmen-
+tation at an acceptable cost.
+ CHALLENGES THAT CAN UNDERMINE
+SEGMENTED PRICING
+ Segmentation is much more challenging for pricing than for other aspects of
+marketing because customers to whom you intend to charge a higher price have
+a strong incentive to undermine it. They will not freely identify themselves as
+members of a relatively price-insensitive segment simply to help the seller charge
+them more, but will try to disguise themselves as customers who should qualify
+for a lower price. Channel intermediaries too can undermine a segmented pric-
+ing strategy by buying the product intended for delivery to customers entitled
+to a lower price but then actually diverting it for resale to customers targeted
+to receive a higher price. Commonly referred to as gray-market sales, they cre-
+ate a huge challenge for companies serving international markets because dis-
+tributors in countries where prices are lower cross ship products to ones where
+prices are higher. A manufacturer then loses higher-priced sales in the high-
+value country due to gray-market competition from its own products that have
+been parallel imported from lower-priced countries. And, to add to the insult,
+sales are lost even in the low-price country due to shortages that develop when
+products are diverted away from the low-price market.
+ Gray-market diversions by channel intermediaries can undermine not
+only different pricing by region but also by application. There are examples
+where a speciﬁ c drug can have two different uses with correspondingly two
+different levels of clinical value delivered. For example, a drug used to treat a
+high-risk disease like cancer might also be useful for treating eye irritation. The
+challenge for a pharmaceutical company is to develop a strategy that allows it
+to charge differently depending on how the drug is being used. One common
+tactic is to introduce two versions of the drug, each with a unique brand name
+and dosing guidelines, even if the active ingredient is the same. The challenge,
+of course, is that some enterprising physicians might purchase the cheaper
+version of the drug, adjust the dosing to achieve the same result in the higher
+clinical-value setting, and pocket the difference in cost of the drugs used in the
+procedure.
+ In markets where sales are made directly, without a channel interme-
+diary, it is easier to charge different prices to different customers. Recogniz-
+ing the huge potential for proﬁ t improvement from aligning price with value,
+many companies adopt ﬂ exible pricing policies, empowering sales reps and
+sales management to discount prices for customers whom they perceive to
+be more price sensitive, while charging higher prices when the customer is
+unaware of better alternatives or perceives that what differentiates the offer
+is worth a higher price.
+ Flexible pricing can work in markets where customers buy a complex
+product or service very infrequently, such as when they are purchasing
+funeral services for a recently departed relative or a business hires a law ﬁ rm
+to defend it against a novel civil suit. Customers making infrequent purchases,
+especially of products that are difﬁ cult to compare prior to purchase, are often
+uninformed about the differences in price and features among competitors
+and about the value that those differences might create for them. They must
+Chapter 4 • Price Structure
+80
+rely on the supplier for advice about what to buy, which leads them to reveal
+information to the supplier that enables the supplier to judge their relative
+price sensitivity with some accuracy.
+ Staying ﬂ exible in negotiating customer-speciﬁ c prices in this way can
+improve both revenue and proﬁ tability when selling to uninformed buyers.
+It has proven horribly counterproductive, however, for setting prices for cus-
+tomers with whom a seller has, or hopes to establish, an ongoing commercial
+relationship. The problem arises because buyers, especially those who are pro-
+fessional purchasing agents, learn over time how to manipulate a seller’s ﬂ ex-
+ible pricing policy and will do so aggressively to gain competitive advantage,
+or to avoid being put at a disadvantage. Moreover, sales reps learn that it is
+easier to make a case to their own management for why some customer needs
+a bigger discount than it is to justify prices to buyers where access to decision-
+makers is more limited and the real purchasing process less well understood.
+Soon, a ﬁ rm’s negotiated prices become aligned with differences among buy-
+ers’ ability to negotiate and manipulate the seller’s expectations rather than
+with differences in value received and cost to serve. Flexible pricing in this
+case undermines rather than reinforces proﬁ tability.
+ To prevent losing control of pricing to entrepreneurial channel inter-
+mediaries or to customers who are the smart negotiators, a company must
+understand how drivers of value and cost to serve differ across customers and
+develop price structures that align price levels proactively to reﬂ ect those dif-
+ferences. In the next chapter, we will describe how to deﬁ ne price policies
+proactively for managing price exceptions without undermining the integrity
+of a price structure. The balance of this chapter is devoted to explaining how
+to create a segmented price structure that distinguishes between applications
+or customer types that should be priced differently in order to optimize proﬁ t-
+ability. There are three mechanisms that one can use, individually, but more
+often in combination, to form a segmented price structure:  Offer conﬁ gurations ,
+ price metrics , and  price fences .
+ OFFER CONFIGURATIONS
+ When differences in the value of an offer across segments is caused by dif-
+ferences in the features and services that customers need or value, a seller
+can segment the market by conﬁ guring different offers consisting of different
+bundles of features and services for different segments. Using offer conﬁ gura-
+tions to implement segmented pricing requires minimal enforcement of price
+differences because customers will self-select the offers that determine their
+prices. An airline’s segmented price structure (see Exhibit 4-2) enables passen-
+gers to choose freely whether they want to pay only the most discounted price,
+want to pay a little more for the ability to check a bag or board early enough
+to get overhead space, or need the ability to cancel or change ﬂ ights. The price
+structure also includes separate  à la carte charges for priority seats that are
+closer to the front of the plane (enabling faster exit) and have more leg room.
+Additional categories (Refundable and Business/First) afford travelers more
+services such as ﬂ exibility and privileged bag delivery.
+ To create an effective bundled offer structure, one must ﬁ rst determine
+which features and services the ﬁ rm should include in bundles, rather than
+pricing each element  à la carte and leaving customers to customize their own
+Chapter 4 • Price Structure
+81
+offers. There are multiple arguments against pricing all individual features
+and services separately. A single price for a bundle of features and services
+reduces transactions costs for both customers and sellers. The costs to make
+and deliver most products and services increase with the number of varia-
+tions allowed, although technology is reducing the cost of mass customization.
+Lastly, research shows convincingly that people are less sensitive to the cost
+of value-added features and services when bundled as a single expenditure.  3
+Still, something that is particularly high-cost or difﬁ cult to provide in greater
+quantities (e.g., the best seat locations) should be charged separately from any
+bundled price to ensure that customers who most value that feature can be
+conﬁ dent that it will be available to them at some price while simultaneously
+maximizing the seller’s income from that feature.
+ Optimizing the Structure of Offer Bundles
+ Creating bundles is simple when customers targeted for higher prices value
+some feature, like the ability to make changes in an airline ticket, which other
+customers do not. By including that feature only in the higher-priced bundle,
+high-value customers (e.g., business travelers with schedules subject to change)
+choose to pay the higher fare. Sometimes value-adds can be used, to attract the
+lower-value customer. When they have capacity, airlines make seats available
+to tour operators at prices lower than their lowest published fares with the pro-
+viso that the airline seat is sold only as part of a bundle including other items
+such as tickets to tourist attractions and nights in tourist hotels. That bundle
+insures that those tickets will not end up being sold to non-tourists who other-
+wise could have been sold a seat at a higher fare.
+ Cable TV operators create different bundles focused on families, sports
+enthusiasts, and movie buffs that simply include types of programming that
+they value most. The challenge occurs when different customers value the
+same features and services enough to make sales to both proﬁ table, but they
+value them differently. Segmenting by bundled offer conﬁ gurations can still
+be more proﬁ table than pricing elements separately  if different segments of cus-
+tomers simply rank the importance of features differently that they would like to have
+in a bundled offering . The following example illustrates this principle.
+ Sports channels create an ideal opportunity for bundling to maximize
+proﬁ tability. Some sports enthusiasts highly value “ﬁ ght sports” like boxing
+and mixed martial arts. They may also value access to “team sports” like base-
+ball and soccer, but to a lesser extent than team sport enthusiasts do. Team
+sport enthusiasts have exactly the opposite ranking. They will subscribe to
+a channel or a sports package of channels primarily for the team sports, but
+EXHIBIT 4-2
+EXHIBIT 4-2 Segmented Price Structure in Airlines
+Segmented Price Structure in Airlines
+Chapter 4 • Price Structure
+82
+would also value the occasional “ﬁ ght sport”—but would not value a sub-
+scription as much as “ﬁ ght sport” enthusiasts do. The challenge is to maximize
+income from these two segments combined, since, with most costs ﬁ xed, there
+is a large return from maximizing total revenue by getting them both to watch
+both types of sporting events.
+ Now let’s make the pricing challenge a bit more complicated. Let’s say
+that there are many more team-sport broadcasts than ﬁ ght-sport broadcasts,
+so that it is possible to charge more to both segments for team-sport access.
+Based upon past research and experimentation, assume that those pricing
+cable TV options believe that the subscription prices in Exhibit 4-3 represent
+roughly the acceptable prices that would optimize revenue from each segment
+for access to each type of event. Now, how could a pricing manager maxi-
+mize revenue? (To simplify the illustration, we assume that the payment to
+the teams for broadcast rights is a percentage of revenue rather than a variable
+cost per subscriber so that everyone is aligned with revenue maximization as
+the goal.)
+ The maximum viable price per event would be $18/month for a ﬁ ght-sport
+package and $33/month for a team-sport package. That strategy would, how-
+ever, exclude a lot of potential viewers and their revenue. An alternative that
+would not restrict the market would be to charge $6/month for a ﬁ ght sports
+subscription and $25/month for a team sports subscription—for a total of $31/
+month. That option would slightly increase total revenue and overall customer
+satisfaction. But there is a still better strategy. Can you see it?
+ Instead of offering a price structure with a separate price for ﬁ ght sports
+and team sports, observe what happens if the seller offers a combined all-
+sports bundle? They could then charge $39/month and still get both seg-
+ments of sports enthusiasts to subscribe earning $8/month more revenue per
+subscriber than if they set prices for the individual elements low enough to
+generate the same volume of subscriptions. So, should cable companies force
+customers to buy such bundles. Some do, but the lack of choice annoys their
+customers. A better option is to offer the all-sports bundle at $39/month and
+the option to buy ﬁ ght sports for $18/month and team sports for $33/month.
+Not only does that open the market for what may be some customers who only
+value one or the other, but it establishes in the customer’s mind a reference
+value for the package elements separately. Even if few people buy the separate
+options, the company can advertise that buyers of the all-sport package can
+get both streams of shows that would individually sell for $51/month for the
+low discount price of only $39!
+EXHIBIT 4-3
+EXHIBIT 4-3 Revenue Optimizing Subscription Pricing by Segment
+Revenue Optimizing Subscription Pricing by Segment
+Chapter 4 • Price Structure
+83
+ In practice, there are often more than two segments, segments of very
+different sizes, and more than two types of products to bundle. Maximizing
+proﬁ t contribution requires building a spreadsheet or employing a complex
+optimization model to evaluate bundling alternatives.  4  The principle, how-
+ever, is the same for bundling features in auto packages, items to include
+in the four-course dinner special, items in a vacation package, or spots for
+advertising at different times embedded in different shows on a television
+network. The key is to bundle elements that are valued differently by differ-
+ent segments, so long as the incremental revenue earned from inducing more
+customers to buy an element of the bundle exceeds the incremental cost to
+supply it. In principle, one could maximize revenue from three segments with
+one bundle containing three different elements, each valued most highly by
+one of the segments.
+ Designing Segment-Speciﬁ c Bundles
+ Bundling can also facilitate segmented pricing, thus increasing proﬁ tability,
+when different customer segments have different price sensitivity for a core
+product or service (for example, lodging at a popular vacation spot). When
+it is possible to ﬁ nd features or services that one segment values highly and
+another does not (for example, access to a pro-quality golf course or a kids’
+club where children can be left safely and entertained), it is easy to design
+segment-speciﬁ c pricing by bundling. The golfer evaluates the sum of the
+room cost plus the golf cost in ﬁ guring the cost of the vacation. If the golfer
+values lodging at this location by $100 per night more than the family, he will
+pay up to $100 more per day for greens fees than he would at an equal quality
+course in a less desirable location. (Assuming, of course, that no cheaper but
+equal quality course is available near this location.) Since the family did not
+come to play golf, they are unaffected by high greens fees.
+ As rewarding, but often overlooked, is the potential for bundling value-
+added features and services to attract customer segments that require a lower
+price to win their patronage. Although they pay a lower price, their purchase
+volume may, nevertheless, be proﬁ table, especially during off-peak periods or
+economic downturns when excess capacity would otherwise remain unused.
+Simply cutting prices to win their business would, however, make it difﬁ -
+cult to continue charging other customer segments a higher price and could
+cheapen the image of the brand. Bundling a “free” or low-cost service or
+feature speciﬁ cally preferred by this segment, however, can improve the value
+proposition for that segment without having to cut the offer price explicitly.
+ For example, the resort hotel could charge a higher price for the room
+but bundle the kids’ club free for one child with each paying adult, admit
+children free at the breakfast buffet, or provide a shuttle and discount tickets
+to nearby family-friendly entertainment. Since the golfers would ﬁ nd none of
+this worthwhile, the attraction to the buyer and the added cost to the seller are
+limited to the targeted segment. Similar bundles exist in business-to-business
+markets. Companies that cannot discount prices to small businesses without
+facing demands for lower prices from larger customers may offer their price-
+sensitive small business customers low-cost ﬁ nancing, free software for better
+inventory management, or anything else that they would value but that large
+company customers would not want.
+Chapter 4 • Price Structure
+84
+ There is an alternative to adding a feature that raises the value of the
+discounted offer to only the low-price segment. That is to add a feature to the
+lower cost offer that kills value for the higher-priced segment without affect-
+ing the value to the discount segment. Dick Harmer, a former colleague of
+ours, gave this practice the memorable name “selective ugliﬁ cation.” Chem-
+ical companies often do not have separate lines for making “food grade”
+and cheaper “industrial grade” chemicals. They simply add something to
+the industrial grade that makes it no longer acceptable for food manufac-
+turers and consumers. A Saturday night stay requirement for a discount
+airline ticket is another example, since it has no effect on the pleasure trav-
+eler who wants the trip to include the weekend anyway, but precludes most
+business travelers.
+ Unbundling Strategically
+ While bundling can be a proﬁ t-enhancing strategy for segmentation, it often
+has the opposite effect when variable cost services are bundled simply to
+differentiate an offering. For example, a business-to-business equipment
+company might try to convince customers to pay more for its machines by
+bundling the promise of faster warranty repair service and free delivery
+anywhere, and an airline might hope to charge more for its tickets because
+they include free baggage handling and agent assistance with reservations.
+Such price-offer structures often undermine rather than enhance proﬁ ts
+and can be fatal to companies that cling to them in competitive markets for
+two reasons.
+ The ﬁ rst problem is that the cost to provide bundled service can be
+widely different across customers. Customers who have a high need for the
+bundled services gravitate to the companies that offer them for free. As com-
+panies gain share among these high cost-to-serve users, the average cost to
+deliver the bundle increases. If they try to add the increasing average service
+cost to the price, they begin losing sales to customers who are not high-service
+users. If they avoid raising the price of the bundle to reﬂ ect the increasing cost
+of the service, the increasing cost erodes their margins. The second problem
+is that customers often fail to recognize the value of differentiating services
+unless they have a price attached to them.  5  Even when included in a bundle,
+the price assigned to the unbundled services draws attention to their value,
+making the bundled price appear to be a better deal relative to the sum of the
+component parts.
+ Unless the cost to deliver a service is trivial relative to the overall value
+of the offer, bundling optional services for free will undermine proﬁ tability.
+Unbundling them as many airlines have done for baggage handling or for
+using an agent to make reservations, is in fact strategically essential when fac-
+ing intense competition. This can be accomplished either by charging per-use
+fees for the services and/or by including them only in higher-priced bundles
+of services, as airlines commonly due if one pays for a full-fare airline ticket
+rather than a discounted one. Companies can unbundle the price structure
+without upsetting customers who have come to expect a costly service as part
+of the package by including it in the price but offering rebates for forgoing its
+use. For example, one company whose customers had become accustomed to
+placing orders on short notice for free raised its prices but, at the same time,
+Chapter 4 • Price Structure
+85
+offered a discount of more than the price increase for orders that could be
+shipped with a delay of up to seven days. That enabled it to avoid disrupting
+relationships with customers who valued its ability to receive delivery quickly
+by more than the price premium, while enabling it to match competitive prices
+when necessary with a slower, lower-cost service option.
+ PRICE METRICS
+ Not all differences in value across segments reﬂ ect differences in the features
+or services desired. Value received is sometimes not even related to differ-
+ences in the quantity of the product consumed necessitating a price structure
+that involves earning revenues unrelated to the quantity of the product or
+service provided. For example, in the ﬁ eld of health care, both government
+and private payers are resisting paying for health care on a fee-for-service
+basis since delivery of more days in the hospital or more tests is often indica-
+tive of poor treatment choices, not better patient care. Both payers and health
+care providers, like Kaiser Permanente  6  and Mayo Clinic,  7  that have a proven
+ability to deliver care more cost-effectively than their peers, have beneﬁ ted
+from adopting more value-based price metrics: Either a “capitation price” that
+covers all services required by a patient during a year, or a price per illness or
+procedure that covers all services required to treat a condition to a satisfactory
+outcome. By adopting such metrics, health care providers that can provide
+better care in less time or with less resources expended can avoid the difﬁ cult
+problem of having to convince payers to pay more per service to reﬂ ect the
+value of better treatment. It is much easier to make the case that they can get
+patients “back on their feet” for no more than the cost per patient of less effec-
+tive providers.
+ The example just described involved changing from a feature-based
+to a beneﬁ t-based price metric.  Price metrics are the units to which the price
+is applied. They deﬁ ne the terms of exchange—what exactly the buyer will
+receive per unit of price paid. There are often a range of possible options. For
+example, a health club could charge per hour of use, per visit, per an annual
+membership for unlimited access, or per some measure of beneﬁ t (inches lost
+at the waist or gained at the chest). The club might also vary those prices by
+time of day (low for a midday membership, higher for peak-time membership)
+or by season of the year to reﬂ ect differences in the opportunity cost of capac-
+ity. Finally, it might have a multi-part metric: An annual membership with an
+additional hourly charge for use of the tennis courts. These reﬂ ect the common
+categories of price metrics: Per unit, per use, per time spent consuming, per
+person who consumes, per amount of beneﬁ t received.
+ The problem with most price metrics is that they are adopted by default
+or tradition. For example, initially, software companies charged a price per copy
+installed on one server machine. In most cases, that led to a poor alignment
+with value. A few creative vendors recognized that when more users accessed
+the software, the buyer was getting more value. Consequently, they changed
+the price metric from a price “per server” to a price “per seat,” resulting in cus-
+tomers paying more when they had more users accessing the software. When
+this per-seat metric proved much more proﬁ table for the computer-aided
+design and ﬁ nancial analysis companies that adopted it, other software com-
+panies copied it. For many of their applications, however, the number of users
+Chapter 4 • Price Structure
+86
+still aligned poorly with value, leaving many customers underpriced while
+pricing others out of the market. The most thoughtful among them created still
+better price metrics. Leaders in manufacturing software replaced “price per
+seat” with “price per production unit.” Storage management software suppli-
+ers replaced “price per server” with a “price per gigabit of data moved.” Each
+time a company discovers a better metric than its competitors, it gains margin
+from existing customers, incremental revenue from customers formerly priced
+out of its markets, or both.
+ Creating Good Price Metrics
+ There are ﬁ ve criteria for determining the most proﬁ table price metrics for an
+offering (Exhibit 4-4). The ﬁ rst criterion for a good price metric is that it tracks
+with differences in value across segments. While offer design facilitates pric-
+ing differently based upon what people chose to buy, a price metric not based
+upon units of purchase can facilitate different pricing for the same offer. For
+example, it often makes more sense to price drug per day of therapy rather
+than per milligram of the drug—as Eli Lilly did when it launched the anti-
+depressant Prozac. Someone who requires only a 10-milligram dose gets no
+less value than someone who requires a 30-milligram dose to control the dis-
+ease. Consequently, the company charged the same amount per pill regard-
+less of the quantity of active ingredient it contained. Second, a good metric
+tracks with differences in cost to serve across customer segments. When
+customers’ behavior inﬂ uences the incremental cost to serve them and those
+costs are signiﬁ cant, a proﬁ t-maximizing price metric needs to reﬂ ect that as
+EXHIBIT 4-4
+EXHIBIT 4-4 Criteria for Evaluating Pricing Metrics
+Criteria for Evaluating Pricing Metrics
+Chapter 4 • Price Structure
+87
+well. The cost to deliver a service is signiﬁ cant if it exceeds the cost of measur-
+ing, monitoring, and charging for differences in its usage. Marketers are often
+reluctant to charge for services, even when costs are signiﬁ cant, because they
+fear that they will become uncompetitive relative to others who do not charge
+for them. In fact, the opposite is the case.
+ Giving services for free attracts customers who are relatively higher
+users of them. Customers who want to minimize their inventories will
+gravitate to suppliers who offer free rush orders. Customers with a lot of
+employee turnover resulting in poor equipment maintenance, will gravitate
+to equipment suppliers who offer unlimited and quick on-site service. Cus-
+tomers who require only minimal amounts of service will, in similar fashion,
+gravitate to competitors offering little or no service but lower prices. As a
+result, marketers often ﬁ nd that they have differentiated their companies
+into lower proﬁ tability by improving their service offerings because they
+lack an appropriate metric to capture the value and discourage excessive
+use of services.
+ By adding charges for services, at least for those customers who are exces-
+sively costly to serve, companies are able to keep their core product prices
+competitive and avoid attracting a mix of customers who are costly to serve.
+As their markets have become more competitive, software suppliers added
+charges for formerly free online telephone support. Banks have added charges
+for small account holders to use a teller, or to access a teller machine more than
+some authorized amount. United Parcel Service has a $3.80 charge for delivery
+to a residential address and a $13.40 charge for shipments with a missing UPS
+account number or that require an address correction. These charges reﬂ ect
+the added cost of service for such packages, and the tendency for customers
+to cause those costs when they don’t have to pay for them. Suppliers with
+separate service charges can price more competitively for the core business
+(the software, the checking account, the package delivery) to win the custom-
+ers who are lower cost to serve, while still attracting higher cost customers if
+they are willing to pay for the higher service levels that they demand. In fact,
+companies with unbundled service can offer better service because they have
+a ﬁ nancial incentive to do so.
+ A third criterion for a good metric is that it is easy to implement without
+any ambiguity about what charge the customer has incurred. Proﬁ t-sharing
+or performance-based pricing are theoretically ideal ways to achieve the ﬁ rst
+two criteria for a good metric—tracking with value and cost. But in practice,
+these methods often end in rancorous debate about how proﬁ t or performance
+should be measured. At minimum, it is important to have absolute clarity in
+advance about what the metric is and who will measure it. That generally
+means that the metric must be objectively measured or veriﬁ ed.
+ We once helped to create a value-based metric at a company whose lubri-
+cant enabled manufacturers to cut through difﬁ cult materials more quickly
+with less wear on their tools. The company’s product was an easy sell at
+launch when potential customers were operating at maximum capacity. Cut-
+ting materials faster increased capacity at this stage in the production process
+enabling many customers to increase revenues without additional capital cost.
+But when a recession hit, the value associated with increased capacity fell to
+zero. The value created by the company’s product was reduced to the savings
+in labor costs and machine wear.
+Chapter 4 • Price Structure
+88
+ In theory, the price could be adjusted to reﬂ ect the customer’s capacity
+utilization. However, whenever price depends upon the customer voluntarily
+reporting information that will lead to a higher price, the potential for con-
+ﬂ icts and misinformation is almost always too high. Fortunately we found a
+published industrial sales index that seemed to track well with the customers’
+capacity utilization. The company continued to charge a price per pound for
+its product, but in return for lower pricing during the recession, the custom-
+ers accepted automatic price adjustments monthly based upon changes in the
+level of an industry sales index.
+ The fourth criterion for evaluating a price metric is how the metric makes
+your pricing appear in comparison with competitors’ pricing and the impact
+of that on the perceived attractiveness of your offer. A new, hosted voice-
+recognition software that enabled a call center to process more callers without
+as much need for human intervention promised to create huge differential
+economic value for purchasers. Unfortunately, the traditional metric for pric-
+ing and evaluating hosted call center software was a price per minute of use.
+Since voice-recognition software processes callers faster, minutes using tradi-
+tional call center software were not comparable to minutes using the voice-
+recognition software. A value-based price using that per-minute metric would
+need to be at least 72 percent higher than the price per minute for traditional
+software—which was inviting resistance from potential purchasers.
+ To overcome that, the company adopted a new metric: “Cost per call
+completed.” That metric naturally required conversion of the competitors’
+cost-per-minute metric into a cost-per-call metric. While the new software was
+still more expensive, its percent price premium was much smaller (5 percent)
+when framed in terms of cost per call than in terms of a cost per minute (see
+Exhibit 4-5). Moreover, the differentiation value of the avoided operator inter-
+vention was much more dramatic when framed in terms of cost-per-call rather
+than cost-per-minute basis. The total cost per call completed was 11 percent
+less with the new software, despite being higher on a per-minute basis. While
+the favorable economics of the new software was exactly the same using either
+metric, the per-call basis of comparison made the sales effort a lot easier.
+ The ﬁ fth criterion for evaluating a price metric is how the metric aligns
+with how buyers experience the value in use of the product or service. The
+better the alignment—how a price metric ﬁ ts the timing and magnitude of
+EXHIBIT 4-5
+EXHIBIT 4-5 Hosted Call Center Software
+Hosted Call Center Software
+Chapter 4 • Price Structure
+89
+the customers’ expenditure—the more attractive the offer. At a time when
+Blockbuster video stores dominated the market for movie rentals and Netﬂ ix
+was a struggling competitor, Netﬂ ix changed the metric in a way that made it
+much more competitive. Before most people had the capability to stream ﬁ lms
+online, movie renters liked the ability to get a movie on DVD immediately
+from Blockbuster rather than having to wait to get it by mail from Netﬂ ix. But
+movie renters disliked the Blockbuster price metric, a daily charge commonly
+around $3.95, since the value was related to watching the movie once, not to
+how many days the DVD disk sat around before it was returned. When Netﬂ ix
+changed its metric to a monthly membership fee based on the number of ﬁ lms
+out at a time ($8.99 per month for one DVD at a time, $13.99 per month for
+two, and so forth), Netﬂ ix eliminated the inconvenience of having to acquire
+the movie shortly before watching it and return it shortly thereafter, or to pay
+what felt like a ﬁ ne for extra days unrelated to the value sought from the pur-
+chase. Netﬂ ix’s new metric was more compelling than the video store metric
+for a large share of the video rental market, while it also had the effect of dis-
+counting to the heavy users who watch many ﬁ lms per month. Consequently,
+Netﬂ ix’s market share and proﬁ tability boomed.
+ In some cases it is not possible to achieve all of these criteria with one
+metric, but they can be achieved with a multi-part metric. Mobile telephone ser-
+vice providers charge a ﬁ xed monthly fee, capturing the value of simply having
+access to a phone when needed, plus charges for the amount of different services
+consumed (calls, text messages, internet time). Amusement parks sometimes
+have an entry fee plus a ticket charge for each ride. Banks may charge a monthly
+fee for an account, plus additional charges for transactions. Each of these struc-
+tures is designed to strike a balance between service cost recovery, winning cus-
+tomers with pricing that is seen as aligned with value, and capturing more proﬁ t
+from those customers who are getting more value without losing those who are
+still proﬁ table despite the need for lower pricing to retain them.
+ It should also be noted that, depending on the context, the criteria out-
+lined above may need to be modiﬁ ed or added to. For example, in highly regu-
+lated markets such as utilities, health care, or insurance, any potential new
+price metric also needs to pass muster with regulators and legal requirements.
+In other markets, there may be well-established norms around fairness that
+may limit the application of new metrics. For example, while it is seen as fair
+for airlines and hotels to adjust prices relative to demand (with a tactic called
+yield management), raising the price of a taxi ride when it is raining outside is
+generally not viewed as fair, although several ride-sharing services at the time
+of writing have successfully challenged that norm.
+ Performance-Based Metrics
+ An ideal price metric would tie what the customer pays for a product or
+service directly to the economic value received and the incremental cost
+to serve. In a few cases, called performance-based pricing, price structures can
+actually work that way.  8  Attorneys often litigate civil cases for which they are
+paid their out-of-pocket expenses plus a share of the award if they win, rather
+than for hours worked. Internet ads are usually priced based on the num-
+ber of click-throughs rather than the traditional metric for advertising: Cost
+“per thousand” exposure. Systems that control the lights, heating, and cool-
+ing within ofﬁ ce buildings are sometimes installed in return for contracts that
+Chapter 4 • Price Structure
+90
+share the energy cost savings, rather than charges for the equipment installed.
+In each case, the price metric naturally charges customers differently for the
+same product or service based on differences in the value they receive.
+ Most importantly, performance-based pricing has the effect of shifting
+the performance risk from the buyer to the seller. General Electric (GE) used
+bundling to reduce risk when it launched a new series of highly efﬁ cient air-
+craft engines, its GE90 series. These engines promised greater fuel efﬁ ciency
+and power that could make them much more proﬁ table to operate. The catch
+was a high degree of uncertainty about the cost of maintenance. Some airlines
+feared that these high-powered engines might need to be overhauled more
+frequently, thus easily wiping out the ﬁ nancial beneﬁ ts from operating them.
+This undermined GE’s ability to win buyers at the price premium that power
+and fuel efﬁ ciency would otherwise justify.
+ Rather than accept a lower price to account for a buyer’s perceived risk,
+GE responded by changing the price metric. Instead of selling or leasing an
+engine alone, GE effectively rented aircraft engines for a fee per hour ﬂ own
+that included all costs of scheduled and unscheduled maintenance. Without
+the uncertainty of maintenance cost, GE90 engines quickly became popular,
+despite a price premium.
+ In many cases, however, performance-based pricing is simply impracti-
+cal. It requires too much information and too much trust that the buyer will
+actually report the information accurately. It also leaves the buyer uncertain
+regarding the cost of a purchase until after it is used. In practice, therefore,
+marketers must design proﬁ t-driven price structures by ﬁ nding measures
+that at least roughly predict the value a customer will receive and the costs to
+serve, even if the resulting price metric does not allow for a perfect correlation
+between price and value. Often the difference between a good and a great pric-
+ing strategy lies in ﬁ nding, or creating, such measures.
+ Evolution of the Price Metric for Mobile Video Games
+ As video gaming grew from being the passion of hard-core fanatics with
+dedicated equipment to a widely practiced pastime on practically any
+device with an internet connection, the challenges for pricing multiplied.
+How could a game developer optimize revenues from games with which
+some hard-core users engaged intensely while millions of others simply
+dabbled? And in a market with a huge and growing number of substi-
+tutes, how could a developer induce lots of players to try a game without
+giving away the value if it turned out to be highly engaging? Fortunately
+for game developers and the gaming category, game marketers have been
+particularly adept at adapting their price and revenue models to rapid
+changes in their market.
+ For several decades, video games were largely published for three
+mediums: Personal computers, TV-based gaming consoles, and portable
+gaming consoles.  9  The established consumer price metric for the industry
+was price per video game title, which resulted in the acquisition of a physi-
+cal DVD or a cartridge containing the software. Customers were then free
+to play the video game as much or as little as they wished. Most games
+were designed to be played either in narrative form by a single individual
+Chapter 4 • Price Structure
+91
+(as is the case with ﬁ rst-person shooter games) or in a multi-player format
+with several players in the vicinity of the same game console (as is the case
+in sports and combat titles).
+ Although the price-per-title metric served to recover development
+costs, it was far from optimal. Yes, price per title was easy to measure
+and consistent with how retailers liked to acquire products for resale, but
+it didn’t really allow for differences in value across different segments
+of players. It didn’t align with how a user might experience value when
+playing the game, and it didn’t really track with cost to serve. It also did
+not lend itself to discounting to induce product trial. Unfortunately,
+given the developers’ loss of control once the game was sold to a retailer,
+it was difﬁ cult to imagine how game publishers might overcome these
+limitations—although retailers tried alternative pricing schemes such as
+membership fees to borrow games and buy-back options to induce heavy
+users to try new games.
+ The success of the Apple and Android smartphones beginning in
+the mid-2000s created a relatively huge new market for games—there are
+an estimated 2.9 billion smartphone users worldwide,  10  compared to an
+estimated 529 million game consoles sold from 2008 to 2016  11  —and new
+opportunities to engage more directly with game players on an ongoing
+basis. In the United States, for example, close to 80 percent of consumers
+with mobile phones were using smartphone models at the end of 2015.  12
+Prior to smartphones, mobile devices lacked the high-performance com-
+puting and graphics-processing capability required for really engaging
+games. With a much larger potential market suddenly opening up, the
+traditional price elasticities of video games changed. The relatively huge
+installed base on this new platform created at least the possibility to sell
+many more units and to earn much more revenue at a lower price per sale
+than game publishers were earning selling games to people with dedi-
+cated game consoles. Still, the volume gain would have to be huge. Con-
+sider that while the average price of a game for the Nintendo 3DS console
+was $40, a similar game title on the Apple Store ® was priced at around $2.  13
+ The fundamental problem that the price metric didn’t track well with
+how buyers experienced value remained. A game that people loved and
+kept them engaged for a long time could earn no more revenue than one
+that a gamer found interesting initially but tired of quickly. Fortunately,
+two other evolutions in technology opened opportunities for improve-
+ment. Access to cheap, high-speed internet ultimately became ubiquitous
+in most developed markets, allowing for online multi-player gameplay
+and the digital delivery of IP versus physical delivery through a retail
+store.  14  Even more important, platforms developed to enable in-app pur-
+chases that some creative game developers recognized could be used to
+make revenues track more closely with a gamer’s engagement.
+ Publishers of popular, technically sophisticated, but previously
+expensive game titles soon realized that it was possible to compete with
+less sophisticated free titles by transforming the price structure of games
+to a “freemium” model, in which it is free for the end-user to download a
+game, and then pay for value delivered within the game. The next ques-
+tions that each game developer needed to answer were: How do users
+experience value? and, What are the primary drivers of the differences in
+Chapter 4 • Price Structure
+92
+ Tie-Ins as Metrics
+ A very common challenge for a company that sells capital goods is that the
+value of owning them can vary widely across segments based upon how
+intensely they are used. For example, a company that makes a uniquely efﬁ -
+cient canning machine might like to sell it both to salmon packers in Alaska,
+who will use it intensely for only a couple months each year, as well as to fruit
+value experienced? The answers would drive decisions, unique to each
+game, about how best to design product options and price metrics that
+would effectively drive revenues based upon value received.
+ The most sophisticated game publishers now either give away
+access to the game or charge a very low price to download it. They earn
+revenues reﬂ ecting the amount and intensity of players’ engagement with
+the game as revealed by their purchases within three broad categories of
+virtual products offered within a game:
+ 1.  Consumables help a player to continue playing a game or to ascend to
+the next level in the game without the effort of earning it. They are
+“consumable” because once they are used, they can’t be used again.
+Virtual poker chips in the game Zynga Poker, a category-leading
+title, is an example of a consumable available for purchase.
+ 2.  Durables are in-app purchases that help a player to succeed in the
+game but do not get consumed. An improved billiard cue for use
+in the 8 Ball Pool mobile game can be purchased to achieve greater
+shooting and spin precision, nicely mimicking the real-world expe-
+rience for a high-end billiard cue.
+ 3.  Personalization enables the user experience to be customized—as the
+social media game Highrise, that lets users purchase clothes for their
+game avatar that don’t directly impact gameplay but enable a more
+customized user experience.
+ Rather than initiate a credit card transaction for each purchase, games
+generally involve the purchase with real money of a digital currency used
+for making smaller purchases quickly. Some mobile video game publish-
+ers have taken game monetization and value capture a step further by
+paying gamers in digital currency to view online ads. When they do so,
+their ad network partners pay real money to the game publisher based
+upon views.  15
+ By all accounts, this evolution of price metrics has been an extremely
+successful strategy for mobile game publishers. According to Distimo, a
+market research ﬁ rm, in-game purchase revenue accounted for 79 percent
+of iOS mobile app revenue (and up to 94 percent in Asian markets) with
+only 21 percent coming from the traditional model of paying for the title
+upfront at the start of 2014.  16  More importantly, popular games that col-
+lect revenue from in-game purchases rather than from upfront purchases
+earn up to three times more revenue per game.  17
+ Prepared by Junaid Qureshi, who is both an accomplished gamer and consultant at Deloitte Consult-
+ing LLP .
+Chapter 4 • Price Structure
+93
+and vegetable packers in California, who will use it to can crops all year round.
+One option would be to put a meter on the machine to record every time that
+machine went through one cycle. That, in fact, is how Xerox priced its copiers
+at launch, by leasing them at a price based upon machine usage and refusing
+to sell them outright.
+ For the canning machine manufacturer, a usage-based lease was not
+practical because it did not have service people at the client site on a regular
+basis to monitor usage. Instead, a more practical metric was a tie-in sale that
+contractually required purchasers of the canning machine to use it only with
+cans sold by the seller at a premium price. Thus, the true cost of the machine
+was not just its low explicit price but also the net present value of the price
+premiums paid for the tied-in cans. Since buyers who used the machine more
+intensely must buy more of the tied-in product to use it, they effectively paid
+more for the asset.
+ Tie-in sales like those that tied purchase of cans contractually to purchase
+of the machine were quite common until 1949, when the federal courts decided
+that such contracts were not enforceable under U.S. antitrust law because of
+their impact on the otherwise freely competitive market for the tied commod-
+ity.  18  Although contractual tie-ins are no longer enforceable, companies still
+frequently use technological design to tie a unique consumable to an asset—
+often referred to as the proverbial razor-and-razor blades strategy. For exam-
+ple, some manufacturers of document printers will often price the printer—the
+asset—low to drive adoption of the product. The corresponding replacement
+ink cartridges—the consumables—are often designed with proprietary tech-
+nology to ﬁ t uniquely with the asset and carry high wholesale margins. The
+key to the success of this business model is that the pricing allows the seller
+to build a signiﬁ cant installed base of users, and earn signiﬁ cant proﬁ ts from
+users who use—and beneﬁ t from—the printers the most.
+ In service-based companies, tie-in contracts are frequently used to
+reduce the cost for new buyers to try their services. Wireless phone providers
+offer a digital telephone for a nominal fee, and sometimes free, if the buyer
+agrees to purchase a long-term service contract to use the company’s wireless
+network for 12 or 24 months. Satellite entertainment companies offer house-
+holds a satellite dish and receiver unit for a greatly reduced price when buyers
+agree to subscribe to a higher-priced entertainment package of channels for a
+minimum of 12 or 24 months. These packages can be particularly effective for
+low-knowledge buyers who perceive signiﬁ cant risk in investing in a new and
+little-known technology—and then developing them into loyal buyers who
+become accustomed to the ﬁ rm’s technology and programming.
+ Value-Based Pricing Finances Hamlet’s Castle
+ The seeds of value-based pricing were planted centuries ago with the ﬁ rst
+documented use of value-based pricing metrics to improve proﬁ tability.
+The use occurred in the 15th century when Erik of Pomerania, King of
+the United Kingdom of Scandinavia, summoned to Copenhagen a group
+of merchants from the powerful German Hanseatic League, which at the
+time dominated nearly all trade in northern Europe. He informed them
+that henceforth, he intended to levy a new toll: Every ship wishing to sail
+Chapter 4 • Price Structure
+94
+past Elsinore, whether on its way out of or into the Baltic, would have to
+dip its ﬂ ag, strike its topsails, and cast anchor so that the captain might go
+ashore to pay the customs ofﬁ cer in the town a toll of “one English noble.”
+ Nobody challenged the right of the King of all Scandinavia to impose
+a toll of this kind. After all, mere barons who owned castles on the banks
+of the Rhine, the Danube, and other major European waterways had for
+centuries forced all passing ships to pay a similar toll. However, its rela-
+tive heaviness, combined with the obligation to cast anchor at Elsinore in
+order to hand over the money, made it highly unpopular. Erik foresaw
+that if he also established a proper town at Elsinore, sea captains, after
+paying their toll and then waiting for a favorable wind, would welcome
+an opportunity to replenish stocks of water, wine, meat, vegetables, and
+whatever else they needed. In other words, even if they had to pay a toll,
+calling in at Elsinore could have its attractions—all he had to do was pro-
+vide them.
+ Elsinore’s fortunes changed in 1559 with the accession to the throne
+of Frederik II, aged 25. He was young, ambitious, and entertained imperi-
+alistic ideas about reconquering Sweden and restoring the Nordic Union.
+Consequently, he declared war, and it dragged on for seven years. Like
+all wars, it was a severe drain on Denmark’s ﬁ nances. By 1566, the situ-
+ation was so serious that Frederik II and his councillors decided as a last
+resort to enlist the help of a man with special talents named Peder Oxe.
+Oxe was acknowledged to be a ﬁ nancial wizard, which was just what
+Frederik needed.
+ Erik of Pomerania’s toll of one English noble per ship had long been
+regarded by skippers and ship owners as grossly unfair. After all, ships
+were of so many different sizes, carried so many different cargoes, and
+according to nationality, had various interests and afﬁ liations. The sys-
+tem had also been proving increasingly disadvantageous from the Danish
+king’s point of view. The ﬁ rst four or ﬁ ve kings after Erik of Pomerania
+had therefore continually tried to introduce amendments of one kind or
+another, and these in turn made it necessary to introduce various special
+concessions. Some nationalities were exempted completely and others
+enjoyed preferential treatment in certain respects.
+ By this time, the basic toll had been raised from one to three nobles
+per ship, but it was still far from being a satisfactory system. Peder Oxe
+realized that the only answer lay in a radical reform of the whole basis
+upon which the tolls were calculated. Henceforth, instead of a simple toll
+per ship, payment must be made, he suggested, on the basis of the cargo
+carried. To start with, two Rixdollars per last (a “last” being approxi-
+mately two tons of cargo). Soon this was changed to an even subtler and
+more ﬂ exible system: A percentage of the  value of each last of cargo.
+ The King held the right of pre-emption, that is to say an option to
+buy, if he so chose, all cargoes declared. This royal prerogative encour-
+aged the captain of a ship to make a correct declaration. Naturally, if he
+thought the King might be interested in buying his cargo, he was tempted
+to put a high value on it. However, in doing so, he ran the risk that His
+Majesty might be totally disinterested, in which case he would have to
+Chapter 4 • Price Structure
+95
+ PRICE FENCES
+ Sometimes value differs between customer segments even when all the fea-
+tures and measurable beneﬁ ts are the same. Value can differ between customer
+segments and uses simply because they involve different formulas for con-
+verting features and beneﬁ ts into economic values. The difference may be tied
+to differences in income, in alternatives available, or in psychological beneﬁ ts
+that are difﬁ cult to measure objectively. Unless there is a good proxy metric
+that just happens to correlate with the resulting differences in value, the seller
+needs to ﬁ nd a price  fence : A means to charge different customers different
+price levels for the same products and services using the same metrics.
+ Price fences are ﬁ xed criteria that customers must meet to qualify for a
+lower price. At theaters, museums, and similar venues, price fences are usu-
+ally based on age (with discounts for children under 12 years of age and for
+seniors) but are sometimes also based on educational status (full-time stu-
+dents get discounts), or possession of a coupon from a local paper (beneﬁ ting
+locals who know more alternatives). All three types of customers have the
+same needs and cost to serve them, but perceive a different value from the
+purchase. Price fences are the least complicated way to charge different prices
+to reﬂ ect different levels of value. Unfortunately, while simple to adminis-
+ter, the obvious price fences sometimes create resentment and are often too
+easy for customers to get over whenever there is an economic incentive to
+do so. Thus, ﬁ nding a fence that will work in your market usually requires
+some creativity.
+ Buyer Identiﬁ cation Fences
+ Occasionally pricing goods and services at different levels across segments
+is easy because customers have obvious characteristics that sellers can use to
+identify them. Barbers charge different prices for short and long hair because
+long hair takes more time to cut. But, during non-peak hours, barbers also cut
+children’s hair at a substantial discount, despite the fact that children can be
+more challenging and time-consuming. The rationale in this case is entirely
+to drive business with a discount for a more price-sensitive segment. Many
+pay a duty calculated on this high valuation. Conversely, if he played
+safe and declared a low value in the hope of getting away with paying
+a low duty, the King might decide to buy the whole consignment which
+could leave the captain seriously out of pocket. Summoning Peder Oxe to
+reorganize the levying of the Sound Dues proved to be a masterful stroke.
+Within a few years, the King’s income from this source practically tripled.
+At the age of 38, Frederik II married his 15-year-old cousin, Sophie of
+Mecklenburg, and in 1574 embarked on what was to become the major
+architectural project of his life, the building of a new castle at Elsinore.
+ Abridged from  Hamlet’s Castle and Shakespeare’s Elsinore by David Hohnen (Copenhagen:
+Christian Ejlers, 2000) .
+Chapter 4 • Price Structure
+96
+parents view home haircuts as acceptable alternatives to costly barber cuts
+for their children, even though they would never bear the risk of letting their
+spouses cut their own hair. For barbers, simple observation of the customer
+segment, children, is the key to segmented pricing.
+ Issuers of credit cards resort to far more sophisticated, proprietary mod-
+els to anticipate the price sensitivities and costs to serve for different types of
+consumers. Some are more sensitive to the annual fee, some to the interest
+rate, and others to the frequent ﬂ yer miles or other beneﬁ ts they can earn.
+On the cost side, some consumers are more likely to default or to use their
+card only infrequently, thus generating fewer fees from retailers for process-
+ing charges. Finally, the companies can see from consumers’ credit reports
+what competitive cards they hold and can estimate their annual fee and inter-
+est rates, thus determining the reference value of the next best competitive
+alternative (NBCA). Based upon these analyses, credit card companies very
+ﬁ nely segment their potential customer base and send out different offers that
+optimize the expected proﬁ tability of each segment. The metrics are the same,
+but the levels vary depending on which metric the issuer can use most cost-
+effectively to capture the most value. Rarely is identiﬁ cation of customers in
+different segments straightforward. Yet, management can sometimes structure
+price discounts that induce the most price-sensitive buyers to volunteer the
+information necessary to identify them. Many service providers, from hotels
+and rental car companies to theaters and restaurants, offer senior discounts
+to those who will show an American Association of Retired Persons (AARP)
+card, Medicare card, or some other ID that conﬁ rms their eligibility. College
+students qualify for discounts on various types of entertainment because their
+low incomes and alternative sources of campus entertainment make them, as
+a group, price-sensitive shoppers. Seniors and students readily volunteer their
+identiﬁ cation cards to prove that they are members of the price-sensitive seg-
+ment. Members of the less price-sensitive segment identify themselves by not
+producing such identiﬁ cation.
+ Even schools and colleges charge variable tuitions for the same educa-
+tion based on their estimates of their students’ price sensitivities. Although the
+ofﬁ cial school catalogs list just one tuition, it is not the one most students pay
+at private colleges. Many receive substantial discounts disguised as “tuition
+remission scholarships” obtained by revealing personal information on ﬁ nancial-
+aid applications. By evaluating family income and assets, colleges can set
+tuition for each student that makes attendance attractive while still maximiz-
+ing the school’s income.
+ Deal proneness is another form of self-induced buyer identiﬁ cation—
+especially through the use of coupons and sales promotions, a frequent tool
+of consumer marketers. Coupons provided by the seller give deal-prone shop-
+pers a way to identify themselves.  19  Supermarkets and drug stores put cou-
+pons in advertising circulars because people who read those ads are part of
+the segment that compares prices before deciding where to shop. Packaged-
+goods and small appliance manufacturers print coupons and rebate instruc-
+tions directly on the packages, expecting that only price-sensitive shoppers
+will make the effort to clip them out and use them for future purchases.  20
+ Often a buyer’s relative price sensitivity does not depend on anything
+immediately observable or on factors a customer freely reveals. It depends
+instead on how well informed about alternatives a customer is and on the
+Chapter 4 • Price Structure
+97
+personal values the customer places on the differentiating attributes of the
+seller’s offer. In such cases, the classiﬁ cation of buyers by segment usually
+requires an expert salesperson trained in soliciting and evaluating the infor-
+mation necessary for segmented pricing.
+ Purchase Location Fences
+ When customers who perceive different values buy at different locations,
+they can be segmented by purchase location. This is common practice for a
+wide range of products. Dentists, opticians, and other professionals some-
+times have multiple ofﬁ ces in different parts of a city, each with a different
+price schedule reﬂ ecting differences in the target clients’ price sensitivity.
+Many grocery chains classify their stores by intensity of competition and
+apply lower markups in those localities where competition is most intense.
+Colorado ski resorts use purchase location to segment sales of lift tickets.
+Tickets purchased slope side are priced the highest and are bought by the
+most afﬂ uent skiers who stay in the slope-side hotels and condos. Tickets
+are cheaper (approximately 10 percent less) at hotels in the nearby town of
+Dillon, where less afﬂ uent skiers stay in cheaper, off-slope accommodations.
+In Denver, tickets can be bought at grocery stores and self-serve gas stations
+for larger discounts (approximately 20 percent less). These discounts attract
+locals, who know the market well and who are generally more price sensitive
+because the ticket price represents a much higher share of the total cost for
+them to ski.
+ A clever segmented pricing tactic common for pricing bulky industrial
+products such as steel and coal is  freight absorption . Freight absorption is the
+agreement by the seller to bear part of the shipping costs of the product, the
+amount of which depends upon the buyer’s location. The purpose is to seg-
+ment buyers according to the attractiveness of their alternatives. A steel mill
+in Pittsburgh, for example, might agree to charge buyers the cost of shipping
+from either Pittsburgh or from Gary, Indiana, where its major competitor is
+located. The seller in Pittsburgh receives only the price the buyer pays, less the
+absorbed portion of any excess cost to ship from Pittsburgh. This enables the
+Pittsburgh supplier to cut price to customers nearer the competitor without
+having to cut price to customers for whom his Chicago competitors have no
+location advantage. The Chicago competitor probably uses the same tactic to
+become more competitive for buyers nearer Pittsburgh.
+ Trade barriers between countries once made segmentation by location
+viable even for products that were inexpensive to ship. As trade barriers
+have declined around the world, and especially within the European Union,
+the tactic has become less effective. For example, automobiles used to be
+sold throughout Europe at prices that varied widely across borders. Ger-
+man luxury cars sold in Britain were at least 20 percent more expensive than
+when sold just across the channel in Belgium. But after Britain joined the
+EU, brokers in Britain began to survey the continent for cars, which peo-
+ple could ﬂ y to pick up and drive home—or even have the broker bring it
+back for them. To ﬁ ght back, some makers of German luxury brands, which
+are cheaper in Germany than in some other countries where they carry a
+more premium image, have used their warranties to enforce location fences.
+A car bought in Germany and imported to Britain cannot get warranty service
+Chapter 4 • Price Structure
+98
+in the United Kingdom without paying an additional charge for warranty
+transfer to a British dealership.
+ Time-of-Purchase Fences
+ When customers in different market segments purchase at different times,
+one can segment them for pricing by time of purchase. Theaters segment their
+markets by offering midday matinees at substantially reduced prices, attract-
+ing price-sensitive viewers who are not employed during the day at times
+when the theater has ample excess capacity. Less price-sensitive evening
+patrons cannot so easily arrange dates or work schedules to take advantage
+of the cheaper midday ticket prices. Restaurants usually charge more to their
+evening patrons, even when their peak demand is at lunch, because demand
+(in the United States, but not in Europe) is more price sensitive for the mid-
+day meal. Why? There are more numerous inexpensive substitutes for lunches
+than there are for dinners. A fast food meal or a brown bag, acceptable for
+lunch, is often viewed as a poor substitute for a formal dinner as part of an
+evening’s entertainment.
+ Priority pricing is one example of segmenting by time of purchase. Inno-
+vative new retail products are offered at full price, or even at a premium.
+Over time, as product appeal fades in comparison to still newer competitive
+alternatives, buyers discount the product’s value until they are willing to
+pay only a fraction of its original price for leftover models. This is common
+in the retail fashion and automobile industries, where customers with high
+incomes and low price sensitivity pay premium prices for the latest styles
+and models. Over time, as inventories age and novelty declines, prices are
+reduced in successive rounds of promotions to appeal to more price-sensitive
+buyers who are willing to wait for the opportunity to buy high-quality, but
+less trendy, inventory.
+ Priority pricing also applies in business-to-business purchases. A strat-
+egy of Intel has long been to introduce a leading-edge semiconductor at a pre-
+mium price that reﬂ ects the higher performance level, and then adjust prices
+on its existing product lines to make them viable upgrades for less demanding
+applications, as well as to reduce the inventory of the now older semiconduc-
+tors. Leading-edge original equipment manufacturer (OEM) computer manu-
+facturers that produce and sell the fastest and latest computers to innovative
+professional buyers with low price sensitivity pay the price premium for the
+latest chip technology. More price-sensitive buyers who do not require the
+highest levels of performance are able to choose from a tiered selection of Intel
+semiconductors that vary in price and performance levels.
+ Predictable, periodic sales offering the same merchandise at discounted
+prices can also segment markets. This tactic is most successful in markets with
+a combination of occasional buyers who are relatively unfamiliar with the
+market, and with more regular buyers who know when the sales are and plan
+their purchases accordingly. Furniture manufacturers employ this tactic with
+sales every February and August, months when most people usually would
+not think about buying furniture. However, people who regularly buy home
+furnishings, and who are more price sensitive because of the reference-price
+and total-expenditure effects, know to plan their purchases to coincide with
+these sales.
+Chapter 4 • Price Structure
+99
+ Time is also a useful fence when demand varies signiﬁ cantly with the
+time of purchase but the product or service is not storable. This problem plagues
+airlines, hotels and restaurants, electric utilities, theaters, computer time-sharing
+companies, beauty salons, toll roads, and parking garages. Unable to move
+supplies of their products from one time to another, their only option is to
+manage demand to match supply by charging high prices when supply would
+otherwise exceed demand and lower prices when it is highly unlikely that the
+seller will face demand that exceeds capacity.
+ Pricing for travel through the Eurotunnel between England and France is
+an interesting application of segmented pricing for a product with ﬁ xed capac-
+ity. The channel tunnel allows transport of an automobile and its occupants
+between England and France for a ﬂ at price. Prices that allow travel at what-
+ever time of day you choose are twice as high as during the off-peak evening
+and night periods. This reﬂ ects the opportunity cost of limited capacity. More
+interesting is the fact that rates increase with the time elapsed between the
+outbound and the return trips. Roundtrip use of the tunnel for a two-day, one-
+night visit from the United Kingdom to France costs from £53 per auto, while
+roundtrip use for a three- to seven-day visit costs from £79 at the same times
+of day. Clearly, this has nothing to do with cost or available capacity, so what
+drives it? The answer is that the value of having your own car with you on the
+trip versus having to rent one after traveling by plane or train increases with
+the length of the stay.  21
+ Purchase Quantity Fences
+ When customers in different segments buy different quantities, one can some-
+times segment them for pricing with quantity discounts. There are four types
+of quantity discount tactics:  Volume discounts, order discounts, step dis-
+counts , and  two-part prices . All are common when dealing with differences in
+price sensitivity, costs, and competition.  22  Customers who buy in large volume
+are usually more price sensitive. They have a larger ﬁ nancial incentive to learn
+about all alternatives and to negotiate the best possible deal. Moreover, the
+attractiveness of selling to them generally increases competition for their busi-
+ness. Large buyers are often less costly to serve. Costs of selling and servic-
+ing an account generally do not increase proportionately with the volume of
+purchases. In such cases, volume discounting is a useful tactic for segmented
+pricing.
+ Volume discounts are most common when selling products to business
+customers. Steel manufacturers grant auto companies substantially lower
+prices than they offer other industrial buyers. They do so because auto manu-
+facturers use such large volumes they could easily operate their own mills or
+send negotiators around the world to secure better prices. Volume discounts
+are based on the customer’s total purchases over a month or year rather than
+on the amount purchased at any one time. At some companies, the discount is
+calculated on the volume of all purchases; at others, it is calculated by product
+or product class. Many companies give discounts for multiple purchases of a
+single model but, in addition, give discounts based on a buyer’s total expendi-
+ture on all products from the company.
+ Although less common, some consumer products are volume dis-
+counted as well. Larger packages of most food, health, and cleaning products
+Chapter 4 • Price Structure
+100
+usually cost less per ounce, and canned beverages cost less in 12-packs than
+in six-packs. These differences reﬂ ect both cost economies for suppliers and
+the greater price sensitivity for these products by large families. Warehouse
+food stores, such as Costco, Sam’s Club, and BJ’s Wholesale Club often
+require consumers to buy in large-quantity packages to qualify for dis-
+counted prices.
+ Often sellers vary prices by the size of an order rather than by the size
+of a customer’s total purchase volume.  Order discounts are the most common
+of all quantity discounts. Almost all ofﬁ ce supplies are sold with order dis-
+counts. Copier paper, for example, can be purchased for about $20 per case of
+ten reams, but purchased individually it costs several dollars per ream. The
+logic for this is that many of the costs of processing an order are unrelated
+to the size of it. Consequently, the per-unit cost of processing and shipping
+declines with the quantity ordered. For this reason, sellers generally prefer
+that buyers place large, infrequent orders, rather than small frequent ones. To
+encourage them to do so, sellers give discounts based on the order quantity.
+Order discounts may be offered in addition to volume discounts for total pur-
+chases in a year, because volume discounts and order discounts serve sepa-
+rate purposes. The volume discount is given to retain the business of large
+customers. The order discount is given to encourage customers to place large
+orders.
+ Step discounts differ from volume or order discounts in that they do not
+apply to the total quantity purchased, but only to the purchase beyond a speci-
+ﬁ ed amount. The rationale is to encourage individual buyers to purchase more
+of a product without having to cut the price on smaller quantities for which
+they would pay a higher price. Thus, in contrast to other segmentation tactics,
+step discounting may segment not only different customers, but also different
+purchases by the same customers. Such pricing is common for public utilities,
+from which customers buy water and electricity for multiple uses and place a
+different value on it for each use.
+ Consider, for example, the dilemma that local electric companies face
+when pricing their product. Most people place a very high value on having
+some electricity for general use, such as lighting and running appliances. The
+substitutes (gaslights, oil lamps, and hand-cranked appliances) are not very
+acceptable. For heating, however, most people use alternative fuels (gas, oil,
+coal, and kerosene) because of their lower cost. Utilities would like to sell
+more power for heating and could do so at a price above the cost of generating
+it. They do not want to cut the price of electricity across the board, however,
+since that would involve unnecessary discounts on power for higher-valued
+uses. One solution to this dilemma is a step-price schedule. Assume that the
+electric company could charge a typical consumer $0.06 per kilowatt-hour
+(KWH) for general electricity usage but that it must cut its price to $0.04 per
+KWH to make electricity competitive for heating. If the company charged the
+lower price to encourage electricity usage for heating, it would forgo a third
+of the revenue it could earn from supplying power for other uses. By replac-
+ing a single price with a block-price schedule, $0.06 per KWH for the ﬁ rst
+block of 100 KWH and $0.04 for usage thereafter, the company could encour-
+age people to install electric heating without forgoing the higher income it
+can earn on power for other purposes. To encourage people to use electricity
+for still more uses, such as charging their car batteries during off-peak hours,
+Chapter 4 • Price Structure
+101
+utilities often add another step discount for quantities in excess of those for
+general use and heating. Exhibit 4-6 illustrates a step-price schedule for an
+electric utility.
+ Two-part pricing is another way to structure volume discounts and is used
+most commonly in situations where there is an incremental cost to take on a
+new customer but a lower cost to sell an existing customer additional volume.
+For example, a company that supplies fuel oil or LPG to homes and businesses
+must send a truck to each customer location to top-off the tank on a regular
+basis. Customers who require only a small amount at each visit would need
+to be charged a high price per gallon or cubic foot simply to cover the delivery
+cost, while those who require much larger quantities could be served proﬁ t-
+ably at a lower price per unit and would therefore have a lot of competition
+for their business. The typical solution is a two-part price, which in this case
+would be a price to make the delivery plus a price for the amount of product
+actually delivered.
+ Given the clear increase in proﬁ t from offering step discounts, effectively
+moving along an individual customer’s demand curve, why do most compa-
+nies still offer each individual customer volume at only one price? The answer
+is that segmenting different purchases by each customer is possible only under
+limited conditions. It is proﬁ table only when the volume demanded by indi-
+vidual buyers is signiﬁ cantly price sensitive.
+ PEAK PRICING AND YIELD MANAGEMENT
+ In industries where the product or service is not storable, a seller’s current
+capacity imposes a limit on the amount of demand that can be satisﬁ ed at
+EXHIBIT 4-6
+EXHIBIT 4-6 Step-Price Schedule for Electricity
+Step-Price Schedule for Electricity
+Chapter 4 • Price Structure
+102
+any point in time, while any capacity that is not sold when available is lost
+forever. This is a common problem for airlines, hotels, taxi ﬂ eets, and amuse-
+ment parks. It is also a common problem for services from government such
+as the capacity of roads and central city streets that become congested and
+impassable at peak times. The easiest solution to this problem involves simply
+raising price reactively, or  peak pricing , whenever supply is inadequate to meet
+the quantity demanded. Uber, for example, adjusts its prices upward when
+demand exceeds supply, ensuring that at some price it is almost always pos-
+sible to get an Uber car while rewarding drivers for joining the pool of cars
+when demand is greatest. Even some governments have come to recognize
+how peak pricing can both improve the quality of life for its citizens while
+earning revenues disproportionately from people who are willing to pay
+a premium at peak times. Cities from London to Singapore have begun to
+charge drivers a “congestion charge” for the right to drive on inner-city streets
+when trafﬁ c would otherwise exceed capacity, while highways throughout the
+U.S. have additional priority lanes where trafﬁ c is kept ﬂ owing by setting an
+access charge high enough to keep the number of cars using the lanes within
+the available capacity.
+ The most challenging pricing problems occur when a seller attempts
+to manage both the peak demand problem and pricing across different seg-
+ments simultaneously. In the distant past, most sellers would attempt to man-
+age one and simply accept management of the other as a lost opportunity.
+As the cost of computing power and data management declined over recent
+decades, companies with the most to gain began developing a process called
+ Yield Management to optimally manage these two pricing problems simulta-
+neously. A few ﬁ rms in the airline industry and petroleum reﬁ ning have led
+the way in developing sophisticated yield management techniques. The abil-
+ity to do so proved to be a huge competitive advantage substantially increas-
+ing the return on capital invested relative to those ﬁ rms that simply adjust
+price reactively.
+ There are three tasks required for effective yield management. The ﬁ rst
+is to use one of the pricing tactics described above to enable segmented pric-
+ing based upon value to the purchaser. Second, because one must generally
+set the price level by segment before potential customers reveal their demand,
+yield management requires a means to forecast changes in demand by seg-
+ment over time. Initially, airlines used past variation over days of the week
+and over weeks of the year to forecast demand by segment in the future. Over
+time, the best yield management practitioners have added more variables to
+their forecasting models to anticipate demand even more accurately. Third,
+yield management involves estimating demand price elasticity by segment to
+determine which prices should be adjusted to optimize the balance between
+margin and capacity utilization.
+ With those three bits of information—a segmented price structure,
+demand forecasts and elasticities by segment—yield managers can optimize
+prices to maximize revenue and proﬁ t. The ultimate goal is to target price
+changes to induce the more price-sensitive customers to adapt their purchase
+behavior while maintaining pricing for the less price-sensitive segments,
+where inducing changes in demand would be more costly to the seller and
+painful for the buyer. To illustrate how they do this, consider the recent pric-
+ing on the route from Boston to Chicago. The fully refundable, changeable
+Chapter 4 • Price Structure
+103
+fare, purchased almost exclusively by relatively price-insensitive business
+travelers, is $302 for all ﬂ ights during the work week. At that price, the air-
+line makes a lot on each seat sold and so would like to ensure that seats are
+always available at that price point on every ﬂ ight, even if purchased near the
+ﬂ ight time. On the other hand, since the costs of a ﬂ ight are mostly indepen-
+dent of the number of customers actually on the plane, the airline would also
+like to ﬁ ll as many seats as possible, since an empty seat is a wasted revenue
+opportunity.
+ To achieve these conﬂ icting goals in a way that maximizes the revenue,
+or yield, on each ﬂ ight, the airline focuses its price management on the cus-
+tomers who are most price sensitive. On Monday morning, usually a time of
+peak demand, the price for a non-refundable, non-changeable ticket at the
+most popular ﬂ ight times is $232. A price that high is sufﬁ cient to discourage
+some discretionary travelers from traveling at that time, leaving seats avail-
+able to sell more proﬁ tably and refundable tickets to business travelers. On
+Wednesdays, however, demand from business travelers is much less than on
+Mondays, so there are potentially many empty seats. The solution, however, is
+not to discount the refundable fare, since few if any additional business travel-
+ers would take a trip on Wednesday simply because fares were lower.
+ Instead, the airline holds the refundable fare at the same $302 level,
+despite the lower demand for it, because that demand is not particularly price
+sensitive. To ﬁ ll the additional seats that cannot be sold at full price, the yield
+manager will lower the price for a non-refundable, non-changeable ticket on
+Wednesday morning. But an airline cannot wait until it sees how many people
+will buy a refundable ticket before deciding whether and how much to dis-
+count non-refundable tickets, since the buyers of refundable tickets often wait
+to book until close to the time of the ﬂ ight. Consequently, the airline must esti-
+mate how many seats it can sell in advance at a discount without foreclosing
+the ability to sell those seats at a higher price later. To do that, a yield manager
+must ﬁ rst forecast how many higher-priced, refundable tickets the airline will
+be able to sell closer to ﬂ ight time.
+ Apparently, the yield manager in this case expected demand for Wednes-
+day morning ﬂ ights to fall substantially relative to Monday ﬂ ights, leaving a
+lot of empty seats. Consequently, the airline reduced its lowest, non-refundable
+fare for Wednesday morning to only $127. Since that is 37 percent below its
+price for the same time on Mondays, the airline apparently estimated from
+past experience that it could sell, and would have the capacity to serve, greater
+than 37 percent more seats on Wednesday morning than it could have sold by
+retaining the same price it offered on Monday.
+ Obviously, the better an airline’s ability to forecast demand, and the bet-
+ter the ability to estimate the impact of price on seats demanded, the more
+successful the yield management will be in loading capacity with the most
+proﬁ table passengers available for each date and ﬂ ight time. The key to trans-
+forming simple peak pricing into sophisticated yield management in any
+industry is the forecasting of demand and adjustment of price based upon
+how current sales are tracking against forecasted sales. While software to do
+this was initially built in house, software companies have since developed
+sophisticated software packages to make and display these estimates auto-
+matically, drawing upon analysis of past demand patterns for similar days of
+the week and times of the year. Those yield management packages are now
+Chapter 4 • Price Structure
+104
+widely used to set prices for hotel rooms, rental cars, and advertising space
+as well as for airline seats. Less sophisticated versions are sometimes used to
+price seats at concerts and other popular performance venues.
+ Summary
+ Designing an optimal price structure that
+effectively segments your market and
+maximizes your proﬁ table sales oppor-
+tunities is clearly among the most difﬁ -
+cult, but potentially rewarding, aspects of
+pricing strategy. For companies that are
+launching an offering with differentiated
+beneﬁ ts or employing a business model
+with a different cost structure, creating a
+new price structure that aligns with those
+differences is usually necessary to capture
+the proﬁ t potential associated with them.
+Even without such a change, a company
+that can incrementally improve the price
+structure can gain proﬁ table incremental
+volume. The principles of price structure
+discussed in this chapter, and the exam-
+ples cited to illustrate them, can serve as
+a guide to a better basis for collecting rev-
+enues across segments. There is no simple
+formula. Each case requires creativity to
+ﬁ nd the best means to implement those
+principles within your market. It is, how-
+ever, one of the most important activities
+that a marketer can do to improve prof-
+itability, since the investment required is
+small relative to other marketing invest-
+ments, and the payoff is often very large.
+ Notes
+ 1.  Herman Hesse,  Narcissus and Gold-
+mund , trans. Ursule Molinaro (New
+York: Picador, 1968), p. 41.
+ 2 .  Clayton M. Christensen,  The Inno-
+vator’s Dilemma (Cambridge, MA:
+Harvard Business School Press,
+1997), pp. 44–46.
+ 3 .  Daniel Kahneman, Jack L. Knetsch,
+and Richard H. Thaler, “The
+Endowment Effect, Loss Aversion,
+and Status Quo Bias,”  Journal of
+Economic Perspectives , 5(1) (Winter
+1991), pp. 193–206.
+ 4 .  Gary D. Eppen, Ward A. Hanson,
+and R. Kipp Martin, “Bundling—
+New Products, New Markets, Low
+Risk,”  Sloan Management Review ,
+32(4) (Summer 1991), pp. 7–14,
+describes a model for optimizing
+very complex bundles.
+ 5 .  Marco Bertini and Luc Wathieu,
+“How to Stop Customers from Fixat-
+ing on Price,”  Harvard Business Review
+(May 2010). Accessed at https://hbr.
+org/2010/05/how-to-stop-custom
+ers-from-ﬁ xating-on-price.
+ 6 .  “Kaiser Permanente—California: A
+Model for Integrated Care for the
+Ill and Injured,” Brookings Institu-
+tion, May 4, 2015. See also: Reed
+Abelson, “The Face of Future
+Health Care,”  The New York Times ,
+March 20, 2013. Accessed at www.
+nytimes.com/2013/03/21/busi
+ness/kaiser-permanente-is-seen-
+as-face-of-future-health-care.html.
+ 7 .  Atul Gawande, “The Cost Conun-
+drum: What a Texas Town Can
+Teach Us About Health Care,”
+ The New Yorker , June 1, 2009.
+Accessed at www.newyorker.com/
+magazine/2009/06/01/the-cost-
+conundrum.
+ 8 .  For
+a
+complete
+treatment
+of
+performance-based
+pricing,
+see
+Benson P. Shapiro, “Performance-
+Based Pricing Is More Than Pric-
+ing,” Harvard Business School
+Note 9-999-007, February 25, 2002.
+ 9 .  “The Global Games Market Reaches
+$99.6 Billion in 2016, Mobile Gener-
+ating 37%,” Newzoo.com, April 21,
+2016. Accessed at https://newzoo.
+com/insights/articles/global-
+games-market-reaches-99-6-bil
+lion-2016-mobile-generating-37.
+Chapter 4 • Price Structure
+105
+ 10 .  Statista, “Number of Smartphone
+Users Worldwide from 2014 to
+2020.” Accessed at www.statista.
+com/statistics/330695/num
+ber-of-smartphone-users-world
+wide.
+ 11 .  Statista, “Global Unit Sales of Cur-
+rent Generation Video Game Con-
+soles from 2008 to 2016.” Accessed
+at www.statista.com/statistics/27
+6768/global-unit-sales-of-video-
+game-consoles.
+ 12 .  “Smartphone Penetration Nears
+80% of the US Mobile Market,”
+MarketingCharts.com, February 8,
+2016, cites statistics from comScore.
+Accessed at www.marketingcharts.
+com/online/smartphone-pene
+tration-nears-80-of-the-us-mobile-
+market-65214/.
+ 13 .  Ali Shah, “Nintendo 3DS vs Smart-
+phone Gaming: Which Wins?”
+Gigaom, March 31, 2011. Accessed at
+https://gigaom.com/2011/03/31/
+nintendo-3ds-vs-smartphone-gam
+ing-which-wins.
+ 14 .  Andrew Burger, “LRG: U.S. Broad-
+band Penetration Rises to 79%
+of Households, Smartphone Role
+Increasing,” Telecompetitor.com,
+October 24, 2014. Accessed at www.
+telecompetitor.com/lrg-u-s-broad
+band-penetration-rises-to-79-
+of-households-smartphone-role-
+increasing.
+ 15 .  Brian Rifkin, “How to Win With
+In-Game
+Advertising,”
+ Adweek ,
+September 28, 2015. Accessed at
+www.adweek.com/socialtimes/
+how-to-win-with-in-game-adver
+tising/627399.
+ 16 .  Shane Schick, “Distimo: In-app
+Purchases Accounted for 79% of
+iOS Revenue in January,” Fierce-
+Wireless.com, March 24, 2014.
+Accessed at www.ﬁ ercewireless.
+com/developer/distimo-app-pur
+chases-accounted-for-79-ios-reve
+nue-january.
+ 17 .  Sourcebits, “Paid vs. Free Apps in
+the App Store vs. Google Play,”
+July 16, 2014. Accessed at http://
+sourcebits.com/app-development-
+design-blog/paid-vs-free-apps-
+app-store-vs-google-play.
+ 18 .  United States v. American Can
+Company (Northern District court
+of California, 1949).
+ 19 .  See
+Narasimhan
+Chakravarthi,
+“Coupons as Price Discrimination
+Devices—A Theoretical Perspective
+and Empirical Analysis,”  Marketing
+Science , 3 (Spring 1984), pp. 128–147;
+Naufel J. Vilcassim and Dick R.
+Wittink, “Supporting a Higher Shelf
+Price Through Coupon Distribu-
+tions,”  Journal of Consumer Marketing ,
+4(2) (Spring 1987), pp. 29–39.
+ 20 .  See the discussion in Chapter 5 of
+the framing effect to understand
+why rebates may inﬂ uence pur-
+chases by customers who do not
+ultimately redeem them.
+ 21 .  Source: Fare ﬁ nder function at
+www.eurotunnel.com.
+ 22 .  For an in-depth discussion of the
+motivations for quantity discount-
+ing, see Robert J. Dolan, “Pricing
+Structures with Quantity Discounts:
+Managerial Issues and Research
+Opportunities,” Harvard Business
+School working paper, 1985.

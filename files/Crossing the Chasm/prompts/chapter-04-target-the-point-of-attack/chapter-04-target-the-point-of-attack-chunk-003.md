@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-04-target-the-point-of-attack",
+  "chunk_id": "chapter-04-target-the-point-of-attack-chunk-003",
+  "source": {
+    "chapter_title": "Target the Point of Attack",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt",
+    "source_pages": "111-134",
+    "char_start": 13285,
+    "char_end": 21031,
+    "checksum": "744c03794b7620de"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+away from traditionally manufactured products. Where would you begin? This is a classic case of “So many segments, so little time”— exactly the sort of thing that target customer scenarios are best for. A representative format for any given scenario is il­ lustrated in the following section. A finished scenario should be limited to a single page. As you will see from the example, this is a highly tactical exercise in microcosm, but it has major Target the Point of Attack 113 implications for how marketing strategy is set overall. So as we work through the example, we will also keep an eye out for the broader implications. Sample Scenario l. HEADER INFORMATION. At the top of the page you need
+
+thumbnail information about the end user, the technical buyer, and the economic buyer of the offer. For business markets, the key data are: industry, geography, department, and job title. For consumer markets, they are demographic: age, sex, economic status, social group. For our sample scenario, we are going to focus on a lighting designer who is bringing to market a new line of fixtures for the home. The plan is to sell these through wholesale distributors to interior decorators and designers acting as agents for their relatively wealthy clientele. In this context our key header information is: Economic buyer: The client who ultimately pays for the lighting fixture. End user: The interior designer who will guide the client in making the choice. Technical buyer: The home maintenance provider or building contractor who will install the fixture. Note: In off-the-shelf consumer scenarios, the three roles of user, technical buyer, and economic buyer tend to merge into one or two. If the user is a child, the economic buyer is the parent, and the technical buyer is a toss-up (in our house, the child for sure). If the user is an adult, the economic buyer often is the other spouse (as in, is it okay 114 Crossing the Chasm for me to spend our money on this doodad?), and the tech­ nical buyer tends to be the user. One caveat, though: It is extremely difficult to cross the chasm in a consumer market. Almost all successful crossings happen in business markets, where the economic and technical resources can absorb the challenges of an immature product and service offering. Alternatively, consumer markets can spin up with no chasms at all if the technology is already adopted and the disruption is coming from a new business model. (For an alternative market development model that describes these dynamics, see “The Four Gears” discussion in Appendix 2.) Getting back to our scenario process, which is a B-to- B-to-C value chain, where both the distributor and the designer are intermediaries between the manufacturer and the consumer, the idea behind the header information is to focus the marketing and R&D teams on a specific instance of how the product would be bought and used. This is called a use case. Do not worry about being overly focused at this point—indeed, the more specific, the better. The devil is always in the details, and these scenarios are all about getting the devil in view. 2. A DAY IN the life (BEFORE) The idea here is to describe a situation in which the user is stuck, with significant conse­ quences for the economic buyer. The elements you need to cap­ ture are five: • Scene or situation: Focus on the moment of frustration. What is going on? What is the user about to attempt? • Desired outcome: What is the user trying to accom­ plish? Why is this important? Target the Point of Attack 115 • Attempted approach: Without the new product, how does the user go about the task? • Interfering factors: What goes wrong? How and why does it go wrong? • Economic consequences: So what? What is the impact of the user failing to accomplish the task productively? Using lighting fixtures as an example, we might gener­ ate the following: Scene or situation: David T is an interior designer with a wealthy but highly demanding client who wants “the perfect” fixtures for her remodeled living and dining area. David too has very high standards for such things, and the pair of them are determined to find something truly special. Desired outcome: Locate and purchase lighting fixtures that en­ hance and extend the design themes of the two rooms. The goal is to combine a striking shape with simple lines and subtle colors, varying a single theme across several different fixtures. This will require a single designer to come up with multiple designs of dif- ferent sizes and scale utilizing a common set of materials. Attempted approach: David has been scouring the Design Dis­ trict for days, going to all his most reliable sources, gathering images and catalogs galore. He has reviewed these with his client, leading to an increasingly more precise sense of what they are looking for, but regrettably not finding it. A couple of close calls turned out to be unsuitable once they had gone to see them on display. 116 Crossing the Chasm Interfering factors: The problem with the whole approach is that both David and his client would like to “co-design” the fixtures so they integrate perfectly with the other design themes in the home. Unfortunately, fixtures come already designed, and the entire industry is based on selecting from what is available. More­ over, the amount of inventory that would have to be displayed in order to represent a complete selection is prohibitively expensive, which means many catalog items end up having to be bought sight unseen (and then returned if found unsatisfactory). This is, of course, the perennial challenge of a retail merchandising model. Economic consequences: David’s client is not happy, which means David is not happy. It looks like they are going to end up having to settle for something that is okay but not “perfect,” thereby undermining David’s fundamental brand promise and the client’s confidence in his ability to deliver on it. More­ over, the wholesaler who gets the business does not achieve the kind of customer loyalty he wants from David because he too is part of this chain of compromise as well. 3. A DAY IN THE life (After) Now the idea is to take on the exact same situation, along with the exact same desired out­ come, but to replay the scenario with the new technology in place. Here you need to capture just three elements: • New approach: With the new product how does the end user go about the task? • Enabling factors: What is it about the new approach that allows the user to get unstuck and be productive? • Economic rewards: What are the costs avoided or benefits gained? Target the Point of Attack 117 Staying with the lighting fixtures example, we might generate the following: New approach: David and his client have been reviewing cat­ alogs and images over the Web for the better part of a week, and they have finally settled on a design. This is a variation on a couple of actual products that have been sketched out by David with input from the client. They take this design to a fixture wholesaler who supports 3-D printing. The whole­ saler works with a freelance designer who is able to scan Da­ vid’s drawing and convert it into a CAD file. At the same time, the wholesaler works with David to select an appropri­ ate material and finish for the fabricated fixture. Then both the CAD file and the material are fed into the printer, and out comes a finished fixture. If the client still wants to tweak it some more, this can be readily done by updating the file and printing it out again. Further, by adjusting the parameters in the file, fixtures of different scales can be produced, all shar­ ing the same design. Enabling factors: Three-D printers are able to manufac­
+>>>

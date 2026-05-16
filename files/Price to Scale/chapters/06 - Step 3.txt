@@ -1,0 +1,816 @@
+43
+
+
+STEP 3
+Pricing Metric
+
+
+Selecting your key pricing variable is perhaps the most consequen-
+tial decision you will make in your entire pricing and packaging
+exercise. If you get it right, almost every other piece of your pricing
+model and operations can be fine tuned. If you get it wrong, you may
+not only waste the time taken in conducting this project but can
+significantly slow down sales velocity and introduce completely
+unneeded friction in the sales engine.
+At the end of the day the goal for pricing is to find a way to charge
+your customer based on a heuristic that allows a) You to obtain
+revenue for your product that maximizes the return from the market
+(i.e. larger companies are able to pay more) b) Your client to pay a
+price that is proportional to the value perceived to be derived by them.
+There are many ways to think about this variable, including pricing
+on usage, license, seat, cost, and so on. As mentioned by Zuora’s CEO
+Tien Tzuo in his book Subscribed7, I’ve found it very clarifying to look
+at two main approaches at the highest level as Capability and
+Consumption based pricing (see Figure 14). (The simplifying caveat
+here is we assume subscription based pricing models.)
+
+7 https://www.amazon.com/Subscribed-Subscription-Model-Companys-
+Future/dp/0525536469
+AJIT GHUMAN
+44
+
+Fig. 14: Consumption and Capability based Pricing
+1. Consumption Pricing includes both traditional per seat
+based pricing models, as well as usage-based pricing models
+that are prevalent in newer SaaS products in the market
+today.
+− The seat-based model is essentially a way to ‘size’ the
+client account. The ‘per seat’ allows the brand to
+charge more from larger clients, with a sort of im-
+plicit assumption that value-derived also scales
+proportionately. This approach works well when the
+product is a more foundational ‘system of record’ to
+an organization’s technology stack, such as a CRM,
+HR, or Customer Support system that is going to be
+routinely used by various departments as a way to run
+the business. There is unlikely to be one key unit of
+activity that can easily be distilled into a usage
+parameter.
+− The usage-based model scales with the actual units of
+usage of a product. For e.g. Amplitude charges per
+analytics event processed, Google Drive charges on
+storage consumed. Twilio charges per SMS sent.
+Some fraud detection companies charge based on the
+number of transactions processed. Usage-based
+PRICE TO SCALE
+45
+pricing is used for a number of reasons. Depending on
+the chosen metric, it can be more directly tied to the
+value a prospect receives from the product and thereby
+lead to easier client adoption. It can also be useful when
+there are hard costs that scale with usage, think S3 stor-
+age or compute power (more often in the infrastructure
+layer vs. the application layer). Finally, this approach is
+easier to adopt when the usage of the product is actually
+measurable across customers.
+2. Capability Pricing refers to pricing a product as a lump-sum
+amount for the capability offered. This could be a fixed price
+or a price that scales based on the size of the customer. Since
+it is a lump-sum model, this approach doesn’t really allow for
+usage growth over time and is more akin to paying for a fixed
+piece of hardware or set capability. While it would definitely
+play well in a hardware setting, it also tends to work well for
+add-on modules that sit on top of a base platform that utilizes
+a consumption-based pricing model.
+Given this information, how do you decide on your main pricing
+metric/variable?
+Here is a proposed checklist:
+1. Decide the larger model - Consumption or Capability.
+2. If Capability, then the unit of pricing is per product or module
+and you can move on selecting the right price point. The next
+section explains how to do just that.
+3. If Consumption, then you need a way to decide what your key
+metric will actually be. Will it be a traditional per-seat model?
+Or will it be based on usage? If it is usage, then what is the
+metric of usage? I propose that you come up with a few
+candidates and then rank/assess them with the following list:
+a) Tie to client value: Is the metric proportional to client
+value? And to what extent?
+AJIT GHUMAN
+46
+b) Fits for clients: Will clients perceive it to fit with the
+value they derive?
+c) Measurable: Can you instrument your product so that
+the metric is easily measurable?
+d) Predictable: Can clients estimate how much they will
+spend with this metric? If the metric isn’t predictable
+then clients could be hit by unexpected bills that
+could take them by surprise.
+e) Diminishing or Scaled Costs: As your metric
+increases, do your costs level out, or do they scale with
+usage? Sometimes there may not be much choice in
+the matter but this is important to note as the subse-
+quent decisions on pricing structure, price point, and
+discounting will be critical in case costs increase
+steadily with consumption.
+f) Deal Economics: Does this model help you create a
+workable sales engine? There can always be two
+different metrics that check all the above boxes but
+differ considerably in the resulting revenue and mar-
+gin you accrue for each deal. Everything else being
+equal, you’d want to maximize revenue capture.
+Now let me illustrate how this decision can have a meaningful impact
+with a few real-life examples:
+Company
+Pricing Metric Decision
+Impact
+Early Stage
+Pricing
+
+Helpshift
+Helpshift is a customer service
+software platform that
+originally grew due to its focus
+on solving mobile customer
+support use cases.
+
+Earlier on, the company had to
+make a decision on how to
+price its platform. Had the
+company used the industry-
+standard approach of
+implementing per-seat pricing,
+Selling to a company with a
+support team of 20 agents at
+$100 per month would only
+work out to a $24,000 annual
+deal price.
+
+But the same company could
+have 20 Million MAU and be
+willing to pay $100 per
+100,000 MAU. Leading to a
+monthly price of $20,000 and
+an annual ASP of $240,000.
+PRICE TO SCALE
+47
+it would have significantly
+hampered its growth since
+there are not a lot of support
+agents in many companies
+offering mobile applications,
+while at the same time these
+apps support tens of millions
+of users.
+
+The company chose to price
+based on the number of MAU
+(monthly active users) and was
+able to convince the key
+‘Product Manager’ persona
+that this price was justifiable
+and tied to value since MAU
+was how these products were
+already being managed.
+
+
+This was a 10x increase in
+revenue capture with the
+second pricing metric!!
+
+Early Stage
+Pricing
+
+Kustomer
+Kustomer is another provider
+in the customer service space.
+Unlike Helpshift, it made a
+decision to retain a seat-based
+pricing model as followed by
+incumbents such as Zendesk.
+Do note that Kustomer in some
+cases directly competed with
+Zendesk in the web-based
+support space.
+
+Kustomer’s CEO, Brad
+Birnbaum, shared his thoughts
+on pricing on a Saastr
+podcast8:.
+
+“So pricing’s a really difficult
+thing, right? It’s something that
+we wrestled with in the earliest
+days of Kustomer. We wanted
+to be innovative. We quickly
+learned as we started talking to
+customers that they didn’t want
+innovative pricing. They wanted
+repeatable, consistent pricing
+that mapped to the budget they
+already had in place.
+In 2020 Facebook acquired
+Kustomer for $1 Billion. And
+while we don’t have specific
+information on the impact
+on the pricing model. We do
+know that Kustomer was able
+to get a sizable chunk of
+mid-market customers by
+providing a superior product
+that was significantly
+differentiated from
+incumbents but within a
+familiar, predictable pricing
+model.
+
+8 https://tomtunguz.com/should-your-startup-differentiate-on-pricing/
+AJIT GHUMAN
+48
+
+Now as we are going mid-
+market and above, we’re mostly
+replacing existing solutions,
+whether it be Zendesk or
+Salesforce. So they (customers)
+already had a budget in place,
+so they just said, “Hey, we have
+X amount allocated for a
+solution. Our solution is better,
+it’s robust, it does more, but this
+is the budget that we have.”
+
+So they wanted a pricing model
+that, frankly, mapped to the
+way they’re accustomed to
+doing business It was highly
+predictable. So while we wanted
+to think about doing a
+consumption model here at
+Kustomer, because we thought
+that was innovative, we
+realized our customers didn’t
+want a consumption model.”
+
+Established
+Stage
+Pricing
+Evolution
+
+Mixpanel
+(longer case
+study later
+on in the
+book)
+In 2019, Mixpanel changed its
+key pricing metric to Monthly
+Tracked Users (MTUs) whereas
+earlier they had used the
+concept of Events for a long
+period of their existence as an
+analytics software provider.
+
+They made the decision to
+change their pricing metric
+because the older metric of
+‘Events’ while being very
+measurable was no longer
+fitting with client perception of
+value as the company grew
+across use cases and
+industries. Some customers’
+usage-based bills increased
+substantially but they didn’t
+feel they received
+proportionate value. On the
+other hand, their sales team
+found it was hard to size up
+While we don’t have hard
+publicly available metrics on
+impact, this change had a
+bunch of cascading benefits
+for the company:
+
+1.
+Reduced customer
+churn: As now
+customers wouldn’t
+be saddled with
+paying
+disproportionately
+more compared to
+value derived.
+2.
+Faster sales motion:
+Deals close faster as
+Sales don’t have to
+play the role of
+translator and can
+keep the discussion
+focussed on value.
+
+PRICE TO SCALE
+49
+new prospects and had to do
+more work to translate from a
+prospect’s actual value to the
+company’s ‘event’ based
+pricing.
+
+They landed upon Monthly
+Tracked Users (MTUs) (very
+similar to MAUs in the last
+example) that checked many of
+the criteria I alluded to earlier:
+tied to value, measurable,
+predictable, and so on.
+Established
+Stage
+Pricing
+Evolution
+
+Hubspot
+Hubspot is a company that has
+come to change the field of
+marketing and has essentially
+birthed the term ‘inbound
+marketing’ around its set of
+marketing automation
+capabilities. While it initially
+began with a single product
+that priced based on the
+number of contacts in their
+Hubspot instance, the
+company eventually made
+other products that weren’t in
+congruence with being priced
+based on the number of
+contacts. In 2020, Hubspot
+made the change to its pricing
+metric to ‘Marketing Contacts’
+from the original ‘Contacts’
+metric, removing the friction
+that affected the company’s
+ability to go to market with a
+multi-product platform.
+
+This medium post9 by its CTO
+Dharmesh Shah explains the
+evolution of its pricing model:
+
+“In 2006, we were a single-
+product company selling what
+Hubspot’s pricing change is
+too recent to know what the
+impact is, but it's CFO’s
+comment in its recent
+quarterly earnings report
+indicates that the company
+expects a change in its
+customer mix due to the
+pricing change.
+
+Kate Bueker A Chief
+Financial Officer, HubSpot,
+Inc10.
+“And then over the course of
+Q3 and Q4, what we saw is a
+much more balanced set of
+customer
+additions, which is what sort
+of leads me to the comments
+that from one quarter to the
+next, there's going to be
+some difference in the kinds
+of customers we add, as we
+introduce different
+functionality and make
+pricing and
+packaging changes.”
+
+
+
+9 https://medium.com/swlh/marketing-contacts-pricing-lessons-38eef8301e95
+10
+https://ir.hubspot.com/hubfs/Q4%202020%20Earnings%20Call_Corrected%20Tra
+nscript_2021-02-11-20-36-05.pdf
+AJIT GHUMAN
+50
+we now call Marketing Hub...
+Since then, we have added
+HubSpot CRM, Sales Hub,
+Service Hub, and CMS Hub to
+our portfolio.
+
+...Marketing Hub was billed on
+a base price with included
+contacts, and database size —
+i.e. how many contacts were in
+the database, which we felt
+reflected the value they got
+from our software.
+
+When we transitioned into a
+multi-product world, the
+interaction between our
+products started creating
+pricing issues. HubSpot CRM is
+free and Sales Hub is priced
+on a per-seat basis. Not only
+did our pricing philosophy
+differ across Hubs, sales
+activity would often generate
+additional contacts that would
+then raise the subscription
+price of Marketing Hub,
+whether or not those contacts
+were valuable from a
+marketing perspective. This
+created friction and confusion
+for customers. Our approach
+had not been designed for a
+multi-product world. As we
+entered a new phase of growth,
+it became apparent that we
+needed a new strategy.
+
+When we went back to the
+drawing board on contact
+pricing…
+
+A customer’s measure of
+success isn’t just how much
+they can grow their database,
+but how many leads in that
+database are worthy of
+nurturing. Thus, the idea of
+PRICE TO SCALE
+51
+splitting marketing contacts
+out from non-marketing
+contacts — and only charging
+customers for the contacts
+they needed to interact with —
+was born.
+
+Our marketing contacts
+pricing model allows
+customers to only pay for the
+contacts they want to market to
+via email or ads.”
+
+Outside of these, you will find a lot more examples in the case study section of
+the book. In my personal experience, it is the case studies that truly help
+illustrate the tradeoffs involved and the sizable impact of this decision. In
+particular, I recommend you read about how:
+1.
+Nosto’s pricing evolved from being purely usage-based initially to
+include elements of capability and platform pricing.
+2.
+Oracle solved the problem of pricing for its marketing automation
+product when a part of their product saw significant hard costs related
+to sending SMS.
+Once you have a hypothesis of your main pricing variable, you can
+move on to setting the core pricing structure.
+I will first discuss pricing structures for consumption based models
+(which are far more complex) and then touch upon capability based
+models.
+AJIT GHUMAN
+52
+Pricing Structure for Consumption-
+based Models
+Roughly, you have three options11 to set the pricing structure:
+1. Linear Model. You charge a set unit price based on your main
+pricing variable, per seat, per event, etc.
+2. 2-Part Tariff. You charge a base ‘platform fee’ as a setup price
+and add the unit price. E.g. $10,000 + $0.40 per unit.
+3. 3-Part Tariff. Also known as the cell phone plan model.
+Where you offer a set number of units for a base fee and then
+an overage fee on top of that. E.g. 5GB of data for $40/month,
+$0.10 for every MB afterward (consumption model) or 100
+seats for $10,000 per month and $150 per seat for every
+additional seat.
+Here are some pros/cons that will help you select between these options:
+
+Pros
+Cons
+Linear
+Model
+1. Very simple to understand
+and easy to tie into client
+value with high
+predictability of usage.
+
+2. Helps increase market
+penetration as it reduces
+risk for clients, they only
+pay for what they use. (see
+Nosto case study)
+
+1. What you gain in ability
+for higher market share,
+you lose in margin. This
+model brings in
+unpredictable revenue and
+can leave money on the
+table.
+
+2. Such a model requires
+accurate instrumentation
+to be able to measure what
+a client’s usage is at any
+time and bill them for it,
+thereby increasing
+overhead.
+
+11 https://tomtunguz.com/three-part-tariffs/
+
+PRICE TO SCALE
+53
+2-
+Part
+Tariff
+1. This structure will
+improve on the revenue
+unpredictability of the
+linear model, while still
+enabling the upside of
+greater usage.
+
+2. Increasingly the most
+common structure.
+Customers are
+accustomed to buying
+software in this model and
+will not push back for the
+most part.
+1. When this structure is
+implemented to drive
+pricing models it can lead
+to ‘sawtooth edges’ which
+product pricing
+inconsistency. We will
+discuss further this in this
+section.
+
+2. It neither optimizes for
+highest
+revenue capture or highest
+market penetration.
+Depending on your intent,
+the other two plans might
+be a better fit.
+3-
+Part
+Tariff
+1. According to academic
+research12, this structure
+maximizes revenue
+capture and even incents
+increased product usage,
+as long as it is
+implemented by a
+dominant or
+differentiated market
+player.
+
+2. Revenue will tend to be
+even more predictable
+since the customer has
+committed to the highest
+likely usage.
+1. This approach may not
+work for competitively
+weaker firms where buyers
+may be wary of over
+committing spend.
+
+2. It requires a good fit with
+prospect needs. There is a
+chance of buyer’s remorse
+if their needs change or
+didn’t increase as
+expected. Thus opening up
+downgrade or even churn
+conversations.
+
+Taking this concept further, how do we think about our pricing
+structure for a particular plan, “Pro”?
+
+12
+https://res.cloudinary.com/dzawgnnlr/image/upload/q_auto/f_auto/w_auto/SSRN-
+id1587149.pdf
+AJIT GHUMAN
+54
+Let’s do this step-by-step. First, we will create basic strawmen of the
+three pricing structures.
+• In the linear model, we’d basically have a fixed $ per unit
+price.
+• Subsequently, in the 2-Part model, we’d want to add a
+component of an upfront platform fee with a lower $-per-unit
+price. (The $-per-unit price will naturally be lower than the
+linear model if we assume customers will only bear roughly
+the same total price for their usage)
+• Then finally, in the 3-Part model we want to further
+incentivize an upfront purchase of a bunch of units such that
+the $-per-unit price is discounted because of the upfront
+purchase and the overage fee is greater to ensure the
+selection of the package.
+The following table is a hypothetical example.
+
+Linear Model
+2-Part Tariff
+3-Part Tariff
+Pro Plan
+$0.40 per unit
+$20,000
+Platform fee +
+$0.30 per unit
+$30,000
+Platform fee
+with 110,000
+units included
++ $0.30 per
+additional unit
+Now let’s visualize side-by-side the resulting revenue chart (Figure
+15) obtained by deploying these three models.
+PRICE TO SCALE
+55
+`
+
+Fig. 15: Comparison of Linear, 2-Part, and 3-Part Tariff Models
+The linear model certainly looks fair on a plot. In reality, the revenue
+is subject to consumption in any given time period and if a customer
+reduces their consumption for any reason, so will your overall
+revenue. While this can still work for a new entrant to a market by
+providing no upfront fee and “pay only for what you use”, bigger
+companies will want more predictable revenue. (See Nosto case study
+later in the book).
+Now let’s analyze the 2-Part and 3-Part models in relation to the
+linear model.
+1. The 2-Part tariff model introduces a platform fee to solve the
+drawback of the linear model’s uncertain revenue but might
+anchor down larger customers as the unit price increases
+above 200,000. Furthermore, if a customer is going to pay
+something like $150,000, then a guaranteed revenue of
+$20,000 does not provide revenue predictability.
+AJIT GHUMAN
+56
+2. The 3-Part tariff model can further provide a greater fixed
+revenue but in its current avatar, it leads to a steep jump in
+price as soon as a customer enters into overages.
+Consequently, it works only for a sub-set of customers with
+lower unit volume. We really need this model to work across
+a wide swath of unit volume consumption.
+3. Finally, in all models, we have straight lines that do not
+inherently offer a way to provide “volume discounts”, which
+are expected in almost every type of consumption pricing
+model.
+Therefore, for all three models, what we need are sub-levels (known
+in industry parlance as “blocks/block pricing”) within our models.
+Here is what they could look like:
+Linear Model
+To
+From
+$/Unit Fee
+
+0
+100,000
+$0.40
+
+100,001
+250,000
+$0.35
+
+250,001
+500,000
+$0.30
+
+Here we introduce different pricing for different unit volume ranges,
+and the prices are lower at higher volume ranges as one would expect
+(allowing for volume based discounts). Note that this pricing is still “pay
+as you go” with no platform fee included.
+2-Part Model
+To
+From
+$/Unit Fee
+Platform Fee
+0
+100,000
+$0.30
+20,000
+100,001
+250,000
+$0.25
+30,000
+250,001
+500,000
+$0.20
+40,000
+We introduce similar sub-levels in the 2-Part structure, and here provide
+lower $/unit consumption fees but introduce graded platform fees to
+provide revenue predictability. This is one of the most common pricing
+structures being used in SaaS today.
+PRICE TO SCALE
+57
+3-Part Model
+Included Units
+Tier Fee
+Overage $/unit
+(Inferred $/unit)
+100,000
+35,000
+$0.45
+$0.35
+250,000
+75,000
+$0.40
+$0.30
+500,000
+125,000
+$0.35
+$0.25
+In the 3-Part structure, we again create further levels with higher
+tier/platform fees with a sizable chunk of units included in the price.
+Further, we keep an overage fee that is higher than the $/unit inferred
+fee at the top end of the units included. For example at 100,000 units for
+$35,000 the inferred price is 35 cents per unit but the overage price is 45
+cents. This is done to incentivize movement into a fixed bundle as
+otherwise clients may choose to just pay as they go.
+When we plot out the price chart for the models above we see the
+chart in Figure 16. With our fix we now have better looking price-
+volume curves that can capture increasing value for the two and
+three part models as the price increases.
+Note the jagged saw-tooth edges at the unit range breakpoints for
+both the linear and 2-part models, that is expected and is a feature
+of these models. When implemented in the real world we usually try
+to optimize the numbers to reduce these edges but some of the price
+jumps or increases at these breakpoints will remain.
+Note that we are able to model our Two-part price curve to be very
+similar to the Linear model while retaining the advantages of
+guaranteed revenue through the platform fee. The price at every new
+unit volume range in the two-part model is actually the minimum
+price at that range, providing us more predictability overall.
+Finally, the Three-part model does not suffer from the sawtooth
+problem at all. The price curve in this model is the lowest price
+possible while including overage payments such that there will be a
+point at which it will make more economic sense for a prospect to
+AJIT GHUMAN
+58
+select a higher tier/bundle. This is what we want. It gives us even
+higher predictability and more revenue as per academic research.
+The counter consideration to predictable revenue is client adoption.
+If your product is newer then clients are less likely to opt for a 3-part
+model and much more likely to adopt a linear model.
+At the end of the day, it is your decision on which structure to
+implement. But my hope is that this gives you a sense of the pros and
+cons involved in this decision.
+
+Fig. 16: Price Chart with Sub-Levels
+So where are we now?
+We have understood the selection of the key pricing variable and a
+supporting pricing structure for a consumption based pricing model,
+the predominant approach for base pricing in SaaS.
+Before we move on, let’s take a look at capability pricing models.
+PRICE TO SCALE
+59
+Capability price is as defined, charging a set amount for a piece of
+software capability. A great example is Basecamp’s pricing13 at a flat
+$99/month independent of usage. Now I would argue that in general,
+this pricing approach isn’t the best for the base software, since you
+are more likely not only to leave money on the table but actively
+dissuade enterprise adoption. (The reason for the latter is best
+described on Tom Tonguz’s blog14)
+Where it does make a lot of sense, and where capability pricing
+shows up a lot is for add-on pricing. Let’s say you want to add a
+specific piece of higher-end capability to your existing packages. Now
+for pricing these add-on features, you really don’t want to create a
+whole other pricing variable for consumption pricing. In my
+experience, it would make your sales and sales operations teams go
+crazy with the complexity. This is where a capability pricing approach
+really helps (see Figure 17).
+
+Fig 17: Add-On Capability Pricing
+Now even though it is a lump-sum amount it still need not be a fixed
+price. Some add-ons can be priced as a percentage of the base fee
+(this enables the add-on price to scale with the size of the customer)
+and others can be a fixed fee (see Figure 18).
+
+13 https://basecamp.com/pricing
+14 https://tomtunguz.com/obscure-economic-concept-behind-saas-pricing-
+challenges/
+AJIT GHUMAN
+60
+
+Fig. 18: Add-On Capability Pricing as Percentage of Base Price
+Taking this forward, capability pricing for add-ons can basically be
+done in three ways:
+1. Create a fixed price structure for your add-ons. For example,
+just say that this add-on is $5000 and call it a day. This isn’t
+very methodical, and if this is a strategic add-on, then it limits
+your revenue potential for large customers, and it may even
+seem too expensive for small customers.
+2. Create a % of base fee structure for your add-ons. In this
+case, you can say the add-on is 10% of base ACV. For our
+example, it would work out to $4000. This is actually better
+and the price is proportional to the size of your customer.
+Even still if this feature has a high cost to deliver, it may yet
+become cheap for smaller customers. Alternatively, for your
+largest customers, it could seem too expensive.
+3. Create a % of base fee structure with a min and max. In this
+approach, you essentially have the benefits of option #2, with
+a minimum and maximum price to bound the price range so
+as not to make it too cheap or too expensive.
+At this point you should have enough information to decide on your
+hypothesis of a) your key pricing variable(s) and b) a pricing
+structure for each of your product tiers.

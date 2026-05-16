@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "price-to-scale",
+  "chapter_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders",
+  "chunk_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-014",
+  "source": {
+    "chapter_title": "Interviews & Case Studies With Top Pricing Leaders",
+    "source_path": "/Users/sachin/books/files/Price to Scale/chapters/16 - Interviews Case Studies With Top Pricing Leaders.txt",
+    "source_pages": "185-308",
+    "char_start": 62854,
+    "char_end": 70527,
+    "checksum": "73f1d069f17b1552"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ds to be taken care of from a product perspective. The systems need to be capable of handling all that flexibility. There will also be co-terming issues, like a customer buying 300 today and then buying another 700, four months later. How do you quote more of that, so it doesn’t get too confusing for both sides? For this, having the right billing systems to provide flexibility is essential, and it is equally important for the product to feed into those billing systems so that finance does not struggle to collect. You can sell a lot, but if you’re not able to collect from customers, it’s all doomed. These are some things that companies need to watch out for, if they’re making this transition.
+
+AJIT GHUMAN 220 The A-Z of Pricing Projects with Joshua Bloom of Simon-Kucher & Partners As Managing Partner, North America, for the global strategy consulting firm - Simon-Kucher & Partners, Joshua Bloom elaborates on the pricing engagement process for SaaS companies, how it is structured, and the challenges and dogma that can potentially crop up along the way. Structuring the Pricing Engagement Process There are a few hallmarks of our approach at Simon-Kucher & Partners, when it comes to structuring the process of starting a pricing engagement with any software company. 1. Diagnostic phase: In this phase, we develop hypotheses by looking at data — both internal transaction and usage. Along with this, we bring in pattern matching  - of what has worked well and what has not, at similar companies (competitors or other software companies). We like to get it to a point where we have a straw-man view of packaging, the price metric and other pricing changes that we would undertake, before we talked to any customers or prospects. 2. Primary research phase: We then go out to talk to customers and prospects, and conduct primary research. But, we’re not just asking direct or open-ended questions in these conversations — we have people react to specific scenarios, often for trade-offs. At least 80 percent of projects have some type of primary research component. The classical approach to that is conjoint analysis. It’s a gold standard, but conjoint analysis is not the perfect answer for every project. It works really well when you have a certain number of features or project options to test, or when you PRICE TO SCALE 221 can get a significant sample size. It works best in consumer settings and works okay in small business software settings — but it does not work very well in enterprise software settings, or the further you get down to the B2B end of the spectrum. There are different methods that can be used. We use fixed trade-off screens or ask a series of probing questions. But ultimately, we’re just getting reactions to some of the straw- man concepts we’ve come up with. We’ll often have a couple of different scenarios to walk people through, because that’s where we start to get not just feedback, but also begin to make projections about how the market will respond. These depend on which path we go down, and what the price sensitivities may be. 3. Implementation phase: Once we have now found the right strategy, we think about what might be the right implemen- tation approach. We spend a lot of time with clients thinking through how we migrate the installed base of customers, communicate the changes, and train our salespeople to defend or uncover value. That’s usually the third leg of the stool for a lot of our projects. The time spent on the three phases ends up being pretty equal for each, but depends on the level of research complexity in a project, too. We could be doing research across multiple channels in 10 different countries for various products — it can get pretty complicated. But for a plain vanilla organization with a relatively simple product set, the time spent per phase probably looks more evenly distributed — like a month each or around that, for a month- on-month project. Pricing Challenges Across Company Sizes/Stages We contend with different challenges at varying stages of the company’s life cycle. In the very early stages of development, a lot of AJIT GHUMAN 222 questions are asked on how to price. At this juncture, companies are often still struggling with the underlying measure of pricing and what their business model looks like. As they develop into the growth stage or become multi-product and multi-segment entities, we get a lot of questions around packaging and pricing, and how to pull together a newly complex product portfolio. When you talk of really mature companies, we get into more of the pricing operations piece — or how to think about discounting and channel management. Deciding Which Pricing Structure to Use Pricing structures can be on a spectrum — on one side, you can have a continuous consumption-based pricing structure where companies pay for what they use. On the other end of the spectrum, it can almost be a fixed price structure sized almost using a t-shirt sizing approach M, L, XL etc. The sales person just has to get it generally right with a generous buffer. Here the usage may be based more on the honor system. In the middle you can have more of the cell-phone plan models, where you purchase blocks of ‘usage’, with incentives to move to higher tiers. In order to select which pricing structure to use, here are a few ways which can help to decide: 1. Predictability: The more predictable and measurable the metric is, the more granular you can make your units and tiers (pricing variable). On the flipside, purchasing groups will always want predictability. So if the measurement isn’t as easy or the usage less predictable, in this case larger buckets with buffers might be helpful as it will deliver more cost/expense predictability to the customer. PRICE TO SCALE 223 2. Usage Growth Rates: Predictability is one thing, but the natural growth of the metric is another. Imagine a scenario with a rapidly growing metric — for instance with big data software, where data volume is growing exponentially for the applications they are covering. In a cloud infrastructure model, to some degree it means that you have to get pretty granular, because your own cost structure could be under significant pressure by say month nine of a contract - if you didn’t have a very granular way to charge then you face cost pressures quite fast. 3. Correlation To Compute/Data Costs: The third element to think about how close the structure is to the infrastructure layer versus sitting one or two steps removed — essentially, how much cost risk are you bearing? If you’re just talking about something at the application layer, that is very divorced from the underlying cost structure, and you can get away with big pricing buckets. The closer you get to compute and storage resources being meaningful, the more granular you have to make things. Regarding The Good-Better-Best Packaging Structure I’m not a believer of the dogma that the good-better-best packaging structure is a one-size-fits-all. There are different structures, like use case packages and so on, and there are lots of different ways to think about the traditional concept of packaging or bundling functionality that aren’t necessarily good- better-best. To boil it down pretty specifically, good-better-best means that there was one land-and-expand path for a customer to go through with it. It basically assumes that there is a natural level of sophistication that you can stratify your customers into, and they get there in one direction. It assumes that they start quite simple, and it is easy to say what’s next with their needs. But that is not the case with every product portfolio. Some have
+>>>

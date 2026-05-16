@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-06-define-the-battle",
+  "chunk_id": "chapter-06-define-the-battle-chunk-006",
+  "source": {
+    "chapter_title": "Define the Battle",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/06 - Define the Battle.txt",
+    "source_pages": "169-201",
+    "char_start": 32253,
+    "char_end": 40028,
+    "checksum": "745cf7e1d664f0a9"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+nvest in this product category. This is the final extension of positioning needed to make a product easy to buy for a conservative. Microsoft, IBM, Oracle, Intel, SAP, EMC, and Cisco are all long-standing blue-chip companies with whom conservatives feel comfortable. Dell and HP have both put themselves behind the eight ball here with sustained under­ performance in recent years. Sun got so far behind it had to get acquired by Oracle. These four positioning strategies correspond to the four quad­ rants of the Positioning Compass. The key takeaway from this sec­ tion is that positioning is more about the audience’s state of mind than yours. Most failed positioning statements arise from vendors
+
+being unable to see themselves from someone else’s point of view. The Positioning Process When positioning is thought of primarily as a verb, it refers to a communications process with four key components: 1. The claim. The key here is to reduce the fundamental posi­ tion statement—a claim of undisputable market leadership within a given target market segment—to a two-sentence format outlined later on in this chapter. 184 Crossing the Chasm 2. The evidence. The claim to undisputed leadership is mean­ ingless if it can, m fact, be disputed. The key here is to present sufficient evidence as to make any such disputation unreasonable. 3. Communications Armed with claim and evidence, the goal here is to identify and address the right audiences in the right sequence with the right versions of the message. 4. Feedback and adjustment. Just as football coaches have to make halftime adjustments to their game plans, so do marketers, once the positioning has been exposed to the competition. Competitors can be expected to poke holes in the initial effort, and these need to be patched up or otherwise responded to. This last component makes positioning a dynamic process rather than a one-time event. As such, it means marketers revisit the same audiences many times over during the life of a product. Establishing relationships of trust, therefore, rather than wowing them on a one-time basis, is key to any ongoing success. The Claim: Passing the Elevator Test Of the four components, by far the hardest to get right is the claim. It is not that we lack for ideas, usually, but rather that we cannot express them in any reasonable span of time. Hence the elevator test: Can you explain your product in the time it takes to ride up in an elevator? Venture capitalists use this all the time as a test of investment potential. If you cannot pass the test, they don’t invest. Here’s why: Define the Battle 185 1. Whatever your claim is, it cannot be transmitted by word of mouth. In this medium the unit of thought is at most a sentence or two. Beyond that, people cannot hold it in their heads. Since we have already established that word of mouth is fundamental to success in high-tech marketing, you must lose. 2. Your marketing communications will be all over the map. Every time someone writes a brochure, a presentation, or an ad, they will pick up the claim from some different corner and come up with yet another version of the positioning. Regardless of how good this version is, it will not reinforce the previous versions, and the marketplace will not get comfortable that it knows your position. A product with an uncertain position is very difficult to buy. 3. Your R&D will be all over the map. Again, since there are so many different dimensions to your positioning, engineer­ ing and product marketing can pick any number of differ­ ent routes forward that may or may not add up to a real market advantage. You will have no clear winning proposi­ tion but many strong losing ones. 4. You won't be able to recruit partners and allies, because they won’t be sure enough about your goals to make any meaningful commitments. What they will say instead, both to each other and to the rest of the industry, is “Great technology—too bad they can’t market.” 5. You are not likely to get financing from anybody with expe­ rience. As just noted, most savvy investors know that if you can’t pass the elevator test, among other things, you do not have a clear—that is, investable—marketing strategy 186 Crossing the Chasm So how can we guarantee passing the elevator test? The key is to define your position based on the target segment you intend to dominate and the value proposition you intend to dominate it with. This is the who for and what for positioning statement that resonates with visionaries and kicks off the early market com­ petition. At the same time, you also want to foreshadow your mainstream market future, leveraging the competition and differ­ entiation positioning we discussed relative to market and product reference competitors. Here is a proven formula for getting all this down into two short sentences. Try it out on your own company and one of its key products. Just fill in the blanks: • For (target customers—beachhead segment only) • Who are dissatisfied with (the current market alternative) • Our product is a (product category) • That provides (compelling reason to buy). • Unlike (the product alternative), • We have assembled (key whole product features for your specific application). Let’s try this out with a few examples, starting with some we have already looked at earlier in the chapter. Verinata • For older pregnant mothers and others • Who want an alternative to amniocentesis to screen for Down syndrome • Verinata provides a genetic analysis of fetal DNA • That does not involve inserting a needle into the womb. Define the Battle 187 • Unlike other genetic tests for fetal abnormalities, • The Verinata test is the most accurate on the market. HANA • For online retailers and others • Who want to better assist their customer agents to up sell and cross-sell consumers during their purchasing transactions, • HANA is a database for online transaction processing • That supports applying analytics in real time to deter­ mine the very best offer to make. • Unlike database solutions from Oracle, the market leader, • HANA does not require melding and maintaining two separate environments for transaction processing and analytics. Now what is often interesting about writing a statement like this is not what you write down but what you have to give up. In the case of Verinata, there is nothing about it being the cheapest test. And in the case of HANA, there is a narrow focus on retailers even though we know there are many other applica­ tions for in-memory databases outside of retail. Wouldn’t it have been better in both cases to have included extra value statements for a bigger effect? The answer here is an emphatic no. Indeed, this is just what defeats most positioning efforts. Remember, the goal of positioning is to create and occupy a space inside the target customers' head. Now, as we already noted, people are very conservative about what they let you do inside their head. One of the things they do not 188 Crossing the Chasm like is for you to take up too much space. This means they will use a kind of shorthand reference: Mercedes (“top-of-the-line, conservative”), BMW (“upscale performance sedan, yuppie”); Lincoln (“American top-of-the-line, tired”), Lexus (“New kid on the block, current best buy”). That’s all the space you get for your primary differentiation statement. It’s like a telegram with less than one line. If you don’t make the choice to fill the space with a single attribute, then the market will do it for you. And since the market includes your competition trying to de­ position you, don’t count on it to be kind. One final point on claims before moving on to other issues: The
+>>>

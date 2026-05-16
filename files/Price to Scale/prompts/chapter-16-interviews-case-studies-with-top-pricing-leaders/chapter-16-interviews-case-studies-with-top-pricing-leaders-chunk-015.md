@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "price-to-scale",
+  "chapter_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders",
+  "chunk_id": "chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-015",
+  "source": {
+    "chapter_title": "Interviews & Case Studies With Top Pricing Leaders",
+    "source_path": "/Users/sachin/books/files/Price to Scale/chapters/16 - Interviews Case Studies With Top Pricing Leaders.txt",
+    "source_pages": "185-308",
+    "char_start": 69827,
+    "char_end": 77488,
+    "checksum": "3377fedb6d8077d5"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ructure is a one-size-fits-all. There are different structures, like use case packages and so on, and there are lots of different ways to think about the traditional concept of packaging or bundling functionality that aren’t necessarily good- better-best. To boil it down pretty specifically, good-better-best means that there was one land-and-expand path for a customer to go through with it. It basically assumes that there is a natural level of sophistication that you can stratify your customers into, and they get there in one direction. It assumes that they start quite simple, and it is easy to say what’s next with their needs. But that is not the case with every product portfolio. Some have
+
+multiple entry points for people to start at. Others have multiple AJIT GHUMAN 224 point places where they can achieve a different level of sophistication needed to go in directions B versus C - which essentially breaks the good-better-best model. We’ve seen often that the good-better-best model works, but not for every company, because all of them don’t have one land-and-expand path. Good-better-best also implies that the answer is in having three tiers of packaging. Again, that is not always the optimal outcome. In some companies we’ve worked with, a simplified two package lineup makes sense. There are others where there’s one upsell path, but they need four or five tiers to cover all of the different segments of customers that they’re reaching. It is useful as a tool in the toolkit to be able to say that we have a playbook for how to think about good-better-best, and set limits and fences between the packages — but it’s not the only packaging decision. Our research shows that less than half of all SaaS companies have public pricing pages. If the optimal structure is not a good-better- best lineup because your product portfolio has more complexity, you’re more likely to put that behind the firewall or have a salesperson walk you through it — because it’s more complex. I would say that the majority of companies that do not have published pricing, are doing something other than good-better- best. Why Companies Start A Pricing Project I’m wary of my own selection bias because I tend to work with companies who feel that they have pricing power — but that’s not always the case. In about 20 percent of projects I work on, we’re being asked to come in, because they want to get more aggressive, or try to find ways to simplify or gain share, or potentially price more aggressively and figure out how to do that in a controlled manner. The majority of companies I work with, feel that they’re leaving money on the table. And we often find that they are, and their pricing PRICE TO SCALE 225 elasticity is pretty low. It’s a bit of a self-fulfilling prophecy — if you feel you’re leaving money on the table, you probably are. But I have seen elasticities across numerous studies that are fundamentally different than those you get in a consumer study. As a company, one of the benefits for Simon-Kucher & Partners now is that when we take a step back, we have vertical practices across different industries. Yet, the elasticities are different. Another way to think about a proxy for elasticity is, just how important is pricing as a value driver, or as a purchase decision criterion. If you do a consumer study, price is typically the number one factor for consumer-packaged goods or suchlike. But if you do the same study in B2B software, it will not be surprising to see that it becomes something like the third to seventh most important factor. It’s a proxy for saying, “Yes, pricing matters.” It’s not that it doesn’t matter at all, but on a relative basis, I think the software industry has much more pricing power than other product types. How To Price in a Blue Ocean Market If you’re really creating a new category, this is one place where I actually think that economic value analysis makes sense. It’s a bit textbook, but it is about really understanding what value you are creating for your customers through their business outcomes, operational efficiencies, etc. and then remembering that even after you calculate all that, you still need to have a typical software return on investment (ROI) sharing those gains. Even if you calculate the entire value capture and you’re able to document that, I still think you’ll only get like 10-25 percent of that in pricing. This is because you need to leave a 4x to 10x ROI benefit to the customer. One thing that people miss, is that they do economic value analyses and say they’ve created all this value, so they need the corresponding price. Well, not really. You not only have to share gains with your customers, but also make it compelling for them to invest as well. AJIT GHUMAN 226 That’s a useful framework to think about. If nothing else, the work done in putting that together, becomes your marketing collateral in discussions when there’s no anchor and no differentiator. This is where you don’t need to ask what your unique selling proposition (USP) is, versus your competitor’s mentality for a market perspective. Instead, you think of how a new category or a new software changes your business operations. Speaking that language and gathering those numbers, really make a difference. Resolving Bottlenecks in Pricing Operations There are a few challenges in pricing operations that are pretty common. One pitfall is having a discounting policy where everyone is just going through the motions — it lives on a piece of paper but nobody follows it, or it didn’t lock down in a system, but you have 99.9 percent of requests just being rubber-stamped. A well-run process will maintain some tension! This could be in terms of different stakeholders getting involved, not just salespeople. It could really ideally surface in escalation discussions – what are the key strategic factors that would cause us to discount in situations where we ordinarily wouldn't? is it that you're up against a different competitive set than maybe normal? Is it that you are trying to land an account where there's significant opportunity for growth in the future? You need to document what is different about this deal; you need to list out the number of units being purchased, the pricing you’re testing, and the relative discount; and then get it approved. You’re not really approving a number. The ideal scenario there, is that you’re proving the deal strategy, or thinking of why you are deviating in a particular case. The vast majority of organizations do not have this in place. They either have nothing or they have a process that just looks like they are going through the motions. This is a big factor to consider. The other thing from the pricing operations standpoint is, when it comes to new product pricing, companies often create fairly robust processes around it. They’ll have stage gate processes of how the initial list price gets approved, but often forget that they should be regularly reviewing the pricing for their existing products on an annual basis. When you have a lot more information on your existing products, in some ways it should be easier and a more fruitful discussion on contemplating pricing change. PRICE TO SCALE 227 Configure-Price-Quote (CPQ) Systems Some CPQ tools are an overkill for software companies, too. I’ve dealt with companies where they have 100 Stock Keeping Units (SKUs), and need a CPQ tool to be able to capture the levels of complexity, and come up with the right quote. But by and large, the more common challenge I would attribute to those companies (and what I’ve seen from those companies asking for help with) is - doing away with 100
+>>>

@@ -1,0 +1,32 @@
+171
+
+
+ECONOMICS & PRICING
+OF GENAI DEVELOPMENT
+
+
+In this chapter, we will go into detail about the nuances of pricing
+GenAI products.
+What You’ll Learn:
+1. Managing Costs in GenAI Model Selection: Choosing the right
+AI model affects both your costs and the quality of your
+product. We’ll talk about how to balance cost and quality
+when you’re deciding between AI co-pilots, primary AI
+systems, or the infrastructure behind it all.
+2. Choosing the Right Pricing Model: Pricing can make or break
+your product. I’ll walk you through different ways to price
+your AI product—whether it’s based on users, usage, or
+something else—and how to make sure your pricing reflects
+the value you’re offering.
+3. Tips for CTOs and Engineers: If you’re in a technical role, this
+part’s for you. We’ll look at the pros and cons of different
+development models so you can make choices that are both
+innovative and sustainable in the long run.
+Get Early Access to the Latest Information
+If you are reading this chapter with a QR code below, you are getting
+a draft of the book that needed to be printed ahead of SaaStr 2024.
+While we finish writing this chapter, you can still access the content
+via webinar format by using the QR code below and entering your
+email at the Maven landing page.
+AJIT GHUMAN
+172

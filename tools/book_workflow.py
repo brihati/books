@@ -142,11 +142,88 @@ def _build_local_book_map(book_dir: Path) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def _book_skill_description(book_title: str) -> str:
-    return (
-        f"Practice and coach {book_title} using preserved local chunks, notes, search index, summaries, and chapters. "
-        "Use when the user wants book-grounded role-play, live application, debriefs, concept drills, line rewrites, or chapter-specific retrieval."
-    )
+BOOK_SKILL_METADATA: dict[str, dict[str, str]] = {
+    "price-to-scale": {
+        "description": (
+            "Coach SaaS pricing transformation from segmentation through packaging, pricing metrics, "
+            "rate-setting, and rollout. Use for packaging redesigns, usage-based pricing decisions, "
+            "GenAI monetization, churn response, and pricing operationalization."
+        ),
+        "short_description": (
+            "Transform SaaS pricing with stronger packaging, metrics, rate-setting, and rollout."
+        ),
+        "default_prompt": (
+            "Use ${skill_name} to improve SaaS packaging, pricing metrics, rate-setting, "
+            "usage-based pricing choices, and pricing rollout using {book_title}."
+        ),
+    },
+    "monetizing-innovation": {
+        "description": (
+            "Coach product and pricing decisions around willingness to pay, segmented packaging, "
+            "bundling, and price integrity. Use for early pricing research, business cases, "
+            "feature prioritization, and avoiding feature shock, minivations, hidden gems, and undead products."
+        ),
+        "short_description": (
+            "Design products around willingness to pay, segmented packaging, and price integrity."
+        ),
+        "default_prompt": (
+            "Use ${skill_name} to shape product design, willingness-to-pay research, packaging, "
+            "and price integrity decisions using {book_title}."
+        ),
+    },
+    "the-strategy-and-tactics-of-pricing": {
+        "description": (
+            "Coach value-based pricing strategy for durable profitability through economic value, "
+            "price structure, value communication, pricing policy, and competitive response. "
+            "Use for margin defense, segmented pricing, discount policy, and strategic pricing decisions."
+        ),
+        "short_description": (
+            "Build value-based pricing strategy with economic value, price structure, and policy."
+        ),
+        "default_prompt": (
+            "Use ${skill_name} to strengthen value-based pricing strategy, price structure, "
+            "value communication, pricing policy, and competitive response using {book_title}."
+        ),
+    },
+    "crossing-the-chasm": {
+        "description": (
+            "Coach go-to-market strategy for moving from early adopters to mainstream customers using "
+            "beachhead targeting, whole-product design, positioning, distribution, pricing, and technology "
+            "adoption lifecycle thinking. Use for category creation, niche selection, market-entry strategy, "
+            "and chasm-crossing diagnosis."
+        ),
+        "short_description": (
+            "Cross from early adopters to mainstream customers with beachhead strategy and whole-product focus."
+        ),
+        "default_prompt": (
+            "Use ${skill_name} to diagnose chasm risk, choose a beachhead, shape whole-product strategy, "
+            "and plan mainstream go-to-market moves using {book_title}."
+        ),
+    },
+}
+
+
+def _book_skill_metadata(book_title: str, skill_name: str) -> dict[str, str]:
+    metadata = BOOK_SKILL_METADATA.get(_slugify(book_title))
+    if metadata is None:
+        return {
+            "description": (
+                f"Apply {book_title} to real situations with role-play, debriefs, rewrites, and chapter-grounded coaching. "
+                "Use when the user wants sharper decisions, stronger lines, concept drills, or fast book lookup without re-reading the source."
+            ),
+            "short_description": (
+                "Apply the book to real situations with role-play, rewrites, debriefs, and grounded lookup."
+            ),
+            "default_prompt": (
+                f"Use ${skill_name} to apply {book_title} through role-play, rewrites, debriefs, "
+                "and chapter-grounded coaching."
+            ),
+        }
+    return {
+        "description": metadata["description"],
+        "short_description": metadata["short_description"],
+        "default_prompt": metadata["default_prompt"].format(skill_name=skill_name, book_title=book_title),
+    }
 
 
 def _skill_name_from_book(book_title: str) -> str:
@@ -161,10 +238,10 @@ def _skill_display_name(skill_name: str) -> str:
 
 
 def _build_skill_md(book_dir: Path, skill_name: str, book_title: str) -> str:
-    description = _book_skill_description(book_title)
+    metadata = _book_skill_metadata(book_title, skill_name)
     return f"""---
 name: {skill_name}
-description: {description}
+description: "{metadata['description']}"
 ---
 
 # {book_title} Coach
@@ -249,12 +326,13 @@ Return:
 
 
 def _build_openai_yaml(skill_name: str, book_title: str) -> str:
+    metadata = _book_skill_metadata(book_title, skill_name)
     return "\n".join(
         [
             "interface:",
             f'  display_name: "{_skill_display_name(skill_name)}"',
-            f'  short_description: "Practice {book_title} with local preserved content."',
-            f'  default_prompt: "Use ${skill_name} to practice {book_title} with role-play, debriefs, and chapter-grounded coaching."',
+            f'  short_description: "{metadata["short_description"]}"',
+            f'  default_prompt: "{metadata["default_prompt"]}"',
             "",
         ]
     )

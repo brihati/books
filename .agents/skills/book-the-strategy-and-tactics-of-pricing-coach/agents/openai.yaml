@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book The Strategy And Tactics Of Pricing Coach"
+  short_description: "Build value-based pricing strategy with economic value, price structure, and policy."
+  default_prompt: "Use $book-the-strategy-and-tactics-of-pricing-coach to strengthen value-based pricing strategy, price structure, value communication, pricing policy, and competitive response using The Strategy and Tactics of Pricing."

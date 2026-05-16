@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-04-target-the-point-of-attack",
+  "chunk_id": "chapter-04-target-the-point-of-attack-chunk-005",
+  "source": {
+    "chapter_title": "Target the Point of Attack",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/04 - Target the Point of Attack.txt",
+    "source_pages": "111-134",
+    "char_start": 27386,
+    "char_end": 35125,
+    "checksum": "655700c0adff9803"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+hill.” Same with beachheads. If some other company got there before you, all the market dynamics that you are seeking to make work in your favor are already working in its favor. Don’t go there. When scenarios are scored against these four factors, 1 to 5, the worst aggregate score they can get is 4, the best 20, with higher-rated scenarios preferred. But there is an additional caveat. A very low score, relative to the others, in any of these factors almost always is a showstopper. So it is not just total score alone that matters. When in doubt, favor scenarios that have a high-rated compelling reason to buy. If they have already attracted a competitor, see if you can’t end-run them. Expect
+
+that the best scenarios will be “whole product challenged”—if it were easy, someone else would have done it. Indeed, the fact 122 Crossing the Chasm that it is hard will create a barrier to entry in your favor once you have stepped up to the solution. The remaining factors fall into the “nice to have” category. That is, low scores can usually be overcome, given investment and time. Since, however, investment and time are two of your scarcest resources, cheaper and sooner are very desirable attri­ butes in a target market scenario. Here’s how they play out: PARTNERS and ALLIES: Do we already have relationships begun with the other companies needed to fulfill the whole product? If you do, it is typically from a single early-market project, or else you are just lucky. Pulling together this partner­ ship is a major challenge for the whole product manager. distribution: Do we have a sales channel m place that can call on the target customer and fulfill the whole product re­ quirements put on distribution? Calling on the line-of-business side of the house requires some fluency in the language of the target niche, and established relationships with targeted buyers and users accelerates this pro­ cess dramatically Lacking this, companies typically hire a well- connected individual out of the target industry and charter her to lead the sales force back in. pricing: Is the price of the whole product consistent with the target customer’s budget and with the value gained by fixing the broken process? Do all the partners, including the dis­ tribution channel, get compensated sufficiently to keep their attention and loyalty? Note here that it is the whole product price, not the price of Target the Point of Attack 123 the product per se, that matters. Services will often make up as much or more of this total as product. positioning: Is the company credible as a provider of prod­ ucts and services to the target niche? At the outset, the answer is typically, Not very One of the delights of niche marketing, however, is the speed at which this resistance can be overcome if only one truly commits to a whole product that fixes the broken process. next target customer: If we are successful in dominating this niche, does it have good “bowling pin” potential? That is, will these customers and partners facilitate our entry into adja­ cent niches? This is an important issue of strategy. Chasm crossing is not the end, but rather the beginning, of mainstream market de­ velopment. It is important that we have additional follow-on niches that can be lucratively addressed. Otherwise the eco­ nomics of niche marketing simply do not hold up. After the scenarios that passed the first round of showstopper screening have been scored on this second set of factors and then rank ordered by score, the team has extracted all of the “data” this process can provide. It is now time to make the high-risk, low-data decision and get on with it. Committing to the Point of Attack Making the commitment to a niche market can be challenging, especially for entrepreneurs who are technology enthusiasts or 124 Crossing the Chasm visionaries, because they personally don’t have the pragmatist response and thus have trouble trusting in the market dynamics outlined in this book. This is a defining moment for them. The start-up company must either cross or die, but what value is life if to gain it one has to go against one’s best self? Not an easy question to answer. When faced with such nasty decisions, it is usually best to make them quickly, get into the new flow, and plan to course- correct going forward. This is a white-water rafting strategy, where hesitating on a split decision is the one behavior guar­ anteed to capsize the boat. When you do pick, go hard in the direction chosen, regardless of doubts. Just so with crossing the chasm. The good news in this is that you do not have to pick the optimal beachhead to be successful. What you must do is win the beachhead you have picked. If there is a genuine problem in the segment, you will have the target customer pulling for you. If it is a hard problem, and the segment is reasonably small, you probably will not have competition to distract you. This means you can focus all your attention on the whole product, which is where it needs to be. Nail that and you win. What could cause you to change course? Most often, it is that the scenario that is driving the effort is based on a false as­ sumption. To guard against this, you should commission some market research early in the process specifically to validate the winning scenario. But you should not wait for this research to be complete before you start forward. The enemy in the chasm is always time. You must force the pace at all times, even when in doubt, because standing still plays into the hands of the estab­ lished vendors and the status quo. Target the Point of Attack 125 And Yes, Size Matters Finally, when you are on the verge of making the commitment to the target segment, sooner or later the issue of how much revenue the segment might generate comes up. At this point, people normally think that bigger is better. But in fact, this is almost never the case. Here’s why. To become a going concern, a persistent entity in the market, you need a market segment that will commit to you as its de facto standard for enabling a critical business process. To become that de facto standard, you need to win at least half, and preferably a lot more, of the new orders in the segment over the next year. That is the sort of vendor performance that causes pragmatist customers to sit up and take notice. At the same time, you will still be taking orders from other segments. So do the math. Suppose you can get half of next year’s orders from the target segment—no mean feat considering that, prior to a couple of days ago, you hadn’t focused on it at all. Say your revenue target is $10 million over all. That means $5 million from the target segment. It also means that same $5 million has to represent at least half of the total orders from the segment if you are to have the desired market-leader impact. In other words, if you are going to be a $10 million company next year you do not want to attack a segment larger than $10 million. At the same time, it should be large enough to generate your $5 million. So the rules of thumb in crossing the chasm are simple: Big enough to matter, small enough to lead, good fit with your crown jewels. If you find the target segment is too big, sub-segment it. But be careful here. You must respect word-of-mouth 126 Crossing the Chasm boundaries. The goal is to become a big fish in a small pond, not one flopping about trying to straddle a couple of mud puddles. The best sub-segmentation is based on special inter­ est groups within the general community. These typically are very tightly networked and normally form because they have very special problems to solve. In the absence of such, geog­
+>>>

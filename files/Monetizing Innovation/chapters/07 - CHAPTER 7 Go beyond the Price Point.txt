@@ -1,0 +1,612 @@
+CHAPTER 7
+Go beyond the Price Point
+Five Powerful Monetization Models
+S
+o you’ve taken our advice in Chapter 6 and determined the right set
+of features to incorporate in your new product or service offering.
+You’ve also decided whether to combine it with other offerings. You
+know which of your features are leaders, ﬁllers, and killers, as well as what
+product conﬁgurations or bundles to sell.
+The next step is coming up with a monetization model. What is that?
+In a nutshell, it’s how the customer pays for your new product or service.
+This is no small matter. In fact, establishing a favorable monetization
+model can be as important as the new product itself and the price you
+charge for it. A highly innovative monetization model can make a new
+offering take off like a rocket.
+A number of innovative—yet proven—monetization models are in
+use today: subscription, dynamic pricing, and freemium to name just a
+few. You need to choose one carefully; the right model can make or
+break your new product, your business, or even an entire industry. How
+you charge trumps what you charge.
+That’s a bold statement. Don’t believe it? Read on.
+How You Charge Trumps What You Charge
+The ﬁrst thing to realize is that most companies perpetuate the moneti-
+zation model they’ve always used. They select a model without reﬂecting
+79
+on it, thinking strategically about it, or testing it. That’s a missed
+opportunity and a huge mistake.
+Some of the world’s most successful companies have made the
+biggest leaps by revolutionizing their monetization models. For example,
+take the “pay as you go” model. It’s a model that has helped companies
+that provide hosting and cloud computing services, telecommunications,
+transportation services, construction machines, and aircraft engines (yes,
+you read that right!) achieve game-changing results.
+Let’s take a few examples. Xerox has been transforming its model
+through the years, charging some customers based on how much they use
+Xerox printing and copying equipment rather than selling or leasing
+those machines. Enercon, a German wind turbine manufacturer, charges
+based on the amount of electricity its customers generate. The more
+electricity the customer produces using Enercon turbines, the greater
+Enercon’s revenue. Marketing software ﬁrm Adobe, after many success-
+ful years of selling software by the unit and charging a one-time fee, has
+moved most of its popular products to a cloud-based subscription model.
+You might be tempted to think innovative monetization models are
+the preserve of newer companies—ﬁrms unconstrained by decades of
+conventional wisdom. But you’d be wrong. One of the most radical and
+successful monetization models was the brainchild of a 126-year-old
+company, one that virtually every driver knows: France’s Michelin
+Group. Let’s take a closer look.
+Michelin: From Selling Tires to Monetizing Miles
+Michelin has been known for decades for the quality of its tires, which have
+commanded a premium in the global marketplace. But in the early 2000s,
+Michelin’s premium prices faced enormous pressure from a range of tire
+makers, including fast-rising Chinese and South Korean tire manufacturers.
+Continuing to expect customers to pay a premium for Michelin
+tires—especially trucking ﬁrms, for which tires are a big cost of doing
+business—was the equivalent of driving on tires with nails embedded in
+them. It risked a blowout. And the executives at Michelin knew it. So
+Michelin, a company that has introduced numerous product innovations
+in its 126-year history (from the detachable bike tire in 1891 to the ﬁrst
+radial tire in 1946 and the run-ﬂat tire 50 years later), fell back on the
+strategy it knows best: product innovation.1 It invented new tires that
+80
+Monetizing Innovation
+lasted longer—much longer, in fact. And it hoped it could retain its
+premium prices as a result, or perhaps even raise them. But competition in
+the tire market was relentless.
+At the turn of the twenty-ﬁrst century, the ﬁrm was ready to launch a
+new tire that would last about 20 percent longer. However, the head of
+sales predicted Michelin could only charge a few percentage points more
+for the new tires than it did for its standard tires. What’s more, given that
+the new tires would last longer, they would reduce customer demand by
+20 percent. Customers wouldn’t have to buy Michelin’s longer-lasting
+tires as frequently. To the company, a small increase in its premium
+pricing that would unleash a big drop in demand did not make sense at all.
+With these hazards facing the ﬁrm, Michelin’s executives realized
+they needed more—much more—than a superior tire. So they revisited
+Michelin’s long-established monetization model—how the company
+charged for its tires. The new monetization model that Michelin’s Fleet
+Solutions came up with in 2001 turned out to be as big a breakthrough as
+its longer-lasting tires: charging trucking ﬂeets by the mileage they drove
+their Michelin tires, not by the number of tires they bought.
+It was a bold move by Michelin, one that put its money where its
+mouth was. The company dubbed its monetization model “the TK”—
+short for ton-kilometer. Michelin started negotiating a per-kilometer rate
+with truckers, contract by contract.
+Setting price by distance traveled delivered beneﬁts to both Michelin
+and its trucking customers. The new approach allowed ﬂeet managers to
+pay for performance rather than simply the privilege of owning Michelin
+rubber. What’s more, it gave industrial vehicle owners the ﬂexibility to
+manage costs appropriately in good times and bad times. If a recession set
+in, reducing demand for products shipped by truck and thus demand for
+trucking services, ﬂeet owners would pay less for those tires since they
+were being charged by the kilometer, not by the tire.
+Michelin took on the customer’s cost of product problems; if a tire
+fails early, Michelin bears the risk. On the ﬂip side, when tires exceed
+quality expectations—say, when they last 20 percent longer than
+before—Michelin generates 20 percent more revenue per tire.
+Michelin’s new monetization model allowed the ﬁrm to fully
+capitalize on its new invention—that is, to monetize a tire that lasted
+much longer than the previous generation did. And Michelin did this
+without having to spend more on sales and marketing to convince
+Go beyond the Price Point
+81
+customers these new-fangled tires were worth the premium they were
+being asked to pay.
+Michelin simply changed its monetization model. It was a brilliant
+move. Michelin soon boasted the biggest proﬁts in the industry; by 2011,
+its earnings before interest and taxes were 25 percent higher than
+Bridgestone’s and more than three times Goodyear’s.2
+Innovative Monetization Models: More the Rule Than
+the Exception
+Since the turn of the century, innovative monetization models such as
+Michelin’s have swept through other industries as well. One of them is
+the $369 billion global computer software industry,3 where the “software
+as a service” monetization model has taken hold. In the construction
+industry, equipment such as backhoes and tractors now have sensors that
+transmit data when they’re about to break down (so customers can ﬁx
+them before they break). This demands a rethinking of the industry’s
+monetization model. If you charge by the hour for an engineer to ﬁx the
+equipment on site, your maintenance revenue may disappear. A better
+model might be to include proactive maintenance services into your
+machine’s price and then increase that price.
+With technological advancements such as these, increasingly the
+monetization model is the innovation. But those advancements have
+been in the making for a few years. For example, in 1999, a then two-
+year-old movie rental ﬁrm named Netﬂix began charging a ﬂat monthly
+fee (a subscription model) for unlimited movie rentals by mail rather than
+the per-disk rental people paid at the neighborhood video store. Cus-
+tomers took to this model in droves, and Netﬂix later displaced
+Blockbuster.
+Since 2000, the reigning monetization model for the online adver-
+tising market has been the auction. This is how Google has made most of
+its immense proﬁts. While Google didn’t invent the online ad auctioning
+monetization model, it undisputedly has been the best at perfecting and
+making money from it.
+Uber has disrupted the taxi business with a dynamic pricing model
+based on supply and demand in a given location. Medtech and General
+Electric have begun charging hospitals and physician groups according to
+82
+Monetizing Innovation
+their use of medical equipment rather than selling or renting the equip-
+ment. Metromile, an auto insurance startup,4 tracks customers’ driving
+behaviors using telematics (onboard digital devices) and calculates their
+total premiums on a per-mile basis. These innovative monetization
+models have differentiated these companies and enabled dramatic success.
+However, selecting the wrong monetization model can have just as
+signiﬁcant an impact. A European trucking company found this out soon
+after signing a three-year contract to distribute a TV manufacturer’s
+goods. The distributor charged the TV set maker a ﬁxed price per TV
+delivered. Over time the size of the TVs increased exponentially, which
+meant the distributor couldn’t ﬁt as many TVs into each truck as it used
+to, and thus had to make more truck runs. Costs increased massively, but
+revenue did not because of the ﬁxed price. Hence, the TV distributor
+ultimately lost money on the deal.
+The TV set distributor learned a harsh lesson: Monetarily, a bad
+monetization model can be worse than a bad price.
+Five Powerful Monetization Models
+Sifting through dozens of pricing and revenue strategies, we have
+identiﬁed ﬁve monetization models that have been proven over time
+to help companies launch an innovative product or service, differentiate
+it, or dominate their marketplace. These ﬁve are not the only monetiza-
+tion models out there, but they are among the most valuable for new
+product launches.
+Let’s look at how each model works, its advantages, and the new
+technologies that make it possible, then how to decide which one best
+suits your business.
+1. The Subscription Model
+What Is It?
+The customer provides periodic and automatic payment
+for continued delivery of (or access to) a company’s offering. For
+example, customers may opt to subscribe to the Wall Street Journal rather
+than buying it on a newsstand. Netﬂix customers today choose among
+several subscription rate plans to receive video via digital streaming.
+The number of companies embracing this model for products and
+services is exploding as the Internet has spawned a subscription economy
+Go beyond the Price Point
+83
+(sometimes called “the membership economy”). Companies that offer
+subscription options for everything from clothing and shaving supplies
+(the Dollar Shave Club) to household goods are challenging established
+businesses.
+The Advantages
+The subscription model lifts lifetime revenue over-
+all, and customer lifetime revenue speciﬁcally. A customer who buys the
+Wall Street Journal intermittently generally spends less money than a
+customer committed to a year of delivery. Obviously, this generates more
+revenue for the WSJ. A customer on subscription is also likely to stay for a
+longer time without churning (since you increase switching costs after
+getting the customer more familiar with your offering).
+The WSJ loves subscription revenue models for their recurring
+revenue. For example, if the weather is bad or newsstand operators
+go on strike, a publication will lose sales. But with subscriptions, the
+money keeps coming, rain or shine.
+While selling a long-term subscription is generally harder, it limits the
+number of buying decisions customers must make and locks them in.
+With a subscription, a newspaper buyer doesn’t have to decide Monday
+whether to buy that day’s edition. Add automatic renewal to the
+equation, and the company is in even better shape.
+Subscriptions also open up cross-selling and upselling opportunities.
+Companies can use the data collected on subscribers to make other offers
+based on preferences and behaviors. Netﬂix has used its subscribers’ movie-
+watching habits to create original TV series that have become huge hits,
+such as House of Cardsand Daredevil. These showshavehelped Netﬂix more
+than double its number of streaming service subscribers between 2012 and
+2015, from 33 million to 69 million in 2015’s third quarter.5
+Last, the relationships between subscribers and brands also prove
+stronger and stickier than transactional ones. While the company gets to
+know the consumer, the consumer becomes more intimate with the
+brand and perhaps even emerges as an unofﬁcial ambassador for the
+product or service, thereby increasing the brand’s value.
+Is It Right for You?
+A subscription monetization model is an option
+for products and services sold both online and ofﬂine. Subscription
+models are also beneﬁcial in industries where customers use the product
+continually. A great example is the music sector, where subscription plans
+84
+Monetizing Innovation
+for online music services from ﬁrms like Spotify and Pandora have taken a
+ﬁrm hold. In 2014, such streaming subscriptions accounted for nearly a
+quarter ($1.6 billion) of the global music industry’s digital revenue, a six-
+fold increase since 2009.6
+Subscription models also work in highly competitive industries in
+which market share is divided among many ﬁrms—a land-grab scenario.
+In these situations, subscriptions can help lock out competitors whose
+goods or services are only available on an individual transaction basis.
+Last, subscriptions are becoming popular in industries such as soft-
+ware that formerly required customers to make big upfront investments
+to purchase the products. By letting customers buy the products in bite-
+size chunks, subscriptions make them more affordable and predictable for
+everyone.
+2. Dynamic Pricing
+What Is It?
+A dynamic pricing monetization model is one in which a
+given product’s or service’s price ﬂuctuates based on factors such as
+season, time of day, weather conditions, or other considerations that
+could impact willingness-to-pay, demand, and supply.
+For decades, the airline industry pioneered dynamic pricing, chang-
+ing ticket prices based on the time of booking, class of service, and other
+factors. As one of the pioneers of dynamic pricing, American Airlines’
+former CEO Robert Crandall, eloquently put it, “If I have 2,000
+customers on a given route and 400 different prices, I am obviously
+short 1,600 prices.”7
+With rapid advancements in data collection and analytics technol-
+ogies, companies in other industries can now use more complex algo-
+rithms to adjust prices more frequently. Uber is a prime example. The
+ﬁrm, launched in 2010, has disrupted the taxi business with a dynamic
+pricing monetization model that ties price to the real-time demand and
+supply of taxis. The beneﬁts go both ways: to Uber’s drivers and to the
+consumer. An increase in price during peak hours attracts more Uber
+drivers to meet the demand. Consequently, consumers don’t have to
+ﬁght for a taxi or wait in the rain trying to ﬂag one down, and they’re
+willing to pay more for that beneﬁt. More on Uber in Chapter 13.
+Dynamic ticket pricing is becoming more prevalent in professional
+and collegiate sports, with higher- and lower-proﬁle games priced
+Go beyond the Price Point
+85
+accordingly, even in the regular season.8 Some supermarkets have
+applied dynamic pricing at the level of the individual consumer,
+offering personalized pricing based on repeat purchases.9 Frequent
+buyers of a product will get a lower price to encourage the behavior;
+people who haven’t bought the product before, or buy it infrequently,
+pay a higher price. French home improvement chain Castorama has
+installed electronic shelf pricing that adjusts prices in real time according
+to demand.10
+But dynamic pricing can backﬁre. Coca-Cola began testing a vend-
+ing machine in 1999 that automatically raised prices for its soft drinks in
+warmer weather.11 The company abandoned the experiment; customers
+didn’t like it one bit.
+The Advantages
+As the travel and hospitality industry has known for
+years, dynamic pricing boosts the monetization of ﬁxed and constrained
+capacity. Companies don’t want expensive, costly-to-maintain assets, like
+jumbo jets or ﬁve-star hotels, operating with empty seats or rooms.
+Dynamic pricing models let you adjust price (in this case lower) to
+monetize your unused capacity. Similarly, you can raise prices if your
+capacity is fully constrained. The more volatile the demand, the bigger
+the beneﬁts from dynamic pricing. In addition, dynamic pricing can help
+a company that doesn’t have capacity constraints, but whose demand and
+price elasticity is volatile. For example, UK grocery chain Tesco prices
+products higher in the evenings because high-income evening shoppers
+tend to be willing to pay more.
+Is It Right for You?
+First, dynamic pricing should be considered
+when demand and price elasticity in your market vary signiﬁcantly. If
+they do, you then must ask what factors inﬂuence the volatility and
+whether you could set your price based on these factors. Second, you
+should consider dynamic pricing if your supply is constrained or ﬁxed.
+But dynamic pricing is a complex undertaking. Companies that wish
+to use it effectively must make signiﬁcant investments in technology and
+business process changes.
+As Coca-Cola and other companies have found, dynamic pricing can
+irritate customers who believe they’re being taken advantage of.
+Dynamic pricing generally requires a customer base that is willing to
+pay a higher price for other beneﬁts—like a taxi on a cold, rainy evening.
+86
+Monetizing Innovation
+3. Market-Based Pricing: Auctions
+What Is It?
+Auctions set prices based on competition for goods or
+services. They’ve been around for centuries. In fact, the ﬁrst auctions date
+back as far as 500 BC.12 Today, thanks to networking technology, it seems
+as if everything can be auctioned, from securities to artwork.
+Auctioning is a primary way Google makes oodles of money. Google
+AdWords, which drives the advertising displayed alongside search results,
+is powered by an auction. Advertisers outbid one another for the most
+prominent placement based on keywords. During the ﬁrst half of 2015,
+that auction-based ad business accounted for 70 percent of Google’s $35
+billion in revenue, according to company earnings reports.13
+“Two-sided” marketplaces (those that connect sellers and buyers)
+have also embraced auctions. The most prominent is eBay, which has
+built an $18 billion-a-year business helping people sell household items
+through auction pricing. In a similar vein, Manheim, an automobile
+auction company (which we will explore in more detail in Chapter 9), is
+the world’s largest auction provider for buying and selling used cars.
+The Advantages
+With auction-based pricing, you can withdraw from
+the act of price setting and let the market ﬁgure out what it wants to pay.
+In other words, even though you are the seller, the market perceives you
+as the neutral party; customers outbid each other to buy and raise prices
+for you. In addition, when you use an auction model, you can inﬂuence
+the price without being too explicit about it. For example, you can set a
+minimum price for the auction and dictate how long the auction takes
+and the process of bidding.
+Is It Right for You?
+Unlike the auctions of old, which required little
+more than a room, a podium, and a fast-talking auctioneer, today’s high-
+tech auction-based pricing requires sophisticated systems and processes. If
+they are not executed properly, they can produce huge, costly mistakes.
+The auction model might not work if the market has excess
+inventory and your customers have many options, or if you are in a
+competitive environment and don’t have the pricing power required to
+make an auction model successful.
+However, auctions are ideal for so-called seller markets, where
+inventory is constrained, the power is with the sellers (as owners of
+Go beyond the Price Point
+87
+inventory), and demand is high. If you are one such seller or can become
+one, as Google did with AdWords, you should seriously consider this
+model.
+4. Alternative Metric Pricing/Pay As You Go
+What Is It?
+Many companies have succeeded by pricing transactions
+on measures other than the industry per-unit standard. Often these
+alternative metrics are closer to product value and customer beneﬁts.
+Industrial giant GE has used such alternative metric pricing in recent
+years, embracing the power of analytics software, digital sensors, and data.
+In 2011, the company launched a big initiative to attach and embed
+digital sensors to its medical equipment, aircraft engines, power turbines,
+and other industrial equipment. The company generates $1 billion a year
+from the “outcomes-based” services it now provides—which, for exam-
+ple, help airlines identify problematic engines sooner and thus reduce
+downtime.14
+Instead of selling or leasing a CAT scan machine or a jet engine, GE
+charges customers by the hours of usage for a medical practice or the miles
+ﬂown for an airline. As such, customers pay when they use or beneﬁt
+from the product. If GE reduces its customers’ downtime, that goes into
+GE’s pockets. It has monetized 100 percent of the value of its offering,
+exactly as Michelin has been doing with tires.
+Software companies have also successfully employed alternative
+pricing metrics. A software company that produces lab reports increased
+revenue by 20 percent just by changing its pricing metric from ﬁxed
+perpetual license to charging per lab report. It considered this alternate
+metric model to be much more aligned with the perceived value. The
+model also minimized customers’ upfront investment commitments. Of
+course, this was also beneﬁcial to the software ﬁrm since it could now
+charge a higher price for a lab report (compared with breaking even on
+the perpetual fee).
+The Advantages
+If your innovation enhances customers’ performance
+in a way that is superior to the alternatives, the alternative pricing model
+might be for you. By aligning the metric to your customers’ performance,
+you achieve full monetization potential. But you must be able to deliver on
+your promise, as Michelin did with its ﬂeet operator customers.
+88
+Monetizing Innovation
+An alternate pricing model can be very successful when you can align
+the metric directly to how customers perceive value. For example, let’s
+assume you are a manufacturer of robotic surgery equipment that can be
+installed in hospitals. If a hospital is small to medium in size, they typically
+don’t have the capital to invest in machinery you provide. The traditional
+way is to price by the upfront cost for the instrument. What if you price
+by surgery? This alternative is totally aligned with the value delivered to
+the hospital as compared to them paying a really high upfront cost. In
+other words, you are participating in the revenue your customers
+generate by using your product and services. Ultimately you can show-
+case your intentions as a win-win situation for you and your customers.
+Finally, this monetization model could be effective if you are an adept
+predictor of future trends. For example, telecommunication providers
+have long anticipated the trends of increased usage of digital data and
+devices and have proactively changed their metric to “gigabyte-based
+pricing” or “device and gigabyte-based pricing.”
+Is It Right for You?
+The alternative pricing model makes sense when
+your innovation creates signiﬁcant value to end customers but you
+cannot capture a fair share of that value using traditional monetization
+models. Michelin is an excellent example of this.
+This model makes more sense when you have total control over how
+customers use your product. For example, if Monsanto is paid via yield
+per acre, it must make sure that its herbicides are applied in farmers’ ﬁelds
+as prescribed. Only then does Monsanto have full control over the impact
+of its products on customers. And this, in fact, is how Monsanto’s
+monetization model works.
+5. Freemium Pricing
+What Is It?
+With the freemium model, a company offers two or more
+tiers of pricing for its products and services, one of which is free. The goal
+of a freemium monetization model is to attract a huge customer base to
+the free version and later convert a signiﬁcant percentage to paid
+subscriptions. This model is also called “land and expand.” You try to
+land with a freemium offer and expand with paid offers.
+Both LinkedIn and Dropbox are good examples of companies that
+have succeeded with freemium pricing. Customers with basic needs can
+Go beyond the Price Point
+89
+access a limited version of LinkedIn’s career networking and Dropbox’s
+storage services for free. But customers with greater needs pay for more
+sophisticated features.
+The Internet has greatly expanded freemium possibilities by reducing
+the cost of distributing many services to zero. In fact, freemium is now the
+dominant business model for many Internet start-ups, online service
+providers, software companies, and smartphone apps.15
+The Advantages
+Because freemium services lower the cost of cus-
+tomer entry to zero, they spur rapid adoption. The free offering becomes,
+in effect, a marketing tool for the premium offering. That helps
+companies reduce their cost of customer acquisition compared with
+more expensive traditional marketing and sales methods.
+Is It Right for You?
+The freemium model is deﬁnitely not right for
+everyone. It only works if you have a very low cost of production
+(preferably no production costs at all) and minimal ﬁxed costs that can
+and will be offset by the generally smaller percentage of paying
+customers.
+What’s more, companies often struggle to turn the freemium model
+into long-term monetization. The land-and-expand approach fails for
+90 percent of companies. (For an exception to the rule, see the LinkedIn
+case study in Chapter 13.) In fact, the number of free customers who
+convert to premium is typically below 10 percent in software companies.
+In video games, freemium games have an average life span of less than a
+year, losing 75 percent of free users after just one day and retaining just
+2 percent after a month of play.16
+If you decide to offer a freemium service, you must double down on
+your efforts to convert customers to the premium version. It is extra-
+ordinarily difﬁcult to get consumers to buy something they previously
+received for free. One need only to look at the scores of Web-based
+businesses that failed to monetize free online offerings in the last two
+decades. For example, most newspapers (apart from ones like the New
+York Times and the Wall Street Journal ) have failed to convert free readers
+en masse to paid online subscribers.
+This is the same dilemma for Evernote, a mobile app that helps people
+take notes on the ﬂy. The ﬁrm became one of the ﬁrst “unicorn” start-ups,
+joining the exclusive club for private tech companies worth $1 billion or
+90
+Monetizing Innovation
+more. Despite reaching 150 million registered users this year, Evernote has
+been slow to generate revenue, according to Business Insider.17
+To have a chance at converting free customers to paid customers,
+you need to test what beneﬁts they will pay for and ensure a functional
+free experience. You also need to know exactly how many customers
+will actually be willing to pay. What’s more, you must avoid giving the
+farm away for free because it will leave your premium offering with
+very little value.
+Five Questions to Choose the Right
+Monetization Model
+We have provided ﬁve monetization models and explained when they
+apply. These models are by no means the only ones you can use. You can
+also combine pieces of each one. For example, the $112 billion U.S.
+retailer Costco charges a membership (subscription) fee to use its ware-
+house stores on top of charging for products you purchase. OpenTable
+charges restaurants a monthly subscription fee and a transaction fee for
+every diner in a reservation.
+Before implementing any of the models, you should have extensive
+conversations with customers and then test them. Whichever model you
+choose, it should not only play to your organization’s strengths, but also
+beneﬁt your customers. It should also take into account future trends for
+your product, company, and industry. Here are ﬁve questions to consider
+when assessing which monetization model is right for you.
+1. How Likely Are Your Customers to Accept the Model?
+Different customers like different pricing models. Is your model predict-
+able, ﬂexible, fair, and transparent enough for your particular customer
+base? Customers almost always have preferences for certain models. Make
+sure your model is in line with their preferences. Test out different
+models to discover your customers’ favorites. One way to do this is to
+provide your customers with options, the prices of which always total the
+same amount (if you did the math), and ask them whether they have a
+preference or are indifferent. If your customers are rational they will
+always say they are indifferent, since the price is the same across options.
+However, we have done such testing hundreds of times and have yet to
+see the “indifferent” option win! People always have a preference.
+Go beyond the Price Point
+91
+2. How Will Future Developments Impact the Model?
+Make sure you do scenario planning around the model. What are the key
+trends in your business? For example, if you’re a mobile phone service
+provider, is the number of phone calls increasing or decreasing? How
+about the number of devices? What risks and opportunities do those
+trends present long term? How will the pricing metrics hold up?
+Michelin, for example, factored improvement in tire durability into
+its distance-based pricing model. Google anticipated an auction-based
+model would serve it well not only in the early days when prices would
+be low, but also later on as demand increased.
+3. What Stage Is Your Company In and Does Your Model
+Choice Fit That?
+A monetization approach has to suit your company’s situation—its life
+cycle, competitive position, and relationship to customers. If you’re a start-
+up, for instance, you may want to keep things simple and transparent, as
+paymentprocessor Square did with its 2.5 percent no-hidden-fee model. A
+mature company may need to differentiate itself from rivals with a more
+complex approach. Also important is what you have in your innovation
+pipeline. When your new offerings come to market, will your model help
+you monetize them (as Michelin’s model did with its new tires)?
+4. What Are Your Competitors Doing?
+The reason to ask this question is not to mimic your rivals’ monetization
+approaches but to set yourself apart. Wherever possible, use your
+monetization model to create a competitive difference, as Netﬂix did
+to the point of transforming the video rental business and displacing video
+store competitors like Blockbuster. The question becomes especially
+relevant when competitors are not equipped to react to any model
+changes you can bring.
+5. How Difﬁcult Is the Monetization Model to Implement?
+A monetization model is good only to the extent you can make it work.
+Assess factors like feasibility, difﬁculty of customer adoption, and
+92
+Monetizing Innovation
+scalability. Make sure you can measure the data necessary to enforce the
+pricing. In addition, you must be able to communicate the model easily
+to customers and partners. Don’t exclude yourself from a particular
+monetization model based on existing infrastructure and system limita-
+tions, but be sure to factor in the additional investments needed to make
+the model work. Gauge the total cost of ownership and the ultimate
+return. Most of all, make sure your model is driving value to customers
+and your pricing is commensurate with the value you deliver.
+The marketplace performance of companies such as Google, Netﬂix,
+Michelin, General Electric, and Uber irrefutably shows the power of
+choosing the right monetization model when bringing new products and
+services to market. These companies demonstrate that a winning mone-
+tization model can help a ﬁrm leapfrog the competition in ways even a
+winning product or service offering alone cannot.
+The rapid evolution of the Internet and other technologies has
+created abundant opportunities to capitalize on monetization models
+that are new to your industry. You and your colleagues need to explore
+them, and quickly, to get out in front. Sometimes the best innovation is
+the innovation in the monetization model itself!
+A FEW PRICE STRUCTURES THAT HAVE STOOD
+THE TEST OF TIME
+We described in earlier sections how to choose one of the ﬁve monetization
+models. A price structure builds on such monetization models to account for
+different levels of usage. This is especially applicable when the monetization
+model is pay per unit, alternate metric, or subscription.
+Here’s an example: Say you are about to introduce a new payment
+processing service, and you’ve decided to charge 3 percent of each payment
+transaction. That’s a simple monetization model—the alternate metric model. A
+more comprehensive—but also more complex—way to implement this would be
+to base that percentage on usage intensity. For example, the 3 percent charge
+per transaction is for customers that do between 100,000 and 500,000 payment
+transactions a month; a lower rate (2 percent) is charged to customers who do
+500,000 to 1.5 million transactions a month, and so on. (See Figure 7.1.)
+(continued )
+Go beyond the Price Point
+93
+(Continued )
+With this structure, you are telling customers that the more they use your
+services, the better the rate they get. This could be more attractive to
+customers than a ﬂat 3 percent rate no matter how many transactions they
+did.
+That’s a tier-based structure or, more speciﬁcally, a volume-based structure.
+Now let’s look at a matrix model. (See Figure 7.2.) Starting from the top left
+corner of the matrix, the rate gets progressively better for the customer as you
+work your way down to the bottom right. The key difference between the volume
+and matrix structures is that the matrix is a two-dimensional structure while the
+volume is one-dimensional. In Figure 7.2, the ﬁrst dimension is volume and the
+second dimension is percent share of transactions (that is, the wallet share you
+receive). The logic is that the higher the volume of transactions and share of
+business you get, the better the rate for your customer. Note that the two
+dimensions could be any metric on which you decide to tier.
+Figure 7.1
+Tier-Based Pricing
+94
+Monetizing Innovation
+Summary
+Monetization models can confer signiﬁcant competitive advantage
+on a new product or service. How you charge trumps how much you
+charge. As the Michelin case showed, when done right, the best
+monetization models are a win-win for you and your customers.
+Companies have countless monetization choices, but these ﬁve
+work well for most new product monetization: subscription, alter-
+nate metric, dynamic pricing, auction, and freemium.
+You can also combine pieces of these ﬁve models for a mix-and-
+match model. Furthermore, by instituting two price structures
+(volume-based and matrix), you have the ﬂexibility to adjust for
+different levels of usage.
+Not all models are applicable in every situation, but the guidance
+in this chapter will help you winnow out your choices.
+(continued )
+Figure 7.2
+Tier-Based Pricing in a Matrix Model
+Go beyond the Price Point
+95
+(Continued )
+CEO Questions
+1. What monetization model do we envision for our new product?
+Why is it the right one, and how did we choose it?
+2. Which models did we not pick, and why?
+3. What are the most important trends in our industry? How do they
+affect our choice of a monetization model?
+4. How do we plan to monetize our product if customer usage varies
+signiﬁcantly? Which price structures have we considered and
+why?
+5. Do we have the right capabilities and infrastructure to execute the
+chosen monetization model and price structure?
+96
+Monetizing Innovation

@@ -30,8 +30,8 @@ python3 plugins/book-workflow/scripts/book_workflow.py audit "files/Book Name"
 2. Preserve
    - Chunk the chapters.
    - Prepare chunk-note skeletons and prompt packets.
-   - Materialize filled note JSONL files from the prompts.
-   - Generate canonical `summaries/*.md` from the filled notes.
+   - Materialize filled note JSONL files from the prompts with either a configured runner or the current Codex agent.
+   - Generate canonical `summaries/*.md` from the filled notes with either a configured runner or the current Codex agent.
    - Rebuild the search index.
    - Validate the artifacts.
 3. Generate Skill
@@ -41,13 +41,25 @@ python3 plugins/book-workflow/scripts/book_workflow.py audit "files/Book Name"
 
 ## Runner Contract
 
-Note extraction and summary generation rely on a configured runner command.
+Note extraction and summary generation can use a configured runner command, but the workflow must remain provider-neutral.
 
 - The runner is supplied via `--runner-cmd` or `BOOK_WORKFLOW_RUNNER_CMD`.
 - The workflow sends the prompt content on stdin.
 - For chunk extraction, the runner must return one JSON object matching the note schema.
 - For chapter summaries, the runner must return markdown only.
 - Invalid output or non-zero exit status must fail the workflow.
+- Do not add a bundled provider-specific runner. If a provider runner is needed, keep it outside the generic workflow or make it explicitly optional.
+
+## Codex-Assisted Mode
+
+When no runner is configured, the current Codex agent can complete the model-dependent stages directly from local artifacts:
+
+```bash
+python3 plugins/book-workflow/scripts/book_workflow.py ingest "/path/to/book.pdf" --book-dir "files/Book Name" --title "Book Name" --book-id book-name --force
+python3 plugins/book-workflow/scripts/book_workflow.py preserve "files/Book Name" --title "Book Name" --book-id book-name --skip-validate
+```
+
+Then fill `notes/*.jsonl` from `prompts/<chapter>/<chunk>.md`, prepare summaries, write `summaries/*.md`, rebuild the index, validate, audit, and generate the skill.
 
 ## Success Contract
 

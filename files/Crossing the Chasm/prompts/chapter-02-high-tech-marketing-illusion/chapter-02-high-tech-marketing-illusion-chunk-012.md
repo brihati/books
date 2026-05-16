@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-012",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 76896,
+    "char_end": 84622,
+    "checksum": "96fd42755eff7ce7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+re buying from, the quality of the product they are buying, the infrastructure of supporting products and system interfaces, and the reliability of the service they are going to get. In other words, they are planning on living with this decision personally for a long time to come. (By contrast, the visionaries are more likely to be planning on implementing the great new order and then using that as a springboard to their next great career step upward.) Because pragmatists are m it for the long haul, and High-Tech Marketing Enlightenment 57 because they control the bulk of the dollars in the marketplace, the rewards for building relationships of trust with them are very much worth the effort.
+
+Pragmatists tend to be “vertically” oriented, meaning that they communicate more with others like themselves within their own industry than do technology enthusiasts and early adopters, who are more likely to communicate “horizontally” across industry boundaries in search of kindred spirits. This means it is very tough to break into a new industry selling to pragmatists. References and relationships are very important to these people, and there is a kind of catch-22 operating: Pragma­ tists won’t buy from you until you are established, yet you can’t get established until they buy from you. Obviously, this works to the disadvantage of start-ups and, conversely, to the great advantage of companies with established track records. On the other hand, once a start-up has earned its spurs with the prag­ matist buyers within a given vertical market, they tend to be very loyal to it, and even go out of their way to help it succeed. At one time Salesforce.com was the disrupter in the sales force automation industry. Now it has become the de facto standard. When this happens, the cost of sales goes way down, and the leverage on incremental R&D to support any given customer goes way up. That’s one of the reasons pragmatists make such a great market. There is no one distribution channel preferred by pragma­ tists, but they do want to keep the sum total of their distribution relationships to a minimum. This allows them to maximize their buying leverage and maintain a few clear points of control should anything go wrong. In some cases this prejudice can be overcome if the pragmatist buyer knows a particular sales­ person from a previous relationship. As a rule, however, the 58 Crossing the Chasm path into the pragmatist community is smoother if a smaller entrepreneurial vendor can develop an alliance with one of the already accepted vendors or if it can establish a value-added- reseller (VAR) sales base. VARs, if they truly specialize in the pragmatist’s particular industry, and if they have a reputation for delivering quality work on time and within budget, represent an extremely attractive type of solution to a pragmatist. They can provide a “turnkey” answer to a problem, without impact­ ing internal resources already overloaded with the burdens of ongoing system maintenance. What the pragmatist likes best about VARs is that they represent a single point of control, a single company to call if anything goes wrong. One final characteristic of pragmatist buyers is that they like to see competition—in part to get costs down, in part to have the security of more than one alternative to fall back on should anything go wrong, and in part to assure themselves they are buying from a proven market leader. This last point is crucial: Pragmatists want to buy from proven market leaders because they know that third parties will design supporting products around a market-leading product. That is, market-leading products create an aftermarket that other vendors service. This radically reduces pragmatist customers’ burden of support. By contrast, if they mis­ takenly choose a product that does not become the market leader, but rather one of the also-rans, then this highly valued aftermar­ ket support does not develop, and they will be stuck making all the enhancements by themselves. Market leadership is crucial, therefore, to winning pragmatist customers. Pragmatists are reasonably price-sensitive. They are will­ ing to pay a modest premium for top quality or special ser­ vices, but in the absence of any special differentiation, they want the best deal. That’s because, having typically made a career High-Tech Marketing Enlightenment 59 commitment to their job and/or their company, they get mea­ sured year in and year out on what their operation has spent versus what it has returned to the corporation. Overall, to market to pragmatists, you must be patient. You need to be conversant with the issues that dominate their particu­ lar business. You need to show up at the industry-specific confer­ ences and trade shows they attend. You need to be mentioned in articles that run in the newsletters and blogs they read. You need to be installed in other companies in their industry. You need to have developed applications for your product that are specific to their industry. You need to have partnerships and alliances with the other vendors who serve their industry. You need to have earned a reputation for quality and service. In short, you need to make yourself over into the obvious supplier of choice. This is a long-term agenda, requiring careful pacing, recur­ rent investment, and a mature management team. One of its biggest payoffs, on the other hand, is that it not only delivers the pragmatist element of the Technology Adoption Life Cycle but tees up the conservative element as well. Sadly, however, high-tech industry has, for the most part, not seen fit to reap the rewards it has so carefully sown. To see how this has come about, let us now take a closer look at the conservatives. Late Majority: The Conservatives The mathematics of the Technology Adoption Life Cycle model says that for every pragmatist there is a conservative. Put another way, conservatives represent approximately one-third of the total available customers within any given Technology Adoption Life Cycle. As a marketable segment, however, they are rarely devel­ oped as profitably as they could be, largely because high-tech companies are not, as a rule, in sympathy with them. 60 Crossing the Chasm Conservatives, in essence, are against discontinuous innova­ tions. They believe far more in tradition than in progress. And when they find something that works for them, they like to stick with it. Thus these folks are on Macs when everyone else is on Windows, then they are on Windows whenever every­ one has switched back to Macs. They still use BlackBerrys, and they work just fine for them. They email rather than text and actually call each other from time to time. They neither tweet nor post, and their newspaper still arrives at the front door. And they are just fine with that, thank you very much. In this sense, conservatives have more in common with early adopters than one might think. Both can be stubborn in their resistance to the call to conform that unites the pragmatist herd. To be sure, eventually conservatives do succumb to the new par­ adigm just to stay on par with the rest of the world. But just be­ cause they use such products doesn’t mean they have to like them. The truth is, conservatives often fear high tech a little bit. Therefore, they tend to invest only at the end of a technology life cycle, when products are extremely mature, market-share competition is driving low prices, and the products themselves can be treated as commodities. Often their real goal in buying high-tech products is simply not to get stung. Unfortunately, because they are engaging with the low-margin end of the
+>>>

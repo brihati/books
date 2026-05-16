@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-05-assemble-the-invasion-force",
+  "chunk_id": "chapter-05-assemble-the-invasion-force-chunk-004",
+  "source": {
+    "chapter_title": "Assemble the Invasion Force",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/05 - Assemble the Invasion Force.txt",
+    "source_pages": "135-168",
+    "char_start": 19208,
+    "char_end": 26993,
+    "checksum": "9147b81ebdf9066a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s will backfill the whole product through their own systems integration efforts. Once the product is established in the mainstream, there is some hope that some third party will see an opportunity for itself to make money fleshing out the whole product. But while you are crossing the chasm, there is no hope of any external support that is not specifically recruited by you for this purpose. Some Real-World Examples To see how this works out in actual practice, let’s turn now to some specific industry examples. Basically, there are two types of scenarios we want to work through—one where there is installed 142 Crossing the Chasm competition, and the otherwhere there is not. In the former case,
+
+it is as if one were trying to invade Normandy from England, and the installed market leader were playing the role of the Nazi forces. In the latter, it is as if one had crossed the Pacific in 1492, landed on a new continent, and decided to set up shop selling wares to the natives. Neither task is for the faint of heart. Aruba and Wireless Networks for Enterprises To begin with the competitive example, imagine yourself back m 2006, leading a wireless networking company focused on bringing Wi-Fi to the enterprise. The name of the company is Aruba, which you may or may not have heard of. But you will have heard of the competitor they were targeting: Cisco] Aruba at this point was growing very fast, but off a very small base, from $12 million in 2005 to $72 million in 2006— pretty amazing, to be sure, but enough to take on a competitor four hundred times its size? Welcome to the world of Silicon Valley start-ups. This is what you do. The only question to answer is, how? The first rule is you have to leverage a point of disruption, one that puts the incumbent a bit back on its heels. In this case, wireless networks taken to their extreme threatened to canni­ balize wireline networks, which were and still are the heart and soul of Cisco’s franchise. Moreover, a new standard had just been released for Wi-Fi (802.11n, to be precise), which for the first time promised wireline performance delivered over the air. So there was a l0x value proposition potentially in play—arguably the single most pragmatic definition of a disruptive innovation. The second rule is, remember the fish-to-pond ratio princi­ ple from the prior chapter, and target a market segment that is big enough to matter, small enough to lead, and a good fit with Assemble the Invasion Force 143 your crown jewels. Here small enough to lead means, in part, too small for the much bigger incumbent to spend a lot of time focusing on. Big fish have trouble competing in small niches. For Aruba, applying this rule led them to the U.S. college and university market. At the time more and more students were coming to college with laptops. Arguably this was the first BYOD (bring-your-own-device) market segment, and as such it wanted networking services available everywhere, not just through a cable into a dorm room. Moreover, these students were not just doing searches and email anymore—they were also streaming music and video, which created an added push to adopt next-generation wireless standards early. And finally, colleges and universities like to support next-generation tech­ nology efforts from plucky start-ups, so they were more collab­ orative than a lot of other target markets would have been. All in all, targeting this market was a great call. Now we come to the third rule, the one this chapter is about: Surround your disruptive core product, the thing that got you to the dance, with a whole product that solves for the target customer’s problem end to end. That will keep you on the dance floor for a long time to come. The way you design a whole product is to work backward from the target customer’s use case, filling in the blanks as you go along, either with new R&D, an acquisition, a partnership, or an alliance. In the case of the college IT department deploy­ ing networking services across their campuses, the core product consisted of the following: • A very large number of access points, as many as several thousand, to cover every point of access from the dorm to the library to the classroom to the student union, to 144 Crossing the Chasm sports facilities, and ultimately even to off-campus pubs (where a lot of professors keep their office hours). • One or more mobility controllers, to manage all this traffic from a central point of control. This level of control had not been necessary in prior deployments where Wi-Fi networks were minor extensions to the wireline network, say covering guest services in a few conference rooms. But once the wireless network becomes the primary carrier of traffic, they are manda­ tory. For example, at the end of any exam, the entire class of students uploads their answers all at the same time, which can create a spike of demand—you don’t want that to bring down your network, or to lose any test traffic, either. • A network management system to support the network administrators, giving them the ability to dial service levels up or down, authenticate users, authorize access, as well as troubleshoot network outages and the like. That covers the core product. What then would go into making up the whole product? Consider the following: • The campuses still had wireline networks as well, even though they were not building them out as aggressively as they originally had planned. As a result, the network management system had to work both with the new and the old equipment. This led Aruba to partner with, and eventually acquire, AirWave, a network manage­ ment system that grew up managing Cisco routers and switches. Assemble the Invasion Force 145 • Additionally, most campuses had a student and faculty directory already in place, frequently Active Direc­ tory from Microsoft, so partnering here also became a priority. • Then there were the students themselves, who were, well, let’s say creative. As one network administrator said to Aruba, “Our security system is less focused on protecting our students from the world than it is on protecting the world from our students!” The era of Napster had come and gone by this point, but the era of BitTorrent file sharing, with or without autho­ rization, was in full swing. Network administrators needed to shape this traffic at a minimum, if not shut it down upon demonstrable violations. This led Aruba to partner with and eventually to directly purchase from Bradford a network operations control center of the sort more often seen in telecommunications companies. • In the continuing quest to compete for new students, colleges and universities had begun streaming content directly to digital devices, specifically video, both for education and for entertainment. This requires special video codecs to supply, which Aruba turned to a com­ pany called Video Furnace. • As the market continued to develop, Aruba created an advisory board from its leading university customers, one member of which had the novel idea that, instead of using wireless to extend wireline, how about the other way around? Specifically, he asked for a remote access port that could be hooked into a wireline VPN (vir­ tual private network) so that people at home or at other 146 Crossing the Chasm remote locations could be part of the same network management system as well (no new log-ons, passwords, etc.). This Aruba had to invent, and it has subsequently become a key differentiator in its product line. As you can see, nothing in the whole product is a showstop­ per from the point of a competitor seeking to neutralize Aruba’s differentiation, but taken as a whole, for a large competitor who
+>>>

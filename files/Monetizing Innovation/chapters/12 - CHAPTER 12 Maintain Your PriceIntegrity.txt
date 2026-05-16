@@ -1,0 +1,396 @@
+CHAPTER 12
+Maintain Your Price
+Integrity
+Avoid Knee-Jerk Repricing
+S
+o now you know what it takes to maximize your new product’s
+moneymaking potential before you bring it to market. But what if
+your product hits the market and the market is less than enthusiastic, and
+sales come in below expectation? After all, innovation does not come
+with a guarantee. What happens then?
+What happens is that you will feel intense pressure from every corner
+of your organization to cut the price. That’s almost always a bad idea.
+In this chapter we will explain why this happens; how you can resist
+the pressure to lower the price you’ve so thoughtfully and carefully set
+(because you followed the steps outlined in the previous chapters); and
+what you can do instead.
+When sales volumes don’t meet projections in the ﬁrst few weeks
+after launch, you’ve reached a moment of truth. And in that critical
+moment, far too many companies ﬂinch, cutting their prices because they
+feel they must.
+But reducing your price so soon sends an unintended message: that
+your new offering has less value than you initially communicated. In
+effect, you’re telling potential buyers your company has made a
+mistake, in quality or otherwise. But even if you have a quality
+149
+problem, a price cut won’t ﬁx it. In fact, it could make matters worse
+for you.
+Here’s a great example of a company that didn’t ﬂinch in the face of
+bad market news and resisted pressure to cut prices: Apple’s April 2015
+introduction of the much-hyped Apple Watch. At ﬁrst, it was available
+only through Apple’s website, and the cheapest version was priced at
+$349—not very cheap. With options including stainless steel and gold
+ﬁnishes, it could cost as much as $17,000—a true luxury purchase.
+However, Apple’s launch largely drew negative reactions. One stock
+analyst noted that a components supplier for the watch had produced
+fewer units than projected, hinting at underwhelming sales. His com-
+ment appeared in a July 31 Wall Street Journal headline that sniped,
+“Glimmers Emerge on Apple Watch Sales, and They’re Not Pretty.”1
+Highly inﬂuential product reviewers gave the watch decidedly mixed
+reviews. Yahoo’s David Pogue simply wrote, “You don’t need one.”2
+The Wall Street Journal’s Personal Technology Editor, Joanna Stern, gave
+it a positive review but told consumers they should wait for future
+releases, when the watch would be better.3
+All of this was not what Apple wanted to hear. Yet despite the
+negative press, despite the warnings of purportedly in-the-know invest-
+ment analysts and reviewers and the rumors of lagging sales, Apple did not
+drop its price. It held ﬁrm.
+By October, after the summer of discontent, the lowest-price version
+of the Apple Watch was still $349.
+Based on International Data Corporation and investment analyst
+estimates of Apple Watch sales from April through September 2015
+(the second half of Apple’s most recently completed ﬁscal year), Apple
+sold an estimated 8 million watches. Assuming most sold for the entry
+price of $349, that would make it a $2.8 billion product in its ﬁrst six
+months of life.
+Not too shabby for a new product.
+By being resolute on prices, Apple avoided the typical response when
+new products meet mixed market reactions. Most companies quickly
+seek to placate customers, investors, and reviewers by cutting prices.
+We call that losing price integrity. Products lose integrity when a
+company’s knee-jerk response to a lukewarm early market reaction is to
+reduce their product’s price in the ﬁrst few months. You don’t want to do
+that. Here’s why.
+150
+Monetizing Innovation
+The Importance of Patience in Maintaining
+Price Integrity
+You don’t want to lose price integrity because it creates two large hazards:
+eroding proﬁts and eroding customer lifetime value. If you developed a price
+elasticity curve in your new-product plan, you did lots of hard work to
+arrive at your price. Don’t be hasty and abandon all that work at the ﬁrst
+sign of weak sales. You’ll instantly give up the proﬁt margin you targeted
+in your plan, and that proﬁt will be gone forever.
+Your business case should tell you how much proﬁt you will sacriﬁce
+if you knock the price down 5, 10, or 20 percent. If you make such a price
+cut, it cannot be repaired easily. You’ll wind up losing proﬁts over the
+lifetime of your relationship with customers.
+By making a knee-jerk price reduction, you may also do major
+damage to your brand. Cutting your price could permanently damage
+your brand by creating a negative perception of its quality. If your
+customers perceive your discount as signaling a lack of conﬁdence in your
+product’s value, they may not want to buy it at any price.
+Holding onto your price is especially important in the ﬁrst few
+months after a product arrives. Think of your pricing as the narrative
+you’re creating about your product’s value to customers. If you release a
+product and cut the price a short time later, what you’re saying is, “Sorry,
+we made a mistake.”
+That said, sometimes it is not that black and white. Occasionally, you
+might have to cut your price to gain traction. If you do, make sure you are
+in the driver’s seat to avoid rash moves. You need to plan this out and
+ensure you will get something in return if you give in on price. This
+would preserve your price integrity.
+Why are knee-jerk price reductions so common for new products
+shortly after they hit the market? Well, when initial sales disappoint, that’s
+a scary time for your team. It has invested a huge amount of time, energy,
+money, and career capital in the product launch. And now it’s not going
+well. The temptation is to do something—right now!—to jump-start
+sales. The most obvious tactic is to cut the price.
+One European company was not prepared for lower-than-expected
+sales of a new product. After its product hit the market, a competitor
+launched an aggressive effort to win back business in the Netherlands. Its
+sales manager for Holland (where the ﬁrm had a 70 percent market share)
+Maintain Your Price Integrity
+151
+let his European head of sales know about that. The head of sales
+panicked, asking the CEO for his support to start discounting across
+Europe to keep sales high. The CEO, now worried about similar
+scenarios in markets around the world, told the global head of sales
+that he was free to make any pricing cuts he felt were necessary until the
+end of the year.
+The ﬁrm’s pricing strategy had wilted away in a single day—mainly
+because it was unprepared. (See Figure 12.1.)
+But this is when successful innovators must remain cool, calm, and
+collected. If you haven’t anticipated the possibility that sales might lag,
+and you haven’t planned a response, this is no time to overreact. This is a
+time to stop and think. Either something has changed that you had not
+anticipated, or your original plan had a mistake. You will be much better
+off responding after you analyze what just happened rather than thrashing
+about with a new promotion or price cut.
+Figure 12.1
+How a European Firm’s Pricing Strategy Fell Apart in
+One Day
+152
+Monetizing Innovation
+Showing patience about pricing is more important than fretting over
+sales numbers in the ﬁrst months after a product launch.
+Think price last.
+How to Prepare for Post-Launch
+The post-launch phase is typically hectic for the product team.
+Your product is ﬁnally in the market. Everybody is nervous. What
+are the initial customer reactions? Are they as good as we estimated?
+Are sales according to plan? What is the competition doing? And
+so on.
+This is also a period in which many mistakes are made, because of the
+hectic pace and because actions are taken too spontaneously. Of course,
+you cannot plan everything in advance. But you can prepare for the most
+common reactions to avoid those spontaneous mistakes.
+Here are some tips and tricks to keep in mind when preparing for
+post-launch.
+1. Be patient addressing post-launch problems. They typically
+come in only four varieties, and you can prepare for them: (1) the market
+doesn’t understand your product’s value or you didn’t explain it well;
+(2) your competition undercuts on price; (3) the competition launches a
+competing product; and (4) regardless of what the competition does, sales
+are below plan.
+Being patient doesn’t mean doing nothing. Rather, your ﬁrm must
+take all-hands-on-deck action to determine the cause and solution to
+your post-launch sales problem. Your task force should include all
+relevant business functions—sales, marketing, ﬁnance, product develop-
+ment, product management, and so on. The task force’s ﬁrst task is to
+pinpoint the reasons for the problem.
+What if a competitor undercuts your price? This recently happened
+to an industrial products manufacturer. The ﬁrm asked us to determine
+the causes of disappointing sales of a new product. We examined
+everything. The culprit turned out to be a competitor’s preemptive
+price cut. Anticipating our client’s new product, the competitor offered
+huge temporary discounts that required high minimum purchase
+orders—all before our client had shipped one new product. By the
+time the product hit the market, customers had already stocked up on
+Maintain Your Price Integrity
+153
+the competitor’s discounted product and had no room for the new one,
+even though it had better quality.
+Alternatively, your poor sales could be due to a feature problem, a
+distribution channel problem, a market awareness problem, or a quality
+problem. If you’ve done your pricing strategy work properly, you
+probably don’t have a pricing problem. But you need to search far
+and wide for the source of the sales problem.
+BMW did this in 2001. The company traced the reason behind the
+slow sales of its new 7 Series sedans. It found that European customers
+thought it was ugly. (Americans did not.) BMW decided to keep the car’s
+price high. If people do not like the car, they will not buy it, even if it is
+10 percent cheaper. Instead, BMW reduced its sales targets—not its
+price—and started working to design a face-lift right away.
+2. Go beyond ﬁnancial KPIs and track monthly outcomes. To
+measure the progress of new product launches, most companies track
+only ﬁnancial key performance indicators (KPIs)—typically volume,
+revenue, and proﬁt. These measures are grossly inadequate. You must
+also track sales, customer metrics, and operational metrics to keep a pulse
+on your new product after launch. Sales KPIs such as win-loss ratio,
+percent deviation of ﬁnal price from target price, average sales quoting
+time, and price as a reason for win/loss will give you crucial insights on
+sales team performance.
+If you are losing a high percentage of deals or your sales greatly and
+consistently deviate from your target plan, or if the sales force complains
+that price is the only reason they’re losing deals, you could have a sales
+training problem. Or you may have to revisit your pricing guidance.
+KPIs such as number of escalated deals (where someone higher in the
+organization approves a price), price changes upon deal escalation, and
+the number of rejected escalated requests will shed light on the health of
+your sales operations. If the approved prices are the same as requested
+prices, your sales operation has essentially instituted a rubber-stamping
+deal escalation process. A healthy escalation should always have reason-
+able amounts of pushbacks, changing prices on at least 30 to 40 percent of
+all deals.
+By the way, be prepared to learn that your price might not be high
+enough. The number of escalated deals is an important KPI here. Having
+too few escalated deals could indicate the sales team is ﬁnding it too easy
+to sell. You need to ask yourself whether you priced your product high
+enough.
+154
+Monetizing Innovation
+As a rule of thumb, at most 20 to 30 percent of your deals (depending
+on industry) should be escalated. Last, KPIs such as price difference
+achieved across segments and how often features are used indicate if your
+customer segmentation strategy is working and if your customers get
+value from your product.
+3. Do deal “deconstructions” regularly. You need to dissect
+the reasons why you’re winning and losing deals. You should bring
+together a cross-functional team (including sales, marketing, pricing,
+ﬁnance, and product) that was involved in the deal. The objective is
+to fully deconstruct the deal to understand whether product strategy,
+price strategy, and value communications were applied correctly.
+Through the deal deconstruction process, you can identify weaknesses
+and, more important, best practices to be applied to other deals.
+This step is important; it rallies the sales troops and gets them
+aligned on successful practices. But you must frame these deal decon-
+structions as a learning experience, with no repercussions for a particular
+function or group. You want an open and honest assessment of what
+happened and what else could have been done, not a ﬁnger-pointing
+session.
+4. Advocate pricing patience: Make your team come up with
+three nonpricing actions before you approve a price decrease.
+Spontaneous price reactions—usually price decreases—are a typical
+problem in the post-launch phase. This is an understandable but wrong
+response. If sales are below plan or, say, competitors slash their prices,
+companies look for a quick ﬁx. Lowering prices seems ideal: You can do
+it right away, without any investments, and see quick results. But, as we
+have stated in this and other chapters, this is extremely shortsighted. You
+run the risk of a signiﬁcant downside.
+Pricing patience is an important capability of every organization. But
+as simple as it sounds, it is the most difﬁcult thing to get across to
+executive leadership. To maintain and institutionalize price patience,
+here’s an approach that typically works: Before getting approval for a
+pricing reduction, make your team come up with three nonpricing
+alternatives. If the action must be a price cut, the team must explain why
+it is superior to the nonpricing alternatives.
+Nonprice actions can include increasing advertising or adding to the
+value of the product. You could give customers a higher-end product at
+the same price. That will help you preserve your price. Even if you lower
+your price, you should ask customers for something in return. That
+Maintain Your Price Integrity
+155
+something could be a longer-term commitment, greater volume, intro-
+ductions to departments you have not sold to, endorsements and
+references, or joint press releases. Or it could be something else—as
+long as you’re getting value for giving value.
+A telecommunications ﬁrm in Latin America instituted the rule of
+forcing managers to come up with three nonprice actions before making
+price cuts. A board member of the company stated afterward: “This simple
+rule had the highest impact we have ever seen and instilled the right
+discipline we were seeking. It was simple and everybody understood it.”
+5. Before reacting on price, war-game your competition’s
+counterreactions. This is another simple way of avoiding a knee-jerk
+price reduction. Write down how you expect your major competitors to
+react. Then simulate your position after that reaction: projected sales
+volumes, market share, proﬁt, and so on. If you built your business case
+on the principles we presented in Chapter 9, you will be able to anticipate
+your competitors’ reactions.
+If your war-gaming shows you will be worse off if you reduce your
+price after the competition attacks, then don’t. Look for other strategies.
+Why make things worse for yourself? This may sound like simple
+common sense, but you’d be surprised how many companies just
+don’t budget for competitive reactions. If you took this approach to
+playing chess, you’d lose in a few moves.
+6. Unusually high sales could be a high-class problem. This is
+the hardest problem to acknowledge, and it requires the same disciplined
+solutions as unexpectedly low sales.
+You launch your new product and a wonderful thing happens: Sales
+volumes are way beyond expectations. Time to celebrate? Not so fast.
+You actually might have a problem—pricing lower than you needed to
+and leaving money on the table. That, of course, means you have a
+minivation. Did you simply misjudge your market size, as PlayMobil did
+when demand outstripped its supply? Or does your main competitor
+have manufacturing problems?
+Of course, higher-than-expected sales is a good problem to have.
+That’s why most companies do not view it as a problem or, if they do,
+they do not examine it. But too-high sales should be examined as
+rigorously as disappointing sales. So, once again, use a cross-functional
+team to ﬁnd out the key reasons for the bigger-than-expected success.
+Then develop a plan that solves this “problem.” If your product delivered
+156
+Monetizing Innovation
+more value than you thought customers were expecting, raise your price.
+But do it carefully, and in several steps.
+We’ve seen this happen many times. In the 1970s, Mercedes intro-
+duced a new SL car. The model sold out in a few months, and would-be
+customers were put on a waiting list of two years! Mercedes learned its
+mistake quickly: Its price for the new SL automobile was about 20
+percent too low. However, it could raise the price only 3 to 5 percent a
+year. So the automaker had to wait a few years until it reached the
+optimal price level. In doing so, Mercedes left hundreds of millions of
+dollars in revenue on the table.
+The Mercedes example shows the importance of getting the right
+price at the beginning. When you don’t—when you severely and
+needlessly underprice your new product—you should accompany
+price increases with small product improvements that justify the price
+hike.
+You can also try to convince customers to accept longer delivery
+terms. But you’ll need to manage that process with, for instance,
+frequent updates on the status of their orders. The idea is to lock
+in your customers as strongly as possible to avoid giving your competi-
+tors the sales just because you’re having trouble keeping up with
+demand. Alternatively, you could make greater supplies of the pre-
+mium versions of your product and reduce supplies of the entry-level
+version.
+But in general, be careful about overly increasing the price if you ﬁnd
+yourself in similar situations. Customers will despise you, and competitors
+will see an opportunity to undercut you. Alternatively you could
+accelerate the development of the next generation of products and offset
+prices in the future releases.
+Price Wars: The Only Winning Move Is Not to Play
+Price wars are about seeing who can lower prices the most. You don’t
+want to start one, and you don’t want to be the ﬁrst one to move.
+Ultimately, a price war has only one winner: the supplier with the lowest
+cost. Most likely, that’s not you.
+Price wars have deadly consequences for new products, yet as our
+research shows, managers are not only strongly tempted to use them, but
+also in denial about how they start. In our ﬁrm’s 2014 Global Pricing
+Maintain Your Price Integrity
+157
+Study, 83 percent of companies had felt increasing price pressures over
+the past two years. The biggest reason: low-price competition, either
+from new attackers or from incumbents. That pressure fuels price wars.
+Everyone hates price wars, but no one wants to admit starting one.
+Fifty-eight percent of the survey participants said they were currently in a
+price war. (About 19 percent observed a price war in their industry but
+said it hadn’t affected them.) An overwhelming 90 percent of those
+ﬁghting a price war said that the competitors started it. A mere 5 percent
+said they started the price war intentionally, and 5 percent said they
+started it accidentally.
+It’s logically impossible that almost 90 percent of the time the price
+war is the other person’s fault. That’s denial. The truth is it takes two to
+tango.
+With that in mind, CEOs and other business leaders can coach teams
+to treat price wars with extreme caution and not act on fear. At the root of
+such fear is misunderstanding: Competitor A wants to hit back at
+Competitor B because B stole a customer. Competitor C perceives
+that as a frontal attack, which provokes A and B to counterattack.
+You need clear communications to avoid such misunderstandings.
+You must understand the reasons behind competitors’ pricing moves.
+Leaders must ensure their teams know the unfavorable outcomes of price
+wars.
+To avoid surprises that encourage price reduction thinking, put in
+place processes for updating models and forecasts regularly with new
+market information, then make people accountable for delivering on
+those forecasts. Make sure your models and forecasts include price
+elasticity assumptions.
+Summary
+Losing price integrity with a new product means you’re cutting prices
+unnecessarily or too soon when sales are slower than expected. That
+erodes proﬁt, customer lifetime value, and your brand.
+To maintain price integrity, you need to take a cross-functional
+approach to diagnosing the problem. It may turn out you don’t have
+a pricing problem at all. It may be the inability to communicate the
+158
+Monetizing Innovation
+substantial value of your product, a quality problem, a sales-force
+training problem, or another problem. Don’t assume ﬁrst that you
+put the wrong price on your product.
+That requires patience. Successful innovators teach their teams
+how to avoid confusing pricing problems with the quality and
+communications problems that can beset a new product. They do
+not approve price cuts before their team has suggested at least three
+nonprice actions that could be taken.
+If demand for the product far exceeds expectations, examine this
+“problem” rigorously as well. If the analysis suggests a large price
+increase, implement this in several small steps. Raising prices too fast
+can generate a customer revolt.
+Perhaps most seriously, innovation leaders avoid price wars at
+nearly all costs. They realize it’s a slippery slope to counter competi-
+tors’ price reductions with more price reductions. Only the lowest-
+cost competitors can win that war.
+CEO Questions
+1. If sales are below target, what are the real reasons? How did we
+ﬁnd out?
+2. How would the suggested measures solve the problems we
+identiﬁed?
+3. Does the way our product is perceived in the marketplace (by
+customers, channel partners, and so on) match the way we
+perceived it in our planning/business case? If not, what are we
+doing to correct that?
+4. If competitors decreased their prices, why did they do so? What
+could be their goals?
+5. What is the best possible reaction strategy? If the decision was to
+change our price, what nonprice measures were discussed? What
+competitive counterreaction do we expect? What situation will
+we be in after competitors react?
+6. How was our sales force prepared for the launch? (You should ask
+for the messaging strategies they were given to respond to
+competitors’ responses.)
+Maintain Your Price Integrity
+159
+Part Three
+Success Stories and
+Implementation

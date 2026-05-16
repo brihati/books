@@ -1,0 +1,616 @@
+Create a source-linked hierarchical chapter summary from these chunk notes.
+
+Rules:
+- Use only the notes below.
+- Preserve the original sequence by chunk_id unless a thematic grouping is clearly better.
+- Deduplicate repeated points.
+- Keep concrete examples, stories, definitions, names, dates, numbers, places, terms, and short quotes.
+- Keep examples attached to the idea they support.
+- Do not invent missing details.
+- If notes are incomplete, say which chunk_ids need extraction before a complete summary can be trusted.
+
+Output:
+1. Chapter title
+2. Detailed chapter summary
+3. Key points
+4. Important examples and stories
+5. Definitions and terms
+6. Names, dates, numbers, and places
+7. Short relevant quotes or standout statements
+8. Actionable lessons
+9. Source chunk IDs used
+
+Chapter ID: chapter-07-go-beyond-the-price-point
+
+Chunk notes:
+```json
+[
+  {
+    "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-001",
+    "source": {
+      "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+      "char_end": 6963,
+      "char_start": 0,
+      "checksum": "fa0fb7ca4771b1d2",
+      "source_pages": "95-112",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt"
+    },
+    "summary": "Chapter 7 introduces monetization models as critical to product success, arguing that how you charge customers is as important as what you charge. The chapter presents the Michelin case study, where the company transformed from selling tires to charging trucking fleets by mileage (ton-kilometer model), allowing them to capitalize on longer-lasting tires and maintain premium positioning despite competitive pressure.",
+    "key_points": [
+      "Monetization model is how the customer pays for a product or service",
+      "A highly innovative monetization model can be as important as the new product itself and the price charged",
+      "Most companies perpetuate their existing monetization model without strategic reflection or testing",
+      "How you charge trumps what you charge",
+      "Pay-as-you-go models have driven game-changing results across hosting, cloud computing, telecommunications, transportation, and aircraft engines",
+      "Innovative monetization models are not limited to newer companies; established companies can revolutionize their models"
+    ],
+    "arguments": [
+      "Establishing a favorable monetization model can be as important as the new product itself and the price you charge for it",
+      "Most companies miss opportunities by perpetuating monetization models without strategic reflection or testing",
+      "Michelin's shift from selling tires to charging by mileage allowed the company to fully capitalize on longer-lasting tire innovation without requiring additional sales and marketing spend"
+    ],
+    "examples": [
+      "Xerox charges some customers based on usage of printing and copying equipment rather than selling or leasing machines",
+      "Enercon charges based on the amount of electricity customers generate using their wind turbines",
+      "Adobe moved from selling software by the unit with one-time fees to a cloud-based subscription model",
+      "Michelin's Fleet Solutions introduced the ton-kilometer model in 2001, charging trucking fleets by mileage rather than by number of tires purchased"
+    ],
+    "stories": [
+      "Michelin faced premium price pressure from Chinese and South Korean tire manufacturers in the early 2000s. The company invented longer-lasting tires but realized a small price increase would cause a 20% drop in demand. Instead of raising prices, Michelin revolutionized its monetization model by charging trucking fleets per kilometer driven rather than per tire sold, allowing the company to capture the value of longer tire life and achieve the highest profits in the industry by 2011."
+    ],
+    "definitions": [
+      "Monetization model: how the customer pays for a new product or service"
+    ],
+    "names": [
+      "Xerox",
+      "Enercon",
+      "Adobe",
+      "Michelin Group",
+      "Michelin's Fleet Solutions",
+      "Bridgestone",
+      "Goodyear"
+    ],
+    "dates": [
+      "1891 - Michelin introduced detachable bike tire",
+      "1946 - Michelin introduced first radial tire",
+      "Early 2000s - Michelin faced premium price pressure",
+      "2001 - Michelin's Fleet Solutions introduced ton-kilometer model",
+      "2011 - Michelin's earnings before interest and taxes were 25% higher than Bridgestone's",
+      "Turn of the twenty-first century - Michelin prepared to launch new tire lasting 20% longer"
+    ],
+    "numbers": [
+      "126 years - Michelin's age",
+      "20 percent - how much longer new Michelin tires lasted",
+      "20 percent - predicted reduction in customer demand due to longer-lasting tires",
+      "Few percentage points - predicted price increase for new tires",
+      "25 percent - Michelin's earnings before interest and taxes higher than Bridgestone's by 2011",
+      "Three times - Michelin's earnings compared to Goodyear's by 2011",
+      "$369 billion - global computer software industry size"
+    ],
+    "places": [
+      "France - Michelin Group's location",
+      "Germany - Enercon's location"
+    ],
+    "terms": [
+      "Pay as you go model",
+      "Subscription model",
+      "Dynamic pricing",
+      "Freemium",
+      "Ton-kilometer (TK)",
+      "Fleet Solutions",
+      "Cloud-based subscription model"
+    ],
+    "quotes": [
+      "How you charge trumps what you charge",
+      "It's a model that has helped companies that provide hosting and cloud computing services, telecommunications, transportation services, construction machines, and aircraft engines achieve game-changing results",
+      "Michelin took on the customer's cost of product problems; if a tire fails early, Michelin bears the risk"
+    ],
+    "actionable_lessons": [
+      "Reflect strategically on your monetization model rather than perpetuating existing approaches without examination",
+      "Test different monetization models to identify the most effective approach",
+      "Consider how your monetization model can help you capitalize on product innovations",
+      "Align your monetization model with customer value; Michelin shifted to per-kilometer charging to let customers pay for performance rather than ownership",
+      "Use monetization model innovation to address competitive pricing pressure without relying solely on sales and marketing spend"
+    ],
+    "open_questions": [
+      "What monetization models are most appropriate for different industries and product types?",
+      "How can companies test and validate new monetization models before full implementation?",
+      "What are the risks and challenges of shifting to innovative monetization models?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-002",
+    "source": {
+      "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+      "char_end": 13927,
+      "char_start": 6263,
+      "checksum": "139966c284839b1c",
+      "source_pages": "95-112",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt"
+    },
+    "summary": "The chapter discusses how innovative monetization models, rather than just pricing strategies, can differentiate companies and drive success. Five key monetization models are introduced: subscription, dynamic pricing, and others. Examples include Michelin's tire model, Netflix's subscription service, Google's ad auction model, and Uber's dynamic pricing.",
+    "key_points": [
+      "Monetization model innovation is increasingly the innovation itself",
+      "Selecting the wrong monetization model can be worse than setting a bad price",
+      "Five proven monetization models help companies launch innovative products, differentiate, or dominate markets",
+      "Subscription models increase lifetime customer revenue and create recurring revenue streams",
+      "Subscription models reduce customer churn and enable cross-selling and upselling opportunities"
+    ],
+    "arguments": [
+      "Michelin changed its monetization model rather than spending more on sales and marketing, resulting in the biggest profits in the tire industry by 2011",
+      "A bad monetization model can be worse than a bad price, as demonstrated by the European trucking company that lost money on a fixed-price TV distribution contract"
+    ],
+    "examples": [
+      "Michelin's tire monetization model: by 2011, earnings before interest and taxes were 25 percent higher than Bridgestone's and more than three times Goodyear's",
+      "Netflix (1999): flat monthly subscription fee for unlimited movie rentals by mail, later displaced Blockbuster",
+      "Google: perfected the online ad auction monetization model",
+      "Uber: dynamic pricing model based on supply and demand in a given location",
+      "Medtech and General Electric: charging hospitals by use of medical equipment rather than selling or renting",
+      "Metromile: per-mile basis auto insurance using telematics",
+      "Dollar Shave Club: subscription model for shaving supplies",
+      "Wall Street Journal: subscription model for newspaper delivery",
+      "Spotify and Pandora: subscription plans for online music services",
+      "European trucking company: lost money on fixed-price TV distribution contract when TV sizes increased"
+    ],
+    "stories": [
+      "A European trucking company signed a three-year contract to distribute a TV manufacturer's goods at a fixed price per TV. As TV sizes increased exponentially over time, the distributor could fit fewer TVs per truck and had to make more runs, causing costs to increase massively while revenue remained flat due to the fixed price, ultimately losing money on the deal."
+    ],
+    "definitions": [
+      "Subscription Model: customer provides periodic and automatic payment for continued delivery of or access to a company's offering",
+      "Dynamic Pricing: pricing model based on supply and demand in a given location",
+      "Telematics: onboard digital devices that track driving behaviors"
+    ],
+    "names": [
+      "Michelin",
+      "Bridgestone",
+      "Goodyear",
+      "Netflix",
+      "Blockbuster",
+      "Google",
+      "Uber",
+      "Medtech",
+      "General Electric",
+      "Metromile",
+      "Dollar Shave Club",
+      "Wall Street Journal",
+      "Spotify",
+      "Pandora"
+    ],
+    "dates": [
+      "1999: Netflix founded as two-year-old movie rental firm",
+      "2000: online advertising auction model became reigning monetization model",
+      "2009: baseline year for music streaming subscription growth comparison",
+      "2011: Michelin's earnings comparison with competitors",
+      "2012-2015: Netflix subscriber growth period",
+      "2014: music streaming subscriptions accounted for nearly a quarter of digital revenue",
+      "2015: Netflix had 69 million streaming subscribers in third quarter"
+    ],
+    "numbers": [
+      "$369 billion: global computer software industry size",
+      "25 percent: Michelin's earnings before interest and taxes higher than Bridgestone's by 2011",
+      "3 times: Michelin's earnings compared to Goodyear's by 2011",
+      "33 million: Netflix streaming subscribers in 2012",
+      "69 million: Netflix streaming subscribers in 2015 third quarter",
+      "6-fold increase: music streaming subscriptions growth since 2009",
+      "$1.6 billion: music streaming subscriptions revenue in 2014",
+      "1/4 (quarter): proportion of global music industry's digital revenue from streaming in 2014"
+    ],
+    "places": [
+      "Europe: location of trucking company example"
+    ],
+    "terms": [
+      "Monetization model",
+      "Subscription economy",
+      "Membership economy",
+      "Recurring revenue",
+      "Customer lifetime revenue",
+      "Switching costs",
+      "Churn",
+      "Cross-selling",
+      "Upselling",
+      "Dynamic pricing",
+      "Telematics",
+      "Software as a service"
+    ],
+    "quotes": [
+      "Monetarily, a bad monetization model can be worse than a bad price.",
+      "increasingly the monetization model is the innovation"
+    ],
+    "actionable_lessons": [
+      "Consider changing your monetization model rather than just adjusting price or increasing marketing spend",
+      "Subscription models work well for products used continually and in highly competitive markets",
+      "Subscription models can make expensive products more affordable by allowing bite-size purchases",
+      "Use subscriber data to identify cross-selling and upselling opportunities",
+      "Ensure your monetization model accounts for changes in product characteristics over time"
+    ],
+    "open_questions": [
+      "What are the other two monetization models beyond subscription and dynamic pricing mentioned in the five models framework?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-003",
+    "source": {
+      "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+      "char_end": 20911,
+      "char_start": 13227,
+      "checksum": "3f06d9b68ffa544b",
+      "source_pages": "95-112",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt"
+    },
+    "summary": "The chunk explores four monetization models beyond simple price points: subscriptions (particularly in music and software), dynamic pricing (adjusting prices based on demand, season, time), auction-based pricing (letting market competition set prices), and alternative metric pricing (charging based on value delivered rather than per-unit standards).",
+    "key_points": [
+      "Subscription models lock out competitors and make products more affordable through bite-size payment chunks",
+      "Dynamic pricing adjusts prices based on factors like season, time of day, weather, demand, and supply",
+      "Auction-based pricing lets the market determine price through competition rather than seller setting it explicitly",
+      "Alternative metric pricing ties costs to value delivered and customer benefits rather than industry per-unit standards",
+      "Dynamic pricing requires significant technology investments and can backfire if customers feel exploited",
+      "Auctions work best in seller markets with constrained inventory and high demand"
+    ],
+    "arguments": [
+      "Subscriptions help lock out competitors whose goods are only available on individual transaction basis in competitive industries",
+      "Dynamic pricing boosts monetization of fixed and constrained capacity by adjusting prices to match demand",
+      "Auction-based pricing allows sellers to appear neutral while market competition raises prices",
+      "Alternative metric pricing aligns customer payments more closely with actual product value and benefits received"
+    ],
+    "examples": [
+      "Streaming music services generated $1.6 billion of global music industry's digital revenue, a six-fold increase since 2009",
+      "Uber launched in 2010 uses dynamic pricing tied to real-time demand and supply of taxis",
+      "Professional and collegiate sports use dynamic ticket pricing with higher and lower-profile games priced accordingly",
+      "Castorama installed electronic shelf pricing that adjusts prices in real time according to demand",
+      "Coca-Cola tested vending machines in 1999 that automatically raised prices in warmer weather but abandoned the experiment",
+      "Tesco prices products higher in evenings because high-income evening shoppers are willing to pay more",
+      "Google AdWords auction-based ad business accounted for 70 percent of Google's $35 billion in revenue during first half of 2015",
+      "eBay built an $18 billion-a-year business helping people sell household items through auction pricing",
+      "Manheim is the world's largest auction provider for buying and selling used cars",
+      "GE generates $1 billion a year from outcomes-based services using digital sensors and analytics"
+    ],
+    "stories": [],
+    "definitions": [
+      "Dynamic pricing monetization model: one in which a product's or service's price fluctuates based on factors such as season, time of day, weather conditions, or other considerations that could impact willingness-to-pay, demand, and supply",
+      "Two-sided marketplaces: those that connect sellers and buyers",
+      "Seller markets: markets where inventory is constrained, the power is with the sellers as owners of inventory, and demand is high"
+    ],
+    "names": [
+      "Robert Crandall",
+      "American Airlines",
+      "Uber",
+      "Coca-Cola",
+      "Castorama",
+      "Tesco",
+      "Google",
+      "eBay",
+      "Manheim",
+      "GE"
+    ],
+    "dates": [
+      "2009",
+      "1999",
+      "2010",
+      "2011",
+      "2015",
+      "500 BC"
+    ],
+    "numbers": [
+      "$1.6 billion",
+      "six-fold increase",
+      "2,000 customers",
+      "400 different prices",
+      "1,600 prices",
+      "$18 billion-a-year",
+      "$35 billion",
+      "70 percent",
+      "$1 billion a year"
+    ],
+    "places": [
+      "UK"
+    ],
+    "terms": [
+      "Subscription models",
+      "Dynamic pricing",
+      "Auction-based pricing",
+      "Alternative metric pricing",
+      "Pay as you go",
+      "Outcomes-based services",
+      "Market-based pricing",
+      "Price elasticity",
+      "Capacity constraints",
+      "Land-grab scenario"
+    ],
+    "quotes": [
+      "If I have 2,000 customers on a given route and 400 different prices, I am obviously short 1,600 prices.",
+      "the market perceives you as the neutral party; customers outbid each other to buy and raise prices for you"
+    ],
+    "actionable_lessons": [
+      "Consider dynamic pricing when demand and price elasticity vary significantly in your market",
+      "Evaluate whether supply is constrained or fixed before implementing dynamic pricing",
+      "Invest in technology and business process changes if implementing dynamic pricing",
+      "Be aware that dynamic pricing can irritate customers who feel exploited; ensure customers perceive additional benefits",
+      "Use auction models when you have constrained inventory and high demand (seller markets)",
+      "Set minimum prices and control auction duration and bidding process to influence prices without being explicit",
+      "Consider alternative metric pricing that ties costs to value delivered rather than per-unit industry standards"
+    ],
+    "open_questions": [
+      "What factors influence volatility in demand and price elasticity in your specific market?",
+      "Do you have the technology infrastructure to support dynamic pricing effectively?",
+      "Is your market a seller market with constrained inventory and high demand suitable for auctions?",
+      "What alternative metrics beyond per-unit pricing could better reflect the value your product delivers?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-004",
+    "source": {
+      "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+      "char_end": 27887,
+      "char_start": 20211,
+      "checksum": "0aec91c2565a7a0d",
+      "source_pages": "95-112",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt"
+    },
+    "summary": "The chunk discusses two alternative monetization models: Alternative Metric Pricing/Pay As You Go and Freemium Pricing. Alternative Metric Pricing aligns pricing with customer value and usage rather than industry standards, exemplified by GE's outcomes-based services generating $1 billion annually. Freemium Pricing offers free and paid tiers to attract customers and convert them to paid subscriptions, though conversion rates are typically low (below 10% in software, 2% retention in video games after one month).",
+    "key_points": [
+      "Alternative metric pricing charges based on measures closer to product value and customer benefits rather than per-unit industry standards",
+      "GE generates $1 billion annually from outcomes-based services using digital sensors and analytics",
+      "Alternative pricing works best when you have total control over product usage and can deliver on performance promises",
+      "Freemium model requires very low production costs and minimal fixed costs to be viable",
+      "Freemium conversion rates are typically below 10% in software companies",
+      "The land-and-expand approach fails for 90% of companies attempting freemium models",
+      "Video games with freemium models lose 75% of free users after one day and retain only 2% after one month"
+    ],
+    "arguments": [
+      "Alternative metric pricing achieves full monetization potential by aligning the metric to customer performance",
+      "Freemium services lower customer entry cost to zero, spurring rapid adoption and reducing customer acquisition costs",
+      "Alternative pricing can be presented as a win-win situation where companies participate in revenue customers generate",
+      "Freemium model is difficult to convert to long-term monetization because consumers resist paying for previously free services"
+    ],
+    "examples": [
+      "GE attached digital sensors to medical equipment, aircraft engines, and power turbines, charging by hours of usage for medical practices or miles flown for airlines",
+      "A software company producing lab reports increased revenue by 20% by changing pricing from fixed perpetual license to per lab report",
+      "Robotic surgery equipment manufacturer could price by surgery instead of upfront cost, aligning with hospital value perception",
+      "Monsanto uses yield-per-acre pricing for herbicides, maintaining control over product application",
+      "LinkedIn and Dropbox offer free basic versions with limited features and paid premium tiers",
+      "Telecommunication providers use gigabyte-based or device-and-gigabyte-based pricing",
+      "Evernote reached 150 million registered users but has been slow to generate revenue",
+      "Most newspapers failed to convert free readers to paid subscribers, except New York Times and Wall Street Journal",
+      "Costco charges a membership subscription fee"
+    ],
+    "stories": [],
+    "definitions": [
+      "Alternative Metric Pricing: pricing transactions on measures other than the industry per-unit standard, often closer to product value and customer benefits",
+      "Outcomes-based services: services where pricing is based on measurable results delivered to customers",
+      "Freemium model: a company offers two or more tiers of pricing, one of which is free, also called 'land and expand'",
+      "Land and expand: attempting to land with a freemium offer and expand with paid offers"
+    ],
+    "names": [
+      "GE",
+      "Michelin",
+      "Monsanto",
+      "LinkedIn",
+      "Dropbox",
+      "Evernote",
+      "New York Times",
+      "Wall Street Journal",
+      "Costco",
+      "Business Insider"
+    ],
+    "dates": [
+      "2011"
+    ],
+    "numbers": [
+      "$1 billion a year",
+      "20 percent revenue increase",
+      "100 percent value monetization",
+      "90 percent failure rate for land-and-expand approach",
+      "below 10 percent conversion rate in software companies",
+      "75 percent user loss after one day in video games",
+      "2 percent retention after one month in video games",
+      "150 million registered users",
+      "$1 billion valuation",
+      "$112 billion U.S. retailer"
+    ],
+    "places": [],
+    "terms": [
+      "alternative metric pricing",
+      "pay as you go",
+      "outcomes-based services",
+      "digital sensors",
+      "analytics software",
+      "perpetual license",
+      "freemium pricing",
+      "land and expand",
+      "customer acquisition",
+      "conversion rate",
+      "unicorn start-ups"
+    ],
+    "quotes": [
+      "It has monetized 100 percent of the value of its offering, exactly as Michelin has been doing with tires",
+      "An alternate pricing model can be very successful when you can align the metric directly to how customers perceive value",
+      "you are participating in the revenue your customers generate by using your product and services",
+      "It is extraordinarily difﬁcult to get consumers to buy something they previously received for free",
+      "The land-and-expand approach fails for 90 percent of companies"
+    ],
+    "actionable_lessons": [
+      "Use alternative metric pricing when your innovation creates significant value but traditional models cannot capture fair share of that value",
+      "Ensure you have total control over how customers use your product before implementing alternative metric pricing",
+      "Only pursue freemium model if you have very low production costs and minimal fixed costs",
+      "Test what benefits free customers will pay for before implementing freemium",
+      "Avoid giving away too much for free as it leaves premium offering with little value",
+      "Know exactly how many customers will be willing to pay before committing to freemium",
+      "Consider combining multiple monetization models rather than relying on a single approach"
+    ],
+    "open_questions": [
+      "What percentage of customers will actually convert from free to paid in a freemium model?",
+      "How can companies overcome consumer resistance to paying for previously free services?",
+      "What specific benefits should be reserved for premium offerings in a freemium model?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-005",
+    "source": {
+      "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+      "char_end": 34845,
+      "char_start": 27187,
+      "checksum": "0a2745c0b7a81fc9",
+      "source_pages": "95-112",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt"
+    },
+    "summary": "The chunk presents five key questions for choosing the right monetization model and discusses price structures. It emphasizes that how you charge matters more than how much you charge, and provides examples of tier-based and matrix pricing structures.",
+    "key_points": [
+      "Test what benefits customers will pay for and ensure a functional free experience",
+      "Avoid giving away too much for free as it diminishes premium offering value",
+      "Monetization models can be combined (e.g., subscription plus transaction fees)",
+      "Different customers have preferences for different pricing models",
+      "Monetization model choice should suit company lifecycle, competitive position, and customer relationships",
+      "Use monetization models to create competitive differentiation",
+      "Price structures account for different levels of usage and build on monetization models",
+      "How you charge trumps how much you charge"
+    ],
+    "arguments": [
+      "Customers almost always have preferences for certain pricing models, even when mathematically equivalent options are presented",
+      "A winning monetization model can help a firm leapfrog competition in ways a winning product alone cannot",
+      "Monetization model innovation itself can be the best innovation"
+    ],
+    "examples": [
+      "Costco charges membership (subscription) fee plus product purchase fees",
+      "OpenTable charges restaurants monthly subscription fee and transaction fee per diner reservation",
+      "Square's 2.5 percent no-hidden-fee model for startups",
+      "Michelin factored tire durability improvement into distance-based pricing model",
+      "Google's auction-based model anticipated low prices early and higher prices with increased demand",
+      "Netflix transformed video rental business with its monetization model",
+      "Payment processing service charging 3 percent per transaction with tiered rates based on volume"
+    ],
+    "stories": [],
+    "definitions": [
+      "Tier-based structure (volume-based structure): pricing that offers better rates as customer usage increases",
+      "Matrix model: two-dimensional pricing structure based on multiple metrics (e.g., volume and wallet share)"
+    ],
+    "names": [
+      "Costco",
+      "OpenTable",
+      "Michelin",
+      "Google",
+      "Square",
+      "Netflix",
+      "Blockbuster",
+      "General Electric",
+      "Uber"
+    ],
+    "dates": [],
+    "numbers": [
+      "$112 billion (U.S. retailer Costco)",
+      "2.5 percent (Square's fee model)",
+      "3 percent (payment processing example)",
+      "2 percent (lower tier rate)",
+      "100,000 to 500,000 (payment transactions per month)",
+      "500,000 to 1.5 million (transactions per month)"
+    ],
+    "places": [
+      "U.S."
+    ],
+    "terms": [
+      "monetization model",
+      "price structure",
+      "subscription",
+      "transaction fee",
+      "alternate metric model",
+      "pay per unit",
+      "volume-based structure",
+      "matrix model",
+      "wallet share",
+      "tier-based pricing"
+    ],
+    "quotes": [
+      "How you charge trumps how much you charge",
+      "Sometimes the best innovation is the innovation in the monetization model itself!"
+    ],
+    "actionable_lessons": [
+      "Test different monetization models with customers to discover their preferences",
+      "Conduct scenario planning around future developments and trends that impact your model",
+      "Ensure your monetization model suits your company's lifecycle stage and competitive position",
+      "Use monetization models to differentiate from competitors rather than mimic them",
+      "Assess implementation feasibility including data measurement, customer communication, and scalability",
+      "Factor in total cost of ownership and ultimate return when implementing complex models",
+      "Ensure your model drives value to customers and pricing is commensurate with delivered value"
+    ],
+    "open_questions": [
+      "What benefits will your customers actually pay for?",
+      "How likely are your customers to accept your chosen model?",
+      "How will future developments impact your monetization model?",
+      "Does your model choice fit your company's current stage?",
+      "What are competitors doing with their monetization approaches?",
+      "How difficult is your chosen monetization model to implement?"
+    ]
+  },
+  {
+    "chunk_id": "chapter-07-go-beyond-the-price-point-chunk-006",
+    "source": {
+      "chapter_title": "CHAPTER 7: Go beyond the Price Point",
+      "char_end": 36084,
+      "char_start": 34145,
+      "checksum": "468b107a29d8fab4",
+      "source_pages": "95-112",
+      "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt"
+    },
+    "summary": "Summary of monetization models and pricing structures. The chapter explains that how you charge matters more than how much you charge. Five primary monetization models are presented: subscription, alternate metric, dynamic pricing, auction, and freemium. Two price structures are discussed: volume-based and matrix-based pricing, which can be combined for flexibility in different usage scenarios.",
+    "key_points": [
+      "How you charge trumps how much you charge",
+      "Monetization models can confer significant competitive advantage on a new product or service",
+      "Five primary monetization models work well for most new product monetization: subscription, alternate metric, dynamic pricing, auction, and freemium",
+      "Pieces of these five models can be combined for a mix-and-match model",
+      "Two price structures (volume-based and matrix) provide flexibility to adjust for different levels of usage",
+      "Matrix pricing is two-dimensional while volume pricing is one-dimensional",
+      "In matrix pricing, higher volume of transactions and share of business result in better rates for customers"
+    ],
+    "arguments": [
+      "The best monetization models are a win-win for both the company and its customers",
+      "Not all models are applicable in every situation, requiring careful selection based on industry trends and customer needs"
+    ],
+    "examples": [
+      "Michelin case - example of monetization model done right"
+    ],
+    "stories": [],
+    "definitions": [
+      "Matrix pricing: a two-dimensional structure where the first dimension is volume and the second dimension is percent share of transactions (wallet share)",
+      "Wallet share: the percent share of transactions you receive from a customer"
+    ],
+    "names": [
+      "Michelin"
+    ],
+    "dates": [],
+    "numbers": [
+      "Five monetization models",
+      "Two price structures"
+    ],
+    "places": [],
+    "terms": [
+      "Tier-Based Pricing",
+      "Volume-based pricing",
+      "Matrix pricing",
+      "Subscription",
+      "Alternate metric",
+      "Dynamic pricing",
+      "Auction",
+      "Freemium",
+      "Mix-and-match model",
+      "Wallet share"
+    ],
+    "quotes": [
+      "How you charge trumps how much you charge",
+      "the best monetization models are a win-win for you and your customers"
+    ],
+    "actionable_lessons": [
+      "Consider which of the five monetization models (subscription, alternate metric, dynamic pricing, auction, freemium) best fits your new product",
+      "Evaluate industry trends when selecting a monetization model",
+      "Choose appropriate price structures (volume-based or matrix) based on expected customer usage variation",
+      "Ensure your organization has the right capabilities and infrastructure to execute the chosen monetization model and price structure",
+      "Consider combining pieces of different models for a customized approach"
+    ],
+    "open_questions": [
+      "What monetization model do we envision for our new product? Why is it the right one, and how did we choose it?",
+      "Which models did we not pick, and why?",
+      "What are the most important trends in our industry? How do they affect our choice of a monetization model?",
+      "How do we plan to monetize our product if customer usage varies significantly? Which price structures have we considered and why?",
+      "Do we have the right capabilities and infrastructure to execute the chosen monetization model and price structure?"
+    ]
+  }
+]
+```

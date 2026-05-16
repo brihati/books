@@ -1,0 +1,513 @@
+CHAPTER 6
+When Designing Products,
+Conﬁguration and
+Bundling is More Science
+Than Art
+S
+o you’ve segmented your customer base along the lines we laid out
+in Chapter 5: on their needs, the value of your offering, and their
+willingness to pay (WTP) for that value. Now you’re ready to get down
+and dirty into the design of what you’ll offer each customer segment—
+exactly what features and functions to deliver. There are two core design
+decisions you will need to make here. One is product conﬁguration, and
+the other is bundling. This chapter will examine and illustrate these
+important design constructs.
+But ﬁrst, a clariﬁcation: Our deﬁnition of product conﬁguration
+refers to the decision of which features and functionalities will be
+included in a product. In some industries, like software and tech,
+product conﬁguration is also referred to by the term packaging. By
+bundling, we mean combining a product or service with other products
+and services.
+Successful innovators get the product conﬁguration and bundling
+decisions right from the start.
+63
+Product Conﬁguration Done Right
+Doing product conﬁguration right means you design a product with the
+right features for a segment—that is, just the features customers are willing
+topay for.Thisisacoretenetofdesigningnewproductsthatwillsucceedin
+the marketplace. Too many features lead to feature shock products,
+especially if your customers are not wild about those features. If they
+are wild about them and you didn’t realize it, you design a minivation.
+Products with features that customers won’t pay for wind up undead.
+Let’s illustrate how product conﬁguration works when it’s done
+correctly. Do you remember the paper manufacturer we discussed in
+the last chapter? The company had identiﬁed four distinct customer
+segments, which it referred to as “want price only,” “want product
+only,” “want it now,” and “want the best.” The ﬁrm’s next task was
+deciding how to design offerings that best addressed each segment. The
+ﬁrm gave each segment the speciﬁc features it needed most—again, as
+determined by that segment’s needs, value, and WTP. This is captured
+in Figure 6.1.
+TheCoreofferingbecametheﬁrm’sbasicproduct,whichincludedthe
+core product at a very affordable price. This offering had the standard level
+for technology, application support, and logistics services, and no extra
+features. In contrast, the Product Plus and Logistics Plus offerings had
+additional features—according to each segment’s needs, value, and WTP.
+For instance, the Logistics Plus offering guaranteed next-day delivery of
+stock products and seven-day delivery of customized products. The
+offering also provided priority delivery in the event of inventory or
+capacity issues. The Best offering combined the features of the Product
+Plus and Logistics Plus offerings.
+In designing each offering, the company was guided by the elements
+customers were willing to pay for. The ﬁrm integrated product and
+service features into the three more expensive offerings (as compared to
+the “want price only” offering) because those customers indicated they
+would pay extra for them. The result was the ﬁrm priced its Best offering
+at a signiﬁcant premium compared to its base offering.
+By having their feature sets tailored to each segment’s needs, value,
+and WTP, each offering ﬁnally had a distinct value proposition. The
+design of these products also minimized the chances they would canni-
+balize one another, since customers clearly saw what they gave up at the
+64
+Monetizing Innovation
+lower price points. The way we like to put it is that the company
+established clear “fences” between its products. Customers only get a low
+price if they go without extra product or logistics services; the company
+can offer a low price on this product because value and costs are lower.
+What we’ve just described may sound simple to accomplish. On the
+contrary, it typically is anything but. Leaving out features from a new
+product is extremely difﬁcult for nearly every company in the product
+conﬁguration phase of product development. It is especially hard for
+ﬁrms that compete on the basis of quality and like to stuff value-adding
+features into their new products. However, if they succumb to this
+temptation, they greatly risk cannibalizing the products they designed for
+each segment. Had the paper company’s product developers felt the Core
+offering was far too basic and beefed it up with service and logistics
+features but kept the price the same, that product would have taken away
+Figure 6.1
+A Segment-Based Product Offering in a Business-to-Business
+Market
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+65
+customers who would have chosen the other three higher-priced
+offerings.
+To maximize the monetization potential of new products, compa-
+nies should curb their instincts to please customers by giving away
+value-added functionality—unless those customers will pay for it.
+These ﬁrms must get comfortable with the idea of giving their low-
+price segment only basic quality and service levels, rather than giving
+them everything. In other words, product conﬁguration requires the guts to
+take away features.
+Both product and service companies alike grapple with this problem
+of creating distinct offerings for each segment. Consider the experience of
+a regional European retail bank. Its executives asked us to look at the
+offering lineup for personal banking customers. Over time, the bank had
+added one new offering after the other. When we came in, the bank had
+30 different account offerings. But what looked good on paper did not
+work at all in reality. The large number of choices made it harder for the
+sales force to sell them. Neither customers nor the bank’s salespeople
+knew which offering was the best ﬁt for a given customer. Thirty
+offerings was far too many.
+We then interviewed a number of the bank’s customers. What they
+wanted, and were willing to pay for, could be boiled down into three
+customer segments: Comfort (peace of mind was, by far, this segment’s
+most important need, and they were willing to pay a high price for it);
+Direct (who preferred to do business online and rarely used the bank’s
+ofﬂine services such as visiting the branches); and Classic (who used the
+branches frequently and did not trust or like its online services). With the
+bank team we developed three new offerings, each of which addressed
+those segments. (See Figure 6.2.)
+The Comfort product came with all features and the highest price per
+month. The Direct and Classic products were offered at lower prices, but
+they lacked online or ofﬂine features.
+So what happened after the bank shrank its thirty products to three?
+You might think sales plummeted because customers had far fewer
+choices. On the contrary, sales skyrocketed. Why? The bank had ﬁnally
+made each product distinct; its sales staff could articulate each product’s
+value; and customers could easily determine which one best ﬁt their
+needs. Total annual proﬁt increased by 30 percent in the institution’s
+personal banking services unit.
+66
+Monetizing Innovation
+Bundling Done Right
+Bundling helps you determine whether your products and/or services
+should be sold together or separately.
+When done right, it can increase total proﬁt because customers end
+up buying more than they would have if you hadn’t bundled. Take an
+example many are familiar with: McDonald’s and its Value Meals. With
+the Value Meal, McDonald’s is trying to convince customers who might
+have skipped the soda or fries to go all in on the bundle. It’s a win-win.
+The customer gets soda and fries for an appetizing bundle price; for its
+part, McDonald’s realizes more revenue and proﬁt.
+You and your customers win when a good bundling decision is
+made. It not only boosts your revenue, it increases your customers’
+satisfaction because you’ve made the purchasing decision easier. They
+didn’t have to choose between A or B; they got both, and generally for
+less than they would have paid separately for A and B.
+Figure 6.2
+A Retail Bank’s Product Conﬁguration Decision
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+67
+Let’s take a look at the beneﬁts of bundling using a fun example—
+pizza and breadsticks—and an actual case study on Microsoft.
+THE PIZZA AND BREADSTICKS PUZZLE: TO BUNDLE OR NOT
+TO BUNDLE, THAT IS THE QUESTION
+Up for a challenge? Let’s see if you can crack this puzzle.
+Question: Imagine you own a world famous pizzeria that makes delicious
+pizza and cheese breadsticks. You have long wondered how to price your
+products. You study your customers and determine that you have four types, or
+segments. Segment A loves pizza and will pay as much as $9 for it but is not a
+big fan of breadsticks (they’ll only pay $1.50 for this). Segment D loves
+breadsticks and will pay $9 but doesn’t love pizza (they will only pay $2.50). The
+other two segments, B and C, fall in between A and D in WTP. You also ﬁnd out
+the size of your segments is the same—100 people in each. So your numbers
+are as shown in Figure 6.3.
+Since you operate in a transparent world (anyone can walk into your store,
+and you must post your prices), you cannot charge each segment a different
+price for each item (that is, you cannot sell pizza to segment A for $9 and the
+same pizza to segment C for $4.50). You can only set one price per item or
+bundle. Further, assume the WTP numbers in the table are the maximum a
+segment would pay for each item. If you offered any segment a product priced
+less than or equal to the maximum WTP, they would buy that item. If it is more
+than the maximum, they would not.
+(continued )
+Figure 6.3
+Pricing of the Pizza and Breadsticks
+68
+Monetizing Innovation
+Also assume you can sell to all 100 people in each segment, which means
+you have the chance to sell to 400 people in total. Your goal is to maximize
+revenue. So as an example, if you sell the pizza at $4.50 and the breadsticks at
+$5, you would make a total of $2,850, since at $4.50, segments A, B, and C will
+buy the pizza; at $5 for the breadsticks, segments B, C, and D would buy it. Total
+revenue would equal ($4.50 ∗3 ∗100) + ($5 ∗3 ∗100) = $2,850.
+Now that you understand the puzzle, answer this question: What is the
+maximum revenue you can make? Ready, set, go.
+Answer:
+Most people would say the answer is $3,300. They would arrive at this by setting
+the pizza price at $8 (segments A and B would buy it) and the breadstick price at
+$8.50 (segments C and D would buy it). Total revenue = ($8 ∗2 ∗100) +
+$(8.50 ∗2 ∗100) = $3,300. This is the maximum revenue you can generate if you
+cannot bundle.
+But what if you could bundle the pizza and the breadsticks? Some of you
+would have surely considered that option and landed at $4,200 as the answer.
+You could say to bundle the breadsticks and the pizza at $10.50. All four
+segments can afford it and would buy it. You would make a total of
+$10.50 ∗4 ∗100 = $4,200.
+Congratulations if you said that! Yes, bundling directly raised your revenue
+from $3,300 to $4,200 (a revenue increase of 27 percent).
+Are you convinced of the power of bundling? If you had racked your brain,
+you would have come up with $4,400 as the maximum revenue, not $4,200.
+Why? In this scenario, you would sell the pizza and breadstick bundle at $13;
+segments B and C would buy it. You would also sell the pizza and the
+breadsticks each at a stand-alone price of $9; segment A would buy the pizza
+and segment D would buy the breadsticks. Your total revenue would be
+($13 ∗2 ∗100) + ($9 ∗1 ∗100) + ($9 ∗1∗100) = $4,400.
+This is called mixed bundling, where you sell the products both as stand-
+alones and in a bundle. You generated 33 percent more revenue than selling
+them as stand-alones (which yields $3,300).
+If you answered $4,400, give yourself a pat on the back. When we present
+this puzzle to executives, less than 10 percent answer $4,400.
+Advance tip: Note that if you priced the stand-alone pizza and breadsticks at
+$9 each and the bundle at $13, it appears as if you gave a $5 discount on the
+bundle (compared to $18 for buying each stand-alone at $9). In reality, you didn’t
+discount at all. You just tapped into each segment’s WTP. However, you can
+“showcase” the bundle as if you had discounted it, which will further boost sales.
+If you do your math right across segments, you can often show discounting
+without actually discounting. How cool is that?
+(continued )
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+69
+Now let’s examine an actual example in practice to illustrate the
+beneﬁts of bundling: Microsoft’s iconic Ofﬁce software.
+Microsoft Ofﬁce: A Bundling Blockbuster
+Microsoft is a compelling example of a company that soared thanks to
+bundling. When it released its Ofﬁce suite of software in the 1990s, its
+customer base was used to paying for word processing, e-mail, spread-
+sheet, and presentation software applications separately. Microsoft
+pitched a discounted price for the bundle (as opposed to individual
+application prices), and it touted how convenient it was to have all the
+applications in the suite have a similar look and feel. The bundle helped
+the company cement customer loyalty and grow market share in the face
+of pressure from plucky, perfectly competent competitors that focused
+only on parts of the solution (such as Lotus 1-2-3 for spreadsheets and
+WordPerfect for word processing).
+Over time, Microsoft developed different versions of its Ofﬁce suite
+thatvariedinfunctionality.Thatletdifferentcustomersegments—business,
+(Continued )
+The answers we discussed are summarized in Figure 6.4 for ease of
+comparison.
+Figure 6.4
+Bundling of Pizza and Breadsticks
+70
+Monetizing Innovation
+home, and education customers—ﬁnd options that suited their different
+needs. By 2013, the Ofﬁce business division was Microsoft’s biggest,
+accounting for about a third of the company’s total revenue and more
+than 40 percent of operating proﬁt.1
+That’s the beneﬁt of bundling.
+Two Key Principles of Product Conﬁguration
+and Bundling
+When you conﬁgure and bundle your new product, you may get over-
+whelmed with deciding which features to include in each segment offer.
+In a different way, it is easy for customers to become overwhelmed trying
+todecidewhichofferisrightforthem.Designingyourproductwithleader,
+ﬁller, and killer features in mind will help you with that ﬁrst challenge.
+Creating good, better, and best options will address the second.
+Principle #1: Leaders, Fillers, and Killers
+You should approach your product conﬁguration decision strategically—
+that is, through monetization techniques—to avoid leaving money on
+the table. To determine what features you should bake into which
+product conﬁguration, you should start by separating the must-have
+features from the nice-to-haves. On their own, nice-to-haves won’t
+convince customers to buy a product.
+It’s equally important to think about which features might turn off
+customers. Critical features—what we call leaders—are what drive
+customers to buy a product. Customers have high WTP for such
+leader features. Fillers are features of moderate importance or nice-to-
+haves. In contrast, killers are features that will blow the deal if the
+customer is forced to pay for them.
+The leader/ﬁller/killer classiﬁcation is the most important aspect of
+conﬁguring your new product. We described methods for doing this in
+Figure 4.3 in Chapter 4. You can see the kinds of output that come from
+such classiﬁcations in Figure 6.5. Here, Feature 1 is a leader since the
+majority of customers ﬁnd value in it. In contrast, Feature 11 is a killer
+because a signiﬁcant portion of people see no value in it, and only a few
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+71
+ﬁnd it valuable. A killer feature should be eliminated from the offering,
+but it could be sold à la carte to the few who want it.
+Here’s an easy way to identify killer features: Look for those that are
+valued by less than 20 percent of your customers and are not valued at all
+by more than 20 percent.
+Sometimes, a product’s features may fall into one category for a
+certain customer segment and another category for a different group. For
+example, for drivers in the frigid north, heated car seats are a leader. But in
+very warm or tropical climates, they are a ﬁller (or even a killer if they add
+to the price of the car).
+Customer segmentation is your tool for identifying these distinc-
+tions—that is, which features each segment considers to be leaders, ﬁllers,
+and killers.
+Principle #2: Creating Good, Better, and Best Options
+The classic approach to product conﬁguration and bundling is to create a
+three-tier model, sometimes referred to as good, better, best or G/B/B.
+Figure 6.5
+How Customers Viewed a Product’s Features as Leaders/
+Fillers/Killers
+72
+Monetizing Innovation
+Typically, the good version has the most important core features, and the
+best has all the bells and whistles (the all-in product/bundle). You have
+probably come across this concept many times in everyday life: bronze,
+silver, and gold offerings. For example, the pro, business, and enterprise
+products offered by online ﬁle sharing website Dropbox are a G/B/B
+offering. Ideally, no more than a quarter of your customers should opt for
+the good option, while 70 percent should opt for the better or the best.
+Why does a well-crafted G/B/B conﬁguration/bundle work?
+Because you can steer customers to a choice based on whether they
+are price conscious (good), quality conscious (best), or somewhere in
+between (better). The core philosophy behind a G/B/B is that a
+signiﬁcant portion of people avoid extremes when they are presented
+a choice; they choose the compromise option. Playing on this psychol-
+ogy, G/B/B conﬁguration/bundling maximizes sales.
+Think of a sales negotiation. If the salesperson only has one product
+to sell, the discussion with customers is black-and-white—a “take it or
+leave it” proposition. But with a G/B/B offering, the salesperson can
+switch between the good offer (if the customer focuses on price), the best
+offer (if the customer talks quality), or the better offer (if the customer
+wants both price and quality). In most cases, the better offer greatly
+increases the probability that a salesperson closes a deal. It also maximizes
+the new product’s monetizing potential.
+But a word of caution: While three is the classic number of product
+conﬁgurations/offerings, you could still use a G/B/B structure with a
+greater number of conﬁgurations—as long as you provide more value as
+youmovefromthegoodtobestproductconﬁguration.Ideally,youshould
+design each product to appeal to a substantial segment you have identiﬁed.
+In addition,thenumber of productconﬁgurations youdecide onshouldbe
+aligned with the number of distinct customer segments you have.
+Insights, Tips, and Tricks
+Before you rush headlong into ﬁguring out your product conﬁgurations
+and bundles, here are 10 tips to guide you:
+1. Align with segments. If you’ve followed the principles in this
+book, your offers should align with your customer segments. That is,
+they should reﬂect each segment’s needs, value, and WTP. If you
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+73
+don’t design your offers with segmentation in mind, customers are
+unlikely to buy them.
+2. Don’t make it too big. Once you go beyond nine beneﬁts or four
+products, your product conﬁgurations and bundles run the risk of
+exceeding psychological thresholds. Your product will start making
+customers’ heads spin, and you will be heading toward producing a
+feature shock product!
+3. Make sure you and your customers both beneﬁt. The right
+product conﬁguration and bundling provide beneﬁts to both you and
+your customers (not just one or the other). The beneﬁts to you
+should include more revenue (through increased acquisition and
+cross-selling), decreased price transparency, and higher customer
+loyalty (or increased switching costs). The beneﬁts for customers
+include the added convenience of buying from a single provider,
+discounts, and an integrated experience from the bundle.
+4. Don’t give too much away in your entry-level product. In
+many industries, companies focus ﬁrst on acquiring customers and then
+upselling. This strategy is often called land and expand. To increase
+customer acquisition, many companies pack too much into their entry-
+level product. But then they struggle to upsell customers since the
+functionality difference in the better or best product is marginal at best.
+Consequently, these companies land but don’t expand. If more than
+50 percent of your customers have bought your entry-level product,
+you most likely have this problem. If so, you should seriously consider
+removing features from your entry-level product. The ideal distribu-
+tion of customers for a G/B/B product conﬁguration strategy is
+30 percent in good and 70 percent in better and best, with best being
+at least 10 percent.
+5. Hard bundling will not always work. The standard approach is
+called a mixed bundle: The consumer has a choice of buying the
+bundle or buying the components in the bundle à la carte. But some
+companies are more rigid. They employ hard bundling, which means
+they do not give the customer the option to buy components of the
+bundle piecemeal. Some vacations, for example, are priced as all-
+inclusive—transport, hotel, meals, drinks, and activities; you cannot
+just book the hotel by itself. Hard bundling works when you have
+market power and are the dominant player. In almost all other cases,
+you should go with a mixed bundling approach.
+74
+Monetizing Innovation
+6. Individual prices need to be higher with mixed bundling. If
+you create a mixed bundle and individual products are also sold
+separately, the à la carte price within the mixed bundle must be
+higher than the stand-alone optimal price in the unbundled situation.
+For example, if you hadn’t offered a bundle in the pizza and
+breadsticks example (see Figure 6.3), you would have priced the
+individual product at $8. But if you offered a mixed bundle, you
+would price it higher—in this case, at $9.
+7. Don’t forget bundle price communication. Bundling offers
+you the unique opportunity to showcase your prices creatively
+and strategically. Suppose a customer really likes Product A and
+considers Product B a nice-to-have. Assume both were priced
+at $100 and you are prepared to give a 20 percent discount on
+the bundle. Saying “You get 20 percent discount on total price of the
+bundle” is totally different than saying “You get a 40 percent
+discount on Product A when you purchase it with Product B.”
+Even though mathematically it amounts to the same price, customers
+are likely to ﬁnd the latter option more appealing.
+8. Bundle with integration value so that 1 + 1 = 3. Bundling is
+not always about discounting. In certain industries, such as soft-
+ware, you can sometimes charge a premium for bundling products
+together because customers are willing to pay for integrated
+product experiences (such as common user interface and seamless
+interoperability between products). In these situations, if you offer
+a discount on the bundle, you will hurt your bottom line two
+times over!
+9. Don’t bundle for the sake of bundling. You could lose a lot of
+money if you do. If customers would have purchased your individual
+products anyway, you are giving an unnecessary discount by bun-
+dling them.
+10. Exploit inverse correlations. This is an advanced tip. If you ﬁnd
+two customer segments with inverse preferences, you can bundle
+products together to serve both segments. For example, if one
+segment ﬁnds Product A a must-have and Product B a nice-to-
+have, and another segment ﬁnds Product B a must-have and Product
+A a nice-to-have, your best strategy may be to bundle A and B and
+sell one bundle to both segments.
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+75
+WHEN UNBUNDLING IS THE RIGHT ANSWER
+Sometimes the best bundling strategy is to unbundle. A number of companies
+have gone to market with a new product or service that broke apart the long-
+prevailing offering and item-priced features that had been all-inclusive. Ireland’s
+Ryanair is perhaps the best example.
+For much of airline industry history, carriers bundled most of the services they
+offered. The price the customer paid for a ticket included everything: baggage
+handling, food, drinks, pillows, and seat selection. The airlines saw it all as
+integral. How could any of those services be offered separately, unbundled?
+Then along came Ryanair. Launched in Ireland in 1985, the airline struggled in
+its ﬁrst few years of operation. In the early 1990s, with the goal of becoming
+Europe’s ﬁrst (and now largest) low-cost carrier, the company’s leaders decided
+to take a page from U.S.-based Southwest Airlines’ low-priced, short-haul
+strategy book.
+(continued )
+YOUR BUNDLE CHECKLIST
+We want to make sure you’re fully prepared for product conﬁguration and
+bundling. So along with our 10 tips, here are questions which will help you and
+your product team to develop the right product conﬁguration and bundling
+strategy:
+• Goals: How well does the product conﬁguration/bundle advance your stra-
+tegic and tactical goals?
+• Positioning: Will the conﬁguration/bundle enhance your company’s differen-
+tiation as a solutions provider?
+• Cross-selling: Will the conﬁguration/bundle generate awareness for ﬁller
+products that help you cross-sell?
+• Psychological thresholds: Does the conﬁguration/bundle exceed key psy-
+chological price thresholds? (It shouldn’t.)
+• Killers: Does the conﬁguration/bundle avoid including features or products
+for which customers have a very low willingness to pay?
+• Synergies: Do customers get more value when they use these features or
+products in combination instead of separately?
+• Convenience: How convenient is our conﬁguration/bundle for the customer?
+• Competitive reaction: Can we structure our conﬁguration/bundle in a way
+that avoids triggering an adverse competitive reaction?
+• Selling: Does the conﬁguration/bundle “speak” to customers?
+76
+Monetizing Innovation
+Summary
+Product conﬁguration and bundling are your key building blocks for
+designing the right products for the right segments at the right price
+points. Product conﬁguration is about putting the appropriate
+features and functionality—those customers need, value, and are
+willing to pay for—into the product; this process has to be done for
+each identiﬁed segment. Systematic product conﬁguration prevents
+you from loading too many features into a product and producing a
+feature shock.
+(continued )
+But Ryanair took Southwest’s strategy one giant step further: by rethinking
+product conﬁguration and bundling. It decided to unbundle the airline offering. It
+charged one price for any seat on every one of its planes—no special business
+class. However, it sold everything else—baggage services, food, and so on—à la
+carte.2
+In Europe, particularly in the United Kingdom, airline travel had been a luxury
+that many lower-income consumers couldn’t even consider. Then, suddenly, this
+new airline was charging previously unthinkably low fares: £9.99 for a seat from
+Bristol, England, to Barcelona, for example. Travel habits (and customer segments)
+began to change. (The “crazy” £9.99 fare campaigns still occur as of this writing.)3
+Ryanair made the bulk of its money through its unbundled product offerings.
+Customers paid a £6 administration fee (waived for those with a prepaid, £6
+Ryanair Cash Passport); they paid £10 to reserve a seat (rather than grab the ﬁrst
+available), and £15 to check a bag. By the time the average customer was done,
+that £9.99 fare was quadrupled.
+The overwhelming reason Ryanair’s unbundling strategy was successful is
+because customers paid far more attention to the base fare than to surcharges.
+In fact, most air travelers are about two times more price sensitive to the base
+fare than they are to the surcharges. Unbundling helped Ryanair achieve a much
+lower base fare, thereby making the offer look very attractive.
+Since unbundling the plane ride, Ryanair’s ﬁnancial performance has been
+staggering. Its annual revenue has multiplied 50-fold over three decades to €5
+billion. Net proﬁts also climbed 35-fold, from €15 million in 1995 to €522 million in
+2014.4 Even more impressive, its market capitalization was €19 billion at the time
+of this writing, while Lufthansa’s was €6.4 billion, even though the German
+airline’s revenues were six times higher than the Irish carrier’s.
+More than two decades later, budget-conscious customers continue to love
+Ryanair’s unbundling strategy. And so do the ﬁrm’s shareholders.
+When Designing Products, Conﬁguration and Bundling is More Science Than Art
+77
+(Continued )
+Bundling means selling your products and/or services together.
+If done right, this will increase total proﬁt because customers end up
+buying more than if the products were sold stand-alone. Also,
+customer satisfaction will go up because the buying decision is easier.
+Successful bundling beneﬁts both you and your customer.
+There are two key elements of the product conﬁguration and
+bundling process: establishing which features are leaders (must-
+haves), ﬁllers (nice-to-haves), and killers (features that will nix a
+deal if customers are forced to pay for them), and creating good/
+better/best options. While these might sound easy, they are two of
+the most difﬁcult challenges.
+Savvy product conﬁguration and bundling decisions have pro-
+pelled many new product launches, as ﬁrms like Microsoft and
+McDonald’s can attest.
+CEO Questions
+1. What are the product conﬁguration/bundles we plan to offer?
+Why did we pick these offers? Do they align with our key
+segments? If not, why not?
+2. What are the leader, ﬁller, and killer features for the new product
+or service our company is developing? How did we ﬁnd out?
+3. Have we explored a good/better/best approach to product
+conﬁguration and bundling? What do we expect sales to be
+for each product conﬁguration? Is the share of the basic product
+conﬁguration lower than 50 percent? If not, why not?
+4. Have we explored bundling our new product with existing
+products? What would be the beneﬁts for us and the customers?
+5. Have we considered unbundling as an opportunity? What would
+be the beneﬁts to customers and our business (if any)?
+78
+Monetizing Innovation

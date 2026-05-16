@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "the-strategy-and-tactics-of-pricing",
+  "chapter_id": "chapter-22-index",
+  "chunk_id": "chapter-22-index-chunk-003",
+  "source": {
+    "chapter_title": "Index",
+    "source_path": "/Users/sachin/books/files/The Strategy and Tactics of Pricing/chapters/22 - Index.txt",
+    "source_pages": "338-352",
+    "char_start": 13455,
+    "char_end": 21174,
+    "checksum": "a1cf4640fbd43467"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+306; reasonable probability of competitive injury 303–4; resale of supplier’s goods, promotional discrimination in 305–6; resale price ﬁ xing or encouragement 299–302; resale price maintenance (and encouragement) 301–2; Robinson-Patman Act (1936) 302, 303, 304, 305, 306, 308, 313–14n35–8, 314–15n44–6, 314n40; safe harbors 297, 310n8; sales to two or more purchasers 303; Sarbanes-Oxley Act (2002) 310n12; Sarbanes-Oxley Act (2002), effect on pricing practices 297–8; Securities Exchange Act (1934) 311n13; services, provision of 305; Sherman Act (1890) 298, 299, 300, 309, 310n9–10, 311n19, 313n33, 315n54–5, 316n58;  Spectrum Sports, Inc. v. McQuillan (1993) 316n58;  State Oil Co. v. Khan (1997)
+
+299–300, 311n25;  States v. Grinnell Corp. (1966) 316n58; summary 309;  Sylvania decision (US Supreme Court, 1977) 307; territorial restrictions 307–8;  Texaco Inc. v. Hasbrouck (1990) 314–15n44;  Text Messaging Antitrust Litigation (2010) 311n21; tying 308, 315–16n55–6;  United States v. Airline Tariff Publishing Co. (1994) 316n61;  United States v. Andreas (2000) 311n23;  United States v. Colgate & Co. (1919) 300, 312n28, 313n33; US Federal Trade Commission (FTC) 297, 302, 309, 310n10, 313n33–4; US Sentencing Commission Guidelines (2016) 310n9; Verizon Commc’ns Inc. v. Law Ofﬁ ces of Curtis V. Trinko, LLP. (2004) 316n58; vertical non-price restrictions 306–8; vertical price ﬁ xing 299–301, 311n17;  Volvo Trucks North America, Inc. v. Reeder-Simco GMC, Inc. (2006) 314n39;  Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co. (2007) 316n59;  Woodman’s Food Mkt., Inc. v. Clorox Co. (2016) 315n47 European Union (EU) 97, 297 Eurotunnel 99 EVE ® (Economic Value Estimation) 4, 29, 45, 47, 57, 62–3, 135; price and value communication 57, 62–3; price level setting 135; strategic pricing 4 Excel 284 exchange rate price adjustments 250–53 exit barriers, sunk costs and 163 expectations, buyer behavior and 107 expenditure effect 70 expenditure size 147 experimental purchase data studies 181–5 expertise, centers of 271, 272, 286 export prices in foreign currencies 248–53 F facilities, provision of 305 failure, discounting in compensation for 113–14 fairness: communication of 149; fairness effect, value communication and 72–3; norms of, consideration of 133, 148 Fazioli 137 Festool 137 ﬁ nancial analysis 207–39; additional performance 209–10; alternative price levels, ﬁ nancial implications of 213–18; assets, cost of 212; avoidable costs 212–13; Index 321 baseline sales 227–8; breakeven formula, derivation of 238–9; breakeven sales analysis, contribution, incremental ﬁ xed costs and, interrelationships between 222–3; breakeven sales analysis, price reduction situation 221–2; breakeven sales analysis for reactive pricing 219–21; breakeven sales change 214–15; breakeven sales change, calculation of 216–17; breakeven sales change, conversion between unit and cash values 217–18; breakeven sales change, variable costs change and 218–19; breakeven sales curves 223–7; case study, price changes for proﬁ t improvement 231–7; competitive analysis, variability in nature of 220–21; contribution margin 216–17, 219, 222, 227, 228, 229, 231, 233; demand price elasticity 213–14; ﬁ nance and marketing, relationship between 4; ﬁ nancial outcomes, mapping potential of 221–3; ﬁ xed costs, incremental costs and 208–9, 222–3; historical and replacement costs, distinction between 212–13; incremental costs 208–12; incremental costs, example of identiﬁ cation of 209–11; incremental costs, importance of identiﬁ cation of 209–12; incremental costs, non-incremental costs and, distinction between 208; incremental ﬁ xed costs 208–9, 222–3; last-in, ﬁ rst out (LIFO) accounting 212, 229n4; low-price sales, proﬁ tability and 211–12; next-in, ﬁ rst out (NIFO) accounting 212, 229n4; non-incremental ﬁ xed and sunk costs 228; opportunity cost, incremental costs and 210; price alternatives, evaluation of ﬁ nancial implications of 207–8; price changes for proﬁ t improvement, case study 231–7; price level evaluation 208; pricing decisions, ﬁ nancial considerations and 207; proﬁ tability of price changes, evaluation of potential for 214–18; reactive pricing, breakeven sales analysis for 219–21; relevant costs, identiﬁ cation of 208; revenue options, analysis of 211; sales volume, proﬁ tability and 214–15; semiﬁ xed incremental costs 209; student rush discount 210–11; summary 229; sunk costs, non-incremental ﬁ xed and 228; value-based pricing, cost-driven pricing and 228; variable costs, breakeven sales incorporating change in 218–19 Fitzgerald, F. Scott 207 ﬂ anking offers, development of 161 ﬂ exible pricing: price structure 79–80; pricing policy 127–8 focus-based positioning 157 Food Lion 162 Ford Mustang story 13–15 foreign currencies, management of export prices in 248–53 foreign market sales strategy 248–50 Fortune 500 264 Fox TV 161 Frank, Ronald E. 204n3 Frederik II of Denmark 94–5 Freeborn & Peters LLP. 309 Friedman, Thomas 204n10 FTC v. Borden Co (1966) 314n41 Fuld, Leonard M. 172n14 full-line forcing 308 function-speciﬁ c objectives in price setting 133–4 Futrelle, D. 75n13 G Gabor, A. and Granger, C. 75n12 game theory 153, 172n2 Gartner Inc. 24n14 Gawande, Atul 104n7 General Electric (GE) 60–61, 90, 290, 292n22 Gilbert, Jason O. 291n13 globalization of markets 2 Godiva chocolates 6 goods 303; services and, distinction between 314n40 Google 48; Google Shopping 31 Gourville, J.T. 24n18 Green, Kesten C. 155–6n3 Green, Paul E. 205n23 Greenberg, B.A. 206n28 Greene, William H. 204n7 grey market diversions, segmented pricing and 79 Grifﬁ n, Abbie 205n17 growth, price reductions and 244–5 H Hafner, K. and Stone, B. 24n13 Hall, William K. 260n10 Hanseatic League 93–4 Harmer, Dick 84 Harrison, John 68 Harvard Business Review 2–3 Harvard Business School 2, 104n8, 105n22, 133 Hauser, John R. 205n17 health maintenance organizations (HMOs) 62, 161 Heil, Oliver P. 172n15 Hellofs Linda L. 155–6n3 Henry, Brian R. 312n28 Hertz 21 Hesse, Herman 76, 104n1 Hewlett-Packard (HP) 164–5, 248 Hinterhuber, Andreas 291n8 historical and replacement costs, distinction between 212–13 historical data, analysis of 179–81 historical sales data, price sensitivity and 175–6 Hodgman, John 16 Hogal, Paul 75n2 Hogan, John 25n23, 75n2, 291n2, 292n16, 292n24 Index 322 Hohnen, David 93–5 Holiday Inns 260n1 Home Depot 73, 123, 124 horizontal price ﬁ xing 299 Hurricane Sandy 72 Hyundai 255, 261n19 I Iacocca, Lee 15 IBM 67, 248 in-depth interviews: customer interviews 35; price sensitivity, measurement of 189–91 in-store purchase experiments 181–2 incremental costs 208–12; example of identiﬁ cation of 209–11; importance of identiﬁ cation of 209–12; incremental ﬁ xed costs 208–9, 222–3; non-incremental costs and, distinction between 208 indirect purchasers, law and 306 Industrial Buying Power, Survey of 201 innovation: innovative pricing strategies 2; innovative products, underpricing of 6; pricing for 241–4; strategic pricing and 1–2 The Innovator’s Dilemma (Christensen, C.) 78 input decision rights 273 International Harvester Company (IH) 48–9 Interstate Circuit, Inc. v. United States (1939) 311n21 Intuit QuickBooks 30 J Jacobsen, Robert 155–6n3 Jenny Craig weight-loss program 61 Jeuland, Abel P. 260n8 Jobs, Steve 45 Johansson, Johny K. 206n32 John Deere 48–9 Johnson & Johnson Vision Care, Inc. v. Reyes (2016) 312n31 Jones, D. Frank 205n21 Justice Department (US), enforcement powers of 297, 302, 309, 316n61 K Kafka, Peter 291n9 Kahneman, D., Knetsch, J.L. and Thaler, R.H. 75n14 Kahneman, Daniel 104n3, 132n7 Kaiser Permanente 62, 85, 104n6 Kehoe, William J. 310n3–4 Kelvin, William Thomson, Lord 279, 292n17 Kinnear, Thomas C. 204n8, 205n16 KitchenAid 67
+>>>

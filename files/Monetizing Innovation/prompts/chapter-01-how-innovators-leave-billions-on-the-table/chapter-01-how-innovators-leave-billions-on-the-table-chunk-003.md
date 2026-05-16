@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-01-how-innovators-leave-billions-on-the-table",
+  "chunk_id": "chapter-01-how-innovators-leave-billions-on-the-table-chunk-003",
+  "source": {
+    "chapter_title": "CHAPTER 1: How Innovators Leave Billions on the Table",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/01 - CHAPTER 1 How Innovators Leave Billions on the Table.txt",
+    "source_pages": "19-30",
+    "char_start": 13281,
+    "char_end": 20926,
+    "checksum": "2f018ca65265f9be"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+nce what would happen if you increased your price by, say, 20 percent—that is, how that would likely affect demand and thus volume? 8 Monetizing Innovation If you are like thousands of companies that we’ve worked with over the years, you probably did not. Every one of them claims to have made an airtight business case to top management that vouches for their new product. But in only about 5 percent of those business cases can you ﬁnd information on how much customers will pay for the product. This means their revenue estimates are, at best, a guess. When you think about it, that’s stunning. The business case gives them a level of conﬁdence they should not have. It leads them down the path to
+
+failure. The most successful product innovators we know start by deter- mining what the customer values and what they are willing to pay, and then they design the products around these inputs and have a clear monetization strategy that they follow through with. That’s what LinkedIn did before it launched its Talent Solutions service for job recruiters, which now drives the lion’s share of the social networking site’s revenue and proﬁts. That’s what Porsche did with the Cayenne, and what Fiat Chrysler failed to do with the Dart. That’s what a large, global pharmaceutical company has done with new products since the turn of the millennium, which has helped the company grow enor- mously over the last 20 years. That’s what crystal maker Swarovski has done in developing new offerings for consumers, and for companies that embed its crystals in their products, to great ﬁnancial success. That’s what Dräger, a manufacturer of gas detection equipment, did in creating a hit new product that protects miners and other under- ground workers from gas leaks—a product whose sales were 250 percent higher than expected. That’s what a six-year-old software-as- a-service ﬁrm called Optimizely did in creating a software to help companies improve their websites’ abilities to sell their offerings, a software that has been used by thousands of customers. And that’s what Uber has done in shaking up the world of public transportation, while watching its private valuation soar toward $60 billion at the end of 2015. We’ll tell you much more about how LinkedIn, Porsche, Swarovski, Dräger, Optimizely, Uber, and an innovative pharma proﬁted from designing and developing products around the price in Chapter 13. This is the model that forward-looking, highly successful product innovators use—companies whose principles for monetizing innovations we will deconstruct in this book. How Innovators Leave Billions on the Table 9 Successful Innovation Matters More Than Ever Succeeding at product innovation is difﬁcult, and it always has been. Every other year, Simon-Kucher & Partners conducts the world’s largest survey on the state of pricing. Our 2014 report polled executives in 1,615 companies across the United States, Japan, Germany, and 37 other countries. The primary focus of the survey was to measure how well companies were monetizing their innovations across industries and geographies. The disappointing ﬁndings were reported in Harvard Busi- ness Review: 72 percent of new products introduced over the last ﬁve years failed—either to meet their revenue and proﬁt goals, or failed entirely. These ﬁgures applied equally to startups and large businesses in every industry surveyed.7 Numerous other studies over the last decade have said your chances of developing a successful innovation are not even as good as winning a coin ﬂip. For example: • 65 percent of new products fail, according to the Product Develop- ment and Management Association. That rate of failure cost U.S. companies $260 billion in 2010, according to researchers at the University of Texas at Austin.8 • 75 percent of venture capital–funded startups fail, according to a Harvard Business School study of 2,000 companies between 2004 and 2010.9 These numbers show something is very wrong with the way companies bring new concepts to market. No one is immune. As painful as it is to consider, the odds are stacked against all of us. Yet succeeding at innovating has never been more important than it is now. In the 2014 Simon-Kucher & Partners study, 83 percent of companies reported facing increasing downward pricing pressures. Most companies planned to innovate their way out of this dilemma: New products, new services, and new paths to growth. But innovators face an uphill climb for four primary reasons: 1. Traditional Research and Development (R&D) is becoming more expensive, not less. Costs are going up rapidly, without being offset by price increases. 10 Monetizing Innovation 2. Disruptive innovation now comes from smaller and smaller compa- nies, with lighter and lighter capital requirements, meaning they can be nimbler than your ﬁrm and take bigger risks. 3. Product innovation is no longer the preserve of the Western world, as evidenced by the United States and Europe’s declining shares of global R&D spending, and the growing share of China and other Asian countries. In fact, China is predicted to eclipse the United States in R&D spending by 2020.10 4. The rate of innovation is accelerating. A key signpost: Annual global patent applications leaped 2.5 times from 1995 to 2013, and in 2014 set a record for the number of patents ﬁled internationally.11 Those statistics are harrowing. But with a 72 percent global new- product failure rate, you can take comfort knowing that if you are facing problems successfully launching innovations, you are not alone. The Good News: Monetizing Innovation Failures Come in Only Four Varieties This book is the product of the lessons that Simon-Kucher & Partners has learned over the last 30 years while becoming the world’s largest pricing and monetization consulting ﬁrm, one with more than 900 employees in 32 ofﬁces around the world. Globally, we’ve conducted more than 10,000 projects for large multinationals, mid-size companies as well as start-ups across industries. We’ve seen what works and what doesn’t, what succeeds and what fails in product innovation. We’ve found recurring patterns in new product monetization failure. While you might think many types of ﬂaws can cause products to ﬂop in the marketplace, we actually have found that monetizing failures fall into only four categories: 1. Feature shock: cramming too many features into one product— sometimes even unwanted features—creates a product that does not fully resonate with customers and is often overpriced. 2. Minivation: an innovation that, despite being the right product for the right market, is priced too low to achieve its full revenue potential. How Innovators Leave Billions on the Table 11 3. Hidden gem: a potential blockbuster product that is never properly brought to market, generally because it falls outside of the core business. 4. Undead: an innovation that customers don’t want but has nevertheless been brought to market, either because it was the wrong answer to the right question, or an answer to a question no one was asking. The fact that new product monetization failures come in only four varieties should give you comfort. Imagine having to do postmortems that could point to dozens or hundreds of factors! You Can Avoid Failure—but Only If You Play by Different Rules Our experience allowed us not only to diagnose these monetization failure modes but to cure them—or even better, avoid them altogether. In this book, we have boiled these secrets down into the following nine new rules for innovation success. The rules are contrary to what most executives have learned about product development: 1.
+>>>

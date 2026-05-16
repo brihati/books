@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "crossing-the-chasm",
+  "chapter_id": "chapter-02-high-tech-marketing-illusion",
+  "chunk_id": "chapter-02-high-tech-marketing-illusion-chunk-007",
+  "source": {
+    "chapter_title": "High-Tech Marketing Illusion",
+    "source_path": "/Users/sachin/books/files/Crossing the Chasm/chapters/02 - High-Tech Marketing Illusion.txt",
+    "source_pages": "20-81",
+    "char_start": 41553,
+    "char_end": 49279,
+    "checksum": "82ea46b9e7c4ab7f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+l definition of market—principally, a concept called “the whole product”—but we will get to that later in the book. For now, let’s apply what we have to the three phases of high- tech marketing. The first of these is the early market. Early Markets The initial customer set for a new technology product is made up primarily of innovators and early adopters. In the high-tech industry, the innovators are better known as technology enthu­ siasts or just techies, whereas the early adopters are the vision­ aries. It is the latter group, the visionaries, who dominate the buying decisions in this market, but it is the technology enthu­ siasts who are first to realize the potential in the new product.
+
+High-tech marketing, therefore, begins with the techies. Innovators: The Technology Enthusiasts Classically, the first people to adopt any new technology are those who appreciate the technology for its own sake. For anyone old enough to have been raised on Donald Duck comic books from Walt Disney (a dwindling cadre, to be sure), Gyro Gearloose may well have been your first encounter with a, tech­ nology enthusiast. Or, if you were more classically educated, perhaps it was Archimedes crying, “Eureka!” at discovering the concept of measuring specific gravity through the displacement 38 Crossing the Chasm of water, or Daedalus, inventing a labyrinth and then the wings whereby one could fly out of it (if one did not fly too close to the sun). Or, for those who turn more toward movies and TV, more familiar examples of the type include Back to the Fu­ ture's Doc Brown or Data from Star Trek, or Sherlock Holmes as portrayed in the TV show Elementary. “Inventors,” “propeller heads,” “nerds,” “techies”—we have many labels for a group of people who are, as a rule and despite a tendency toward in­ troversion, delightful companions—provided you like to talk about technical topics. They are the ones who first appreciate the architecture of your product and why it therefore has a competitive advantage over the current crop of products established in the market­ place. They are the ones who will spend hours trying to get products to work that, in all conscience, never should have been shipped in the first place. They will forgive ghastly documen­ tation, horrendously slow performance, ludicrous omissions in functionality, and bizarrely obtuse methods of invoking some needed function—all in the name of moving technology for­ ward. They make great critics because they truly care. To give some high-tech examples, technology enthusiasts are the ones who buy HDTVs, home networking solutions, and digital cameras when they each cost well over a thousand dollars. They are interested in voice synthesis and voice rec­ ognition, interactive multimedia systems, neural networks, the modeling of chaos in Mandelbrot sets, and the notion of an artificial life based on silicon. At the moment I am writing this sentence they are logging on to Amazon Web Services with their credit card to test out their latest SETI hypothesis. Sometimes a technology enthusiast becomes famous— usually as the inventor of a lucrative product. In the world of High-Tech Marketing Enlightenment 39 PCs, Bill Gates started business life this way, but he may have forfeited his status somewhat as he became more Machiavellian. Marc Andreessen, on the other hand, has tried to stay more in role, although he too is looking more and more corporate. That could not be said, on the other hand, of such Internet founding stalwarts as Perl inventor Larry Wall, Apache cofounder Brian Behlendorf, or Linux creator Linus Torvalds. Birkenstocks for­ ever, man. Power to the People (oops, sorry, I’m having a 1960’s flashback). My personal favorite, though, was a fellow named David Lichtman, with whom I worked at Rand Information Systems m the late seventies and early eighties. Long before anyone was taking PCs seriously, David showed me one he had put together himself—including, as a peripheral, a voice synthesizer. This was sitting on his desk at work right next to a little microprocessor- driven box he had invented to fill out his time sheet for him. If you followed David home, you would find a house littered with cameras, sound equipment, and assorted electronic toys. And at work, whenever there was any question about how a particu­ larly arcane or intricate tool actually functioned, David was the man to ask. He was the archetypal technology enthusiast. In business, technology enthusiasts are the gatekeepers for any new technology. They are the ones who have the interest to learn about it and the ones everyone else deems competent to do the early evaluation. As such, they are the first key to any high-tech marketing effort. As a buying population, or as key influencers in corporate buying decisions, technology enthusiasts pose fewer require­ ments than any other group in the adoption profile—but you must not ignore the issues that are important to them. First, and most crucially, they want the truth, and without any tricks. 40 Crossing the Chasm Second, wherever possible, whenever they have a technical problem, they want access to the most technically knowledge­ able person to answer it. Often this may not be sound from a management point of view, and you will have to deny or restrict such access, but you should never forget that it is wanted. Third, they want to be first to get the new stuff. By working with them under nondisclosure—a commitment to which they typically adhere scrupulously—you can get great feedback early in the design cycle and begin building a supporter who will influence buyers not only in his own company but elsewhere in the marketplace as well. Finally, they want everything cheap. This is sometimes a matter of budgets, but it is more funda­ mentally a problem of perception—they think all technology should be free or available at cost, and they have no use for “added-value” arguments. The key consequence here is, if it is their money, you have to make it available cheap, and if it is not, you have to make sure price is not their concern. In large companies, technology enthusiasts can most often be found in the advanced technology group, or some such con­ gregation, chartered with keeping the company abreast of the latest developments in high tech. There they are empowered to buy one of almost anything, simply to explore its properties and examine its usefulness to the corporation. In smaller com­ panies, which do not have such budgetary luxuries, the tech­ nology enthusiast may well be the “designated techie” in the IT (information technology) group or a member of a product design team who either will specify your product for inclusion into the overall system or supply it to the rest of the team as a technology aid or tool. To reach technology enthusiasts, you need to place your message in one of their various haunts-—on the Web, of course. High-Tech Marketing Enlightenment 41 Direct response advertising works well with this group, as they are the segment most likely to send for literature, or a free demo, a webinar, or whatever else of substance you offer. Just don’t waste your money on a lot of fancy image advertising— they read all that as marketing hype. Direct email will reach them—and provided it is factual and new information, they read cover to cover. In sum, technology enthusiasts are easy to do business with, provided you 1) have the latest and greatest technology, and 2) don’t need to make much money. For any innovation, there will always be a small class of these enthusiasts who will want to try it out just to see if it works. That said, for the most part,
+>>>

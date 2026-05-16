@@ -1,0 +1,134 @@
+{
+  "pdf": "files/Monetizing Innovation/Monetizing Innovation.pdf",
+  "page_count": 259,
+  "mode": "toc",
+  "toc_level": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "CHAPTER 1: How Innovators Leave Billions on the Table",
+      "level": 2,
+      "start_page_1based": 19,
+      "end_page_1based": 30,
+      "out_file": "files/Monetizing Innovation/chapters/01 - CHAPTER 1 How Innovators Leave Billions on the Table.txt",
+      "char_count": 23856
+    },
+    {
+      "index": 2,
+      "title": "CHAPTER 2: Feature Shocks, Minivations, Hidden Gems, and Undeads",
+      "level": 2,
+      "start_page_1based": 31,
+      "end_page_1based": 48,
+      "out_file": "files/Monetizing Innovation/chapters/02 - CHAPTER 2 Feature Shocks Minivations Hidden Gems and Undeads.txt",
+      "char_count": 35708
+    },
+    {
+      "index": 3,
+      "title": "CHAPTER 3: Why Good People Get It Wrong",
+      "level": 2,
+      "start_page_1based": 49,
+      "end_page_1based": 54,
+      "out_file": "files/Monetizing Innovation/chapters/03 - CHAPTER 3 Why Good People Get It Wrong.txt",
+      "char_count": 8713
+    },
+    {
+      "index": 4,
+      "title": "CHAPTER 4: Have the \u201cWillingness-to-Pay\u201d Talk Early",
+      "level": 2,
+      "start_page_1based": 55,
+      "end_page_1based": 68,
+      "out_file": "files/Monetizing Innovation/chapters/04 - CHAPTER 4 Have the Willingness-to-Pay Talk Early.txt",
+      "char_count": 21755
+    },
+    {
+      "index": 5,
+      "title": "CHAPTER 5: Don\u2019t Default to a One-Size-Fits-All Solution",
+      "level": 2,
+      "start_page_1based": 69,
+      "end_page_1based": 78,
+      "out_file": "files/Monetizing Innovation/chapters/05 - CHAPTER 5 Dont Default to a One-Size-Fits-All Solution.txt",
+      "char_count": 18406
+    },
+    {
+      "index": 6,
+      "title": "CHAPTER 6: When Designing Products, Configuration and Bundling is More Science Than Art",
+      "level": 2,
+      "start_page_1based": 79,
+      "end_page_1based": 94,
+      "out_file": "files/Monetizing Innovation/chapters/06 - CHAPTER 6 When Designing Products Configuration and Bundling is More Science Than Art.txt",
+      "char_count": 30359
+    },
+    {
+      "index": 7,
+      "title": "CHAPTER 7: Go beyond the Price Point",
+      "level": 2,
+      "start_page_1based": 95,
+      "end_page_1based": 112,
+      "out_file": "files/Monetizing Innovation/chapters/07 - CHAPTER 7 Go beyond the Price Point.txt",
+      "char_count": 36085
+    },
+    {
+      "index": 8,
+      "title": "CHAPTER 8: Price Low for Market Share or High for Premium Branding?",
+      "level": 2,
+      "start_page_1based": 113,
+      "end_page_1based": 126,
+      "out_file": "files/Monetizing Innovation/chapters/08 - CHAPTER 8 Price Low for Market Share or High for Premium Branding.txt",
+      "char_count": 23847
+    },
+    {
+      "index": 9,
+      "title": "CHAPTER 9: From Hoping to Knowing",
+      "level": 2,
+      "start_page_1based": 127,
+      "end_page_1based": 136,
+      "out_file": "files/Monetizing Innovation/chapters/09 - CHAPTER 9 From Hoping to Knowing.txt",
+      "char_count": 18836
+    },
+    {
+      "index": 10,
+      "title": "CHAPTER 10: The Innovation Won\u2019t Speak for Itself",
+      "level": 2,
+      "start_page_1based": 137,
+      "end_page_1based": 150,
+      "out_file": "files/Monetizing Innovation/chapters/10 - CHAPTER 10 The Innovation Wont Speak for Itself.txt",
+      "char_count": 20160
+    },
+    {
+      "index": 11,
+      "title": "CHAPTER 11: Use Behavioral Pricing Tactics to Persuadeand Sell",
+      "level": 2,
+      "start_page_1based": 151,
+      "end_page_1based": 164,
+      "out_file": "files/Monetizing Innovation/chapters/11 - CHAPTER 11 Use Behavioral Pricing Tactics to Persuadeand Sell.txt",
+      "char_count": 24628
+    },
+    {
+      "index": 12,
+      "title": "CHAPTER 12 Maintain Your PriceIntegrity",
+      "level": 2,
+      "start_page_1based": 165,
+      "end_page_1based": 178,
+      "out_file": "files/Monetizing Innovation/chapters/12 - CHAPTER 12 Maintain Your PriceIntegrity.txt",
+      "char_count": 22931
+    },
+    {
+      "index": 13,
+      "title": "CHAPTER 13: Learning from the Best",
+      "level": 2,
+      "start_page_1based": 179,
+      "end_page_1based": 222,
+      "out_file": "files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+      "char_count": 99644
+    },
+    {
+      "index": 14,
+      "title": "CHAPTER 14: Implementing the \u201cDesigning the Productaround the Price \u201dInnovation Process",
+      "level": 2,
+      "start_page_1based": 223,
+      "end_page_1based": 234,
+      "out_file": "files/Monetizing Innovation/chapters/14 - CHAPTER 14 Implementing the Designing the Productaround the Price Innovation Process.txt",
+      "char_count": 22450
+    }
+  ]
+}

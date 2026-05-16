@@ -1,4 +1,4 @@
 interface:
   display_name: "Book The Mom Test Coach"
-  short_description: "Practice The Mom Test with local preserved content."
-  default_prompt: "Use $book-the-mom-test-coach to practice The Mom Test with role-play, debriefs, and chapter-grounded coaching."
+  short_description: "Ask customer questions about real past behavior instead of compliments or hypotheticals."
+  default_prompt: "Use $book-the-mom-test-coach to improve these customer discovery questions, avoid bad data, practice interviews, and ground the coaching in The Mom Test."

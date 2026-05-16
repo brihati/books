@@ -1,0 +1,932 @@
+Conclusion:
+Leaving the Chasm Behind
+It has long been fashionable to talk about how high-tech com­
+panies can and should become market-driven organizations. My 
+own view, however, is that there is not any becoming involved. 
+All organizations are market-driven, whether they acknowl­
+edge it or not. The chasm phenomenon—the rapid acceleration 
+in market development followed by a dramatic lull, occurring 
+whenever a discontinuous innovation is introduced—drives all 
+emerging high-tech enterprises to a point of crisis where they 
+must leave the relative safety of their established early market 
+and go out m search of a new home in the mainstream. These 
+forces are inexorable—they will drive the company. The key 
+question is whether management can become aware of the 
+changes in time to leverage the opportunities such awareness 
+confers.
+Thus far we have been treating the chasm as a market de­
+velopment problem and have focused exclusively on market­
+ing strategies and tactics for crossing it. But the impact of the 
+chasm extends beyond the marketing organization to every 
+other aspect of the high-tech enterprise. In this final chapter, 
+214
+Crossing the Chasm
+therefore, we are going to step back from the marketing view 
+and look at three other critical arenas of change: finance, orga­
+nizational development, and R&D. Our goal throughout is to 
+guide behaviors that keep the enterprise moving forward into 
+the mainstream marketplace and not, as so often happens, let­
+ting it fall back into the chasm.
+The fundamental lesson of this chapter is a simple one: The 
+post-chasm enterprise is bound by the commitments made by the pre­
+chasm enterprise. These pre-chasm commitments, made in haste 
+during the flurry of just trying to get a foothold in an early 
+market, are all too frequently simply unmaintainable in the 
+new situation. That is, they promise a level of performance or 
+reward that, if delivered, would simply destroy the enterprise. 
+This means that one of the first tasks of the post-chasm era may 
+well be to manage one’s way out of the contradictions imposed 
+by pre-chasm agreements. This, in turn, can involve a major 
+devaluation of the assets of the enterprise, significant demotions 
+for people who are unsuited to the responsibilities implied by 
+their titles, and marked changes in authority over the future of 
+the product and technology—all of which is likely to end in 
+bitter disappointments and deep-seated resentment. In short, it 
+can be a very nasty period indeed.
+The first and best solution to this class of problems is to avoid 
+them altogether—that is, avoid making the wrong kind of commit­
+ments during the pre-chasm period. By looking ahead at the outset, 
+while we are still in the early market phase, to where we must 
+go in order to survive the chasm crisis, we can vaccinate our­
+selves against making the kind ofcrippling decisions that doom 
+so many otherwise promising high-tech enterprises.
+Let me acknowledge that this is much harder to achieve than 
+it looks. I am reminded of the many times as an adolescent when
+Leaving the Chasm Behind
+215
+I was sagely advised that I was making some very bad choices
+because I was “going through a phase.” I loathed that advice.
+First, it made me feel vaguely inadequate and rather inferior to
+the person giving it. And second, even though I suspected it
+to be true, it was totally useless information. I might be going
+through a phase, but since I was in the phase, and was therefore
+doomed to perform in some incompetent way, what good was
+this knowledge? How could I stop being myself?
+That, however, is exactly what the high-tech enterprise
+must accomplish to leave the chasm behind. It must stop “being
+itself”—in the sense that it must accept that it is going through
+a phase and act competently with that knowledge.
+To leave the chasm behind, there is a molting process that
+must occur, a change of company self, wherein we grow away
+from celebrating familial feelings and dashing individual per­
+formances and step toward rewarding predictable, orchestrated
+group dynamics. It is not a time to cease innovation or to sacri­
+fice creativity. But there is a call to redirect that energy toward
+the concerns of a pragmatist’s value system instead of a vision­
+ary’s. It is not a time to forgo friendships and implement an
+authoritarian management regime. Indeed, management style
+is one of the few things that can remain constant during this
+period of transition. But there is a call to review and revalue the
+skills and instincts and talents that helped to build a winning
+position in the early market in light of the impending challenge
+of building one in the mainstream. And that call can and will
+test friendships and egos throughout the firm.
+The principles and practices for successful post-chasm man­
+agement of financial, organizational, and product develop­
+ment issues are all significantly different from their pre-chasm
+counterparts, and not everyone is adaptable or amenable to the
+216
+Crossing the Chasm
+changes required to operate in the new order. The good news
+is, in either case, there will always be plenty of jobs. That is,
+while individual high-tech enterprises have shown a very er­
+ratic track record over the past three decades, the sum total of
+revenue and employment of the industry as a whole has grown
+dramatically. We all need to remember this during the chasm
+reshuffling.
+Specifically, our goal is to establish a new set of behavioral
+norms, not to convert individuals to a new style of behavior.
+Our job is to provide a framework for helping individuals un­
+derstand for themselves where they will best fit in and then let
+them take appropriate action. Some transitions may have to be
+forced—there really is no time to dillydally—but even then,
+one can hope to redirect talent to a more natural home for itself.
+With that thought in mind, let us turn to the first and most
+influential set of decisions that post-chasm enterprises inherit
+from their pre-chasm selves—the financial ones.
+Financial Decisions: Breaking the Hockey Stick
+The purpose of the post-chasm enterprise is to make money. This
+is a much more radical statement than it appears.
+To begin with, we need to recognize that this is not the
+purpose of the pre-chasm organization. In building an early
+market, the fundamental return on investment is investor risk re­
+duction, accomplished through converting an amalgam of tech­
+nology, services, and ideas into a replicable deploy able offer­
+ing and proving that there are customer use cases that create a
+demand for this offer. Early market revenues are one measure of
+Leaving the Chasm Behind
+217
+this demand, but they are typically not—nor are they expected 
+to be—a source of profit. As a result, the early market organiza­
+tion is not required to adopt the discipline of profitability.
+Nor does the pre-chasm organization motivate itself by profit­
+ability, or typically any other financial goal. Oh, to be sure, there 
+are the get-rich dreams that float in and out of idle conversation. 
+But there are much headier rewards closer at hand—the freedom 
+to be your own boss and chart your own course, the chance to 
+explore the leading edge of some new technology, the career­
+opening opportunity to take on far more responsibility than any 
+established organization would ever grant. These are what really 
+drive early market organizations to work such long hours for 
+such modest rewards—the dream of getting rich on equity is 
+only an excuse, something to hold out to your family and friends 
+as a rationale for all this otherwise crazy behavior.
+So early market entrepreneurs are not called to focus on, 
+nor are they oriented toward, making money. This has enor­
+mous significance, as most management theory assumes a profit 
+motive present, serving as a corrective check against otherwise 
+alluring tactics. When that motive is not present, people make 
+financial commitments that have consequences they either do 
+not, or do not care to, foresee. Although this comes in many 
+and varied forms, perhaps its most prevalent one is the hockey 
+stick forecast of revenue growth.
+Entrepreneurs may be many things when it comes to finan­
+cial issues, but they are typically not slow on the uptake. If ven­
+ture capitalists are the ones with the money, and a hockey stick 
+forecast is one of the rules you follow to get that money, then 
+they will be sure to follow those rules. And so entrepreneurs 
+raise capital using “hockey stick” graphs of revenue attainment.
+218
+Crossing the Chasm
+That is, they bring forward a business plan that shows no rev­
+enue development for some period of time—as long as they 
+possibly can defer—after which there is a sharp inflection in the 
+curve, and rapid, continuous, and what any sane person would 
+call miraculous revenue growth from there on. As a form, it is 
+as precise and conventional as a love sonnet—and just as likely 
+to get one into trouble.
+Hockey stick curves are created by spreadsheets, a software 
+tool that many have argued has driven some of the worst invest­
+ment decisions in our sector’s history. It is so easy to increment 
+a revenue number by a percentage and just let the software take 
+it from there. Now in theory, this revenue line approximates a 
+real profile of how the company could capitalize on a develop­
+ing market opportunity. As such, it would serve as the “master 
+line” in the spreadsheet, the one to which all others must ac­
+count. That is how profitable operations work.
+In fact, however, the revenue line is a slave—and to not just 
+one but two masters. At the front end, it is slave to the entre­
+preneur’s cost curve, and at the back, to the venture capitalist’s 
+hockey stick expectations. Revenue numbers, under this meth­
+odology, are . . . well, whatever they have to be. Once that sum 
+is identified, then market analyst reports are scoured for some 
+appropriate citations, and any other source of evidence or credi­
+bility is enlisted, to justify what is a fundamentally arbitrary and 
+unjustifiable projection of revenue growth.
+Now, if the current model of high-tech market development 
+were not flawed, this might work, or at least work better or 
+more often. But in fact, the revenue development that actually 
+occurs looks more like a staircase than a hockey stick. That is, 
+there is an initial period of rapid revenue growth, representing 
+the development of the early market, followed by a period of 
+Leaving the Chasm Behind
+219
+slow to no growth (the chasm period), followed by a second 
+phase of rapid growth, representing return on one’s initial 
+mainstream market development. This staircase can continue 
+indefinitely, with the flat periods representing slower growth 
+due to transitioning into adjacent mainstream segments, and the 
+rapid rises representing the ability to capitalize on those efforts. 
+As more and more segments are served, sooner or later the ups 
+and downs begin to cancel each other out, and one can achieve 
+the less bumpy results that Wall Street greatly prefers. (In fact, 
+only the most successful high-tech companies have achieved 
+such a state; most continue to fluctuate more dramatically than 
+the financial community can understand, with the result that 
+their stocks routinely take a vicious beating at the slightest indi­
+cation of bad news.)
+All this is well and good. The staircase model is perfectly 
+viable—unless you have mortgaged your stake in the company on 
+making the hockey stick scenario come true. That, unfortunately, 
+is precisely what most high-tech funding plans commit to. And 
+when the hockey stick scenario does not come true, and the mort­
+gage comes due, the founder’s equity gets radically diluted, things 
+fall apart, and the company dies in the chasm. That is the course 
+sketched out in the high-tech parable in chapter 1 of this book.
+Now, the venture community has long been aware of this 
+problem. Cynics in high tech believe they count on it—that’s 
+how the “vulture capitalists” take over the company from the 
+unwitting entrepreneur. But the truth is, such a strategy is a 
+lose-lose proposition, and most investors know it. They may 
+call it “the valley of death” instead of the chasm, but they know 
+it is there. All they have to do is look at their own portfolios.
+The question now becomes, if we have the chasm model 
+to work with, what can we do differently? This question really 
+220
+Crossing the Chasm
+breaks into two parts—one directed to the financial commu­
+nities that provide the sources of capital, and the other to the 
+high-tech executives who provide the sources of management. 
+For the former, the key issue is how to reformulate its concepts 
+of valuation and expected rate of return, and for the latter, it is 
+when to spend capital and when to adopt the discipline of prof­
+itability. Let’s look at both of these more closely.
+The Role of the Venture-Financing Community
+All investment is a bet on performance against competition 
+within time. What the chasm model surfaces is a need to re­
+think these variables. From the investment point of view, the 
+most pressing question initially is, How wide is the chasm? Or, 
+to put this in investment terms, How long will it take before 
+I can achieve a reasonably predictable ROI from an acceptably 
+large mainstream market?
+The simple answer to this question is, as long as it takes 
+to create and install a sustainable whole product. The chasm 
+model asserts that no mainstream market can occur until the 
+whole product is in place. A reasonable corollary, I believe, is 
+that once the whole product is in place—m other words, has 
+become institutionalized—the market will develop quickly— 
+normally, although not necessarily, around the company that 
+drove and led the whole product effort.
+Can we predict how long this will take? I think so. By ana­
+lyzing the target customer and the compelling reason to buy, and 
+then dissecting all the components of the whole product, we can 
+reduce this process to a manageable set of performance factors,
+Leaving the Chasm Behind
+221
+each of which can be projected ahead in time, with an estimated 
+point of convergence. It’s not a science, but it’s not a black art, 
+either: It is, m essence, just another kind of business plan.
+Supposing this plan has some credibility, a raft of other 
+questions immediately follow. How big will this market be? 
+Again, the simple answer is, As big as can be motivated by 
+the target market’s use case—its compelling reason to buy—as 
+served by the whole product. Market boundaries occur, in other 
+words, at the point of failure of either the value proposition 
+or the whole product. By contrast, the other market-making 
+factors—alliances, 
+competition, 
+positioning, 
+distribution, 
+and 
+pricing—do not impact the size of market but rather the rate of 
+market penetration. Given free market economy incentives, ef­
+ficient solutions in these areas will fall into place sooner or later 
+if the market is truly there.
+If all the preceding assertions are true—and that is certainly 
+something that warrants further investigation in any specific 
+case—then all the key factors of the investment decision are 
+reasonably out in the open, and the decision itself can be made 
+without having to consult the entrails of a sacrificial animal. 
+Estimates of market size, rate of penetration, cost to achieve 
+market leadership, and anticipated market share can all be made 
+in the light of day, without smoke and without mirrors. There 
+will still be plenty of room for disagreement about probability 
+of success and degree of risk, but there should not be any funda­
+mental leap of faith demanded.
+So the call to action to the investment community is, Make 
+your client companies incorporate crossing the chasm into 
+their business plans. Demand to see not only broad, long-term 
+market characterizations but also specific target customers for 
+222
+Crossing the Chasm
+the D-Day attack. Drive them to refine their value propositions 
+until they are truly compelling, and then use these to test how 
+many target customers there truly are. Force them to define 
+the whole product, and then help them to build relationships 
+with the right partners and allies. Again, use the results to test 
+hypotheses about market size. As for competitive sets and posi­
+tioning, beware of pushing your small fishes too soon into big 
+ponds. And as for distribution and pricing, don’t look for “stan­
+dard margins” until the chasm has truly been crossed. To sum 
+up, use the crossing-the-chasm matrix of ideas to ensure proper 
+management of financial assets.
+The Role of the Venture-Managing Community
+Now let’s turn to the entrepreneur’s key concern: How long 
+should I live off of venture capital, and when should I adopt the 
+discipline of break-even cash flow? The bounds of this decision 
+work as follows. Until break-even cash flow is achieved, noth­
+ing is secure, and your destiny is not under your own control. 
+This argues for early adoption of the profitability path. In fact, 
+in slow-developing markets with low capitalization require­
+ments, there is a very strong case for adopting profitability from 
+day one. Early visionary customers will pay consulting fees and 
+prepay royalties to help fund low-capitalization start-ups. From 
+an accounting view, these prepaid royalties cannot be booked 
+immediately as revenue, but they can make you cash-flow pos­
+itive from day one, and thus keep 100 percent of the equity 
+reserved for a later date.
+The great benefit of adopting the discipline of profitability 
+at the outset is that you do not have to learn it later on. All too 
+Leaving the Chasm Behind
+223
+frequently, even when they are led by experienced managers,
+enterprises that are venture funded for long periods of time fall
+into a “welfare state mentality,” losing their sense of urgency,
+and looking for their next paycheck to come from yet another
+round of financing instead of from the marketplace.
+Moreover, the discipline of profitability teaches you to “just
+say no” early and often. For most ideas there simply isn’t any
+money to fund them. The enterprise is forced to focus drastically
+just because of resource constraints. This radically reduces time to
+market because people are not focused on doing something else
+and because they understand it is the market that is paying their
+paychecks. And finally, when one does go seeking external cap­
+ital, there is no stronger evidence for a high company valuation
+than it having already demonstrated not only real market demand
+but also its own ability to process that demand profitably.
+Indeed, the case for seeking profitability from the begin­
+ning is so strong, you begin to wonder why you would ever
+not choose this route. Essentially, there are two reasons. First,
+the price of category development and market entry is often
+simply too great to fund with sweat equity or consulting con­
+tracts. This is clearly the case in any manufacturing-intensive
+operation. Today, however, with the move to outsourced man­
+ufacturing, when companies like Cisco ship as much as 45 per­
+cent of their products without ever touching them, when fabless
+semiconductor companies use foundries for all their goods,
+and when there is even such a thing as a chipless semiconductor
+company, Rambus, which simply licenses a patented memory
+interface architecture, it is more a matter of getting the team
+on board and the engineering in place than it is putting in
+place a line or ramping up inventory. Still, there are always
+real costs associated with a physical goods business model, and
+224
+Crossing the Chasm
+they will inevitably exceed a pay-as-you-go budget, so a lot of
+venture funding goes to supporting just this sort of enterprise.
+The other reason to forgo initial profitability is when the
+category is expected to develop so rapidly that you cannot afford
+to grow organically as a bit player. The explosion of the Inter­
+net has created a land-grab mentality heretofore unknown, and
+everyone is racing to beat out competitors in capturing market
+share. Google’s capturing the number-one position in search,
+Amazon’s achievement in retail and more recently m Web ser­
+vices, and Facebook’s success in social networking all have
+translated into dramatic surges in market capitalization that
+have left their competitors seemingly permanently behind. In
+that kind of game, the race really is to the swiftest, and second
+prize is a long way back from first, so spending early and big is
+seen as the key to success.
+Beyond this there is a third, more general principle that can
+help entrepreneurs think through their management of capital
+for marketing purposes. In this realm, it is typically more capital
+intensive to cross the chasm than it is to build the early market.
+Early market development efforts typically do not respond well
+to massive infusions of capital—in the 1980s we saw this with
+the IBM PC Jr. and Prodigy; m the 1990s with pen-based com­
+puters and video-to-the-home, in the last decade with RFID
+chips for inventory management and smart grids for electric
+power distribution. You simply cannot spend your way into the
+hearts and minds of technology enthusiasts and visionaries.
+To be sure, there is a minimum level of capitalization required.
+You have to be able to travel to make direct sales calls, and show
+up looking presentable, and you probably should have an office
+and a phone that is answered in a professional way. You do need
+to invest in early market public relations—the product launch is
+Leaving the Chasm Behind
+225
+crucial to building early market success—but you do not need to 
+advertise, nor do you need to invest in developing partnerships 
+or building channel relationships. All this is premature until you 
+have established some early market credibility on your own.
+Once early market leadership has been established, however, 
+the entire equation changes. The whole product investment— 
+securing the partnerships and alliances and then making them 
+work to deliver the final goods—takes a significant number of 
+funded initiatives. So does the channel development process, 
+both on the pull and on the push sides, creating demand and 
+providing incentives for sales. And it is critical during this period 
+to have an effective marketing communications program, in­
+cluding press relations, market relations, and advertising.
+In sum, this is when you want to spend your market devel­
+opment money—not before. It is important, therefore, that you 
+not start this process until after you have established early market 
+leadership, and that you not commit to throwing off all kinds of 
+cash during the chasm period. Simply applying these two con­
+cepts to the business plan can keep you out of a lot of trouble.
+Organizational Decisions:
+From Pioneers to Settlers
+Turning from issues of finance to issues of people, we must 
+recognize that the chasm inherently separates visionaries from 
+pragmatists—not only among the customers for technology­
+based offerings but also among the companies that serve them. 
+To leave the chasm behind, to cross it and not fall back into it, 
+involves a transformation in the enterprise that few individuals 
+can span. It is the move from being pioneers to becoming settlers.
+226
+Crossing the Chasm
+In the development organization, pioneers are the ones who
+push the edge of the technology application envelope. They
+do not institutionalize. They do not like to create infrastruc­
+ture. They don’t even like to document. They want to do great
+deeds, and when there are no more great deeds to be done, they
+want to move on. Their brilliance fuels the early market, and
+without them, there would be no such thing as high tech.
+Nonetheless, once you have crossed the chasm, these people
+can become a potential liability. Their fundamental interest is
+to innovate, not administrate. Things like industry standards
+and common interfaces and adaptations to installed solutions,
+especially when these solutions are clearly technically inferior,
+are all foreign and repugnant to the high-tech pioneers. So as
+the market infrastructure begins to close in around them, they
+are already looking for less crowded country. In the meantime,
+they are not likely to cooperate in the compromises needed and
+can be highly disruptive to groups that are seeking to carry
+this agenda out. It is critical, therefore, that as the enterprise
+shifts from the pro duct-centric world of the early market to the
+market-centric world of the mainstream, pioneer technologists
+be transferred elsewhere—either to another, more futuristic
+project within the enterprise, or if that is not an option, to an­
+other company where their talents can be better utilized.
+There is a comparable process going on m the sales force at
+the same time. Here the group at the forefront is the high-tech
+sales pioneers. These are people who have the gift of selling
+to visionaries. They are able to understand the technology and
+product at a level where they can readily manipulate it and adapt
+it to the dreams of the visionaries. They can talk the visionaries’
+language, understand the quantum leap forward that visionaries
+seek to achieve, and wrap their products in that cloak. They can
+Leaving the Chasm Behind
+227
+translate that language back into concrete manifestations of the 
+product, to be illustrated through custom demos, for which they 
+make insatiable demands. They can think big, and they can get 
+big orders. They are the darlings of the early market. Without 
+them, achieving early market leadership is all but impossible.
+These same people, however, also become a liability 
+once you have crossed the chasm. Indeed, they are the ones 
+primarily responsible for dragging companies back into the 
+chasm. The problem is, they cannot stop making the visionary 
+sale, a sale predicated on delivering custom implementations 
+of the whole product. Such contracts are fulfilled by robbing 
+from Peter—the mainstream R&D effort—to pay Paul—the 
+custom R&D effort necessary to achieve the visionaries’ buying 
+objective. The key to leaving the chasm behind is to stop 
+custom developments and institutionalize the whole product, 
+to build to a set of standards that the marketplace as a whole, or 
+at least one segment of it, can support. This mainstream effort 
+necessarily puts enormous strain on the R&D department, who 
+must not, therefore, be distracted by yet another wild and crazy 
+venture. And so it is that a pioneer salesperson left unchecked 
+can be highly disruptive and demoralizing to a sales organiza­
+tion looking to leave the chasm behind.
+So now we have two sets of people—technology pioneers 
+and pioneer salespeople—who are fundamental to success in the 
+early market and potentially a liability after the company has 
+crossed the chasm. They must be outplaced, but who is compe­
+tent to do so? And how, in the world will their knowledge ever 
+be replaced? And who is going to take over what they leave 
+behind? And is any of this moral or fair, given their contribu­
+tions to date?
+I know of no high-tech firm that has not struggled with 
+228
+Crossing the Chasm
+these issues sooner or later. And how you respond affects not
+only those who leave but also those who stay. This is a time
+when you must perform impeccably.
+Let’s deal with the moral issue first. And let us take as our
+starting point that'casting aside people, dislocating their lives
+and threatening their livelihood, is immoral—even if businesses
+and governments routinely do so with abandon. The issues then
+become ones of foresight, agreement, planning, and preparation.
+Pioneers do not want to settle down. That is not in their best in­
+terest nor in the interest of the companies that employ them. If,
+at the beginning of the process, everyone can acknowledge this
+fact, and acknowledge that the very goal of pioneers, the final
+manifestation of their success, is to create a mainstream market
+and thereby put themselves out of a job, then we can have a rea­
+sonable basis for going forward. How we would go forward and
+under what kind of compensation program is a discussion we
+need to postpone until we look at how to make the transition to
+the other side of the equation, to the settlers who are expected
+to come in and take their place.
+The truth is, of course, that settlers do not take pioneers’
+places. They take other places, ones that pioneers have never
+occupied nor would ever choose to. Nonetheless, settlers do
+take over the employment roster, including the management
+positions, the authority, and ultimately the budget. And they
+build fences and create laws (called procedures) and do all the
+things that led to range wars between pioneers and settlers back
+m the Old West. All this bodes well for the post-chasm market­
+place, populated with pragmatists, who like reliable, predictable
+people and abhor surprises But it hardly sits well with the pi­
+oneers. How in the world, then, can you make the transition
+between these two groups in an orderly way?
+Leaving the Chasm Behind
+229
+Two New Job Descriptions
+The key is to initiate the transition by introducing two new 
+roles during the crossing-the-chasm effort. The first of these 
+might be called the target market segment manager, and the second 
+the whole product manager. Both are temporary, transitional po­
+sitions, with each being a stepping-stone to a more traditional 
+role. Specifically, the former leads to being an industry mar­
+keting manager, and the latter to a product marketing man­
+ager. These are their “real titles,” the ones under which they are 
+hired, the ones that are most appropriate for their business cards 
+But during the chasm transition they should be assigned unique, 
+one-time-only responsibilities, and while they are in that mode, 
+we will use their “interim” titles:
+The target market segment manager has one goal in his or 
+her short job life—Transform a visionary customer relationship into 
+a potential beachhead for entry into the mainstream vertical market that 
+that particular customer participates in. If Citicorp is the client, then 
+it is banking; if Aetna, insurance; if DuPont, chemicals; if Intel, 
+semiconductors. The process works like this:
+Once you have closed such an account as part of an early 
+market sales program, assign the target market segment man­
+ager as its account manager with a charter that allows him the 
+kind of extensive customer contact that will let him really learn 
+how their business works.
+• 
+He must attend the trade shows, read the literature, 
+study the systems, and meet the people—first, just 
+within the one account, and subsequently, in related 
+companies.
+• 
+At the same time, he must take over the supervision of 
+230
+Crossing the Chasm
+the visionary’s project, make sure it gets broken up into 
+achievable phases, supervise the introduction and roll­
+out of the early phases, get feedback and buy-in from 
+the end users of the system, and work with the in-house 
+staff to spin off the kind of localized implementations 
+that give these initial deliverables immediate value and 
+impact.
+• 
+At the same time, he will be working with the whole 
+product manager to identify which parts of the vision­
+ary project are suitable for an ongoing role in the whole 
+product and which are not. The goal is to isolate the 
+idiosyncratic elements as account-specific modifications, 
+making sure thereby not to saddle the ongoing product 
+development team with the burden of maintaining them.
+The market segment manager should not be expected to 
+generate additional revenue from the account in the short term, 
+because the visionaries believe they have already paid for every 
+possible modification they might need. What he can be ex­
+pected to do, however, is the following:
+• 
+Expedite the implementation of the first installation of the 
+system. This not only contributes to the bottom line, 
+as it will expedite the purchase of additional systems; 
+it also secures the beginning of a reference base in the 
+target market segment. Most companies fail miserably 
+in this regard, so much so that even several years later 
+their initial “big name” accounts cannot be referenced. 
+The key here is to remember that pragmatists are not 
+interested in hearing about who you have sold to but 
+rather who has a fully implemented system.
+Leaving the Chasm Behind
+231
+• 
+During'the implementation of the first installation, introduce 
+into the account his own replacement, a true account manager, 
+a “settler,” who will serve this client, hopefully, for many years 
+to come. Note that at this point the pioneer salesperson 
+is still in the picture, still has the relationship with the 
+visionary, but the day-to-day operation of the account is 
+entirely in others’ hands. This is typically just fine with 
+the pioneer, for he recognizes this to be the kind of 
+detail-oriented settler work for which he has no liking.
+• 
+Leverage the ongoing project to create one or more whole prod­
+uct extensions that solve some industry-wide problem in an 
+elegant way. The intent is either to absorb these elements 
+into the product line or to distribute them informally 
+as an unsupported product extension through a users’ 
+group. Either way, such add-ons increase the value
+of the product within the target market segment and 
+create a barrier to entry for any other vendor.
+The Whole Product Manager
+While the target market segment manager is pursuing these 
+tasks in the customer’s environment, there is a corresponding 
+internal role to be filled. Here the transition is from product 
+manager to product marketing manager via the short-lived role 
+of whole product manager. These titles are all sufficiently alike 
+as to be confusing, so let’s take a minute to sort out three very 
+different jobs.
+A product manager is normally a member of the development 
+organization who is responsible for ensuring that a product 
+gets created, tested, and shipped on budget, on schedule, and 
+232
+Crossing the Chasm
+according to specification. It is a highly internally focused job, 
+bridging the marketing and development organizations, and 
+requiring a high degree of technical competence and project 
+management experience. Occasionally companies try to relo­
+cate this job into the marketing organization, in an effort to be 
+more market driven, but this ploy inevitably encounters organi­
+zational resistance—if not organ transplant rejection—and thus 
+rarely succeeds.
+A product marketing manager is always a member of the mar­
+keting organization, never of the development group, and is 
+responsible for bringing the product to the marketplace and 
+making it accessible to the distribution channel. This includes 
+all the elements on the crossing-the-chasm agenda, from target 
+customer identification through to pricing. It is a highly exter­
+nally focused job.
+Not all organizations separate product managers from prod­
+uct marketing managers, but they should. Combining the jobs 
+almost always results in one or the other simply not getting 
+done. And the type of people who are good at one are rarely 
+good at the other.
+Now, the whole product manager is a product-marketing- 
+manager-to-be. The reason she is not one today is that the job 
+itself is premature. Until there is a successful crossing of the 
+chasm, there are no meaningful market relationships or un­
+derstandings to drive the future of product development. The 
+target market segment manager is off getting these under way, 
+but they are not there today. What is there today, on the other 
+hand, is a list of bug reports and product-enhancement requests 
+that is growing with disconcerting speed. If this list is not managed 
+properly, it will bring the entire development organization to its knees.
+The tactic, which at once secures proper management of 
+Leaving the Chasm Behind
+233
+the list and initiates a transition process from pioneer to settler 
+culture in the development side of the house, is to take this list 
+away from the product manager and give it to the whole prod­
+uct manager. For whoever is serving as the product manager at 
+this point almost certainly is a pioneer—otherwise, the organi­
+zation could not have got to where it is today.
+The problem with this person continuing to direct the future 
+of the product is that she will be driven first and foremost by her 
+own personal commitments made to early customers. Unfortu­
+nately, these commitments are often not in the best interest of the 
+mainstream market customer. To be sure, they must eventually 
+be fulfilled—unless they are to be negotiated away—but in either 
+case, they should not be given automatic priority over other issues. 
+What should increasingly become the prioritizing factor for on­
+going product development work is contribution to mainstream, 
+pragmatist customer satisfaction—in other words, contribution to 
+the whole product—hence, the need to transfer authority.
+Once this authority is transferred, the enterprise has taken a 
+key step in moving from a pro duct-driven to a market-driven 
+organization. As the shape of the mainstream market emerges, as 
+the needs of this market can be increasingly identified through 
+market research and customer interviews, then the whole prod­
+uct manager steps into the title that she has had all along on her 
+business card, product marketing manager. To try to take this 
+step earlier in the market development cycle is foolish. During 
+the early market it is important to be product-driven and to 
+give strong powers to the product manager. But to fail to take 
+those powers back now is equally foolish, for every day that the 
+enhancement list is in the hands of the original pioneers, the 
+company risks making additional development commitments 
+to unstrategic ends.
+234
+Crossing the Chasm
+To sum up, at the beginning of the chasm period, the orga­
+nization is dominated by pioneers, with strong powers invested 
+in a few top-gun salespeople and product managers. By the time 
+we are into the mainstream market, that power should be dis­
+tributed far more broadly among major account managers, in­
+dustry marketing managers, and product marketing managers. 
+This gradual dissemination of authority will ultimately frustrate 
+the pioneer contributors, hampering their ability to make quick 
+decisions and rapid responses. Ultimately, it will make them 
+want to leave.
+Coping with Compensation
+This brings us back, full circle, to the fundamental issue that 
+underlies so much of the frustration and disappointment that 
+builds up within high-tech organizations—compensation. Few 
+compensation 
+programs 
+recognize 
+either 
+the 
+fundamentally 
+different contributions of pioneers and settlers or their funda­
+mentally different tenures within the enterprise, and thus these 
+programs end up discriminating against one or the other. And 
+when 
+compensation 
+programs 
+do 
+discriminate—when 
+they 
+discourage the very behaviors that ought to be rewarded, or 
+vice versa—then organizations fail.
+To work through all the complexities of designing appropri­
+ate compensation schemes is beyond both the scope of this book 
+and the capabilities of its author. I can only sketch out a few 
+general principles that seem important to follow.
+Let’s start on the sales side. A typical pioneer sale involves 
+a broad purchase agreement, predicated on successful imple­
+mentation of a pilot project. Even when there has been a major 
+Leaving the Chasm Behind
+235
+up-front payment, the rational way to book this business is to 
+defer recognizing the larger order until it has been confirmed. 
+That could be at least a year away, and during that period, we 
+will have introduced a number of new players into the account, 
+including the target market segment manager. The pioneer 
+salesperson might even be gone by then. Say some account 
+manager just joins the firm, inherits the account, and all of a 
+sudden the flood of orders come in. What is the appropriate way 
+to compensate?
+The key is to discriminate between account penetration and ac­
+count development. The latter is a more predictable, less remarkable, 
+longer-abiding achievement. Compensation here should reward 
+such things as longevity of the relationship, customer satisfac­
+tion, and predictability of revenue stream. It should be spread 
+out over time and not clumped into dramatic payments. Because 
+there is high value associated with the intangibles of the ongoing 
+customer relationship, much of it can be based on an objectives- 
+based formula rather than pure revenue attainment. If equity is 
+part of the compensation strategy for the firm as a whole, it is 
+a reasonable component here as well, provided it is doled out 
+slowly, with the larger portions coming at the end of the pro­
+gram, to reward stability of service. Overall, however, since this 
+is not a high-risk role, it should not be a high-reward one, either.
+By contrast, compensation for account penetration by a pi­
+oneer salesperson should have the opposite characteristics. It 
+should provide the bulk of its rewards immediately, in recog­
+nition of a single key achievement—winning the account. This 
+is an extraordinary event, one that few can accomplish, and it 
+is critical to determining the firm’s long-term future. It is an 
+extraordinarily high-risk endeavor, with the odds stacked heav­
+ily against the salesperson. It therefore deserves extraordinary 
+236
+Crossing the Chasm
+compensation. On the other hand, if it was achieved by prom­
+ising more than anyone can deliver, perhaps even more than 
+anyone really knew, then that is not behavior we want to 
+reward. So, although we would like the compensation to be 
+front-loaded, there must also be a reality check built into the 
+process. Because the pioneer salesperson will be moving on, 
+we do not want an extended compensation program, and thus 
+equity, for example, is an inappropriate vehicle Taking all this 
+together, the situation argues for a bonus-based program more 
+than a straight commission approach—something lucrative for 
+the salesperson, event-driven and over and done with relatively 
+quickly, and not so closely tied to revenue recognition that 
+either the pioneer has to overstay his or her welcome in order 
+to reap the rewards or earns an extraordinary cash reward at a 
+time when the company simply cannot afford that sort of outlay.
+Compensating Developers
+Moving over to the development side, there is one remaining 
+compensation 
+challenge—the 
+pioneer 
+technologists. 
+These 
+divide into two camps—true company founders and very early 
+employees. The former have bet their lives on the equity gamble, 
+and there is nothing further to discuss, except to hope that in 
+reading this book they learn to conserve a large portion of that 
+equity to fund crossing the chasm. The latter pose a real problem.
+They can point with accuracy to the notion that they cre­
+ated a large part of the core product. Thus, should that product 
+become a mainstream market hit, they feel they should get a 
+major share of the gains. The fact is, they don’t, and the truth 
+is, bluntly, they don’t deserve it, either. Mainstream success, as 
+Leaving the Chasm Behind
+237
+we have argued at length, is a function of the whole product, 
+not the core product, and that is a very large team effort indeed.
+What pioneer technologists do have a right to is a larger share 
+of the early market returns, because here it truly is the core prod­
+uct that drives success. The problem is that cash is typically so 
+tight during this period, there is none to throw oif in the form of 
+a reward. So equity is the usual fallback. This is a compromise, 
+to say the least, as equity should be reserved for people who cross 
+the chasm and stay—not the pioneers’ ideal role, but still a more 
+frequent occurrence than them leaving the company.
+To sum up, improper compensation wastes dollars and de­
+motivates people. To be appropriate to high tech, compensation 
+programs must take into account the differences between desired 
+performance in the early market and in the mainstream market, 
+as well as the types of people that can be called on to achieve 
+these performances, and the likelihood that some of these people 
+will need to leave the company long before it achieves significant 
+profitability. If we can sort through these issues and come up 
+with an appropriate distribution of rewards, we can forgo much 
+of the agony and loss of momentum that accompany most cross­
+ings of the chasm. If we continue to operate the way we do today, 
+we will persist in constructing self-conflicting organizations and 
+wonder why they are not more productive.
+R&D Decisions: From Products to Whole Products
+At the outset of this book, we set crossing the chasm as the 
+fundamental marketing priority in high tech. In the middle 
+we established that institutionalizing the whole product was 
+the fundamental strategy for succeeding in this endeavor. It is 
+238
+Crossing the Chasm
+fitting, therefore, to finish up with a look at the impact of whole 
+product marketing on long-term R&D.
+R&D is high tech. Everything else is secondary. As an in­
+dustrial sector, before anything else, we are technology-driven. 
+Eventually we learn to create products, and then markets, and 
+then enterprises to dominate those markets. But it starts with 
+technology. “Build a product and they will come,” to para­
+phrase Field of Dreams. That is our fundamental dream, the dy­
+namic that drives all else.
+The problem is, we grow past the dream. The products and 
+markets and companies we create all grow up to make persistent 
+and legitimate demands on us, and we have no choice but to serve 
+them. And once this scenario begins, R&D doesn’t get to focus on 
+the generic product anymore. It must become whole product R&D.
+Whole product R&D is driven not by the laboratory but 
+by the marketplace. It begins not with creative technology but 
+with creative market segmentation. It penetrates not into pro­
+tons and processes but rather into habits and behaviors. It does 
+not, like the captain of the starship Enterprise, “go where no man 
+has gone before,” but rather, like T. S. Eliot, finds the end of 
+all its exploring is “to arrive where we started / And know the 
+place for the first time.” It prefers to assemble its creations from 
+existing technologies and products rather than to invent new 
+ones from scratch. Its heroes are less like Albert Einstein, who 
+developed a whole universe out of his own head, and more like 
+George Washington Carver, who discovered more than three 
+hundred different uses for the peanut.
+Not very heady stuff. No wonder it is so often ignored. 
+Indeed, the word that high tech uses for whole product R&D 
+is maintenance. And the people they assign to it are . . . well, the 
+janitorial types. No top guns want to go near this stuff.
+Leaving the Chasm Behind
+239
+Instead, the top guns rush out to create more discontinu­
+ous innovations, flooding the market with far more technology 
+than it can possibly absorb, and complaining all the while about 
+how product life cycles are becoming shorter and shorter. They 
+play the game, in other words, almost entirely to the left of the 
+chasm, cycling through endless repetitions of early markets that 
+never cross over to the mainstream. Product life cycles truly are 
+getting shorter—but whole product life cycles are as long as they 
+ever were. Ask Adobe about Photoshop or Apple about the Mac.
+An Emerging Discipline
+Whole product R&D is an emergent discipline. It represents a 
+kind of convergence between high-tech marketing and con­
+sumer marketing, where, for the first time, the tools of the 
+latter can be of significant use in solving the problems of the 
+former. Let’s look at two examples: focus groups and packag­
+ing studies.
+As 
+innovation 
+becomes 
+increasingly 
+continuous, 
+focus 
+groups, which are virtually useless in guiding the development 
+of an early market, become effective tools. The reason they are 
+now effective is that the fundamental product proposition is al­
+ready in the market and absorbed. Until this is the case, con­
+sumers get in way over their heads trying to anticipate the value 
+and usage of a new high-tech product. But once that proposi­
+tion is in place, the tool becomes effective. Specifically, it can 
+be used to direct the extension and modification of an existing 
+product line to meet the special needs of a target market seg­
+ment. In this context, all consumers are asked to do is address 
+relatively minor derivatives from a known entity—something 
+240
+Crossing the Chasm
+well within their expertise. The information they give back,
+therefore, is valuable.
+Consider another discipline that today is far more advanced in
+consumer marketing than in high tech—packaging. As an indus­
+try, we have considered this to be nothing more than the paint of
+the box, the logo, the cover. But packaging happens not just on
+the outside but on the inside, and the goal of good packaging is to
+ensure a successful experience right out of the box—an area that
+cries out for more research attention in high tech. Think how
+many dollars could be diverted into better ends that today go to
+expensive support services, all because our products are packaged
+in confusing or obtuse ways.
+Now these types of efforts—focus groups and packaging
+studies—are traditionally located in the marketing department.
+But in high tech, marketing is too ignorant to drive the bus. What
+appears to the generalist to be a simple change may m fact cut
+across some fundamental technology boundary in a radically in­
+appropriate way. Or conversely, what looks impossible to achieve
+may in fact be a by-product of a minor adjustment. In either case,
+engineering must be a direct partner in the effort, or it is wasted.
+It’s not market research alone, nor is it just product development.
+It’s whole product R&D, and it implies a new kind of cooperation
+between organizations traditionally set apart from each other.
+Leaving This Book Behind
+By way of parting, let us look back over the ground we have
+covered over the course of this book. We began by isolating
+a fundamental flaw in the prevailing High-Tech Marketing
+Model—the notion that rapid mainstream market growth
+Leaving the Chasm Behind
+241
+could follow continuously on the heels of early market success. 
+By analyzing the characteristics of visionaries and pragmatists, 
+we were able to see that a far more normal development would 
+be a chasm period of little to no growth. This period was iden­
+tified as perilous indeed, giving companies every incentive to 
+pass through it as rapidly as possible.
+Taking such rapid passage as our charter, we then embarked 
+on setting forth a strategy and set of tactics for accomplishing 
+it. The fundamental strategic principle was to launch a D-Day 
+type of invasion, one focused on a highly specific target seg­
+ment within a mainstream marketplace. The tactics for imple­
+menting that invasion were then set out in four clusters.
+To begin with, we had to target the point of attack, which meant 
+isolating our target customers and their compelling reason to 
+buy. Then we had to assemble the invasion force, constructed around 
+the whole product and the partners and allies needed to make 
+it a reality. The next step was to define the battle, by creating our 
+competition and positioning ourselves, in that context, as being 
+easy to buy. Finally, we had to launch the invasion, selecting our 
+intended distribution channel and setting our pricing to give us 
+motivational leverage over that channel.
+Now we have just spent this last chapter stepping back from 
+the immediate tactics of crossing the chasm, to look at the major 
+commitments that get made in the pre-chasm phase of an orga­
+nization’s growth, thereby to guard against crippling the success 
+of the post-chasm venture. That brings me to the end of my 
+road. My hope is that it can be the beginning of yours.

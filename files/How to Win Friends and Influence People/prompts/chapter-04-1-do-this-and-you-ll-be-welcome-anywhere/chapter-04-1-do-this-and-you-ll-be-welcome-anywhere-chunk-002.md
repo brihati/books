@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "how-to-win-friends-and-influence-people",
+  "chapter_id": "chapter-04-1-do-this-and-you-ll-be-welcome-anywhere",
+  "chunk_id": "chapter-04-1-do-this-and-you-ll-be-welcome-anywhere-chunk-002",
+  "source": {
+    "chapter_title": "1. Do This and You’ll Be Welcome Anywhere",
+    "source_path": "/Users/sachin/books/files/How to Win Friends and Influence People/chapters/04 - 1. Do This and Youll Be Welcome Anywhere.txt",
+    "source_pages": "68-79",
+    "char_start": 6272,
+    "char_end": 13939,
+    "checksum": "94553df816df4b37"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+them the very best I possibly can.” He declared he never stepped in front of the footlights without first saying to himself over and over: “I love my audience. I love my audience.” Ridiculous? Absurd? You are privileged to think anything you like. I am merely passing it on to you without comment as a recipe used by one of the most famous magicians of all time. George Dyke of North Warren, Pennsylvania, was forced to retire from his service station business after thirty years when a new highway was constructed over the site of his station. It wasn’t long before the idle days of retirement began to bore him, so he started filling in his time trying to play music on his old fiddle. Soon he was
+
+traveling the area to listen to music and talk with many of the accomplished fiddlers. In his humble and friendly way he became generally interested in learning the background and interests of every musician he met. Although he was not a great fiddler himself, he made many friends in this pursuit. He attended competitions and soon became known to the country music fans in the eastern part of the United States as “Uncle George, the Fiddle Scraper from Kinzua County.” When we heard Uncle George, he was seventy-two and enjoying every minute of his life. By having a sustained interest in other people, he created a new life for himself at a time when most people consider their productive years over. That, too, was one of the secrets of Theodore Roosevelt’s astonishing popularity. Even his servants loved him. His valet, James E. Amos, wrote a book about him entitled Theodore Roosevelt, Hero to His Valet. In that book Amos relates this illuminating incident: My wife one time asked the President about a bobwhite. She had never seen one and he described it to her fully. Sometime later, the telephone at our cottage rang. [Amos and his wife lived in a little cottage on the Roosevelt estate at Oyster Bay.] My wife answered it and it was Mr. Roosevelt himself. He had called her, he said, to tell her that there was a bobwhite outside her window and that if she would look out she might see it. Little things like that were so characteristic of him. Whenever he went by our cottage, even though we were out of sight, we would hear him call out: “Oo-oo-oo, Annie?” or “Oo-oo-oo, James!” It was just a friendly greeting as he went by. How could employees keep from liking a man like that? How could anyone keep from liking him? Roosevelt called at the White House one day when the President and Mrs. Taft were away. His honest liking for humble people was shown by the fact that he greeted all the old White House servants by name, even the scullery maids. “When he saw Alice, the kitchen maid,” writes Archie Butt, “he asked her if she still made corn bread. Alice told him that she sometimes made it for the servants, but no one ate it upstairs. “‘They show bad taste,’ Roosevelt boomed, ‘and I’ll tell the President so when I see him.’ “Alice brought a piece to him on a plate, and he went over to the office eating it as he went and greeting gardeners and laborers as he passed. . . . “He addressed each person just as he had addressed them in the past. Ike Hoover, who had been head usher at the White House for forty years, said with tears in his eyes: ‘It is the only happy day we had in nearly two years, and not one of us would exchange it for a hundred-dollar bill.’” The same concern for the seemingly unimportant people helped sales representative Edward M. Sykes, Jr., of Chatham, New Jersey, retain an account. “Many years ago,” he reported, “I called on customers for Johnson and Johnson in the Massachusetts area. One account was a drugstore in Hingham. Whenever I went into this store I would always talk to the soda clerk and sales clerk for a few minutes before talking to the owner to obtain his order. One day I went up to the owner of the store, and he told me to, leave as he was not interested in buying J&J products anymore because he felt they were concentrating their activities on food and discount stores to the detriment of the small drugstore. I left with my tail between my legs and drove around the town for several hours. Finally, I decided to go back and try at least to explain our position to the owner of the store. “When I returned I walked in and as usual said hello to the soda clerk and sales clerk. When I walked up to the owner, he smiled at me and welcomed me back. He then gave me double the usual order. I looked at him with surprise and asked him what had happened since my visit only a few hours earlier. He pointed to the young man at the soda fountain and said that after I had left, the boy had come over and said that I was one of the few salespeople that called on the store that even bothered to say hello to him and to the others in the store. He told the owner that if any salesperson deserved his business, it was I. The owner agreed and remained a loyal customer. I never forgot that to be genuinely interested in other people is a most important quality for a salesperson to possess—for any person, for that matter.” I have discovered from personal experience that one can win the attention and time and cooperation of even the most sought-after people by becoming genuinely interested in them. Let me illustrate. Years ago I conducted a course in fiction writing at the Brooklyn Institute of Arts and Sciences, and we wanted such distinguished and busy authors as Kathleen Norris, Fannie Hurst, Ida Tarbell, Albert Payson Terhune and Rupert Hughes to come to Brooklyn and give us the benefit of their experiences. So we wrote them, saying we admired their work and were deeply interested in getting their advice and learning the secrets of their success. Each of these letters was signed by about a hundred and fifty students. We said we realized that these authors were busy—too busy to prepare a lecture. So we enclosed a list of questions for them to answer about themselves and their methods of work. They liked that. Who wouldn’t like it? So they left their homes and traveled to Brooklyn to give us a helping hand. By using the same method, I persuaded Leslie M. Shaw, secretary of the treasury in Theodore Roosevelt’s cabinet; George W. Wickersham, attorney general in Taft’s cabinet; William Jennings Bryan; Franklin D. Roosevelt and many other prominent men to come to talk to the students of my courses in public speaking. All of us, be we workers in a factory, clerks in an office or even a king upon his throne—all of us like people who admire us. Take the German Kaiser, for example. At the close of World War I he was probably the most savagely and universally despised man on this earth. Even his own nation turned against him when he fled over into Holland to save his neck. The hatred against him was so intense that millions of people would have loved to tear him limb from limb or burn him at the stake. In the midst of all this forest fire of fury, one little boy wrote the Kaiser a simple, sincere letter glowing with kindliness and admiration. This little boy said that no matter what the others thought, he would always love Wilhelm as his emperor. The Kaiser was deeply touched by his letter and invited the little boy to come to see him. The boy came, so did his mother—and the Kaiser married her. That little boy didn’t need to read a book on how to win friends and influence people. He knew how instinctively. If we want to make friends, let’s put ourselves out to do things for other people—things that require time, energy, unselfishness and thoughtfulness. When the Duke of Windsor was Prince of Wales, he was scheduled to tour South America, and before he started out on
+>>>

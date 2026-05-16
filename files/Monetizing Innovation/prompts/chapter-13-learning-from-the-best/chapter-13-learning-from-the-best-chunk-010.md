@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "monetizing-innovation",
+  "chapter_id": "chapter-13-learning-from-the-best",
+  "chunk_id": "chapter-13-learning-from-the-best-chunk-010",
+  "source": {
+    "chapter_title": "CHAPTER 13: Learning from the Best",
+    "source_path": "/Users/sachin/books/files/Monetizing Innovation/chapters/13 - CHAPTER 13 Learning from the Best.txt",
+    "source_pages": "179-222",
+    "char_start": 62069,
+    "char_end": 69759,
+    "checksum": "ed1336d1a13b485c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+t WTP increased with a crystal’s brilliance. And as a crystal’s brilliance increases with cut complexity, making a crystal brilliant through a sophisticated cut was potentially a very proﬁtable endeavor. To put its WTP data and drivers of customer interest into a pricing system that product developers could use, the company came up with ﬁve price tiers. Each one varied by the degree to which a crystal delivered the core customer beneﬁts of brilliance and sophistication achieved by a complex cut. Products in each tier had the same prices, even though they were different in such aspects as form and color, as consumer WTP did not vary very much for those factors. To make the price-tier approach
+
+more comprehensible to customers, each category was given an appro- priate name (from lower to higher price positioning): Essential, Classic, Advanced, Sophisticated, and Outstanding Crystals. The price span from the lowest to the highest tier was 650 percent. With a price-tier system based on customer value, Swarovski could now make crucial design and pricing decisions early in a new product’s development. And because it followed the philosophy of “design the product around the price,” designers could start their work knowing the price range they were dealing with and what would drive customer value. 190 Monetizing Innovation This was highly beneﬁcial to Swarovski, Kargruber explains, because designers could now create new products to appeal to each price layer. The company must have products for all of them. Behind each category are one or more target segments; Swarovski wants to address all of them. The price-tier system also helps steer the ﬁrm’s product development process according to market size. For larger segments, Swarovski needs more new products. Another big beneﬁt of the price-tier system is that the sales force now can easily explain the rationale of Swarovski’s pricing to its jewelry and apparel manufacturing customers. There are only ﬁve price tiers—not dozens, as in the past—and the most expensive products are the most innovative and complex. Customers now understand why one product’s price is so much more than another’s, and that reduces price resistance. Before it instituted the new process, Swarovski based its prices on “internal gut feeling,” Kargruber explains, not customer value. The result was that many of the company’s prices were wrong, and salespeople had to correct for that in their negotiations with their B2B customers, which sometimes led to steep discounts for some products. Today, that no longer happens. The sales force can now focus on its core task: selling. Kargruber says the new process helps product managers make new- product pricing decisions more quickly, easily, and accurately. “And more important, the redesigned new product monetization process helped to bring up our margins signiﬁcantly, which was the key goal of that initiative,” he states. Boosting New Product Success for Customized Solutions The Customized Solutions unit that develops custom crystals for businesses also has adopted the “design the product around the price” approach to product development. Custom Solutions is a growing revenue source for the ﬁrm. Mobile phone makers like Samsung want cases festooned with Swarovski crystals to stand out from the plastic- cover crowd; furniture manufacturers are spifﬁng up their lamps, chairs, and other items with fancy crystals to catch the eyes of consumers in cavernous furniture stores. Each of these products is customized for each manufacturer. The cases that Samsung’s mobile phones will get are not what another mobile phone maker gets. Learning from the Best 191 But the Swarovski crystals that create an attractive phone case or lamp are only part of what’s necessary to entice consumers to buy them. Swarovski not only sells a customized product, it also sells the customized packaging, marketing and branding, promotion, and sales consulting that are crucial for these companies to create consumer demand. Swarovski is selling a differentiating solution. Here, too, Swarovski has learned it must discern consumer trends and spot drivers to make its products more attractive. Understanding con- sumer needs, and what they’ll pay for products that meet those needs, is still critical. Without this information, Swarovski would have no idea what Samsung’s customers would be willing to pay for a Swarovski- embellished smartphone case, and therefore what Samsung will be willing to pay Swarovski for its customized crystals. But the Custom Solutions group knows the answer to this question because (in contrast to the loose-crystal unit) it conducts more detailed end-consumer research. Consequently, the ﬁrm knows the crystal designs that consumers covet and what they’ll pay for them. To optimize proﬁts, it knows which consumer segments to pursue over others. For example, with mobile phone cases, Swarovski has found consumers across different markets will pay an unbelievable 120 percent more for a crystal-embellished case. That helps Swarovski convince mobile phone companies that the value of its case goes far beyond its manufactur- ing costs, and that having the Swarovski logo, designs, and crystals on their cases will command a signiﬁcant premium in the marketplace. That knowledge enables Swarovski to move off the cost-plus discussions on pricing that manufacturers try to pursue. Swarovski can show manufacturers how much additional proﬁt they can make with Swarovski crystals attached to their products, even if Swarovski takes a greater share of that proﬁt than it would have on a cost-plus margin basis. The 120 percent premium consumers will pay for Swarovski smart- phone cases varies greatly for other products, from as little as 30 percent to several hundred percent. Swarovski’s data has focused the Custom Solutions group’s strategy on products whose customer segments have a higher WTP for them. What’s more, knowing consumers are willing to spend much more for products embellished with crystals from Swarovski, the ﬁrm even manages to monetize their brand and logo. Because Swarovski has such a strong brand, ﬁrms with weaker brands have been seeking Swarovski out. 192 Monetizing Innovation They are willing to pay for the spillover effect from having a Swarovski logo on their products. Having nurtured and buffed a brand known for innovation and excellence for more than a century, Swarovski is now in a position to help companies without strong brands increase their own cachet. But this requires Swarovski to remain a top-of-mind crystal brand in the eyes of consumers and the businesses that resell its products. And that, in turn, means Swarovski must continue doing the research that shows why and how much consumers are willing to pay for its crystals and the products they brighten. The Next Steps in Swarovski’s Monetization Journey It’s been two years since Swarovski began adopting these approaches to monetizing innovation. Kargruber believes it will take the ﬁrm another one to two years to complete the journey. “You can’t underestimate how long it takes to change a ﬁrm’s product development approaches, especially to change the mindsets people bring to the innovation process,” he explains. “It is not just a process change; it’s a very different way of thinking.” Making these difﬁcult changes cannot be ad hoc; the effort must be structured. Swarovski installed a pricing board of three people to guide and push the change process, including the heads of marketing, sales, and the controller. The board’s mandate is to give clear direction, resolve conﬂicts, monitor the monetization progress, and make necessary cor- rections to the process.
+>>>
