@@ -1,0 +1,67 @@
+# Deal Desk
+
+- Evidence count: 13
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-01-contents` / `chapter-01-contents-chunk-001`
+  - Table of contents listing the main framework and chapters of the book, including the 5-Step Pricing Transformation Framework, pricing examples, and interviews with pricing leaders from various SaaS companies.
+  - The 5-Step Pricing Transformation Framework consists of: Segmentation, Positioning & Packaging, Pricing Metric, Rate Setting, and Pricing Operations (including Deal Desk)
+  - Book covers pricing operationalization challenges specific to SaaS
+  - Usage-based pricing is discussed but noted as not a panacea
+- [[books/price-to-scale|Price to Scale]] / `chapter-03-the-5-step-pricing-transformation-framework` / `chapter-03-the-5-step-pricing-transformation-framework-chunk-002`
+  - Operationalizing pricing involves integrating the new pricing model into all business aspects through alignment of systems, processes, and teams. This phase includes instrumenting the pricing metric, implementing calculators or CPQ systems, integrating with ERP and billing systems, and establishing sales enablement, deal management, discounting policies, and enforcement mechanisms.
+  - Operationalizing pricing is crucial to ensuring pricing strategy is effectively implemented and drives desired business outcomes
+  - Integration of new pricing model into every aspect of the business is required
+  - Alignment of systems, processes, and teams is necessary for smooth adoption
+- [[books/price-to-scale|Price to Scale]] / `chapter-08-step-5a` / `chapter-08-step-5a-chunk-001`
+  - Step 5a focuses on pricing operations - the implementation of pricing strategy through systems, processes, and people. The chapter outlines seven key operational components required to operationalize a pricing model and emphasizes that implementation takes 3-5x the effort of creating the pricing model itself, typically requiring at least a quarter to complete.
+  - Pricing operations is where implementation challenges occur, not in strategy creation
+  - Seven core operational components are required: Packaging Reference Doc, Website decision, Team structure, Pricing Calculator, Quoting System/CPQ, Product Metering, and Discounting guardrails
+  - Implementation takes 3-5x more effort than pricing model creation
+- [[books/price-to-scale|Price to Scale]] / `chapter-08-step-5a` / `chapter-08-step-5a-chunk-003`
+  - The chunk discusses Basecamp's pricing strategy and segment focus, then outlines the organizational structure and responsibilities needed for effective pricing implementation, including Pricing Strategy, Pricing Ops, and Deal Desk functions. It then explains the role of the Pricing and Monetization team in SaaS companies, addressing misconceptions and detailing key responsibilities including data 
+  - Basecamp appears focused on SMB/mid-market segment with product-led growth model
+  - Basecamp prioritizes deep customer retention over high-growth, high-burn model
+  - Three main functional owners needed for pricing models: Pricing Strategy, Pricing Ops, and Deal Desk
+- [[books/price-to-scale|Price to Scale]] / `chapter-08-step-5a` / `chapter-08-step-5a-chunk-003`
+  - The chunk discusses Basecamp's pricing strategy and segment focus, then outlines the organizational structure and responsibilities needed for effective pricing implementation, including Pricing Strategy, Pricing Ops, and Deal Desk functions. It then explains the role of the Pricing and Monetization team in SaaS companies, addressing misconceptions and detailing key responsibilities including data 
+  - Basecamp appears focused on SMB/mid-market segment with product-led growth model
+  - Basecamp prioritizes deep customer retention over high-growth, high-burn model
+  - Three main functional owners needed for pricing models: Pricing Strategy, Pricing Ops, and Deal Desk
+- [[books/price-to-scale|Price to Scale]] / `chapter-09-step-5b` / `chapter-09-step-5b-chunk-001`
+  - This section explains the critical role of a Deal Desk (DD) function in pricing strategy and deal execution. It covers why companies need a DD, including managing complex sales processes, standardizing processes for compliance, and enabling performance analytics.
+  - Deal Desk is responsible for reviewing and approving pricing and deal structure, ensuring compliance with price structure, profitability and solution components
+  - Deal Desk role is evolving from transactional function to strategic partner to sales
+  - Deal Desk acts as 'Air Traffic Control for Deals' - ensuring smooth information flow for timely deal closure
+- [[books/price-to-scale|Price to Scale]] / `chapter-09-step-5b` / `chapter-09-step-5b-chunk-002`
+  - Comparison of deal operations with and without a deal desk across six stages (proposal development, negotiation of terms, contract drafting, operational visibility, and post-deal analysis), followed by detailed guidance on discounting levers and contract terms essential for structuring SaaS deals.
+  - Deal desk centralizes and standardizes proposal generation, discounting policies, and contract approvals
+  - Without deal desk: decentralized proposals, inconsistent discounts, non-compliant contracts, limited visibility, subjective post-deal reviews
+  - With deal desk: uniform proposals via CRM, high win-rates at high speed, legal-vetted contracts, comprehensive dashboards, data-driven post-deal analysis
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-005`
+  - Discussion of value metric selection in SaaS pricing, featuring case studies from Gainsight and Marketo on how to align pricing levers with customer value, the impact of pricing changes on sales performance, and the role of CPQ and pricing tools in scaling value-based selling.
+  - Value metrics should be grouped into modules that salespeople can understand and sell individually with discrete pricing
+  - Solution selling model allows zero to two value metrics per module for flexibility
+  - Pricing levers must align with actual value delivered, not just convenience for the company
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-005`
+  - Discussion of value metric selection in SaaS pricing, featuring case studies from Gainsight and Marketo on how to align pricing levers with customer value, the impact of pricing changes on sales performance, and the role of CPQ and pricing tools in scaling value-based selling.
+  - Value metrics should be grouped into modules that salespeople can understand and sell individually with discrete pricing
+  - Solution selling model allows zero to two value metrics per module for flexibility
+  - Pricing levers must align with actual value delivered, not just convenience for the company
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-006`
+  - Discussion of implementing pricing tools (pricing calculator and CPQ) to manage sales complexity while maintaining flexibility. CPQ implementation requires cross-functional partnership and proper positioning as a sales tool rather than a Deal Desk tool.
+  - Pricing calculator is used early in sales cycle for budgeting, rough numbers and packaging
+  - CPQ enables guidance selling and reduces reliance on Deal Desk, allowing company to scale
+  - CPQ implementation requires partnership between pricing leader, sales ops, IT, and finance
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-007`
+  - Pranav Kashyap from Mixpanel describes the company's transition from an events-based pricing model (since 2009) to a monthly tracked users (MTUs) model in 2019, including customer segmentation, repackaging of offerings, and the criteria used to evaluate alternative pricing metrics.
+  - Pricing implementation requires partnership with sales ops, IT, and finance
+  - Events-based pricing didn't work because customers couldn't predict event volume and didn't see business value correlated with event tracking
+  - Mixpanel identified three main customer segments: Engineering/Product/Design teams, Data teams, and Marketing teams, each with different use cases
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-022`
+  - Kevin Christian, an industry leader in pricing strategy at Infoblox, discusses the evolution of IT infrastructure software pricing from hardware-based licensing models to consumption/metered pricing models. He outlines the three legs of a pricing program (Strategy, Transaction-level pricing, and Tools/Processes) and seven attributes of effective pricing models, then presents a case study of NewCo'
+  - Pricing programs consist of three main areas: Strategy (programs, policies, financial and market analysis), Transaction pricing (Deal Desk and special discounts), and Tools/Processes (price setting systems and quoting)
+  - Successful pricing models must be Simple, Measurable, and Scalable
+  - Simple means the pricing metric can be explained in an elevator ride; VCs care deeply about this attribute

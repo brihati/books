@@ -1,0 +1,67 @@
+# pricing metric
+
+- Evidence count: 13
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-01-contents` / `chapter-01-contents-chunk-001`
+  - Table of contents listing the main framework and chapters of the book, including the 5-Step Pricing Transformation Framework, pricing examples, and interviews with pricing leaders from various SaaS companies.
+  - The 5-Step Pricing Transformation Framework consists of: Segmentation, Positioning & Packaging, Pricing Metric, Rate Setting, and Pricing Operations (including Deal Desk)
+  - Book covers pricing operationalization challenges specific to SaaS
+  - Usage-based pricing is discussed but noted as not a panacea
+- [[books/price-to-scale|Price to Scale]] / `chapter-02-preface` / `chapter-02-preface-chunk-002`
+  - The preface explains that software companies often leave money on the table through suboptimal pricing and packaging. It outlines the book's purpose to guide pricing decisions through four key aspects: packaging, pricing metric, pricing structure, and price point. The author establishes credibility as a marketing leader who learned pricing through practice rather than as a pricing expert.
+  - Many excellently engineered products fail due to lack of product-market fit while patch-work products succeed with right GTM and pricing
+  - Software is generally not a commodity, meaning price isn't the buyer's most important consideration
+  - Increasing buyer's perception of value enables raising prices
+- [[books/price-to-scale|Price to Scale]] / `chapter-02-preface` / `chapter-02-preface-chunk-002`
+  - The preface explains that software companies often leave money on the table through suboptimal pricing and packaging. It outlines the book's purpose to guide pricing decisions through four key aspects: packaging, pricing metric, pricing structure, and price point. The author establishes credibility as a marketing leader who learned pricing through practice rather than as a pricing expert.
+  - Many excellently engineered products fail due to lack of product-market fit while patch-work products succeed with right GTM and pricing
+  - Software is generally not a commodity, meaning price isn't the buyer's most important consideration
+  - Increasing buyer's perception of value enables raising prices
+- [[books/price-to-scale|Price to Scale]] / `chapter-03-the-5-step-pricing-transformation-framework` / `chapter-03-the-5-step-pricing-transformation-framework-chunk-002`
+  - Operationalizing pricing involves integrating the new pricing model into all business aspects through alignment of systems, processes, and teams. This phase includes instrumenting the pricing metric, implementing calculators or CPQ systems, integrating with ERP and billing systems, and establishing sales enablement, deal management, discounting policies, and enforcement mechanisms.
+  - Operationalizing pricing is crucial to ensuring pricing strategy is effectively implemented and drives desired business outcomes
+  - Integration of new pricing model into every aspect of the business is required
+  - Alignment of systems, processes, and teams is necessary for smooth adoption
+- [[books/price-to-scale|Price to Scale]] / `chapter-06-step-3` / `chapter-06-step-3-chunk-001`
+  - Step 3 focuses on selecting a pricing metric as the most consequential decision in pricing strategy. It introduces two main approaches: Consumption-based pricing (per-seat and usage-based models) and Capability-based pricing (lump-sum offerings). A detailed checklist and real-life examples (Helpshift and Kustomer) illustrate how this decision impacts revenue capture and business growth.
+  - Selecting the pricing metric is the most consequential decision in the entire pricing exercise
+  - Getting the pricing metric right allows fine-tuning of other pricing model components; getting it wrong can slow sales velocity
+  - The goal is to charge customers proportionally to both company size and perceived value derived
+- [[books/price-to-scale|Price to Scale]] / `chapter-06-step-3` / `chapter-06-step-3-chunk-002`
+  - Analysis of pricing metric changes at three established SaaS companies (Kustomer, Mixpanel, HubSpot) during their growth stages, showing how they adapted pricing models to better align with customer value perception and simplify sales processes.
+  - Second pricing metric achieved 10x increase in revenue capture
+  - Customers prefer repeatable, consistent pricing that maps to existing budgets over innovative but unfamiliar models
+  - Changing pricing metrics can reduce customer churn when bills no longer feel disproportionate to value
+- [[books/price-to-scale|Price to Scale]] / `chapter-07-step-4` / `chapter-07-step-4-chunk-004`
+  - Detailed framework for conducting customer discovery interviews to validate pricing, packaging, and product positioning, followed by post-interview debrief processes and data analysis methodologies for assessing product-market fit and pricing strategy.
+  - Force-rank pre-created pain point statements to validate hypotheses across customers
+  - Conduct 15-20 minute product demo after pain point assessment
+  - Use $100 distribution exercise for both pain points and packaging benefits analysis
+- [[books/price-to-scale|Price to Scale]] / `chapter-07-step-4` / `chapter-07-step-4-chunk-004`
+  - Detailed framework for conducting customer discovery interviews to validate pricing, packaging, and product positioning, followed by post-interview debrief processes and data analysis methodologies for assessing product-market fit and pricing strategy.
+  - Force-rank pre-created pain point statements to validate hypotheses across customers
+  - Conduct 15-20 minute product demo after pain point assessment
+  - Use $100 distribution exercise for both pain points and packaging benefits analysis
+- [[books/price-to-scale|Price to Scale]] / `chapter-07-step-4` / `chapter-07-step-4-chunk-008`
+  - The chunk discusses the critical distinction between average and marginal costs in SaaS pricing decisions, explains how to structure setup versus ongoing costs, and outlines three strategic approaches to setting price points: margin maximization, revenue optimization, or market-share maximization.
+  - Average cost differs significantly from marginal cost in SaaS pricing
+  - Marginal cost (cost to serve one additional user) is usually much lower than average COGS
+  - Many SaaS costs (development, infrastructure, support) are fixed and do not scale with users
+- [[books/price-to-scale|Price to Scale]] / `chapter-11-pricing-example` / `chapter-11-pricing-example-chunk-004`
+  - Demonstrates primary research methodology for pricing validation using Warby Parker as a case study example. Shows how to translate pricing metrics into numeric options for surveys and interviews, presents aggregated feedback from mid-market and enterprise customer segments, and displays pricing bounds analysis with quality and expense thresholds.
+  - For broader markets, survey a few hundred enterprise companies (10-15% response rate) and conduct live conversations with ~10 companies
+  - Primary research template includes: intro to technology/product, force rank pain points, demo, unprompted feedback, force rank benefits, feedback on pricing metric, and price bounds testing
+  - Need anchors and industry standard assumptions to create numeric pricing options for surveys and interviews
+- [[books/price-to-scale|Price to Scale]] / `chapter-11-pricing-example` / `chapter-11-pricing-example-chunk-004`
+  - Demonstrates primary research methodology for pricing validation using Warby Parker as a case study example. Shows how to translate pricing metrics into numeric options for surveys and interviews, presents aggregated feedback from mid-market and enterprise customer segments, and displays pricing bounds analysis with quality and expense thresholds.
+  - For broader markets, survey a few hundred enterprise companies (10-15% response rate) and conduct live conversations with ~10 companies
+  - Primary research template includes: intro to technology/product, force rank pain points, demo, unprompted feedback, force rank benefits, feedback on pricing metric, and price bounds testing
+  - Need anchors and industry standard assumptions to create numeric pricing options for surveys and interviews
+- [[books/price-to-scale|Price to Scale]] / `chapter-12-usage-based-pricing` / `chapter-12-usage-based-pricing-chunk-001`
+  - Usage Based Pricing (UBP) is often marketed as a panacea but requires careful consideration of market fit, product type, and revenue predictability. The author discusses three key learnings: market suitability, product type alignment, and the inherent revenue unpredictability UBP introduces compared to traditional subscription models.
+  - UBP sounds compelling but requires nuance in implementation that isn't obvious initially
+  - UBP is not appropriate for all companies and products despite positive industry coverage
+  - Market and customer expectations matter more than surface-level appeal of UBP

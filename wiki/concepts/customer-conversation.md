@@ -1,0 +1,27 @@
+# customer conversation
+
+- Evidence count: 4
+- Books: The Mom Test
+
+## Source Evidence
+
+- [[books/the-mom-test|The Mom Test]] / `chapter-02-introduction` / `chapter-02-introduction-chunk-001`
+  - The introduction establishes that learning from customer conversations is delicate work requiring proper technique. Many founders inadvertently bias their conversations with heavy-handed questions or avoid digging deep enough. The book provides practical tools for asking good questions without contaminating customer feedback. The author shares his experience failing at customer conversations at hi
+  - Customer conversations are fragile and easily damaged by poor questioning techniques
+  - Bad customer conversations are worse than useless—they provide false positives that cause over-investment
+  - Most founders do customer conversations wrong despite good intentions
+- [[books/the-mom-test|The Mom Test]] / `chapter-02-introduction` / `chapter-02-introduction-chunk-001`
+  - The introduction establishes that learning from customer conversations is delicate work requiring proper technique. Many founders inadvertently bias their conversations with heavy-handed questions or avoid digging deep enough. The book provides practical tools for asking good questions without contaminating customer feedback. The author shares his experience failing at customer conversations at hi
+  - Customer conversations are fragile and easily damaged by poor questioning techniques
+  - Bad customer conversations are worse than useless—they provide false positives that cause over-investment
+  - Most founders do customer conversations wrong despite good intentions
+- [[books/the-mom-test|The Mom Test]] / `chapter-02-introduction` / `chapter-02-introduction-chunk-002`
+  - The book focuses specifically on how to properly talk to customers and learn from them, distinguishing itself from broader Customer Development concepts. It assumes the reader already values customer conversations and focuses on 'how' rather than 'why'.
+  - The book is about how to properly talk to customers and learn from them
+  - Customer conversation is one aspect of the larger Customer Development process
+  - The book distinguishes between 'customer conversation' (the act of talking) and 'Customer Development' (the full process)
+- [[books/the-mom-test|The Mom Test]] / `chapter-02-introduction` / `chapter-02-introduction-chunk-002`
+  - The book focuses specifically on how to properly talk to customers and learn from them, distinguishing itself from broader Customer Development concepts. It assumes the reader already values customer conversations and focuses on 'how' rather than 'why'.
+  - The book is about how to properly talk to customers and learn from them
+  - Customer conversation is one aspect of the larger Customer Development process
+  - The book distinguishes between 'customer conversation' (the act of talking) and 'Customer Development' (the full process)

@@ -1,2 +1,8 @@
 .claude/
 .codex_tmp/
+__pycache__/
+*.pyc
+memory/
+.cognee/
+.env
+.env.*

@@ -1,0 +1,57 @@
+# SaaS
+
+- Evidence count: 10
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-05-step-2` / `chapter-05-step-2-chunk-004`
+  - The chunk discusses Amplitude's pricing strategy and how to create effective price packaging. It covers the evolution of pricing strategies, principles for packaging products into tiers (gradation, package-segment fit, no shelf-ware), and a framework for deciding on price transparency based on market size and homogeneity.
+  - Amplitude does not expose pricing for Growth and Enterprise plans to capture greater value from clients with higher price elasticity
+  - Free tiers make sense only if going after large TAM or wanting to undercut competitors
+  - Amplitude's pricing evolved from 2016 to 2020 as they became a more trusted brand with more features
+- [[books/price-to-scale|Price to Scale]] / `chapter-06-step-3` / `chapter-06-step-3-chunk-001`
+  - Step 3 focuses on selecting a pricing metric as the most consequential decision in pricing strategy. It introduces two main approaches: Consumption-based pricing (per-seat and usage-based models) and Capability-based pricing (lump-sum offerings). A detailed checklist and real-life examples (Helpshift and Kustomer) illustrate how this decision impacts revenue capture and business growth.
+  - Selecting the pricing metric is the most consequential decision in the entire pricing exercise
+  - Getting the pricing metric right allows fine-tuning of other pricing model components; getting it wrong can slow sales velocity
+  - The goal is to charge customers proportionally to both company size and perceived value derived
+- [[books/price-to-scale|Price to Scale]] / `chapter-07-step-4` / `chapter-07-step-4-chunk-008`
+  - The chunk discusses the critical distinction between average and marginal costs in SaaS pricing decisions, explains how to structure setup versus ongoing costs, and outlines three strategic approaches to setting price points: margin maximization, revenue optimization, or market-share maximization.
+  - Average cost differs significantly from marginal cost in SaaS pricing
+  - Marginal cost (cost to serve one additional user) is usually much lower than average COGS
+  - Many SaaS costs (development, infrastructure, support) are fixed and do not scale with users
+- [[books/price-to-scale|Price to Scale]] / `chapter-08-step-5a` / `chapter-08-step-5a-chunk-003`
+  - The chunk discusses Basecamp's pricing strategy and segment focus, then outlines the organizational structure and responsibilities needed for effective pricing implementation, including Pricing Strategy, Pricing Ops, and Deal Desk functions. It then explains the role of the Pricing and Monetization team in SaaS companies, addressing misconceptions and detailing key responsibilities including data 
+  - Basecamp appears focused on SMB/mid-market segment with product-led growth model
+  - Basecamp prioritizes deep customer retention over high-growth, high-burn model
+  - Three main functional owners needed for pricing models: Pricing Strategy, Pricing Ops, and Deal Desk
+- [[books/price-to-scale|Price to Scale]] / `chapter-10-step-5c` / `chapter-10-step-5c-chunk-002`
+  - The chunk discusses managing team resistance during a major pricing and packaging transformation at Citrix Online, including the sources of resistance from Sales, Customer Care, and website teams. It introduces the ADKAR change management methodology and explains how to apply its five stages (Awareness, Desire, Knowledge, Ability, Reinforcement) to overcome organizational resistance to pricing cha
+  - The Pricing team should act as a balancing force to correct departmental biases and ensure holistic business decision-making
+  - Large-scale pricing changes create resistance across multiple departments for different reasons
+  - Understanding and addressing the specific concerns of each team is critical to successful implementation
+- [[books/price-to-scale|Price to Scale]] / `chapter-13-how-to-optimize-your-pricing-in-the-face-of-chur` / `chapter-13-how-to-optimize-your-pricing-in-the-face-of-chur-chunk-001`
+  - The chapter examines how SaaS pricing should be optimized in response to economic conditions, arguing that regime changes driven by interest rate shifts—not inflation itself—are the true drivers of pricing dynamics. It explains software deflation through commoditization and illustrates how SaaS valuations correlate with interest rates, while discussing efficiency metrics like revenue per employee 
+  - The real driver behind pricing changes in SaaS is regime change characterized by shifts in interest rates, not inflation
+  - Inflation impacts industries differently; technology products have become more affordable while hospital services and college tuition have increased significantly
+  - Software commoditization leads to deflation as unique features become standard offerings available from many competitors
+- [[books/price-to-scale|Price to Scale]] / `chapter-15-don-t-miss-this` / `chapter-15-don-t-miss-this-chunk-001`
+  - Expansions and renewals are an underutilized growth lever in software GTM strategies. Data shows that upsells and renewals have substantially lower CAC compared to new customer acquisition, and research demonstrates that a 1% increase in monetization drives the most significant increase in profits.
+  - Expansions and renewals has been historically ignored in software GTM motions
+  - For companies with strong customer bases, expansions and renewals is a growth lever worth its weight in gold
+  - Upsells and renewals have substantially lower CAC compared to new customer acquisition
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-012`
+  - Rajeev Venkatraman, Vice President of Pricing and Licensing at Verint, discusses the company's transition from perpetual license model to subscription pricing across business units. Verint, a legacy software company with 5,000 existing customers, had to manage the shift to cloud and subscription models while maintaining relationships with longstanding customers. The company developed a pricing for
+  - Verint is a legacy software company transitioning from perpetual licenses to subscription model
+  - The company had to balance aggressive transition while fitting into customer cycles and 20-year-old perceptions
+  - Pricing formula: three years of perpetual license value plus maintenance at 18-20% for up to three years with 3-5% annual uplift
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-013`
+  - Ajit Ghuman discusses pricing strategy for SaaS transitions, including customer research methods, geographic pricing adjustments, product packaging approaches, sales operations coordination, and the critical importance of billing systems and instrumentation.
+  - Representative customer samples of 20-40 customers across regions were used for benchmarking
+  - Geographic pricing differentials must be adjusted, such as 90 percent discounts in India
+  - Starter bundles and tiered packages (enterprise, professional levels) are essential for SaaS offerings
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-017`
+  - Rubrik's transition from a CapEx (perpetual license) model to a subscription pricing model in April 2019, including customer research to identify pain points, pricing strategy decisions, and sales enablement challenges.
+  - Rubrik launched subscription pricing in April 2019 after two-three years of selling on CapEx model with over a thousand customers
+  - Subscription pricing was set at comparable levels to CapEx with slight premium, similar to iPhone lease vs. outright purchase model
+  - Six-month customer study identified three main pain points: high upfront CapEx costs, cloud migration mandates, and unpredictability around hardware refresh costs

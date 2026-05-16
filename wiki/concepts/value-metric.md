@@ -1,0 +1,62 @@
+# Value metric
+
+- Evidence count: 11
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-08-step-5a` / `chapter-08-step-5a-chunk-001`
+  - Step 5a focuses on pricing operations - the implementation of pricing strategy through systems, processes, and people. The chapter outlines seven key operational components required to operationalize a pricing model and emphasizes that implementation takes 3-5x the effort of creating the pricing model itself, typically requiring at least a quarter to complete.
+  - Pricing operations is where implementation challenges occur, not in strategy creation
+  - Seven core operational components are required: Packaging Reference Doc, Website decision, Team structure, Pricing Calculator, Quoting System/CPQ, Product Metering, and Discounting guardrails
+  - Implementation takes 3-5x more effort than pricing model creation
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-002`
+  - Kevin Paiser from Nosto discusses the company's evolution through multiple pricing models: from pay-on-performance (cost-per-acquisition) starting in 2013, to fixed monthly fee model (2017-18), to modular packaging with Build Your Own options. The company also added service-based revenue streams for implementation and training.
+  - Pay-on-performance model provided massive product adoption but created revenue unpredictability for the business
+  - Transition to fixed fee model enabled product expansion and incentivized clients to use more products
+  - Revenue-based pricing metric chosen to signal growth partnership with clients
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-004`
+  - Johnny Cheng at Gainsight restructured broken pricing in the mid-market segment by moving from a good-better-best feature-based model to a modular, solution-based packaging approach with hybrid packaged and à la carte pricing.
+  - Gainsight's mid-market pricing was broken despite it being their product-market fit sweet spot
+  - Good-better-best model resulted in constant selling of middle tier at same ASP and created shelfware and downsells
+  - Enterprise pricing was completely discrete with sales making up prices with inconsistency from $5 to $1,000 per user
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-005`
+  - Discussion of value metric selection in SaaS pricing, featuring case studies from Gainsight and Marketo on how to align pricing levers with customer value, the impact of pricing changes on sales performance, and the role of CPQ and pricing tools in scaling value-based selling.
+  - Value metrics should be grouped into modules that salespeople can understand and sell individually with discrete pricing
+  - Solution selling model allows zero to two value metrics per module for flexibility
+  - Pricing levers must align with actual value delivered, not just convenience for the company
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-005`
+  - Discussion of value metric selection in SaaS pricing, featuring case studies from Gainsight and Marketo on how to align pricing levers with customer value, the impact of pricing changes on sales performance, and the role of CPQ and pricing tools in scaling value-based selling.
+  - Value metrics should be grouped into modules that salespeople can understand and sell individually with discrete pricing
+  - Solution selling model allows zero to two value metrics per module for flexibility
+  - Pricing levers must align with actual value delivered, not just convenience for the company
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-008`
+  - Mixpanel's transition from an events-based pricing model to MTU (Monthly Tracked Users) pricing, including evaluation criteria, rollout strategy, optimization challenges, and operational implementation.
+  - Regression analyses showed MTU correlated most strongly with revenue compared to event volume
+  - MTU metric serves as proxy for MAUs and represents how many unique people you track
+  - Initial rollout was opt-in targeting customers most dissatisfied with events model
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-008`
+  - Mixpanel's transition from an events-based pricing model to MTU (Monthly Tracked Users) pricing, including evaluation criteria, rollout strategy, optimization challenges, and operational implementation.
+  - Regression analyses showed MTU correlated most strongly with revenue compared to event volume
+  - MTU metric serves as proxy for MAUs and represents how many unique people you track
+  - Initial rollout was opt-in targeting customers most dissatisfied with events model
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-017`
+  - Rubrik's transition from a CapEx (perpetual license) model to a subscription pricing model in April 2019, including customer research to identify pain points, pricing strategy decisions, and sales enablement challenges.
+  - Rubrik launched subscription pricing in April 2019 after two-three years of selling on CapEx model with over a thousand customers
+  - Subscription pricing was set at comparable levels to CapEx with slight premium, similar to iPhone lease vs. outright purchase model
+  - Six-month customer study identified three main pain points: high upfront CapEx costs, cloud migration mandates, and unpredictability around hardware refresh costs
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-018`
+  - Discussion of value metrics selection for SaaS products, market benchmarking approaches, and differences between commercial and enterprise pricing models. Uses Office 365 backup products and disaster recovery solutions as examples of metric standardization and pricing strategy.
+  - Selecting the right value metric is more strategic than simply determining price and willingness to pay
+  - Market consensus and customer familiarity with a metric should guide pricing decisions
+  - Pricing on a metric different from market standards can be disruptive or counterproductive
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-018`
+  - Discussion of value metrics selection for SaaS products, market benchmarking approaches, and differences between commercial and enterprise pricing models. Uses Office 365 backup products and disaster recovery solutions as examples of metric standardization and pricing strategy.
+  - Selecting the right value metric is more strategic than simply determining price and willingness to pay
+  - Market consensus and customer familiarity with a metric should guide pricing decisions
+  - Pricing on a metric different from market standards can be disruptive or counterproductive
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-021`
+  - Discussion of controlled launch strategies for pricing changes, survey design challenges, careful rollout approaches to avoid cannibalizing existing revenue, and selection of appropriate value metrics considering customer expectations and ROI demonstration.
+  - Getting stakeholder agreement on success metrics is more difficult than doing the data work
+  - Controlled, incremental releases to small portions of prospects reduce risk compared to big releases
+  - Surveys require customer knowledge of offerings and value propositions, often necessitating incentivization

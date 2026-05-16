@@ -1,0 +1,64 @@
+# The Mom Test
+
+- Evidence count: 13
+- Books: The Mom Test
+
+## Source Evidence
+
+- [[books/the-mom-test|The Mom Test]] / `chapter-01-contents` / `chapter-01-contents-chunk-001`
+  - Table of contents for The Mom Test by Rob Fitzpatrick, outlining the book's structure across 10 chapters covering customer research methodology and conversation techniques.
+- [[books/the-mom-test|The Mom Test]] / `chapter-03-the-mom-test` / `chapter-03-the-mom-test-chunk-001`
+  - The chapter introduces 'The Mom Test,' a set of rules for asking good questions that reveal truth about business ideas. It contrasts two conversations with mom about a digital cookbook app for iPad: one that fails by asking leading hypothetical questions that invite false positives, and one that succeeds by asking specific questions about actual behaviors and past examples. The key insight is that
+  - You shouldn't ask anyone whether your business is a good idea, at least not in those words
+  - Asking leading questions invites people to lie or give false positives
+  - It's our responsibility to find the truth by asking good questions
+- [[books/the-mom-test|The Mom Test]] / `chapter-03-the-mom-test` / `chapter-03-the-mom-test-chunk-001`
+  - The chapter introduces 'The Mom Test,' a set of rules for asking good questions that reveal truth about business ideas. It contrasts two conversations with mom about a digital cookbook app for iPad: one that fails by asking leading hypothetical questions that invite false positives, and one that succeeds by asking specific questions about actual behaviors and past examples. The key insight is that
+  - You shouldn't ask anyone whether your business is a good idea, at least not in those words
+  - Asking leading questions invites people to lie or give false positives
+  - It's our responsibility to find the truth by asking good questions
+- [[books/the-mom-test|The Mom Test]] / `chapter-03-the-mom-test` / `chapter-03-the-mom-test-chunk-003`
+  - Guide to asking effective customer discovery questions that reveal true motivations, willingness to pay, and actual behavior rather than stated intentions. Explains six good questions and their underlying logic for understanding customer problems.
+  - Understanding customer goals is essential before proposing solutions
+  - Distinguish between major problems with costly implications and minor annoyances
+  - Observe actual customer behavior and workflows rather than relying on opinions
+- [[books/the-mom-test|The Mom Test]] / `chapter-03-the-mom-test` / `chapter-03-the-mom-test-chunk-004`
+  - The chunk explains how to properly use the Mom Test principle by asking customers about their lives, problems, and constraints rather than what to build. It establishes the division of responsibility: customers own the problem definition, founders own the solution.
+  - Good questions focus on customers' lives, not what you should build
+  - People want to help but need an excuse to do so
+  - Deciding what to build is the founder's job, not the customer's
+- [[books/the-mom-test|The Mom Test]] / `chapter-04-avoiding-bad-data` / `chapter-04-avoiding-bad-data-chunk-003`
+  - This section teaches how to dig beneath surface-level ideas and feature requests to understand the real motivations behind them. It emphasizes rejecting generic complaints and fluff, anchoring conversations to actual behaviors, and using a Habit company analytics case study to illustrate how missing the true customer motivation leads to wasted development effort.
+  - Anchor complaining people toward the life they already lead and actions they're already taking
+  - Don't automatically add feature requests to your todo list without understanding the motivation
+  - Dig into motivations behind requests by asking follow-up questions about why they want the feature
+- [[books/the-mom-test|The Mom Test]] / `chapter-04-avoiding-bad-data` / `chapter-04-avoiding-bad-data-chunk-004`
+  - The chunk covers techniques for extracting honest feedback by understanding motivations behind feature requests and emotional signals, avoiding approval-seeking behaviors that generate false compliments, and maintaining focus on the customer's problems rather than pitching the founder's idea.
+  - Understanding motivations behind feature requests requires digging into root causes
+  - Strong emotional signals are worth exploring and investigating
+  - Compliments are dangerous and sneaky sources of bad data
+- [[books/the-mom-test|The Mom Test]] / `chapter-05-asking-important-questions` / `chapter-05-asking-important-questions-chunk-001`
+  - The chapter teaches how to identify and ask the most important questions in customer conversations. It emphasizes avoiding trivial questions, seeking 'world-rocking scary questions,' and learning to love bad news as valuable information. The author warns against over-pitching lukewarm responses and zooming in on details before understanding the big picture.
+  - Apply The Mom Test to questions which matter, not trivial ones
+  - Important questions are those whose answers could completely change or disprove your business
+  - Every conversation should include a question with potential to destroy your currently imagined business
+- [[books/the-mom-test|The Mom Test]] / `chapter-05-asking-important-questions` / `chapter-05-asking-important-questions-chunk-004`
+  - The chunk distinguishes between product risk and market risk in customer validation. When customers answer conditionally (if your product works, we'll pay), the risk lies in building the product, not in validating market demand. Examples include farm fertility trackers, mobile deals for bars, and video games where product risk dominates. The author advises pre-planning three most important questio
+  - Product risk vs market risk must be distinguished in customer conversations
+  - Conditional customer commitments (if you build it, we'll pay) indicate product risk, not market validation
+  - Video games and complex products rely primarily on product risk rather than market risk
+- [[books/the-mom-test|The Mom Test]] / `chapter-07-commitment-and-advancement` / `chapter-07-commitment-and-advancement-chunk-003`
+  - Discusses the importance of identifying first customers with genuine emotional commitment to your product and using learning questions in sales meetings to understand what truly matters to them, rather than relying on binary hard pitching.
+  - Hard pitching provides only binary feedback (nailed it or didn't), which is inadequate for fundamental product validation questions
+  - Ask learning questions that pass The Mom Test, then confirm by selling
+  - First customers are rare individuals emotionally invested in seeing the product succeed
+- [[books/the-mom-test|The Mom Test]] / `chapter-08-finding-conversations` / `chapter-08-finding-conversations-chunk-001`
+  - Practical guidance on finding and initiating customer conversations, covering cold outreach, serendipitous encounters, social proof tactics, and methods to attract customers rather than chasing them.
+  - The goal of cold conversations is to stop having them by converting initial contacts into warm introductions
+  - Rejection rates from cold outreach are irrelevant if your plan doesn't depend on that channel
+  - Serendipitous encounters can be valuable if you stay alert to opportunities
+- [[books/the-mom-test|The Mom Test]] / `chapter-10-running-the-process` / `chapter-10-running-the-process-chunk-003`
+  - The author describes note-taking methods for customer interviews and outlines a lightweight process for learning from customer conversations. Key practices include using index cards for flexibility, reviewing notes with team, and recognizing when you're just going through the motions rather than truly learning.
+  - Notes must be lightweight enough that you'll actually review them
+  - Index cards are superior for sorting and random access to learning
+  - Specific signs indicate when conversations are just going through the motions

@@ -1,0 +1,52 @@
+# Shelfware
+
+- Evidence count: 9
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-03-the-5-step-pricing-transformation-framework` / `chapter-03-the-5-step-pricing-transformation-framework-chunk-001`
+  - Introduction to the 5-Step Pricing Transformation Framework, a sequential process for pricing strategy that covers Goals & Segments, Positioning & Packaging, Price Metric, Rate-setting, and Operationalization. The framework addresses how pricing is a strategic exercise touching all business areas, and discusses common pitfalls and considerations at each stage.
+  - Pricing is a strategic exercise that touches every part of a business, not just placing a price point on a product
+  - Most pricing problems stem from misalignment within the executive team at the Goals & Segments stage
+  - Alignment is key: when everyone is on the same page about strategy and segments, everything else flows more smoothly
+- [[books/price-to-scale|Price to Scale]] / `chapter-03-the-5-step-pricing-transformation-framework` / `chapter-03-the-5-step-pricing-transformation-framework-chunk-001`
+  - Introduction to the 5-Step Pricing Transformation Framework, a sequential process for pricing strategy that covers Goals & Segments, Positioning & Packaging, Price Metric, Rate-setting, and Operationalization. The framework addresses how pricing is a strategic exercise touching all business areas, and discusses common pitfalls and considerations at each stage.
+  - Pricing is a strategic exercise that touches every part of a business, not just placing a price point on a product
+  - Most pricing problems stem from misalignment within the executive team at the Goals & Segments stage
+  - Alignment is key: when everyone is on the same page about strategy and segments, everything else flows more smoothly
+- [[books/price-to-scale|Price to Scale]] / `chapter-05-step-2` / `chapter-05-step-2-chunk-005`
+  - Discussion of modular packaging as a flexible pricing approach that allows tailored offerings to different customer segments. The approach involves mapping product features to use cases, ensuring features are MECE, and estimating value perception across customer segments to determine which modules should be bundled in base packages versus offered as add-ons.
+  - Modular packaging enables capturing greater revenue than standardized packages
+  - Prevents both shelfware (unused capabilities) and missing value delivery
+  - Features must be MECE (Mutually Exclusive Completely Exhaustive) to avoid duplication across modules
+- [[books/price-to-scale|Price to Scale]] / `chapter-08-step-5a` / `chapter-08-step-5a-chunk-007`
+  - The chunk discusses implementing discounting authority structures and establishing a pricing analytics framework to measure pricing model performance. It explains key metrics to track quarterly and emphasizes the importance of data segmentation while acknowledging challenges in attributing pricing model changes.
+  - Discounting authority should be built with friction to make discounts appear earned rather than freely given
+  - Average Selling Price (ASP) is a key board-level revenue metric for tracking pricing model performance
+  - Multiple metrics must be analyzed together to understand true pricing performance
+- [[books/price-to-scale|Price to Scale]] / `chapter-15-don-t-miss-this` / `chapter-15-don-t-miss-this-chunk-002`
+  - Guidance on structuring pricing models to support upsells, renewals, and customer expansion through careful package design, price point strategy, and contract language for volume usage.
+  - GTM teams (Marketing and Sales) have historically not been well-structured to prospect seamlessly into existing customers
+  - Upsells happen naturally as a consequence of increased customer needs rather than multi-channel marketing pushes
+  - Pricing model redesigns must be tackled with seriousness and different lens given potential impact on revenue and profit growth
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-004`
+  - Johnny Cheng at Gainsight restructured broken pricing in the mid-market segment by moving from a good-better-best feature-based model to a modular, solution-based packaging approach with hybrid packaged and à la carte pricing.
+  - Gainsight's mid-market pricing was broken despite it being their product-market fit sweet spot
+  - Good-better-best model resulted in constant selling of middle tier at same ASP and created shelfware and downsells
+  - Enterprise pricing was completely discrete with sales making up prices with inconsistency from $5 to $1,000 per user
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-025`
+  - Ajit Ghuman's case study on pricing rationalization at Narvar, focusing on the failures of rapid pricing standardization that didn't align with sales team behavior and customer needs, and the importance of data infrastructure for implementing usage-based pricing models.
+  - CSM teams require complete usage data to succeed with new pricing models
+  - Four critical steps for implementing new pricing: pick the metric, count it, collect in data lake, show in dashboard
+  - Rapid pricing standardization without proper execution creates discord between sales, marketing, and customers
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-025`
+  - Ajit Ghuman's case study on pricing rationalization at Narvar, focusing on the failures of rapid pricing standardization that didn't align with sales team behavior and customer needs, and the importance of data infrastructure for implementing usage-based pricing models.
+  - CSM teams require complete usage data to succeed with new pricing models
+  - Four critical steps for implementing new pricing: pick the metric, count it, collect in data lake, show in dashboard
+  - Rapid pricing standardization without proper execution creates discord between sales, marketing, and customers
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-026`
+  - Case study of Narvar's tiered pricing restructuring and introduction to DocuSign's transition from usage-based to feature-based pricing. The Narvar case demonstrates how listening to sales teams, synthesizing perspectives, and creating flexible yet standardized packages can resolve pricing friction. Results included 100% sales adoption and 15-40% ASP increases. DocuSign's challenge centers on e-si
+  - Standardization must be done carefully to avoid infuriating the sales team
+  - Well-crafted packages should fully solve customer needs without forcing upgrades
+  - Forced upgrades backfire; only create tiers that allow natural business growth

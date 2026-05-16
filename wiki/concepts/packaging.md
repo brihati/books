@@ -1,0 +1,52 @@
+# Packaging
+
+- Evidence count: 9
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-02-preface` / `chapter-02-preface-chunk-002`
+  - The preface explains that software companies often leave money on the table through suboptimal pricing and packaging. It outlines the book's purpose to guide pricing decisions through four key aspects: packaging, pricing metric, pricing structure, and price point. The author establishes credibility as a marketing leader who learned pricing through practice rather than as a pricing expert.
+  - Many excellently engineered products fail due to lack of product-market fit while patch-work products succeed with right GTM and pricing
+  - Software is generally not a commodity, meaning price isn't the buyer's most important consideration
+  - Increasing buyer's perception of value enables raising prices
+- [[books/price-to-scale|Price to Scale]] / `chapter-02-preface` / `chapter-02-preface-chunk-002`
+  - The preface explains that software companies often leave money on the table through suboptimal pricing and packaging. It outlines the book's purpose to guide pricing decisions through four key aspects: packaging, pricing metric, pricing structure, and price point. The author establishes credibility as a marketing leader who learned pricing through practice rather than as a pricing expert.
+  - Many excellently engineered products fail due to lack of product-market fit while patch-work products succeed with right GTM and pricing
+  - Software is generally not a commodity, meaning price isn't the buyer's most important consideration
+  - Increasing buyer's perception of value enables raising prices
+- [[books/price-to-scale|Price to Scale]] / `chapter-03-the-5-step-pricing-transformation-framework` / `chapter-03-the-5-step-pricing-transformation-framework-chunk-001`
+  - Introduction to the 5-Step Pricing Transformation Framework, a sequential process for pricing strategy that covers Goals & Segments, Positioning & Packaging, Price Metric, Rate-setting, and Operationalization. The framework addresses how pricing is a strategic exercise touching all business areas, and discusses common pitfalls and considerations at each stage.
+  - Pricing is a strategic exercise that touches every part of a business, not just placing a price point on a product
+  - Most pricing problems stem from misalignment within the executive team at the Goals & Segments stage
+  - Alignment is key: when everyone is on the same page about strategy and segments, everything else flows more smoothly
+- [[books/price-to-scale|Price to Scale]] / `chapter-05-step-2` / `chapter-05-step-2-chunk-001`
+  - This section defines positioning as carving a place of influence in a buyer's mind and demonstrates how positioning directly impacts pricing strategy. It uses the Lucky Strike cigarette example from Mad Men and applies the concept to AI-based sales productivity software, emphasizing the role of heuristic thinking in buyer decision-making.
+  - Positioning is about what you do to the mind of the prospect, not what you do to the product
+  - Positioning is used to differentiate a brand in the mind and cut through communication clutter
+  - Pricing cannot be set without clear positioning
+- [[books/price-to-scale|Price to Scale]] / `chapter-05-step-2` / `chapter-05-step-2-chunk-002`
+  - The chapter explains that most pricing problems stem from unclear positioning. Three essential positioning questions must be answered: identifying target customers, benefits offered, and unique differentiation. Positioning must be confirmed across executive and sales leadership before pricing models are developed. The packaging section describes how to create tiered offerings aligned with market s
+  - Most pricing problems are not pricing problems but results of poorly understood positioning
+  - Positioning must be confirmed and aligned across executive, sales, and marketing leadership
+  - Clear positioning is a prerequisite for any pricing model to work
+- [[books/price-to-scale|Price to Scale]] / `chapter-05-step-2` / `chapter-05-step-2-chunk-004`
+  - The chunk discusses Amplitude's pricing strategy and how to create effective price packaging. It covers the evolution of pricing strategies, principles for packaging products into tiers (gradation, package-segment fit, no shelf-ware), and a framework for deciding on price transparency based on market size and homogeneity.
+  - Amplitude does not expose pricing for Growth and Enterprise plans to capture greater value from clients with higher price elasticity
+  - Free tiers make sense only if going after large TAM or wanting to undercut competitors
+  - Amplitude's pricing evolved from 2016 to 2020 as they became a more trusted brand with more features
+- [[books/price-to-scale|Price to Scale]] / `chapter-11-pricing-example` / `chapter-11-pricing-example-chunk-002`
+  - A pricing simulation for ACME Inc's AI-powered chatbot product, structured into four phases: alignment on goals, hypothesis generation, testing, and iteration. The company seeks to establish packaging and pricing for a new customer service chatbot that competes with Salesforce Service Cloud and Zendesk.
+  - ACME Inc is an established Customer Experience Management company with revenues exceeding $40M per year
+  - The company targets mid-market segments (revenue $10M to $1B) across B2C industries
+  - The pricing project is divided into four phases: alignment, hypothesis generation, testing, and iteration
+- [[books/price-to-scale|Price to Scale]] / `chapter-13-how-to-optimize-your-pricing-in-the-face-of-chur` / `chapter-13-how-to-optimize-your-pricing-in-the-face-of-chur-chunk-002`
+  - The chapter addresses the dual challenge of needing to raise pricing to increase free cash flow while simultaneously facing churn pressure from reducing net revenue retention. It presents packaging and pricing metric strategies as solutions, including tiered packages with lite options, a-la-carte models for enterprise segments, and metric adjustments to offload non-diminishing costs and align pric
+  - Median software NRR is now the lowest since 2020
+  - Companies face a double-sided problem: need to raise pricing for FCF but reducing NRR causes churn pressure
+  - Packaging strategy should move from one-size-fits-all to more granular options to monetize undermonetized product areas
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-014`
+  - Joshua Bloom of Simon-Kucher & Partners discusses the A-Z of pricing projects for SaaS companies, including the three-phase engagement process (diagnostic, primary research, implementation), pricing challenges across different company stages, and how to select appropriate pricing structures based on predictability, usage growth rates, and correlation to compute/data costs.
+  - Billing systems must provide flexibility to handle co-terming issues and varied purchase patterns without confusing customers
+  - Finance and collection capabilities are critical; high sales volume means nothing if you cannot collect from customers
+  - The diagnostic phase establishes a straw-man view before customer conversations, using internal data and pattern matching from competitors

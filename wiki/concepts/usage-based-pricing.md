@@ -1,0 +1,62 @@
+# Usage-based pricing
+
+- Evidence count: 11
+- Books: Price to Scale
+
+## Source Evidence
+
+- [[books/price-to-scale|Price to Scale]] / `chapter-01-contents` / `chapter-01-contents-chunk-001`
+  - Table of contents listing the main framework and chapters of the book, including the 5-Step Pricing Transformation Framework, pricing examples, and interviews with pricing leaders from various SaaS companies.
+  - The 5-Step Pricing Transformation Framework consists of: Segmentation, Positioning & Packaging, Pricing Metric, Rate Setting, and Pricing Operations (including Deal Desk)
+  - Book covers pricing operationalization challenges specific to SaaS
+  - Usage-based pricing is discussed but noted as not a panacea
+- [[books/price-to-scale|Price to Scale]] / `chapter-01-contents` / `chapter-01-contents-chunk-001`
+  - Table of contents listing the main framework and chapters of the book, including the 5-Step Pricing Transformation Framework, pricing examples, and interviews with pricing leaders from various SaaS companies.
+  - The 5-Step Pricing Transformation Framework consists of: Segmentation, Positioning & Packaging, Pricing Metric, Rate Setting, and Pricing Operations (including Deal Desk)
+  - Book covers pricing operationalization challenges specific to SaaS
+  - Usage-based pricing is discussed but noted as not a panacea
+- [[books/price-to-scale|Price to Scale]] / `chapter-03-the-5-step-pricing-transformation-framework` / `chapter-03-the-5-step-pricing-transformation-framework-chunk-001`
+  - Introduction to the 5-Step Pricing Transformation Framework, a sequential process for pricing strategy that covers Goals & Segments, Positioning & Packaging, Price Metric, Rate-setting, and Operationalization. The framework addresses how pricing is a strategic exercise touching all business areas, and discusses common pitfalls and considerations at each stage.
+  - Pricing is a strategic exercise that touches every part of a business, not just placing a price point on a product
+  - Most pricing problems stem from misalignment within the executive team at the Goals & Segments stage
+  - Alignment is key: when everyone is on the same page about strategy and segments, everything else flows more smoothly
+- [[books/price-to-scale|Price to Scale]] / `chapter-06-step-3` / `chapter-06-step-3-chunk-001`
+  - Step 3 focuses on selecting a pricing metric as the most consequential decision in pricing strategy. It introduces two main approaches: Consumption-based pricing (per-seat and usage-based models) and Capability-based pricing (lump-sum offerings). A detailed checklist and real-life examples (Helpshift and Kustomer) illustrate how this decision impacts revenue capture and business growth.
+  - Selecting the pricing metric is the most consequential decision in the entire pricing exercise
+  - Getting the pricing metric right allows fine-tuning of other pricing model components; getting it wrong can slow sales velocity
+  - The goal is to charge customers proportionally to both company size and perceived value derived
+- [[books/price-to-scale|Price to Scale]] / `chapter-12-usage-based-pricing` / `chapter-12-usage-based-pricing-chunk-001`
+  - Usage Based Pricing (UBP) is often marketed as a panacea but requires careful consideration of market fit, product type, and revenue predictability. The author discusses three key learnings: market suitability, product type alignment, and the inherent revenue unpredictability UBP introduces compared to traditional subscription models.
+  - UBP sounds compelling but requires nuance in implementation that isn't obvious initially
+  - UBP is not appropriate for all companies and products despite positive industry coverage
+  - Market and customer expectations matter more than surface-level appeal of UBP
+- [[books/price-to-scale|Price to Scale]] / `chapter-14-economics-pricing-of-genai-development` / `chapter-14-economics-pricing-of-genai-development-chunk-001`
+  - Chapter introduction outlining the focus on pricing strategies for GenAI products, covering model selection costs, pricing models, and technical considerations for CTOs and engineers.
+  - Managing costs in GenAI model selection affects both product costs and quality
+  - Pricing strategy is critical to product success
+  - Need to balance between different development approaches for innovation and sustainability
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-001`
+  - Introduction to a chapter containing 15 interviews and case studies with top pricing and revenue leaders from various companies including Nosto, Coupa Software, Mixpanel, Oracle, Verint, Rubrik, Zoom, Infoblox, Narvar, DocuSign, Pushpay, GitLab, and Coralogix. A reference table is provided to guide readers through the interviews organized by interviewee, company, and main discussion topics.
+  - The chapter contains interviews with top revenue and pricing leaders in the Valley
+  - The 2nd edition includes additional case studies from Jan and Ajit
+  - A reference table is provided to contextualize interviews within theoretical information from earlier chapters
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-011`
+  - Discussion of the importance of revenue recognition in pricing strategy and the selection of appropriate technology platforms, particularly Zuora, for managing recurring revenue pricing models and subscription lifecycle management.
+  - Revenue recognition (rev rec) is critical and must be coordinated across legal, contracts, billing, and quoting
+  - Don't begin building a product without discussing pricing and usage tracking
+  - Zuora provides a recurring revenue platform that handles CPQ, billing, usage data, payments, and tax
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-025`
+  - Ajit Ghuman's case study on pricing rationalization at Narvar, focusing on the failures of rapid pricing standardization that didn't align with sales team behavior and customer needs, and the importance of data infrastructure for implementing usage-based pricing models.
+  - CSM teams require complete usage data to succeed with new pricing models
+  - Four critical steps for implementing new pricing: pick the metric, count it, collect in data lake, show in dashboard
+  - Rapid pricing standardization without proper execution creates discord between sales, marketing, and customers
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-026`
+  - Case study of Narvar's tiered pricing restructuring and introduction to DocuSign's transition from usage-based to feature-based pricing. The Narvar case demonstrates how listening to sales teams, synthesizing perspectives, and creating flexible yet standardized packages can resolve pricing friction. Results included 100% sales adoption and 15-40% ASP increases. DocuSign's challenge centers on e-si
+  - Standardization must be done carefully to avoid infuriating the sales team
+  - Well-crafted packages should fully solve customer needs without forcing upgrades
+  - Forced upgrades backfire; only create tiers that allow natural business growth
+- [[books/price-to-scale|Price to Scale]] / `chapter-16-interviews-case-studies-with-top-pricing-leaders` / `chapter-16-interviews-case-studies-with-top-pricing-leaders-chunk-029`
+  - DocuSign's transition from usage-based pricing to feature-based unlimited signature pricing, demonstrating how commoditization of features necessitates dynamic pricing strategies and model shifts for sustained SaaS growth.
+  - Dual pricing strategy allowed testing market responses without irreversible changes
+  - Complexity managed differently by Enterprise (direct sales) vs. Online (simplified presentation) channels
+  - Transition enabled competition with PandaDoc, DocHub, and SignNow offering unlimited options
