@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-003",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 13251,
+    "char_end": 20943,
+    "checksum": "b855fef464432111"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+to drink that we saw in earlier generations,” says Lukehurst. 8 In China, something that was once an almost completely alien beverage, coffee, now represents a fast-growing, competitive market. 9 Homegrown companies are also aggressively taking on US powerhouses such as Starbucks. 10 Likewise, the potato chip market in China, once nonexistent, has grown exponentially in the last twenty years as China’s means of production have become more sophisticated and consumer tastes have broadened. 11 Frito-Lay, a major player in China’s chip market, is known for developing unusual flavored chips, often with a regional twist (New England Lobster Roll, Cajun Spice, etc.). 12 It’s doing the same thing in
+
+China, layering popular flavors onto its chips, including that of durian, a prickly green Southeast Asian fruit. 13 In the United States, the most significant restaurant food trends in 2018 included African and Peruvian flavors, uncommon herbs such as lovage and lemon balm, ethnic-inspired breakfast foods such as chorizo scrambled eggs and coconut milk pancakes, and ethnic condiments including sambal, an Indonesian hot sauce, and zhug, a Yemeni cilantro sauce. 14 Of course, food producers often alter the flavor profiles of these and other ethnic foods to make them more palatable or accessible to culturally different markets. Those of us who have been to Rome are familiar with the differences between the sauce on the pasta you get in that city and the red sauce on spaghetti you order at an Italian American pizzaria. The food you buy on the streets of Shanghai is quite different from what you would find at a Chinese buffet or takeout in the midwestern United States. However, there are enough markers or codes and recognizable flavor profiles for us to identify these foods by taste for what they are—even if they lack the authenticity of flavor, texture, and appearance. For example, when we see a picture of a chili pepper on a packaged food, we may think immediately that it is spicy or that it might be Mexican inspired. Images of ripe plum tomatoes and pasta suggest we are buying something prepared in Italy. Back to Nature Information and education also create new desires for different flavors and foods. For example, consumer demand for more natural, organic, and local foods—the farm-to-table movement—has been driven by a deeper understanding of the effects of industrial foods on our bodies and a growing ability to tell the difference between foods that are marketed as “natural” and those that actually taste, look, and feel natural. How food is processed also has an effect on what flavors we crave. Real or “whole” food consists of proteins, fats, fiber, water, and carbohydrates in varying amounts (although unprocessed animal products have no carbs). When foods are processed, these components are modified or altered in some way: concentrated, increased, or decreased. Foods processed with added sugar and salt can be addictive, 15 and food manufacturers know it. They have figured out how to bypass the body’s regulators that tell us when we are full and to stop eating and instead increase desire for mainly sugary and salty foods. This has changed the way we interact with and respond to flavors. Many of us (remember, most of us aren’t “supertasters”) need more of what we identify as sugary and salty tastes 16 to satiate our desire for them. And we are often not satiated until we’ve eaten multiple “servings” of a given food—a result of food and flavor manipulation. Since there has now been a great deal written about how much sugar and salt are added to processed foods, consumers have become more aware that these additions manipulate what foods they crave—and they say they don’t like it. But it also works: the sweetness of foods has increased while other flavors, like bitterness, have almost disappeared. 17 Rediscovering taste sensations like bitterness (Campari on the rocks, arugula salad, sautéed rapini) is one more way of awakening our senses and expanding our awareness (and appreciation) of varied taste sensations. Every one of the ways in which we experience food and flavor, including the assumptions we make about what we eat, how it tastes, and how to react to the experience, is informed by everything I’ve just discussed as well as other factors, such as our mood, the weather, where we happen to be when we get hungry, and even whom we are with. 18 Many factors are at play in the process of developing taste, and you should certainly become aware of the most important factors. What follows are profiles of some food industry entrepreneurs and how they used and applied their individual tastes—and leveraged their particular aesthetics—to launch new companies and transform their marketplaces. Other than being in the food business, these founders have very little in common with one another. Their products are sold through different retail channels and use different marketing strategies. But each has used aesthetic intelligence to differentiate the sensorial experience of their brands. This has to do not just with the actual tastes of foods but with everything that surrounds them—how they evoke memories, ideas, and fantasies powerful enough to register with consumers. Moreover, these entrepreneurs’ aesthetic tastes were based not on common standards of beauty and delight but on original, differentiated, and authentic preferences. Ben & Jerry’s: Food as a Social Experiment Today you can go to the grocery store, farmers market, or local ice cream parlor and easily find all kinds of bespoke, artisanal, and small-batch ice creams and gelatos packed in charming pint packages with flavors that range from High Road Craft Ice Cream’s Bourbon Burnt Sugar 19 to Gelato Fiasco’s Wild Maine Blueberry Crisp 20 to Van Leeuwen’s Kalamansi and Melon Sorbet 21 to MilkMade’s Pine Needle. 22 These companies (and the ones named are but a small example of the entries into the exotic and small- batch ice cream market over the last ten years) have pushed the conventional limits on the normally sweet flavors of ice cream and forced the big players to up their games (even though the big boys still control the frozen dessert market). 23 So although Turkey Hill’s Party Cake 24 and Breyers’s Butterscotch Blondie 25 may not be as exotic as roasted turmeric and candied ginger ice cream 26 or rolled Thai ice cream, 27 new and maybe even risky flavor combinations from major producers also signal a sea change in the ice cream market. It wasn’t always that way. There was a time when Häagen-Dazs was the ultimate luxury ice cream brand. Its name sounded (and, thanks to the umlaut, looked) sophisticated and exotic—vaguely Scandinavian—even though it was founded by two Polish immigrants, Rose and Reuben Mattus, in the Bronx. 28 Its Vanilla Swiss Almond 29 was a rich and creamy escape from the ubiquitous chocolate and strawberry flavors in traditional half- gallon brick containers lined up along the frozen food aisle. Sold only in pints initially, Häagen-Dazs seemed special and indulgent, and it was. Then, in 1977, along came Ben Cohen and Jerry Greenfield, childhood friends from Long Island, New York, who wanted to start a business. They thought about bagels, but the equipment proved too costly, so they opted for ice cream—in Vermont no less, with its remarkably short summers and long, frigid winters. That year the two friends completed a correspondence course on making ice cream from Pennsylvania State University Creamery (also known as the Berkey Creamery). Since childhood, Ben Cohen had had severe anosmia, meaning he had no sense of smell, so going into the food business presented certain challenges for him.
+>>>

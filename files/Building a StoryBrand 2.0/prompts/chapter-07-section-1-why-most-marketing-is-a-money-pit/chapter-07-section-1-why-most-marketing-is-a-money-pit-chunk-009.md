@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-009",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 55018,
+    "char_end": 62688,
+    "checksum": "9ee5b018c10686e9"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+Star Wars movies, Yoda tells Luke to trust the Force and then trains him on how to wield this power. Lionel gives King George a series of exercises he can use to control his stutter in The King’s Speech. The point is that people are looking for a philosophy they can embody or a series of steps they can take to solve their problems. In the fourth element of the StoryBrand framework, we’ll look at two kinds of plans: the agreement plan and the process plan. Each of these plans will earn trust and offer our customers a clear path to stability, effectively creating a ladder they can use to get out of their hole, greatly increasing the chance they will make a purchase. 5. And Calls Them to Action
+
+STORYBRAND PRINCIPLE FIVE: CUSTOMERS DO NOT TAKE ACTION UNLESS THEY ARE CHALLENGED TO TAKE ACTION. In stories, characters don’t take action on their own. They must be challenged. If we’re telling a story about a man who needs to lose thirty pounds and suddenly decides to do it of his own volition, the audience will be unable to suspend disbelief. Why? Because that’s not how life works. There needs to be a reason our hero takes action. Our character has to run into a high school sweetheart who is now a yoga instructor, or he needs to lose a bet that forces him to run a marathon. In stories, heroes take action only after they are challenged by an outside force. This principle is true in story because it’s true in life. Human beings take action when their story challenges them to do so. You would be surprised how many companies don’t create obvious calls to action for their customers. They use phrases like “learn more” or “get started,” which are more like passive-aggressive suggestions than clear calls to action. A call to action involves communicating a clear and direct step our customer can take to overcome their challenge and return to a peaceful life. Without clear calls to action, people will not engage our brand. In the fifth part of the StoryBrand framework, I’ll show you two calls to action that have worked for thousands of our clients. One call to action is direct, asking the customer for a purchase or to schedule an appointment. The other is a transitional call to action, furthering our relationship with the customer so we can continue to earn trust until they are ready to place an order. This changed my life forever and more than quadrupled the revenue of my own company when I put it into practice. Once we begin using both kinds of calls to action in our messaging, customers will understand exactly what we want them to do and will decide whether to let us play a role in their story. Until we call our customers to action, they will be inclined to ignore us, but when we call them to action (the right way), they will engage and place orders. 6. That Helps Them Avoid Failure STORYBRAND PRINCIPLE SIX: EVERY HUMAN BEING IS TRYING TO AVOID A TRAGIC ENDING TO THEIR STORY. Stories sizzle or fizzle based on a single question: What’s at stake? If nothing can be gained or lost, nobody cares. Will the hero disarm the bomb, or will people be killed? Will the hero get the girl, or will he be lonely and filled with self-doubt? These are the desired stakes being weighed in the minds of a story-hungry audience, and if we fail to include them, the audience quickly loses interest. If there is nothing at stake in a story, there is no story. Likewise, if there’s nothing at stake in whether I buy your product, I’m not going to buy your product. After all, why should I? Simply put, we must show people the cost of not doing business with us. In the eighties, the fast-food chain Wendy’s effectively asked America, “Where’s the beef?” The implication was that their competitors weren’t using enough meat. So what’s at stake for choosing another brand over Wendy’s? We might get stuck with a wimpy sandwich. Likewise, Whole Foods has built an enormous industry helping customers avoid the consequences of overly processed foods, and Trader Joe’s flourishes by helping customers avoid the consequences of Whole Foods’ prices. All health food products are sold based on the stakes of un-health, feeling tired, shortened longevity, and so on. When inviting customers into a story, stakes matter. Brands that help customers avoid some kind of negativity in life (and clearly define what that negativity is by using plain language) engage them for the same reason good stories captivate an audience: they define what’s at stake. As we explore the sixth element of the StoryBrand framework, I’ll help you identify what’s at stake in your customers’ story as it relates to your brand. Before we move on, though, it’s important to note that by talking about your customers’ problems and by painting the negative stakes, you will not come off as negative. As I’ve worked with thousands of brands to incorporate the framework, they are often concerned their brand will come off as pessimistic and sour. If this is a concern for you, know that the deeper the hole your hero transcends, the more powerful and positive the perceived outcome. If you fail to paint the negative stakes, you’re essentially saying the hole your customer is in is not that deep, which cheapens the perceived value of your brand to rescue them. In other words, all negativity becomes positivity the moment the negativity is overcome. In element six, I will help you talk about the negative stakes your hero customers may encounter in such a way that they will think of you in the most positive light possible. 7. And Ends in a Success STORYBRAND PRINCIPLE SEVEN: NEVER ASSUME PEOPLE UNDERSTAND HOW YOUR BRAND CAN CHANGE THEIR LIVES FOR THE BETTER. TELL THEM. We must tell our customers how great their life can look if they buy our products and services. Ronald Reagan painted a picture of “a shining city on a hill.”2 Bill Clinton offered to help us “build a bridge to the twenty-first century.”3 During the dark and dreary Depression, Franklin Roosevelt used the song “Happy Days Are Here Again” as his official campaign song.4 Likewise, Apple provides tools that allow us to express ourselves and be heard, Weight Watchers helps us lose weight and feel great, and Men’s Wearhouse guarantees we will like the way we look. In essence, each of these brands lets potential customers (or voters) know what their lives can look like once they get out of their hole. Think of it this way: everybody wants to be taken somewhere, and if we fail to tell people where we are capable of taking them, they will engage another brand. In the seventh element of the StoryBrand framework, I’ll elaborate on a critical sound bite to round out your messaging strategy: offering a vision for how great a customer’s life could be if they engage your products or services. What sort of positive messages work? We will explore this and more in element seven. WHEN YOU FEEL CONFUSED, CLARIFY YOUR MESSAGE Right about now your head may be spinning. Even though there are only seven elements to the framework, how do we narrow down our message so our marketing and messaging material gets results? We’ve created a tool to simplify the process. This tool is going to reduce the hassle of creating a clear message, save you time, entertain you as you use it, and motivate you to create messaging material that works. As I mentioned earlier, this tool is called the StoryBrand BrandScript, and it’s going to become your new best friend. Not only this, but we’ve updated the StoryBrand BrandScript to include AI prompts that will allow you to not only generate better sound bites but expand those sound bites into full messaging and marketing campaigns you can use to invite customers into a story.
+>>>

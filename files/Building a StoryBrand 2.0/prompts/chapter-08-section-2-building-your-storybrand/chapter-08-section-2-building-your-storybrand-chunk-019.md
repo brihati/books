@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-019",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 124803,
+    "char_end": 132445,
+    "checksum": "4c61a757605eddc8"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+, and transitional call to action. Patients would come into the shop, sign and date an entry form, then sit in the lobby reading magazines or watching television while they waited for a nurse. As one of our StoryBrand certified coaches consulted with the clinic, she told the owner to remove the television and magazines. Instead, she encouraged them to create a transitional call to action called “The Healthy Body Checklist,” allowing patients to self-assess their health. The checklist included questions like, “Do you feel tired at about two in the afternoon every day?” and “Are you satisfied with your current weight?” After patients finished their drug or blood tests, we suggested that nurses
+
+review the checklist with each patient and let them know about solutions that were also available at the clinic. The receptionist could then enter the customer’s data into their email marketing system and, based on how a patient was tagged, an automated campaign would go into effect. If the customer seemed like they needed more vitamin B, they’d get a series of emails explaining the benefits of a monthly vitamin B shot, along with clear calls to action directing the patient to make another appointment. What happened? Sales, of course, increased. And why? Because the nurses provided a transitional call to action that identified the customer’s problems and then the clinic built a trusting relationship with each new client via an automated email campaign. Is there a transitional call to action you can create that will grow your business? Are your direct calls to action clear and repeated often? If not, your customers likely don’t know what you want them to do. Remember, people are drawn to clarity and away from confusion. Having clear calls to action means customers aren’t confused about the actions they need to take to do business with you, and having transitional calls to action increases the length and depth of the relationship you are building with customers. WHAT ARE THE STAKES? At this point in the optimizing of your messaging and marketing using the StoryBrand framework, customers are going to start placing orders. But let’s not stop. How can we make the story we are inviting customers into so enticing that they can’t wait to do business with us? To do this, we must define the stakes. What’s at stake in the customer’s story if they do or do not choose to buy our product? If we’ve not defined the stakes, we’ve missed the opportunity to make the story interesting. In the next two modules, I’ll teach you how to increase a sense of intrigue and urgency with your brand by defining exactly what’s at stake. Before we move forward, though, continue clarifying your business by brainstorming potential calls to action you can include in your StoryBrand BrandScript. CLARIFY YOUR MESSAGE SO YOUR CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Decide what direct call to action you want to include in your marketing material. Brainstorm any transitional calls to action you can create that will stake a claim to your territory, create reciprocity with your customers, further build a relationship, and position your brand as a guide. Fill out the “Call to Action” section of your StoryBrand BrandScript. To learn more about our sales training, visit StoryBrandSalesTransformation.com OceanofPDF.com CHAPTER 9 THAT HELPS THEM AVOID FAILURE StoryBrand Principle Six: Every human being is trying to avoid a tragic ending. A story endears an audience based on its ability to generate interest in a single question: Will the hero succeed or fail in accomplishing their objective? To encourage the audience to care about the hero and their objective, a good storyteller employs well-worn narrative tactics. For example, the first thing the storyteller must do is make the hero relatable and sympathetic: This is why so many stories begin by showing you how the hero became an orphan. Orphans are sympathetically endearing to every human being because orphans are almost always innocent creatures who are lost and in need of completion, which is a state humans find themselves in several times each week. All of us feel like orphans from time to time, even if we had terrifically attentive parents. To feel like an orphan, in the psychological sense, is to realize that your life is your own and in the end you’re going to have to take responsibility for that life in your search for completion. In a meaningful narrative treatment, then, the completion the hero must find takes on a symbolic form of some sort, such as accomplishment (Daniel winning the karate tournament in The Karate Kid) or relational fulfillment (every romantic comedy you can think of) or a return to home (Lord of the Rings and all the Benji movies). In short, the storyteller’s job is to make us care about the hero as long as it takes for the story to feel like a difficult and transformative journey. This is all fairly easy to accomplish by establishing an early hardship (a hero in a hole) and then stating a clear objective (the hero standing on the edge of the hole, reflecting back on how the journey changed them.) The hard job of the storyteller, though, is stretching it all out for ninety minutes or two hours or, in the case of a narrative series, several seasons on Netflix. So how do the storytellers elongate the plot so they can get a full-length feature out of the story idea? They interject conflict and then dangle high stakes. In a previous chapter we talked about your customers’ problems and how important it is to understand them and speak of them often. You will remember that the more you speak of your customers’ problems, the more likely they are to buy your products. But speaking of your customers’ problems will be twice as effective if you add one more element to your campaign—negative stakes. In storytelling, narrative stakes are what’s at play based on whether the hero accomplishes their objective. The higher a storyteller can raise the stakes, the more the audience leans in to find out what will happen. Throughout a story, storytellers foreshadow a potential successful ending and a potential tragic ending. The audience remains in suspense as long as the storyteller keeps the hero teetering on the precipice of success and failure. The key here is to use stakes in the story to shorten the audience’s leash. Need to raise the stakes in a romantic comedy? Have the young woman fall in love with the hero’s brother, who, by the way, is a jerk and a bully and a con artist. Then, continue to show the bully brother reeling in the romantic interest through lies and deception, all the while making the audience cringe at how horribly this story might end. If the young woman marries the con artist brother, both her life and the life of the hero will be ruined. Of course, any time the storyteller needs to heighten a sense of urgency, they can simply pull on the “make the brother do something awful” lever and the audience will lean in even more. Storytellers use stakes as plot devices all the time, and in our journey to clarify our brand’s message, we can learn something from this proven tactic. The question we must then ask ourselves as we clarify our message is, What can be won or lost in our customers’ lives if they do or do not purchase our products? The only two motivated actions a hero can take in a story are to move away from something bad or move toward something good. Such is life. Our desire to avoid pain motivates us to seek a resolution to our problems. If a storyteller doesn’t clearly let an audience know what no-good,
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-010",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 62007,
+    "char_end": 69640,
+    "checksum": "e89202f4b3629e63"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+Revlon could transform its secondary packaging, encasing its lipstick in a small fitted box that would feel more exclusive and gift-worthy. (When it comes to selling beauty products, the ritual of self-gifting should be considered.) Likewise, Revlon could engrave its name or logo into the wax of the stick; for Chanel, this design element makes the actual application feel less generic, more identifiable. Revlon also could consider reframing the language in its ads, which currently focus on the functionality (“wax-free gel technology”) and use clichéd and corny expressions (“love at first swipe”) and lack the enticing visual cues and more powerful/original photographic styles of Chanel’s ads.
+
+In terms of merchandising, Revlon could showcase its items by collection (ColorStay, PhotoReady) or look (smoky eye, sultry rocker), not category (lipstick, mascara). This would steer consumers away from buying individual (problem solution) items and toward buying seasonal sets and total styles. But above all, it would enable consumers to dream. When it comes to makeup, consumers are buying an experience that can be accessed through a suite of products that seem customized and proprietary. The nail polish brand Essie does this well. Like Revlon, Essie is sold in the mass market and at a fraction of the price of Chanel lacquer (starting at $4.29 at Target, compared to $28 for Chanel’s Le Vernis at Neiman Marcus). Essie’s breakthrough is the signature design of its bottles, which allocates maximum space to the shade within the bottle. Even the brand name Essie is engraved into the glass, rather than printed on a label that might conceal or detract from the contents of the bottle. Above all, Essie creates value and appeal through its iconic naming of the individual colors from function to emotion (i.e., Ballet Slippers instead of Light Pink, Size Matters instead of Bright Red). The Sound and Shape of Good Taste Culinary taste is not a sense that comes into play as often as the other four senses. However, for anyone who is dealing with food and drink, it’s imperative to get the senses surrounding taste right. Even if a product is well made from the freshest, highest-quality ingredients, other factors can make even the most delicious meal, snack, or cocktail a disaster. Let’s start with something simple, such as wine in a glass. The thinner the glass, the better the wine tastes—and that’s not snobbery talking; it’s science. Vapors from wine rise differently from certain shapes and thicknesses of glass, say chemists—and this has either a positive or a negative effect on the way wine tastes. 17 There is a popular belief that champagne tastes best out of a long, tall flute and that bubbles dissipate quickly from an old-fashioned (but still charming) coupe. In reality, a good champagne tastes best when served in a fine, thin white wine glass. Restaurants (and others) that serve fine champagne in flutes or coupes actually diminish the drinking experience. “The flute keeps the wine effervescent, and one of the reasons we love champagne is because of its bubbles,” says Seth Box, private client director for Moët Hennessey, which owns some of the world’s finest champagne brands, including Krug, Moët & Chandon, and Veuve Clicquot. However, a flute keeps you from experiencing the wine’s aroma, which is part of the tasting experience. “You can’t really stick your nose in a narrow flute,” Box notes. Steven Kolpan, professor and chair of wine studies at the Culinary Institute of America (CIA) in Hyde Park, New York, tells the story of going with friends to a restaurant, to which he took along some special wines to have with the meal. The restaurant owner agreed to serve the wines and did so in a professional manner. “But then they brought the wine glasses to the table, and they were crap—thick balloons that made each white wine taste sour and each red taste bitter,” he wrote. “All the wines suffered from a short ‘finish,’ the potentially lovely aftertaste that helps to define a great wine. I was bummed. These fine wines, served in crap glasses, tasted like crap. And crap wines did nothing to enhance the carefully prepared food, a lose/lose proposition for our table and the hard-working folks at the restaurant.” 18 Kolpan set up a tasting at home to test this theory, putting wine into glasses that ranged from a “jelly glass” to a standard tasting glass to a whisper-thin Riedel wineglass with a bowl that suited the wine being served. His friends felt that the wine “floated” in the finer, thinner glasses (pointing to the fact that we taste with both our tongue and our eyes) but that the wines tasted better in the thinnest glasses. “We found increased complexity and balance in the flavors and aromas, and not at all in a subtle way. There was an incredible difference: great wines tasted like plonk in the jelly glasses, and magnificent in the ideal ones.” The difference in how wine tastes in different glasses is often so dramatic that Kolpan says often people didn’t believe they were tasting the same wine. 19 Restaurants, which require both volume of sales and durability of glassware, can certainly achieve both while still doing justice to wines and the customer experience by providing the right glasses. Del Frisco’s changed its wineglasses in October 2017 to upgrade the experience. Customers at the restaurant know wine, especially reds, so the glasses must match the expectations of the guest and enhance the drinking experience. “Our wine list focuses on big, full-bodied reds. When you run a wine program you need something that works for the customer, to enhance the drinking experience, and the needs of a busy restaurant,” says Jessica Norris, former director of beverages for the chain. “Our all-purpose glass, Spiegelau’s Soiree, can house anything well. It’s quality crystal, and it is durable. It’s an elegant glass.” These are the glasses customers find on the table when they arrive and are used for wine-by-the glass sales. “If someone orders a bottle of wine, we elevate the glass further and serve it in Spiegelau’s Beverly Hills glass. We use Riedel’s Sommelier series for customers who order a bottle of wine costing $500 or more.” 20 In this way, the wine experience is matched by the glass. The change in glasses is in great part responsible for the restaurants’ uptick in wine sales. Another instructive example of the interactions among sensations is the taste of airline food, which most people find bland and unappetizing. Since our brains are wired to combine information from all sensory modalities, sound can influence taste. Studies show that when we are inside a pressurized cabin, the flavors of all foods, from pasta to wine—or at least our ability to perceive them—drop precipitously. There are several biological reasons for this, says Charles Spence, a professor of experimental psychology at Oxford University: lower air pressure, lack of humidity, and background noise. Our senses of taste and smell are the first things to go at thirty thousand feet, according to Russ Brown, the director of in-flight dining and retail at American Airlines. Flavor perception is a combination of both, and our perception of saltiness and sweetness drops about 30 percent when we are inside a pressurized cabin. However, it’s not just our taste buds that are affected by an airplane’s environment. About 80 percent of what people think they are tasting, they are actually smelling. Because evaporating nasal mucus is necessary to smell, the dry cabin makes our odor receptors malfunction, making food taste only half as flavorful as it actually is. 21
+>>>

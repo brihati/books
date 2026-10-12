@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-09-section-3-executing-your-storybrand-messaging-an",
+  "chunk_id": "chapter-09-section-3-executing-your-storybrand-messaging-an-chunk-010",
+  "source": {
+    "chapter_title": "Section 3: Executing Your StoryBrand Messaging and Marketing Campaign",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/09 - Section 3 Executing Your StoryBrand Messaging and Marketing Campaign.txt",
+    "source_pages": "166-214",
+    "char_start": 61953,
+    "char_end": 69579,
+    "checksum": "a4974b48a372de7d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ithout having built a large email list. Because we have collected emails, we are able to earn trust by offering free value, invite customers to helpful webinars and live streams, give away massive amounts of content, offer the free use of our software tools, and, of course, let customers know when I release a new book or product. Now that you’ve obtained email addresses through your lead generator, the next step is to create an automated email campaign that provides value and earns trust. Also, an automated email campaign is a terrific way to remind customers you exist. And if they happen to open your email (you’ll be surprised at how many people actually do), then it’s a great way to invite
+
+them into a story in which the value you provide can change their lives. What is an automated email campaign? An automated email campaign is a prewritten sequence of emails that begin to go out once a person is added to your list. Some people call this an “auto-responder series,” but the idea is to invite customers into a narrative that enlightens them and builds a relationship. The same trust-building experience can be created via text too. With text, you want to keep things short and likely provide links to helpful tools, or you can limit it to sales announcements or special offers. Text, by the way, is also an incredibly effective way to keep your brand in people’s minds, long before and long after they place an order. In fact, I get routine text messages from a brand called Hank’s Belts. Hank sells, you guessed it, belts. I’ve never been much of a belt guy, but when I bought a belt from Hank’s Belts as a Christmas present for my father-in-law, the business texted me almost every day for months. Surprisingly, the text messages never bothered me. They were usually special offers or announcements of a new belt or line of belts, and, well, I was kind of interested. Later, when I actually needed a new, black, dress belt, I immediately thought of Hank’s Belts and visited their site and placed an order. Not only this, but I’ve told friends about Hank’s Belts. You might think I have told friends about Hank’s Belts because they make good belts, but the truth is, that’s not the reason at all. Lots of companies make good belts. I told my friends about Hank’s Belts because they’ve moved into the mental real estate of my mind by sending frequent text messages! In other words, they made me remember them by staying in touch and reminding me they exist. This, in short, speaks to the power of email and text-message marketing. DOES ANYBODY READ THESE THINGS? Don’t worry if the open rates on your emails are low. A 20 percent open rate is the industry standard, so anything above that is performing well. And remember, even if a person sees and deletes an email, the goal has been accomplished: you are “branding” yourself into their universe. If someone unsubscribes from your list, that’s a good thing. That person probably never would have bought from you anyway; besides, the subtraction of an email reduces the size of your list, so you aren’t paying your email service provider for emails that customer doesn’t want. The last thing you want to do in your marketing is bother someone, so if a person unsubscribes, all the better. It’s more important to have a list of qualified, interested subscribers than a large number of people who never intend to place an order. I’m subscribed to plenty of mailing lists and hardly ever open emails from them. Why don’t I unsubscribe? Because every twenty or so emails, they send something I actually want to open. But even the emails I don’t open are effectively branding the name of those companies into my conscious mind and thus my mental list of options when it finally occurs to me that I need the sort of products they sell. Getting Started with Email and Text Marketing I will talk about text-message marketing in a bit. First, though, let’s talk about email marketing campaigns and how they can help you grow your business. While there are many kinds of automated email campaigns, the one we recommend starting with is the nurture campaign. A nurture campaign is a simple email that offers your subscribers valuable information as it relates to your products or services. Not unlike your lead generator, you want these emails to continue positioning you as the guide and to create trust and reciprocity with potential customers. There will come a time to ask for a sale, but this isn’t the primary goal of a nurture campaign. A typical nurture campaign may have an email going out once each week, and the order might look like this: Email #1: Nurture email Email #2: Nurture email Email #3: Nurture email Email #4: Sales email with a call to action The pattern of sending three nurture emails followed by a sales email can be repeated month after month for as long as you want to send them. Some brands never stop, just sending out an indefinite number of emails for as long as the customer stays subscribed to the list. I think this is smart marketing, honestly, because you never know when your customer is going to have the problem your product solves. And when they do, you want them to remember you. That said, I recommend creating a few months’ worth of material to get started and then adding to that campaign as you have time to create more. The idea behind a nurture campaign is to offer something of great value and then occasionally ask for an order. If your lead generator does its job of acquiring new contacts, in a short time you will have hundreds of potential customers being introduced to and reminded of your business week after week. And when those customers need help in your area of expertise, they will remember you and place an order. So what’s the difference between a nurture email and a sales email with an offer and call to action? What Is a Nurture Email? A good way to craft each nurture email is to use an effective formula that offers simple, helpful advice to a customer. I’ve been using this formula for years because it helps me offer clear value. Paragraph #1: Talk about a problem. Paragraph #2: Offer a plan, idea, recipe, or formula that solves the problem. Paragraph #3: Describe what life can look like if the problem is solved. Paragraph #4: If possible, turn the advice into a three-step plan and use those steps to summarize your advice. I also recommend including a postscript, aka the PS. Often, the PS is the only part of the text somebody who opens a mass email will actually read. That’s really it. If you cover these four areas as efficiently as possible, you’ll be crafting emails your customers open, read, and remember. And don’t forget, StoryBrand.AI can actually write a rough draft of these emails for you. WHAT ARE THE ELEMENTS OF A GOOD NURTURE EMAIL? Here’s how a nurture email campaign works: Recently we consulted with the owner of a dog boarding company interested in growing her business. We recommended she create a lead-generating PDF called “5 Things Your Dog Thinks About When You’re Away” in exchange for the email addresses of qualified customers. What dog lover wouldn’t want to read a PDF with a title like that? Perfect. A few days after somebody downloaded the PDF, they would get the first email in the nurture campaign. That email looked like this: Subject: Should We Free Feed Our Dogs? Dear ______, At Crest Hill Boarding we’re often asked whether it’s okay to free feed our dogs. Free feeding a dog is certainly the easiest way to make sure a dog always has food and never goes hungry, but there are some problems you should know about when it comes to free feeding. Dogs that
+>>>

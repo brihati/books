@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-002",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 6270,
+    "char_end": 13951,
+    "checksum": "770b7707bcf9ad24"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+almost half of our preferences for some flavors over others, what determines the other half? And how can the other half be shaped by experience, exposure, and effort? Other Senses, Other Qualities All our senses come into play when we eat. The British food writer Sybil Kapoor, the author of Sight Smell Touch Taste Sound: A New Way to Cook, examines how foods can stimulate different senses: “the downy touch of a peach skin, the scent of freshly picked basil, the shock of sour lemon juice.” 5 In her book, she impresses upon readers the importance of becoming aware of how temperature can make food taste different. She suggests that iced coffee is not as bitter tasting as hot coffee because heat
+
+intensifies our reaction to bitter flavors. In order to bring out the full flavor of food, it’s best to serve it at room temperature. Any good cheesemonger will tell you this: it’s better to bring that wedge of cheddar or wheel of Camembert out of the refrigerator at least an hour before serving to truly experience the subtle layer of flavors various cheeses offer: sweet, salty, nutty, milky, grassy, and so on. Even the way food is sliced affects how it tastes; a thick slab of roast beef is gamey and chewy, while a paper-thin slice, cut against the grain of the meat, is more tender. Similarly, a thin slice of Thanksgiving turkey breast can be dry, papery, and flavorless, while the whole breast, cut thicker and on the diagonal, is juicy and buttery. While nibbling on a chunk of Parmesan, you may focus on the gritty texture in lieu of its salty nuttiness. A lot of what we think of as taste is actually smell. Kapoor suggests taking a fresh bay leaf, crushing it in your hand, and then smelling the bruised leaf. The unmistakable herbal essence is a pleasant reminder of wintery dishes and hearty soups. However, if you taste the leaf, you’ll find it to be quite bitter and unpalatable. The same is true of vanilla extract. It smells divine, but take a sip and you will find it bitter and harsh. Many people love the scent of garlic being crushed for a sauce or other dish, but the taste of raw garlic is acrid and stings the tongue. The pleasure of these and many other foods is really in our nose, not on our tongue. 6 Yet we are, in essence, suffering from a collective anosmia. A study published in early 2018 by the biologist Asifa Majid found that modern Westerners have a feeble sense of smell compared with that of hunter- gatherers in the Malay Peninsula. Dr. Majid wrote that hunter-gatherers find “odors as easy to talk about as colors, yet for your average Westerner our olfactory life goes past unnoticed and unremarked.” 7 Physical environment also colors the eating experience. I’m sure you’ve been in a “greasy spoon” and had a terrible meal mostly because the space you were in was vile: harsh fluorescent lighting, dirty floors, sticky tables, ripped vinyl seats, and the smell of rancid oil hanging in the air. In a situation like this, the food tastes bad before you even put it into your mouth. Contrast that with a picnic of fresh cheese, plump grapes, red wine, and a warm baguette enjoyed on the banks of the Seine. The bread is crispy on the outside and warm and chewy on the inside, the yeasty aroma still apparent as you break it in half. The Brie is just the right degree of runny, the grapes pop open in your mouth with an audible snap, and the wine is ruby red, sumptuous, and fruity as it hits your nose even before it touches your tongue. Of course, the atmosphere in which you consume this simplest of meals adds to the sensations and experience. Glorious. Unfortunately, we’ve become numb not only to the power and effect of our individual senses but also to the interconnections among our senses when it comes to experience. And this is true not only when it comes to food; I would argue that it is true in all areas of aesthetic experience. Memory and Meaning Even though our individual DNA has a lot to do with how we perceive and enjoy tastes, nature isn’t in complete control. How we are introduced to food in our families and communities, and the messages we receive about foods that are all around us, also make a difference and can in fact outweigh our natural predilections. When we prepare food, the ritual of peeling, slicing, mixing, and sautéing evokes various memories of home, childhood, romance, fun, meals we’ve eaten, and gatherings we’ve enjoyed. Food and flavor preferences are inextricably tied to personal experience. The touch, taste, smell, and look of food induce strong and meaningful emotional associations. We’ve already seen this in terms of how the shape, thinness, clarity, and quality of a wineglass affect how wine tastes, as we discussed chapter 2. Culture and Taste Our tastes continue to evolve, in part, through the introduction of new multicultural foods and flavors. As the world grows more connected and people are more apt to migrate and travel, flavor preferences once thought of as regional have spread and the desire for new flavor profiles has expanded. Chris Lukehurst, an international food industry consultant at the Marketing Clinic, based in the United Kingdom, says, “The globe is getting smaller. While many countries maintain very strong food cultures, they are increasingly also affected by influences from outside.” This should not be a surprise to any of us. Take any national or regional cuisine, and you will invariably find that there is much academic debate about where it originated. “Did pizzas really originate from Naples, when ancient Greeks and Egyptians all ate unleavened flat breads with various toppings from as far back as we know? All cuisines are an amalgamation of local food availability, external influences, and historical evolution, and this evolution continues today. Cultural influences such as films, fashion, even health messages, affect what we choose to eat. Culture is not frozen but evolving, and we are all part of this evolution,” notes Lukehurst. That evolution explains contemporary Italian teenagers’ preference for American-style beer over Italian wines. Wine has strong traditional roots in Italy and is unlikely to disappear from Italian menus, but the choices that Italian teens make are affected by cultural influences, including those from American pop culture, says Lukehurst. Italian teens increasingly drink beer in situations where their parents would have drunk wine or water. As the demand for American-style beer expands in Italy, beer companies have moved in to satisfy it. “It may or may not be fair to say that [beer makers] are aggressively pursuing the teen market, but they are definitely ensuring that they meet demand.” It is worth noting, however, that in many European countries millennials and the up-and-coming Generation Z are drinking less alcohol than their parents overall, including beer and wine. “They are not acquiring the taste for alcohol in their teenage years or early twenties and do not feel the same need to drink that we saw in earlier generations,” says Lukehurst. 8 In China, something that was once an almost completely alien beverage, coffee, now represents a fast-growing, competitive market. 9 Homegrown companies are also aggressively taking on US powerhouses such as Starbucks. 10 Likewise, the potato chip market in China, once nonexistent, has grown exponentially in the last twenty years as China’s means of production have become more sophisticated and consumer tastes have broadened. 11 Frito-Lay, a major player in China’s chip market, is known for developing unusual flavored chips, often with a regional twist (New England Lobster Roll, Cajun Spice, etc.). 12 It’s doing the same thing in
+>>>

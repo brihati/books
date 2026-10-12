@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-024",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 139392,
+    "char_end": 147068,
+    "checksum": "be3afd70f3088cdf"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ve and innovative objects you can use at home,” Bertazzoni wrote in a letter to SMEG’s Australian division on the company’s seventieth anniversary. 24 Why does this Italian kitchen line have such a strong and impassioned fan base? Following the lines of the original Volkswagen or more current Mini Cooper, with their curvilinear bodies; playful, catchy colors; and strong chrome detailing, SMEG products embody 1950s Italian design— also associated with brands such as Vespa and Lambretta—and unlike other kitchen brands, it is more aesthetic than lifestyle driven, providing a unique look and pop of color and a refreshing break from the oppressive stainless- steel look of most kitchen appliances.
+
+In short, SMEG appliances are fashion-forward accessories for the kitchen. You don’t want to hide them. When companies become trapped by their historic success, they lose touch with the aesthetic sensibilities, preferences, and demands of their current customers. In essence, they grow insular and fail to possess the level of aesthetic empathy needed to evolve. It is not enough to have a highly developed aesthetic sensibility. That is empathy: the ability to perceive, envision, and appreciate the emotional responses to and preferences of others for external stimuli. Without empathy you can’t effectively revisit, revise, and continually improve what you are doing—what the Japanese call kaizen. No Room to Roam What is the aesthetic process for building a new, captive, and loyal customer base, notwithstanding all the competitive pressures and “noise” in the marketplace? The challenge facing most upstarts, especially in the small consumer goods arena, is that they find themselves competing in ever more crowded, competitive, and mature sectors. Yet some new companies, including the eyeglasses maker Warby Parker and the clothing brand Everlane, have managed to break through the clutter. As of this writing, Warby Parker has an estimated worth of about $1 billion. 25 It’s big today, but it started out as an idea of four business school students who wondered why eyeglasses, little pieces of plastic, were so expensive. Answering that question led to an epiphany about how they could sell fashionable specs at a much lower price. It turned out that the same company, Luxottica, that owns the eyeglasses giant LensCrafters, also owns Pearle Vision, Ray-Ban, and Oakley, as well as the licenses for all Chanel and Prada prescription frames and sunglasses, and many other brand-name glasses. 26 Warby Parker’s founders felt that bypassing retailers and their middlemen could save consumers the 300 percent markup that occurs when eyeglasses are sold in a store. For people who like to buy designer eyewear brands such as Chanel, Luxottica pays the brand a licensing fee, adding even more of a premium onto the retail price tag. The popularity of brand-name eyeglasses gave the founders of Warby Parker a big hint in terms of succeeding in the eyeglasses business: they would have to pay attention to customers’ aspirations to create an elevated experience of buying glasses. “How do customers shop for glasses. First and foremost, they check do these look good on your face. So we’re a fashion brand first,” cofounder Neil Blumenthal told Forbes. 27 The eyeglasses are fashionable and fun, and the buying experience is great. You order five frames, which are delivered to you for free with return postage included. Then you can try them on, ask your friends how you look in them, pick one, and send them all back along with your prescription. Days later your new glasses arrive—at a fraction of the price of retail. And although price certainly addresses a nagging question everyone who wears glasses has asked at one time or another (why does this lump of plastic cost so much?), it’s the experience and the hip look of the glasses and the way customers can experience them that have catapulted Warby Parker into a segment of its own. The direct-to-consumer fashion house Everlane wrapped up 2016 with $100 million in revenue, not bad for a start-up that sells basics such as T- shirts, shift dresses, pullover sweaters, and blue jeans. 28 Its aesthetic magic is found not in its timeless silhouettes but in the way the company addresses the desires of its target market, millennials. The idea is that this demographic wants to know where its clothing comes from and how it’s made. As a result, Everlane provides shoppers a breakdown of what items are made of, where they are made, and how much it costs to produce them. You can follow a link to the factory where clothes are made to inspect the working conditions. 29 Everlane also uses social media platforms where millennials are prone to be found, such as Snapchat and Instagram, to talk about its manufacturing processes, answer questions, and show off “street fashion,” real customers wearing Everlane clothing in various cities and towns. As a result, the company is a master of engagement and transparency (or the illusion of it), which resonates with customers in ways that take them beyond a simple black T. These brands masterfully create moments for customers—experiences that differentiate their value propositions from that of more conventional players in highly competitive sectors. Their engagement goes well beyond the design of sellable products, their features and functionality; it is built on experiences that foster a sense of community and feed curiosity and connection among buyers. An Industrial Dilemma This set of challenges pertains to companies in industrial goods, which are made and marketed on the basis of their utility. People who buy such goods primarily want them to be effective and to last because replacement of such products comes at a high price. Most of us don’t want to have to replace our SUV each year, nor do we want to install an oven every six months or paint our living rooms on a sixty-day schedule. Some companies, including Dyson (vacuum cleaners), Viking (stoves), Yeti (coolers), Harry’s (razors), Benjamin Moore (paint), and Porcelanosa (floor tile), have used aesthetic models to create brands that are sought and valued for far more than their products’ features and functionality. The aesthetics of utility is so paramount to Dyson that it recently announced it would no longer develop plug-in vacuum cleaners but would focus its innovation efforts on cordless and robotic varieties and features. 30 Most of us know what it’s like to tangle a vacuum cleaner cord around a table leg, suck it into the mouth of the cleaner, or trip over it. It’s annoying. It prevents many people I know from even bothering to drag a vacuum cleaner out of the closet unless it is absolutely necessary for their well- being. Cordless and robotic vacuum cleaners have been a boon to cleaning people and homeowners everywhere—combined with Dyson’s strong sucking technology (a feature it first marketed, a vacuum cleaner that would not lose suction), the company really came to the rescue for those of us who want cleaning and maintenance to be simple and quick. This is the epitome of empathy—creating a product not because it’s easy for Dyson but because it makes cleaning easy and even enjoyable for its customers. The brilliance of Yeti is its ability to turn a banal camping and hunting and fishing accessory—a cooler—into a true object of desire. The product is so effective (even a starving grizzly bear can’t break into the cooler when locked) that customers brag about it for the company. They do the marketing for us. Yeti is really not about coolers, however. It’s about the great outdoors and preserving the natural world. It’s about sportsmanship and the wilderness.
+>>>

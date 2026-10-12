@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-006",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 34119,
+    "char_end": 41795,
+    "checksum": "04a577a3eaf1c099"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+be real. Never go down the path of being a fear- monger. There are plenty of actual villains out there to fight. Let’s go after them on behalf of our customers. 5. Another thing: the villain doesn’t have to be serious. If you’re creating the messaging for the upcoming Boston Red Sox versus New York Yankees series, personifying your opponent as the villain is just smart marketing. Turning the opposition into a villain will fill the stands at either stadium and increase the urgency the audience feels while rooting for their team. Is there a villain in your customers’ story? Of course there is. What is the chief source of conflict that your products and services defeat? Talk about this villain.
+
+The more you do, the more people will want a tool to help them escape the villain’s deadly grasp. Later, when you’re creating your BrandScript, I’ll ask you to brainstorm what kind of villain your customer faces. For now, though, let’s look closely at the kinds of conflict this villain causes. Once we understand the three levels of problems our customers encounter, we’ll have a better idea of how to talk about their problems in such a way that they engage. The Three Levels of Conflict A villain is the antagonist because they cause the hero serious problems. That’s obvious. But what’s less obvious is that in a story, there are three levels of problems that work together to increase the urgency and draw the moviegoing audience further and further in. The three levels of problems heroes (and customers) face are external problems, internal problems, and philosophical problems In a story, a villain initiates an external problem that causes the character to experience an internal frustration that is, quite simply, philosophically wrong. These are also the three levels of problems a customer hopes to solve when they buy a product. I know that sounds complicated, but let’s take a closer look at each level of conflict so we know exactly how to talk about each frustration so that it is as intriguing as it can be. EXTERNAL PROBLEMS In literature, a villain’s job is to wreak havoc on the hero, to place barriers between them and the stability they desire. But ill intentions aren’t enough. Something, that is, some thing (or things) must represent this barrier. Enter the external problem. In stories, the external problem is often a physical, tangible problem the hero must overcome in order to save the day. The problem might manifest itself as a ticking time bomb or a runaway bus, or maybe even a combination of the two: a bomb on a bus that will go off if Keanu Reeves doesn’t keep the speed above fifty miles per hour! The external problem works like a football set between the hero and the villain, and each is trying to gain control of it so they can win the game. For Billy Beane in the movie Moneyball, the external problem is the need to win baseball games. For Matthew Broderick in the movie WarGames, it’s a piece of rogue software that has taken over the American government’s computer system and is waging a deadly war against the Soviets. But what does the existence of an external problem in a story have to do with branding? Well, most of us are in the business of solving external problems. We provide insurance or clothes or soccer balls. If we own a restaurant, the external problem we solve is hunger. The external problem a plumber fixes might be a leaky pipe, just like a pest-control guy might solve the external problem of termites in the attic. Brainstorming what external problems you solve will be the easiest part of creating your StoryBrand BrandScript. The external problem is usually obvious. But you’d be wrong to think the reason people call you, walk through your door, or visit your website is limited to the resolution of an external problem. Something else is going on. INTERNAL PROBLEMS By limiting our marketing messages to external problems, we neglect a principle that is costing us thousands and potentially millions of dollars. That principle is this: companies tend to sell solutions to external problems, but people buy solutions to internal problems. The purpose of an external problem in a story is to manifest an internal problem. If I wrote a movie about a guy who simply needed to disarm a bomb, audiences would lose interest. What storytellers and screenwriters do, then, is create a backstory of frustration in the hero’s life. In the movie Moneyball, for instance, Billy Beane failed in his playing career and so was filled with self-doubt about whether he could redeem himself as a general manager. In Star Wars, Luke Skywalker was told by his uncle that he was too young to join the Rebellion, so he doubted his ability until the very end. In almost every story the hero struggles with the same question: Do I have what it takes? This question can make them feel frustrated, incompetent, and confused. The sense of self-doubt is what makes a movie about baseball relatable to a soccer mom and a romantic comedy relatable to a truck-driving man. Stories teach us that people’s internal desire to resolve a frustration is a greater motivator than their desire to solve an external problem. This is where most brands make a critical mistake. By assuming our customers only want to resolve external problems, we fail to engage the deeper frustration they’re feeling. The truth is, it’s those frustrations that are motivating them to call you. The key to discovering your customers’ internal problem is to ask yourself (or preferably, them) what the external problem they are dealing with is causing them to feel. For instance, if you sell childcare, the external problem is that the kids need a nanny, but what is this need causing your potential customers to feel? Helpless? Hopeless? Tired? Overwhelmed? These are the internal problems your customers are experiencing, and the more you talk about them, the more people want to buy your product so they can resolve those frustrations. When we ask, “What does this problem make our customers feel?” we can easily brainstorm great copy that will improve our marketing efforts. After their near collapse, Apple didn’t find their footing until Steve Jobs understood that people felt intimidated (internal problem) by computers and wanted a friendlier interface with technology. In one of the most powerful advertising campaigns in history, Apple showed a simple, hip, fun character who just wanted to take photos and listen to music and write books next to a not-so-hip tech nerd who wanted to talk about the inner workings of his operating system. The campaign positioned Apple Computers as the company to go to if you wanted to enjoy life and express yourself but felt marginalized by all the tech talk. In this specific campaign, Apple started selling more than computers; they sold a resolution to the problem of customer intimidation. Understanding their customers’ internal problem is one of the reasons Apple experienced rapid growth and created passionate brand evangelists. The only reason our customers buy from us is because their external problem is frustrating them in some way. If we can identify that frustration, put it into words, and offer to resolve it along with the original external problem, we do more than just sell our customers products; we bond with our customers because we’ve positioned ourselves deeply into their narrative. For example, if we own a house-painting business, our customer’s external problem might be an unsightly home. The internal problem, however, may involve a sense of embarrassment about having the ugliest house on the block. Knowing this, our marketing could offer “Paint That Will Make Your Neighbors Jealous.”
+>>>

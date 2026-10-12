@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-025",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 146368,
+    "char_end": 154069,
+    "checksum": "d54f2f37947ac4fc"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+he rescue for those of us who want cleaning and maintenance to be simple and quick. This is the epitome of empathy—creating a product not because it’s easy for Dyson but because it makes cleaning easy and even enjoyable for its customers. The brilliance of Yeti is its ability to turn a banal camping and hunting and fishing accessory—a cooler—into a true object of desire. The product is so effective (even a starving grizzly bear can’t break into the cooler when locked) that customers brag about it for the company. They do the marketing for us. Yeti is really not about coolers, however. It’s about the great outdoors and preserving the natural world. It’s about sportsmanship and the wilderness.
+
+Founded by two brothers, Ryan and Roy Seiders, who really wanted to start a fishing rod company, the brand was first marketed to serious fishermen and hunters (hobbies the brothers also enjoy). 31 The so- called hook and bullet crowd almost immediately took to the coolers’ ability to protect what was inside and keep it fresh and cool much longer than competitor products from longtime industry leaders such as Coleman and Igloo. The company also helps consumers when it comes to replacement parts —an issue that sends many buyers of other coolers to the store for a full- scale replacement. Replacing a $500 cooler because a part becomes unusable is not good aesthetics for a business that is in great part based on consumer confidence and trust. The cooler is designed so that anything that is breakable can be quickly replaced, hassle-free. “If you’re at home and your dog chews that [rope handle] off, instead of sending a replacement cooler, we’re letting the customer know, ‘Hey, take a flathead screwdriver, pop that out, this falls out, and we’ll send a new one,” Ryan told Inc. 32 But is the ability to keep beer and fish fresh a few hours longer really worth the ten-times-higher price tag ($300 to $1,300 each compared to $25 to $150 each for competing brands)? No. The brothers’ ability to create an authentic brand story became more important to its success than the indestructibility of the product. That narrative was what helped make it into a $450 million company in a very short span of time—less than twenty years. Benjamin Moore recently introduced a new line of paints called Century to compete head-to-head with several upscale brands that have grown in popularity, such as Farrow & Ball, Fine Paints of Europe, and Craig & Rose. Century is a line of premixed, small-batch paint in a soft-touch matte finish engineered by master craftsmen and chemists in a section of the company’s Newark, New Jersey, paint factory. “I have never considered paint to be so tactile,” says designer Caleb Anderson, whose business partner, Jamie Drake, agrees, “The ‘touch me’ samples [even the decks are hand-painted] really made me interact and think about the paint differently. It feels truly sensual.” 33 Another designer told Architectural Digest that Century helps fight “the tyranny of drywall in America.” 34 To further add to the experiential quality of Century paint, Benjamin Moore developed colors inspired by natural elements, including gems, minerals, herbs, spices, and plants, such as a purple-y Ametrine, sage-green Beauvillon, oceanlike Blue Muscari, and a cool burgundy called Alizarin. Interestingly, the line contains no shades of white. The colors are matched by a tactile experience that many say feels like soft kid leather once the paint is applied to the wall. In this way, by engaging more than one sense, sight, and adding touch, Benjamin Moore, in effect, made something very flat and boring into something interesting and complex—while still accessible. The paint is marketed to professionals, but there is nothing to stop a DIY homeowner from picking up a can and slapping it on his or her own walls. Benjamin Moore also offers help to pro and amateur painters, to make sure the $125-a-gallon paint (an average price for high-end paint but a high price for paint found at big-box home centers) is applied successfully and frustration-free. Porcelanosa is a porcelain tile company founded by Pepe Soriano in 1973 in a small village by the Mediterranean Sea in Castellón, Spain. It is still operated by the Soriano family. Strong and highly impervious to water, porcelain or clay tile is an industrial product that has stood the test of time. That said, porcelain is a sexy name for concrete—akin to the composite material used for roads, sidewalks, and most other construction projects. “Porcelanosa” sounds even more alluring. Some of the earliest known examples are Egyptian, dating from 4000 BC. Early tiles from the ninth and eleventh centuries can still be seen in Tunisia and Iran and in many Middle Eastern mosques from the twelfth century onward. A product that today can be picked up in most big-box home centers and is the simplest form of porcelain work, tile is the epitome of “everyday,” yet Porcelanosa has managed to elevate it into an art form (the company has also expanded into nontile products, including laminate floors and fitted kitchens). The company’s products maintain a modern aesthetic and push the design envelope through unusual textures and finishes such as 3D and metallic effects, hand painting, and illusion (wood or stone look). The company also keeps its Spanish Mediterranean tradition through textures, colors, and finishes. Companies that engage people on matters that are important to them in an authentic way can win. The ability to reach customers on this level, as we’ve seen, can be created for any product, no matter how seemingly banal (such as paint) or ubiquitous (such as coffee). Any company can say to its customers, “We respect you. We want to please you on as many levels as we can.” The Ethics of Aesthetics As a parent of two teenagers, I’m concerned about the temptations that bombard them every day. One of them is vaping; a technology that was ostensibly invented to help adults quit smoking has now become a product and behavior engaged in for its own “pleasure”—particularly among teens and young adults. Juul is a company that has been the most forward-thinking in the vaping design, marketing, and experience. Even its name (pronounced “jewel”) connotes something precious and desirable—making it especially so to young people. But the name also refers to a joule, the amount of energy required to produce one watt of power for one second. 35 The product, almost like an Apple product or a thumb drive, comes in an array of jewellike colors. And, like a flash drive, you activate it by plugging it into your computer’s USB port. There are times when aesthetics fails, not because the uses of it aren’t pleasing or exciting on a basic sensorial level but because the aesthetics are purposefully deceptive and misleading or meant to entice a customer under false pretenses. I refer to this as “the Junk Food Effect.” The product may be desirable and may taste good, but it certainly doesn’t nourish your body or leave a pleasant aftertaste. There’s also a strong argument to be made that junk food is called that for a reason: worse than not being nutritious, it has a deleterious effect on our health if eaten consistently over time. I don’t think it’s going out on a limb to object to this use of aesthetics. Capitalists and entrepreneurs alike should have a conscience. Aesthetics is powerful, and if your business strategy is to use it for ill gain, it can backfire in terms of reputation (and commercially). Juul, a company now partially owned by the leading cigarette maker, Altria, is one example of this; in October 2018, the FDA conducted a surprise raid on the company’s San Francisco offices and
+>>>

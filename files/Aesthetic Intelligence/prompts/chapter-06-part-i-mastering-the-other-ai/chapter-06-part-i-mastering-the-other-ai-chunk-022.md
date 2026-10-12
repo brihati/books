@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-022",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 125436,
+    "char_end": 133118,
+    "checksum": "136b6c33df14b2c5"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+d sunflower yellow), and personal tone with former slogans such as “Just plain smart” and “Grab your bag, it’s on!” Of course, the classic example in retail is Target versus Walmart. Though Target has never been in a position to compete head-to-head against Walmart, especially when it comes to “everyday low prices,” it has effectively carved out a powerful position in the market through its cheap- chic strategy; designer partnerships; clever, catchy advertising; and community giving. The beauty brand Clinique is another example of a company that successfully avoided going head-to-head against a market leader while still forging a powerful position of its own. Launched in 1968 by Estée Lauder
+
+Companies, Clinique was designed as a contrast to its sister brand Estée Lauder, which, at the time, was the most established and coveted brand in US department stores. Though the two brands were owned by the same parent company, they were fiercely competitive with each other, selling similar products in the same stores to the same female shoppers. However, when it came to aesthetics, they could not have been more divergent. Estée Lauder focused on old-world elegance, featuring classically beautiful models in glamorous settings. Clinique, which emphasized its technical benefits, never used models in its ads; its products themselves were the stars. As such, they were carefully displayed and artistically shot by the legendary photographer Irving Penn and featured in sleek, catchy campaigns. Even the name—with its allusion to a French hospital—made you take the line seriously. The concept for Clinique came from a Vogue beauty editor, Carol Phillips, who believed in a more scientific “three-step” approach to skin care. Whereas Lauder’s beauty advisers were expected to project grace and style, Clinique’s advisers wore white lab coats and took a curative approach to customer education. Clinique also built an abacus-like contraption for its counters with which customers could diagnose their skin type: oily, dry, sensitive, or combination. Last, whereas the Lauder brand was built on its strong fragrances, all of the Clinique products were marketed as allergy tested and fragrance-free. As Estée’s son Leonard Lauder once told it: “I remember [my mother] pounding on the table, saying ‘No, Carol, no, no, no. I want it to be 100 percent fragrance-free, and put that in the ads.’ 8 Estée knew she already had a lot of fragrance in her own line, and the opposite end of that was a fragrance-free offering. Like Carol, she knew what women wanted.” Eventually Clinique grew to surpass the Estée Lauder brand (and all others in the market), and it also claimed the top position in prestige cosmetics until it was surpassed by another relative upstart, MAC Cosmetics. So what’s the difference between a formidable runner-up and more conventional one, otherwise known as an also-ran or, as described in the following chart, “rule taker”? Companies fall into one of three categories: rule makers, rule takers, and rule breakers. The rule makers (e.g., Home Depot, General Motors, Lego) win through size, scale, market share, and resources. The rule takers (e.g., Lowe’s, Chrysler, Dillard’s, Fisher-Price) simply follow in the path of the rule makers; they adopt the same strategies and target the same customers, but they do so without the strength or market power to win. The rule takers are forever relegated to the runner-up position, if they survive. It’s not that they can’t make money, but they are never seen as innovators or as offering a special and distinct experience, and the performance gap between them and the rule makers tends to widen over time. Examples of rule takers include May Department Stores, which eventually lost out to Macy’s; Office Depot, which lost to Staples; and Circuit City, which lost to Best Buy. Rule breakers, while much smaller and younger than rule makers, gain traction and build momentum through differentiation, innovation, experimentation, and speed. In essence, rule breakers redefine their entire business, as did Dyson, which changed the rules around hair dryers and, before that, around vacuum cleaners. If they are successful, over time rule breakers tend to become rule makers. For example, in the 1990s, MAC Cosmetics was disruptive to then leaders Estée Lauder, Clinique, and Lancôme in its presentation, communications, and positioning. Today MAC has grown to become the largest prestige makeup brand in the United States, but it is being disrupted by newer, more compelling concepts such as Fenty Beauty by Rihanna (thanks to the celebrity power of Rihanna herself), Huda Beauty (thanks to its founder, Huda Kattan, a megainfluencer on social media), and Kat Von D (thanks to the highly original aesthetic and strong following of its inspiration behind the line, a famous tattoo artist). For all we know, a few years from now, the edgy streetwear brand Supreme may be a market leader in sportswear and will find itself fending off a new generation of rebellious players that are today just a faraway dream of some Parsons School of Design student or aspiring performer. INDUSTRY RULE MAKER RULE TAKER RULE BREAKER Bookstores Barnes & Noble Borders Amazon Home improvement Home Depot Lowe’s Porch.com Automotive General Motors Chrysler Tesla TV programming ABC NBC HBO TV shopping QVC HSN YouTube Shaving Gillette Schick Harry’s The Weight of History Though deep heritage is generally a valuable asset for businesses, some companies are so steeped in their past that they lose all relevance to the present. The challenge for such companies is to incorporate aesthetics that revive their brand’s luster and desirability while still leveraging their most powerful historic codes. Sears and Stroh Brewery Company are examples of legacy brands that failed, while Gucci, Harley-Davidson, and Hennessy have thrived through many successful reincarnations. The turnaround plan for Sears had nothing to do with aesthetics and everything to do with poor retailing, organizational restructuring, and real estate management, added to a critical miscalculation by management of its core issues. In early October 2018, Sears prepared to file for bankruptcy. “The problem in Sears [sic] case is that it is a poor retailer,” says Neil Saunders, the managing director of GlobalData Retail. “Put bluntly, it has failed on every facet of retailing from assortment to service to merchandise to basic shopkeeping standards.” 9 By closing stores and auctioning off properties as a way to reduce costs, increase cash flow, and potentially generate profits, Sears’s management overlooked the human element of its business. 10 That strategy might have made some sense if Sears’s problems had been based simply on overexpansion. But having a surfeit of stores is not why Sears suffered. In the fourth quarter of 2017, sales at the store fell to $4.4 billion from $6.1 billion in the fourth quarter of 2016. The company itself said half of those losses could be attributed to having fewer locations! The remaining losses were a result of an 18 percent drop in same-store sales. 11 Sears continues to sell off its holdings and is seeking buyers for its various brands—that approach may keep the IV drip running a little longer, but it’s not a tactic that will resurrect the store. The truth is, Sears has become irrelevant to consumers. To underscore this point, a 2016 survey of women apparel shoppers said they preferred shopping at the Goodwill store over Sears. 12 And people choose to shop at Amazon because it is relevant to their need for convenience, accessibility, ease, and transparency. Amazon is the twenty-first-century version of the
+>>>

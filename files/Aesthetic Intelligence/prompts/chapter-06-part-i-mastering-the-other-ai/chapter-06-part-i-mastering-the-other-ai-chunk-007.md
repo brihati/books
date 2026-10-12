@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-007",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 41110,
+    "char_end": 48745,
+    "checksum": "4a491ac064d2f574"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+palate, and in the epithelium of the pharynx and epiglottis. Traditionally we’ve defined four major taste sensations: sweet, salty, sour, and bitter. A fifth sensation, called umami, is a more recent addition to the traditional four. Sweet tastes are associated with fun and indulgence (ice cream, chocolate); savory with warmth and comfort (homemade pasta, roast chicken, vegetable soup); and umami with strength and energy (parmesan cheese, tomatoes, mushrooms, and beef). SMELL is a chemical process by which receptors and nerves in our nose identify chemicals in the environment, which can be benign, pleasant, or repulsive. Our sense of smell is also connected to the olfactory bulb, one of the
+
+structures of the limbic system, an ancient part of the human brain. Our sense of smell is rooted in a primal part of our brain, part of our survival mechanism. Smell is not linked through the thalamus, which is where all other sensory information is integrated. Odors are sent directly to the amygdala and hypothalmus. None of our other senses has this direct connection to the areas of the brain responsible for processing emotion, associative learning, and memory. 4 The scent of freshly mowed grass evokes memories of early summer; citrus, especially lemon, connotes cleanliness; and pine reminds us of festive winter holidays. All three scents also happen to make us feel happier, studies show. 5 Some scents, such as that of coffee, may even help us perform better on analytical problems. 6 TOUCH is part of the somatosensory system, a widespread and diverse network of receptors and processing centers that help us perceive pleasant sensations, temperatures, and pain —all processed in the parietal lobe of the cerebral cortex. These sensory receptors cover the skin and epithelia, skeletal muscles, bones and joints, internal organs, and even the cardiovascular system. Cashmere evokes a sense of luxurious coziness; the crisp hand of tightly woven percale sheets gives us a feeling of elegance and order; a rough- hewn oak farmhouse table gives us the sensation of strength and longevity. SOUND travels to the brain first by being funneled into our ear canal and causing the eardrum to vibrate. The vibrations move through the ossicles to the cochlea. Sound vibrations cause the fluid in the cochlea to move and hair cells to bend. Hair cells create neural signals, which are picked up by the auditory nerve. Hair cells at one end of the cochlea send low-pitch sound information, and hair cells at the other end send high-pitch sound information. The auditory nerve sends signals to the brain, where they are interpreted as sounds— loud or soft, soothing or abrasive. Humans have adapted to react to certain sounds; the sound of a jackhammer is disruptive and annoying and compels us to close windows or cross the street to avoid the pounding, while the sound of a crying baby is distressing, prompting us to seek out the source and, ideally, comfort the crying child. The bark of a dog is perceived as a warning to proceed with caution, and the sound of laughter prompts us to relax and join the fun. The Halo Effect Aesthetic delight is the deep gratification or pleasure that individuals feel when their senses (at least three out of five to be truly successful) are awakened in connection with a particular product, brand, service, or experience. Interestingly, this form of delight is enjoyed not only through consuming a product or service but also through some combination of anticipation and recollection of the experience of consuming that product or service—the same memories the senses provoke when we engage with the sensorial elements of a product. Studies show that about 50 percent of a consumer’s perceived delight is connected to anticipation and memory (a residual effect of a past sensorial experience); the other 50 percent is connected to the immediate experience (a result of the five senses working in unison to engage a person in the moment). I refer to this as the halo effect, a term I use to describe not how companies can spread financial success around an organization but how experiences are a continuum that includes the lead-up, the actual experience, and the memory of it, which informs the lead-up to a repeated experience. A primal example of this is giving birth. The exciting anticipation of the baby and the memory of how wonderful that newborn felt and smelled are often in sharp contrast to the excruciating pain of labor during the actual birth. That pain becomes a distant memory or is forgiven when the anticipation of baby two comes along . . . and the excitement and anticipation build again. Think about having a really good meal out. It is a joy to eat, but the memory you have of it the next day is also part of the experience, as is thinking about and planning to eat at the same restaurant in the future. Same goes for roller-coaster rides. It’s not just the thrill of being on the ride, but the association with it—being at a carnival or park with family and friends, the memory of feelings we had as we swooped up and down on the tracks— that make the experience so meaningful. The memories of my trip to France in the summer of 2018 could have been marred by the long lines at John F. Kennedy International Airport; cramped airplane seats; lugging suitcases from place to place; and, of course, the trip’s expense. But all I remember is the seemingly endless lilac fields of Provence; scrumptious meals; shopping with friends in Paris; and, above all, bonding with my teenage daughter on her first trip there. Those are the stories I tell friends and the memories I continue to savor. Family vacations to Disney World are another prime example of the halo effect. The experience of being at the theme park is generally enjoyable, but not without detractions—including the unbearably hot and swamplike conditions in Orlando; the painfully long lines leading up to the most popular rides, especially at peak times; and the excessive cost of dining on the premises. However, when asked to describe our Disney vacation, most of us are quick to recall the smiles on our children’s faces, the thrill of hugging Mickey, the enchantment of watching a princess stroll through her kingdom, and a barrage of colorful, happy entertainment. We can’t wait to return. As our families gear up for an upcoming vacation to Disney World, we grow increasingly excited by the opportunity to experience the latest rides or meet the newest characters. We remember only the fun we had on our last visit, not the torturous heat of Orlando, or the monotony of waiting our turn for a spin on the Astro Orbiter. Disney World provides such a magical, immersive experience, one that people can engage with using all of their senses and emotions, including through artifacts (souvenirs) that allow us to preserve and prolong the magic, that any bad memories are quickly pushed aside. 7 Other consumer experiences can offer similarly immersive opportunities by allowing us to see, feel, hear, taste, and smell our way through what then becomes deeply personal. In the personal, there are profits. The theme park (and corporation) is big, but the lesson Disney World teaches transcends size. Disney has found ways for its customers, called “guests,” to discover the brand and peel back its layers, one small, intimate, and thoughtfully curated moment at a time. Think back to my bar of soap. The maker found a way, through bespoke packaging that allowed for an immersive and immediate experience, to cut through the clutter of the soap aisle and win over a buyer—perhaps for life. That soap maker is not so
+>>>

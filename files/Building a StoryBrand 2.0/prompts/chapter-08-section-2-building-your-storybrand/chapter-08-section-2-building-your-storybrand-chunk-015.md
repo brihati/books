@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-015",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 96907,
+    "char_end": 104593,
+    "checksum": "b2107dd2ee49560d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+eps may seem obvious to the people who made the product, the steps aren’t obvious to the customer. Placing stones in the creek greatly increases the chance the customer will cross the creek. THE PROCESS PLAN At StoryBrand we’ve identified two plans you can use to effectively encourage customers to do business with you. The first kind of plan, and the one we recommend all our clients employ, is a process plan. A process plan can describe the steps a customer needs to take to buy our product, or the steps they need to take to use our product after they buy it, or a mixture of both. For instance, if you’re selling an expensive, service-based product, you might break down the steps like this: 1.
+
+Schedule an appointment. 2. Allow us to create a customized plan. 3. Let’s execute the plan together. Whether we’re selling a financial product, a medical procedure, a university education, or any other complicated solution, a process plan takes the confusion out of our customer’s journey by breaking down the process into baby steps. Another kind of process plan would be the post-purchase process plan. This plan is best used when our customers might have problems imagining how they would use our product after they buy it. For instance, with a complicated piece of software, we might want to spell out the steps or even the phases a customer would take after they make the purchase: 1. Download the software. 2. Integrate your database into the new system. 3. Revolutionize your customer interaction. The post-purchase process plan does the same thing as a pre-purchase process plan in the sense that it alleviates confusion. When a customer is looking at the wide span between themselves and the integration of a complicated product, they’re less likely to make a purchase. But when they read your plan, they think to themselves, Oh, I can do that. That’s not so hard, and then they click “Buy Now.” A process plan can also combine the pre- and post-purchase steps. For instance: 1. Test-drive a car. 2. Purchase the car. 3. Enjoy free maintenance for life. Again, the key to any plan’s success is to alleviate confusion about next steps. What steps do they need to take to do business with you? Spell out those steps, and it’ll be as though you’ve paved a sidewalk through a field. More people will cross the field. We frequently get questions about how many steps a process plan should have. The answer varies, of course, but we recommend at least three and no more than six. If doing business with you requires more than six steps, break down those steps into phases and describe the phases. In reality, you might guide your customer through twenty or thirty steps, but studies show when you bombard customers with information, buying decreases. Remember, the whole point of creating a plan is to alleviate customers’ confusion. Having more than four steps may actually add to, rather than reduce, confusion. The key is to simplify their journey so they are more likely to do business with you. THE AGREEMENT PLAN If process plans are about alleviating confusion, agreement plans are about alleviating fears. An agreement plan is best understood as a list of agreements you make with your customers to help them overcome their fear of doing business with you. Earlier I talked about CarMax and how they resolve the customer’s agitation of having to deal with a used car salesman. One of the tools they use to communicate that customers don’t have to encounter this internal fear is an agreement plan. CarMax’s four-point agreement plan includes the promise that customers will never have to haggle. Afraid you’ll be stuck with a lemon? CarMax refuses to sell a car that doesn’t meet their standards, and they put every car through a renewal process to be sure it earns their quality certification seal.1 Today, CarMax sells more cars than its next three competitors combined. In fact, not long ago, Automotive News named CarMax the undisputed used car champion.2 As I mentioned in chapter 5, CarMax rarely advertises the solution to their customers’ external problems (that is, the need for a used car). Instead, they focus on their customers’ internal problem, the fear of interacting with a used car dealer, and they alleviate this fear with an agreement plan. An agreement plan can also work to increase the perceived value of a service you promise to provide. For instance, Newt Gingrich’s “Contract with America” is an example of an agreement plan. Newt was a relatively unknown congressman from Georgia who led a takeover in both houses of Congress by making an agreement with voters. Newt simply took age-old conservative talking points, turned them into a list, and said, “If you vote for us, we’ll do all these things.” More than three hundred conservative legislators signed on, and Newt became an overnight presidential hopeful. Another benefit of an agreement plan is that it can work to clarify shared values between our customers and us. Whole Foods’ list of values has attracted millions to their stores and works as an agreement to source food in a way that is socially and environmentally responsible. Unlike a process plan, an agreement plan often works in the background. Agreement plans do not have to be featured on the home page of your website (though they could be), but as customers get to know you, they’ll sense a deeper level to your service and may realize why when they finally encounter your agreement plan. The best way to arrive at an agreement plan is to list all the things your customer might be concerned about as it relates to your product or service and then counter that list with agreements that will alleviate those concerns. If it’s short enough (we’re fans of brevity, obviously), you can feature your agreement plan on the wall of your business or even on your packaging or shopping bags. WHAT’S THE PLAN CALLED? Once you create your process or agreement plan (or both), consider giving each plan a title that will formalize the plan in the minds of your customers. For instance, your process plan might be called the “easy installation plan” or the “world’s best night’s sleep plan.” Your agreement plan might be titled the “customer satisfaction agreement” or even “our quality guarantee.” Titling your plan will frame it in the customer’s mind and will increase the perceived seriousness of your offer and your commitment to customer satisfaction. Now that you’ve given your customer a plan, they will be much more likely to do business with you. You’ve lifted the fog, made the baby steps clear, and alleviated their concerns, and now they are ready to continue the journey. Yet before many customers make a commitment, they will need one more thing from you. They will need you to call them to action. In other words, you’re going to have to ask them for the money. Sadly, very few business leaders enjoy asking for the money, but that’s because you’re thinking of the transaction the wrong way. I’ll teach you the right and wrong ways to call customers to action in the next chapter and, more importantly, I hope to transform you into somebody who boldly represents their brand with pride. First, though, spend some time defining the plan or plans you want to implement to ease your customers’ fears and guide them toward next steps. CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Either alone or with a team, brainstorm the simple steps a customer would need to take to do business with you (either a pre- or post-purchase process plan or a combination of both). What fears do your customers have related to your industry? What agreements
+>>>

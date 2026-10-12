@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-006",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 34120,
+    "char_end": 41775,
+    "checksum": "336ef3b43d2bfdf7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+(a plan). The plan is to get Katniss more sponsors, thereby equipping her with more resources for the fight and increasing her chances of winning. Here is the first Hunger Games story laid out on the StoryBrand grid: In Star Wars: A New Hope, our reluctant hero, Luke Skywalker, experiences a devastating tragedy: His aunt and uncle are murdered at the hands of the evil Empire (a hero in a hole). This sets a series of events in motion: Luke begins the journey of becoming a Jedi Knight (enter a guide, Obi-Wan Kenobi, a former Jedi Knight who once trained Luke’s father) and destroys the Empire’s battle station, the Death Star, which allows the Rebellion to live and fight another day (the plan).
+
+Not every story works this way, but most do. Sometimes a writer will bring in multiple guides or (usually to the story’s peril) include what I call a scattered climactic scene, but the formula holds up in almost every story you’ll encounter. The closer the screenwriter or storyteller sticks to the formula, the more the audience loves the story itself. When Tom Cruise decided to make a sequel to his enormous box-office hit Top Gun, he might have created the most formulaic movie in the history of man. The result: a $1.46 billion box-office juggernaut, the highest- grossing movie of Tom Cruise’s career. The fact that nearly every movie you go see at the theater includes all or most of the seven elements in the StoryBrand framework means the framework itself is something we should notice and respect. After thousands of years, storytellers the world over have arrived at this formula (or one like it) as a means of best practices. Simply put, this framework is the pinnacle of narrative communication. The further we veer away from these seven elements, the harder it becomes for audiences to engage. This is why indie films, which often break from narrative formulas, fail to gain critical acclaim and fail miserably at the box office. Critics sometimes like movies that disobey formulas, but that is because they are snobs who watch everything and are hungry for something different. The masses, who do not study movies professionally, want accessible stories that deliver entertainment. Stories, by the way, don’t have to be fictionalized to adhere to the formulas. One of my favorite documentary series is called Welcome to Wrexham, a true story about two Hollywood actors who bought a bottom- level soccer team in Wrexham, England, only to transform the team (and the town) from underdog losers into a fine-tuned winning machine. When the storytellers who produced the documentary series edited the story, they made sure to include a clear ambition in each episode, a challenge the heroes had to overcome, backstories of the protagonists (in this case a group protagonist story of townspeople, soccer players, family members, and a couple of lovable actors who were, essentially, humble but eager fish out of water) that caused us to like them, and tons and tons and tons of stakes and challenges all leading to (I hate to ruin it) skin-of-their-teeth victories. Wow. I think I lost two weeks of my life on the couch just clicking “next episode.” I got so deep into it that my wife had to point out I was beginning to talk with a Welsh accent and kindly asked me to stop using soccer metaphors like “you really put this one in the back of the net” to describe her lovely outfit. It seems true that some brands (as well as some screenwriters) break these formulas and succeed all the same, but when you look closely, this is rarely the case. Brilliant screenwriters know how to use the formula while still avoiding cliché. The same is true for brilliant marketers, by the way. The ability to keep it clear yet unique is what makes them brilliant. When you get good at the SB7 framework, hardly anybody will notice you are using it. The Three Crucial Questions So how do we make the story our company is telling clear? Remember, the greatest enemy our business faces is the same enemy that good stories face: noise. Here’s a good test to know whether the screenwriters are doing a good job keeping the story clear: at no point should you be able to pause a movie and fail to answer three critical questions. 1. What does the hero want? 2. Who or what is opposing the hero getting what they want? 3. What will the hero’s life look like if they do (or do not) get what they want? If you’ve ever started daydreaming in a movie, it was likely because your subconscious couldn’t answer one of these questions, or worse, you didn’t care. Here’s the kicker: if these three questions can’t be answered within the first fifteen to twenty minutes, the story has already descended into noise and will almost certainly fail its audience. At StoryBrand, our certified coaches have reviewed thousands of pages of marketing copy that had nothing to do with the customer’s story. We tell our clients the same thing my filmmaker friends told me when I was writing screenplays: anything that doesn’t serve the plot has to go. Just because a tagline sounds great or a picture on a website grabs the eye doesn’t mean it helps us enter into our customers’ story. In every line of marketing and messaging copy we write, we’re either serving the customer’s story or descending into confusion; we’re either making music or making noise. Nobody remembers a company that makes noise. DOES YOUR MARKETING PASS THE GRUNT TEST? Just like there are three questions audiences must be able to answer to engage in a story, there are three questions potential customers must answer if we expect them to engage with our brand. And they should be able to answer these questions within five seconds of looking at our website or marketing material: 1. What do you offer? 2. How will it make my life better? 3. What do I need to do to buy it? At StoryBrand, we call this passing the grunt test. The critical question is this: Could a caveman look at your website and immediately grunt your offer back to you? Imagine a guy wearing a bearskin T-shirt, sitting in a cave by a fire, with a laptop across his lap. He’s looking at your website. Would he be able to grunt an answer to the three questions posed above? If you were an aspirin company, would he be able to grunt, “You sell headache medicine, me feel better fast, me get it at Walgreens”? If not, you’re likely losing sales. Cut it with the cute copy that expensive ad agency charged you for. Nobody wants to go to your website and figure out a riddle. Just. Be. Clear. CLARITY PRODUCES RESULTS One of our early clients, Kyle Shultz, was a fireman in Ohio who looked into StoryBrand because he wanted to leave his job and pursue his passion of teaching photography. He had recently launched an online photography course aimed at parents. He’d worked hard to create terrific video training allowing moms everywhere to finally start using that basic camera they’d placed in the junk drawer because they felt it was too complicated. Interest was decent. In his first launch, he sold $25,000 worth of online courses. He was ecstatic. Still, it wasn’t enough money for him to quit his job and pursue teaching photography full-time. When Kyle encountered the SB7 framework, he began to wonder whether his message was too confusing. The night before his next launch he used the framework to completely rewrite his website. In fact, he removed 90 percent of the text he’d previously used on his sales page and stopped using inside language like “f-stop” and “depth of field.” Instead, he used phrases like “Take those great pictures where the background is blurry.” The next day Kyle sent a mass email to the exact same email list he’d
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-018",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 115098,
+    "char_end": 122776,
+    "checksum": "c51f0a47bb9246f5"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+chain or a piece of sisal, swatches of paint, a small slab of stone, and so on). Don’t get tied into consistency; look for contrast and dimension. How do opposites work against each other? Once you start putting one thing next to another, you may realize that further editing is required. Some choices will be eliminated and many ideas revised and refined. What makes a mood board functional is thoughtful editing and meaningful juxtaposition that tells a good story, conveys a clear message, and elicits strong feelings. Mood Board Guidelines Here are the guidelines that I offered my Harvard students in constructing their individual mood boards: 1. Pick a central theme or objective, and make sure
+
+that the most salient components are prominently displayed and that the pattern and placement of the visuals are conducive to telling a story. 2. Think of yourself as a curator. Incorporate items that genuinely touch you and capture the mood and theme that you are trying to convey. 3. Take pictures, but be sure to look beyond the digital world for inspiration. Get tactile where possible: use fabric swatches and small items that represent texture (i.e., a rusty nail, smooth plastic). 4. Selectively include meaningful words and/or phrases alongside the images and objects. 5. Weave a presentation or “narrative” around the board, as if you were planning to deliver a speech or tell a story. Be mindful of the layout and format. 6. Aim to elicit an emotional reaction. Test your board on others. See if they see and feel what you see and feel. 7. Have fun with the process, and allow the board to evolve organically and in unexpected ways. A key skill in driving creative output and curation is how they are articulated. This is the ability to convey clearly and crisply what you have curated and why. As a businessperson, how can you convey your aesthetic strategy to customers, colleagues, and other constituents? It is critical that you not only convey it powerfully and accurately but that you also convey it in such a way that others (team members, vendors, etc.) can understand, replicate, and reinforce your strategy. That’s what we discuss next. Chapter 8 Articulating Artistry Let’s say you have a product that engages several senses, one that is designed well and with purpose and relevance. A great product, one that meets the aesthetic benchmarks I’ve outlined to this point—strong codes, multisensorial activation, artful curation—shouldn’t sit passively on a shelf and wait to be discovered. Your customers and constituents (team members, vendors) have to see, feel, experience, and understand your codes and other forms of communications quickly and effortlessly, grasp their benefits and assets intuitively, and spend on them enthusiastically. This is accomplished through articulation. One of the key skills in driving uptake and acceptance, articulation is the ability to convey the aesthetic strategies and ideals, including the benefits, of a product clearly and crisply through words, storytelling, and/or other forms of communication. Articulation is done through visual impressions but also through marketing and messaging— each of which has an aesthetic. As I’ve noted throughout this book, good design is critical to the success of any product or service. However, the “conceptual brief,” the most common template for articulation, is as important as the product or service itself. This document is a guide for writers, visual artists, designers, merchandisers, and others to plan and produce creative work around the curation of the product. It defines target consumers and provides a blueprint to reach them. The creative brief should be understood by all constituents. In-house staff should understand how to use it, and consumers should enjoy the expressions of the brief. It is an “in-house” guide with an “out-facing” purpose. Though people in art departments can produce these briefs, all too often the task is left in their hands when the process really ought to be led by the executive in charge, and ideally the CEO. The best leaders don’t relegate these activities to the sidelines. Indeed, they are invested and well versed in the creative direction of their business, just as they are in its analytic, financial, and operational functions. Steve Jobs is credited with caring just as much about the aesthetics and design of Apple products as he was with their functionality and their sales strategy, but his hands-on approach is still considered an outlier. As I’ve argued here, the separation between “business minds” and “creative minds” is less viable than ever before. That’s why I recommend that all professionals—not just “creative workers”—produce a brief around their product’s aesthetic strategy. In this chapter, we’ll look at the components of a brief and dive deeper into some examples of how some leaders have begun to align the business of aesthetics with the business of profits. The Value of Words The priority in aesthetic articulation is specificity. It is critical to conveying your purpose, imbuing meaning into your product, and eliciting strong and positive emotions. It also enables your team to understand, replicate, reinforce, and execute your vision with precision. Specificity doesn’t only ensure accuracy of expression but also forges more unique, powerful, and memorable associations with your product or service. To that end, the words you choose to describe your brand or product are all important. Vagueness is unacceptable. For example, words such as nice, tasty, and soft are generic adjectives, while words such as lilting, salty, and gelatinous express information with precision and distinction. The words you choose must conjure up the experience of using your product (or service). Tim Lomas, an expert in positive psychology and cross-cultural lexicography at the University of East London, says there are many words that convey specific emotional experiences in a variety of languages that have no English equivalent. 1 Learning them, he believes, will increase our understanding of the nuances of human experience. If this is true, it follows that learning new ways of describing the human experience would make us better at pinpointing those experiences and relating them to our products. 2 Lomas says he was originally inspired to find words with no English equivalents when he first learned the Finnish word sisu, which denotes extraordinary determination in the face of adversity. Finns say that English words such as “grit,” “perseverance,” and “resilience” don’t do justice to the profound inner strength sisu conveys when it is used by the language’s speakers. 3 Other words on Lomas’s lexicography list 4 include tarab (Arabic), a musically induced state of ecstasy; yuan bei (Chinese), a sense of accomplishment that is perfect and complete; sukha (Sanskrit), a genuine lasting happiness unrelated to one’s circumstances; and Sehnsucht (German), an intense desire for alternative states of being, even if they are unattainable. There are many more untranslatable words on Lomas’s site, some even more existential than the ones I offer here. All describe precise conditions that can help us access feelings we want to articulate and relate to the things we create. For each word (or sentence) that you use, answer each of the following questions to determine if it is the right choice. 1. DOES IT DESCRIBE YOUR PRODUCT IN SUCH A WAY THAT SOMEONE ELSE WOULD ENVISION THE EXACT SAME IMAGE YOU DO? Is it accurate? For example, Burberry’s signature fabric is not referred to as “plaid”; the tan, black, and red tartan is known as “Haymarket check.” KFC doesn’t describe its fried chicken as
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-020",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 129026,
+    "char_end": 136674,
+    "checksum": "feffc53270d56c6d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ially in mature sectors, can reframe what consumers want to buy and create demand where there previously was none. This is achieved by emphasizing key differences compared to existing products, superior value to what’s available, and unique benefits consumers can’t get anywhere else. Of course, new companies charm us with the novelty and playfulness or sophisticated technology or style—delight that is in part a tribute to their newness. In this way newness can be presented as an advantage (new and exciting) rather than a negative (new and untested). The toothbrush upstart Quip’s “About” page lays out the company’s raison d’être this way: “to align with dentist advice and put what is best for
+
+your teeth before all else; to never stop improving our products and reduce our environmental impact; to strive to be available 24/7 and become your one stop solution for oral health.” 11 The company’s backstory reinforces those promises. The idea for the company came as an epiphany at a neighborhood dentist’s office in New York after the dentist suggested that the patient (and later Quip founder) use “the cheapest electric brush available” to fight the common, and damaging, habit of brushing too hard. What followed was the realization that years of toothbrush “innovation” had not actually improved the tooth-brushing experience or outcome (optimal tooth health) but instead ignored the real problems of tooth brushing: brushing too hard, not brushing long enough, not brushing twice a day, not replacing the brush frequently enough. Quip argues, with words and through product design that makes brushing look simple, that its brush solves those common problems for both patients and dentists in a unique way. One of the newer entries into the organic juice market, Suja Juice, also leverages a powerful narrative as a design device. 12 The driving rationale behind the product is that organic juices should be reasonably priced and found in grocery stores, not high-priced luxury items found only in fancy juice bars. With their energetic fonts, rainbow of colors, and easy-to-read labels, the products are instantly recognizable and become relevant to a larger audience, people who may not have physical or economic access to fresh organic juices. Picture This Looks do matter, especially when a thumbnail photo on a computer screen is likely to be the first thing a customer sees when he or she encounters your product. (Just ask my book publisher.) Now more than ever, the imagery and the packaging you choose to beautify your product—whether it is in the form of actual illustrations and photographs, a logo, packaging, or marketing materials real or digital—have to reinforce, replicate, and align with the product itself. Words and images, tones and textures, moods and personalities—they need to work together seamlessly. Do the images you’ve chosen reflect the personality and mission of your business? Do the visual cues and imagery show originality, feel authentic, and indicate what to expect from the brand? All visual information also must resonate with your target audience. If fun is a key emotion associated with your brand, do images of people convey that emotion? Are the colors used associated with fun? Does the packaging reinforce a sense of fun? Virgin is a good case in point. The company’s signature-like logo looks like something that founder Richard Branson might have doodled on a napkin. It’s edgy and in your face, much like Branson’s own daring, brash, and, yes, fun personality. The TV network Nickelodeon also feels fun, thanks to its balloonlike typeface, which used to be set in an orange splatter. On its own, orange is a fun color, and in combination with playful shapes, it really comes alive. Imagery and visual cues should also demonstrate consistency so that they are, like the words you choose, ownable and recognizably associated with your brand. They should spread across all touch points: websites, advertising, in-store displays, social media posts, and so on. It’s a Wrap Package design has an immediate visual impact on consumers, too—and is essentially a multisensory experience. An emerging field of research called “neurodesign” tries to understand how packaging stands out from the crowd, how it can contribute to brand loyalty, and how it can be used to elicit certain behaviors and feelings in consumers by exploiting knowledge about how the human brain functions. 13 Some of the most aesthetically pleasing products are packaged in containers that have their own beauty apart from the product itself, which prompts consumers to keep and reuse or display the package. This was once true of only a few items, such as perfume bottles and sometimes liquor bottles, but now it encompasses items such as glass candle holders, makeup containers, and even canned tomatoes. Once empty of the original product, they can each be used for something else, such as storage or display. For instance, the Virginia-based event planner Natasha Lawler orders Italian Bianco DiNapoli tomatoes specifically to use the charming, well-designed cans as flower containers. 14 Packaging has to tell a story, and it has to do it quickly—first impressions count. It has to elicit a positive emotional reaction in consumers. Moreover, if you have a product that many other companies sell, you are competing with them for both shelf space and attention. Effective packaging helps convey a product’s benefits, value, and, in crowded markets, its difference from other options. Above all, it can elicit and reinforce key emotions. Color is vitally important. Almost 90 percent of snap judgments made about products are based on color alone, according to research. About 80 percent of consumers believe that color increases brand recognition. 15 Certain colors—such as black—evoke drama and are well applied to fashion brands such as Chanel and Gucci. Blue indicates trustworthiness and is effectively used for American Express and Ford Motor Company. Green is “natural” and rejuvenating—as evidenced by its effect on Starbucks and Whole Foods. There are other principles of great packaging, which I describe as follows. FIRST, CONSIDER THE CUSTOMER (AS A PERSON, NOT JUST A BUYER). When thinking about how to articulate your product’s aesthetics through packaging, consider the experience of accessing the item. What do customers have to do to get at the product? What do you want them to have to do? If it is a luxury product, such as perfume or jewelry, you may want to extend the experience of revealing the treasure inside. You can use high- quality cardboard and paper coating to create a beautiful box, but you may also want to add other layers of wrapping in the form of a second box or tissue paper, which will increase the pleasure and anticipation of unwrapping the item in a way that becomes ritualized. If the item is utilitarian, such as a computer or a wrench, you may want minimal packaging that respects consumers’ time and allows them to get to the product without fuss. Each of these choices is a way of reinforcing the concept of what you offer—but you are also shaping customers’ experiences by directing how they should go about opening a package. For instance, soda makers could have replaced the tab top long ago with something more practical or easier to open. But popping a tab top is part of the ritual of drinking a fizzy libation from a can—the snap and sigh it makes when you press the tab, the tingle you feel on your nose from the effervescence that is released are all part of the “package” of consuming the product. “Frustration-free” packaging is becoming more and more important. If
+>>>

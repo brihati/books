@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-014",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 89924,
+    "char_end": 97607,
+    "checksum": "d044e7207b4927c7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+m to the place where I’ve adopted this new product in my life? After all, your customer’s life, as unstable as it is, is familiar. And change is hard. So installing a new software or changing toothpaste or living with a new schedule or driving somewhere they’ve never been or changing banks or breakfast routines or vitamin supplements presents a kind of mystery about how life will be different, and that just seems like something they are going to want to deal with tomorrow. For years I wanted a new wearable fitness tracker called a Whoop, and I mean for years. My friends had all raved about it and I knew it would help me, but I had this subconscious cognitive dissonance about whether I had to
+
+plug it in all the time or download a smart phone application or enter my credit card or wear it to bed. So I just put it off. It wasn’t until I went to their website and saw a simple three-step instruction on how to get started that I bought the thing. Honestly, it took me all of three minutes to set it up and start using it. To think I went years without buying it because, well, adopting a new habit created a slight amount of cognitive dissonance I just didn’t want to deal with. That story may sound silly, but I assure you there are thousands of people who “feel” cognitive dissonance about your products or services, and if you don’t give them a few simple steps they can take to easily cross from unknowing into knowing, they are less likely to spend money with you. Cognitive dissonance shows up in your customers’ behavior as indecisiveness and indifference. Essentially, your customer is thinking, I’ve got this problem I need to solve but I can probably live with it a little longer, so maybe I will just deal with finding the solution tomorrow or the next day. Metaphorically, your customer is stuck on the wrong side of the creek, but the shore is dry, so why figure out how to cross the creek at all? In order to ease our customers’ concerns and relieve their cognitive dissonance, we need to place large stones in that rushing creek. When we identify a few baby steps our customers can take to get across the creek, we remove much of the perceived risk and increase their comfort level about placing an order. It’s as though we’re saying, “First, step here. See, it’s easy. Then step here, then here, and then you’ll be on the other side, and your problem will be resolved.” In the StoryBrand framework, we refer to these baby steps as a plan. Once, while consulting for a national mattress brand, I asked their sales representatives to give the customer a three-step plan just before asking for the order. Instead of saying, “Can I write this mattress up for you?” the retail sales representative said, “The process of buying a mattress from us works in three steps: you choose a mattress; then we deliver it; then, if you want, we remove your old mattress so you don’t have to worry about how you will dispose of it. This mattress seems to be the one that is perfect for you. Would you like to make a purchase?” Not to my surprise, when the mattress representatives inserted a simple three-step plan in the sales process, sales went up. Why? Because cognitive dissonance was removed before the sales rep asked for the money. Whenever a customer says, “Let me think about it” or “Let me get back to you,” what they are really saying is that they’ve got some cognitive dissonance and could use some space before making a buying decision. Of course, nobody goes home with them to answer questions and relieve the cognitive dissonance, so the customer never places an order. To be sure, I don’t think the customer is trying to get out of placing an order; I think they actually want to place an order, but as long as they feel that cognitive dissonance, they aren’t going to. Therefore, we’ve got to relieve that cognitive dissonance right there in the conversation, or in the email, or on the website, or even in the product sales copy. Even in stories, the guide often gives the hero a plan. In the movie Moneyball, for example, Peter Brand (the guide) gives Billy Beane (the hero) a plan he can employ to turn his baseball team around. In a series of steps, Billy will begin using an algorithm to choose players rather than relying on anecdotal evidence from his antiquated coaching staff. In the new way of running a baseball team, Billy is going to begin to trust the numbers and run the team the way a hedge-fund manager might run his hedge fund. Step one: trust the numbers. Step two: turn the coaching culture around. Step three: win games. In Star Wars: A New Hope, Luke Skywalker is told to fly his X-wing fighter into the trench on the Death Star, shoot a photon torpedo through an exhaust valve, and then get out of there before the Death Star blows up. In other words, he’s given a three-step plan. In nearly every movie you can think of, the guide gives the hero a plan. The plan is the bridge the hero must cross in order to arrive at the climactic scene. Rocky has to train using nontraditional methods, Tommy Boy has to embark on a national sales trip, and Juliet must drink the potion the apothecary gives her in order to trick her family into thinking she’s died so she can be free to run away with Romeo. A plan serves the narrative by narrowing the focus of the plot. It also, quite pragmatically, gives the hero something to do that kills twenty minutes in the second half of act 2. THE PLAN ENCOURAGES THE CUSTOMER TO MOVE FORWARD In business, the plan can take many forms, but all effective plans do two things: they clarify what doing business with us will look like and they remove the sense of risk a customer might feel before committing to our product or service. Remember the mantra “If you confuse, you lose”? Not having a plan is a guaranteed way to create cognitive dissonance. After potential customers visit our website or listen to us give a keynote or read an email we’ve sent, they’re all wondering the same thing: What would my next step be if I wanted to move forward? If we don’t clearly guide them with next steps, the customer experiences a little bit of confusion, and because they can hear that waterfall downstream, they use that confusion as an excuse not to do business with us. The fact we have communicated our offer clearly is not enough to motivate our customer at this point. If we’re selling a storage system a customer can install in their garage, they hover over that “Buy Now” button, subconsciously wondering whether it will work for them, how hard it will be to install, and whether it will sit in boxes unopened like the last product they bought. But when we spell out how easy the storage system is to install and let them know they can get started in three easy steps, they are more likely to place an order. Specifically, if you are selling garage shelves, you want to tell them to 1. measure their space, 2. order the items that fit, and 3. install it in minutes using basic tools. Even though these steps may seem obvious to the people who made the product, the steps aren’t obvious to the customer. Placing stones in the creek greatly increases the chance the customer will cross the creek. THE PROCESS PLAN At StoryBrand we’ve identified two plans you can use to effectively encourage customers to do business with you. The first kind of plan, and the one we recommend all our clients employ, is a process plan. A process plan can describe the steps a customer needs to take to buy our product, or the steps they need to take to use our product after they buy it, or a mixture of both. For instance, if you’re selling an expensive, service-based product, you might break down the steps like this: 1.
+>>>

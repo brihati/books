@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-016",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 103893,
+    "char_end": 111590,
+    "checksum": "03c2ef850bb54d0a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+rong ways to call customers to action in the next chapter and, more importantly, I hope to transform you into somebody who boldly represents their brand with pride. First, though, spend some time defining the plan or plans you want to implement to ease your customers’ fears and guide them toward next steps. CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Either alone or with a team, brainstorm the simple steps a customer would need to take to do business with you (either a pre- or post-purchase process plan or a combination of both). What fears do your customers have related to your industry? What agreements
+
+could you make with your customers that would alleviate those fears? Do you share unique values with your customers? Can those values be spelled out in an agreement plan? Write the steps (and name) of your process plan on your StoryBrand BrandScript. If you’re creating an agreement plan, simply use the notes section of your BrandScript to capture the agreement you’ll be making with your customers. OceanofPDF.com CHAPTER 8 AND CALLS THEM TO ACTION StoryBrand Principle Five: Customers do not take action unless they are challenged to take action. At this point in the story we are inviting our customer into, they are excited. We’ve defined a desire, identified their challenges, empathized with their frustrations, proved our competency, and given them a plan. But they still need us to do one more thing: they need us to call them to action. ASK THEM TO PLACE AN ORDER In stories, characters never take action on their own. They have to be challenged to take action. Tom Cruise’s character would never have journeyed to pick up his brother in the movie Rain Man unless he’d received a call explaining his father had died. Romeo wouldn’t have climbed into the Capulet courtyard unless he’d fallen hopelessly in love with Juliet. Elle Woods wouldn’t have applied to Harvard unless she’d been dumped by her boyfriend. Liam Neeson’s character wouldn’t have chased the bad guys to Europe unless his daughter had been kidnapped. The reason characters have to be provoked into taking action is because everybody sitting in the dark theater knows human beings do not make major changes in their lives unless something challenges them to do so. If I wrote a story about a guy who wanted to climb Everest and then one day looked at himself in the mirror and decided to do it, the audience would feel that something was wrong in the story itself. Making sudden decisions to change and then taking action on that decision is not how human beings operate. Bodies at rest tend to stay at rest, and so do customers. Heroes need to be challenged by outside forces. Have you ever wondered why late-night infomercial hosts keep screaming, “Call now! Don’t delay!” over and over as though they’re trying to wake people up from a zombie trance? They do that because they’re trying to wake people up from a zombie trance. Your customers are bombarded with more than three thousand commercial messages per day, and unless we are bold in our calls to action, we will be ignored. If our calls to action are soft, they will not be noticed. Do Not Put Customers in the Mind-Reading Business A mentor once gave me terrific leadership advice that also applies to marketing and messaging: do not put people in the mind-reading business. He was emphasizing the need to communicate clearly. If you think people are able infer what you mean, you’re mistaken. People who get what they want know how to ask in clear, simple language. And if you want customers to place an order, you, too, should ask using clear, simple language. When it’s time to ask for the order, we often use phrases like “If you’re interested, let me know,” but let’s think about the passivity of that statement for a moment. Put yourself in the mind of the customer when they hear a statement like that. What ideas are they actually having to process subconsciously in response to that statement? Am I interested? I’m not sure. How would I contact you? What happens if I’m not interested? Is there going to be weirdness between us if I decide not to buy? What if the product doesn’t work for me? Why aren’t you going to contact me? Why do I have to be the one who contacts you? And the saddest thought that a customer could have is, I’m ready to place an order now, but this guy wants me to contact him later. I hope I remember to do that. Next time you’re closing a sale, try this statement instead: If you’re struggling with “X,” which it sounds like you are, I think buying “Y” is the right decision. I can take your order now and you won’t have to struggle with “X” anymore. Would you like to place an order right now? When I’m asked to speak to a group of sales professionals, I often ask the audience to pull out their laptops so we can write a sales email right there in the room. I ask them to hold up their hand if they have a client sitting on the fence, and of course every hand in the room goes up. I then walk them through a formula for a follow-up email using the SB7 framework, and we end with the call to action I just included for you above. Then, I tell the audience to hit “Send.” Without exception, those emails have resulted in thousands and often millions in sales. In fact, the process works so well that my team and I guarantee that we will close more in sales during the training sessions themselves than we were paid to be there. We’ve never failed to deliver. In fact, the last time I guided a group of 250 account executives for a company called Calix, a growing broadband infrastructure and support provider for broadband services, through the process they closed more than 2.5 million in sales off the emails that went out during a single hour of the training. The CFO called my office a few days later to say he’d never seen anything like it in all his years in business. Why did that sales team close so many sales? Because the customers on the other end of those emails had experienced empathy and clarity about the problem they were facing and assurance that Calix’s products would solve those problems. Those emails positioned the customer as the hero and the account executive as the guide, and they gave the client confidence that their story would end well. Plus, the calls to action were clear: Our product will solve your problem; would you like to place an order now? The Power of the “Buy Now” Button I have a friend who has bought and sold nearly one hundred companies. He knows a lot about scaling a business, and as he evaluates a company, he makes sure the people, products, and procedures are all healthy. But the key ingredient he looks for before he will buy a company is whether the sales process is correctly challenging their customers to place orders. Why? Because my friend knows the fastest way to grow a business is to make the calls to action clear and then repeat them over and over. He’s made millions simply buying companies, creating stronger calls to action, and then selling those businesses after the revenue predictably increases. One of the biggest hindrances to business success is wrongly assuming customers can read our minds. It’s obvious to us that we want them to place an order (why else would we be talking to them about our products?), so we assume it’s obvious to them too. It isn’t. Specifically, as it relates to marketing, there should be a “Buy Now” button in the top right corner of your website, and it shouldn’t be cluttered with a bunch of other buttons. Your “Buy Now” button should be the obvious button to press, meaning it should be featured in a different font or
+>>>

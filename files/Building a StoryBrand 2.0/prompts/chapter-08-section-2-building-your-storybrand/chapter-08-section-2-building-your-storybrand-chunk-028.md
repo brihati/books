@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-028",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 180541,
+    "char_end": 188214,
+    "checksum": "96a9a16dc2341daf"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+dentity. The aspirational identity of a Gerber knife customer is tough, adventurous, fearless, action-oriented, and competent to do a hard job. Epitomized in their advertising campaign Hello Trouble, a Gerber customer is positioned as the kind of person who sails boats into storms, rides bulls, rescues people from floods, and yes, cuts tangled ropes from boat propellers. In their television commercials they present images of these aspirational, heroic figures cast over anthemic music and a narrator reciting the lines: Hello, Trouble. It’s been a while since we last met. But I know you’re still out there. And I have a feeling you’re looking for me. You wish I’d forget you, don’t you, Trouble?
+
+Perhaps it’s you that has forgotten me. Perhaps I need to come find you, remind you who I am.1 The commercial is terrific. One day, to my surprise, a StoryBrand alumnus, who happens to be one of the Army Rangers about whom the movie Black Hawk Down was made, stopped by the house. We caught up for a moment, and then he gave me a little thank-you present, a Gerber knife. He even had my name engraved on the blade. He knew I liked the commercial and so offered it as a gift. To this day I keep that knife clipped to the dashboard of my 1978 FJ40 Land Cruiser. Occasionally I’ll take the knife into the house, stare at a jar of peanut butter, and say, “Hello, Trouble.” I may be just a writer, but I love that knife. But let me ask you a question. Was the knife I bought a waste of money? I mean, let’s say I did pay forty dollars for the knife and never used it. Did I get ripped off? I’ve asked that question to hundreds of people who are familiar with the StoryBrand messaging framework, and the answer has always come back the same: no. It was not a waste of money. It was well worth the forty dollars. I can’t help but agree. The truth is when I buy a Gerber knife I get something more than a knife. In a way, Gerber helped me become a better person. They defined an aspirational identity and invited me to step into that identity. The knife made me feel more tough and adventurous, and they even created a moment between two friends. And that’s worth a great deal more than forty dollars. HOW DOES YOUR CUSTOMER WANT TO BE DESCRIBED BY OTHERS? The best way to define an aspirational identity that our customers may be attracted to is to consider how they want their friends to talk about them. Think about it. When others talk about you, what do you want them to say? How we answer that question reveals who it is we’d like to be. It’s the same for our customers. As it relates to your brand, how does your customer want to be perceived by their friends and family? And can you help them become that kind of person? Can some aspect of your product participate in your customer’s identity transformation? If you offer executive coaching, your clients may want to be seen as competent, generous, and disciplined. If you sell sports equipment, your customers likely want to be perceived as active, fit, and successful in their athletic pursuits. Once we know who our customers want to be, we will have language to use in emails, blog posts, and all manner of messaging collateral. A GUIDE OFFERS MORE THAN A PRODUCT AND A PLAN Playing the guide is more than a marketing strategy; it’s a position of the heart. When a brand commits itself to helping customers define their heroic ambition; resolve their external, internal, and philosophical problems; and inspire them with an aspirational identity, they do more than sell products— they change lives. And leaders who care more about changing lives than they do about selling products tend to do a good bit of both. Last year StoryBrand consulted with Dave Ramsey and his team. Ramsey Solutions may be the best example of a narrative-based company I know, and Dave himself is a terrific example of a guide. Over a series of workshops, dinners, and speeches, we introduced the Ramsey team to the SB7 framework, less as a way of educating them than as a way of giving vocabulary to what they were already doing. Dave Ramsey hosts one of the largest radio shows in America with more than eight million daily listeners. On the show he offers financial advice and strategies that revolve around tackling and conquering personal debt. Unlike many advisers, though, Ramsey offers more than wisdom; he offers a narrative map his customers can enter into. He comes back from every break on his radio show with the same line: “Welcome back to The Dave Ramsey Show, where debt is dumb, cash is king, and the paid-off home mortgage has taken the place of the BMW as the status symbol of choice.” There they are, the elements of story, complete with an identity to step into and a new status symbol to go along with that new identity. Though Dave’s face is prominent on book covers and billboards promoting his show, he never positions himself as the hero. Instead, Ramsey has a near obsession with his listeners’ stories. Dave’s understanding of his listeners’ external problems (consumer debt and financial illiteracy), internal problems (confusion and a feeling of hopelessness), and their philosophical problem (credit card companies don’t care about your financial well-being and will gladly sell you debt you can’t afford) engages listeners in a living story. Always entertaining, Dave never misses an opportunity to embolden his listeners with an aspirational identity, encourage their progress, and remind them that tackling their financial challenges offers them a leap toward personal transformation. To cap it off, Dave offers a brilliantly placed climactic scene in his customers’ story. After listeners execute a plan he offers through his Financial Peace University, they are invited on his show to perform a “Debt-Free Scream.” People travel from thousands of miles away to be featured on the show, and when they arrive, dozens of the Ramsey team surround the accomplished heroes with applause as the heroes shout, “We’re debt-free!” Once a listener has completed the journey, Dave lets them know they’ve changed, that they are different now, and that there is nothing they can’t accomplish if they apply themselves. GREAT BRANDS OBSESS ABOUT THE TRANSFORMATION OF THEIR CUSTOMERS When we first met with Dave, I was surprised to learn he didn’t know that affirming the hero’s transformation was an oft-included scene at the end of many stories. I mean, he knew it intuitively but had never noticed it as a plot point in hundreds of stories. After the climactic scene (the debt-free scream), the guide often comes back to affirm the transformation of the hero, telling them that they are now a different and better person. At the end of Star Wars: A New Hope, the ghost of Obi-Wan stands next to Luke Skywalker as he’s rewarded for bravery. In The King’s Speech, Lionel tells King George he will be a great king. Peter Brand sits Billy Beane down in the movie Moneyball and lets him know he’s hit the equivalent of a home run as the manager of the A’s. The main purpose these scenes serve is to mark the transformation the hero has experienced so the audience has a point of reference that contrasts the hero’s character from the story’s beginning. The audience needs to be told very clearly how far the hero has come, especially since the hero usually struggles with crippling doubt right up until the end and they don’t even realize how much they have changed. The principle here is this: A hero needs somebody else to step into the story to tell them they’ve transformed. Heroes do not realize their transformation intuitively. They must be told by somebody else, and that somebody is the guide. That somebody is you.
+>>>

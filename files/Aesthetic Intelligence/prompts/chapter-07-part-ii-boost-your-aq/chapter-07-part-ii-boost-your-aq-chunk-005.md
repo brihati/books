@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-005",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 27226,
+    "char_end": 34899,
+    "checksum": "d526c451911ab433"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+hey would give the do-gooder a card. In turn, Kind sent the Good Samaritans two Kind bars and another card to pay the kindness forward to someone else. The company, which cleverly refers to itself as “not-only-for-profit,” has pledged thousands of dollars to customer-generated projects that give back to communities. But Kind has differentiated itself beyond its marketing messages and tactics. Its packaging is designed for maximum transparency, with its clear plastic wrap, so consumers can see the basic ingredients— chunks of nuts or dried fruit—and can easily imagine the taste and texture of each bar before taking a bite. Kind was also able to capitalize on Americans’ changing eating habits.
+
+That wasn’t just luck on the brand’s part; it was about using aesthetics to increase sensitivity to customer preferences. In the 1990s and early 2000s, energy and nutrition bars were considered a specialty product purchase and were heavily marketed to athletes and dieters. Now a more general customer is looking for healthy, convenient snacks made from real and minimal ingredients, without a lot of preservatives, and transparently labeled. About twenty-seven million more Americans ate health bars in 2013 than did so in 2003. Kind fills their desire by creating a product that uses natural ingredients and then by creating packaging and messaging that reinforces that aesthetic. I don’t believe that Kind bars are much healthier than any other snack bar—they have a lot of sugar in them. But they manage to associate themselves with words that reflect health, such as pure and whole. Kind looks like what it is made of, and the jeweled configuration of nuts, fruit, and chocolate in the bar is appetizing looking. The bars are filled with ingredients you can both see and pronounce. You have a pretty good idea of what the almonds, cranberries, and chocolate bark are going to taste like before you open the package. That’s the idea behind naming the bars, too— unlike Ben & Jerry’s ice cream, which comes up with funny names that conjure up the counterculture, Kind names its bars simply after their ingredients. If a bar contains apricots and almonds, it is called an “apricot and almond bar,” not “apricot crunch.” 35 Aesthetic Exercise: The Art and Science of Noticing It is possible to train ourselves to be more mindful of what we eat—or more broadly experience—and how we feel about such sensations and why. The more you are engrossed in an experience, the more aware you will become of the important elements that make an eating experience good or bad. You may eat out quite a bit, but how often do you pay attention to all the details? In my Harvard class, I assigned my students a restaurant review, choosing any restaurant and describing their experience dining there in such a way that a reader who might never eat at the restaurant could experience it vicariously. I encouraged them to focus their write-ups on the elements that were most distinct and notable with as much specificity as possible. My students were surprised by how much more they noticed during the dining experience—what a particular venue was doing right (and wrong)—and how nongustatory stimuli (such as the quality of the lighting, ventilation, and even acoustics) shaped their perception of the food. In preparing to write the review, I suggested, the students should do what I call a “sensorial audit,” in which they would take a few minutes to immerse themselves in the restaurant environment while jotting down as many sensorial cues as they could. Too often, I noted that the students relied on words, concepts, and narratives to describe their experiences rather than taking the time to feel and embrace their environment and understand the effect that it had on each of their senses and their bodies overall. Only after they had taken inventory of their sensorial responses would they be prepared for the next step: to codify and prioritize the sensorial effects according to their relative impact on the dining experience (both positive and negative) as well as other key factors, such as whether the effects were particularly memorable, distinct, and/or surprising. With clarity about the most powerful drivers behind the experience, they could focus their narrative within the constraints of a one-page paper. Once they had written the first draft, I directed them to put it down for a day or two or at least a few hours. Coming back to the review, they then should ask themselves whether there was anything that should be added. Had any of their impressions or opinions changed? Was there anything they had noticed in the course of writing the review that they might have missed on previous visits? What did they learn about how and what they noticed when they tuned in to their senses? Interestingly, less than 10 percent of my students thought to add visual imagery to their reviews. The majority wrote conventional business school reports, with carefully chosen words and well-structured sentences, but lacking in all forms of nontextual communications such as pictures, color swatches or references to color, descriptions of sounds, and so on. In providing feedback, I encouraged them to communicate their experiences using visual tools, perhaps even selecting a particular font to correspond with the restaurant’s ambience or incorporating a photo of the most prominent facet of the restaurant (e.g., the crowd, the space design, or the cuisine). I encouraged the students (and I encourage you, too) to apply this approach, the art of noticing how one sense has an effect on another, in evaluating other aspects of life and business, and in communicating beyond words. Just as we can expand our aesthetic horizons through attunement to taste, we can do the same with the way we dress and how we cultivate personal style. You may be a person who thinks a lot about what you wear each day, someone who keeps up with trends or creates a “look” that is unique to you. Or you may subscribe to a form-follows-function philosophy, opting for a “uniform” as a way of dressing for ease and convenience (think Steve Jobs’s black mock turtleneck and blue jeans or the late author Tom Wolfe’s iconic white suit). It doesn’t matter what kind of fashion you choose: understanding and learning how to refine your personal style will give you access to broader sensorial knowledge, or AI. Chapter 6 Interpreting (and Reinterpreting) Personal Style In the last chapter, we talked about taste in the context of food and flavor. But aesthetics is an appreciation of all the senses, and aesthetic intelligence is an understanding of how and why the senses trigger certain emotions— especially pleasurable ones—through all forms of stimuli. In this chapter I want to get personal and talk about how you can (and, I believe, should) start the process by cultivating and expressing your own aesthetic through your appearance and style—more specifically, what you wear and how you wear it. After all, good taste comes from within, and good style is exhibited by what I call the “four Cs”: clarity, consistency, creativity, and confidence. Does your appearance demonstrate a clear sense of who you are, what you value, and how your inner self connects to your outer persona? Do others associate you with a few consistent style or fashion markers or “codes,” per our earlier discussion on brands? Creativity is seen in the uniqueness of your codes. Are they identifiable markers? And are your strongest codes unique, original, and memorable? Working toward those Cs will not only help you strengthen your personal image but also create a valuable skill set for building your business interests.
+>>>

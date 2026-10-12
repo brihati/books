@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-009",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 55087,
+    "char_end": 62783,
+    "checksum": "1f12424a068de534"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+be resolved? Perhaps. The thing is, they will have to engage your brand to find out. CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Either alone or with your team, brainstorm all of the literal and metaphorical villains your brand takes a stand against. Brainstorm the external problems your brand resolves. Is there one that seems to represent the widest swath of products? Brainstorm the internal problem (frustration or doubt) your customers are feeling as it relates to your brand. Is there one that stands out as a universal experience for your customers? Is your brand part of a larger, more important story?
+
+Is there a philosophical wrong your brand stands against? Once you finish your brainstorming session, make the four StoryBrand BrandScript decisions that will allow you to create sound bites for the second element of your StoryBrand BrandScript. OceanofPDF.com CHAPTER 6 AND MEETS A GUIDE StoryBrand Principle Three: Customers aren’t looking for another hero; they’re looking for a guide. Shakespeare was right—a person’s life is made up of many acts. As a book writer, though, I prefer to see these acts as chapters. If you look back on your life, you’ll likely see them too. There is the chapter when you grew up poor and the chapter when you began to understand you could dream big and the chapter about the importance of family and relationships and the chapter in which you realize that giving is more fulfilling than getting and so on and so on. There is an evolution to our maturity, and when you look back, it’s a beautiful evolution. I believe one of the main miracles of life is the fact that we get to transform. No two lives are the same, yet we share common chapters. Every human being is on a transformational journey. It’s easy to recognize these chapters by their events, or what writer and story scholar James Scott Bell calls “doorways of no return.”1 This might have been our parents’ divorce, our first crush, a rejection from somebody we loved, or having absolutely nailed the moonwalk when the crowd gathered around us at the junior high dance. In stories, events mark the beginnings and endings of our chapters. But if we look closer, we will see something else or, more accurately, somebody else. The events that define our chapters are often instigated or interpreted by mystical characters who help us along the way. Story scholars call these characters by many names, such as wizards or mentors or helpers. I choose to call these mystical characters guides—those who step into our lives and help us face our challenges so that we can overcome them and transform into better versions of ourselves. In his book The Seven Basic Plots, Christopher Booker describes how a guide is introduced into the story this way: A hero or heroine falls under a dark spell which eventually traps them in some wintry state, akin to a living death: physical or spiritual imprisonment, sleep, sickness or some other form of enchantment. For a long time they languish in this frozen condition. Then a miraculous act of redemption takes place, focused on a particular figure who helps to liberate the hero or heroine from imprisonment. From the depths of darkness they are brought up into glorious light.2 EVERY HERO IS LOOKING FOR A GUIDE Our first guides came to us early. I’m talking about our mother and father, who loved us more than they loved themselves, who sacrificed for us and taught us the ways of the world. They taught us language and belonging and connection and our first words and letters and numbers. They read us stories about characters who faced troubles but showed courage. Later, many of our teachers and coaches played the role of guide by helping us understand the importance of working hard, and they taught us to believe we could accomplish more than we previously thought possible. For many of us, guides have included poets we’ve read, leaders who gave us a voice in the halls of power, therapists who helped us make sense of and solve our challenges, and yes, even brands that offered encouragement and tools that helped us overcome our challenges. Guides are important in stories because they are important in life. Every human being knows that the wisdom it takes to navigate life is passed down, that no human can figure it out on their own. If a hero solves her own problem in a story, the audience will find it difficult to suspend disbelief. Why? Because we intuitively know if she could solve her own problem, she wouldn’t have gotten into trouble in the first place. Storytellers use the guide character, then, to encourage the hero and equip them to win the day. You’ve seen the guide in nearly every story you’ve read, listened to, or watched: Frodo is helped by Gandalf, Katniss is guided by Haymitch, and Luke Skywalker is shown the way of a Jedi by the all-knowing Yoda. Hamlet was guided by his father’s ghost, just as Romeo was taught the ways of love by Juliet. Human beings wake up every morning self-identifying as the hero of their own story. They are troubled by external, internal, and philosophical conflicts, and they know they can’t solve these problems on their own. For this reason, all human beings are seeking guides. Certainly we are inspired by stories of other heroes overcoming great challenges, but what we really need when the conflict is rising in our own lives is not another hero—what we need is a guide. The fatal mistake many brands make, especially young brands who believe they have something to prove, is positioning themselves as the hero in the story rather than the guide. As I’ve already mentioned, a brand that positions itself as the hero is destined to lose. The Fatal Mistake The ramifications of positioning our brand as the hero could be fatal. Consider the launch of the music streaming service Tidal. Never heard of it? There’s a reason you likely haven’t. Rapper Jay-Z founded the company with a personal investment of a whopping $56 million and a mission to “get everyone to respect music again.”3 Instead of being owned by music studios or tech companies, Tidal would be owned by musicians, allowing them to cut out the middleman and take their products directly to market. As a result, artists would be able to pocket more of the profits. It may sound like a good business idea (and it was), but Jay-Z failed to consider the mistake of positioning himself and other artists as the heroes. He rightly saw an injustice in the world of music—namely, that artists were not getting paid for their own work. Instead, the money was going to record labels. But in publicly positioning artists as the heroes fighting for a cause, he forgot that the artists weren’t the customers, the music-loving public was the customer. After all, were only artists going to buy music from each other? No. Under the StoryBrand framework, the customer must always be the hero and the brand must always play the guide. In the months leading up to the launch of Tidal, Jay-Z recruited sixteen well-known musicians who agreed to release exclusive content on his platform in exchange for a percentage of equity. In their multimillion-dollar rollout, the artists stood shoulder to shoulder at a press conference to explain their mission. Predictably, this is where everything fell apart. If only Jay-Z, in other ways a genius, had understood the age-old rules of story, he might have avoided walking into a minefield. “Water is free,” Jay-Z quipped. “Music is $6 but no one wants to pay for music.” He continued, somewhat confusingly, “You should drink free water from the tap—it’s a beautiful thing. And if you want to hear the most
+>>>

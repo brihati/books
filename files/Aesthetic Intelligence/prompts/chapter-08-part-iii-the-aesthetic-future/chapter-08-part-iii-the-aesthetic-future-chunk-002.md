@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-08-part-iii-the-aesthetic-future",
+  "chunk_id": "chapter-08-part-iii-the-aesthetic-future-chunk-002",
+  "source": {
+    "chapter_title": "Part III: The Aesthetic Future",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/08 - Part III The Aesthetic Future.txt",
+    "source_pages": "157-166",
+    "char_start": 6276,
+    "char_end": 13948,
+    "checksum": "d3ee7f334fc1f322"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+duction to meet larger retail demands while still maintaining the authenticity of their handmade goods, more of their products will be found at larger retailers. Expect more social and environmental activism, greater efforts toward sustainability, and further inclusion of handmade items as a response to consumer interest in products with a small environmental impact. This will in turn lead to a desire for more tactile experiences. Digital Expansion and the Tactile Experience The expansion and pervasiveness of advanced computing and “smart” devices; the increasing automation of cars, houses, and large parts of the workforce; 14 and cheaper, faster access to data—all are the result of a forty-
+
+year trend that will continue for another forty years or more. Some people will embrace high-tech experiences and products, while others will reject it, leading to a new twist in the concept of a “digital divide.” We are entering a world not of “haves versus have-nots” but of “wants versus don’t-wants.” Automation will replace work in many sectors—farm, 15 fast food, 16 driving, 17 clerical, and other jobs 18 will be the first to go 19—but new jobs will be created in industries that require creativity, originality, and a human touch (literally and figuratively), including in the arts, sciences, and business strategy, 20 which is why aesthetic intelligence is so important to the future of work. If you do not have aesthetic skills, the digital world and the handmade world may both seem out of reach. The caveat is that computers can and will create art and music—but humans, I believe, will continue to do so in much more elevated and inspiring ways. There may also be something akin to “human privilege,” where many people will prefer—and even pay more for—creative materials built by human minds and hands. Jobs involving building and sustaining complex interpersonal relations, including professions such as nursing, sports coaching, and psychotherapy, will be somewhat safe from automation. Here, too, aesthetic intelligence will be required to help services sustain and grow their client base, since competition in these fields will be brisk. Increased automation and computer learning also will compel people to look for ever more creative and personal ways to improve quality of life. With this will come a quest for items that have greater tactile qualities that give us sensorial pleasure and relieve us of near-constant exposure to the flatness of two-dimensional screens. A desire for richer, lusher sound will push technology companies to create more lifelike listening experiences— and we may also crave more live music experiences. 21 There will be an extra appreciation for digital products that provide intensified scent/taste/touch experiences and for nondigital products that provide a rich sensorial experience as well. In fashion and clothing, sensory experiences may indeed be woven into fabrics: think thick, chunky knits or those with ultrasoft or nubby textures or mixed-media textiles (e.g., leather plus quilted down-filled fabric plus embroidery). In food, unusual and unexpected ingredients (e.g., spicy or savory ice cream, even more intense sweet, hot, and sour flavors) will continue to push the limits of culinary innovation, but we will also see a return to “comfort foods” and those that offer warm, nostalgic feelings. Though some people will opt for space-age foods such as Soylent, most of us want to experience a variety of sensations and novelty when we gather for a meal. All the while, technology will continue to evolve and become part of high-tech fitness clothing and other wearables, keeping track of our steps, body mass index (BMI), calories eaten and expended, blood pressure, and so on. Tech will also affect food and drink, which will lead to more functional foods that promise to enhance our health and/or mood. The Hudson Valley–based Recess is a harbinger of this trend. Its water is infused with a nonintoxicating hemp extract that claims to have pain relieving, antianxiety, anti-inflammatory properties—it helps you “chill out” without getting stoned. The drink contains adaptogens that purport to reduce stress and improve memory, focus, and immunity. 22 There will be more emphasis on hands-on body work to achieve physical fitness (as opposed to high-tech workouts), including massage and new forms of yoga and other mind-body practices that intensify the experience of movement. Death metal yoga is a good example of this, with classes that feature punching, kicking, air guitar playing, head banging, and a great deal of sweat. 23 Fitness centers may also become smaller, built closer to patrons even in rural areas, and more personalized or niche oriented. That means small centers that serve older populations or younger ones; those that serve transgender people or specific religious groups. 24 Focusing on small communities and their needs is a way to be competitive in a crowded field, not just for the fitness business but for most businesses. Niche markets that serve various age groups and desires will become more common, and their aesthetic choices will differentiate them. To offset a depersonalized society, consumers will crave recognition of their individuality, which will lead to the next shift. Tribal Secession When I use the word secession, I don’t mean it in the sense that countries will break up into smaller ones—although that could happen, and many geopolitical experts and others have predicted it will, as exemplified by Brexit. 25 However, as a reaction to globalization and threats to local cultures, languages, and ways of life, we have seen a rapid growth of identity politics, tribalism, localism, activism, and unfortunately terrorism. More than ever, people seek to belong to groups that represent mutual feelings, shared values and common goals, and joint causes or ideals that validate their belief systems. These forces will be fed by social media and may undermine both democracies and dictatorships. 26 The growth of “tribes” will usher in an age of hyperlocalism (and a rejection of global harmonization) and the emergence of “microdominant” brands that cater to highly specific cultures and identities, defined not necessarily by ethnic background but by personal values and lifestyle choices. Brands that serve microcommunities (e.g., trans or gender-fluid people, religious factions, historically underserved and overlooked groups, and so on) will redefine retail by creating authenticity, integrity, and transformative products and experiences that consumers want but can’t always find right now. Tribalism is the most powerful force on earth today. Communities become tribes. Brands form tribes. Large companies are tribes of tribes. For business that means we will see two consumer desires played out simultaneously. First, we will see products that appeal to smaller and more specific group identities. We will also see products that convey a sense of global and blended design influenced by access to a range of cultural influences. The mixing and blending of cultural heritages will create new hybrid groups and identities, such as “tribal tech” and “industrial chic.” People will form groups or “tribes” in other ways as a reaction to the fear of the harsh, unpredictable realities of the outside world. Cocooning will continue to be important, along with the accoutrements that support it— everything from cozy blankets to products and services that bring us closer to safety and elicit trust and comfort. Anxiety-ridden by simultaneous social, economic, political, and ethical chaos, some people will find themselves stretched beyond their ability to
+>>>

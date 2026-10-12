@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-013",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 80339,
+    "char_end": 88002,
+    "checksum": "8d3efd3e2565b142"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+irement plans affected an individual’s likelihood to save more for the future. When a plan offered just two funds, participation was around 75 percent. In plans that offered fifty funds, the participation rate dropped to around 60 percent. The more choices available, the more likely people were to give up trying to decide on one and simply put all their money into money market accounts, Iyengar found. This is not a wise decision in terms of future financial security. 2 In the consumer world, Iyengar has found that choice overload reduces engagement, the quality of the decisions themselves (having to make more choices leads to worse decisions), and ultimate satisfaction with the choices made.
+
+How can you apply curation to help customers make easier and better decisions as well as delight them during the decision-making process? The first step in curation is to get rid of extraneous inputs. Iyengar notes that when Procter & Gamble reduced its Head & Shoulders brand offerings from twenty-six to fifteen, sales rose by 10 percent. When the Golden Cat Corporation eliminated ten of its worst-performing cat litters, profits increased by 97 percent, due to both a lowering of production cost and an increase in profits. 3 The ninth-largest retailer in the world, Aldi, has learned this lesson and offers just 1,400 choices, compared to 45,000 choices in a typical grocery store and 100,000 choices at Walmart. Get rid of redundant choices or those with no discernable beneficial features. What are you offering, and in how many versions? What are the differences among them? If you can’t tell products apart, neither can your customers. Second, help your customers imagine the emotional effects of their choices before they are made. Can people tell by looking, touching, or even smelling an item how it will feel and whether it will continue to appeal to them when they get it home? When Entenmann’s baked goods were first introduced they were both packaged and presented as if they were from a real bake shop: white fold-over top boxes with a cellophane window that showcases what’s inside. They were generally displayed on stores’ endcaps, rarely if ever in the cookie aisle, removing them from everyday boxed and bagged cookies and cakes such as Chips Ahoy! and vanilla wafers. You could tell by looking at the package that the cookies were going to be soft and chewy and the chocolate chips or frosting smooth and creamy. That stood in contrast to the cardboard-dry cookies in the cookie aisle. The third way of increasing engagement and helping a customer complete a choice (i.e., make a purchase) is by categorizing items clearly and meaningfully in retail or other settings where choices are made. It turns out that we can handle more choices if they are categorized properly—but the categories must mean something to customers, and there cannot be too many. Iyengar found that when Wegmans grocery store categorized its hundreds of magazine offerings into fewer categories (i.e., “men’s,” “women’s,” “tech,” “food,” “sports,” “design”), it sold more titles than when it divided the magazines into twenty or thirty categories. Moreover, the categories mustn’t be structured by clusters of information or product features but by human emotions. For example, in the fragrance sector, customers do not respond to categories based on logical divisions (pricing, chemical ingredients, or country of origin); they respond to the moods and images that each fragrance projects (romantic, sexy, or clean). The fourth condition for helping consumers enjoy the decision-making process is, ironically, to increase the complexity of decisions to be made. If decision making is presented in the right way, it leads to deeper engagement and creates richer, more interesting, and more memorable experiences. In terms of sequencing, it is important to start consumers off with simple decisions and gradually add more challenging ones. This method sustains engagement and deepens your customers’ investment in their choices and builds their excitement. Iyengar talks about choices made about options and features in cars. There was more enthusiasm about a purchase if customers started off with easy choices (color of exterior, three choices) and ended with more complex choices (interior details such as types of materials used, ten choices). In contrast, if you bombard customers with a slew of choices all at once, they tend to feel overwhelmed and are more likely to walk away from the transaction altogether. The latter approach shows a lack of empathy for the decision maker—your customer—and is also a symptom of not having thought through the aesthetics of your product or service in an integrative fashion from product development to package design to promotions to retail distribution and fulfillment. As with most skills, we need to practice curation before we can become truly skilled at it—and we probably won’t get there without hands-on practice. We can learn a great deal about curation and telling a powerful aesthetic story through the process of interior design, or how we put together a space based on personal preferences and needs. Even people who are putting together retirement plan options for employees can benefit from this, because thinking about how things go together and how they are presented and perceived will result in better outcomes. The power of aesthetic intelligence is most obvious with consumer products and services, but it can also become a meaningful differentiator for professional service firms. Years ago, when I was a partner at the private equity firm The Carlyle Group, I worked on corporate buyouts in the consumer and retail sectors. It was a highly competitive environment with dozens of investors chasing fewer and fewer high-quality deals. Sellers of attractive companies were bombarded with multiple offers at increasingly rich valuations. Rarely did an investor such as Carlyle win a deal on price alone. In truth, Carlyle was not all that different from its chief competitors, such as Blackstone, Kohlberg Kravis Roberts (KKR), and Bain & Company. They all recruited investment professionals from the same few business schools, those professionals used the same mathematical formulas to analyze and value companies, they worked with the same banks to structure their deals and negotiate optimal lending rates, and they got access to the same buyout opportunities. So what was the difference? Why would Carlyle win some deals, while its competitors won others? In rational terms, the investors all looked pretty much the same. But each of them had—and still has—a critical differentiator: the core values, personalities, and styles of its people—the aesthetics of the firm, if you will. Typically, these distinct attributes start with the values, personalities, and styles of the founders. They manifest themselves clearly and powerfully in the way each firm represents itself to key constituents. In a seller’s market, sellers choose investors who tell a story through their chosen aesthetics that fits with their own values and style; they want to feel comfortable, understood, and reassured during the deal process, especially if they have longer-term aspirations for their business and their own future involvement in it. Do not underestimate the power of aesthetics to help deliver that comfort and reassurance. When I visited Carlyle’s headquarters in Washington, DC, where cofounder and co–executive chairman David Rubenstein still presides, 4 I experienced a very specific set of values, as dictated by David and his cofounders. David came from a humble background (his father was a postal worker).
+>>>

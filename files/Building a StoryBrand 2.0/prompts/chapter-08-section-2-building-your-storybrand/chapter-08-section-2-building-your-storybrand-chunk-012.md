@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-012",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 76023,
+    "char_end": 83693,
+    "checksum": "909e8c6a879e8746"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+your customers that you care. Again, customers won’t know you care until you tell them. ARE YOU LIKE ME? Empathy is more than just sentimental slogans though. Real empathy means letting customers know we care about them in the same way we care about ourselves. Customers look for brands they have something in common with. Remember, the human brain likes to conserve calories, so when a customer realizes they have a lot in common with a brand, they fill in all their cognitive dissonance with trust. Essentially, when we highlight the aspects of ourselves or our brand that we have in common with our customer, the customer batches their thinking, meaning they think in “chunks” rather than details.
+
+Here’s what I mean by “thinking in chunks.” Last night, my wife and I attended a dinner party and sat next to a couple we’d not met before. As we started talking, I noticed how instinctively human beings search for commonality. When my wife discovered that the couple had grown up in Louisiana, there was an instant connection as she herself hails from the north shore of Lake Pontchartrain. As humans get to know each other, they search for shared places and people and experiences, thus increasing the feeling that there is a mutual understanding of life and giving us the feeling that the person we are talking to is safe. That is why finding and expressing commonality—whether taste in music or shared values or shared stages of life—and talking about those commonalities is such a powerful marketing tool. Once, while counseling a politician, I explained that even if you are in a room of people who are completely different than you, you must find and focus on a common experience, especially if you need to express disagreement. For example: Like you, I am deeply concerned about the cost of health care, but I’m equally concerned about government incompetency to run our health-care system. In my view, socialized medicine disincentivizes innovation, which could ultimately lead to a radical decline in patient care and even longevity of life. You and I are the same in that we believe Americans are paying too much for too little when it comes to health care, but if we put our heads together, practical people like us will find a solution. You’re right, though, that this problem must be dealt with. We certainly agree on that. The point is this: Your brand and your customer are alike. You have shared experiences and a shared view of life. A recent Discover Card television campaign tapped into the power of empathy by showing customers who call Discover’s customer service line and end up talking to an exact replica of themselves. As they talk, the customer realizes they have everything in common with their credit card company; in fact, they are exactly the same. The message? Discover Card will take care of you the same way you would take care of yourself. We understand you. We know you. The Necessity of Competency In the first edition of Building a StoryBrand I listed the two characteristics of a guide as empathy and authority, but the word authority never sat right with me. After all, nobody likes a know-it-all and nobody wants to be preached at. The better word, then, is competency. As a guide, you do not have to be perfect, but you do have to be competent in your field of expertise. This is paramount. This is why Mary Poppins refused to budge in her self-confidence as a guide. Were she to have compromised her higher ground as it related to her competency to positively shape the future of a child, the movie would have had two heroes and no guide and as such would have been ruined. Competency matters, and if you actually have it, let’s not mess around with self-deprecation. Your hero needs more than a friend; they need a useful friend. Imagine walking into a nutritionist’s office for the first time, determined to get into the best shape of your life. “I’d like to lose thirty pounds,” you might tell her. “It’s been a struggle for a long time, but I’m ready.” How would you feel if the nutritionist, upon hearing your stated objective, looked at you, sighed, pinched an inch of the spare tire around their waist, and said, “Me too.” It wouldn’t take you long to realize you’d chosen the wrong nutritionist. The guide needs to know what they are doing and should have serious experience helping other heroes win the day. Wouldn’t you agree that Gordon Ramsey’s television show would be ruined if, instead of being the authoritative chef and restaurateur, he shyly confessed he knew nothing about fixing a restaurant but looked forward to learning with his hopeless client? At this point in the journey, many readers wonder how they can demonstrate their own competency without making themselves the hero. It’s a good question. The truth is, as a guide, you can talk about yourself all day long. To play the guide doesn’t mean that you go quiet and humble. In fact, you’ll notice that Mary Poppins gets much more screen time than George Banks, even though the story is largely about his transformation. The key to playing the guide, though, is to tell only the parts of your story that support your care for the customer and your competency to help them. As customers view our websites, commercials, or emails, they simply want to check off a box in the back of their minds that gives them confidence in our ability to help them. And our backstory can help. I recently had dinner with Mary and Madison Lee, who run a skin care line called Nēmah. The origin story of Nēmah serves as a great example of a brand telling the part of its story that positions the brand as the guide. In short, Mary had trouble finding a skin care line she could trust during the pregnancy of her first child. It turns out many skin care products are not safe for the mother and are especially harmful for the development of a child. She and her husband then created Nēmah’s line of products using only ingredients that are safe and healthy so that mothers would have a brand they could trust. By tapping into a serious concern mothers everywhere have in common and telling their own story about that concern (empathy) along with the science they discovered in their research (competency), they have built a phenomenally successful brand positioning themselves as former struggling heroes turned empathetic and competent guides who are helping other heroes win the day. There are five easy ways to add evidence of competency to your marketing and messaging. 1. Testimonials: Let others do the talking for you. If you have satisfied customers, place a few testimonials on your website. Testimonials give potential customers the gift of going second. They know others just like them who have bought your products and experienced success. You don’t need many testimonials as long as they are short and speak directly to how your product solved their problem. Three is a great number to start with and will serve the need of ensuring that most customers know that you know what you are doing. Also, avoid rambling testimonials that heap endless praise on your brand. It won’t take long for a customer to trust you, so keep a testimonial brief. If it looks too long, they won’t read it. Most customers scan websites. The shorter the sound bites, the more they will engage and retain. 2. Statistics: How many satisfied customers have you helped? How much money have you helped them save? A simple statement like the email marketing platform Keap’s “125,000 users trust [our] award-winning automation software”6 is all your potential customer needs. Numeric evidence scratches the itch of the left-brained consumer who loves numbers, statistics, and facts. 3.
+>>>

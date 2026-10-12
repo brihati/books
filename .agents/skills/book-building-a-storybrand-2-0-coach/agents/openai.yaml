@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Building A Storybrand 2 0 Coach"
+  short_description: "Apply the book to real situations with role-play, rewrites, debriefs, and grounded lookup."
+  default_prompt: "Use $book-building-a-storybrand-2-0-coach to apply Building a StoryBrand 2.0 through role-play, rewrites, debriefs, and chapter-grounded coaching."

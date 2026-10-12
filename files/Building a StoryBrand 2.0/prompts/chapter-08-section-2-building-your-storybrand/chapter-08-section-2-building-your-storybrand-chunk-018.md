@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-018",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 117833,
+    "char_end": 125503,
+    "checksum": "cb24ade32f85a100"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ns and found two local houses that could help. The first website I visited was beautifully designed—including a looping video loaded beneath text that explained the design house’s values and priorities. After about twenty seconds admiring the look of their site, though, I started searching for information about how to do business with them. I couldn’t find anything. They featured samples of previous projects, a few testimonials, and a phone number I could call but no direct, clear call to action. So I decided to check out their competitor’s site. The other company’s site wasn’t nearly as beautiful, but it dared to be clear. “If you’re worried about a presentation, we can help you hit a grand
+
+slam.” The truth is I was worried about my presentation, and they spoke to my internal fear. They also painted a picture of a climactic scene: hitting a grand slam. Then they asked me out: They offered a PDF called “5 Things Great Presenters Get Right,” and I was quite curious. I downloaded the PDF and read it in a few minutes. Their transitional call to action earned my trust and positioned them as the guide in my story. They had authority, it seemed, because in the lead generator they talked about all the other leaders they had helped. Then they sent me emails with helpful information about giving good keynotes. Each email would ask me to schedule a call, but for the first couple of weeks I ignored that request. After reading yet another helpful email, though, about two weeks out, I clicked on a link that took me back to their website. On their website, they had a clear and bright “Schedule a Call” button, and because they’d wined and dined me, I did. I scheduled a call. I never went back to the initial designer’s website (which, remember, was much better looking) because, although they had an impressive-looking site, they’d failed to build a trusting relationship with me, and before long I was gladly writing a check for several thousand dollars to the company that had clearly built a relationship over time and then challenged me to take action. Direct Calls to Action It bears repeating: there should be one obvious button to press on your website, and that button should be the direct call to action. When I say, “one obvious button,” I don’t mean “only one button” but rather one that stands out. Our customers should always know we want to marry them. Even if they’re not ready, we should keep letting them know where we’d like the relationship to go. Customers don’t buy when we are ready for them to buy; they buy only when two realities overlap: they realize they have a problem and they remember you have a solution. If they don’t have a problem, they aren’t going to place an order; if they do have a problem but forgot you have a solution, they will make a purchase from somebody else who had made the effort to ask them out, spend time with them, and build trust. You just never know when a customer is going to want to make a commitment, and when they do, you want to be on one knee, holding flowers, smiling for the picture. Examples of direct calls to action are Order now Call today Schedule an appointment Register today Buy now Direct calls to action can be included at the end of every email blast, on signage, in our radio ads, and even in our television commercials. Consider including direct calls to action in every team member’s email signature and, if you really want to get the point across, on all your business cards. The idea is to make it very clear what we’d like customers to do: to make a purchase so we can help them solve their problem. Transitional Calls to Action Direct calls to action are simple and obvious (though ridiculously underused), but transitional calls to action can be equally as powerful to grow your business. In fact, StoryBrand grew into a multimillion-dollar company in only its second year based solely on the use of a transitional call to action. Recognizing that most of our clients were using the StoryBrand framework to fix their websites, we released a free PDF called “5 Things Your Website Should Include,” and thousands of people downloaded it. At the back of the PDF we placed an ad for our StoryBrand Marketing Workshop. In the next twelve months, we doubled revenue on our workshops without spending a dollar on marketing. A good transitional call to action can do three powerful things for your brand: 1. Stake a claim to your territory. If you want to be known as the leader in a certain territory, stake a claim to that territory before the competition beats you to it. Creating a PDF, a video series, or anything else that positions you as the expert is a great way to establish authority. 2. Create reciprocity. I’ve never worried about giving away too much free information. In fact, the more generous a brand is, the more reciprocity they create. All relationships are give-and-take, and the more you give to your customers, the more likely it is they will give something back in the future. Give freely. 3. Position yourself as the guide. When you help your customers solve a problem, even for free, you position yourself as the guide. The next time they encounter a problem in that area of their lives, they will look to you for help. Transitional calls to action come in all shapes and sizes. Here are a few ideas to create transitional calls to action of your own: Free information: Create a white paper or free PDF educating customers about your field of expertise. This will position you as a guide in their story and create reciprocity. Educational videos, podcasts, webinars, and even live events are great transitional calls to action that on-ramp customers toward a purchase. Testimonials: Creating a video or PDF including testimonials from happy clients creates a vision of a climactic scene in your customer’s mind. When they see others experience a successful ending to their story, they will want that same ending for themselves. Samples: If you can give away free samples of your product, do it. Offering a customer the ability to test-drive a car, taste your seasoning, sample your music, or read a few pages of your book are great ways to introduce potential customers to your products. Free trial: Offering a limited-time free trial works as a risk-removal policy that also on-ramps your customers. Once they try your product, they may not be able to live without it. Connecting the Dots Earlier this year StoryBrand worked with a clinic that specialized in health screening, drug testing, treating minor sicknesses, and giving shots. The primary traffic the clinic received was through businesses who needed their employees to complete drug tests, which provided a steady stream of predictable revenue. Still, the clinic was stagnant in growth. Customers were coming in to get one product but weren’t aware of anything else the clinic offered. Upon visiting the clinic, one of our StoryBrand marketing coaches noticed they were missing a clear, direct, and transitional call to action. Patients would come into the shop, sign and date an entry form, then sit in the lobby reading magazines or watching television while they waited for a nurse. As one of our StoryBrand certified coaches consulted with the clinic, she told the owner to remove the television and magazines. Instead, she encouraged them to create a transitional call to action called “The Healthy Body Checklist,” allowing patients to self-assess their health. The checklist included questions like, “Do you feel tired at about two in the afternoon every day?” and “Are you satisfied with your current weight?” After patients finished their drug or blood tests, we suggested that nurses
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-017",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 110890,
+    "char_end": 118533,
+    "checksum": "fc4855c6d386f107"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+millions simply buying companies, creating stronger calls to action, and then selling those businesses after the revenue predictably increases. One of the biggest hindrances to business success is wrongly assuming customers can read our minds. It’s obvious to us that we want them to place an order (why else would we be talking to them about our products?), so we assume it’s obvious to them too. It isn’t. Specifically, as it relates to marketing, there should be a “Buy Now” button in the top right corner of your website, and it shouldn’t be cluttered with a bunch of other buttons. Your “Buy Now” button should be the obvious button to press, meaning it should be featured in a different font or
+
+a brighter color than the other buttons on the page. In short, your “Buy Now” or “Add to Cart” or “Schedule a Call” button should be the obvious button to press. The same call to action should be repeated above the fold and in the center of the header on your website, and then featured again and again as customers scroll down your page. Companies that don’t make their calls to action clear remind me of my dating days before I met my wife. Instead of clearly asking a girl out, I’d say something like, “If you ever want to get coffee, I’d be up for that. Do you like coffee?” What in the world is a woman supposed to do with a question like that? That’s just not how you make a baby. As I got older I realized the power of clarity. In fact, the way my wife and I got together was probably the clearest I’ve communicated about anything. I’d known Betsy from a distance for a while, but when I finally got up the courage to ask her out, I discovered she had a boyfriend. Still, I’d been passive long enough. I’d been hoping she’d notice how much I liked her even as I doled out vague and passive hints. It was time for a strong call to action. The next time I saw her, I told her how I really felt and that I’d like to call her in thirty days to ask her out. I said she’d need to ditch the other guy to keep things from being awkward. Amazingly, thirty days later, she was out of that relationship and we started dating. About a year later we got married. And now we have a baby. Turns out the StoryBrand framework is effective in a lot more than marketing, but I will save that for a later book. The moral of the story is to make your call to action clear by asking customers a yes/no question. Statements like “If you’re interested, let me know” do not prompt our customers to accept or reject our offer and instead send them off into a whirlwind of confusion. The chances of our customers going home, pouring a drink, and meditating on our vague offer are next to zero, so don’t expect to close many sales if you’re passive and confusing. When I was a kid there was a guy on late-night television who used to saw mattresses in half with a chainsaw. He’d scream at the camera that he’d gone crazy and was slashing prices on all kinds of furniture. He was effective, but he also looked a little foolish. A lot of us are afraid to ask for the sale because we don’t want to look like an infomercial pitch man, but very few people reading this book are ever going to come off as pushy. Of the thousands of clients we’ve worked with, we’ve yet to encounter anybody who oversells. Most people think they’re overselling when, in truth, their calls to action fall softer than a whisper. Do You Believe in Your Product? When we try to sell passively, we communicate a lack of belief in our product. When we don’t ask for the sale clearly, the customer senses weakness. When we are vague, our customers think we’re asking them for charity rather than standing in the confidence that our product can change their lives. Customers aren’t looking for brands that are filled with doubt and in need of affirmation; they’re looking for brands that have solutions to their problems. If we can change our customer’s story for the better, why shouldn’t we be bold about inviting them to do business with us? The guide in a movie must be direct about what they want the hero to do; otherwise, the guide comes off as weak and the audience experiences cognitive dissonance and loses interest. Two Kinds of Calls to Action At StoryBrand, we recommend two kinds of calls to action: direct calls to action and transitional calls to action. These calls to action work in two different phases of the guide/hero relationship. Let’s say we ask a customer to buy but they aren’t ready. Who knows why, but they aren’t ready. There’s no reason to end the relationship just because they want more time. In fact, most customers, especially if the item is expensive or if the sales process is complicated, rightly need more time. If this is the case, we want to deepen the relationship so that whenever they are ready, they will remember us. The way I deepen that relationship is through transitional calls to action. Direct calls to action include requests like “buy now,” “schedule an appointment,” or “call today.” A direct call to action is something that leads to a sale or at least is the first step down a path that leads to a sale. Transitional calls to action, however, do not require a purchase but do require some sort of commitment that further builds toward a trusting relationship. Transitional calls to action can be used to “on-ramp” potential customers to an eventual purchase. Inviting people to watch a webinar or download a PDF are good examples of transitional calls to action. To further the relational metaphor, a transitional call to action is like asking your customer, “Can I take you out on a date?” and a direct call to action is like popping the question, “Will you marry me?” In our marketing collateral, we always want to have a direct call to action and a transitional call to action. A metaphorical conversation with our customers goes like this: Us: Will you marry me? Customer: No. Us: Will you go out with me again? Customer: Yes. Us: Will you marry me now? Customer: No. Us: Will you go out with me again? Customer: Sure, you’re interesting and the information you provide is helpful. I will go out with you again. Us: Will you marry me? Customer: Okay, I’ll marry you now. As a brand, it’s our job to pursue our customers. We want to get to know them and for them to get to know us, but we are the ones who need to take the initiative and keep the relationship alive and flourishing, even if they aren’t ready to place an order. THOSE WHO ASK AGAIN AND AGAIN SHALL FINALLY RECEIVE Now that you’ve read this chapter, you will begin to notice how good brands build relationships, even using text on landing pages, lead generators, and emails. Years ago I was preparing a keynote presentation for a global shampoo brand and my graphic designer was too busy with other projects to help. Not wanting to wait, I decided to outsource the presentation to a design house. I went looking online for a shop that dealt specifically with presentations and found two local houses that could help. The first website I visited was beautifully designed—including a looping video loaded beneath text that explained the design house’s values and priorities. After about twenty seconds admiring the look of their site, though, I started searching for information about how to do business with them. I couldn’t find anything. They featured samples of previous projects, a few testimonials, and a phone number I could call but no direct, clear call to action. So I decided to check out their competitor’s site. The other company’s site wasn’t nearly as beautiful, but it dared to be clear. “If you’re worried about a presentation, we can help you hit a grand
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-007",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 41095,
+    "char_end": 48792,
+    "checksum": "143bc182254e4355"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+brand evangelists. The only reason our customers buy from us is because their external problem is frustrating them in some way. If we can identify that frustration, put it into words, and offer to resolve it along with the original external problem, we do more than just sell our customers products; we bond with our customers because we’ve positioned ourselves deeply into their narrative. For example, if we own a house-painting business, our customer’s external problem might be an unsightly home. The internal problem, however, may involve a sense of embarrassment about having the ugliest house on the block. Knowing this, our marketing could offer “Paint That Will Make Your Neighbors Jealous.”
+
+One of our clients, Stephen Boice, recently incorporated more internal messaging on his website and saw an increase in business, just by changing a few words. Stephen and his wife own Vitality Aesthetics, a face and skin studio in Florida that offers over thirty different treatments to help their customers look better. The header at the top of their website previously read, “Your Natural Beauty” and featured a picture of an attractive woman being treated by an aesthetician. While the website looked great and business was strong, I asked David to try something slightly different: Add get and back to their header. In other words, instead of saying “Your Natural Beauty,” say “Get Your Natural Beauty Back,” knowing that as most of us get older and spend more time in the sun, we lose our youthful looks a little faster than we have to. By identifying a customer’s feeling that they have lost something, David would be tapping into an internal frustration. I also asked David to include a price list that included all the procedures he offered but to give the price list away only in exchange for an email address. Once a potential customer downloaded the price list (definitely a qualified and interested customer), I asked him to send thirty emails over thirty weeks documenting how thirty separate clients felt about themselves after engaging each of his products. By creating an automated email campaign that taps into his customers’ internal frustrations and tells stories of how other customers had been relieved of those frustrations, David began to grow his business again. As digital advertising becomes more expensive and less effective, adding sound bites to our messaging that speak to our customers’ internal problems becomes more and more important as a way to generate greater engagement. What Frustrations Do Our Products Resolve? Recently, the rental car company National got my business by understanding my internal frustration. I used to rent cars from a company that got on my nerves. When I get off a plane, I normally don’t feel like making small talk. The staff at the company I used to rent cars from had a policy of chitchatting with their customers. They even used a script. First they asked whether I was in town for business or pleasure, then they asked about the weather where I came from. On and on it went. I heard this script so many times I started having fun beating them to their own talking points. I’d often jump ahead on their script and ask the clerk, “Are you going to be able to have a little downtime while you’re in town?” They’d just stare blankly at me because I’d hijacked their line. One day, though, I was watching television and a commercial came on for National Car Rental. The commercial showed a guy walking through the rental office without talking to anybody. The character talked about how he hated having to make conversation with salespeople and how he loved walking straight to his car. I immediately changed rental car companies and have been happy ever since. Speaking of car companies, CarMax is a chain of used car dealerships that aims most of their marketing collateral at the internal problem a customer experiences when looking for a used car—namely, the fear and frustration of having to interact with a used car salesman. If you’ve ever walked onto a used car lot, you know the feeling. It’s as though you’re about to wear yourself out in an altercation with a professional wrestler. Knowing their customers don’t want to haggle over prices with a wannabe con artist, CarMax’s business strategy is aimed at alleviating your fear of being lied to, cheated, or worked over in your car-buying experience. To do this, they have an agreement plan with their customers that ensures the price on the car is the price you’ll pay, and lets you know their salespeople aren’t compensated on a variable commission. They also highlight their quality certification and inspection process that ensures every car they sell is reliable.2 The external problem CarMax resolves is the need for a car, of course, but they hardly advertise about cars at all. Instead, their smart marketing department has focused on their customers’ internal problems and, in doing so, entered one of the least-trusted industries in America and created a $15 billion phenomenon.3 Likewise, Starbucks exploded not just by offering customers a cup of coffee but by giving them a comfortable, sophisticated environment in which to relax and connect. When they walked into a Starbucks, customers felt good about themselves. Americans went from hanging out in diners and bars to lounging in a local, Italian-style coffee shop. By solving their customers’ internal problems, Starbucks brought an entire industry to America. Thousands of European-style boutique coffee shops have popped up in nearly every small town in America, following Starbucks’ lead. In understanding how their customers wanted to feel, Starbucks took a product that Americans were used to paying fifty cents for (or drinking for almost free at home or at work) and were able to charge four or five dollars per cup. Starbucks customers are willing to pay more for their coffee because they sense greater value with each cup. Understanding and talking about our customers’ internal problems does more than create better advertising. Framing our products as a resolution to both external and internal problems increases the perceived value (and, I would argue, actual value) of those products. In other words, when you solve somebody’s internal problem, you can charge more for your products. Later, I’ll guide you through a brainstorming exercise helping you identify some of your customers’ internal problems, but before that, let’s look at a third kind of problem our customers experience. This third level can help the story you are inviting customers into go from interesting to downright passion-inducing. Adding a philosophical problem is one of the main reasons a film will win Best Picture at the Academy Awards, and it will have your audience sitting on the edge of their seats. A good philosophical problem can help you turn disinterested customers into brand fanatics. PHILOSOPHICAL PROBLEMS Adding a philosophical problem creates depth and meaning in a story and is often the reason stories resonate and become fan favorites. The philosophical problem helps those who engage the story understand why the story matters in the overall epic narrative of humanity itself. Why is it important that Tommy Boy should save his dad’s company? I’ll tell you why, because the people trying to take Tommy Boy down are lying thieves. This is a comedic story about honesty, family, integrity, and hard work versus deception, greed, and trickery. Why is it important that Hamlet should avenge his father’s death? Because his uncle is getting away with murder. Why is it important that Bridget Jones should find love? Because the beauty and worth of every person deserves to be recognized and cherished
+>>>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aesthetic Intelligence Coach"
+  short_description: "Build aesthetic advantage through sensory judgment, AQ drills, curation, and articulation."
+  default_prompt: "Use $book-aesthetic-intelligence-coach to audit a brand, product, service, or customer experience through Aesthetic Intelligence."

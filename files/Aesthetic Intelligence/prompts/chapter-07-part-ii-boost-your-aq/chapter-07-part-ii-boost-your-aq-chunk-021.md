@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-021",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 135974,
+    "char_end": 143646,
+    "checksum": "5acef081ff748d97"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ts consumers’ time and allows them to get to the product without fuss. Each of these choices is a way of reinforcing the concept of what you offer—but you are also shaping customers’ experiences by directing how they should go about opening a package. For instance, soda makers could have replaced the tab top long ago with something more practical or easier to open. But popping a tab top is part of the ritual of drinking a fizzy libation from a can—the snap and sigh it makes when you press the tab, the tingle you feel on your nose from the effervescence that is released are all part of the “package” of consuming the product. “Frustration-free” packaging is becoming more and more important. If
+
+opening a package isn’t either fun or easy—if the experience doesn’t contribute to the emotions you want to evoke in your customers—it’s time to rethink the package’s aesthetics. Unboxing should be either easy and quick or fun and delightful if it represents a process. In September 2018, Amazon sent letters to thousands of vendors about its new requirement to reduce packaging waste and improve efficiency; they were instructed to switch to packaging that wouldn’t require shipping preparation or an additional Amazon box. 16 The popularity of online shopping and customers’ interest in environmental sustainability are forcing many companies to rethink their packaging altogether. Tide, made by Procter & Gamble, has developed a cardboard box it calls the Tide Eco-Box that is four pounds lighter than its 150-ounce plastic bottle but washes the same number of loads of laundry. The Eco-Box doesn’t need to be packed in another box to be shipped; an address label can be placed directly on the product for mailing. 17 Other frustrations and antiempathic designs feature small and illegible print, cluttered designs that confuse the eye, wasteful or unnecessary materials, excess packaging that does not add to the pleasure of accessing the product, and hypermasculine packaging that requires tools such as scissors or box cutters or physical effort such as pulling and tugging, which can turn off 50 percent of your buyers. SECOND, MAKE YOUR PACKAGING RELEVANT. Your packaging should represent what your product stands for. If you sell eco-friendly dish liquid, you had better make sure it comes in a biodegradable bottle or at least one that can be recycled or reused. Seventh Generation, a producer of environmentally neutral household and personal care products, now uses a cap made of 100 percent postconsumer recycled (PCR) polypropylene for its Natural Dish Liquid. The closure is made primarily of recycled plastic clothes hangers. Seventh Generation CEO Joey Bergstein says that the company wants its packaging to be completely free of virgin plastic by 2020. Caps are particularly challenging, according to Bergstein, which makes the new “green” cap, created by TricorBraun, a significant leap forward. 18 If you are selling toys or gadgets, entertainment products, or even many food and drink products, you have a chance to convey the playful and fun nature of your product through packaging. If you’re selling something such as pharmaceuticals or tools, the packaging should be straightforward and convey the seriousness of the item. This does not mean it cannot have a high level of aesthetic appeal, however. Wright Tool Company, 19 a legacy American toolmaker founded in 1927, uses minimal packaging for its hand tools that allows buyers to inspect their quality. The bright red package draws the eye to a wall in a home improvement store that may also have several other brands displayed; the American flag on the right immediately conveys the message that these are not cheap imports, and the W logo next to the company name reinforces brand recognition. The functional food maker Soylent 20 uses fonts, language (“Free your body”), and packaging that connote a clinical and medicinal quality but also a minimalist modernity—the exact messages it wants to convey about its high-tech meal replacement products. THIRD, MAKE SURE YOUR PACKAGING ENGAGES THE SENSES. Research shows that the impact a brand has on consumers increases by 30 percent when more than one sense is engaged by packaging design. 21 Anything that encourages a consumer to take a product from the shelf is a plus. That means patterns and textures can’t be overlooked. People are going to be seduced into picking up and handling a package if it looks as though it has a tactile quality. Raised or 3D effects, textures (smooth, rippled, ribbed, rough, etc.), unusual shapes, and weight (hand feel), add to the allure of a product and increase interest. 22 Once someone picks a product up to examine it, you are halfway to a sale. 23 Spirit companies have long been known for their interesting and tactile bottles. In 2016, Captain Morgan introduced a seasonal bottle of pumpkin spiced rum that emulated the vegetable not just in color but in shape and feel. Its Jack-O-Blast limited-edition pumpkin spiced–rum bottle looked and felt like a real pumpkin, from its skin-tight orange shrink-film wrap to its rough-textured stemlike cap. Nowadays, wine is as well preserved in screw-cap bottles as it is in cork- topped bottles. Yet to most wine lovers, the tactile experience of uncorking a bottle (along with the satisfying sigh that comes with the release of the cork) is far more sensual than screwing off a metal bottle cap. Uncorking builds anticipation, examining the cork adds to the experience—and many people save corks that help recall a special occasion or collect corks by the bowlful, or even make things (trivets, wreaths) with them, another example of how we can continue to enjoy an item after it’s fulfilled its primary function. I can’t imagine anyone saving the screw cap of a bottle, no matter how momentous the occasion when the wine was consumed. The pasta sauce maker Francesco Rinaldi has added augmented reality technology to its jar packaging. The Francesco Rinaldi AR app allows consumers to pick up a jar from the shelf, scan it, and hear the story of the product directly from brand mascot Mrs. Rinaldi. “Through AR, we are looking forward and focusing on technology, while staying true to our traditional pasta sauce recipes and Italian culture,” says Mary DeMarco, the creative and branding director of brand owner LiDestri Food and Drink. “The app enables us to reach a new generation of pasta sauce lovers by being innovative and disrupting tradition a little.” 24 You’ll see more companies embracing such technology, which allows consumers to engage with a product’s story in real time. Articulation Essentials BENEFIT: Who stands to enjoy buying, experiencing, and using your product or service the most? CONTEXT: What do they currently experience sensorially or emotionally from using your product or service? GOAL: What do you want them to experience? TARGET: What are their dreams and aspirations? BENCHMARKS: What other companies, if any, deliver those aspirations? COMPETITION: What emotions are evoked by products or services that compete directly with yours? VALUES: How would you describe your company culture? Does it connect to your goals and aspirations for your products or services? Articulating Beauty Beauty products are often in the forefront of design and packaging. After all, competition is stiff in the world of makeup, moisturizers, and mascara, and the product ingredients and formulations are rarely proprietary to any one brand. To command the attention of store buyers, beauty editors, and consumers, companies must continually innovate both products and packaging. Articulation of products is especially important because beauty
+>>>

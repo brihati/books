@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-016",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 97517,
+    "char_end": 105218,
+    "checksum": "8fe47e6ee08109a1"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+cean, and lure sailors with their beauty and charm. 15 Third, Greek mythology has it that sirens lured sailors just as Starbucks lures coffee lovers. The specific depiction of the siren is what we remember when we think of Starbucks. Ownable The specificity of strong, meaningful codes is the reason many companies and institutions go to great lengths to protect them from encroachment, legally trademarking them and zealously going after those who try to steal them for their own gain. Which brings us to the next feature of a strong code: ownability. Regardless of intellectual property constraints, strong codes cannot be easily replicated by others. And even when they are replicated, they remain
+
+tightly associated with their original brand “owners.” Think of the graphic mouse ears or Neuschwanstein-inspired castle used by Walt Disney or the Anthora coffee-to-go cups used by Greek diners, with typeface resembling Greek letters and blue-and-white color scheme inspired by the Greek flag. Think of the rings on the lid of a Le Creuset Dutch oven. In all these cases —a mouse, a castle, a paper coffee cup, or an enameled cast-iron pot—as well as others such as Bottega Veneta’s signature woven leather or Charles and Ray Eames’s molded plastic chairs, the codes of the house are deeply and eternally connected to the brand that originally put them on the map. Codes become so inextricably linked to a brand that when people see them out of context or used by other brands, the link to the original brand remains strong and is heavily protected by the original owner. Disney’s mouse ears stand for more than Mickey; they convey a sense of fun and whimsy, childhood dreams, innocence, and charm. In 2014, the company sued a popular DJ who wears a mouse-eared helmet on his head at gigs around the world. Disney said the DJ, Joel Zimmerman, who goes by the name “Deadmau5,” uses a logo that resembles Disney’s mouse ears, but the way Zimmerman uses the symbol is antithetical to the narrative Disney wants to convey. The suit was settled in 2015, 16 and the DJ still uses large mouse ears as part of his branding. New York’s Metropolitan Transit Authority has likewise fought to protect its intellectual property, in many cases vigorously. In 2011, transit authorities warned the Harvard University Police Department against using its slogan “If you see something, say something” without permission. 17 Harvard University protects its codes, too—especially when it comes to the use of its brand name. When you hear the name Harvard, what do you think of? Education at the highest level, world-class scholarship, rich American history dating all the way back to 1636, and the legacy of all the great leaders who have studied there. In one of several examples of how zealously Harvard protects its name (and most iconic codes), the university sued a private biotech company named Harvard Bioscience in 2001 for the liberal use of its name and its color, crimson, on the research company’s website. 18 A disclaimer on Harvard Bioscience’s website now explains that “Harvard is a registered trademark of Harvard University. The marks Harvard Apparatus and Harvard Bioscience are being used pursuant to a license agreement between Harvard University and Harvard Bioscience, Inc.” 19 Relevant Strong codes relate to other aspects of a brand. They are not developed in isolation, and that’s what makes them feel authentic and credible. For example, Tiffany blue—a combination of blue and green—evokes a cool, calming sensation. It’s also timeless and never out of place. The color is associated with serenity, peacefulness, prosperity, and femininity, all of which connect seamlessly with the company’s core saleable products such as gemstones and especially diamonds, precious metals, and exquisitely designed home goods such as crystal and china. Tiffany has a deep heritage to build upon but still manages to feel modern and remain relevant. Brand codes ought not to be treated like artwork in a museum. They still need to be useful and applicable. Marketers should take time to understand what aspects of a brand’s legacy might, in fact, still be highly relevant and what aspects are simply of historic interest. For example, as I mentioned earlier, the brand Louis Vuitton came of age during the rise of the Steamship Era, the first great wave of overseas travel. Mr. Vuitton, a French luggage maker in the mid-1800s, introduced a trunk that was flat-bottomed (stackable), made of canvas (relatively lightweight), and airtight (protective from water damage). Louis Vuitton’s canvas material was practical and lightweight, just right for “modern” travel of the day, mostly on steamships. LV was always a luxury product, long favored by the wealthy. It continues to be relevant for upscale travelers today. However, as global travel has become desirable, exciting, and accessible to many more people, Louis Vuitton has successfully expanded its base and serves as an aspirational brand to more than just the über-affluent jetsetter. That is because it sends a strong, modern, and consistent message that connects itself to travel through its advertising campaigns, the motifs in its stores, and even the curation of its glamorous pop-up exhibit “Volez, Voguez, Voyagez,” which “retraces the adventure of [the brand] from 1854 to the present.” The food company Betty Crocker abandoned one of two strong codes the company used when it determined, after a 1996 revamp, to stop using the completely imaginary brunette matron who had represented the brand on boxes and advertising since 1927. 20 She was deemed no longer relevant or accurate for the now-varied definitions of “homemaker.” This was a smart move, since the portrait is an example of a code that could have worked against the company had it insisted on keeping it. In an ever-diversifying America, a brunette matron in a red jacket is simply not relevant. However, the red spoon, which the company has employed since 1954, 21 is a clear and simple signifier of home, baking, and sweetness. Slight tweaks can maintain modernity without a lot of reengineering—and the spoon shape is one of the simplest and most universal. People in all cultures use a spoon. When Good Codes Go Bad Betty Crocker’s brand would have suffered had it continued to depend on the cliché code of a middle-aged, highly domesticated American white woman. That’s the wrong code for the twenty-first century. One of the biggest disasters in overall coding can be seen in bricks-and-mortar retail. Department stores in particular, from Macy’s to Dillard’s, have adhered for decades to the same conventional, uninspired approach to store design. Not surprisingly, they feel dated, homogeneous, and boring. In essence, their lack of relevant codes has dissipated whatever emotional ties consumers once felt to them, one more reason so many traditional retailers are gasping for air, and some—such as Claire’s, 22 BonTon, 23 Sports Authority, 24 and Toys ‘R’ Us, 25 —have filed for bankruptcy. It’s not that retail is irrelevant. It isn’t. Old brands such as Louis Vuitton and Gucci have found ways to retain their relevance. ABC Carpet & Home (one of my favorite stores in New York) creates a sense of theater in its home and décor offerings with dramatic surroundings. The interior of the flagship store resembles a street of charming boutiques, and makes browsing into an event. The Parisian retailer Le Bon Marché (another one of my favorite stores) has preserved its iconic escalator design and impressive culinary showcase, La Grande Épicerie de Paris, yet continues to find new ways to knit old codes into youthful and inventive shopping “moments” throughout its well-
+>>>

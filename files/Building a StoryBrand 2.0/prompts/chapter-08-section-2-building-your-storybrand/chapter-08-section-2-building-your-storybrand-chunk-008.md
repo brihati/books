@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-008",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 48092,
+    "char_end": 55787,
+    "checksum": "8b9c0903d94ed90c"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ries resonate and become fan favorites. The philosophical problem helps those who engage the story understand why the story matters in the overall epic narrative of humanity itself. Why is it important that Tommy Boy should save his dad’s company? I’ll tell you why, because the people trying to take Tommy Boy down are lying thieves. This is a comedic story about honesty, family, integrity, and hard work versus deception, greed, and trickery. Why is it important that Hamlet should avenge his father’s death? Because his uncle is getting away with murder. Why is it important that Bridget Jones should find love? Because the beauty and worth of every person deserves to be recognized and cherished
+
+by another. A philosophical problem can best be talked about using terms like ought and shouldn’t. For example: “Bad people shouldn’t be allowed to win” and “People ought to be treated fairly.” In the movie The King’s Speech, the external problem is presented in the form of King George’s stutter. This external problem manifests the internal problem of the king’s self-doubt and his own feeling that the wrong man now wears the crown. King George simply doesn’t believe he has what it takes to lead his country. Philosophically, though, the stakes are much greater. Because the king must unify his people against the Nazis, the story takes on the philosophical problem of good versus evil. What’s the Deeper Meaning? The reason people resonate so strongly with the philosophical problem in a story is because human beings want to be involved in a story that is larger than themselves. When a story represents (or speaks to) a cause, it expands beyond the screen or the page and stirs people to champion a cause, which gives the story itself considerably more import. Likewise, brands that give customers a voice in a larger narrative add value to their products by offering a deeper sense of meaning in their own story. After creating their BrandScript, a global consulting firm my team worked with began to talk about how everybody deserved to work for a great manager. A pet store owner who came to us hung a sign in her window that said, “Pets deserve to eat healthy food too.” A fun-loving travel agent came to us and adopted the seasonal line “Because this summer should be remembered forever.” Before music went digital, Tower Records promoted their stores by using the tagline “No Music, No Life.” Not only did the tagline help them sell more than a billion dollars in records each year, but they sold thousands of bumper stickers and T-shirts featuring the tagline to fans who wanted to associate with the philosophical belief that music mattered. Is there a deeper story your brand contributes to? Can your products be positioned as tools your customers use to fight back against something that ought not to be? If so, let’s include some philosophical stakes in our messaging. The Perfect Brand Promise If we really want to satisfy our customers and create brand evangelists, we can offer much more than products or services; we can offer to resolve an external, internal, and philosophical problem whenever they engage our business. Storytellers use this formula to endear and satisfy audiences all the time. The strategy is to resolve the hero’s external, internal, and philosophical problem in a single, well-crafted scene. At the end of the blockbuster movie Star Wars: A New Hope, when Luke Skywalker shoots a photon torpedo through the exhaust portal in an empire-constructed planetary ship called the Death Star, Luke resolves the external problem of destroying the Death Star, the internal problem of self-doubt he felt about being a Jedi, and the philosophical problem of good versus evil. When all three levels of conflict were resolved at once, the audience felt three levels of relief, and the movie itself became a phenomenon that generated countless sequels and spin-offs and an entire new world at Disney’s Hollywood Studios. The climactic scene is often called the “obligatory” scene because by opening the external, internal, and philosophical story gap early in the movie, the storyteller is obligated to close all three levels of conflict at the story’s end. This idea is important for those of us who are building a brand. Our products, if we want them to succeed in the marketplace, should offer to solve a problem, soothe a feeling, and, if possible, contribute to some sort of justice-oriented agenda. Then, upon purchase, our solutions need to fulfill all three promises. If we can accomplish this (and use clear words to explain how we did), we can expect customers to fall in love with our products and our brand. If we really want our business to grow, we should position our products as the resolution to an external, internal, and philosophical problem and frame the “Buy Now” button as the action a customer must take to close the story gap we’ve opened in their minds. Let’s look at how some familiar brands have positioned their products as the solution to external, internal, and philosophical problems: TESLA MOTOR CARS: Villain: Gas-guzzling, inferior technology External: I need a better car. Internal: I want to be an early adopter of new technology. Philosophical: My choice of car ought to help save the environment and perform better at the same time. NESPRESSO HOME COFFEE MACHINES: Villain: Coffee machines that make bad coffee External: I want better-tasting coffee at home. Internal: I want my home coffee machine to make me feel sophisticated. Philosophical: I shouldn’t have to be a barista to make gourmet coffee at home. EDWARD JONES FINANCIAL PLANNING: Villain: Financial firms that don’t listen to their customers External: I need investment help. Internal: I’m confused about how to do this (especially with all the tech-driven resources out there). Philosophical: If I’m going to invest my money, I deserve an adviser who will thoughtfully explain financial complexities to me in person. WHAT CHALLENGES ARE YOU HELPING YOUR CUSTOMER OVERCOME? Identifying a villain that is causing an external, internal, and philosophical problem may seem daunting, but it will come to you if you commit to working it out in a brainstorming session. But be careful to keep it simple. Many of our clients want to include three villains, seven external problems, four internal problems, and so on. But, as I’ve already mentioned, stories are best when they are clear. If we are going to create memorable sound bites, we’ll need to make choices. Is there a single villain your brand stands against? What external problem is that villain causing? How is that external problem making your customers feel? And why is it unjust for people to have to suffer at the hands of this villain? These are the four questions we want to answer in the problem section of our StoryBrand BrandScript. When we do, the story our brand is telling will take shape because our hero, the customer who wants something, is being challenged. Will they win? Will their problems be resolved? Perhaps. The thing is, they will have to engage your brand to find out. CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Either alone or with your team, brainstorm all of the literal and metaphorical villains your brand takes a stand against. Brainstorm the external problems your brand resolves. Is there one that seems to represent the widest swath of products? Brainstorm the internal problem (frustration or doubt) your customers are feeling as it relates to your brand. Is there one that stands out as a universal experience for your customers? Is your brand part of a larger, more important story?
+>>>

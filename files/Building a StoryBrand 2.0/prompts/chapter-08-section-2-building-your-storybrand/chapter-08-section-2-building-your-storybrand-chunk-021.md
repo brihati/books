@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-021",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 138733,
+    "char_end": 146400,
+    "checksum": "94047f0517ff9a63"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+kes must be repeated. And by the way, if you are offering a lead-generating PDF, there must be stakes as to whether I download it; and if I do, there must be stakes as to whether I read it; and if I do read it, the stakes must be clear as to whether I buy your product and also whether I buy by midnight tonight. Too many stakes? Almost never. Can there be too many stakes in an action movie? And don’t you want the story you are inviting customers into to be as engaging as an action movie? Too many of our messaging campaigns play out with the slow-moving urgency of a French art film that has no commercial appeal save for the avant-garde, twenty-something wannabe-writer using the film to bolster
+
+their fragile artistic identity as a way to feel superior over others, despite the fact that it failed to attract the women they wanted and that the money they squandered producing it could have been better spent lining the tip jar of a good therapist. Speaking for a friend. Human Beings Are Motivated by Loss Aversion Emphasizing potential loss is more than just good storytelling; it’s good behavioral economics. In 1979, Nobel Memorial Prize–winner Daniel Kahneman published a theory about why people make certain buying decisions. Prospect theory, as it is called, espoused that people are more likely to be dissatisfied with a loss than they are to be satisfied with a gain. In other words, people hate losing one hundred dollars more than they like winning one hundred dollars. The study proved that loss aversion is a greater motivator of buying decisions than potential gains. In fact, according to Kahneman, in certain situations, people are two to three times more motivated to make a change to avoid a loss than they are to achieve a gain.2 Loss aversion can be employed any time we need to convince people to make the right decision. When Lyndon Baines Johnson worked to pass the Civil Rights Act of 1964, he faced undying pressure from political leaders across the South. One of the principal leaders who refused to endorse the legislation was George Wallace, then governor of Alabama. Wallace had no vote on the bill, but his influence threatened its passage all the same. At a crucial moment in the negotiations, Johnson sat Wallace down and explained he’d better get on the right side of history. Johnson said that Wallace’s legacy hung in the balance, that people would either build a statue in his honor or he’d be remembered for instigating hate. The choice was his. In other words, Johnson spelled out the narrative structure of his leadership effort and emphasized the stakes, including the potential of the governor’s tarnished legacy. The civil rights bill, of course, was passed. So how do we use messages from the failure category in our StoryBrand BrandScript? In Dominic Infante, Andrew Rancer, and Deanna Womack’s book Building Communication Theory, they propose a four-step process called a “fear appeal.” First, we must make a reader (or listener) know they are vulnerable to a threat. I’ll use a simple marketing narrative for a pest-control business as an example: “Nearly 30 percent of all homes have evidence of termite infestation.” Second, we should let the reader know that since they’re vulnerable, they should take action to reduce their vulnerability. “Since termites will destroy your home, you should do something about it to protect your investment.” Third, we should let them know about a specific call to action that protects them from the risk. “At ACME Pest Control, we offer a complete home treatment that will ensure your house is free of termites.” Fourth, we should challenge people to take this specific action. “To enjoy a 10 percent discount, call us today and schedule your home treatment.”3 Essentially, Infante, Rancer, and Womack present a soft way of agitating a fear and then highlight a path that would return readers or listeners to peace and stability, saving them from the negative stakes at play in the story. The stakes in a story can be quite serious. If you are a doctor, stating the negative stakes clearly can save lives. Sure, you may disturb a patient or two as you explain that they need to change their diet or remember to take their medication, but isn’t disrupting their comfort worth it if you are saving their lives? Make no mistake, the words that describe negative stakes matter. If there is something serious at stake, state it clearly. Sometimes a warning may feel like bad news, but if that warning will prevent devastation, say it boldly. Fear Is Salt in the Recipe We do not need to use a great deal of fear in the story if we want to see results. Just a pinch of salt in the recipe will do. While we do need to communicate something from the failure category in order to complete our BrandScript, too many warnings about imminent doom will run the risk of turning customers off. Infante, Rancer, and Womack explain why: When receivers of negative messaging are either very fearful or very unafraid, little attitude or behavior change results. High levels of fear are so strong that individuals block them out; low levels are too weak to produce the desired effect. Messages containing moderate amounts of fear-rousing content are most effective in producing attitudinal and/or behavior change.4 The lesson here is that we mustn’t let a fear of negative messaging keep us from using it, because if we don’t use negative messaging, our campaign will fail to stimulate action. That said, we can’t overuse it either. In my view, though, almost nobody reading this book will overuse it. Instead, most of us will let our fear of negative messaging cause us to make the larger mistake, which is to use so little of it, or to keep the negative messaging so vague, that it fails to enhance our message and create urgency. For me, this is the general rule: when I am slightly uncomfortable with the negativity of my message, I add a little more and then stop. In my experience, my feeling that I’m being negative is shared only half by the person hearing the message. Another truth to consider is that your negative message is mostly converted into a positive message if you’re marrying those warnings with an offer of redemption. For instance, ask yourself if the following story is happy or sad: A man went into a bank with a gun and held ten people hostage, including a small child. The child cried as the man brandished the gun and yelled at the hostages to lay still. Police called in to the bank, but the robber would not answer the phone. It wasn’t until the mother of the child began speaking to the robber, identifying with his frustrations about the unfairness of the economy and sympathizing with the robber’s plight, that the robber let the hostages go and was later apprehended safely. Do you read that as a sad story or a happy story? Most readers would say that the story is a feel-good story because it has a happy ending, yet the story is about a potentially violent criminal threatening the lives of the innocent, including a child. In fact, there are many more negative characteristics to the story than there are positive, yet the soft plot points of empathy and compassion and allowing the hostages to go free color the rest of the story. The principle is, the darker the story gets, the brighter the light is at the end of the tunnel. As business leaders, it is important to understand that emphasizing the negative consequences in play only makes placing the order a more hopeful and happy conclusion. In other words, the bad makes the good even better. WHAT ARE YOU HELPING YOUR CUSTOMER AVOID? What negative consequences are you helping customers avoid? Could your
+>>>

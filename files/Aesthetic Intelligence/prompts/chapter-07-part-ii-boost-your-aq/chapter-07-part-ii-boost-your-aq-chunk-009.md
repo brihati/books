@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-009",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 55069,
+    "char_end": 62762,
+    "checksum": "e145b5dd25591bcf"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ough I have a consistent style (eclectic, modern, but internationally inspired), it’s not based on repetition. I also acknowledge that there can be power in uniform-based style statements made by people such as Marino (who consistently dresses in leather motorcycle gear), Steve Jobs (black mock turtleneck and jeans), and Tom Wolfe (bespoke white suits). I just don’t feel that this way of dressing applies to me personally. Antifashion is still fashion. By dismissing it, you are reaffirming its existence. Interestingly many fashion designers, from Jil Sander to Karl Lagerfeld, subscribe to this uniform way of dressing. But make no mistake: basic uniforms still make a strong statement. Marino’s
+
+look is singular and recognizable, and Jobs’s and even Wolfe’s uniforms have been emulated by others. Consider that the ill-fated blood-testing company Theranos’s CEO, Elizabeth Holmes, came to copy Jobs’s look, and although it wasn’t the primary factor that worked against her (the company’s blood-testing machines actually didn’t work), it didn’t help. 7 Such a uniform can also be a code for a certain kind of superiority: I’m too busy and important to think about my outfits, but I want everyone else to recognize it, too. Of course, there are real uniforms that are worn in certain industries— and developing your own style is one way of thinking about how a uniform can convey ideas about your brand. For instance, as discussed in chapter 1, Del Frisco’s Restaurant Group saw the redesign of its waitstaff uniforms as a fundamental component of its overall aesthetic mandate. It hired the iconoclastic design and style expert Edda Gudmundsdottir to orchestrate the uniform redesign. The uniforms have to be practical for the physical nature of the job, and they have to stand up to frequent washings—but they still need to look modern and reinforce the idea of the forward-thinking steak house that maintains the traditional codes of such an establishment while pushing on others. So the necessity for a common outfit in certain jobs is not an excuse to forget aesthetics. Even the US Army thinks about it and, in late 2017, made the decision to bring back the much-loved and stylish World War II–era dress uniform. 8 In Japan, schoolgirls spend much of their lives in prescribed uniforms, and an entire fashion movement has arisen around reimaging these uniforms in different ways. The fashion writer Virginia Postrel wrote about “the single most provocative outfit that I have seen on an American university campus,” worn by a Japanese coed. Her hair was in juvenile ponytails. The classic white cotton uniform shirt was tied at the waist to expose her midriff, and so it exposed her red bra. Her pleated schoolgirl skirt was low slung and hiked up so it was basically a ribbon around her thighs, revealing her red thong underwear. Knee-high white socks worn with platform shoes added the final detail to the schoolgirl fantasy look, which in Japan might be considered acceptable (yet provocative) but in the United States, as Postrel notes, might cause the student to be mistaken for a prostitute. 9 Then there are other people—we see them every day at the market, on the bus, and on the street—who express a style message by not being mindful and intentional about their clothing: the overweight woman who dresses in black and navy shift dresses because she believes they make her appear thinner; the tired mom who dons novelty sweatshirts or Ts and yoga pants because it gets her out the door in comfort in five minutes flat. As I said earlier, not paying attention to what you are going to wear or opting for the easy way out is still a decision that speaks volumes about who you are and where your aesthetics are going. Culture, Status, and Style Personal taste is not developed in a vacuum. Some of it (and I mean your dislikes as well as likes) comes from the environment in which you grew up, what you observed as you grew and evolved, and what sorts of challenges you face and problems you have to solve. Some aspects of style come from the times in which we live—including the influences of technology and media—and some of them come from the particulars of a geography. We can—and should—reject cultural influences of time and place if they do not suit our personal style. The best personal style does not follow trends and is not concerned with being “fashionable.” We also know that clothing has long been used to differentiate between the status and power of various groups of people and reinforce class distinctions in many cultures around the world. In fact, before the democratization of fashion of the last few decades and the move toward a more homogeneous casual look, clothing choice could be a means of jumping social class. If you were from the lower classes but bought a nice suit, you could feign your way into professional society. The infamous (and now rehabilitated) scammer Frank Abagnale, Jr. (who was portrayed by Leonardo DiCaprio in the 2002 movie Catch Me If You Can), says, “A nice set of clothes is one of three things that allowed me to convince people I was a doctor and a lawyer when I was still just a teenager. A neatly pressed pilot’s uniform helped assure other pilots that I could fly a plane. The other two things I had going for me was height—I was tall—and I had nice manners.” 10 The display of wealth through clothing became customary in Europe during the late thirteenth century, and a person’s station in life could be identified easily by what he or she wore. Dress could signify background, culture, morality, wealth, and power. Into the ninetenth and early twentieth century, cotton pants, dungarees, and T-shirts were reserved for working- class people, 11 but today the well-to-do often present themselves in intentionally torn (and very expensive) blue jeans and costly, whisper-thin cotton Ts. An outsider unfamiliar with contemporary fashion codes, looking at such an outfit, might think poorly about one of society’s movers and shakers. Tattoos, once the province of longshoremen and motorcycle gangs, are de rigueur among A-list actresses and soccer moms alike—and an architect, as we’ve seen. No longer forbidden and hidden, tattoos often take center stage on the red carpet as an “accessory” to a glamorous evening dress. In ancient China, the color yellow signified the center and the earth, and only the emperor was allowed to wear it. Large turbans and layers of gowns made of expensive, important fabric were reserved for the ruling aristocracy in the Hausa community in Africa. In Japan, the colors of a kimono, its weave, the way it was worn, and the size and stiffness of the obi (sash) told a story about the wearer’s social rank. In traditional cultures, lip plates, neck rings, and even foot binding and corseting are still employed to designate social status and beauty. In the Western world, an Hermès Birkin bag, red-soled Christian Louboutin pumps, Moncler puffy parka, Cartier Tank watch, or Chanel tweed jacket is a marker of luxury and high status. Though knockoffs of these items exist at lower prices, the genuine products send a message to those who recognize authenticity and understand the language of luxury. How to Look at Clothes If you want to be serious about developing personal style (or enhancing or changing your current look) it requires you to look at clothes and try them on—experience them sensorially. As the fashion designer Kay Unger says, “Just because you bring it into the fitting room doesn’t mean you have to buy it.” 12 The only requirement for trying on clothes is wearing the proper undergarments. Clothes look very different on a hanger than on the human body, and they look
+>>>

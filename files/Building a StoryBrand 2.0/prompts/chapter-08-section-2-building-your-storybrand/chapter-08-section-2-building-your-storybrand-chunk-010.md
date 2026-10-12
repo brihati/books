@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-010",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 62083,
+    "char_end": 69757,
+    "checksum": "197afcdd6b5b8b9d"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ths leading up to the launch of Tidal, Jay-Z recruited sixteen well-known musicians who agreed to release exclusive content on his platform in exchange for a percentage of equity. In their multimillion-dollar rollout, the artists stood shoulder to shoulder at a press conference to explain their mission. Predictably, this is where everything fell apart. If only Jay-Z, in other ways a genius, had understood the age-old rules of story, he might have avoided walking into a minefield. “Water is free,” Jay-Z quipped. “Music is $6 but no one wants to pay for music.” He continued, somewhat confusingly, “You should drink free water from the tap—it’s a beautiful thing. And if you want to hear the most
+
+beautiful song, then support the artist.”4 Social media, especially Twitter (now X), eviscerated Jay-Z and Tidal. Thousands reminded him to check with the people who paid his bills to discover water wasn’t actually free. Overnight, an artist who built his career speaking for the people sounded entitled. The public became nauseated listening to a row of famous multimillionaire musicians guilt-trip them into paying more for their music. The crucial mistake: Jay-Z failed to answer the one question lingering in the subconscious of every hero customer: How are you helping me win the day? Tidal existed to help the artists win the day, not customers. And so it failed to launch successfully. The real tragedy of Tidal is that both the product and the cause (an artist’s right to be paid for their work) are just causes. I actually subscribe to Tidal myself, not because I champion the rights of artists but because the streaming service contains larger downloads that make the music sound much, much better. How should Jay-Z have positioned Tidal? In my view, he should have positioned the existing streaming services as the villains because they are shrinking the sound the artists had created and shorting music lovers of the best possible experience. The artists could have talked endlessly about how they make music for the fans and that by streaming through Tidal, fans could finally hear music the way it was meant to be heard, the way the artist intended. The controlling idea behind the campaign could have been “Music the way it was mean to be heard” and could have been repeated in all forms of messaging and marketing, thus helping word spread about what makes Tidal different. In short, any message that can be framed as a contribution to a “power to the people” movement will trump any message that is framed as a “power to the powerful” money grab. Of course, a “power to the powerful” money grab was likely never in the mind of Jay-Z, yet we should all be careful about how our positioning is perceived by our hero customers. If our fans don’t believe we are fully doing business for them, they will move on to another brand. In fact, I had no interest in Tidal when I heard what the artists were doing to protect their own paychecks, but I signed up immediately when I found out you could listen to music online that rivaled the sound quality of vinyl. In other words, when I realized that Tidal was actually helping me, the hero customer, win the day, I bought the product. Jay-Z sold his majority interest in Tidal for $350 million, so he definitely didn’t lose. However, the streaming service should have sold for billions of dollars. There’s a lesson in the Tidal story for all of us: Positioning yourself as the hero devalues your offering. In fact, it would be a great private equity play to shop for brands with terrific products but mistakenly positioning themselves as heroes in the story. Anybody hunting for a business to buy could seek out businesses making the “hero mistake,” buy them cheap, change the messaging (and culture of the company) to position the brand as the guide, and then see a predictable increase in both revenue and the overall value of the business itself. Position your customer as the hero and your brand as the guide. If you don’t, your brand will struggle to survive. The hero is always the person pulling out their wallet to make a purchase. The hero is never the people who make the product. If you remember that, you are more likely to get your messaging (and your business strategy) right. The larger point here is simple: the day we stop losing sleep over our problems and start losing sleep over our customers’ problems is the day our business will transform into a brand customers love. Positioning Yourself as the Hero Makes You Look Weak Why should we never position ourselves as the hero? Because in stories, heroes are weak. If we are tempted to position our brand as the hero because heroes are strong and capable and the center of attention, we should think again about the nature of a hero. In stories, the hero is never the strongest character. Heroes are often ill-equipped and filled with self-doubt. They aren’t sure of themselves and they wonder if they have what it takes to get the job done. They are often reluctant to take action, having been thrown into the story rather than willingly engaging their challenges. In fact, it is my view that in a good story the hero should be the second- weakest character after the victim. The guide, however, is strong. The guide has already “been there and done that” and has conquered the hero’s challenge in their own backstory. Haymitch had already won the Hunger Games. Yoda had already transformed into a Jedi. They may have been weak at one time, but the guide now has the very characteristics and abilities the hero must attain to win the day. The guide is the character in the story who has the strength and the authority to help the hero win. Still, the story is not really about the guide despite the important role they play. The story must always be focused on the hero, and if a storyteller (or business leader) forgets this, the audience will get confused about who the story is really about and will lose interest. In fact, my wife and I went to see a movie in the theaters last year and were slightly disappointed as the credits rolled. We felt a slight cognitive dissonance that comes when a screenwriter didn’t quite get it right. What was wrong with the script? The guide transformed. By that I mean there was a hero who was up against a significant challenge, and instead of the guide only serving the hero’s story, the screenwriter thought it would give a greater sense of depth if the guide also experienced a little of their own transformation, a little unknowing, a little self-doubt. The treatment backfired. Why? Because the audience couldn’t figure out who the hero was and who the guide was. The guide must be strong and all-knowing. The guide must be confident, that way the spotlight is fully on the hero and their transformation. If both the hero and the guide are transforming in a story, who the heck is the story about? This idea that the guide must be strong and competent is best demonstrated in Walt Disney’s perennial hit movie Mary Poppins. In the timeless adaptation of P. L. Travers’s eight-book series of the same name, Mary Poppins is the guide. The father, George Banks, is actually the hero of the story, transforming from an uncaring, distracted, hard-nosed father into a soft, caring, and attentive dad in the end. Mary Poppins, however, guides the entire family into an empathetic reminder of the magic of childhood, shaping the children and the father to be engaged, compassionate, moral, and well-behaved. She does this with lessons of wisdom and perspective, all from a place of ultimate authority. In fact, in an early scene in the movie Mary Poppins uses a measuring tape to gauge the yawning chasm between
+>>>

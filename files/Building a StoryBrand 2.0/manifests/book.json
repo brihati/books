@@ -1,0 +1,143 @@
+{
+  "book_id": "building-a-storybrand-20",
+  "title": "Building a StoryBrand 2.0",
+  "book_dir": "/Users/sachin/books/files/Building a StoryBrand 2.0",
+  "chapter_count": 15,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-title-page",
+      "index": 1,
+      "title": "Title Page",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/01 - Title Page.txt",
+      "start_page": 4,
+      "end_page": 6,
+      "char_count": 15
+    },
+    {
+      "chapter_id": "chapter-02-copyright",
+      "index": 2,
+      "title": "Copyright",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/02 - Copyright.txt",
+      "start_page": 7,
+      "end_page": 10,
+      "char_count": 1704
+    },
+    {
+      "chapter_id": "chapter-03-contents",
+      "index": 3,
+      "title": "Contents",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/03 - Contents.txt",
+      "start_page": 11,
+      "end_page": 12,
+      "char_count": 981
+    },
+    {
+      "chapter_id": "chapter-04-want-your-entire-team-to-understand-the-storybra",
+      "index": 4,
+      "title": "Want Your Entire Team to Understand the StoryBrand Framework?",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/04 - Want Your Entire Team to Understand the StoryBrand Framework.txt",
+      "start_page": 13,
+      "end_page": 13,
+      "char_count": 712
+    },
+    {
+      "chapter_id": "chapter-05-note-from-the-author-on-this-updated-edition",
+      "index": 5,
+      "title": "Note from the Author on This Updated Edition",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/05 - Note from the Author on This Updated Edition.txt",
+      "start_page": 14,
+      "end_page": 15,
+      "char_count": 2675
+    },
+    {
+      "chapter_id": "chapter-06-introduction",
+      "index": 6,
+      "title": "Introduction",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/06 - Introduction.txt",
+      "start_page": 16,
+      "end_page": 16,
+      "char_count": 1181
+    },
+    {
+      "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+      "index": 7,
+      "title": "Section 1: Why Most Marketing Is A Money Pit",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+      "start_page": 17,
+      "end_page": 54,
+      "char_count": 67596
+    },
+    {
+      "chapter_id": "chapter-08-section-2-building-your-storybrand",
+      "index": 8,
+      "title": "Section 2: Building Your StoryBrand",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+      "start_page": 55,
+      "end_page": 165,
+      "char_count": 200435
+    },
+    {
+      "chapter_id": "chapter-09-section-3-executing-your-storybrand-messaging-an",
+      "index": 9,
+      "title": "Section 3: Executing Your StoryBrand Messaging and Marketing Campaign",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/09 - Section 3 Executing Your StoryBrand Messaging and Marketing Campaign.txt",
+      "start_page": 166,
+      "end_page": 214,
+      "char_count": 89578
+    },
+    {
+      "chapter_id": "chapter-10-afterword",
+      "index": 10,
+      "title": "Afterword",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/10 - Afterword.txt",
+      "start_page": 215,
+      "end_page": 216,
+      "char_count": 1907
+    },
+    {
+      "chapter_id": "chapter-11-acknowledgments",
+      "index": 11,
+      "title": "Acknowledgments",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/11 - Acknowledgments.txt",
+      "start_page": 217,
+      "end_page": 217,
+      "char_count": 1531
+    },
+    {
+      "chapter_id": "chapter-12-about-the-author",
+      "index": 12,
+      "title": "About the Author",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/12 - About the Author.txt",
+      "start_page": 218,
+      "end_page": 218,
+      "char_count": 404
+    },
+    {
+      "chapter_id": "chapter-13-praise-for-the-storybrand-framework",
+      "index": 13,
+      "title": "Praise for the StoryBrand Framework",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/13 - Praise for the StoryBrand Framework.txt",
+      "start_page": 219,
+      "end_page": 221,
+      "char_count": 9650
+    },
+    {
+      "chapter_id": "chapter-14-storybrand-resources",
+      "index": 14,
+      "title": "StoryBrand Resources",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/14 - StoryBrand Resources.txt",
+      "start_page": 222,
+      "end_page": 226,
+      "char_count": 3329
+    },
+    {
+      "chapter_id": "chapter-15-notes",
+      "index": 15,
+      "title": "Notes",
+      "path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/15 - Notes.txt",
+      "start_page": 227,
+      "end_page": 228,
+      "char_count": 3768
+    }
+  ]
+}

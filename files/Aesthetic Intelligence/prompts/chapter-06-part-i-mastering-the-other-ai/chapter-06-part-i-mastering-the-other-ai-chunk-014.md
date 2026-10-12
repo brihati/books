@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-014",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 83554,
+    "char_end": 91241,
+    "checksum": "729d3f50df6b6830"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+sing people’s attention (and fingers) on the product displays—which serve as the lead performers on the Apple stage. Interestingly, when other retailers try to copy Apple’s design approach, they typically fail, as their copycat stores feel contrived and uninspired. In the 1950s, the restaurateur Howard Deering Johnson introduced another powerful expression of innovation in his architectural designs for his Howard Johnson’s restaurants. “HoJo’s,” as aficionados called his restaurants, provided one of the most iconic architectural codes of their era. The chain’s triangular bright orange rooftops with blue spires reaching skyward beckoned to tired drivers, who knew they could expect grilled hot
+
+dogs on a warm bun, fried clams, and twenty-eight flavors of ice cream that, when accompanied by a strong cup of black coffee, would provide them enough energy to get back on the road again. Later, the chain added adjacent hotels, a respite for weary road warriors, families driving with a station wagon full of kids to “see America,” and retirees looking for a break from one more night in the RV. The orange roofs became a code for consistency that drivers and overnighters would come to rely on. Johnson, who founded the restaurant in 1925, worked with architects and builders to make sure the restaurants that sprang up along the United States’ ever-expanding highway systems symbolized the consistency of the menu and ambience of all his outlets, no matter where they were located. 4 You knew what you would get whether you were in Maine or Iowa. The HoJo’s you might have eaten at today would be the same as the one you had visited 100 miles back or the one you might experience 250 miles farther along. “Chain-restaurant design is a kind of quality-control operation,” wrote Philip Langdon in Orange Roofs, Golden Arches: The Architecture of American Chain Restaurants. “The range of variance is usually confined within narrow limits. Anything below the standard threatens to undermine a chain’s reputation, but too many designs significantly above the general level could also cause trouble, since they can raise the customer’s expectations beyond what the rest of the chain’s units are providing. Consistency is critical.” 5 The codes served the company well as long as American consumers desired consistency and predictability and aspired to “see the country” by driving long stretches through it. Johnson recognized that after a long day of driving and seeing new places, the imagined comforts of home (sans the cleanup) would be warmly embraced. For that reason, the earliest restaurants were modeled after New England churches or town halls, with gabled or hipped roofs and cupolas. “New England town hall” itself was a code, one that Johnson borrowed because it signaled welcome, safety, and old-fashioned hospitality. The porcelain and metal roof shingles were painted orange so they would catch the eyes of motorists from a distance, says Langdon. 6 However, as Americans’ aspirations changed, HoJo’s failed to change with them, and the company lost its edge. “Fundamental economics eventually forced a shakeout,” wrote Andrew King, a professor of business administration at the Tuck School of Business at Dartmouth College, and Baljir Baatartogtokh, then a graduate student at the University of British Columbia in Vancouver. “Although many of the old chains (such as Howard Johnson’s and Dairy Queen) managed to survive, some of the new companies (such as McDonald’s and Burger King) proved to have selected better franchise models and eventually emerged as the biggest winners.” 7 Consumers buy products and services, by and large, based on how these offerings make them feel. When the offerings fail to keep up with consumers’ changing aspirations, the businesses fail. HoJo’s is a case in point. It is supremely difficult for a company to elicit feelings through product design alone. Brand codes provide meaning and emotional resonance that go well beyond individual products. They are among the most valuable assets of a brand, because they forge powerful and lasting emotional connections between people and products. In essence, they are at the root of a product’s desirability, or what economists would call “demand.” How Codes Evolve Codes originate and evolve organically, gradually, and unintentionally. Typically, they emanate from a company’s founder and his or her core principles and personal preferences. Brand codes are not created as codes per se; they are by-products of the broader creative process. If well designed and consistently incorporated in brand development efforts, codes become the most recognizable elements of a brand and continue to signify what is important and memorable about the brand’s story, its experiences, and its products. In essence, codes tap into our desires and create a mythic bubble for us to dream on. In time, the myth that the codes suggest becomes one with the brand. The code becomes shorthand for a narrative that is far more emotionally compelling than the products themselves. For example, one of the French luxury brand Hermès’s most prominent codes is its horse-drawn “Duc” carriage logo. The company was founded in the 1800s in Paris by Thierry Hermès as a harness workshop dedicated to serving European noblemen. Hermès created some of the finest wrought harnesses and bridles for the carriage trade. So the horse really was the brand’s client. Two centuries later, this code still stands for Hermès’s commitment to traditional European craftsmanship and rarified yet understated finery. Generally, the richer the heritage and the deeper the archives, the more powerful and lasting the codes. When looking at a mature brand, ask yourself: What did the founder fundamentally believe about his or her business proposition? How did these principles relate to the context in which the business was developed (i.e., the time/place/other variables), and how have the codes remained relevant through changing times, cultures, and circumstances? However, even young companies and start-ups have a heritage. For newer companies, context is often where heritage is found. Amazon.com, for example, has codes (e.g., the orange arrow that points from A to Z, the illustrated shopping cart icon, and the use of the highly legible Frutiger font) that all convey the company’s inexorable commitment to accessibility, value, and convenience. Likewise, Apple doesn’t go back to the nineteenth century as Louis Vuitton or Levi’s does, but its iconic founder, Steve Jobs, came of age during a time when technology was beginning to reshape culture and society. He also grew up at a time (midcentury) and in a place (the San Francisco Bay Area) that was rooted in modernist architecture, also known as “California Modern.” In fact, he grew up in a home that imitated the iconic residential designs of Joseph Eichler, with skylights, clean lines, and large glass panels that blurred the lines between indoors and out. Not surprisingly, a half century later, Apple’s aesthetic mimicked Eichler’s aesthetic, with its simplicity and ease. In an interview with Smithsonian, Jobs’s biographer Walter Isaacson noted that the spirit of Eichler’s architecture was the original vision for Apple—what Jobs tried to do with the first Macintosh and what he accomplished with the iPod. 8 Donna Karan came of age as a fashion designer in the early 1980s in Manhattan, and her heritage and corresponding aesthetic were shaped by the social currents of that time and place—when financial markets were booming and women were starting to climb the corporate ladder. Those women were in search of professional attire that was polished yet feminine
+>>>

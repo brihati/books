@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-015",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 90541,
+    "char_end": 98217,
+    "checksum": "304f112b33d343df"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+singly, a half century later, Apple’s aesthetic mimicked Eichler’s aesthetic, with its simplicity and ease. In an interview with Smithsonian, Jobs’s biographer Walter Isaacson noted that the spirit of Eichler’s architecture was the original vision for Apple—what Jobs tried to do with the first Macintosh and what he accomplished with the iPod. 8 Donna Karan came of age as a fashion designer in the early 1980s in Manhattan, and her heritage and corresponding aesthetic were shaped by the social currents of that time and place—when financial markets were booming and women were starting to climb the corporate ladder. Those women were in search of professional attire that was polished yet feminine
+
+and that embraced strength and power yet was sexy, relaxed, and comfortable. Karan’s designs were a reaction against what women in management had been reduced to wearing: a female version of the gray flannel suit, complete with a small black or navy bow tie, and sneakers so they could run for the bus (black pumps were stashed neatly in a briefcase). The sneakers were brought on by a 1980 transit strike in New York City, when women were forced, along with everyone else, to walk to work—but they became a staple of workingwomen even after the strike ended. 9 Karan was interested in creating something that looked professional and would be taken seriously in any boardroom but celebrated womanhood rather than disguised it. What makes a code iconic—whether it’s a jingle, a mascot, or a logo? What is the secret sauce of instant recognition and strong connection to a product or service? There are four key criteria that differentiate strong codes from weak ones. Strong codes are time-tested; precise and specific; ownable; and relevant. Time-Tested Strong codes evolve and, as mentioned earlier, are generally not conceived as codes. The strongest codes strengthen over time and rarely, if ever, change. When they do change, the changes are modest and incremental. Chanel’s classic tweed jacket did not start out as a brand code, but it certainly grew into one, and it remains a strong identifier of that brand. The fabric itself was commissioned by Coco Chanel in 1924, inspired by sporting gear worn by her beau at the time, the Duke of Westminster. Chanel charged a Scottish factory with producing the first tweeds, which she used to make a variety of sportswear including suits and coats. But it was not until 1954 that the tweed really came into its own, when she used it for what is now known as the Chanel jacket. 10 I would argue that in fashion there is nothing more iconic than this classic jacket with its braided trim, real buttonholes, and small metal chain sewn into the bottom interior edge to ensure it sits properly on the body. Though the jacket’s design has kept up with the times in terms of fresh colors and slight changes to its cut, the basic silhouette remains close enough to the 1954 original to be instantly recognizable. It was a striking example of chic modernity and simplicity then, and it remains so today. Even in the excess-obsessed 1980s, it was a coveted staple in the closets of fashionistas. You can still find classic Chanel tweed jackets on Chanel’s e- commerce site. Suits also continue to command high prices on the secondary market. 11 The basic design and construction of the jacket has changed very little since it was first conceived. The jacket sends a strong message: the person wearing it is affluent, is appropriate, has great taste, and understands quality. That’s quite a lot for a jacket to convey. The power of the code, and not just the style, is part of the reason that this jacket continues to be knocked off by countless other brands and manufacturers. 12 Time-tested codes are not just a conceit of fashion. Legacy food companies have capitalized on the strength of their codes. Earlier, I mentioned the “Ho-ho-ho” of the Jolly Green Giant. The chant or jingle has long been associated with frozen peas and vegetables. The “Ho-ho-ho” of the giant hasn’t changed since it was first introduced in 1925, although the giant himself has gone through subtle modernizations since that time. He has become taller, better looking, and greener. Despite the tweaks, he remains instantly recognizable as the company mascot, 13 and as a code for big, bright veggies, he is unchallenged in the category. Even if they end up buying a different brand, flashes of the Jolly Green Giant are forever etched in the minds of many shoppers in the frozen food aisle. Even brands that cater to a limited market may possess time-tested codes that are instantly recognizable to people beyond the bounds of that market. Harley-Davidson, for example, is recognized and admired by scores of people who never have ridden on a motorcycle and have no interest in doing so. Harley’s logo is a code, as is the muscular shape of its bikes, but its strongest codes relate to its place in American pop culture. Ask anyone what Harley-Davidson means, and you will receive similar responses: rebellion, freedom, nonconformity, and outlaw, but also patriotism, masculinity, and youth (notwithstanding the fact that the average age of a motorcycle rider today is forty-eight). 14 What Harley riders share is a longing for freedom, and what Harley’s codes connote is the promise and thrill of it. Precise and Specific Strong codes are never found in general descriptions but in highly precise and specific ones. For example, UPS is marked not by the color brown but by its trademarked “Pullman” brown. Post-it Notes from 3M are not yellow; they are canary yellow. Hermès owns its distinct shade of burnt orange. Louis Vuitton owns its particular shades of brown: “old burgundy” and “dirt.” Tiffany’s color is not just any blue. It is not navy, not sky blue, not teal; it is robin’s egg blue. It is number 1837 on the Pantone Matching System chart. Tiffany began using its distinct shade of robin’s egg blue in 1845, less than a decade after its founding, on the cover of its “Blue Book.” That amounts to nearly two centuries of branding. Much the same can be said about logo codes. Starbucks doesn’t use a plain old mermaid with one tail (à la Ariel); it uses a green illustrated siren with two tails, inspired by an ancient Norse woodcut. (The name Starbucks comes from a character in Herman Melville’s famous novel Moby-Dick. “Starbuck” was the first mate of Captain Ahab’s ship, the Pequod. He was a Quaker known for his goodness.) According to Steve Murray, the creative director in the Starbucks Global Creative Studio, “She’s the biggest symbol of our brand.” What’s the connection to Starbucks, to coffee? First, the company was founded in Seattle, right on Puget Sound, and as such has a strong connection to water. Second, coffee beans travel a long way—from exotic, faraway places such as Ethiopia, Kenya, and Columbia—and arrive in big container ships. Mermaids (according to mythology) also originate from exotic places, travel in the open ocean, and lure sailors with their beauty and charm. 15 Third, Greek mythology has it that sirens lured sailors just as Starbucks lures coffee lovers. The specific depiction of the siren is what we remember when we think of Starbucks. Ownable The specificity of strong, meaningful codes is the reason many companies and institutions go to great lengths to protect them from encroachment, legally trademarking them and zealously going after those who try to steal them for their own gain. Which brings us to the next feature of a strong code: ownability. Regardless of intellectual property constraints, strong codes cannot be easily replicated by others. And even when they are replicated, they remain
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-011",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 68940,
+    "char_end": 76609,
+    "checksum": "fdf8fafd651d6205"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+of humidity, and background noise. Our senses of taste and smell are the first things to go at thirty thousand feet, according to Russ Brown, the director of in-flight dining and retail at American Airlines. Flavor perception is a combination of both, and our perception of saltiness and sweetness drops about 30 percent when we are inside a pressurized cabin. However, it’s not just our taste buds that are affected by an airplane’s environment. About 80 percent of what people think they are tasting, they are actually smelling. Because evaporating nasal mucus is necessary to smell, the dry cabin makes our odor receptors malfunction, making food taste only half as flavorful as it actually is. 21
+
+Some of the most interesting research on the interaction of taste and other senses links certain tastes to musical pitches and the fact that those pitches are capable of influencing flavor perception. Specifically, sweet or sour tastes are linked to high notes, whereas bitter and umami tastes are matched to low notes. Instruments such as piano and strings are linked to sweet and pleasant flavors, whereas bitter and sour tastes are associated with intense sounds and brass or woodwind instruments. Follow-up by the same research group found that “soundtracks” designed to fit bitter or sweet tastes had the ability to influence the perceived sweetness of food. Evidence is split as to whether background noise enhances or reduces flavor perception; it probably depends on the type of food being consumed and the specific taste of interest, as well as the nature and pitch of the background noise. 22 Sound Effects and Our Preferences Sound affects us in four primary ways. The first is physiological: we have a fight-or-flight response when we hear sirens, people fighting, or a dog growling, and we feel calm and our heart rate goes down when we hear the soothing sound of waves at the ocean or birds singing, which indicates that things are safe (it’s when the birds stop singing that we have to worry). The second is psychological. For instance, music affects our emotional state. Sad music makes us melancholy, and up-tempo music makes us happy. Natural sounds also have an impact on emotions; those same singing birds bring us a sense of joy as well as physiological comfort. The third way sound influences us is cognitively. People who work in open-plan offices with many workers conversing around them are 66 percent less productive than workers who have private, quiet offices. Open plan offices became popular during the tech boom, and some companies still use them, to their disadvantage. The fourth way sound affects us is behaviorally. If you listen to fast music while driving, you might find yourself stepping on the accelerator. If you listen to Pachelbel’s Canon, you might tool along at forty-five miles per hour in a fifty-five-miles-per-hour speed zone. Sound even determines what we choose to eat. Research shows that people are more likely to choose sugary or calorie-laden snacks and junk food when surrounded by loud music but to select healthier items when listening to soft, pleasant music. “High-volume music is more exciting and makes you physically more excited, less inhibited and more likely to choose something indulgent,” says Dipayan Biswas, a professor of business and marketing at the University of South Florida in Tampa. “Low music makes us more relaxed and more mindful, and more likely to go for the things that are good for us in the long run.” 23 And of course, we usually move away from unpleasant sounds (e.g., a construction crew blasting away on a city sidewalk) and tend to gravitate toward pleasant sounds (e.g., the jingle of an ice cream truck). Unfortunately, bad sounds can have a deleterious effect on retail (and other commercial) spaces; some 30 percent of people will leave a store if it includes unpleasant sounds. 24 Supermarkets often employ “elevator music” with the intent of getting you to slow down, linger, and buy more. Up-tempo music is often used at in-and-out restaurants to energize both patrons and staff and quickly turn the tables, but if the beat is annoying, diners may skip going in altogether. A classic French restaurant may set the mood and pace by playing the chanteuse Édith Piaf in the background—but if the volume is too loud for you to talk to and hear your companion, the Italian place down the road, which plays Frank Sinatra softly, may win you over. Stores that blast music loudly undermine the pleasure of browsing and trying on clothing and do themselves and their customers a disservice. Activate and Reactivate: Sensory Marketing Sensations may be fleeting, but their associated emotions are long lasting. Therefore, marketers should be aware of the sensory effects on customers before, during, and after an experience. When thinking about how to engage people’s senses, everything matters. The sensorial engagement has to be powerful. Though sensations need not be conventionally pleasant, they certainly should not be outright unpleasant. Stomach-churning roller-coaster rides, Gucci’s brand of “ugly fashion,” and jarring heavy-metal music each have passionate fans. They understand their core constituency and how to appeal to them through powerful sensations, however unpleasant the sensations may be to others. I think the classic example is a Bloomingdale’s saleswoman spritzing customers with perfume whether they want it or not. Maybe the perfume smells good, maybe it doesn’t—regardless, the experience is unpleasant when it is so aggressively imposed on shoppers. Today the approach to selling perfume has changed dramatically at department stores because retailers understand that the technique 25 became an assault not only on the senses but also on the person. Now many retailers are training salespeople to ask customers what kind of scents they like, listen to the answer, and then allow them to try fragrances that meet their personal taste. Rolls-Royce found out that smell was tied to profits when it revamped its production methods and began using leather-clad plastic instead of wood for some of the parts in its vehicles. Customers didn’t like the odor the plastic emitted—it was not the luxe “new-car smell” they had come to expect from the carmaker. Sales declined. Rolls-Royce was smart enough to ask customers why they were rejecting the new models. The older models smelled “deliciously woody,” the customers said, while the new cars smelled like the plastic used in their manufacturing. It was one of a few components of the newer models (the window and dashboard switches felt less substantial, too, because of lighter-weight materials being used) that had an impact on the declining sales, but it was an important one. People’s expectations of a product have everything to do with how they interact with it sensorially. Rolls-Royce fixed the problem by engaging an olfactory specialist and developing a scent that mimicked the woody smell of older cars using the aroma of a 1965 Rolls-Royce Silver Cloud as the model. The scent was applied after manufacturing to the inside of the new cars. 26 Starbucks, too, found out that smell is tied to profits. Like Rolls-Royce, it learned the lesson when an unwelcome and unexpected odor was introduced to stores by way of breakfast sandwiches. The 2008 decline in sales among repeat customers was directly tied to the sandwich smell. It turned loyalists off. It interfered with the coffee aroma aficionados had come to expect and enjoy, and ultimately, it detracted from the overall store experience. 27 The sandwiches were withdrawn and reformulated, and they came back but without the offending scent.
+>>>

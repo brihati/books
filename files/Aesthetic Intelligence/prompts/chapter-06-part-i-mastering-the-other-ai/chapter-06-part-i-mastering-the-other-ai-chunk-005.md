@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-005",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 27165,
+    "char_end": 34865,
+    "checksum": "4b6533055f9e6b51"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+and visionary people into the executive suite, and give them an equal seat at the table and the power to do what they do best. Don’t base every decision on financial calculi. It’s especially important for a businessman such as David Rubenstein to surround himself with aesthetically intelligent people. Given his position, he may not need to have a strong sense of aesthetics himself, but I would argue that having wingmen (or -women) who do is an asset and maybe even a necessity. Aesthetic value is not limited to design-oriented businesses in sectors such as beauty and fashion. I sit on the board of a premium steak house chain, Del Frisco’s Restaurant Group. Its success is based on management’s
+
+sensitivity to and appreciation of not only the food and wine that are served but also the quality and appeal of other facets of the dining experience such as the lighting, background music, ambient sound levels, aromas, and even utensil designs—all of which Del Frisco’s “gets right.” When I joined the board, there was one component of the dining experience that I believed Del Frisco’s did not get right: its waitresses’ uniforms. At the time, they were instructed to wear a black T-shirt and black skirt, while waiters wore fitted white shirts, black vests, and black pants. Nothing distinctive or expressive—in fact, it was the sort of outfit you might expect to see at any generic restaurant. Del Frisco’s management had simply not paid attention to that particular facet of the experience. Yet highly competitive businesses such as Del Frisco’s need to be keenly aware of the effect that all forms of stimuli have on customers’ willingness to spend money, their eagerness to come back, and their proclivity to spread the word of their positive experiences. Del Frisco’s servers are on the front line of customer interaction, so they need to co-own and convey the brand’s aesthetic sensibility. Conventional uniform manufacturers focus on the cost, function, and durability of their goods. For a more customized approach, I introduced the team to a talented New York– based fashion designer and stylist, Edda Gudmundsdottir, who agreed to take on the project. The key challenge for Gudmundsdottir was to translate Del Frisco’s brand pillars (architectural style, menu design, color palette, marketing position) into uniforms that expressed quality and supported the Del Frisco’s dining experience: big, bold, warm, and sophisticated. She studied the company’s brand identity books and pored over its marketing material. She visited various locations to observe variations in local elements and cultures and to watch and listen to customers’ expectations of and responses to the entire dining experience. “After that, I did some sketching and online research into uniform vendors because the cost is important in this. In terms of durability, uniform companies have done all the research in terms of fabrics. I could customize a uniform using existing silhouettes through color choices and embellishments. Del Frisco’s has a beautiful logo—double eagle—so we recommended an embroidered detail of that to bow ties for men and aprons and scarves for women. The detail could make the staff stand out while still keeping the uniform traditional.” 6 It also fit in with what she noted about patrons, which is that they want to feel as though they are having a unique experience that still aligns with what they expect from fine steak houses—that they are, frankly, manly and clubby, but also rarified and exciting. The new uniforms capture those characteristics. The subtle, stylish finishes were not overly fashion forward or fussy; they incorporated unexpected colors such as deep mauve against the classic backdrop of jet- black. “Frame of reference is so important,” says Gudmundsdottir of the project and of developing an aesthetic in general. “It gives you a much larger platform to use as a tool, because it forces you to be more creative rather than simply copying what exists. A brand does not evolve very much that way, so I find understanding the meaning of a business and what it wants to do presses you to be more unique.” 7 In addition to designing the uniforms, Gudmundsdottir created style guidelines for all staff, outlining standards for hair, makeup, jewelry, and other personal touches. When the final designs were rolled out to the organization, we noted one unanticipated benefit: the staff took pride in their new look and showed more enthusiasm toward their jobs. Their enthusiasm had a halo effect on customers as well. In the end, that relatively modest investment had an immodest return. On an even more practical note, Gudmundsdottir completed the project within a tight budget and time line and having to take into account other practical considerations (e.g., variability of body types and fit requirements, durability of materials, ease of reordering and reproduction, etc.). Beyond the uniforms, I encouraged the team to dissect each and every element of the dining experience and understand the emotional connections forged between diners and the restaurant. Once the team grasped the importance of that process—and committed to fixing or neutralizing each of the detracting elements while enhancing and reinforcing the most valued ones—they were better prepared to scale the modifications across the network. In turn, the overall Del Frisco’s experience grew richer and more seamless. Del Frisco’s wanted to reflect elements of a traditional steak house, because people who like steak tend to look for certain cues associated with good steak, such as traditional color palettes; weighty utensils that feel substantial in the hand; crisp, white china that draws attention to the cuts of meat; warm and cozy lighting; and energizing music. At the same time, the company did not want to come across as stodgy and old-fashioned; it wanted to attract a successful, sophisticated clientele who appreciates modern design and culture. To add a contemporary twist, airy spaces with high ceilings, Old World wrought-iron railings reinterpreted for a modern look and feel, and pops of unexpected colors created a distinct and memorable customer experience without sensory overload. Forging human connections is a complex effort and has far-reaching implications, and it can be done through aesthetics. When done well, it leads to richer brand experiences. The onus is on creators to align their ideas with motives worthy of being experienced so personally and profoundly. The modern consumer, no longer driven to accumulate material possessions, seeks depth and meaning. Therefore, brands that endure provide purpose, appeal to feelings, and arouse imagination. Their drivers extend well beyond commercial motives; they are driven to unite and delight generations of people who are touched by their products or services. Aesthetically rich businesses must be built on a clear and strong raison d’être. In the end, that is what truly challenges, compels, and charms their customers. They must view and treat their customers not as people who merely seek to consume but as humans who ultimately seek to feel alive. Chapter 2 Coming to Our Senses Not long ago, I was searching for bath soap in my local Whole Foods. The bars lined the shelves neatly, some in boxes of multiples, others wrapped individually in decoratively patterned paper or corrugated boxes. One row of soaps caught my eye—they were neatly stacked and came in natural, food-inspired colors, such as lemon, oatmeal, and vanilla, and plant- inspired colors, including lavender and rose. The packaging was simple: an individual “belt” of natural brown cardboard tied with jute string around the middle of each bar.
+>>>

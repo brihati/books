@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-002",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 6290,
+    "char_end": 13945,
+    "checksum": "dc391c7d08282d7a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+hich entail everything from reproducing in a sexual relationship, to being nurtured in a romantic relationship, to creating friendships (a tribe) who will stick by us in case of any social threats. Finally, the brain begins to concern itself with greater psychological, physiological, or even spiritual needs that give us a sense of meaning. What Mike helped me understand is that, without us knowing it, human beings are constantly scanning their environment (even advertising) for information that is going to help them meet their primitive need to survive. This means that when we ramble on and on about how we have the biggest manufacturing plant on the West Coast, our customers don’t care. Why?
+
+Because that information isn’t helping them eat, drink, find a mate, fall in love, build a tribe, experience a deeper sense of meaning, or stockpile weapons in case barbarians start coming over the hill behind their cul-de- sac. So what do customers do when we blast a bunch of noise at them? They ignore us. And so right there on my back porch, Mike defined two critical mistakes brands make when they talk about their products and services. Mistake Number One The first mistake brands make is failing to focus on the aspects of their offer that will help people survive and thrive. All great stories are about survival—either physical, emotional, relational, or spiritual. A story about anything else won’t captivate an audience. Nobody’s interested. This means that if we position our products and services as anything but an aid in helping people survive, thrive, be accepted, find love, achieve an aspirational identity, or bond with a tribe that will defend them physically and socially, good luck selling anything to anybody. Surviving and thriving are the primary concerns of every healthy human being on the planet. We can take that truth to the bank. Or to bankruptcy court, should we choose to ignore it as an undeniable fact. Mike said our brains are constantly sorting through information, so we discard millions of unnecessary facts every day. If we were to spend an hour in a giant ballroom, our brains would never think to count how many chairs are in the room. Meanwhile, we would always know where the exits are. Why? Because our brains don’t need to know how many chairs there are in the room to survive, but knowing where the exits are would be helpful in case of a fire. Mike helped me understand that, without knowing it, the subconscious is always categorizing and organizing information, and, as it relates to growing our businesses, when we talk publicly about our company’s random backstory or internal goals, or worse, when we are vague and confusing about what problem we solve for the customer, we’re positioning ourselves as the chairs, not the exits. In other words, the way most of us talk about our brand and our products causes the very customers we want to engage us to ignore us. “The reason many businesses—and for that matter, leaders, are ignored,” Mike continued, “is because processing information demands that the brain burn calories. And the burning of too many calories processing information we do not need in order to survive acts against the brain’s primary job: to help us survive and thrive.” The point is this: most of our messaging collateral is elusive, confusing, or unrelatable, which means that God has literally designed our customers’ brains to ignore us. Mistake Number Two The second mistake brands make when they talk about their products and services is they require their customers to burn too many calories in order to understand their offer. When having to process too much seemingly unnecessary information, people begin to ignore the source of that information in an effort to conserve calories. In other words, there’s a survival mechanism within our customers’ brains that is designed to tune us out should we ever start confusing them. Imagine every time we talk about our products to potential customers, they have to start running on a treadmill. Literally, they have to jog the whole time we’re talking. How long do you think they’re going to pay attention? Not long. And yet this is very close to what’s actually happening in our customers’ minds as we talk to them about our products. When we start our elevator pitch or keynote address, or when somebody visits our website, they’re burning calories to process the information we’re sharing. And if we don’t say something (and say something quickly) they can use to survive or thrive, they will tune us out. These two realities—that people are looking for brands that can help them survive and thrive, and that communication must be so simple that a person doesn’t have to burn too many mental calories to understand what we’re saying—explain why the SB7 framework has helped so many businesses grow their revenue and influence. The key is to create a message that reveals how we help our customers survive and to do so in language so simple that they understand the message without having to, burn too many calories. Not long ago, I helped a major pet-supply brand nearly double their revenue by adding only three words to their packaging and signage: kids love aquariums. Spectrum brands had been wildly successful in the home aquarium and fish supply market at American pet stores for years; however, they were having trouble selling aquariums to anybody other than fish enthusiasts and hobbyists. Despite their efforts, they were not able to move into the family market. As we spoke, I recalled that my young daughter loved aquariums. In fact, on a recent trip to London she asked me to stand in front of the aquarium in the lobby for long periods of time until we could find Nemo! She loved the aquarium so much I actually took a video of it with my phone so she could watch the video before we read bed-time stories. When I recommended that Spectrum simply add three words to their packaging, Kids Love Aquariums, they weren’t convinced the answer could be that easy. But think about it: if parents are walking into a pet store looking for something their kids will love (part of the human survival dynamic involves building a family tribe, creating family bonds, and passing love and nurture to our children), then the “Kids Love Aquariums” tagline would position their products as the very solution parents are looking for. The result of the three-word campaign in a test market? A 99 percent increase in overall sales. The results were so good that Spectrum is currently rolling out the messaging strategy nationwide. The truth is, you don’t need an expensive ad campaign or a beautiful style guide to grow your business; you just need a few sound bites customers immediately understand so they quickly realize you have a solution to their problem. But what kind of sound bites should we use, and how do we come up with them? STORY TO THE RESCUE Story is the most powerful tool we can use to organize and communicate our offering so people don’t have to burn many calories to understand us. I discovered this during my years as a memoirist. My first book, which I wrote before understanding story and story structure, sold only about ten thousand copies. But after studying and incorporating a story-based formula, my next book ended up on the New York Times bestseller list for nearly a year. Story, it turns out, is a sense-making device readers can follow without having to burn very many calories. What is a story? A story identifies an ambition or objective the hero wants to accomplish, then defines the challenges that are keeping the hero from getting what they want, then provides a plan to help the hero conquer
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-013",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 76621,
+    "char_end": 84254,
+    "checksum": "1a49cdf90133dea7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+also cultural, and so, when appealing to customers, businesses have to keep in mind who is buying and what their olfactory expectations might be. For Americans, the smell of “clean” is Tide detergent, 28 according to Olivia Jezler, a scent expert and head of Future of Smell, a company devoted to the science, psychology, and design of aromas. In contrast, she says, is the idea of a clean smell in China or India. Chinese medicine, which is often herb based, influences the idea of clean, as does Ayurvedic medicine in India. People in those countries associate cleanliness with something that smells earthier and more herbal than do Americans, who tend to associate cleanliness with floral scents.
+
+I come back to the senses throughout this book because they are essential to every solution aesthetics offers us. They are part of understanding what makes your business succeed or fail. To be successful, businesses must precisely and carefully identify the unique and “ownable” ideas underpinning their value proposition and then figure out how to convey those ideas sensorially. For Nike, it is the inner hero; it conveys this idea not only with its swoop logo and “Just do it” slogan but with the distinctive molded waffle heel that makes the wearer feel like a star athlete springing into action. Listerine provides relief from the shame of bad breath with its minty freshness, as expressed through its intense medicine-y flavor and astringent sensation in the mouth, as well as its clear aqua color. Listerine says “clean” because these qualities say “mint” and mint oil has long been considered a breath freshener. 29 Listerine does contain four essential mint oils (eucalyptol, menthol, methyl salicylate, and thymol) that are highly effective. 30 To engage people’s senses and elevate your brand, you first have to understand what your brand codes are and how the senses can help refine them and capture a consumer’s attention. Brand codes are clear, distinct, and visible identifiers of a particular brand. They are the markers—like Chanel’s quilted leather or the New York Times’s headline font—that stand apart from the brand’s sellable products (in these cases, a Chanel purse or the New York Times newspaper). They are not the same as brand DNA, which may include nonvisible elements of a brand such as a brand’s history or its values or social purpose. Strong codes are built over long stretches of time and are rarely, if ever, changed. We tackle brand codes next—how to determine those that define your business and how to identify what can become lasting codes for newer or emerging brands. Chapter 3 Cracking the Code Know Your Brand’s Sensorial Cues and Emotional Triggers The Nokia ringtone, also called “Grande Valse,” 1 was the first identifiable ringtone on a mobile phone. It was introduced by the Finnish company in the early 1990s but derived from a 1902 composition by the Spanish composer Francisco Tárrega for solo guitar. Today it is played on mobile phones about twenty thousand times per second worldwide. 2 Nokia’s head of sound design, Tapio Hakanen, told a reporter in 2014 that although the tone doesn’t sound that distinctive today, using a soft acoustic guitar piece for a ringtone was quite unusual at the time of its introduction. “It was reflecting the human aspect of Nokia’s ‘connecting people’ motto. Back then, it was fresh.” In a sense, the popularity of this ringtone foretold the power that mobile devices eventually would have in bringing together people from around the world and leveraging technology for human evolution. 3 Great businesses are built on thousands of components, but great brands are built on just a handful of powerful codes. “Grande Valse” became one of Nokia’s most important brand codes—perhaps its most important. What are brand codes? They are clear and distinct identifiers or markers of a brand that encapsulate its philosophic and aesthetic point of view. Brand codes are not to be confused with brand logos, although an iconic logo may constitute one of many different types of code. Brand codes also are not the same as brand DNA—which typically is built on elements such as brand history, values, and social purpose (or “mission”)—as DNA is conceptual in nature rather than sensorial. Perhaps most important, codes stand apart from a brand’s sellable products, but they consciously and unconsciously link consumers to the ideas, memories, and emotions elicited by those products and, in doing so, compel consumers to buy them. Codes can be seen, felt, heard, and even experienced spatially. In fact, they can be found almost anywhere in, on, and around a product. Powerful slogans, for example, may forge emotionally charged connections that stimulate desire for their associated products. For example, Folger’s “The best part of waking up,” Coca-Cola’s “I’d like to teach the world to sing,” and Meow Mix’s “Meow, meow, meow, meow” evoke pleasant feelings of morning time and new beginnings; unity and community; and the sweetness and charm of our beloved pets. Codes found in sounds—such as the Nokia tune, the “Ho-ho-ho” of the Jolly Green Giant, or the roar of the MGM lion —produce similarly strong associations. Strong visual codes can be found in the application and “ownership” of specific colors like Harvard’s official shade of crimson red, Cadbury’s royal purple, and Veuve Clicquot’s egg yolk yellow. Mrs. Estée Lauder chose a pale greenish-blue hue for her skin care jars, believing that they would play well against the décor of her customers’ bathrooms—and incentivize them to display the creams proudly on their countertops. But it also made her jars instantly recognizable even from a distance, and it expressed her view on elegance, reminiscent of a European aristocrat’s use of chinoiserie. Today the brand uses a broader array of hues in its products, from a coppery brown to a lustrous white, but the original blue is still preserved for some of its most iconic creams and lotions. Codes also can be found in mascots, such as Ronald McDonald, the Energizer bunny, the Pillsbury Doughboy, and StarKist’s Charlie the Tuna. Codes are even found in textures such as Chanel tweed, Levi’s acid-washed jeans, Ben & Jerry’s über-chunky mix-ins, and product silhouettes such as the distinctive rounded shape of the original Volkswagen Beetle, the tall cylindrical containers used by Pringles, and Issey Miyake’s zigzag pleating, used to create innovative architectural shapes around a woman’s body. Codes are also seen in space and building designs, such as the backlit apple prominently displayed and built into the walls of Apple stores. In addition, Apple stores are easily identified by their wide-open spaces, floor- to-ceiling glass facades, and hangar-size doors at the front. These elements not only differentiate Apple from neighboring stores but also invite people in by blurring the delineation between inside and outside and focusing people’s attention (and fingers) on the product displays—which serve as the lead performers on the Apple stage. Interestingly, when other retailers try to copy Apple’s design approach, they typically fail, as their copycat stores feel contrived and uninspired. In the 1950s, the restaurateur Howard Deering Johnson introduced another powerful expression of innovation in his architectural designs for his Howard Johnson’s restaurants. “HoJo’s,” as aficionados called his restaurants, provided one of the most iconic architectural codes of their era. The chain’s triangular bright orange rooftops with blue spires reaching skyward beckoned to tired drivers, who knew they could expect grilled hot
+>>>

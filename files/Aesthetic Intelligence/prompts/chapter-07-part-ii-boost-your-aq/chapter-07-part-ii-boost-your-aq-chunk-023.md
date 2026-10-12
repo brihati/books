@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-023",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 149937,
+    "char_end": 157616,
+    "checksum": "f00469936cd09391"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+walls give the restaurant a summery vibe even in the middle of a miserable and cold New York winter—and that’s by design. James Truman, who at one time oversaw magazines including Vogue, Glamour, and GQ as the editorial director of Condé Nast, is the lead innovator behind the space and the concept of the restaurant, which masterfully articulates an aesthetic of chicness yet good health, simultaneously warmly welcoming and downtown cool. Before opening the restaurant, Truman spent many months thinking about it with its chef, John Fraser, a pioneer of veggiecentric cuisine, and the architect Elizabeth Roberts, who is known for blending contemporary aesthetics with traditional design elements.
+
+Nothing escaped the team’s eye —details as minute as the color of the grout used in the bathrooms and the cut and fit of the waitstaff aprons were scrutinized. “As an editor, I came to the design process thinking less about pure aesthetics and more about story —what the overall story is, and then thinking about design decisions as ways to establish and reinforce that story,” says Truman. “Some of the first conversations we had were about how we wanted to reverse the perception of vegetarian/vegan restaurants as being rather dour, joyless places that you wouldn’t want to have fun in, take a date to or throw a party at. There was no reason, other than historical precedent, why a vegetarian restaurant should have this kind of ambience. To think about it logically, it was kind of perverse: why would a restaurant that doesn’t require the killing of animals feel funereal, while a steak house feels celebratory? That makes no sense at all.” He also didn’t want the restaurant to take the direction of what he calls the “Brooklyn model”—unfinished timber walls and floors, a lot of rural nineteenth-century details, and server uniforms that seem to have sprung from old Western movies. “It was a statement about authenticity and non-urban, farm-to-table values, but it became so ubiquitous that it started to quickly look like a hipster pose,” he points out. “At the same time, the new model for innovative cooking was coming from Scandinavia, and the design there also showcases raw materials, but in a very much more thoughtful and architectural way.” Interestingly, Truman points out that this iteration shares design values with contemporary Japanese design. He believes this will be the dominant design aesthetic for the next few years, especially for smaller restaurants. “The big rooms will still be designed with French brasseries and Las Vegas in mind.” Fraser grew up in California, which was where the last wave of vegetarianism had originated, back in the 1970s, so that became an important early reference point for Nix. The architect-designer, Elizabeth Roberts, was also from California, so without even making it a strategy, California became an important part of the Nix story. “The ease of lifestyle, and the dissolution of the gap between ‘casual’ and ‘formal’ was central. For me, the greatest entrance to a restaurant is walking up the stairs to Chez Panisse in Berkeley. You walk under a redwood tree toward a modest arts and crafts two-story house, climb the stairs and come straight into a room with an open kitchen that feels like a bountiful, idealized version of home. The quality of the welcome, the lighting, the smells of the kitchen all combine to create a sensation of being transported into an environment that feels both of the past and of the present,” says Truman. But how to articulate that vibe in the middle of the concrete jungle, in downtown New York? “We didn’t have a tree, or a staircase, and our kitchen was fixed at the back of the dining room, so there was no way we could architecturally reference any of the things that work so well in California,” he says. But there was a mood, or a sentiment, that the team pursued, which was about comfort, intimacy, optimism, and a sense of the past that wouldn’t come across as nostalgic. To achieve this, the stucco partitions between booths and tables are rounded at the corners rather than square and hand finished so that the color is irregular. It is a simple gesture, but it references something Mediterranean, of the Greek islands in particular, and conjures up a memory of ’70s bohemia, according to Truman. “Cork became our most important material, in its many different varieties. We used it to clad the sides of the bar, we have two pendant light fixtures made of it, and we recently redid our entire floor with cork tiles. The attraction was that it is a sustainable material, beautiful to look at and feels alive and clean, all important considerations,” he says. One of the trickiest design problems was finding the right lamps to sit on the ledges that encircle the dining room. “We looked at everything, new and vintage, and discovered that pretty much every light fixture, new or vintage, is now in the mid-century modern style. You can’t escape it! I finally found a hippy driftwood lamp, made in California in the Seventies, on 1st Dibs (the design and décor website) and I sent the picture to Elizabeth,” says Truman. She came back with a picture of the cured root of a juniper tree, fashioned by a woman artist in New Mexico, and that became the lamp solution. “We bought eight of them and had them converted into shelf lamps, and they are probably our signature design feature. Three years in, we still get asked on a nightly basis who made them.” After lighting, music is the most important creator (and spoiler) of atmosphere in a restaurant. Most comments you read about restaurant music are complaints: too loud, too abrasive, too familiar, and so on. Most restaurant music is created by algorithms, either via Spotify or by a vendor that provides playlists based on a handful of musical references that the restaurant provides—one of Truman’s key observations. “There may come a day when algorithms are as good as personally curated playlists, but that day has not yet arrived. At Nix, a former record producer and friend of mine, Roger Trilling, handcrafts all our playlists, and we’re always adding and deleting tracks, since you learn every day which songs are adding to the vibe and which songs are obstructing it. We’ve found, especially at night when the restaurant is louder, that any sound that competes with conversation—such as noisy guitars, or heavily vocal-driven tracks— interfere with the flow, and that long, looping melodies work better than the urgent melodies of most rock songs.” 26 Articulating Transportation Across all twenty-four classes of vehicles considered by J. D. Power in its annual Resale Value Awards, 27 the Vespa scooter earns 72.1 percent, meaning that except for rare and collectible vehicles, Vespa scooters hold their value better than any other vehicle on the road. Which is remarkable, given that they don’t go very fast and they don’t have the horsepower of a Harley or even of a Honda motorbike. Vespa’s success may lay in its uniqueness. “Vespa is an upscale luxury marque,” says Chelsea Lahmers, the founder of Moto Richmond in Virginia, which sells Vespas and other brands of scooters and motorcycles. “Most luxury brands have competition. Vespa doesn’t have any competition.” 28 This is not entirely true—there are other luxury motor bikes made by Honda and Yamaha that are less expensive than and outsell Vespa in the United States. The most basic new Vespa, the Primavera, costs around $3,800, not including taxes and dealer’s fees. The most expensive model, the 946 RED, costs $10,500, although a portion of that cost goes to (RED), a charity founded by U2 lead singer Bono to fight HIV and AIDS in Africa. 29
+>>>

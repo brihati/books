@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-023",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 132418,
+    "char_end": 140092,
+    "checksum": "38df034cb8b04436"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+losses could be attributed to having fewer locations! The remaining losses were a result of an 18 percent drop in same-store sales. 11 Sears continues to sell off its holdings and is seeking buyers for its various brands—that approach may keep the IV drip running a little longer, but it’s not a tactic that will resurrect the store. The truth is, Sears has become irrelevant to consumers. To underscore this point, a 2016 survey of women apparel shoppers said they preferred shopping at the Goodwill store over Sears. 12 And people choose to shop at Amazon because it is relevant to their need for convenience, accessibility, ease, and transparency. Amazon is the twenty-first-century version of the
+
+thick Sears catalog that families once anticipated receiving by mail, only Amazon is available 24 hours a day, 365 days a year. Like Amazon today, Sears catalogs offered a seemingly endless variety of products—everything from fabric by the yard to entire prefabricated houses—and celebrities such as Lauren Bacall, Susan Hayward, Gene Autry, and the baseball legend Ted Williams were used to market the company’s wares. 13 Although Sears’s breadth of offerings has diminished greatly since its heyday, Amazon continues to push the limits of what it can sell. Its warehouse system and collaboration between human and robotic technology means it can store and ship a huge variety of items. 14 Its partnership with manufacturers means it doesn’t have to warehouse many other items it sells. 15 In Sears’s case, substituting financial engineering for aesthetic intelligence failed. The beer maker Stroh Brewery Company’s problems stemmed from bad management and a whirlwind of dubious acquisitions—and of course, inattention to the legacy that had made it relevant to beer drinkers. Founded in Detroit by a German immigrant, Bernhard Stroh, in 1850, by 1980, Stroh had become the third-largest brewery in the United States. 16 The founder’s great-grandson Peter Stroh became CEO that year and went on a shopping spree: he bought the F. & M. Schaefer Brewing Company and Joseph Schlitz Brewing Company. The company did not have the marketing or logistical firepower to manage so many disparate brands—brands that had nothing to do with its own culture and story. Other acquisitions followed, and they were also disasters. The company brought in an advertising expert, who promptly changed the company’s recognizable label, raised prices, and ended a long-standing “15 bottles for $12” deal. As a result, sales dropped 40 percent in one year. 17 After a while, the company didn’t even know if it could pay the interest on its bills. It had to start selling itself off in pieces. That downfall was not inevitable simply because it was a family-owned business operating at a time of corporate consolidation. Family-owned regional brewers including Yuengling and Schell’s Brewery were and are thriving. The owners of Stroh’s biggest competitor during the 1980s and 1990s, Coors Brewing Company, remain in the top hundred on the Forbes “America’s Richest Families” list. 18 In 1999, after 149 years in business, the Los Angeles–based Pabst Brewing Company ended up acquiring many of the company’s brands, including Colt 45 malt liquor, Lone Star, Schaefer, Schlitz, Schmidt’s, Old Milwaukee, Old Style, Stroh’s, and St. Ides. 19 The Miller Brewing Company bought the rest of the company’s brands. Interestingly, the Stroh’s label has undergone somewhat of a resurrection under its new ownership. Eugene Kashper bought Pabst in 2014. As a child, he came to the United States from the Soviet Union as a political refugee. Ironically, or perhaps not, he started his brewery career at Stroh. In 2016, the beer maker did a deep dive into its heritage, seeing that craft beer enthusiasts might also develop a taste for retro classics. The company even calls the strategy “local legends,” which includes manufacturing some of its labels in their founding locations, including Stroh’s in Detroit, and breathing new life into brands that are still on the shelves via premium varieties. New line extensions include Stroh’s Bohemian-Style Pilsner, made in Detroit. 20 In February 2018, Pabst introduced a new Stroh’s label, an IPA named Perseverance, perhaps in a nod to the beer brand’s staying power despite the missteps of its founder’s descendants. 21 SMEG is a legacy brand that has succeeded thanks to the weight of its history and, more specifically, its ingenuity in applying mid-twentieth- century Italian style to old-fashioned kitchen accessories and magically making them look and feel modern. SMEG was founded in 1948 by Vittorio Bertazzoni in northern Italy. The Bertazzoni family’s entrepreneurial history began in the nineteenth century as blacksmiths. That long, consolidated family experience working with metals eventually led the Bertazzonis to branch out into kitchen building, with an initial focus on enameling metals. Today SMEG is run by the third generation of Bertazzonis and maintains its heritage in many ways, starting with its Italian name SMEG, or Smalterie Metallurgiche Emiliane Guastalla—in English, the Guastalla Emilia Enamel Works. SMEG anticipated the desire for home comforts that increased affluence would bring in the 1950s and 1960s and as a result began specializing in home appliance manufacturing. In the second half of the 1950s, SMEG launched one of the first gas ranges to feature an automatic switch-on function, an oven safety valve, and a cooking programmer/timer. In 1963, the company introduced washing machines and a dishwasher. In 1970, it introduced a fourteen-place-setting dishwasher. Also in the mid-1970s, it began to partner with renowned architects and designers to further its foray into stylish and even fashion-forward technology. It continues that tradition today; one of its latest collaborations is with the fashion house Dolce & Gabbana. In 2017, it worked with the company to produce a hundred unique hand-painted refrigerators, now in the hands of collectors. In 2018, the collaboration focused on small appliances, including toasters, citrus juicers, coffee machines, kettles, blenders, and stand mixers. 22 In the 1990s, SMEG added sinks, oven vent hoods, and retro-style refrigerators in ice cream colors such as baby pink, pale blue, and mint green. These objects are now iconic throughout the world. 23 SMEG global CEO Vittorio Bertazzoni, Jr., took over the company just before the global financial crisis of 2008. But since that time, the global division has doubled its sales and has grown from seven subsidiaries to twenty. “I think we have managed to be innovative, very innovative, if you think this is an Italian family business, staying at the same time loyal to our principles. I know every generation has its own challenges and we want to tackle them with the same optimistic spirit, the same approach of the very beginning. We want to deliver to our customers the most beautiful appliances, the most creative and innovative objects you can use at home,” Bertazzoni wrote in a letter to SMEG’s Australian division on the company’s seventieth anniversary. 24 Why does this Italian kitchen line have such a strong and impassioned fan base? Following the lines of the original Volkswagen or more current Mini Cooper, with their curvilinear bodies; playful, catchy colors; and strong chrome detailing, SMEG products embody 1950s Italian design— also associated with brands such as Vespa and Lambretta—and unlike other kitchen brands, it is more aesthetic than lifestyle driven, providing a unique look and pop of color and a refreshing break from the oppressive stainless- steel look of most kitchen appliances.
+>>>

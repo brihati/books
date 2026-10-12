@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-011",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 69058,
+    "char_end": 76723,
+    "checksum": "9165a9d160337750"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+movie Mary Poppins. In the timeless adaptation of P. L. Travers’s eight-book series of the same name, Mary Poppins is the guide. The father, George Banks, is actually the hero of the story, transforming from an uncaring, distracted, hard-nosed father into a soft, caring, and attentive dad in the end. Mary Poppins, however, guides the entire family into an empathetic reminder of the magic of childhood, shaping the children and the father to be engaged, compassionate, moral, and well-behaved. She does this with lessons of wisdom and perspective, all from a place of ultimate authority. In fact, in an early scene in the movie Mary Poppins uses a measuring tape to gauge the yawning chasm between
+
+the children’s need for development and her own authority as the guide. As she lifts the measuring tape to the height of the children, the tape reveals the children as “extremely stubborn and suspicious” and “rather inclined to giggle and doesn’t put things away,” respectively. When Mary Poppins measures herself, however, the magical tape declares her “practically perfect in every way.” In a confrontational scene near the end of the film, the hero, George Banks, confronts Mary Poppins, demanding that she explain herself and her actions. She stands looking down at the confused hero from the top of the stairs and exclaims that Mary Poppins does not explain herself to anybody. In the overall story of life, there are guides and there are heroes. I’m certainly not suggesting that you, as a brand, never offer to explain yourself; however, we should learn a thing or two from Mary Poppins: As guides, it is paramount we be competent and strong. The hero is counting on us to know more than they know and to have a solution to their greatest problem. The guide, then, must live in service of the hero, and if the guide is not competent, they are useless. Can you imagine a candidate running for president exclaiming, “I have always wanted to be president but I’ve never really believed in myself, nor do I know what I am doing, but if you vote for me I will try my hardest to figure it out.” This candidate would generate a great deal of interest and differentiate themselves from the rest of the field but ultimately would gain very few votes. When we look for a leader, we enjoy a backstory of transformation but a current demonstration of competency. That said, arrogance never serves anybody and is ultimately a sign of defensiveness and weakness. Mary Poppins is sure of her philosophy, sure of her plan, and sure of her mission—to transform the family into a healthy and functioning unit led by a patriarch who is engaged and compassionate —but she is not in the story to serve herself or her own transformation. She is in the story to serve the family. The problem in the Banks family was always the father, and by the end of the story, the problem is solved. The idea that the guide must serve the hero is true in business, in politics, and even in your own family. People are looking for a guide to help them, not another hero. Those who realize the epic story of life is not about them but actually about the people around them somehow win in the end. It’s counterintuitive, but it’s true. In fact, leaders who think the story of life is all about them may achieve temporary successes but are usually remembered in history’s narrative as villains. If you make the story about you, you will lose. THE TWO CHARACTERISTICS OF A GUIDE At StoryBrand, we have seen thousands of businesses experience an increase in customer engagement once they stopped positioning themselves as the hero and started positioning themselves as the guide. After filtering their message through the StoryBrand framework, thousands of business leaders have realized their websites, email blasts, digital ads, television commercials, and even their elevator pitches have been broadcasting a self- sabotaging message. However, adjusting our focus so that it is clearly on the customer and playing the guide by offering that customer a solution to their problem will radically change the way we talk about, and even do, business. So what do we have to do to be recognized as the guide in our customers’ lives? We must demonstrate two characteristics in order to be recognized as a guide: empathy and competency. When Luke Skywalker meets Yoda, he encounters the perfect guide. Luke is ill-equipped for the task before him, and Yoda is the endearing character who empathetically understands Luke’s dilemma. This empathy would be of little service, of course, were it not for Yoda’s competency as a Jedi himself. Yoda understands Luke’s dilemma and has mastered the skills he must now develop if he is going to win the day. The guide must have this precise one-two punch of empathy and competency in order to move the hero and the story along. These are the characteristics the hero is looking for, and when he or she senses them, they know they have found their guide. The Incredible Power of Empathy When Bill Clinton delivered his now-famous line “I feel your pain” in 1992, he did more than just clinch a victory over George H. W. Bush in a close presidential election; he positioned himself as the guide in the American voters’ story. In fact, many pundits believe Clinton locked up the election during a town hall debate in which Bush gave a rambling answer to a young woman when she asked what the national debt meant to the average American. Clinton countered Bush’s linear, cerebral answer by asking the woman if she knew anybody who’d lost their job. He asked whether it pained her that she had friends out of work, and when the woman said yes, he went on to explain how the national debt is tied to the well- being of every American, even her and her friends.5 That’s empathy. What did the audience sense? They sensed competency in Bush but empathy and competency in Clinton. Did Bush care? Of course, but unless we use sound bites to express our care, our audience does not connect. As a mentor of mine once told me: don’t put people in the mind-reading business. When we empathize with our customers’ dilemma, we create a bond of trust. People trust those who understand them, and they trust brands that understand them too. Oprah Winfrey, an undeniably successful guide to millions, once explained that the three things every human being wants most are to be seen, heard, and understood. This is the essence of empathy. Empathetic statements start with words like, “We understand how it feels to . . .” or “Nobody should have to experience . . .” or “Like you, we are frustrated by  . . .” or, in the case of one commercial inviting Toyota owners to engage their local Toyota service center, simply, “We care about your Toyota.” Expressing empathy isn’t difficult. Once we’ve identified our customers’ internal problems, we simply need to let them know we understand and would like to help them find a resolution. Scan your marketing material and make sure you’ve told your customers that you care. Again, customers won’t know you care until you tell them. ARE YOU LIKE ME? Empathy is more than just sentimental slogans though. Real empathy means letting customers know we care about them in the same way we care about ourselves. Customers look for brands they have something in common with. Remember, the human brain likes to conserve calories, so when a customer realizes they have a lot in common with a brand, they fill in all their cognitive dissonance with trust. Essentially, when we highlight the aspects of ourselves or our brand that we have in common with our customer, the customer batches their thinking, meaning they think in “chunks” rather than details.
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-002",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 6287,
+    "char_end": 13942,
+    "checksum": "83844ee2df3bdca4"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+on and on. In fact, a simple-to-produce promotion like this could be orchestrated nearly every month. To understand the power of a story gap is to understand what compels a human brain toward a desire. And it’s not just cinematic or literary stories. Even classical music follows the formula of the opening and closing of story gaps. Many classical sonatas can be broken into three sections: exposition, development, and recapitulation. The final section, recapitulation, is simply an altered version of the exposition that brings a sense of resolve. If that doesn’t make sense, try singing “Twinkle, Twinkle, Little Star” without singing the final note on the word are. It will bother you to no end.
+
+We also see this at work in poetry. When our ears hear Lord Byron’s first line “She walks in beauty, like the night,” a story gap has been opened. We are waiting to hear a word that rhymes with night and closes the open gap in our minds. Once we hear “Of cloudless climes and starry skies,” our minds find a bit of resolution. Until the next line, that is. Even a good dad joke follows the opening and closing of a story gap. Opening the gap: A man accidentally ran over his neighbor’s cat and agonizingly apologized, saying he would certainly replace the cat if the neighbor wished. Closing the gap: The neighbor replied: “I’m not so sure about that. How good are you at catching mice?” It is my view that story gaps explain a lot more than how and why we pay attention. They also explain all of human behavior. The opening of a story gap works a magnetic force that drives every action we take and certainly every dollar we spend. Hunger is the opening of a story gap, and lunch is how we close that gap. A headache is the opening of a story gap, and aspirin is what we take to make it go away. Arousal is the opening of a story gap, ambition and sexual fulfillment brings its closing. There is little action in life that can’t be explained by the opening and closing of various story gaps. The business lesson here is that when we fail to define something our customer wants, we fail to open a story gap in their mind. When we fail to open a story gap in our customer’s mind, we give them no motivation to engage our brand because they are not left with a story question that demands resolution. Defining something our customer wants and featuring it in our messaging and marketing will open a story gap that drives engagement and action. PARE DOWN THE CUSTOMER’S AMBITION TO A SINGLE FOCUS A critical mistake many organizations make in defining something their customers want is not paring down that desire to a single focus. I’ve had countless conversations with frustrated business leaders who push back at this point and say, “Wait, we provide about twenty-seven things our customers want, and we talk about all of them, but sales remain flat.” My answer to them is this: You’re off to a good start, but listing too many benefits often backfires. Human beings cannot hold large amounts of new information in their heads at once. If you want to grow your brand (or write a good screenplay), define a single desire you are able to fulfill and then add to that desire in subsequent marketing and messaging. The objective is this: Define a specific desire your customers have and become known for helping people achieve that specific desire. If you try to open too many story gaps at once, your audience will become confused about what, exactly, you offer. Paring down your offering can be frustrating if your products and services fulfill many desires. The reality of a diverse brand, though, brings the same challenge many amateur screenwriters succumb to: they clutter the story by diluting their hero’s desire with too many ambitions. If Jason Bourne wants to know who he is and also lose thirty pounds and marry his high school sweetheart and finish a marathon and perhaps adopt a cat, we’ve ruined the story because the audience will have to burn too many mental calories trying to figure out what this story is about. As you create a BrandScript for your overall brand, focus on one simple desire your customer has and then, as you create campaigns for each division and maybe even each product, you can identify more things your customer wants in the subplots of your overall StoryBrand. In the following grid, you’ll get a picture of what a diverse brand might look like using the tool of various StoryBrand BrandScripts. At the highest level, the most important challenge for business leaders is to define something simple and relevant their customers want and to become known for delivering on the promise. Everything else is a subplot that, after having delivered on the customer’s basic desire, will only serve to delight and surprise them all the more. CHOOSE A DESIRE RELEVANT TO THE CUSTOMER’S SURVIVAL Once a brand defines what their customer wants, they are often guilty of making the second mistake: what they’ve defined isn’t related to the customer’s survival. In their desire to cast a wide net, brands define a blob of a desire that is so vague, potential customers can’t figure out why they need it in the first place. A leadership expert recently asked for feedback on his brand. As I reviewed his marketing material, I noticed he was making a critical mistake: he was vague when defining what his customer wanted. The idea behind his brand is that he imparts knowledge to potential leaders. He saw himself as a storehouse of leadership resources and wanted to be the go-to guy for achieving excellence. In fact, his tagline was “Inhale Knowledge, Exhale Success.” Seems clear enough, but is it? What does exhaling success even mean? He was making potential customers burn too many mental calories to figure out how he was going to help them survive and thrive. I recommended he make an edit to his message. Instead of saying, “Inhale Knowledge, Exhale Success,” simply say, “Helping You Become Everyone’s Favorite Leader.” Becoming everyone’s favorite leader means the customer would be more respected and better connected to a tribe, they’d have greater social and career opportunities, and much more. Exhaling success sounded nice, but thriving as the leader of a tribe is directly connected to survival. People will always choose a story that helps them survive and thrive. Fortunately, he liked the idea, mostly because that’s what he was already doing. Defining something the customer wants (to be a respected leader) and connecting it with the customer’s desire for survival (respect within a tribe) opened an enticing story gap for potential clients and, of course, coaching inquiries went up. What Does Survival Mean? When I say survival, I’m talking about that primitive desire we all have to be safe, healthy, happy, and strong. Survival simply means we have the physical, economic, and social resources to eat, drink, reproduce, and fend off foes. So what kinds of desires fit under this definition? Well, too many to count, but consider these examples: Conserving financial resources. In order to survive and thrive, your customers may need to conserve resources. In simple terms, this means they may need to save money. If your brand can help them save money, you’ve tapped into a survival mechanism. Walmart has built their brand on the promise of everyday low prices. Their tagline “Save Money. Live Better” further communicates savings and value and thus taps into a basic function of survival, the conservation of resources. Does it work? Even with terrifyingly low profit margins, Walmart remains one of the largest companies in the world. Conserving time. In developed countries, most of our customers have
+>>>

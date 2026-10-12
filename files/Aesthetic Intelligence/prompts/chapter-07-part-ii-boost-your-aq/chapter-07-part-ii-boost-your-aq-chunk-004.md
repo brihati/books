@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-004",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 20243,
+    "char_end": 27926,
+    "checksum": "69f6f8a87a2678e1"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ly in pints initially, Häagen-Dazs seemed special and indulgent, and it was. Then, in 1977, along came Ben Cohen and Jerry Greenfield, childhood friends from Long Island, New York, who wanted to start a business. They thought about bagels, but the equipment proved too costly, so they opted for ice cream—in Vermont no less, with its remarkably short summers and long, frigid winters. That year the two friends completed a correspondence course on making ice cream from Pennsylvania State University Creamery (also known as the Berkey Creamery). Since childhood, Ben Cohen had had severe anosmia, meaning he had no sense of smell, so going into the food business presented certain challenges for him.
+
+30 In reaction, Cohen has said, he relied on “mouthfeel” and the texture of food to differentiate among various food sensations—and that proved to be pivotal in how the two created flavor profiles for their ice cream. They didn’t intend to go head-to-head with the big ice cream makers (although the company’s sale to Unilever in 2000 helped secure its status as a major player in the frozen treat market), but the way they differentiated the brand caught on with consumers. Originally a small parlor operating out of a former gas station in Burlington, Vermont, by 1980 the company had rented space in an old bobbin factory in town and started packaging pints and distributing them around New England. By 1984, Häagen-Dazs had taken notice of the upstart and wanted to stop it from encroaching on the Boston market. Ben & Jerry’s had to file suit against its parent company, Pillsbury, not once but twice, in 1984 and again in 1987. 31 So why was the ice cream so good—and so disruptive to its competitors? Well, Cohen’s condition prompted him to add big chunks of flavor and color to it. He turned the traditional look, mouthfeel, and taste standards of ice cream upside down by adding unusual ingredients to the base ice cream and by creating unusual combinations of tastes (salty and sweet; superchunky, crunchy, and smooth). The company created textures that were, at the time, unique and gave them unusual names with references to pop culture and political causes. Cherry Garcia, Chunky Monkey, and Triple Caramel Chunk seemed to almost guarantee you were going to have a good time eating the stuff. The package design was (and remains) folksy and hand drawn. Cohen applied his personal voice to packaging, advertising, marketing, and merchandising through the choice of words, colloquial expressions, and juxtapositions to elicit a fresh and unexpected set of emotions from ice cream consumers. The “homemade” and “made in Vermont” promises also conveyed an idea that has come full circle today—a product that is made by small, local farmers in small batches with whole, high-quality ingredients. Even well after the company was sold to Unilever in the year 2000, the brand still evokes a homespun, kooky feel through its unique flavor descriptions, marketing campaigns, and packaging. Chobani: Winning the (Live) Culture War Hamdi Ulukaya’s father was visiting him in upstate New York, where the young Kurdish immigrant was enrolled at SUNY Albany. It was a circuitous route the young man had taken from Turkey, where he had grown up raising sheep and goats on his family’s cheese-making farm. 32 But politics were heating up in his homeland, and he felt it was best to go elsewhere. The United States seemed a natural choice. During one particular visit in the early 2000s, Ulukaya’s father tasted some of the local feta cheese and hadn’t thought it was very good. As a longtime cheese maker, he suggested to Ulukaya and his brother, who had also emigrated to the United States, that they could do better. Perhaps they could start importing high-quality cheese. That idea proved to be expensive and impractical, but Ulukaya was from a cheese-making family. He knew how to make the stuff. Why not use Old Country techniques in the New World? In 2002, he and his brother started their own cheese company under the brand name Euphrates in Johnstown, New York. Within just a couple of years, the company had become a successful small cheese producer. 33 Ulukaya wasn’t done yet. He also thought that American yogurt needed help. Thin, watery, and filled with enough sweeteners that it could pass for pudding, conventional American yogurt was far from the fresh yogurt he knew from his childhood. It was also quite different from the yogurt produced in the United States thirty or forty years before, which had been sour and creamy and much closer to what Ulukaya thought of as yogurt. Americans’ taste for sweetness, developed by design, had altered the yogurt market, and Ulukaya wanted to take it back to its roots. In 2005, during an economic downturn in upstate New York, Kraft Foods closed a factory in South Edmeston, New York, about sixty miles away from Johnstown. The fully equipped yogurt factory had been put up for sale. The closure of the factory had been devastating for the town, but the recession also made it possible for Ulukaya to buy it and start making yogurt using the local workforce, 34 who were already trained in dairy manufacturing. Ulukaya used Old World techniques to create a product that was notably thicker, creamier, less sweet, and more sensuous than anything that was on the American market (save any small-batch yogurt you might lucky enough to find at a local farm or farmer’s market). The Greek-style yogurt redefined the yogurt category by introducing a new, thicker texture, offering a more natural (less sweet) flavoring, and featuring images of natural ingredients such as pineapple, mango, and cherries on its clean white container. The brand, Chobani, became one of the most successful food start-ups ever to hit the market, netting more than $1 billion in its first five years of operations. Kind: Doing Good While Snacking The story of Daniel Lubetzky, the founder of the fruit and nut snack food Kind, is instructive. The son of a Holocaust survivor, Lubetzky founded Kind in 2004 in an effort to bring more kindness to the world in the form of a healthy snack. The company grew quickly; out of the approximately two thousand products in the nutritional bar category, six of the top ten fastest- selling products are Kind bars. In fact, Kind has become the fastest-growing energy and nutrition bar brand in the United States. In 2017, the world’s biggest snack company, Mars, invested in Kind, valuing the company at $4 billion. Kind’s success was built in part on Lubetzky’s original mission, to spread kindness—a concept that not only differentiated his brand from more conventional competitors but also helped drive the awareness of and spark meaningful dialogue with consumers. One of the strategies was for company employees to distribute plastic cards meant to reward random acts of kindness. If they saw a person engaged in a kind act, such as giving up a seat on the subway or helping an elderly person cross the street, they would give the do-gooder a card. In turn, Kind sent the Good Samaritans two Kind bars and another card to pay the kindness forward to someone else. The company, which cleverly refers to itself as “not-only-for-profit,” has pledged thousands of dollars to customer-generated projects that give back to communities. But Kind has differentiated itself beyond its marketing messages and tactics. Its packaging is designed for maximum transparency, with its clear plastic wrap, so consumers can see the basic ingredients— chunks of nuts or dried fruit—and can easily imagine the taste and texture of each bar before taking a bite. Kind was also able to capitalize on Americans’ changing eating habits.
+>>>

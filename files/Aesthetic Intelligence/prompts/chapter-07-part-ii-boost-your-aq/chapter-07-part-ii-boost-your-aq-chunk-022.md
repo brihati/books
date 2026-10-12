@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-022",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 142946,
+    "char_end": 150636,
+    "checksum": "21c53adb3629b709"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+se aspirations? COMPETITION: What emotions are evoked by products or services that compete directly with yours? VALUES: How would you describe your company culture? Does it connect to your goals and aspirations for your products or services? Articulating Beauty Beauty products are often in the forefront of design and packaging. After all, competition is stiff in the world of makeup, moisturizers, and mascara, and the product ingredients and formulations are rarely proprietary to any one brand. To command the attention of store buyers, beauty editors, and consumers, companies must continually innovate both products and packaging. Articulation of products is especially important because beauty
+
+customers tend to be loyal—when they find something that works, it’s not easy to shift gears and try something new that is not guaranteed to be as effective. Though there are many (mainly younger) customers who tend to experiment with and switch beauty products as often as they change T- shirts, it’s the long-term loyalists who generate the most value for cosmetics companies. It’s not that these standard-bearers are unwilling to try new things; we always want something that works better, smells nicer, and feels more pleasurable. It’s that a new product, if we’re to try it, must reassure us that it’s worth the investment. Some brands accomplish this through sampling and in-store product testers. Others attract attention and trust through other assets, such as high-quality features and materials (i.e., leather instead of plastic; crystal instead of glass; brass instead of pot metal); the look and style of the people working behind the counter; and the cleanliness, order, and consistency of their displays. In the case of Philosophy, the skin care brand, its introduction to the marketplace was unexpected—and its success caught the industry by surprise. It sought out consumers who were not beauty junkies or the typical target market for beauty product makers. Cristina Carlino founded Philosophy in 1996 after developing another line of successful cosmetics, BioMedic, sold through doctors’ and cosmetic surgeons’ offices. “I started Philosophy at a time when the vast majority of women I knew had been essentially voted out of the beauty category. I wanted to create a brand that talked to them, but that talked to them about everything they cared about except beauty,” she says. 25 “It had an almost antibeauty message. I really didn’t like the definition of beauty that was being peddled to consumers at the time. Why were women so beholden to makeup? Why can’t we all be glowing without it? Why can’t we smell clean and look fresh? I was challenging the industry with these instincts. I just wanted to feel better, and I knew a lot of women who felt the same way. So the brand became about feeling better,” says Carlino, who explains that her epiphany occurred during a “lonely walk” on a Christmas day in the mid-1990s. As an aside, it’s not unusual for innovators to describe similar experiences when talking about how ideas come to them. Observations can sink in and become bigger concepts once distractions are taken away, as was the case when Carlino took her walk through the vast Arizona desert. “I was in my early thirties, unhappy in the business aspect of my life and in a personal relationship. I found myself alone, and I took a walk—a rainbow appeared, and it became a spiritual experience. I wasn’t even sure I should create the brand, but I felt it very strongly. The words came to me very clearly—words that became product names that exist to this day. Amazing Grace, Hope in a Jar, and Purity—these concepts mean something to a lot of women, and not just to me,” she says. Amazing Grace became a light, clean fragrance and has become one of the modern classic perfumes; Hope in a Jar is a popular moisturizer; and Purity is a strong seller in the facial cleanser category. Developing the products was not the difficult part—Carlino was an experienced alchemist when it came to formulating creams, fragrances, and cleansers. But in creating this new beauty line, she sought out a group of women who had largely felt ignored by the traditional beauty companies. It was well before the much more inclusive Sephora and Ulta Beauty stores started popping up to feature a new generation of niche and “indie” brands. Philosophy’s creation happened through a series of decisions Carlino made from a strong sense of mission as well as necessity. She didn’t have a huge budget since she was starting the line on her own. The packaging may seem familiar now, as it has been emulated, but in 1996 it was revolutionary. She chose simple, almost clinical-looking containers. Color, or the absence of it, was also a factor. The bottles were black, white, or translucent. The products were creamy yellow, pink, or green. And she used words—lots of them—on those containers. That was almost unheard of in the mainstream beauty product business. Not only did her products have spiritually inspired names, but words of encouragement and even spirituality were found on every jar and bottle. Carlino’s choice of fonts and her quirky insistence on lowercase letters were also unexpected. “I only write in lowercase, I have always typed in lowercase. I liked the way it looked. I never liked capital letters,” she says. In marketing campaigns, she used old sepia-toned family photos as marketing and branding images. “When you do not have a big budget, you have to use what you have. I had a box of old photos, and the first one I saw was of my sister on the floor playing with a coloring book. There you go, it was perfect for the makeup line,” she explains. “I also thought that black- and-white images did something interesting within the beauty vernacular. It was less polarizing. And in many of the photos you could not see faces, so even then I was thinking about not designating certain races or genders for the products, it was inclusive.” Philosophy’s articulation challenged beauty and cultural norms, and in that way, it attracted people who had felt rejected by the industry—but who still wanted to look and feel great about their nonconventionally beautiful appearance. “I wanted the disenfranchised women to know that there was a place for them at the beauty table; an island for the misunderstood by the industry in 1996.” Transparency was also a crucial factor. “Call it truth or transparency, but we wanted to make sure that customers knew we’d be slipping all over the ice for them. We were going to tell them what was in the products and what we thought they would do for them and what they wouldn’t do,” Carlino says. Articulating the Dining Experience At Nix, a vegetarian restaurant in New York City, diners can sit at two- person railroad-style banquettes that line a wall at the front of the restaurant or at long freestanding indigo-dyed maple tables at the back of the house. A cork-lined bar, potted green plants, and Scandinavian-style whitewashed walls give the restaurant a summery vibe even in the middle of a miserable and cold New York winter—and that’s by design. James Truman, who at one time oversaw magazines including Vogue, Glamour, and GQ as the editorial director of Condé Nast, is the lead innovator behind the space and the concept of the restaurant, which masterfully articulates an aesthetic of chicness yet good health, simultaneously warmly welcoming and downtown cool. Before opening the restaurant, Truman spent many months thinking about it with its chef, John Fraser, a pioneer of veggiecentric cuisine, and the architect Elizabeth Roberts, who is known for blending contemporary aesthetics with traditional design elements.
+>>>

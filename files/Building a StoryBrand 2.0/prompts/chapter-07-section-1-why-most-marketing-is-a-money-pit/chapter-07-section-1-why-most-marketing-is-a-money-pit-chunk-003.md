@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-003",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 13245,
+    "char_end": 20877,
+    "checksum": "c3be30f5f8c81d94"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+offering so people don’t have to burn many calories to understand us. I discovered this during my years as a memoirist. My first book, which I wrote before understanding story and story structure, sold only about ten thousand copies. But after studying and incorporating a story-based formula, my next book ended up on the New York Times bestseller list for nearly a year. Story, it turns out, is a sense-making device readers can follow without having to burn very many calories. What is a story? A story identifies an ambition or objective the hero wants to accomplish, then defines the challenges that are keeping the hero from getting what they want, then provides a plan to help the hero conquer
+
+those challenges so they can survive and thrive. It’s an age-old formula, but it works. And it doesn’t only work to entertain us; it works to get our attention. Here, then, is the thesis of this book: when we define the elements of a story as it relates to our brand, we create a mental map customers can follow to engage our products and services. In the years since the first edition of this book came out, hundreds of thousands of business owners have used the framework to invite their customers into a story, and the results are compelling. Thousands of business owners and leaders have told us that, after simply clarifying their message, sales have grown exponentially. Still, when I talk about story to business leaders, they immediately put me in a category with artists, thinking I want to introduce them to something fanciful. But that’s not what I’m talking about. I’m talking about a concrete formula we can use to garner attention from otherwise distracted customers. I’m talking about practical steps we can take to make sure people see us, hear us, and understand exactly why they simply must engage our products. THE FORMULA FOR CLEAR COMMUNICATION Formulas are simply the summation of best practices, and the reason we like them is because they work. We’ve been given great formulas for management, like Ken Blanchard’s Situational Leadership, and ones we can use in manufacturing like Six Sigma and Lean Manufacturing. But what about one for communication? Why don’t we have a formula we can use to effectively explain what our products offer the world? The StoryBrand framework is that formula. We know it works because some variation of this formula has been actively used over thousands of years to get people to pay attention to plays, books, and more recently movies and television shows. Talk about a summation of best practices. Story formulas have been tested by the entertainment industry since antiquity. When it comes to grabbing people’s attention, this proven formula will be your most powerful ally. I will warn you though. Story formulas are just that—they are formulaic. Once you know the formulas screenwriters and novelists use to hook a reader, you can predict the path most stories will take. I’ve learned these formulas so well that my wife hates going to movies with me because she knows at some point I’m going to elbow her and whisper something like, “That guy’s going to die in thirty-one minutes.” Story formulas reveal a well-worn path in the human brain, and if we want to stay in business, we need to position our products along a path they are designed to follow. The good news is these formulas can work just as well at growing your business as they do at entertaining an audience. THE KEY IS CLARITY The narrative coming out of a company (and, for that matter, being spoken inside a company) must be clear. In a story, audiences must always know who the hero is, what the hero wants, who the hero has to defeat to get what they want, what tragic thing will happen if they don’t win, and what wonderful thing will happen if they do. If an audience can’t answer these basic questions, they’ll check out and the movie will lose millions at the box office. And if a screenwriter breaks these rules, they’ll likely never work again. The same is true for the brand you represent. Our customers have burning questions, and if we aren’t answering those questions, they’ll move on to another brand. For example, if we haven’t identified what our customer wants, what problem we are helping them solve, and what life will look like after they engage our products and services, we can forget about thriving in the marketplace. Most businesses fail to create these sound bites, and worse, won’t stop using confusing or unrelatable language. Whether we’re writing a story or attempting to sell products, our message must be clear. Always. In fact, at StoryBrand we have a mantra: “If you confuse, you’ll lose.” BUSINESS HAS AN ENEMY Clarity is important because your business has a fierce, insidious enemy that, if not identified and combated, will contort what you offer the world into an unrecognizable mess. The enemy I’m talking about is noise. Noise has killed more ideas, products, and services than taxes, recessions, lawsuits, climbing interest rates, and even inferior product design. I’m not talking about the noise inside our business; I’m talking about the noise we create as a business. What we often call marketing is really just clutter and confusion sprayed all over our websites, emails, and commercials. And it’s costing us millions. Years ago, a StoryBrand client who attended one of our workshops pushed back. “I don’t think this will work for me,” he said. “My business is too diverse to reduce down to a series of sound bites.” I asked him to explain. “I have an industrial painting company with three different revenue streams. In one division we powder coat auto parts. In another we apply sealant to concrete, and in another we have a sterilized painting process used specifically in hospitals.” His business was diverse, but nothing so complex that it couldn’t be simplified so more people would hire him. I asked if I could put his website on the giant television screen so the entire workshop could see it. His website was thoughtful, but it didn’t make a great deal of sense from an outside perspective (which is how every customer views your business). The man had hired a fine arts painter to create a painting of his building (was he selling a building?), and at first glance it looked like the website for an Italian restaurant. The first question I had when I went to the website was, “Do you serve free breadsticks?” There were a thousand links ranging from contact information to FAQs to a timeline of the company’s history. There were even links to the nonprofits the business supported. It was as though he was using his website to answer a hundred questions, none of which his customers were asking. I asked the class to raise their hands if they thought my new friend’s business would grow if he wiped the website clean and simply featured an image of a guy in a white lab coat painting something next to text that read, “We Paint All Kinds of S#*%,” accompanied by a button in the middle of the page that said, “Get a Quote.” The entire class raised their hands in agreement that the new, simple message would increase customer engagement. Of course his business would grow with a more simple message. Why? Because he would have finally stopped forcing clients to burn calories thinking about his nonprofit work and his story and his job opportunities and instead offered the one thing that would solve his customers’ problems: a good painter. What we think we are saying to our customers and what our customers actually hear are two different things. And customers make buying decisions based not on what we say but on what they hear. STOP SAYING THAT
+>>>

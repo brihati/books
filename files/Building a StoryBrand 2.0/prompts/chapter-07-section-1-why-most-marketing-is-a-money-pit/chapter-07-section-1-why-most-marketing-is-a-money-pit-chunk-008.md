@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-008",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 48075,
+    "char_end": 55718,
+    "checksum": "090d84dff70466bc"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+urney of discovering whether the hero will get what they want. Unless we identify something our customer wants, they will never feel invited into the story we are creating. As we explore the first element of the StoryBrand framework, I’ll show you what customers really want from your brand and how to invite them into a story that makes them pay attention to your brand so they can get what they want. 2. Has a Problem STORYBRAND PRINCIPLE TWO: THE ONLY THINGS PEOPLE BUY ARE SOLUTIONS TO PROBLEMS, AND IF YOU HAVEN’T IDENTIFIED YOUR CUSTOMER’S PROBLEMS OR FAIL TO TALK ABOUT THEM CLEARLY, YOU AREN’T GOING TO SELL ANYTHING. In its purest form, a story starts with a character who lives in peace and
+
+stability. Suddenly that stability is disrupted: a bomb goes off, someone is kidnapped, or a disaster strikes. This sets up the start of the story, a predicament I call the hero in a hole. Once your hero is in a hole, the story begins, which, of course, is all about getting the hero out of the hole. The hero then sets out on a journey to return to the peaceful life they once enjoyed. Customers are attracted to our brands for the same reason heroes are pulled into stories: They want to solve a problem that has, in big or small ways, disrupted their peaceful life. In short, every one of our customers is a “hero in a hole” looking for a way out. Whether they are looking for the perfect Mother’s Day gift, relief from a headache, whiter teeth, a larger car to fit their growing family, or an investment that doubles as a tax break, your customers are in a hole and are looking for a way out. If we sell lawn- care products, our customers are coming to us because they’re embarrassed about their lawn or they simply don’t have time to do the work. If we sell financial advice, they’re coming to us because they’re worried about their retirement plan. It may not be as dramatic or sexy as James Bond going to Q to grab the latest high-tech spy weapon, but the premise is the same: our customers are in trouble and need our help. By talking about the problems our customers face, we deepen their interest in everything we offer. What most brands miss, however, is that there are three levels of problems a customer encounters. In stories, heroes encounter external, internal, and philosophical problems. Why? Because these are the same three levels of problems human beings face in their everyday lives. Almost all companies try to sell solutions to external problems, but as we unfold the StoryBrand framework, you’ll see why customers are much more motivated to resolve their inner frustrations. In the second element of the StoryBrand framework, we’ll look at the three levels of problems our customers experience and create messages offering to resolve those problems. Understanding and addressing the three levels of problems our customers face will help us create a brand promise that will connect with customers on a primitive level and at their deepest point of need. This, in turn, will help us endear customers and create passionate brand evangelists. 3. And Meets a Guide STORYBRAND PRINCIPLE THREE: CUSTOMERS AREN’T LOOKING FOR ANOTHER HERO; THEY’RE LOOKING FOR A GUIDE. If heroes in a story could solve their own problems, they would never get into trouble in the first place. That’s why storytellers, through the centuries, have created another character to help the hero win. Depending on the scholar you talk to, there are many names for this character, but the term we use at StoryBrand is the guide. In Tom Hooper’s Academy Award–winning film The King’s Speech, King George VI struggles to overcome a debilitating stutter. As Britain prepares for war against Germany, the Brits look to their leader for confidence and direction. Desperate, King George VI solicits the help of Lionel Logue, a dramatist turned speech therapist, who gives him a plan, coaches him to competency, and helps him transform into a powerful orator. This emotional and strategic support are the same service Obi-Wan (and Yoda) offers Luke Skywalker in Star Wars, Haymitch offers Katniss in The Hunger Games, Bing Bong offers Joy in Pixar’s Inside Out, and countless other guides offer countless other heroes in nearly all our favorite stories. It’s no accident that guides show up in almost every narrative you encounter. Nearly every human being is looking for a guide (or guides) to help them win the day. To position yourself as a hero is a mistake. Brands that position themselves as heroes unknowingly complicate their relationship with potential customers. Every human being wakes up each morning and sees the world through the lens of a protagonist. The world revolves around them, regardless of how altruistic, generous, and selfless a person they may be. Each day is, quite literally, about how we encounter our world. Potential customers feel the same way about themselves. They are the center of their world. When a brand comes along and positions itself as the hero, customers remain distant. They hear us talking about how great our business is and subconsciously believe we’re competing with them for scarce resources. Their subconscious thought pattern goes like this: Oh, this is another hero, like me. I wish I had more time to hear their story, but right now I’m busy looking for a guide to get me out of this hole. Many brands have wrecked their potential by playing the hero instead of the guide. Many politicians have lost their elections because they positioned themselves as the hero instead of the guide. Many products have flopped upon launch, not because the product was bad but because the product itself was not positioned as a tool the hero could use to get out of their hole. These are fatal mistakes and, sadly, they are made all the time. As we explore the third element of the StoryBrand framework, we’ll look at two mental triggers that will position you, your brand, and your products as the guide with the resources your customers have been looking for. 4. Who Gives Them a Plan STORYBRAND PRINCIPLE FOUR: CUSTOMERS TRUST A GUIDE WHO GIVES THEM A PLAN. At this point in our customers’ story we’ve identified what they want, defined three levels of problems they’re encountering, and positioned ourselves as their guide. And our customers love us for the effort. But they still aren’t going to make a purchase. Why? Because we haven’t laid out a simple plan of action they can take to get out of their hole. Making a purchase is a huge step, especially if our products or services are expensive or time-consuming to adopt. What customers are looking for, then, is a clear path we’ve laid out that takes away any confusion they might have about how the process of getting out of the hole is going to work. The StoryBrand element we will use to create this path is called the plan. In almost every story, the guide gives the hero a plan, usually in the form of a few steps they can take to get the job done. In the Star Wars movies, Yoda tells Luke to trust the Force and then trains him on how to wield this power. Lionel gives King George a series of exercises he can use to control his stutter in The King’s Speech. The point is that people are looking for a philosophy they can embody or a series of steps they can take to solve their problems. In the fourth element of the StoryBrand framework, we’ll look at two kinds of plans: the agreement plan and the process plan. Each of these plans will earn trust and offer our customers a clear path to stability, effectively creating a ladder they can use to get out of their hole, greatly increasing the chance they will make a purchase. 5. And Calls Them to Action
+>>>

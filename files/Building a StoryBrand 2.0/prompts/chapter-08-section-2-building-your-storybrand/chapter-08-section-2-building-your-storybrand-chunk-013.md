@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-013",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 82993,
+    "char_end": 90624,
+    "checksum": "6deae8a3c63c3fb5"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ow that you know what you are doing. Also, avoid rambling testimonials that heap endless praise on your brand. It won’t take long for a customer to trust you, so keep a testimonial brief. If it looks too long, they won’t read it. Most customers scan websites. The shorter the sound bites, the more they will engage and retain. 2. Statistics: How many satisfied customers have you helped? How much money have you helped them save? A simple statement like the email marketing platform Keap’s “125,000 users trust [our] award-winning automation software”6 is all your potential customer needs. Numeric evidence scratches the itch of the left-brained consumer who loves numbers, statistics, and facts. 3.
+
+Awards: If you’ve won a few awards for your work, feel free to include small logos or indications of those awards at the bottom of your page. These are hardly necessary, but if you’ve got them, flaunt them a little. Awards go a long way in earning your customer’s trust, even if they’ve never heard of the award. 4. Press Mentions: If you’ve been featured in the press, simply state “Featured by” and the logo of the press that has featured you. You can also list endorsements from either press or influencers as a way of creating social proof that demonstrates your competency. 5. Logos: If you provide a business-to-business product or service, place logos of known businesses you’ve worked with in your marketing collateral. Customers want to know you’ve helped other businesses overcome their same challenges. When your customer recognizes another business you’ve worked with, it provides social proof you have the ability to help them win the day. Take a minute to scan your marketing material and ask yourself whether you’ve provided evidence of competency. Remember, you don’t have to brag about yourself. Testimonials, logos, awards, press mentions, and statistics will allow customers to check the “trust” box in the back of their minds as it relates to your products or services. Your customers are asking themselves questions like, “Does this brand know what they’re doing? Is investing my time and money going to be worth it? Can they really help me solve my problem?” HOW TO MAKE A GREAT FIRST IMPRESSION When people meet your brand, it’s as though they are meeting a person. They’re wondering if the two of you will get along, whether you can help them live a better life, whether they want to associate their identity with your brand, and ultimately, whether they can trust you. Harvard Business professor Amy Cuddy has spent more than fifteen years studying how business leaders can make a positive first impression. Cuddy distilled her research into two questions people subconsciously ask when meeting someone new: “Can I trust this person?” and “Can I respect this person?” In her book Presence, Cuddy explains that human beings value trust so highly, it’s only after trust is established that a person begins to consider getting to know us further.7 When we express empathy, we help our customers answer Cuddy’s first question, “Can I trust this person?” Providing evidence of competency helps our customers answer the second question, “Can I respect this person?” The same two characteristics that help us make a great first impression with people at a cocktail party also work to help our brand make a great first impression with potential customers. Once we express empathy and demonstrate competence, we can position our brand as the guide our customer has been looking for. This will make a significant difference in the way they remember us, understand us, and ultimately become willing to engage with our products and services. That said, even though our customers like us and trust us, it doesn’t mean they’re going to place an order. There is still a yawning chasm between a customer’s trust and their decision to invest their hard-earned money in what we’re offering. What are they looking for next? We’ll talk about an important aspect in the buying journey in the next chapter. For now, though, brainstorm how you can position yourself as the guide in your customer’s life by expressing empathy and providing evidence of competency. CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Either alone or with a team, brainstorm empathetic statements you can make so your customers know you care about their internal problem. Brainstorm the many ways you can demonstrate competency by exploring potential testimonials, statistics that demonstrate competence, awards you’ve won, press mentions, or logos from other businesses you’ve helped. Once you finish your brainstorming session, make the two StoryBrand BrandScript decisions that will allow you to fill out section 3. OceanofPDF.com CHAPTER 7 WHO GIVES THEM A PLAN StoryBrand Principle Four: Customers trust a guide who gives them a plan in the form of baby steps. At this point in our customer’s journey, we’ve identified something they want, which got the story started. Then we proved we understood their deepest challenges and pain points, which further opened a story gap and drew them to our brand. Then we introduced ourselves as the guide by expressing empathy and providing evidence of competency, which helped establish trust. Yet even with all this, the customer isn’t likely to place an order. Some customers will go ahead at this point and place an order, but a percentage are wanting more. If we’ve positioned ourselves as the guide, our customers likely want to know more and are feeling hopeful that we can help them. But feeling hopeful about our ability to help them and jumping into a commitment by pulling out their pocketbooks are two different things. When a customer places an order, they’re essentially saying, “I believe you can help me solve my problem, and I believe it so much I’m willing to put skin in the game. I’m willing to part with my hard-earned dollars.” Commitments are tricky for our customers because as soon as they make a commitment, they run the risk of losing their money. But more than their money, their time and their identity as a person who makes smart buying decisions are also at risk. Most customers are not going to take that chance just yet. When a customer is deciding whether to buy something, we should picture them standing on the edge of a large, rushing creek. It’s true they want what’s on the other side of the creek, but as they stand there, they hear a waterfall downstream. What happens if they fall into the creek? What would life look like if they went over those falls? These are the kinds of subconscious questions our customers ponder as they hover their little arrow over the “Buy Now” button. What if it doesn’t work? What if I’m a fool for buying this? How long will it take to work? What if I buy it and never use it? Your customer is also asking another question: How do I get from where I am to the place where I’ve adopted this new product in my life? After all, your customer’s life, as unstable as it is, is familiar. And change is hard. So installing a new software or changing toothpaste or living with a new schedule or driving somewhere they’ve never been or changing banks or breakfast routines or vitamin supplements presents a kind of mystery about how life will be different, and that just seems like something they are going to want to deal with tomorrow. For years I wanted a new wearable fitness tracker called a Whoop, and I mean for years. My friends had all raved about it and I knew it would help me, but I had this subconscious cognitive dissonance about whether I had to
+>>>

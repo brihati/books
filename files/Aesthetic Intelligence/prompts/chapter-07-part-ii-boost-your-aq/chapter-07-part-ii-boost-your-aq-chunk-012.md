@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-012",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 73345,
+    "char_end": 81039,
+    "checksum": "217d3c3e7912d66f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+sk yourself why certain people come to mind as icons. What aspects of their image have most influenced your own style? How and why? In my case, a few iconic women come to mind. (Yes, I, too, choose to stick within my sex.) For her progressive, bold, feministic fashion, I most admire Coco Chanel. I love her propensity to break rules and her confidence to set new ones. For her intelligence, elegance, and restraint, I admire Cate Blanchett. For her queenly and mysterious air, Catherine Deneuve. And for her wit, charm, and eccentricity, Dorothy Parker. Of course, no one woman fully embodies all of my aspirations. But these women are at the top of my list, and their appeal to me remains timeless.
+
+As we’ve seen, clothing is not just about how it looks, nor is food simply about how it tastes. Both are essentials for human survival. They provide sustenance and protection from the elements. They also are sources of enormous delight. The third area that covers an essential need while serving as a source of delight is shelter. This trifecta is so elemental that it is considered the obligation of parents to provide it to their children (along with love, of course) until they are old enough to fend for themselves. Yet thanks to the relative prosperity and abundance of our times, most of us have moved well beyond Abraham Maslow’s hierarchy of physiological needs and look to these three things (alongside many others) as a means of pursuing self-actualization and happiness. In the next chapter, we’ll focus on the third, shelter, as part of our quest to achieve aesthetic intelligence. A well-designed space is the ultimate example of good curation. Learning how to elicit delight and desire through interior design builds on the same principles and techniques used to create aesthetic value for your brand and your business. Chapter 7 The Art of Curation Restoring Harmony and Balance Curation is one of those words people often use without knowing exactly what it means. I think of that word as it relates to the word cure, or restore. When we curate our business, not only do we eliminate what is not working (and what is distracting or detrimental) but we bring together what works in a pleasing and successful fashion. To curate or cure is not just to pare down or remove; it also means to assemble what remains in a pleasing manner. In the context of the business of aesthetics, curating restores harmony and beauty to a product, service, campaign, or store design. In this chapter, we explore the curation process by looking at how it affects the choices we give customers, how the experience of design in spaces has a real effect on the bottom line, and, finally, how to hone your curatorial skills through creating your own personal space—one that genuinely reflects your tastes and values—using a process that can be applied to your business as well. The Italian outerwear brand Moncler was founded in 1952 by René Ramillon, and its name comes from its place of origin, Monestier-de- Clermont, an Alpine town near Grenoble. Its initial products included quilted sleeping bags and tents. The company’s first down jacket or parka was introduced in 1954, and it was conceived as a way to protect factory workers from the cold. The French mountaineer Lionel Terray saw the potential and helped develop a specialized range on his expeditions. That same year, the jackets were used by an Italian team on their climb up K2. In 1968, Moncler was used by the French ski team in the Grenoble Winter Olympics. Though effective against the elements, the look of the initial parkas was like a shapeless sack. By the mid-1990s, the brand was financially struggling, overtaken by other more prominent outerwear lines such as Prada on the high end and North Face on the more moderately priced, sporty end. The company was sick and needed a cure. In 2003, the brand was bought by the Italian creative director and entrepreneur Remo Ruffini, who came from a long and distinguished line of Italian textile makers and businessmen. At the time, the company had only about $60 million in sales and was hemorrhaging money. Under Ruffini’s leadership and curation, the brand grew from a simple and boxy goose down jacket to what the French call la doudoune chic (the chic jacket) and Italians, il piumino di lusso (the luxury down jacket). In 2008, the private equity firm The Carlyle Group acquired 48 percent of the company, becoming the largest shareholder. As a managing director at Carlyle, I joined the company’s board of directors that year (and remained on the board through 2010), with the goal of helping the company expand into North America and other non-European markets. In 2013, the company went public on the Milan Stock Exchange. Carlyle sold its shares over a period of several years, yielding one of the best returns by that firm’s European fund. Today, Moncler employs more than a thousand workers and generates revenue close to $2 billion per year. It’s also the first ever outerwear brand to exert fashion authority. So how did Ruffini use aesthetics to curate or cure the company? He kept the high-quality workmanship and detailing. But he modernized the style of the products and incorporated more high-fashion and high-tech components. He also expanded the product line (e.g., boots, hats, sweaters), while never abandoning his core product, parkas. Unexpected collaborations with renowned designers such as Thom Browne, Junya Watanabe, and Giambattista Valli added vitality and a fashion-forward sense to the line. Buzz-worthy fashion shows staged in unexpected sites (e.g., models posing along scaffolding at Manhattan’s Chelsea Piers, a flash mob of models in Grand Central Station, ice skaters around Wollman Rink in Central Park) led to extraordinary editorial coverage of the collections and positioned the brand as one that was high quality as well as cutting edge. A rollout of retail stores (today there are more than two hundred around the world in prime locations) didn’t happen overnight—they are well-designed spaces customized to their location (ski resorts versus urban centers). 1 Several books have been devoted to the problem of “choice overload”— the idea that consumers are faced with too many choices, too many decisions, and too little time. In the book The Paradox of Choice, Barry Schwartz shows that too many choices are detrimental to our psychological and emotional well-being. It can also be detrimental to a business’s bottom line, as customers can and often do give up trying to choose; if they do manage to decide, they are often unhappy with their choice (and the brand). Likewise, Columbia Business School professor Sheena Iyengar has focused her research on how to help consumers make better choices. In many ways, her recommendations mirror the curation process, especially when it comes to choice overload. One of her studies looked at how people make retirement savings decisions and specifically how the number of fund offerings in retirement plans affected an individual’s likelihood to save more for the future. When a plan offered just two funds, participation was around 75 percent. In plans that offered fifty funds, the participation rate dropped to around 60 percent. The more choices available, the more likely people were to give up trying to decide on one and simply put all their money into money market accounts, Iyengar found. This is not a wise decision in terms of future financial security. 2 In the consumer world, Iyengar has found that choice overload reduces engagement, the quality of the decisions themselves (having to make more choices leads to worse decisions), and ultimate satisfaction with the choices made.
+>>>

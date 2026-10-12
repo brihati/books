@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-004",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 20190,
+    "char_end": 27847,
+    "checksum": "9300c116ac18b2fe"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+his bare hands, or how your road trip playlist is all 1980s alternative. This person doesn’t care. All he wanted was to get to San Francisco with a flower in his hair. The goal for our branding should be that every potential customer knows exactly where we will take them: to visit a luxury resort where they can get some rest, to become the leader everybody loves, or to save money and live better. One of my favorite clothing brands, Filson, makes high- quality clothes and gear for what I think of as the upscale outdoors. They’ve been in business for over a hundred years, and just wearing their shirts and pants makes me feel like I’ve stepped back in time to when things were just made better.
+
+When I think about a brand that makes me feel that way, however, I wonder how those thoughts got in my head in the first place. To be sure, their clothing looks and feels great, but there are many brands that compete on quality. Where did I get the idea that they were the best? It turns out they told me. It’s right there on the Filson tag, right next to the size of the shirt. “Might as well have the best” is printed on most of their items. Smart. Don’t assume your customers know what you are offering. Tell them. And tell them in plain, simple, and repeatable language. The only way word will get out about your brand is if you give people the exact words to use. If you randomly asked a potential customer where your brand wants to take them, would they be able to answer? Would they be able to repeat back to you exactly what your brand offers? If not, your brand is suffering the cost of confusion. You can fix this. Define a desire your customer base has and start talking about it. When you do, the story you are inviting customers into will have a new and powerful hook. CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a StoryBrand BrandScript or log in to your existing BrandScript. Either alone or with a team, brainstorm what potential desires your customers might have that you can fulfill. Make a decision. Choose something your customer wants and fill in the “character” module of your StoryBrand BrandScript. Read the next chapter and repeat this process for the next section of your BrandScript. Once you fill out the first module of your StoryBrand BrandScript, you’ll be on your way to inviting customers into an incredible story. At this point, they’re interested in you and what you offer. But what can we do to entice them even further into a story? Let’s move on to the next StoryBrand element and find out! You will be tempted to fill out the rest of your StoryBrand BrandScript now, but I encourage you to read the chapter associated with each StoryBrand element to be sure you’re filling it out correctly. Once you’ve completed your first BrandScript, section 3 of this book will help you create simple, effective marketing and messaging tools. OceanofPDF.com CHAPTER 5 HAS A PROBLEM StoryBrand Principle Two: Companies tend to sell solutions to external problems, but customers buy solutions to internal problems. Now that you’ve piqued your potential customers’ curiosity about your brand, how do you deepen their interest so that they are more likely to place an order? You borrow yet another play from the storyteller’s playbook; you start talking about the problems your customers are living with because they don’t have your product yet. Identifying our customers’ problems deepens their interest in the story we are inviting them into because when we identify their problem, we open the story gap even wider. In a story, the problem is the “hook,” and if we don’t identify our customers’ problems, the story we are inviting them into will fizzle fast. Until our hero has a problem, the story fails to gain traction, and as soon as the conflict in a story is resolved, audiences stop paying attention. The next time you watch a movie, pause the screen at any point and I promise you will be able to identify a problem the hero is dealing with. Even if you are watching a documentary, the same principle applies. Documentary filmmakers must identify a problem in each section because if they don’t, the documentary will fail. In fact, there’s a parlor trick I often play in my home when I’m making this point. Our carriage house doubles as a library and contains over a thousand books. When I talk about how every story is about problems being solved, I ask somebody to go to the shelf and pull out any book. When they do, I ask them to open the book to any page, then I ask them to set their finger down on any paragraph. Once this is done I let them know what that paragraph is about. It’s about conflict. It’s about a problem. It’s about a hero who is up against trouble and is fighting their way out. And you know what? I’ve never been wrong. Why is nearly every sentence in every novel about conflict? Because a good writer knows that conflict is how you get people’s attention. This is also why every politician wants their constituents to believe the country is going to hell in a hand basket. If it weren’t, why would anybody need them? The same is true of the news. When is the last time you turned on the news to discover everything was going great? No news program will ever admit things are okay, because if they did, you’d go outside and fly a kite with your kids and they’d be out of a job. Certainly there are constant problems happening in the world, but are they nearly as bad as the media would have us believe? Not at all. As the novelist James Scott Bell says, “Readers want to fret.”1 As careful as we must be to refrain from manipulating people with half- truths and exaggerations, those of us who build brands can learn a thing or two from professionals in the entertainment industry (and I’d include twenty-four-hour news outlets as producers of entertainment). Conflict gets people’s attention. If Jason Bourne were to receive a call thirty minutes into Bourne Identity and on the other end of the call a gentle voice explained who Jason really was, why he’d suffered amnesia, and that the government was sorry for the offense and offering a pension along with a house on the coast, the moviegoing audience would lose interest because the reason to pay attention would be gone. If there is no conflict in the story, there is no story gap, and without a story gap, there is no reason to pay attention. It bears repeating: the more we talk about the problems our customers experience, the more curiosity they will have about our brand. So how do we put this idea to work in our messaging? It’s simple. Figure out what problem your products solve. Are you a clothing boutique? Talk about how hard it is to find something to wear that goes with anything. Talk about how important it is to stand out in the office. Talk about how frustrating it is to find clothes that are well-made. When you talk about a problem, people become interested in finding a solution, which means you sell more of your products. Last year I spent time with a powerful government agency to help them clarify messaging on foreign policy. I can’t name the agency because of a nondisclosure agreement, but I can share the messaging points as they were always intended to be public facing from the beginning. In fact, it is hoped the talking points will be repeated by many, so I’m happy to do my part. As we spent the day together, filling whiteboards and keynote decks with talking point after talking point, I realized the nature of the threat against America, and I found the significant “problems” we were up against to be concerning, to say the least. The threat the agency wanted the public to
+>>>

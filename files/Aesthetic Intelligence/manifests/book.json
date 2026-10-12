@@ -1,0 +1,143 @@
+{
+  "book_id": "aesthetic-intelligence",
+  "title": "Aesthetic Intelligence",
+  "book_dir": "/Users/sachin/books/files/Aesthetic Intelligence",
+  "chapter_count": 15,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-cover",
+      "index": 1,
+      "title": "Cover",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/01 - Cover.txt",
+      "start_page": 2,
+      "end_page": 3,
+      "char_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-title-page",
+      "index": 2,
+      "title": "Title Page",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/02 - Title Page.txt",
+      "start_page": 4,
+      "end_page": 5,
+      "char_count": 1
+    },
+    {
+      "chapter_id": "chapter-03-dedication",
+      "index": 3,
+      "title": "Dedication",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/03 - Dedication.txt",
+      "start_page": 6,
+      "end_page": 6,
+      "char_count": 142
+    },
+    {
+      "chapter_id": "chapter-04-contents",
+      "index": 4,
+      "title": "Contents",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/04 - Contents.txt",
+      "start_page": 7,
+      "end_page": 8,
+      "char_count": 554
+    },
+    {
+      "chapter_id": "chapter-05-introduction-aesthetics-matter",
+      "index": 5,
+      "title": "Introduction: Aesthetics Matter",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/05 - Introduction Aesthetics Matter.txt",
+      "start_page": 9,
+      "end_page": 15,
+      "char_count": 15214
+    },
+    {
+      "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+      "index": 6,
+      "title": "Part I: Mastering the Other AI",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+      "start_page": 16,
+      "end_page": 84,
+      "char_count": 159816
+    },
+    {
+      "chapter_id": "chapter-07-part-ii-boost-your-aq",
+      "index": 7,
+      "title": "Part II: Boost Your AQ",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+      "start_page": 85,
+      "end_page": 156,
+      "char_count": 162437
+    },
+    {
+      "chapter_id": "chapter-08-part-iii-the-aesthetic-future",
+      "index": 8,
+      "title": "Part III: The Aesthetic Future",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/08 - Part III The Aesthetic Future.txt",
+      "start_page": 157,
+      "end_page": 166,
+      "char_count": 20426
+    },
+    {
+      "chapter_id": "chapter-09-conclusion",
+      "index": 9,
+      "title": "Conclusion",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/09 - Conclusion.txt",
+      "start_page": 167,
+      "end_page": 168,
+      "char_count": 3287
+    },
+    {
+      "chapter_id": "chapter-10-acknowledgments",
+      "index": 10,
+      "title": "Acknowledgments",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/10 - Acknowledgments.txt",
+      "start_page": 169,
+      "end_page": 171,
+      "char_count": 4148
+    },
+    {
+      "chapter_id": "chapter-11-notes",
+      "index": 11,
+      "title": "Notes",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/11 - Notes.txt",
+      "start_page": 172,
+      "end_page": 184,
+      "char_count": 40113
+    },
+    {
+      "chapter_id": "chapter-12-index",
+      "index": 12,
+      "title": "Index",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/12 - Index.txt",
+      "start_page": 185,
+      "end_page": 198,
+      "char_count": 16475
+    },
+    {
+      "chapter_id": "chapter-13-about-the-author",
+      "index": 13,
+      "title": "About the Author",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/13 - About the Author.txt",
+      "start_page": 199,
+      "end_page": 201,
+      "char_count": 2601
+    },
+    {
+      "chapter_id": "chapter-14-copyright",
+      "index": 14,
+      "title": "Copyright",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/14 - Copyright.txt",
+      "start_page": 202,
+      "end_page": 202,
+      "char_count": 1461
+    },
+    {
+      "chapter_id": "chapter-15-about-the-publisher",
+      "index": 15,
+      "title": "About the Publisher",
+      "path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/15 - About the Publisher.txt",
+      "start_page": 203,
+      "end_page": 203,
+      "char_count": 747
+    }
+  ]
+}

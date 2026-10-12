@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-017",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 108131,
+    "char_end": 115798,
+    "checksum": "ad7b08e35e4621d7"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ot). I didn’t have an unlimited budget, and I learned that you can derive the aesthetic value you want without spending a fortune. To begin the process, I used a tool of curating called a mood board. I pored through nesting magazines for ideas on color schemes, furniture, materials (countertops, flooring), and even appliances. I looked at paint chips and fabric swatches, hard and soft materials, gathering snippets of them to compile on a board. I was drawn to many different styles, which made the process initially overwhelming. So I decided to organize my preferences by moving beyond the question of “What do I like?” and categorizing images and three-dimensional ideas into “What do I want to
+
+feel within each room?” and “How do I want to live in this particular area?” This turned out to be helpful in the curation process; my taste was informed not only by the things I liked most but by how well they corresponded to the moods I sought. For example, in my bedroom, I wanted to evoke feelings of quiet and coziness. In the living room, I opted for bold colors and strong accent pieces because that’s a space where people would gather to converse and have fun. In the kitchen, I wanted clean lines, lots of light, and spacious seating—function and ease of maintenance being paramount. My effort to organize my preferences into clear and actionable criteria for purchases made the process enjoyable, and the results were beautiful. Prior to hiring Ortega to collaborate on my house, I had hired him to help rework my office. At the time, I was at LVMH. Notwithstanding my lofty title of “chairman,” I still wanted my office space to feel like me (eclectic, friendly), not like my corporate business card (formal, stiff). Many of the smaller items that I personally purchased for the office eventually found their way into my home office. Again, it was—and continues to be— important for me to harmonize the woman I am at work with the woman I am at home. When it came time to tackle the home renovation, Ortega taught me to approach it as if we were filming a movie. We asked the same questions that a producer might ask. For starters, we asked who was the main character or narrator in the room. I think this is a helpful technique for curation because it helps you avoid packing a room (or a business or a product) with too many leading ladies or men. “When you have too many narrator pieces in a room, it’s like a play where five lead actors are talking at once, vying for attention,” says Ortega. “Once you determine the lead player in a room— and there can only be one—all the other decisions can be made around it.” In my living room, the narrator is a stuffed peacock, which informed the color scheme and even the furnishings. “Whenever we had a dilemma, choosing between one rug or another, one fabric or another, we’d go back to the peacock and look at the colors, and the choice was easier,” notes Ortega. Smart curation depends on choice and prioritization. If every object and every feature in a room has the same level of intensity and visual significance, nothing stands out and people who visit the room may feel overwhelmed, confused, and ultimately unwelcome. It’s no different from what Iyengar’s research showed about making choices in a grocery store: too many or too few options, and consumers can’t be bothered. Good curation is choosing the right mix of the right things. In interior design this can be achieved through mixing the old with the new or the serious with the whimsical. As long as you create breathing room, this juxtaposition creates surprise but also helps establish comfort. Arranging old and new side by side lacks precision and formality—it’s what the Japanese call wabi-sabi. “Pauline brought a collection of antique Chinese mother of pearl inlaid benches, which she wanted to use in the house—not something I would have opted for,” says Ortega of these pieces, acquired at auction, that I absolutely love and that express something about my love of history, world travel, and craftsmanship. “We found a way to adapt them and ended up using them in the living room in a way that shows off their beauty without competing for attention with the room’s narrator. They are part of an Indochine thread that is woven subtly throughout the home.” As you curate a room or an entire home, be aware of your signature codes, which we discussed in chapter 3. Too many codes, and again, you run the risk of overwhelming a space. I chose a few in designing this new house: nature, birds, old versus new, and whimsy. The house project became, if you will, my aesthetic “gym.” It became an exercise in building my aesthetic strength, flexibility, and stamina. Now when I walk into a new space or look at a new product, my awareness is so much more attuned to the choices made by the designer—and the intentions behind those choices. I can articulate why something works or doesn’t work, even if it takes on a different aesthetic than my own. The principles of curation I used to design my house are the same principles I use when strategizing aesthetics in business. Even if you are a CFO who will never be a creative director, learning and practicing the curation process will equip you to identify and work with the best creatives. It will also help you articulate an aesthetic strategy when working with creatives who are tasked with articulating your vision. Aesthetic Exercise: Mood Board As I suggested earlier, a mood board is a useful tool to start the process of curation. It is an arrangement of images, materials, textures, text, and other visual cues that are intended to capture a style, concept, or feeling and set a creative direction for a particular project or idea. The power of a mood board is threefold: (1) it forces you to make choices and trade-offs— specifically, which elements are to be included on the board and, just as important, which ones are not; (2) it requires you to think about and experiment with the relative placement of the elements on the board—in other words, decide how the pieces come together to form a cohesive yet compelling story; and (3) it provides a platform for you to connect the visual and other elements with the feelings you are trying to evoke. The first step in curation is always to collect ideas and inspirations in the form of imagery, words, textures, and materials. This gives a genuine picture of what we like and how the components might play off one another to create a narrative or a message. The second step, editing, is oftentimes much more challenging: determining which inputs should remain and which ones should be omitted. The third step is about placement: Where does each input fit contextually and in relation to the other elements? The power of the mood board is not only in the images you choose in isolation but in how you put everything together. Don’t depend solely on stock pictures or images—use old photos, look for textures (a few links of a metal chain or a piece of sisal, swatches of paint, a small slab of stone, and so on). Don’t get tied into consistency; look for contrast and dimension. How do opposites work against each other? Once you start putting one thing next to another, you may realize that further editing is required. Some choices will be eliminated and many ideas revised and refined. What makes a mood board functional is thoughtful editing and meaningful juxtaposition that tells a good story, conveys a clear message, and elicits strong feelings. Mood Board Guidelines Here are the guidelines that I offered my Harvard students in constructing their individual mood boards: 1. Pick a central theme or objective, and make sure
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-005",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 27143,
+    "char_end": 34819,
+    "checksum": "a51453dcc9a159b3"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+(and partially creating) the genius storytelling factory that is Pixar. When Jobs came back to Apple after being surrounded by professional storytellers, he realized story was the foundation on which every memorable brand had been built. Just think about the incredible transformation that took place in Steve’s life after Pixar. In 1983, Apple launched a computer called Lisa, the last project Jobs worked on before he was let go. Jobs released Lisa with a nine- page ad in the New York Times spelling out the computer’s technical features. It was nine pages of geek talk nobody outside NASA was interested in. The computer bombed. When Jobs returned to the company after running Pixar, Apple became
+
+customer-centric, simple in their product offering, compelling, and clear in their communication. The first campaign Jobs released after returning from his time at Pixar, then, went from nine pages in the New York Times to just two words on billboards all over America: Think Different. When Apple began filtering their communication to make it simple and relevant, they actually stopped featuring computers in most of their advertising. After all, nobody at the time knew why they would need a computer. Instead, they understood their customers were all living, breathing protagonists in stories they felt were uninteresting. Jobs invited those heroes into a better story, one in which they could be different, productive, artistic, and recognized. The offer was clear: if you want to be different, choose Apple. The story they invited the public into involved (1) identifying what their customers wanted (to be seen and heard), (2) defining their customers’ challenge (that others didn’t recognize their hidden genius), and (3) offering their customers a tool they could use to express themselves (computers and smartphones). Each of these plot points is a pillar in ancient storytelling formulas and is critical for connecting with the public. I’ll teach you about these three pillars and more in the coming chapters, but for now realize the time Apple spent clarifying the role they play in their customers’ story is one of the primary factors responsible for their growth. Notice, though, the story of Apple isn’t about Apple; it’s about you. You’re the hero in the story, and they play a role more like Q in the James Bond franchise: they are the guy you go see when you need a tool to help you win the day. Despite what acolytes of the cult of Mac may say, whether Apple has the best technology is debatable. “Best” is subjective, of course. But it doesn’t matter. People don’t buy the best products; they buy the products they can understand and apply to their lives the fastest. Apple has inserted themselves into their customers’ story like no other technology company, and as a result, they’re not only the largest technology company but one of the top ten largest companies period.1 If we want our own businesses to grow, we should borrow a page from their playbook. We should clarify our message. STORY CAN GROW YOUR BUSINESS To better understand what Steve Jobs learned during his years at Pixar, let’s take off our business hats for a few pages and pretend we’re learning about story for the first time. Once you understand how story integrates with your brand message, you’ll be able to create messaging material (and even a brand strategy) that engages more customers and grows your business. And once you really understand and can apply the framework intuitively, people around the office will wonder how in the world you became such a messaging and marketing genius. After studying hundreds of movies, novels, plays, and musicals across nearly every imaginable genre, and after having written twelve books of my own along with cowriting a nationally released major motion picture based on one of my books, I’ve narrowed down the necessary elements of a compelling story to seven basic plot points. If we were writing a full screenplay, of course, we’d need more than this, but for the purposes of understanding and entering into our customers’ story, there are only seven critical plot points we need to understand. Story in a Nutshell Here is nearly every story you watch, read, or hear in a nutshell: A character who wants something encounters a problem before they can get it. At the peak of their despair, a guide steps into their lives, gives them a plan, and calls them to action. That action helps them avoid failure and experience a success. That’s really it. You’ll see some form of this structure in every movie you watch, every novel you read, and every story you hear from this moment forward. By understanding the formula I just told you, you can essentially predict what is going to happen in almost every story you encounter. These seven basic plot points are powerful because they work to hold a human being’s attention. That’s why that formula has been used in countless stories for thousands of years. However, this formula is not stale or tiresome. In fact, these plot points are like chords of music in the sense that you can use them to create an infinite variety of narrative expression. Just like playing the guitar, with these seven chords you can create an infinite number of creative and engaging songs. Varying too far from set chords, however, means a composer risks descending into incomprehensible noise. Music, is, after all, noise submitted to rules. If a songwriter breaks the rules, the audience fails to engage. This idea is just as true for stories as it is for music. If a storyteller fails to identify what the hero wants, or does not include enough conflict, or fails to identify the stakes at play, then they are breaking the “rules of story” and the consequences are dire: the audience stops paying attention and the movie fails at the box office (or more likely never gets approved for production). What does any of this have to do with growing your business? Everything. The same rules that get and keep a movie audience’s attention can also get and keep a customer’s attention. And attention is what you need more than anything else. But we will talk more about how to apply story to your business later. For now, let’s look at how this simple story framework plays out in a couple of familiar stories. Once you can recognize the framework in stories, you’ll start to understand exactly where the story of your brand is confusing customers and costing you influence. In the first Hunger Games movie, Katniss Everdeen must compete in a twisted fight-to-the-death tournament forced on the people of Panem by an evil, tyrannical government called the Capitol. The problem she faces is obvious: she must kill or be killed (stakes). Katniss is overwhelmed, underprepared, and outnumbered (a hero in a hole). Along comes Haymitch, the brash, liquor-loving, grizzled winner of a previous Hunger Games tournament (the Guide). Haymitch assumes the role of Katniss’s mentor, helping her hatch a plan to win over the public (a plan). The plan is to get Katniss more sponsors, thereby equipping her with more resources for the fight and increasing her chances of winning. Here is the first Hunger Games story laid out on the StoryBrand grid: In Star Wars: A New Hope, our reluctant hero, Luke Skywalker, experiences a devastating tragedy: His aunt and uncle are murdered at the hands of the evil Empire (a hero in a hole). This sets a series of events in motion: Luke begins the journey of becoming a Jedi Knight (enter a guide, Obi-Wan Kenobi, a former Jedi Knight who once trained Luke’s father) and destroys the Empire’s battle station, the Death Star, which allows the Rebellion to live and fight another day (the plan).
+>>>

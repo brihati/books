@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+  "chunk_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit-chunk-004",
+  "source": {
+    "chapter_title": "Section 1: Why Most Marketing Is A Money Pit",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/07 - Section 1 Why Most Marketing Is A Money Pit.txt",
+    "source_pages": "17-54",
+    "char_start": 20177,
+    "char_end": 27843,
+    "checksum": "db6c577aeb2b4741"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+companied by a button in the middle of the page that said, “Get a Quote.” The entire class raised their hands in agreement that the new, simple message would increase customer engagement. Of course his business would grow with a more simple message. Why? Because he would have finally stopped forcing clients to burn calories thinking about his nonprofit work and his story and his job opportunities and instead offered the one thing that would solve his customers’ problems: a good painter. What we think we are saying to our customers and what our customers actually hear are two different things. And customers make buying decisions based not on what we say but on what they hear. STOP SAYING THAT
+
+All experienced writers know the key to great writing isn’t in what they say; it’s in what they don’t say. For professional writers there is a general rule: the more we cut out, the better the screenplay or book. Great communicators know the power of keeping it simple—that is, if they want people to pay attention and remember anything they say. But clarifying our message isn’t easy. The mathematician and philosopher Blaise Pascal is often credited with sending a long letter stating he simply didn’t have time to send a short one. If we want to connect with customers, we have to stop blasting them with noise. The beautiful thing about clarifying your message using the SB7 framework is it makes communicating easy. No longer will you sit in front of a blank page wondering what to say on your website, in your elevator pitch, in your email blast, in your Facebook ads, or even in your radio or television commercials. CLARIFY YOUR MESSAGE Whether we run a small company or a multibillion-dollar brand, confusing our customers is costing us money. How many of our team members can’t explain how we help our customers survive and thrive? How many people are buying from our competition because our competitors have communicated more clearly than we have? How long will we last if we keep talking about aspects of our products our customers don’t care about? Things can be different. To clarify our message we’re going to need a serious formula. This formula needs to organize our thinking, reduce our marketing effort, obliterate confusion, terrify the competition, and then get our businesses growing again. Let’s learn about that formula now. OceanofPDF.com CHAPTER 2 THE SECRET WEAPON THAT WILL GROW YOUR BUSINESS To help you grow your company, I’m going to guide you in simplifying your message into sound bites that come from seven categories. Once you have these seven messages down, any anxiety you experience while talking about your brand will subside, and customers will be more attracted to what you offer. These sound bites will help you better understand your customers’ story and place yourself and your products right smack in the middle of it. Story, after all, is atomic. Stories have always moved through people to motivate and inspire their actions. Story is the energy that has fueled every human movement and is the one thing that can hold a person’s attention for hours as entertainment and for years when it informs a life purpose. Nobody can look away from a good story. In fact, neuroscientists claim the average human being spends more than 30 percent of their time daydreaming—unless they’re reading, listening to, or watching a story unfold. Why? Because when we are engaged in a story, the story does the daydreaming for us. Story is the greatest weapon you have to combat noise because it organizes information in such a way that people are compelled to listen. If you want to bring attention to your brand, you must understand how story works and how to invite customers into a narrative that is compelling. STORY MAKES MUSIC OUT OF NOISE Living in Nashville, I’ve learned quite a bit about the difference between music and noise. Nearly half the friends my wife and I share are musicians. The talent around here is immense. Hardly a dinner party goes by without somebody picking up a guitar. I could summarize what I’ve learned about the difference between music and noise by saying my friends make music and I make noise, but there’s actually some compelling science involved. Technically speaking, music and noise are similar. Both are created by traveling sound waves that rattle our eardrums. Music, however, is noise that submits to certain rules that allow the brain to engage on a different level. If I played you a recording of a dump truck backing up, birds chirping, and children laughing, you’d not remember those sounds the next day. But if I played you a Beatles song, you’d likely hum it to yourself for a week. There is an obvious difference between a well-choreographed piece of music and the sound of a cat chasing a rat through a wind chime factory, which is the equivalent of the average small business website, leader’s keynote speech, or sales rep’s elevator pitch. The brain remembers music and forgets about noise just like the brain remembers some brands and forgets about others. Story is similar to music. A good story takes a series of random events and truths and distills them into the essence of what really matters. There’s a reason the final cut of a movie is called a final cut. Prior to the theatrical release, a film has gone through rounds upon rounds of edits, dialogue omissions, revisions, and scene deletions. Sometimes entire characters end up on the cutting-room floor. Why? Because storytellers utilize frameworks and filters to cut out the noise. If a character or scene doesn’t serve the plot, it has to go. When clients want to add a bunch of confusion to their marketing message, I ask them to consider the ramifications of doing so if they were writing a screenplay. I mean, what if The Bourne Identity were a movie about a spy named Jason Bourne searching for his true identity, but it also included scenes of Bourne trying to lose weight, marry a girl, pass the bar exam, win on Jeopardy, and adopt a cat? The audience would likely lose interest. When storytellers bombard people with random information, the audience is forced to burn too many calories to make sense of the drama. As a result, they daydream and walk out of the theater, or in the case of our marketing message, leave us for a competing brand where they place their order. Why do so many brands create noise rather than music? It’s because they don’t realize they are creating noise. They actually think people are interested in the random information they’re doling out. This is why we need a filter. The essence of branding is to create simple, relevant messages we can repeat over and over so that we “brand” ourselves into the public consciousness. STEVE JOBS AND THE MESSAGE OF APPLE Apple began to grow into the company they are today only after Steve Jobs began filtering his message through the frameworks that storytellers use to build compelling narratives. His thinking transformed after working with (and partially creating) the genius storytelling factory that is Pixar. When Jobs came back to Apple after being surrounded by professional storytellers, he realized story was the foundation on which every memorable brand had been built. Just think about the incredible transformation that took place in Steve’s life after Pixar. In 1983, Apple launched a computer called Lisa, the last project Jobs worked on before he was let go. Jobs released Lisa with a nine- page ad in the New York Times spelling out the computer’s technical features. It was nine pages of geek talk nobody outside NASA was interested in. The computer bombed. When Jobs returned to the company after running Pixar, Apple became
+>>>

@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-027",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 173564,
+    "char_end": 181241,
+    "checksum": "16896f574e1bda0f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ieve. What will their lives look like if they use your products and services? Use the bullet points in the success module of your BrandScript to capture your best answers. OceanofPDF.com CHAPTER 11 PEOPLE WANT YOUR BRAND TO PARTICIPATE IN THEIR TRANSFORMATION Even though you’ve filled out the principal elements of your StoryBrand BrandScript, you’ve likely noticed there’s one element left. This final element will serve as an overall character arc for your customer’s journey. In fact, as we’ve discussed what your hero wants, what their challenges are, and what positive resolution your brand can provide, we’ve only danced around the greatest motivation your customer has to place an order. This
+
+single motivating factor is the secret driving force behind nearly every decision we make as human beings. Whether we’re buying lawn furniture or choosing a mate, we can’t escape a certain deep desire. I’m talking about the human desire to transform. Everybody wants to change. Everybody wants to be somebody different, somebody better, or, perhaps, somebody who simply becomes more self-accepting. This desire for transformation is by design. Humans start as tiny babies, learning color and smell and sound and attachment. As we grow, we begin playing games in which we are animals or warriors or princesses or wizards. From the beginning, we long to grow and change and adapt and develop. This desire, by the way, never stops, all the way to our final days. And while we can’t become wizards, we do want to become better and better versions of ourselves. Brands who offer to participate in this universal and deep-rooted desire and who are successful in delivering an aspirational identity often create brand evangelists. Ever wonder how Taylor Swift created such raving fans? Her music is only part of the story. Mostly, young women identified with her strength, her ease, her willingness to share, her generosity, and, well, her identity. In short, she stands as a person many young women would like to become, and that isn’t a bad thing. The same could be said for many of our sports heroes, our favorite actors and comics, and even many world leaders. Our subconscious minds are always looking for examples of who we want to be, and when we find one of those examples, our primitive brains, in small ways, have trouble differentiating themselves from ourselves. Why else do people get so defensive when you diminish their heroes? In their minds, you aren’t just diminishing a public figure; you’re diminishing the part of them that has attached their identity to that public figure. You’re not just insulting Taylor Swift; you’re insulting millions of people who want to be (and perhaps are) like Taylor Swift. If you don’t believe me, just open your favorite social media app and comment about how you aren’t sure Taylor made the right choice in shoes today. You will quickly be hung in the town square and your body will be dragged through the streets by teens leading teams of rhinestone-clad show horses. Changing the subject in the name of personal safety, when you look closely at your StoryBrand BrandScript, you’ll see the character arc already taking shape. Your brand really is helping people become better versions of themselves, which is a beautiful thing. You are helping your customers become wiser, more equipped, more physically fit, more accepted, and more at peace. Like it or not (and we hope you like it), we are all participating in our customers’ transformation, which is exactly what they want us to do. Again, brands that participate in the transformation of their customers’ identity create passionate brand evangelists. Want critics to be hung in the town square and dragged through the street by teams of My Little Ponies when people disparage your brand? Keep reading. THE DESIRE TO TRANSFORM RUNS DEEP At the beginning of a story, the hero is usually flawed, filled with self- doubt, and ill-equipped for the task set before them. Faced with unbounded conflict, they meet a mysterious but competent guide who aids them on their journey. The conflict then begins to strengthen the character. Forced into action, the hero develops skills and accrues the experience needed to defeat their foe. Though the hero is still filled with doubt, they summon the courage to engage the fight and, in the climactic scene, defeat the villain, proving once and for all that they have changed and that they are now competent to face challenges as better versions of themselves, revealing that all along the story was about character transformation. This same character arc, by the way, appears in The Old Man and the Sea, Pride and Prejudice, Pinocchio, Hamlet, Sleeping Beauty, Swan Lake, Tommy Boy, and thousands of other popular stories. Why? Because it’s our story. Feelings of self-doubt are universal, as is the desire to become somebody competent and courageous. And all of this matters when it comes to the messages we create to brand our products and services. As it relates to creating identify-transformation sound bites, a few important questions can prompt effective answers: Who does our customer want to become? What kind of person do they need to be to resolve their conflict? What characteristics would effectively describe our customer’s aspirational identity? SMART BRANDS DEFINE AN ASPIRATIONAL IDENTITY Recently I ran down to Home Depot to get a stud finder so I could install shelving in the garage. Next to the stud finders in the tool section was a selection of Gerber knives. Gerber is a knife company out of Portland, Oregon, that makes a range of multipurpose pocketknives. Their commercial campaign, however, offers the buyer a lot more than a knife. They sell something intangible. They sell an identity, and by that I mean they sell an association with a kind of person you and I can become. I’d been noticing Gerber commercials for a long time, and even though I knew exactly what they were doing to my subconscious, I wanted one anyway. But why? I thought to myself as I stood there staring at the knives. I’m a writer. The only thing I need a knife for is to make a peanut butter and jelly sandwich. Still, the pull was palpable. What if I had to swim under a boat to cut away a tangled rope from the propeller? Or slice a pant leg off my bloody jeans to make a tourniquet for my injured arm? What if Taylor Swift fans stuffed me into a burlap sack and threw me off a pier? Couldn’t I use the knife to cut my way out? Thankfully, my executive brain overpowered my primitive brain, and I walked away with just the stud finder. But why was it so hard? Why did I want the knife so badly? And why did I change my mind and go back to buy the knife anyway? Certainly they make great knives, but there are many other companies making great knives and I’d never really cared or noticed. The reason I wanted the knife is simple. Gerber defined an aspirational identity for their customers and then associated their product with that identity. The aspirational identity of a Gerber knife customer is tough, adventurous, fearless, action-oriented, and competent to do a hard job. Epitomized in their advertising campaign Hello Trouble, a Gerber customer is positioned as the kind of person who sails boats into storms, rides bulls, rescues people from floods, and yes, cuts tangled ropes from boat propellers. In their television commercials they present images of these aspirational, heroic figures cast over anthemic music and a narrator reciting the lines: Hello, Trouble. It’s been a while since we last met. But I know you’re still out there. And I have a feeling you’re looking for me. You wish I’d forget you, don’t you, Trouble?
+>>>

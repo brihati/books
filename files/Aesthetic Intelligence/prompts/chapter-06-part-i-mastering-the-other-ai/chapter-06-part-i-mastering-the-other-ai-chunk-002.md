@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-002",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 6296,
+    "char_end": 13977,
+    "checksum": "0b478fdee980c436"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+rketplace and, over time, modify or tweak their individual forms of expression. After all, even classics have to be modernized to remain relevant. For example, Louis Vuitton—a brand that came of age during the first wave of global travel, the Steamship Era—might have died after World War II with the steamship. Yet, the brand is more valuable, influential, and relevant today than ever before. How has it managed to remain so? By striking the right balance between legacy and renewal. In these fast-moving times, the value of tradition and heritage is all the more important. However, brands ought not be preserved and presented like artwork in a museum. They still need to be useful and meaningful.
+
+Marketers should take time to understand what aspects of a brand’s legacy are still relevant and what aspects are simply of historic interest. Vuitton, a French luggage maker in the mid-1800s, introduced a trunk that was flat-bottomed (stackable), made of canvas (relatively lightweight), and airtight (protective from water damage)—a useful and meaningful innovation for travelers in the Steamship Era. Flash forward to the twenty-first century; the notion of toting a large, rigid piece of luggage is not remotely appropriate for modern-day travel. However, the allure of global travel has never been more exciting. Louis Vuitton has remained relevant as a brand, in large part, through its strong, modern, and consistent references to global travel, as captured by the images in its advertising campaigns, the motifs in its stores, and even the curation of its glamorous pop-up exhibit “Volez, Voguez, Voyagez,” 2 which “retraces the adventure of [the brand] from 1854 to the present.” Its products, however, are all lightweight, compact, and optimally sized for aircraft overhead bins. Other leading companies—such as Apple, the Walt Disney Company, Adidas, and Starbucks—all honor their heritage and “brand codes,” while continuing to refine their distinct aesthetic qualities and enhance their desirability. None of the best remains stagnant. These companies have products similar to their competitors’: Apple’s smartphones have comparable computing power to Samsung’s; Airbnb, Marriott, and Craigslist offer competing accommodation services to travelers. Aesthetics is the differential. It is the reason some customers are willing to stand in line to pay $1,000-plus for the iPhone X or pay a $1,000 deposit to get onto the waiting list to buy a Tesla. Aesthetics explains why Airbnb is, by far, the number one vacation rental marketplace, beating both the world’s largest hotel group and an incumbent internet company with a twenty-year head start in the marketplace. The aesthetics of the booking experience is intuitive and pleasing: the look of the website is clean, elegant, and, in terms of function, intuitive. You’re never more than three clicks away from a booking. Even more important than its user-friendliness, the site is designed to help people and encourage them to dream. One final point about the process of cultivating and harnessing aesthetic intelligence is a notion that I call aesthetic empathy: whereas AI begins with the development of one’s own aesthetic sensibility, it also requires a deep understanding of and respect for other people’s sensibilities insofar as they may differ from our own yet better reflect the marketplace. That there are different kinds of good taste doesn’t mean that bad taste doesn’t exist—it certainly does. Knowing the difference between good taste and bad, while also being sensitive to the good taste of others (i.e., aesthetic empathy) is a valuable means of envisioning and predicting who will (and will not) respond to your own product’s or service’s aesthetic expressions and how. When you understand how aesthetics can benefit your business—and how it can be effectively and credibly applied—your prospects for survival and longevity dramatically increase. Consider one of the most iconic champagne brands in the world, Veuve Clicquot, as a prime example. Madame Barbe-Nicole Ponsardin Clicquot, a French businesswoman in the early nineteenth century, became known as the “Grand Dame of Champagne” for her innovation in the aesthetic expression of champagne. In 1798, she married François Clicquot, son of the founder of Maison Clicquot. François shared his passion for and knowledge of champagne with his wife, so when she was widowed at twenty-seven in 1805, she was able to take the reins of the business. Under her leadership, the business continued to thrive. Not only did Madame Clicquot save the family business, she improved it by developing a novel production technique, called riddling, which drastically improved the taste and visual appeal of champagne. She developed the technique to counter the unappetizing look of sediment that accumulated in the bottom of the bottles. The technique is still used by winemakers today. Madame Clicquot also innovated the first blend of rosé champagne—the seductive pink bubbly popular at weddings and other special occasions throughout the world. The egg yolk–yellow label, a signature of Clicquot since 1772, remains a powerful visual marker of the brand’s heritage and personality. Madame Clicquot used her aesthetic intelligence to improve an existing product, create something special, and make it timeless. The power of a strong aesthetic strategy helped her company become one of the leading champagne brands in the world. But Madame Clicquot wasn’t born with a knowledge of the wine business, and she didn’t go to a university to study design. Instead she observed and watched at her husband’s side and learned to trust her own instincts about what was good about the product and what could be better. That’s where this book begins—with the idea that AI can be learned. The art historian Maxwell L. Anderson contends what Madame Clicquot proved, that developing AI doesn’t require formal training or growing up in a refined environment, although that certainly might help to lay the groundwork. “Judging quality,” according to Dr. Anderson, “is a skill anyone can develop.” 3 People who are passionate about cooking probably have a refined instinct for quality culinary wares. A cyclist brings the same rigor to his or her judgment of bikes; the painter to specific brands of oils and acrylics. According to Anderson, they should be able to transfer those skills to develop a discernment for art and design. The cook’s beloved Le Creuset kitchenware conforms to the same principles of superior craftsmanship as other fine objects. Learn to recognize and use this ability to distinguish between what makes an object or experience pleasurable or not in other areas. It is a first step in cultivating AI. Practice leads to polish. Once you recognize quality, resist the urge to copy others, as doing so seldom produces anything of lasting value. Authenticity and originality are crucial to long-term aesthetic consequence, especially in business. Though fast-fashion brands may churn out patterns, styles, and silhouettes similar to those of coveted high-end designer wares, the value of those replicas diminishes with each wear. Just as with a brand-new car, there is little resale value in a knock-off. On the other hand, Hermès Birkin bags often sell at auction for far more than their original retail price. 4 I was a few years out of the Wharton School when I was appointed the head of strategy at the Estée Lauder Companies. I had joined Lauder directly from the consulting firm Bain & Company, so naturally I took along my “Bain toolbox” to my new corporate role. At Bain, I had been trained to understand business analytically and build cases based on
+>>>

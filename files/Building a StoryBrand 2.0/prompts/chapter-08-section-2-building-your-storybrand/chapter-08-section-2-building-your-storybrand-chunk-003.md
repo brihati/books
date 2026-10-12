@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-003",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 13243,
+    "char_end": 20889,
+    "checksum": "0ab28691c9dcda4a"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+to count, but consider these examples: Conserving financial resources. In order to survive and thrive, your customers may need to conserve resources. In simple terms, this means they may need to save money. If your brand can help them save money, you’ve tapped into a survival mechanism. Walmart has built their brand on the promise of everyday low prices. Their tagline “Save Money. Live Better” further communicates savings and value and thus taps into a basic function of survival, the conservation of resources. Does it work? Even with terrifyingly low profit margins, Walmart remains one of the largest companies in the world. Conserving time. In developed countries, most of our customers have
+
+thankfully moved beyond the hunter-gatherer stage of survival. They are familiar, then, with the notion of opportunity costs. Can your housecleaning service give your customers more time to work on other things or more time to spend with family? Then they might be interested. Michael Hyatt’s Full Focus Planner, one of the most successful day planning systems of all time, has earned the respect of millions by offering users the invaluable gift of time. Building social networks. If our brand can help people find community, we’ve tapped into yet another survival mechanism. We think we’re only being nice when we bring our coworkers coffee, but what if we’re actually being nice because our primitive brains want to make connections in an effort to build a tribe in case the bad guys come knocking at the door? Add this to the fact human beings have a strong desire to nurture and be nurtured, and we’ve tapped into yet another survival mechanism. The Coach Builder Community has flourished by offering coaches the chance to build community with each other, sharing best practices and encouragement. So has every church, every sports league, every Alcoholics Anonymous chapter, every Girl Scout troop, and countless other examples of organizations and institutions that lead with the offer of community. Gaining status. Luxury brands like Mercedes and Rolex don’t make much practical sense in terms of survival, right? In fact, spending lots of money buying a luxury car when a more common brand would do the trick seems counter to our survival, doesn’t it? Not when you consider the importance of status. Gaining status, in any tribe, is a survival strategy. Status projects a sense of abundance that may attract powerful allies, repel potential foes (just as a lion by using a loud roar), and, if we’re into shallow companions, even help us secure a mate. Rolex, Mercedes, Louis Vuitton, and other luxury brands are truly selling more than just cars and watches; they’re selling an identity associated with power, prestige, refinement, and, yes, survival. Accumulating resources. If the products and services you offer help people make money or accumulate much-needed resources, that will quickly translate into a person’s desire for survival. With more money, our customers will have more opportunity to secure many of the other survival resources they may need. Many StoryBrand clients run business-to-business offerings (StoryBrand itself is a business-to-business company), so offering increased productivity, increased revenue, or decreased waste are powerful associations with the need for a business (or an individual) to survive and thrive. Every financial adviser on the planet sells the accumulation of resources (that is, if they are smart). Showing generosity. None of the desires I’ve listed are evil. They can all be taken too far, but the reality is we are designed to survive. Still, we should be comforted by the fact that nearly all human beings have an enormous potential for generosity. Achieving an aspirational identity of being sacrificial actually helps us survive (fends off foes, decreases outside criticism, helps earn trust in our tribe, and so on), but it also taps into something truly redemptive: we want other people to survive too. Most people are not nearly as Darwinian in their thinking as we’ve been led to believe. We are empathetic and caring creatures who will gladly sacrifice for the well-being of others, often in anonymity. The truth is we aren’t only interested in our own survival; we’re interested in the survival of others. Especially those who have not been given the opportunities we enjoy. Another consideration, especially for those in the nonprofit space, is that by being generous, our donors are actually increasing their own chance of survival. Why does the NFL constantly associate with soft and tender charitable efforts? Because, while certainly being a generous brand, they are smart: they’re softening the image of a violent sport, thus executing on a strategy that helps the brand itself survive. Desiring meaning. Viktor Frankl was right when he contended with Sigmund Freud, insinuating that the chief desire of man is not pleasure but meaning. In fact, in his book Man’s Search for Meaning, Frankl argued convincingly that man was actually most tempted to distract himself with pleasure when his life was void of meaning.1 So how do we offer potential customers a sense of meaning? Not unlike giving our customers the opportunity to be generous, we invite them to participate in something greater than themselves. A movement. A cause to champion. A valiant fight against a real villain, be that villain flesh and blood or a harmful philosophy. The clothing brand Patagonia has made a name for itself through its altruistic business model, turning down millions in profit in their commitment to sustainable corporate practices. Their effort is a grand example of meaning over money, which (rightly so) has rewarded them in financial strength through a devoted customer base who also wants their clothes to be something more than just warm and fashionable. WHAT’S THE STORY QUESTION YOU ARE POSING TO YOUR CUSTOMER? When I offered my executive coach friend the tagline “Helping You Become Everyone’s Favorite Leader,” his customers’ brains were able to translate that message into multiple survival categories, including a social network, status, the innate desire to be generous, the opportunity to gain resources, and even the desire for deeper meaning. In business, if we don’t communicate clearly, we shrink. When we’re motivating a team, convincing shareholders to stay engaged, or selling to customers, we must define a desire our customers have or we will fail to open a story gap and the audience we desire will ignore us. Remember, customers want to envision the great place you are going to take them. Unless you identify something they want, it’s doubtful they will follow you. Imagine your customer is a hitchhiker. You pull over to give him a ride, and the one burning question on his mind is simply this: Where are you going? But as he approaches, you roll down the window and start talking about your mission statement, or how your grandfather built this car with his bare hands, or how your road trip playlist is all 1980s alternative. This person doesn’t care. All he wanted was to get to San Francisco with a flower in his hair. The goal for our branding should be that every potential customer knows exactly where we will take them: to visit a luxury resort where they can get some rest, to become the leader everybody loves, or to save money and live better. One of my favorite clothing brands, Filson, makes high- quality clothes and gear for what I think of as the upscale outdoors. They’ve been in business for over a hundred years, and just wearing their shirts and pants makes me feel like I’ve stepped back in time to when things were just made better.
+>>>

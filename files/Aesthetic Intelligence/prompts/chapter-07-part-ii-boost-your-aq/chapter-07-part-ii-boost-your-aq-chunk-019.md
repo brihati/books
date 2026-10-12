@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-019",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 122076,
+    "char_end": 129726,
+    "checksum": "517640e0db8da734"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+s of being, even if they are unattainable. There are many more untranslatable words on Lomas’s site, some even more existential than the ones I offer here. All describe precise conditions that can help us access feelings we want to articulate and relate to the things we create. For each word (or sentence) that you use, answer each of the following questions to determine if it is the right choice. 1. DOES IT DESCRIBE YOUR PRODUCT IN SUCH A WAY THAT SOMEONE ELSE WOULD ENVISION THE EXACT SAME IMAGE YOU DO? Is it accurate? For example, Burberry’s signature fabric is not referred to as “plaid”; the tan, black, and red tartan is known as “Haymarket check.” KFC doesn’t describe its fried chicken as
+
+“delicious” but as “finger lickin’ good.” Moreover, the original KFC represents not southern fried chicken but Kentucky fried chicken. Why is that important? Because the founder, Harland Sanders, wanted to differentiate his restaurant from all the competitors in the South. At the time, a product from Kentucky was exotic and evoked a very specific down-home style of southern hospitality. 2. ARE THE WORDS “OWNABLE”? In other words, are they immediately and uniquely identifiable with your product? For example, when you hear the expression “The Happiest Place on Earth,” you think of Disneyland. When you see the tagline “Just do it,” you think of Nike. The same goes for Maxwell House coffee’s “Good to the last drop.” Even more powerful than “owning” an expression is the ability to own a word. IBM historically owed the word THINK. Today, Google “owns” the word search. Careful word selection can spur the desirability (and sales) of individual products, too. For example, McDonald’s doesn’t just sell conventional hamburgers and breakfast sandwiches; it sells Big Macs and Egg McMuffins. Likewise, Ben & Jerry’s flavors are not generic descriptions such as chocolate, vanilla, and strawberry but “ownable” flavors such as Cherry Garcia, Chunky Monkey, and Coffee Toffee Bar Crunch. In cosmetics, Nars’s top-selling pink- peach blush is called “Orgasm.” Launched in 1999, this product was a hit from the get-go. I dare say, customers fell in love with the name as much as they did with the shade. Tom Ford’s newest scent isn’t just fabulous, it’s Fucking Fabulous. 5 At $804 for 250 milliliters, it’s selling briskly. What woman in the world wouldn’t want to be thought of as such by her paramour? To settle on the right words to describe your company or products, you need to understand your audience. What might they be feeling before encountering your product? What stories do they tell themselves about the qualities your product might have and the benefits it might offer? Describe the emotional experience you want your product to provide. What do you want your customers to feel when they interact with your product? What do you want them to remember? 3. ARE THE WORDS YOU USE CENTRAL OR INCIDENTAL TO THE EXPERIENCES YOU WANT TO PROVIDE? Too often, in drafting papers, my students would fill the pages with exhaustive descriptions, only some of which were worth bringing to my attention. (Keep in mind that I had to grade more than a hundred papers, so I was particularly irritated by extraneous effort.) With all creative briefs (not to mention student papers), each word should count. Aesthetic articulation is not only about accurate communication but about powerful, appealing, and memorable expression. Clichés, canned statements, and business-speak do not further your case. Consider, for example, that most cable companies are notoriously bad at eliciting positive feelings through their communications. Look at Xfinity’s website, for example, and you’ll see detailed but perfunctory references to subscription packages based on features such as MbPS downloads, number of channels, and pricing. The site is rife with data but void of voice and personality. The company seems to view its customers as buyers of mechanical services rather than real people in search of entertainment options. Not surprisingly, Comcast historically has had the worst customer satisfaction rating of any company or government agency in the United States. In 2014, it was named the “Worst Company in America” by the now-defunct consumer affairs blog The Consumerist. 6 In 2016, Comcast paid a $2.3 million fine to resolve a federal investigation into allegations that it added charges to customer bills, including for unordered services, boxes, and digital video recorders. 7 In 2017, both J. D. Power and the financial news site 24/7 Wall St. 8 also named Comcast the worst company in America. 4. ARE YOUR WORDS IN KEEPING WITH THE OVERALL TONE YOU WANT TO SET FOR THE PRODUCT AND THE COMPANY? Do they reinforce not just product attributes and aesthetics but the company’s values? Consider the cooler maker Yeti’s anthem: “For the restless and determined, ‘nowhere’ is a state of mind—a drive to find the purest form of shared time, simple pleasures, and personal pursuit, whether that’s 15,000 feet above sea level or 1,000 miles past the last stoplight. It’s there that you’re standing alongside other untamable spirits who stake their truth in going the extra mile. Because like you, they believe nowhere is too far if it’s where you’d rather be.” 9 These words reinforce the idea that the company makes products that can be used every day, can stand up to bear attacks and harsh weather conditions, and are for people who have broad physical and emotional boundaries. The tone matches the products’ aesthetic intent. Why Are You Here? The Narrative Narration goes beyond individual words and defining phrases to encompass storytelling, history, company lore (and mythology), founding principles, reasons for being, and directions and instructions. These days most companies or products have an “About” section on their websites. People want to know with whom they are doing business. For companies with strong and long legacies, such as Tiffany and Chanel, history and lore are important parts of storytelling, of establishing credibility and trust, and of passing down information to the next generation, who may not be as familiar with the company’s heritage as their mother or grandmother would be. Relevance is also crucial for established brands, which is why Tiffany has a section on its website that is devoted to sustainability and responsible mining practices. 10 Whether or not you buy into its sustainability efforts, the company is still demonstrating a keen awareness of issues surrounding diamond sourcing and processing. In contrast, a company such as Sears/Kmart—with legacy galore—has proven incapable of conveying relevancy to its customers. When Sears and Kmart vanish completely, who will really miss them, or miss them for very long? If you cannot show why your product or your company needs to exist, you are doomed to disappear. And few will notice or care when you’re gone. For newer companies, compelling narration, especially in mature sectors, can reframe what consumers want to buy and create demand where there previously was none. This is achieved by emphasizing key differences compared to existing products, superior value to what’s available, and unique benefits consumers can’t get anywhere else. Of course, new companies charm us with the novelty and playfulness or sophisticated technology or style—delight that is in part a tribute to their newness. In this way newness can be presented as an advantage (new and exciting) rather than a negative (new and untested). The toothbrush upstart Quip’s “About” page lays out the company’s raison d’être this way: “to align with dentist advice and put what is best for
+>>>

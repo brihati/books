@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-020",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 131745,
+    "char_end": 139433,
+    "checksum": "999bed7941bd8212"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+imply pull on the “make the brother do something awful” lever and the audience will lean in even more. Storytellers use stakes as plot devices all the time, and in our journey to clarify our brand’s message, we can learn something from this proven tactic. The question we must then ask ourselves as we clarify our message is, What can be won or lost in our customers’ lives if they do or do not purchase our products? The only two motivated actions a hero can take in a story are to move away from something bad or move toward something good. Such is life. Our desire to avoid pain motivates us to seek a resolution to our problems. If a storyteller doesn’t clearly let an audience know what no-good,
+
+terrible, awful thing might befall their hero unless she overcomes her challenge, the story will have no stakes, and a story without stakes will lose favor with an audience—fast. As a rule, each scene in a movie must provide a clear answer to the “stakes” question—that is, What’s at stake in this scene for the hero? Every conversation, every chase scene, every sentimental and reflective montage should serve the movie in the same way: it must move the character either closer to or further from the tragic result that might befall them. We kept turning the pages of Charlotte Brontë’s Jane Eyre based on our suspicion that Edward Rochester was hiding something even darker than we first suspected. We sat on the edge of our seats in the movie Jaws because we knew that more citizens of Amity Island might be killed by the shark if Chief Martin Brody didn’t do something. Imagine a story in which nothing bad could befall the hero. Imagine a love story in which everything went well for the couple straight through to the beautiful and tension-free wedding. Imagine an action movie in which the bomb the hero had to destroy was actually a dud and nobody was ever in actual danger. Would an audience care? The lesson for those of us clarifying our brand message is this: brands that don’t paint the stakes fail to answer the “so what” question every customer is secretly asking. WHERE’S THE MAYHEM? Allstate Insurance’s long-running Mayhem campaign features dozens of commercials featuring actor Dean Winters humorously portraying various maladies such as raccoons in the attic or a raging fire started by a barbecue grill at a tailgating party. The idea is to humorously remind people why they need insurance. Mayhem, then, is always contrasted against the peaceful stability of life protected by Allstate, buttoned up with the reflective question, “Are you in good hands?” In 2015, Allstate, along with the advertising agency Leo Burnett, took the campaign to a terrifically entertaining level. During the Sugar Bowl on New Year’s Day, Allstate launched a campaign called Project Share Aware. The idea was to make people aware that sharing their whereabouts on social media might tip off criminals about when to burglarize their homes. To announce the project, Allstate found a real couple and led them to believe they’d won a prize. They visited the couple in their home, secretly taking pictures of their household items. Later, they recreated their home on a soundstage, complete with duplicates of their belongings. The couple was then invited to attend the Sugar Bowl and given their own private box. During the game, Mayhem began auctioning off the couple’s belongings on national television. People were directed to Mayhemsale.com for bargain- basement prices on everything from the couple’s used car to an old tuba. As the couple watched their possessions being sold on the big screens at the game, hidden cameras caught their reactions and broadcast their actual panic on live television. Of course, the couple’s actual possessions were safe. Nevertheless, the campaign agitated a fear in many Americans. In fact, news outlets all over the country, including ABC News, Wall Street Journal, and the New York Times, covered the story. Suddenly, the threat of criminals walking into our homes as we announce our distant whereabouts on social media became a national fear. The result of the campaign for Allstate? Mayhemsale.com received six to ten thousand hits per second immediately following each commercial. The site received more than eighteen million hits during the game. Also, #Mayhemsale trended in the top ten hashtags during the game, and immediately after the commercials aired, it surged to number one worldwide. Mayhem’s X followers (then Twitter) increased by twenty-four thousand during the game, and the first commercial of the campaign resulted in more than twenty million impressions on Facebook and almost seventy thousand likes.1 Allstate had, in the course of one football game, foreshadowed a potential failure (stakes) for their customers and sold an insurance product that would protect them, both opening a dark psychological story loop and offering a product to close it in a single campaign. Of course, we don’t all have access to the millions it takes to create a campaign like this, but the benefits of featuring the potential pitfalls of not doing business with us are much easier to include than we may think. Blog subjects, email content, and bullet points on our website can all include elements of potential failure to give our customers a sense of urgency when it comes to our products and services. WHAT’S THERE TO LOSE? As it relates to negative stakes in our marketing, the obvious question is, What will the customer lose if they don’t buy our products? Some of you just cringed. I understand. I used to cringe when I thought about “warning” my customers about imminent doom too. Why wouldn’t I? The last thing I want to be is a fearmonger, because it’s true that fearmongers can give customers the cringe. But fearmongering is not the problem 99.9 percent of business leaders struggle with. In our messaging, most of us actually generate the opposite dynamic in the minds of our customers because we don’t define the negative stakes of the story we are inviting customers into, and this presents us as uninteresting. Remember, if there are no stakes in the story, there is no story. In a good movie, you must be able to pause the screen and define what is at stake both in the overall story and in the specific scene itself. For instance, if we pause Jason Bourne midscene, we must be able to easily decipher that if he doesn’t figure out who he is and who is out to get him, the mysterious bad guys will win and he will die, and if he doesn’t get out of this house before the hit team shoots him, he will die here and now. In other words, there are stakes and then substakes at play from the first minute of the movie to the last. The same must be true in your marketing and messaging. If I am perusing your landing page, I must know what the stakes are if I do or don’t buy your product, and if you send me an email telling me about your product, there must be stakes in the email too. If you are giving me an elevator pitch, those stakes must be repeated. And by the way, if you are offering a lead-generating PDF, there must be stakes as to whether I download it; and if I do, there must be stakes as to whether I read it; and if I do read it, the stakes must be clear as to whether I buy your product and also whether I buy by midnight tonight. Too many stakes? Almost never. Can there be too many stakes in an action movie? And don’t you want the story you are inviting customers into to be as engaging as an action movie? Too many of our messaging campaigns play out with the slow-moving urgency of a French art film that has no commercial appeal save for the avant-garde, twenty-something wannabe-writer using the film to bolster
+>>>

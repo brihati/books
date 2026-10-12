@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-06-part-i-mastering-the-other-ai",
+  "chunk_id": "chapter-06-part-i-mastering-the-other-ai-chunk-019",
+  "source": {
+    "chapter_title": "Part I: Mastering the Other AI",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/06 - Part I Mastering the Other AI.txt",
+    "source_pages": "16-84",
+    "char_start": 111483,
+    "char_end": 119184,
+    "checksum": "b73d5a01059f1e0f"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ompany leadership, culture, and marketplace responded to different cues along the way. The archive might include samples or images of product designs (preferably chronologically presented, so the auditor can see how designs have evolved). But it should also include other visible elements (e.g., logos, mottos, ads, store plans). The next step is what I call “patterning.” What are some of the components that overlap or tie together the various products, segments, and historic chapters of the business? How does each of these visible elements stack up against the four criteria for strong codes (time- tested, precise and specific, ownable, and relevant)? How do the individual codes work together?
+
+Some may reinforce key values and ideas; others may undermine them. In the end, my advice to brand architects is to protect powerful codes at all costs. Companies get this wrong all the time. At one point, senior management of the Veuve Clicquot champagne brand debated whether the egg yolk–yellow label color was becoming tired, too ubiquitous, and whether it should be abandoned. Of course, the team rightfully decided against that option, but they did have the conversation. Creative companies like to stay current. They like to feel modern. And long-standing codes often make creative teams feel stuck in design decisions made decades or, in the case of Clicquot, centuries ago. The temptation is to shock the market with a new designer’s or team’s signature. However, this is generally ill conceived. The real challenge for the Clicquot team was not to find a new color but to find new and fresh ways to apply its age-old color. Most codes—if well developed and supported—are sacred. No matter how they’ve changed in size and position on signage, McDonald’s golden arches remain central to the brand’s identity and can be seen from great distances along highways across the United States. This is why I think it was a mistake for the New York Times to eliminate its slogan “All the news that’s fit to print,” from its online edition. Those are arguably the most famous seven words in journalism. The slogan, which dates back to 1897, corresponds with a host of powerful codes that the newspaper continues to employ—most notably its iconic font. From a rational perspective, the decision to eliminate the line makes sense; after all, the digital edition isn’t actually printed in the conventional sense of the word. And perhaps the Times had assumed that younger readers, who make up much of its digital base, don’t respond to nondigital (i.e., old-fashioned) cues. I don’t agree. The power of heritage and the differentiated codes that are best built with consistency and over long stretches of time resonate with people of all ages. In the end, I think the staff were too literal in their interpretation of its meaning and, as such, failed to respect the age-old and still very relevant values inherent in the term “fit to print.” The slogan serves as a powerful reminder of the newspaper’s editorial integrity and judgment. It transcends the reference to an old-fashioned technology (printing). When Gap changed its logo in 2010, it faced enormous criticism from consumers. It asked for other ideas from its fan base, but the social media campaign failed to elicit anything very good. The retailer went back to its roots and its original elegant, elongated letters. Arguably, the reversion was too little, too late. Testing the Strength of a Brand’s Codes For those who have completed a brand audit and identified clear patterns, icons, and possible codes, how can you test the strength of potential codes? One method is to show unaffiliated or unbiased people an advertisement or marketing campaign for your brand, concealing all references to your brand’s name, logo, or specific products. See if they can identify your company based on the displayed elements (e.g., color palettes, material choices, fonts, voice/tone/sound, and even location). That is the ultimate litmus test for a power brand built on clear, consistent, and ownable codes. Even if your company has strong, identifiable codes and a solid position in the market, remember that markets are dynamic and customers continually form new judgments. Loyalists can move away, and over time, new customers must be enticed in order for a business to sustain and grow —and remain relevant. The balancing act between keeping long-standing customers happy and attracting new ones who may have different expectations from existing patrons is an issue for all businesses. In the next chapter, we examine this and other common challenges and the aesthetic solutions for addressing them. Chapter 4 Designed to Last Aesthetic Strategies for Common Business Challenges Though no two companies face identical problems, inhibitors to growth and viability tend to come in recognizable patterns. And many of them are best tackled through what I call “aesthetic solutions.” Of the Fortune 500 1, companies in 1955, only sixty remained on the list in 2018. 2 Why do so few companies sustain their success? I would argue that, in short, the vast majority of companies play a game that they cannot win. Target cannot beat Walmart at Walmart’s game, just as Yahoo! could not beat Google at Google’s game. Yet, unlike Yahoo!, Target has remained relatively strong by playing its own game. In looking at classic business challenges, the solutions are generally not found in business school case studies or best-selling business books, which are typically oriented around highly structured frameworks, analytic tools, and dispassionate views about the marketplace; they are found in a profound and empathic understanding of your customers—not what they buy or where they shop but how they feel and what delights them—and a vision of how their pleasure can be enhanced not as shoppers but as humans. According to Clayton Christensen, a professor of business administration at Harvard Business School and one of the world’s top experts on innovation and growth, when we buy something, we are in effect “hiring” it to help us do a job (whether that’s finding something to make us look sexy for a date or putting something tasty and healthy into our kid’s lunch box). If the product does the job successfully, we will “hire” it again (in other words, buy it again). If it fails, we fire it. 3 We buy things because we want or need them to help us succeed in our endeavors no matter how mundane or grand. In other words, people, not machines, buy things. People are emotional and make decisions largely based upon how their purchases make them feel. The better they feel, the more engaged and loyal they are toward those products and brands. Christensen says companies miss this (and fail) because they make product and marketing decisions based on what he sees are false correlations between a buyer’s attributes (status, age, job, gender) and his or her buying decisions. Regardless of what business you’re in, I would advise you—as I do all businesspeople—to bring as much of yourself—your values, your personality, your style, and even your quirks—into the equation as possible. Why do you buy something? What feelings do you want your purchases to arouse? Why and how do the specific products and brands you favor achieve that sensation? What is wrong with those that fail you? Your personal opinion matters to your business. After all, you are a consumer, too, and you are an expert on yourself. Being you, and bringing all that is you into the process, is your greatest differentiator and, on a human level, what your customers will respond to most powerfully. You—including your personal beliefs and your individual tastes—are what form and reinforce
+>>>

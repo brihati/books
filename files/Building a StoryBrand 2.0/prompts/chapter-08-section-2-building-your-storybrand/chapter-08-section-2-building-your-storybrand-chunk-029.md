@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "building-a-storybrand-20",
+  "chapter_id": "chapter-08-section-2-building-your-storybrand",
+  "chunk_id": "chapter-08-section-2-building-your-storybrand-chunk-029",
+  "source": {
+    "chapter_title": "Section 2: Building Your StoryBrand",
+    "source_path": "/Users/sachin/books/files/Building a StoryBrand 2.0/chapters/08 - Section 2 Building Your StoryBrand.txt",
+    "source_pages": "55-165",
+    "char_start": 187514,
+    "char_end": 195170,
+    "checksum": "ef4e8174f69a61a5"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+e run as the manager of the A’s. The main purpose these scenes serve is to mark the transformation the hero has experienced so the audience has a point of reference that contrasts the hero’s character from the story’s beginning. The audience needs to be told very clearly how far the hero has come, especially since the hero usually struggles with crippling doubt right up until the end and they don’t even realize how much they have changed. The principle here is this: A hero needs somebody else to step into the story to tell them they’ve transformed. Heroes do not realize their transformation intuitively. They must be told by somebody else, and that somebody is the guide. That somebody is you.
+
+There are hundreds of thousands of financial advisers, and thousands of them have written books. Hundreds of those who’ve written books have podcasts or radio shows, and yet Dave Ramsey enjoys a wider popularity. Why? Well, certainly his advice is good. Nobody is attracted to incompetence. But I’m convinced it is the way he frames the customer’s journey as a narrative and participates in and then affirms their transformation that sets him apart. Also, his messaging is clear: short, simple sound bites. And he has been repeating those sound bites for years. IDENTITY TRANSFORMATION In the final module of your StoryBrand BrandScript, we’ve included a section that will allow you to define an identity transformation your customer may experience as they relate to your brand. Who does your customer want to become as they engage your products and services? At StoryBrand, we want our customers to become clear and precise communicators. When customers finish this book or conclude their time with one of our StoryBrand certified coaches, we want them to return to the office and have people wondering what happened to them. How did they become so messaging savvy? How did they become so clear in their thinking? Why are their messaging ideas so good? Did they suddenly get a PhD in persuasion? Similar to the success module of your StoryBrand BrandScript, the aspirational identity section answers a question about how the story ends, except instead of telling us where the story is going, it tells us who the hero has become. Brands that realize their customers are human, filled with emotion, driven to transform, and in need of help truly do more than sell products; they change people. Dave Ramsey changes people. Apple changes people. TOMS Shoes changes people. Gerber knives changes people. It’s no wonder brands like these have such passionate fans and do so well in the marketplace. The statement you want to finish in order to define an identity transformation for your customer is this: We help our customers go from “X” to “Y.” Let me explain. EXAMPLES OF IDENTITY TRANSFORMATION Thousands of StoryBrand clients have defined an aspirational identity for their customers and begun to participate in their transformation. Because of this, more and more companies are not just improving the world through their products and services; they’re actually improving the way their customers see themselves. Offering an aspirational identity adds enormous value to everything else that we offer. Here are some examples of aspirational identities from StoryBrand clients like you: PET FOOD BRAND From: Passive dog owner To: Every dog’s hero FINANCIAL ADVISER From: Confused and ill-equipped To: Competent and smart SHAMPOO BRAND From: Anxious and glum To: Carefree and radiant Have you thought about who you want your customer to become? Participating in your customer’s transformation can give new life and meaning to your business. When you identify an aspirational identity for your customers, your brand will not only transform customers but will begin to inspire and unite your own team. When your team realizes they sell more than products, that they guide people toward a stronger belief in themselves, their work will have greater meaning. Spend some time thinking about who you want your customers to become. How can you improve the way they perceive themselves? How can your brand participate in your customer’s identity transformation? CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN Go to StoryBrand.AI and either create a BrandScript or log in to your existing BrandScript. Brainstorm the aspirational identity of your customer. Who do they want to become? How do they want to be perceived by others? Use the “to” lines of your BrandScript to define an aspirational identity. Filling out the “from” line is then simple. It’s simply the opposite of whatever you define as their aspirational identity captured in the “to” line. OceanofPDF.com CHAPTER 12 DEFINE YOUR CONTROLLING IDEA Congratulations, you now have a StoryBrand BrandScript, which means you have seven categories of sound bites you can repeat over and over to grow your business. Trust me, you will be pleased at how quickly and how much these sound bites cause customers to pay attention to your brand. Orders will go up. After taking tens of thousands of businesses through the StoryBrand framework, though, I realized there was one element missing from the old BrandScript. I’ve added this element into the new BrandScript because I think it’s that important. In fact, this specific sound bite is so important that if you create only this one bit of copy I believe it will grow your business significantly. What is it? I call it the controlling idea. A good campaign begins and ends with a controlling idea. I first heard the term controlling idea when I was researching how to write a screenplay and found the idea helpful, not just in writing stories but in writing books and, well, wireframing websites. A controlling idea answers the question: What is this story about? The controlling idea for Disney’s The Lion King, a retelling of Shakespeare’s Hamlet in many ways, might be: a young lion must gain the confidence necessary to confront his evil uncle, who murdered his father, so that he can take his rightful place as king of the jungle and return order and life to his homeland. After a storyteller determines their controlling idea, they must submit all copy to that idea if the story is going to make their point and resonate with an audience. If our controlling idea involves a lost dog returning home to his family, who realize how much they loved the previously neglected dog, we should not include too many scenes about a food critic attempting to start their own restaurant. Both, to be sure, may be entertaining stories, but when we combine plots the audience has to burn too many mental calories trying to figure out what the story is about. In short, subplots aside, a good story will support only one major plot. Certainly a story can present multiple ideas, and those ideas are sometimes subjective, but very few stories are commercially successful if the plot is up for interpretation. Stories that have a singular focus, such as “an underdog having their day” or “good triumphing over evil”, gain much more popular appeal, if for no other reason than they require less mental effort to consume and enjoy. How the clarity of a controlling idea in a narrative relates to your brand message is simple. If I spend two minutes looking at your marketing collateral, I need to understand the main idea you are trying to communicate, and I need to be able to state it back to you clearly. For instance, one of the clients in my mastermind, Jeff Tomaszewski, owns a franchise of gyms called MaxStrength Fitness. As I reviewed Jeff’s website and marketing collateral, I struggled to understand what differentiated his gym from the thousands of others in North America.
+>>>

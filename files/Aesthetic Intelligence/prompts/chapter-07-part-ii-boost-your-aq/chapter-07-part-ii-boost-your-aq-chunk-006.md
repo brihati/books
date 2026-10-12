@@ -1,0 +1,44 @@
+Extract preservation notes for this book chunk.
+
+Rules:
+- Preserve concrete content: claims, examples, stories, names, dates, numbers, definitions, terms, and useful quotes.
+- Keep wording faithful to the source; do not add outside facts.
+- Quotes must be short and must appear in the chunk.
+- If a field has nothing meaningful, leave it as an empty list or empty string.
+- Return only valid JSON matching the schema.
+
+Schema:
+{
+  "book_id": "aesthetic-intelligence",
+  "chapter_id": "chapter-07-part-ii-boost-your-aq",
+  "chunk_id": "chapter-07-part-ii-boost-your-aq-chunk-006",
+  "source": {
+    "chapter_title": "Part II: Boost Your AQ",
+    "source_path": "/Users/sachin/books/files/Aesthetic Intelligence/chapters/07 - Part II Boost Your AQ.txt",
+    "source_pages": "85-156",
+    "char_start": 34199,
+    "char_end": 41878,
+    "checksum": "14a7c0370d6fc245"
+  },
+  "summary": "",
+  "key_points": [],
+  "arguments": [],
+  "examples": [],
+  "stories": [],
+  "definitions": [],
+  "names": [],
+  "dates": [],
+  "numbers": [],
+  "places": [],
+  "terms": [],
+  "quotes": [],
+  "actionable_lessons": [],
+  "open_questions": []
+}
+
+Chunk text:
+<<<
+ter all, good taste comes from within, and good style is exhibited by what I call the “four Cs”: clarity, consistency, creativity, and confidence. Does your appearance demonstrate a clear sense of who you are, what you value, and how your inner self connects to your outer persona? Do others associate you with a few consistent style or fashion markers or “codes,” per our earlier discussion on brands? Creativity is seen in the uniqueness of your codes. Are they identifiable markers? And are your strongest codes unique, original, and memorable? Working toward those Cs will not only help you strengthen your personal image but also create a valuable skill set for building your business interests.
+
+Many people look at “fashion” as frivolous or indulgent. Figuring out what to wear is often seen as a “first-world problem”—one that seems to overlook those who cannot afford to invest much money in their wardrobes. In my experience, the most stylish people are never those with the most money. If anything, extreme wealth dilutes the ability to edit down choices, make thoughtful trade-offs, and remain disciplined—three fundamental elements of good style. It’s a misconception that concern over one’s style is confined to a particular cluster of society—for example, twentysomething fashionistas living in cosmopolitan areas. I see people young and old, male and female, in every socioeconomic segment and every culture, who are concerned with their appearance and who present themselves in unique and interesting ways. Humans have an intrinsic impulse to decorate themselves in one way or another—from tattoos and piercings to jewelry to swaths of colorful fabric. We do it to please ourselves as well as to attract the attention of others. All forms of adornment symbolize our need to differentiate ourselves, express our ideas of beauty through our person, and claim our status or what we aspire it to be. This has a long history. In 2004, shell beads were unearthed from four sites in Morocco that seem to confirm that early humans were wearing and even trading symbolic jewelry as early as 80,000 years ago. These beads add to similar archaeological finds dating back as far as 110,000 years ago in Algeria, Morocco, Israel, and South Africa, confirming these as the oldest form of personal ornaments, indicating that there was a shared tradition of personal ornamentation that was passed along through cultures over thousands of years. 1 Each of us also has innate preferences for how we dress (and accessorize —or not). How our choices come together form what we think of as “style,” whether we are deliberately trying to make a style statement or not. I’m very intentional about how I put myself together, and I have cultivated, edited, and evolved my “look” over many years. I would describe it as “A Tale of Two Cities and Two Centuries.” On the one hand, I typically pay homage through my clothing and accessories to my two grandmothers, both of whom came of age in the early part of the twentieth century in Central Europe and whose tastes were heavily influenced by the ideals of the Habsburg Empire. Early on, I was unaware of my grandmothers’ effect on my style, but over time, I came to realize that my clear and consistent attraction to objects connoting glamour, formality, and nobility were references to their upbringings in Vienna and Frankfurt, infused with the oriental richness and resplendence of Istanbul. What’s more, I gravitate toward vintage and handmade items—things that are crafted by highly specialized artisans and that are difficult to make, hard to find, and last forever. Old World European goods embody these qualities. As for that “second city,” I am a lifelong New Yorker. I have lived in a few other cities over the years but have never felt at home anywhere but in New York. So naturally I am drawn to pieces that feel like my hometown— ones that are cool, modern, bold, and sexy. I like silhouettes that are structured and sculptural but are still sumptuous, cozy, and relaxed. I’m not afraid to stand out; I rather like it. After all, in New York it takes effort to get attention! And, last, like the city itself, I like humor. I like surprises. I like to play. As a result, I often layer whimsical, unexpected pieces—clear Plexiglas bangles, a lip-shaped red belt, a champagne bucket clutch, or a pink fur collar—onto more classic underpinnings such as my black leather A-line dress from Dior. Your personal style is not simply a reflection of what you happen to like, admire, or are drawn to; it is also, and maybe more important, a reflection of your surroundings, key influences, and cultural context. It is important to understand why you are drawn to those particular things and whether or not you want to actually don the items toward which you gravitate. Much like my cultural affiliations with contemporary New York and Old World Europe, your cultural connections may inform what you choose to wear. Moreover, you may appreciate a certain look on someone else but choose a very different look for yourself. Your style should be based on what feels right and comfortable on you. In the process of dissecting your style, I encourage you to think about your own circumstances. Who were the main influences in your life—the ones who set your ideals and standards? When and where did you come of age? What was happening at that time and in that place that might have shaped your values and comforted or energized you? What external factors might have turned you off? When I came of age in the United States in the 1990s, one of the big fashion trends was “grunge.” I hated that look. It struck me as dirty, sloppy, and indifferent. To this day, you will not find one item in my possession that is reminiscent of the grunge movement. If anything, most of my choices are in defiance of grunge. Same goes for 1980s punk rock. As I mentioned before, I like attention, so I dress to stand out. That is what feels right for me. I have friends who are much more conservative. They dress to fit in and blend in. That is what feels right to them. I can appreciate their fine taste—their choices are not cheap or crude, but I would not want to replicate them. I also have friends and colleagues who are far more eclectic than I am. They mix colors and patterns that—to me—result in an over-the-top, clownish look. I admire their originality and spunk but would not want to replicate them, either. There is no shortage of larger-than-life and zany personalities in the fashion business, but there is perhaps no one who is more consistently madcap than Iris Apfel. Born in Queens in 1921 (she turned ninety-seven in August 2018), Apfel has worked in many aspects of the design and fashion business, including an early stint at Women’s Wear Daily. In 1950, two years after she married her fiancé and traveled around the world with him, the couple launched a textile business called Old World Weavers. It started small, sourcing unusual and handmade fabrics from around the world, and eventually became one of the most respected textile firms in the industry because of its precise and detailed fabric restoration and replication. But Apfel is perhaps most famous for being one of fashion’s authentic eccentrics. Known for layering large jewels over feather stoles or intricate coats and shawls—and for her signature outsized round glasses—Apfel is a testament to the late designer Tony Duquette’s mantra that “More is more.” She’s also the oldest person to have a Barbie doll made in her image. 2 I admire Apfel’s style—her bold and inventive choices—but it doesn’t suit me. On me, her pieces would be off-kilter. The glasses, earrings, and
+>>>

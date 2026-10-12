@@ -1,0 +1,83 @@
+{
+  "book_id": "building-a-storybrand-20",
+  "target_chars": 7000,
+  "overlap_chars": 700,
+  "chunk_count": 66,
+  "chapters": [
+    {
+      "chapter_id": "chapter-01-title-page",
+      "title": "Title Page",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-02-copyright",
+      "title": "Copyright",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-03-contents",
+      "title": "Contents",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-04-want-your-entire-team-to-understand-the-storybra",
+      "title": "Want Your Entire Team to Understand the StoryBrand Framework?",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-05-note-from-the-author-on-this-updated-edition",
+      "title": "Note from the Author on This Updated Edition",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-06-introduction",
+      "title": "Introduction",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-07-section-1-why-most-marketing-is-a-money-pit",
+      "title": "Section 1: Why Most Marketing Is A Money Pit",
+      "chunk_count": 10
+    },
+    {
+      "chapter_id": "chapter-08-section-2-building-your-storybrand",
+      "title": "Section 2: Building Your StoryBrand",
+      "chunk_count": 30
+    },
+    {
+      "chapter_id": "chapter-09-section-3-executing-your-storybrand-messaging-an",
+      "title": "Section 3: Executing Your StoryBrand Messaging and Marketing Campaign",
+      "chunk_count": 13
+    },
+    {
+      "chapter_id": "chapter-10-afterword",
+      "title": "Afterword",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-11-acknowledgments",
+      "title": "Acknowledgments",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-12-about-the-author",
+      "title": "About the Author",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-13-praise-for-the-storybrand-framework",
+      "title": "Praise for the StoryBrand Framework",
+      "chunk_count": 2
+    },
+    {
+      "chapter_id": "chapter-14-storybrand-resources",
+      "title": "StoryBrand Resources",
+      "chunk_count": 1
+    },
+    {
+      "chapter_id": "chapter-15-notes",
+      "title": "Notes",
+      "chunk_count": 1
+    }
+  ]
+}

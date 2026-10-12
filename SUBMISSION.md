@@ -2,13 +2,13 @@
 
 ## Team
 
-- Team name: TODO
-- Participants: Sachin
+- Team name: Book Lovers
+- Participants: Brihati
 - Wiki / project name: BookWiki
 
 ## Wiki Overview
 
-BookWiki is an LLM knowledge wiki for preserved books. It ingests chapter summaries, note packets, concepts, and source metadata from a local book preservation pipeline, turns them into linked wiki pages, and optionally stores the same durable memory in Cognee. Users can query across books, inspect cited source hits, and promote useful answers into reusable playbooks. The wiki self-improves by keeping recent query/session events in Redis, then distilling high-signal results into persistent wiki pages and Cognee memory.
+BookWiki is an LLM knowledge wiki for preserved books. It ingests chapter summaries, note packets, concepts, and source metadata from a local book preservation pipeline, turns them into linked wiki pages, and stores the same durable memory in Cognee. Users can query across books, inspect cited source hits, and promote useful answers into reusable playbooks. The wiki self-improves by keeping recent query/session events in Redis, then distilling high-signal results into persistent wiki pages and Cognee memory.
 
 - Domain or data sources: Preserved nonfiction/business books from the local `files/` book pipeline, with the demo focused on `The Mom Test`.
 - Primary use case: Ask decision questions across books and turn useful answers into reusable, cited playbooks.
@@ -81,7 +81,7 @@ After:
         |
         | distillation: query briefs and useful answers are promoted
         v
-[ Cognee - permanent graph ]   <- durable cross-session memory when enabled
+[ Cognee - permanent graph ]   <- durable cross-session memory
         |
         v
 [ markdown wiki ]              <- books, concepts, queries, playbooks, lint
@@ -145,13 +145,23 @@ docker run -d --name bookwiki-redis -p 6379:6379 redis:8.0.2
 .venv/bin/python tools/cognee_bookwiki.py query "What does The Mom Test say about compliments and commitments?" --books "The Mom Test" --limit 3 --use-cognee
 ```
 
-Environment variables required:
+Environment variables:
 
-```text
-LLM_API_KEY
-OPENAI_API_KEY
-REDIS_URL
+```bash
+# Required for Redis-backed session memory.
+# The tool defaults to this value when REDIS_URL is not set.
+export REDIS_URL="redis://localhost:6379/0"
+
+# Required only for the optional --use-cognee commands.
+export OPENAI_API_KEY="sk-..."
+
+# Cognee-compatible aliases. The CLI automatically falls back to OPENAI_API_KEY
+# for these when they are not set, but setting them explicitly is also valid.
+export LLM_API_KEY="$OPENAI_API_KEY"
+export EMBEDDING_API_KEY="$OPENAI_API_KEY"
 ```
+
+The CLI also loads the same keys from a local `.env` file at the repository root. Do not commit real API keys.
 
 ## Demo
 
@@ -180,8 +190,7 @@ REDIS_URL
 
 ## Links
 
-- Repo: TODO
-- Slides / writeup: TODO
+- Repo: https://github.com/brihati/
 - Anything else:
   - Local wiki index: `wiki/index.md`
   - Mom Test demo script: `demos/momtest_self_improve.sh`
